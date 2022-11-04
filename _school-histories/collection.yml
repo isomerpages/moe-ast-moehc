@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Hua Kiau School.md
       - School Histories/Hua Yi Primary School.md
       - School Histories/Hua Yi Secondary School.md
       - School Histories/Huamin Primary School.md
