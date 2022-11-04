@@ -9,7 +9,7 @@ description: ""
 <img style="width:85%" src="/images/virtualtour.png">  
 </a></p>
 
-<figure>
-<figcaption>  Click here to begin Virtual Tour
- </figcaption>
-</figure>
+|  |
+|:---:|
+| **[Click here to begin Virtual Tour](https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour)** |
+|  |
