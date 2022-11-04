@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Temasek Secondary School.md
       - School Histories/The Chinese High School.md
       - School Histories/The Happy School.md
       - School Histories/Thong Kheng School.md
