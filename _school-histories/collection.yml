@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Damai Primary School.md
       - School Histories/Damai Secondary School.md
       - School Histories/Da Zhong Primary School.md
       - School Histories/De La Salle School.md
