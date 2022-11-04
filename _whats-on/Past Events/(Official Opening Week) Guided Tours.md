@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **[Official Opening Week] Guided Tours**
-07 Sep 2022 | 1 min read
+07 Sep 2022 I 1 min read
 
 Want to join a traditional guided tour instead? Come for our docent-led tours to hear the Singapore Education Story from our experienced docents!
 
