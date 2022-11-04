@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Woodlands Primary School.md
       - Woodlands Ring Primary School.md
       - Woodlands Ring Secondary School.md
       - Woodlands Secondary School.md
