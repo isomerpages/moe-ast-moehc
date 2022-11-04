@@ -2,8 +2,8 @@ collections:
   whats-on:
     output: true
     order:
-      - "Upcoming Events/United We Stand: Fighting COVID19 Together.md"
-      - Upcoming Events/Upcoming Events.md
       - Upcoming Events/.keep
+      - Upcoming Events/Upcoming Events.md
+      - "Upcoming Events/United We Stand: Fighting COVID19 Together.md"
       - Past Events/Past Events.md
       - Past Events/.keep
