@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Nan Hua Primary School.md
       - School Histories/Nanyang Girls' High School.md
       - School Histories/Nanyang Junior College.md
       - School Histories/Nanyang Primary School.md
