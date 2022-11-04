@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Xi Shan Primary School.md
       - Yang Zheng Primary School.md
       - Yew Tee Primary School.md
       - Yio Chu Kang Primary School.md
