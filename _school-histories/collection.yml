@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Holy Innocents' High School.md
       - School Histories/Holy Innocents' Primary School.md
       - School Histories/Hong Kah Primary School.md
       - School Histories/Hong Kah Secondary School.md
