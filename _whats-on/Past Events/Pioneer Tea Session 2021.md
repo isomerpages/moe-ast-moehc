@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **Pioneer Tea Session 2021**
-17 Sep 2021 | 1 min read
+17 Sep 2021 I 1 min read
 
 Calling all MOE Pioneers!
 
