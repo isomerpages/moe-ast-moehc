@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Delta East Primary School.md
       - School Histories/Delta Primary School.md
       - School Histories/Delta Secondary School.md
       - School Histories/Delta West Primary School.md
