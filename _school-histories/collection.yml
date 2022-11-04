@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Henderson Secondary School.md
       - School Histories/Heng A Khe Bong School.md
       - School Histories/Henry Park Primary School.md
       - School Histories/Hillgrove Secondary School.md
