@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Fairfield Methodist School (Primary).md
       - School Histories/Fairfield Methodist School (Secondary).md
       - School Histories/Fajar Secondary School.md
       - School Histories/Farrer Park Primary School.md
