@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Collection.md
+      - Books/Outlines of Geography.md
       - Books/History Through the Ages.md
       - Books/Nipponese Self Taught.md
       - Books/Japanese Conversation Textbook.md
