@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Woodsville Secondary School.md
       - School Histories/Xianglin Primary School.md
       - School Histories/Xinghua Primary School.md
       - School Histories/Xingnan Primary School.md
