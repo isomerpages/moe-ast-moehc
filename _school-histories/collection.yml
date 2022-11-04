@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Northbrooks Secondary School.md
       - School Histories/Northland Primary School.md
       - School Histories/Northland Secondary School.md
       - School Histories/Northlight School.md
