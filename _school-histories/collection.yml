@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Serangoon Garden Secondary School.md
       - Serangoon Garden South School.md
       - Serangoon Garden Technical School.md
       - Serangoon Junior College.md
