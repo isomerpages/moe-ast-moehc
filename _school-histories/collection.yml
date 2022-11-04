@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Springdale Primary School.md
       - Springfield Secondary School.md
       - St Andrew's Junior College.md
       - St Andrew's Junior School.md
