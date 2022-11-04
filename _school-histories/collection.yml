@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Tanjong Rhu Primary School.md
       - Tao Nan School.md
       - Teck Ghee Primary School.md
       - Teck Whye Primary School.md
