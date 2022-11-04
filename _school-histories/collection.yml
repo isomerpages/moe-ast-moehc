@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Tampines Primary School.md
       - Tampines Secondary School.md
       - Tanglin Girls' School.md
       - Tanglin Primary School.md
