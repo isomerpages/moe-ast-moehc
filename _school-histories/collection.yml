@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Rulang Primary School.md
       - School Histories/San Shan Primary School.md
       - School Histories/Sang Nila Utama Secondary School.md
       - School Histories/Selegie Primary School.md
