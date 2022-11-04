@@ -54,13 +54,13 @@ We will be accepting submissions from now until 31 March 2022.
 By making a submission for the Campaign:<br><br>
 1. You acknowledge that you have read, understood and agree to be bound by these terms and conditions (“T&Cs”);<br><br>
 	
-2\. You represent and warrant that:<br>
+2. You represent and warrant that:<br>
 *   you own the story and/or object ('Contributions') described in your submission; and<br>
 *   the Contributions are original and were written/taken by you, and do not infringe on the copyright or other intellectual property rights of any person;	<br><br>
 	
-3\. You continue to own the rights to Contributions and can continue to use them for any purposes and also to share them with others.<br><br>
+3. You continue to own the rights to Contributions and can continue to use them for any purposes and also to share them with others.<br><br>
 	
-4\. You agree that the Ministry of Education Heritage Centre (MOE HC) can do the following with the Contributions:<br>
+4. You agree that the Ministry of Education Heritage Centre (MOE HC) can do the following with the Contributions:<br>
 *   Archive it as part of the MOE HC's collection if so decided by MOE HC. You understand that MOE HC will not be able to archive all the Contributions received so some, including yours, may not be retained by MOE HC.<br>
 *   MOE HC is free to decide whether and how to use the Contributions, including having the right to modify, adapt the same for any of MOE's programmes, including but not limited to the internet and succeeding platforms, mobile applications, interactive kiosks, programmes, the production of books or merchandise or services that promote culture, history or learning.	
 </p>  
