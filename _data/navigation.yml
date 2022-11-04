@@ -4,5 +4,15 @@ links:
     collection: home
   - title: Visit
     collection: visit
+  - title: What's On
+    collection: whats-on
+  - title: Resources
+    collection: resources
+  - title: Explore
+    collection: explore
   - title: School Histories
     url: /school-histories/
+  - title: Contact Us
+    url: /permalink
+  - title: Useful Links
+    url: /permalink
