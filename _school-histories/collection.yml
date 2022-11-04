@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Westwood Secondary School.md
       - Whampoa Secondary School.md
       - White Sands Primary School.md
       - Whitley Secondary School.md
