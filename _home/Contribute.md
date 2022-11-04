@@ -15,11 +15,11 @@ The COVID-19 pandemic has greatly affected our lives in Singapore and that inclu
 
 Examples:
 
-<img src="/images/contribute1.jpg" style="width:66%;margin-right:15px;" align = "left">Customized masks by students.
+<img src="/images/contribute1.jpg" style="width:65%;margin-right:15px;" align = "left"><br><br><br><br>Customized masks by students.
 
 <br clear="left">
 
-<img src="/images/contribute2.jpg" style="width:66%;margin-right:15px;" align = "left">Images of school staff cleaning and disinfecting the campus.
+<img src="/images/contribute2.jpg" style="width:65%;margin-right:15px;" align = "left"><br><br><br><br>Images of school staff cleaning and disinfecting the campus.
 
 <br clear="left">
 
