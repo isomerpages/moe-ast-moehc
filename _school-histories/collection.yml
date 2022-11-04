@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Opera Estate Girls' Primary School.md
       - School Histories/Opera Estate Primary School.md
       - School Histories/Orchid Park Secondary School.md
       - School Histories/Outram Institute.md
