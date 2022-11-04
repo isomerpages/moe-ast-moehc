@@ -128,9 +128,14 @@ The Singapore Teaching Practice, a model of teaching and learning built on past 
 	
 -image-
 	
-<b>2020: Launch of SkillsFuture for Educators (SFEd)</b>	
+<b>2020: Launch of SkillsFuture for Educators (SFEd)</b><br>	
+In line with the “Learn for Life” movement, SkillsFuture for Educators (SFEd) serves as a professional development (PD) roadmap for teachers to focus their efforts in prioritised Areas of Practice according to four levels of Practice in each area.<br><br>
+
+Launched in 2020, SFEd supports the continuing professional growth of our teachers.
 	
-	
+<b>Into the Future...and Beyond</b><br>
+The effort to develop teachers into skilful professionals, able to bring out the best in every child, is a relentless one. As the education system evolves to meet future needs, so too must teachers, as each generation builds on the foundations of the last.	
+
 </p>  
   
 </div>  
