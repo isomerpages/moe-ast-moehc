@@ -2,5 +2,6 @@ collections:
   whats-on:
     output: true
     order:
+      - Past Events/.keep
       - Upcoming Events.md
       - Past Events.md
