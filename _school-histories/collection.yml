@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Eunoia Junior College.md
       - School Histories/Eunos Primary School.md
       - School Histories/Evergreen Primary School.md
       - School Histories/Evergreen Secondary School.md
