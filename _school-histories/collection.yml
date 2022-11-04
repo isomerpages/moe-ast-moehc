@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Da Zhong Primary School.md
       - School Histories/De La Salle School.md
       - School Histories/Delta Circus Primary School.md
       - School Histories/Delta East Primary School.md
