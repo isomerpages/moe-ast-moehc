@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Raffles Girls' Primary School.md
       - School Histories/Raffles Girls' School.md
       - School Histories/Raffles Institution.md
       - School Histories/Raffles Junior College.md
