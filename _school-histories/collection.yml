@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Ghim Moh Primary School.md
       - School Histories/Ghim Moh Secondary School.md
       - School Histories/Gongshang Primary School.md
       - School Histories/Greendale Primary School.md
