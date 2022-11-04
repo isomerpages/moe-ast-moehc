@@ -15,6 +15,6 @@ Join us for this special dramatised tour of the new MOE Heritage Centre, happeni
 
 Register here: [https://go.gov.sg/moehc-opening](https://go.gov.sg/moehc-opening) **form is unavailable**
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pastevent10.png">  
 <img style="width:65%" src="/images/pastevent10.png">  
 </a></p>
