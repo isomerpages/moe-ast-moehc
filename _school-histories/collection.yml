@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/St Joseph's Institution Junior.md
       - School Histories/St Patrick's School.md
       - School Histories/St Thomas Secondary School.md
       - School Histories/St Anthony's Primary School.md
