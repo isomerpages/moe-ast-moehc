@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Tanglin Girls' School.md
       - Tanglin Primary School.md
       - Tanglin Secondary School.md
       - Tanjong Katong Girls' School.md
