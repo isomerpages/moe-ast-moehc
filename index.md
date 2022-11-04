@@ -37,4 +37,5 @@ sections:
       title: Stay Updated!
       button: Subscribe to our Mailing List
       url: https://form.gov.sg/#!/5d5ce49deae0bb00128b8ef5
+      subtitle: MOE HEritage Centre
 ---
