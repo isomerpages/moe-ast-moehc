@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Innova Primary School.md
       - School Histories/Jagoh Primary School.md
       - School Histories/Jalan Daud School.md
       - School Histories/Jalan Kayu Primary School.md
