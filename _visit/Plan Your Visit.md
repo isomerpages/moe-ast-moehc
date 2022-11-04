@@ -24,7 +24,8 @@ The new MOE Heritage Centre is located within MOEHQ (Balestier).
 
 **need help inserting google map**
 
-**Address:** 565 Balestier Road, Singapore 329927 | Block C, Level 1
+**Address:**<br>
+565 Balestier Road, Singapore 329927 | Block C, Level 1
 
 ### **Getting to MOEHQ (Balestier)**
 There are 2 entrances to MOEHQ (Balestier), one along **Balestier Road** and one along **Novena Rise**.
