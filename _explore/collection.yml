@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Learning in the 19th and Early 20th Century.md
       - The Japanese Occupation.md
       - Restoring Education After World War II.md
       - Our Journey to Nationhood/Our Journey to Nationhood (1959 to 1996).md
