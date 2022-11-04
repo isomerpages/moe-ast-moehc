@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Beginnings of Education/Restoring Education After World War II.md
       - Beginnings of Education/.keep
       - Beginnings of Education (1819 to 1958).md
       - Learning in the 19th and Early 20th Century.md
