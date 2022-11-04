@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/River Valley High School.md
       - School Histories/River Valley Primary School.md
       - School Histories/Riverside Primary School.md
       - School Histories/Riverside Secondary School.md
