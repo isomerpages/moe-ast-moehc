@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Waterloo School.md
       - School Histories/Waterway Primary School.md
       - School Histories/Wellington Primary School.md
       - School Histories/West Grove Primary School.md
