@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Joo Avenue School.md
       - School Histories/Jubilee Primary School.md
       - School Histories/Junyuan Primary School.md
       - School Histories/Junyuan Secondary School.md
