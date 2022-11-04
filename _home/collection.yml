@@ -2,5 +2,6 @@ collections:
   home:
     output: true
     order:
+      - About Us.md
       - Contribute.md
       - Takedown Policy.md
