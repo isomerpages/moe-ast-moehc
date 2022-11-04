@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Trafalgar School.md
       - School Histories/Tuan Mong High School.md
       - School Histories/Tun Seri Lanang Secondary School.md
       - School Histories/Umar Pulavar Tamil School.md
