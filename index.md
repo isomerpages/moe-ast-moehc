@@ -45,8 +45,9 @@ sections:
       image: /images/infobar3.png
       alt: Image alt text
   - infobar:
-      title: Stay Updated!
+      title: Stay Updated
       button: Subscribe to our Mailing List
       url: https://form.gov.sg/#!/5d5ce49deae0bb00128b8ef5
       subtitle: MOE HEritage Centre
+      description: Be the first to know of upcoming events!
 ---
