@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Yung An Primary School.md
       - School Histories/Yuqun Primary School.md
       - School Histories/Yusok Ishak Secondary School.md
       - School Histories/Yuying Secondary School.md
