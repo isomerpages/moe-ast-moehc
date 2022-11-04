@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Tanjong Rhu Boy's School.md
       - School Histories/Tanjong Rhu Girls' School.md
       - School Histories/Tanjong Rhu Primary School.md
       - School Histories/Tao Nan School.md
