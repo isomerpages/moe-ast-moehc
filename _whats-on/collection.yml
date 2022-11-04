@@ -1,4 +1,5 @@
 collections:
   whats-on:
     output: true
-    order: []
+    order:
+      - Past Events.md
