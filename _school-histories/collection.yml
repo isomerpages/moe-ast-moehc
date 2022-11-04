@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Poi Ching School.md
       - School Histories/Presbyterian High School.md
       - School Histories/Princess Elizabeth Primary School.md
       - School Histories/Pulau Tekong Primary School.md
