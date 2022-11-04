@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **[Official Opening Week] Pixel Art Workshop**
-03 Sep 2022 | 1 min read
+03 Sep 2022 I 1 min read
 
 Join teacher Mr Tay Li-Cheng to learn how to make pixel art in the style of retro video games!
 
