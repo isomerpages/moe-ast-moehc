@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Mount Vernon Secondary School.md
       - School Histories/Mountbatten Primary School.md
       - School Histories/Nam San School.md
       - School Histories/Nan Chiau High School.md
