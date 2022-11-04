@@ -15,6 +15,6 @@ Want to join a traditional guided tour instead? Come for our docent-led tours to
 
 Register here: [https://go.gov.sg/moehc-opening](https://go.gov.sg/moehc-opening) **unavailable form**
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pastevent9.png">  
 <img style="width:65%" src="/images/pastevent9.png">  
 </a></p>
