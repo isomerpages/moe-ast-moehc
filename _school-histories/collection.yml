@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Jervois West Primary School.md
       - School Histories/Jiemin Primary school.md
       - School Histories/Jin Shan Primary School.md
       - School Histories/Jin Tai Primary School.md
