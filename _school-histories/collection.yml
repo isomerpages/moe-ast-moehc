@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Hua Yi Secondary School.md
       - School Histories/Huamin Primary School.md
       - School Histories/Hwa Chong Institution.md
       - School Histories/Hwa Chong Junior College.md
