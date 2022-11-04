@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Eunos Primary School.md
       - School Histories/Evergreen Primary School.md
       - School Histories/Evergreen Secondary School.md
       - School Histories/Fairfield Methodist School (Primary).md
