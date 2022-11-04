@@ -2,5 +2,7 @@ logo: /images/logo.svg
 links:
   - title: Home
     collection: home
+  - title: Visit
+    collection: visit
   - title: School Histories
     url: /school-histories/
