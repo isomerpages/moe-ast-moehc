@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Chua Chu Kang Primary School.md
       - School Histories/Chua Chu Kang Secondary School.md
       - School Histories/Chung Cheng High School (Main).md
       - School Histories/Chung Cheng High School (Yishun).md
