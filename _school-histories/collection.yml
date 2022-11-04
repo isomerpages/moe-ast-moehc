@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Chongzheng Primary School.md
       - School Histories/Christ Church Secondary School.md
       - School Histories/Chua Chu Kang Government Chinese Primary School.md
       - School Histories/Chua Chu Kang Malay School.md
