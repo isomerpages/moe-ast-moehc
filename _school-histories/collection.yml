@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - West Hill School.md
       - West Spring Primary School.md
       - West Spring Secondary School.md
       - West View Primary School.md
