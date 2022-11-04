@@ -4,3 +4,8 @@ permalink: /whats-on/past-events/11/
 description: ""
 third_nav_title: Past Events
 ---
+### **[3 to 10 Sep 2022: Official Opening Week] Self-guided activities**
+
+<p><a href="">  
+<img style="width:65%" src="/images/stand.jpg">  
+</a></p>
