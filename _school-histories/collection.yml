@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Singapore Sports School.md
       - South View Primary School.md
       - Spectra Secondary School.md
       - Springdale Primary School.md
