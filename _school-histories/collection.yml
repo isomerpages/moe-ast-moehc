@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - White Sands Primary School.md
       - Whitley Secondary School.md
       - Willow Avenue Secondary School.md
       - Woodgrove Primary School.md
