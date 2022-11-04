@@ -2,5 +2,6 @@ collections:
   school-histories:
     output: true
     order:
+      - Zhenghua Secondary School.md
       - Zhonghua Primary School.md
       - Zhonghua Secondary School.md
