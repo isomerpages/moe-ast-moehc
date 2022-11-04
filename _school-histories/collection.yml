@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Clementi Primary School.md
       - School Histories/Clementi Town Primary School.md
       - School Histories/Clementi Town Secondary School.md
       - School Histories/Clementi Woods Secondary School.md
