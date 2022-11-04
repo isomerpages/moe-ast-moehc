@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/St Andrew's Junior School.md
       - School Histories/St Andrew's Secondary School.md
       - School Histories/St Anthony's Canossian Primary School.md
       - School Histories/St Anthony's Canossian Secondary School.md
