@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Collection.md
+      - Books/Tropical Hygiene Part I.md
       - Books/Outlines of Geography.md
       - Books/History Through the Ages.md
       - Books/Nipponese Self Taught.md
