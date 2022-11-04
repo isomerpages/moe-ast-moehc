@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Jurongville Secondary School.md
       - School Histories/Juying Primary School.md
       - School Histories/Juying Secondary School.md
       - School Histories/Kallang Primary School.md
