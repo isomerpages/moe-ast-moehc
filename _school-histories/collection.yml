@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Greendale Primary School.md
       - School Histories/Greendale Secondary School.md
       - School Histories/Greenridge Primary School.md
       - School Histories/Greenridge Secondary School.md
