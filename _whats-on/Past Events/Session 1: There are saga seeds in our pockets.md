@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **Session 1: There are saga seeds in our pockets**
-03 Dec 2021 | 1 min read
+03 Dec 2021 I 1 min read
 
 This Children's Season, go ‘back to old school’ with us in two lively online storytelling sessions.
 
