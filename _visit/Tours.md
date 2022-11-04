@@ -5,6 +5,8 @@ description: ""
 ---
 ![](/images/tours1.jpg)
 
+### **Tours**
+
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -31,7 +33,7 @@ Scheduled guided tours of MOE Heritage Centre is conducted during school holiday
 <div>  
   
 <p>
-Please write in to [MOE_Heritage_Centre@moe.gov.sg](mailto:MOE_Heritage_Centre@moe.gov.sg) for any tour requests. Confirmation of tour slot is subjected to availability of docents.
+Please write in to MOE_Heritage_Centre@moe.gov.sg for any tour requests. Confirmation of tour slot is subjected to availability of docents.
 </p>  
 
 </div>  	
