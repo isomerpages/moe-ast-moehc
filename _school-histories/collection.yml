@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Mayflower Secondary School.md
       - School Histories/Mee Toh School.md
       - School Histories/Mei Chin Primary School.md
       - School Histories/Mei Chin Secondary School.md
