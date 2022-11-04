@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Yio Chu Kang Secondary School.md
       - Yishun Innova Junior College.md
       - Yishun Junior College.md
       - Yishun Primary School.md
