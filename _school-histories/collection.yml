@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Park Road School.md
       - School Histories/Park View Primary School.md
       - School Histories/Paya Lebar Methodist Girls' School (Primary).md
       - School Histories/Paya Lebar Methodist Girls' School (Secondary).md
