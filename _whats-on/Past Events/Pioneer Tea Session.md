@@ -14,4 +14,3 @@ Here are some activities lined up for the day:
 * Chair Aerobics by PESTA
 * Ukulele Performance
 * Craft activities & more!
-
