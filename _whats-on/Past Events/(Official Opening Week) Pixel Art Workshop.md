@@ -17,6 +17,6 @@ Register here: [https://go.gov.sg/moehc-opening](https://go.gov.sg/moehc-openin
 
 \*Note: Materials will be provided but participants who have their own iPads and Apple pencil are encouraged to bring their own. Also - spot Mr Tay's pixel art in our special exhibition!  
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pastevent8.png">  
 <img style="width:65%" src="/images/pastevent8.png">  
 </a></p>
