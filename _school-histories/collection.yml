@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Dunman High School.md
       - School Histories/Dunman Secondary School.md
       - School Histories/East Coast Primary School.md
       - School Histories/East Payoh Secondary School.md
