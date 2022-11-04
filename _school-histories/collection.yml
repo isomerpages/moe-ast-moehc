@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Meridian Junior College.md
       - School Histories/Meridian Primary School.md
       - School Histories/Meridian Secondary School.md
       - School Histories/Merlimau Primary School.md
