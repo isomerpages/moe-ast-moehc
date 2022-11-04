@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Norfolk Primary School.md
       - School Histories/North Spring Primary School.md
       - School Histories/North View Primary School.md
       - School Histories/North View Secondary School.md
