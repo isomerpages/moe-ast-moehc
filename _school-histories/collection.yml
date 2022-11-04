@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/St Gabriel's Primary School.md
       - School Histories/St Gabriel's Secondary School.md
       - School Histories/St Hilda's Primary School.md
       - School Histories/St Hilda's Secondary School.md
