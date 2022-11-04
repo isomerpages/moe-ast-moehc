@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Our Teaching Education and Development Journey.md
       - Our School Building Heritage.md
       - Our School Day Memories.md
       - Collection/.keep
