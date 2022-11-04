@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Westlake Primary School.md
       - Westwood Primary School.md
       - Westwood Secondary School.md
       - Whampoa Secondary School.md
