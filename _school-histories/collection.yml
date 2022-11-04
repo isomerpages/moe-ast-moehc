@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Xinghua Primary School.md
       - School Histories/Xingnan Primary School.md
       - School Histories/Xinmin Primary School.md
       - School Histories/Xinmin Secondary School.md
