@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/East Spring Secondary School.md
       - School Histories/East View Primary School.md
       - School Histories/East View Secondary School.md
       - School Histories/Edgefield Primary School.md
