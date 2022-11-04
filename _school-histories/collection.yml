@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Chong De Primary School.md
       - School Histories/Chong Li Primary School.md
       - School Histories/Chong Shan Primary School.md
       - School Histories/Chongfu School.md
