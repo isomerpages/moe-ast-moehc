@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Maha Bodhi School.md
       - School Histories/Maju Secondary School.md
       - School Histories/Manjusri Secondary School.md
       - School Histories/Margaret Drive Primary School.md
