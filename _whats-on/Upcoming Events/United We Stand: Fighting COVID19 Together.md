@@ -11,8 +11,6 @@ This first special exhibition at the MOE Heritage Centre showcases inspiring sto
 
 **Duration:** 30 August 2022 - 30 June 2023
 
-![](/images/unitedwestand.jpg)
-
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitedwestand.jpg">  
 <img style="width:85%" src="/images/unitedwestand.jpg">  
 </a></p>
