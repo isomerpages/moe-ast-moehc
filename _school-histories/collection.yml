@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Nee Soon School.md
       - School Histories/New Town Primary School.md
       - School Histories/New Town Secondary School.md
       - School Histories/Ngee Ann Primary School.md
