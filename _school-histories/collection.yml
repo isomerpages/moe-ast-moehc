@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Tampines Secondary School.md
       - School Histories/Tanglin Girls' School.md
       - School Histories/Tanglin Primary School.md
       - School Histories/Tanglin Secondary School.md
