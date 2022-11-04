@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Punggol View Primary School.md
       - School Histories/Qiaonan Primary School.md
       - School Histories/Qifa Primary School.md
       - School Histories/Qihua Primary School.md
