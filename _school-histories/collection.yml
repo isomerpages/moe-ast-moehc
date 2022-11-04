@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Umar Pulavar Tamil School.md
       - Unity Primary School.md
       - Unity Secondary School.md
       - Upper Aljunied Technical School.md
