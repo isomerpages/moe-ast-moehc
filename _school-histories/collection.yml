@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Tun Seri Lanang Secondary School.md
       - School Histories/Umar Pulavar Tamil School.md
       - School Histories/Unity Primary School.md
       - School Histories/Unity Secondary School.md
