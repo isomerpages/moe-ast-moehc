@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Sembawang Secondary School.md
       - School Histories/Seng Kang Primary School.md
       - School Histories/Seng Kang Secondary School.md
       - School Histories/Sengkang Green Primary School.md
