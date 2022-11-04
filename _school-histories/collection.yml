@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Seletar Institute.md
       - School Histories/Sembawang Hills Estate School.md
       - School Histories/Sembawang Primary School.md
       - School Histories/Sembawang Secondary School.md
