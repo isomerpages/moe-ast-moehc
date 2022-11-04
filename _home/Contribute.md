@@ -52,7 +52,7 @@ We will be accepting submissions from now until 31 March 2022.
   
 <p>
 By making a submission for the Campaign:<br><br>
-1\. You acknowledge that you have read, understood and agree to be bound by these terms and conditions (“T&Cs”);<br><br>
+1. You acknowledge that you have read, understood and agree to be bound by these terms and conditions (“T&Cs”);<br><br>
 	
 2\. You represent and warrant that:<br>
 *   you own the story and/or object ('Contributions') described in your submission; and<br>
@@ -69,4 +69,4 @@ By making a submission for the Campaign:<br><br>
   
 </li>  
   
-</ul>	
+</ul>
