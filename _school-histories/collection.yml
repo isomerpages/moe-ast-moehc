@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Tiong Bahru Secondary School.md
       - Toh Tuck Primary School.md
       - Toh Tuck Secondary School.md
       - Towner Primary School.md
