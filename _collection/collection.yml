@@ -2,4 +2,5 @@ collections:
   collection:
     output: true
     order:
+      - Collection.md
       - Books/.keep
