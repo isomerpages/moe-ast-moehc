@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Tanjong Katong Primary School.md
       - Tanjong Katong Secondary School.md
       - Tanjong Rhu Boy's School.md
       - Tanjong Rhu Girls' School.md
