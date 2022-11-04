@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Woodsville Secondary School.md
       - Xianglin Primary School.md
       - Xinghua Primary School.md
       - Xingnan Primary School.md
