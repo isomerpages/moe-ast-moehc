@@ -33,7 +33,7 @@ sections:
       subtitle: MOE Heritage Centre
       description: Virtual Tour
       button: Click Here
-      url: /explore/virtual-tour/
+      url: /explore/
       image: /images/infobar2.png
       alt: Image alt text
   - infopic:
