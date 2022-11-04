@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Victoria School.md
       - Waterloo School.md
       - Waterway Primary School.md
       - Wellington Primary School.md
