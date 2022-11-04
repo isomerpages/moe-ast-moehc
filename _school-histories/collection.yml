@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Rayman School.md
       - School Histories/Red Swastika School.md
       - School Histories/Redhill School.md
       - School Histories/Regent Secondary School.md
