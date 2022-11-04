@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Farrer Primary School.md
       - School Histories/Fengshan Primary School.md
       - School Histories/Fern Green Primary School.md
       - School Histories/Fernvale Primary School.md
