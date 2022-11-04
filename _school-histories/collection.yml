@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Tampines Meridian Junior College.md
       - Tampines North Primary School.md
       - Tampines Primary School.md
       - Tampines Secondary School.md
