@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Queensway Secondary School.md
       - School Histories/Radin Mas Primary School.md
       - School Histories/Raffles Girls' Primary School.md
       - School Histories/Raffles Girls' School.md
