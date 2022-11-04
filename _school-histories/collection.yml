@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Telok Ayer Primary School.md
       - School Histories/Telok Kurau East Primary School.md
       - School Histories/Telok Kurau Malay Girls' School.md
       - School Histories/Telok Kurau Primary School.md
