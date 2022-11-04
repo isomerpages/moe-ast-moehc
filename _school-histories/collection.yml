@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Guangyang Primary School.md
       - School Histories/Guangyang Secondary School.md
       - School Histories/Guillemard Primary School.md
       - School Histories/Hai Sing Catholic School.md
