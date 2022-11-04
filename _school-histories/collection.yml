@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Mattar East School.md
       - School Histories/Mattar Primary School.md
       - School Histories/May Primary School.md
       - School Histories/Mayflower Primary School.md
