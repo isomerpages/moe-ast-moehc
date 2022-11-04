@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Punggol Cove Primary School.md
       - School Histories/Punggol Green Primary School.md
       - School Histories/Punggol Primary School.md
       - School Histories/Punggol Secondary School.md
