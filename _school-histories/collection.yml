@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - West View Primary School.md
       - Westlake Primary School.md
       - Westwood Primary School.md
       - Westwood Secondary School.md
