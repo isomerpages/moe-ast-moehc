@@ -13,6 +13,13 @@ sections:
         walk-in visits and guided tours. Come Visit!
       button: Visiting Info
       url: /visit/plan-your-visit/
+      key_highlights:
+        - title: Contact Us
+          description: ""
+          url: /contactus/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/
   - infopic:
       title: Highlights
       subtitle: MOE Heritage Centre
