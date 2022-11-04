@@ -6,9 +6,9 @@ links:
     collection: visit
   - title: What's On
     collection: whats-on
-  - title: Resources
-    collection: resources
   - title: Explore
     collection: explore
+  - title: Resources
+    collection: resources
   - title: School Histories
     url: /school-histories/
