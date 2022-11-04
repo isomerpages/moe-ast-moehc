@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Toh Tuck Secondary School.md
       - School Histories/Towner Primary School.md
       - School Histories/Townsville Institute.md
       - School Histories/Townsville Primary School.md
