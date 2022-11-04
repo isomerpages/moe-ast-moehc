@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Seraya Primary School.md
       - School Histories/Shuqun Primary School.md
       - School Histories/Shuqun Secondary School.md
       - School Histories/Si Ling Primary School.md
