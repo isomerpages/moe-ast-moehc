@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Our Journey to Nationhood/Efficiency Driven Education.md
       - Our Journey to Nationhood/.keep
       - A Learning Nation (1997 to Present).md
       - Our Teaching Education and Development Journey.md
