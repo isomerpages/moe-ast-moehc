@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Jurong Primary School.md
       - School Histories/Jurong Secondary School.md
       - School Histories/Jurong Special Secondary School.md
       - School Histories/Jurong Town Primary School.md
