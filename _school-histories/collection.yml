@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Raffles Junior College.md
       - School Histories/Rangoon Road Primary School (Farrer Park).md
       - School Histories/Rangoon Secondary School.md
       - School Histories/Rayman School.md
