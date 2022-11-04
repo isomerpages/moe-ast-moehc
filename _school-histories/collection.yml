@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Telok Kurau Primary School.md
       - Telok Kurau Secondary School.md
       - Telok Kurau West Primary School.md
       - Temasek Junior College.md
