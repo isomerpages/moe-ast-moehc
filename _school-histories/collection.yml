@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/South View Primary School.md
       - School Histories/Spectra Secondary School.md
       - School Histories/Springdale Primary School.md
       - School Histories/Springfield Secondary School.md
