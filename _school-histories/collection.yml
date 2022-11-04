@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Elias Park Primary School.md
       - School Histories/Elling North School.md
       - School Histories/Elling Primary School.md
       - School Histories/Elling South School.md
