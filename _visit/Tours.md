@@ -11,12 +11,12 @@ description: ""
   
 <input type="checkbox" id="accordion1">  
   
-<label for="accordion1">title</label>  
+<label for="accordion1">Guided Tours</label>  
   
 <div>  
   
 <p>
-text
+Scheduled guided tours of MOE Heritage Centre is conducted during school holidays for free.
 </p>  
   
 </div>  
@@ -26,12 +26,12 @@ text
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">title</label>  
+<label for="accordion2">Tour Request</label>  
   
 <div>  
   
 <p>
-text
+Please write in to [MOE_Heritage_Centre@moe.gov.sg](mailto:MOE_Heritage_Centre@moe.gov.sg) for any tour requests. Confirmation of tour slot is subjected to availability of docents.
 </p>  
 
 </div>  	
