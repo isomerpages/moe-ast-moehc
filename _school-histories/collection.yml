@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - The Chinese High School.md
       - The Happy School.md
       - Thong Kheng School.md
       - Tiong Bahru Primary School.md
