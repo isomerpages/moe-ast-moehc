@@ -1,2 +1,4 @@
 logo: /images/logo.svg
-links: []
+links:
+  - title: School Histories
+    collection: school-histories
