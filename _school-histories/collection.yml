@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Keppel School.md
       - School Histories/Kheng Cheng School.md
       - School Histories/Kim Keat Primary School.md
       - School Histories/Kim Seng East School.md
