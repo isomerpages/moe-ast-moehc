@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Serangoon Secondary School.md
       - Seraya Primary School.md
       - Shuqun Primary School.md
       - Shuqun Secondary School.md
