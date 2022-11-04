@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Sengkang Green Primary School.md
       - Sennett Estate School.md
       - Serangoon Garden North School.md
       - Serangoon Garden Secondary School.md
