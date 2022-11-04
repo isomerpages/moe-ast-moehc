@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Si Ling Secondary School.md
       - Siglap Indah Primary School.md
       - Siglap Primary School.md
       - Siglap Secondary School.md
