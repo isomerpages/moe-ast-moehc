@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Methodist Girls' School.md
       - School Histories/Moulmein Primary School.md
       - School Histories/Mount Vernon Secondary School.md
       - School Histories/Mountbatten Primary School.md
