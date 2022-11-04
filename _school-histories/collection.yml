@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Qifa Primary School.md
       - School Histories/Qihua Primary School.md
       - School Histories/Queenstown Primary School.md
       - School Histories/Queenstown Secondary School.md
