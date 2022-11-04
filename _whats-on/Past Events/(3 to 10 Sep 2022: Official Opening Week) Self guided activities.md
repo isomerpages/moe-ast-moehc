@@ -15,6 +15,6 @@ _\*During official opening period only._
 
 Registration is not required. For all aged 7 and above, please ensure to bring along a photo ID for registration and security clearance.
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pastevent11.png">  
 <img style="width:65%" src="/images/pastevent11.png">  
 </a></p>
