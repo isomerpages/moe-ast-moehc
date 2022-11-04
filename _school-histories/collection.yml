@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Hwi Yoh Secondary School.md
       - School Histories/Innova Junior College.md
       - School Histories/Innova Primary School.md
       - School Histories/Jagoh Primary School.md
