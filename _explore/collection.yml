@@ -2,17 +2,17 @@ collections:
   explore:
     output: true
     order:
-      - Virtual Tour/.keep
       - Virtual Tour.md
+      - Virtual Tour/.keep
+      - Beginnings of Education/.keep
       - Beginnings of Education/Beginnings of Education (1819 to 1958).md
       - Beginnings of Education/Learning in the 19th and Early 20th Century.md
       - Beginnings of Education/The Japanese Occupation.md
       - Beginnings of Education/Restoring Education After World War II.md
-      - Beginnings of Education/.keep
+      - Our Journey to Nationhood/.keep
       - Our Journey to Nationhood/Our Journey to Nationhood (1959 to 1996).md
       - Our Journey to Nationhood/Survival Driven Education.md
       - Our Journey to Nationhood/Efficiency Driven Education.md
-      - Our Journey to Nationhood/.keep
       - A Learning Nation (1997 to Present).md
       - Our Teaching Education and Development Journey.md
       - Our School Building Heritage.md
