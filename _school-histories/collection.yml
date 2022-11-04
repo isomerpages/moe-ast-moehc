@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Swiss Cottage Primary School.md
       - School Histories/Swiss Cottage Secondary School.md
       - School Histories/Tampines Junior College.md
       - School Histories/Tampines Meridian Junior College.md
