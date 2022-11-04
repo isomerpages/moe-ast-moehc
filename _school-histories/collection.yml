@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Queenstown Primary School.md
       - School Histories/Queenstown Secondary School.md
       - School Histories/Queensway Secondary School.md
       - School Histories/Radin Mas Primary School.md
