@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Margaret Drive Primary School.md
       - School Histories/Maris Stella High School.md
       - School Histories/Marsiling Primary School.md
       - School Histories/Marsiling Secondary School.md
