@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Dorset Primary School.md
       - School Histories/Duchess School.md
       - School Histories/Dunearn Secondary School.md
       - School Histories/Dunman High School.md
