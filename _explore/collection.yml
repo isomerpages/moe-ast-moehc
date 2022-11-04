@@ -2,14 +2,14 @@ collections:
   explore:
     output: true
     order:
-      - Explore in Detail/Virtual Tour.md
-      - Explore in Detail/Beginnings of Education (1819 to 1958).md
-      - Explore in Detail/Our Journey to Nationhood.md
-      - Explore in Detail/A Learning Nation (1997 to Present).md
-      - Explore in Detail/Our Teacher Education and Development Journey.md
-      - Explore in Detail/Our School Building Heritage.md
-      - Explore in Detail/Our School Day Memories.md
-      - Explore in Detail/.keep
+      - Virtual Tour/Virtual Tour.md
+      - Virtual Tour/Beginnings of Education (1819 to 1958).md
+      - Virtual Tour/Our Journey to Nationhood.md
+      - Virtual Tour/A Learning Nation (1997 to Present).md
+      - Virtual Tour/Our Teacher Education and Development Journey.md
+      - Virtual Tour/Our School Building Heritage.md
+      - Virtual Tour/Our School Day Memories.md
+      - Virtual Tour/.keep
       - Beginnings of Education/.keep
       - Beginnings of Education/Beginnings of Education (1819 to 1958).md
       - Beginnings of Education/Learning in the 19th and Early 20th Century.md
