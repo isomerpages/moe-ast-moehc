@@ -13,7 +13,7 @@ Want to join a traditional guided tour instead? Come for our docent-led tours to
 **Time:** 2pm<br>
 **Duration:** 1 hour
 
-Register here: [https://go.gov.sg/moehc-opening](https://go.gov.sg/moehc-opening)
+Register here: [https://go.gov.sg/moehc-opening](https://go.gov.sg/moehc-opening) **unavailable form**
 
 <p><a href="">  
 <img style="width:65%" src="/images/pastevent9.png">  
