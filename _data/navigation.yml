@@ -3,4 +3,4 @@ links:
   - title: Home
     collection: home
   - title: School Histories
-    collection: school-histories
+    url: /school-histories/
