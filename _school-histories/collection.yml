@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Kay Siang Primary School.md
       - School Histories/Kebun Baru Primary School.md
       - School Histories/Kembangan Primary School.md
       - School Histories/Keming Primary School.md
