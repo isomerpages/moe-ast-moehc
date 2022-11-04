@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Hai Sing Catholic School.md
       - School Histories/Haig Boys' School.md
       - School Histories/Haig Girls' School.md
       - School Histories/Havelock Primary School.md
