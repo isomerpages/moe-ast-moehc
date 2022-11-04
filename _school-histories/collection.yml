@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Swiss Cottage Primary School.md
       - Swiss Cottage Secondary School.md
       - Tampines Junior College.md
       - Tampines Meridian Junior College.md
