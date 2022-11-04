@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Virtual Tour.md
       - Virtual Tour/Beginnings of Education (1819 to 1958).md
       - Virtual Tour/Our Journey to Nationhood.md
       - Virtual Tour/A Learning Nation (1997 to Present).md
