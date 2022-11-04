@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Jin Shan Primary School.md
       - School Histories/Jin Tai Primary School.md
       - School Histories/Jin Tai Secondary School.md
       - School Histories/Jing Shan Primary School.md
