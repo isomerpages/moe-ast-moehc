@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Waterway Primary School.md
       - Wellington Primary School.md
       - West Grove Primary School.md
       - West Hill School.md
