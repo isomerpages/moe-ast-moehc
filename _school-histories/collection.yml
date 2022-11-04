@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Northland Secondary School.md
       - School Histories/Northlight School.md
       - School Histories/Northoaks Primary School.md
       - School Histories/NUS High School of Mathematics and Science.md
