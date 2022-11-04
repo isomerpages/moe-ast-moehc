@@ -2,5 +2,6 @@ collections:
   explore:
     output: true
     order:
+      - Our School Building Heritage.md
       - Our School Day Memories.md
       - Collection/.keep
