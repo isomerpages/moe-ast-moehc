@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - St Thomas Secondary School.md
       - St Anthony's Primary School.md
       - St Gabriel's Primary School.md
       - St Gabriel's Secondary School.md
