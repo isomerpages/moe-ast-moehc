@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Springdale Primary School.md
       - School Histories/Springfield Secondary School.md
       - School Histories/St Andrew's Junior College.md
       - School Histories/St Andrew's Junior School.md
