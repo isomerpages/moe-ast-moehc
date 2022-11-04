@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Collection.md
+      - Books/The Janet and John Series.md
       - Books/Readable School Physics.md
       - Books/The Malayan Arithmetic for English Schools in Malaya.md
       - Books/Tropical Hygiene Part I.md
