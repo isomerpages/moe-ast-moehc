@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Paya Lebar Methodist Girls' School (Secondary).md
       - School Histories/Paya Lebar School.md
       - School Histories/Pearl Bank School.md
       - School Histories/Pearl Park Primary School.md
