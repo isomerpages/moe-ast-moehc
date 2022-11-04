@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Pei Hwa Secondary School.md
       - School Histories/Pei Tek Public School.md
       - School Histories/Pei Tong Primary School.md
       - School Histories/Peicai Secondary School.md
