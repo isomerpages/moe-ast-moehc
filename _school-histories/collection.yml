@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Silat Primary School.md
       - School Histories/Singapore Chinese Girls' School.md
       - School Histories/Singapore Sports School.md
       - School Histories/South View Primary School.md
