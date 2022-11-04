@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Siglap Primary School.md
       - Siglap Secondary School.md
       - Silat Primary School.md
       - Singapore Chinese Girls' School.md
