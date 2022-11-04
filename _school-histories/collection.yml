@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Fuhua Primary School.md
       - School Histories/Fuhua Secondary School.md
       - School Histories/Gan Eng Seng Primary School.md
       - School Histories/Gan Eng Seng School.md
