@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Tiong Bahru Secondary School.md
       - School Histories/Toh Tuck Primary School.md
       - School Histories/Toh Tuck Secondary School.md
       - School Histories/Towner Primary School.md
