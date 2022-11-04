@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Elling South School.md
       - School Histories/Endeavour Primary School.md
       - School Histories/Eunoia Junior College.md
       - School Histories/Eunos Primary School.md
