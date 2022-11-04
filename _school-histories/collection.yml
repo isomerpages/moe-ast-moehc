@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Upper Aljunied Technical School.md
       - School Histories/Upper Serangoon Secondary School.md
       - School Histories/Victoria Junior College.md
       - School Histories/Victoria School.md
