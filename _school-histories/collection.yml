@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Keming Primary School.md
       - School Histories/Keng Seng Primary School.md
       - School Histories/Kent Ridge Secondary School.md
       - School Histories/Keppel Primary School.md
