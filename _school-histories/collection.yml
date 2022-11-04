@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Kuo Chuan Presbyterian Primary School.md
       - School Histories/Kuo Chuan Presbyterian Secondary School.md
       - School Histories/Kwong Wai Shiu Peck Shan Ting School.md
       - School Histories/Labrador Primary School.md
