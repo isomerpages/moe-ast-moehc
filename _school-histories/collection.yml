@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Orchid Park Secondary School.md
       - School Histories/Outram Institute.md
       - School Histories/Outram Primary School.md
       - School Histories/Outram Secondary School.md
