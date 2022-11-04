@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Fuchun Primary School.md
       - School Histories/Fuchun Secondary School.md
       - School Histories/Fuhua Primary School.md
       - School Histories/Fuhua Secondary School.md
