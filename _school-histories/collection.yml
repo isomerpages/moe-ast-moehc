@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Jalan Daud School.md
       - School Histories/Jalan Kayu Primary School.md
       - School Histories/Jaya Primary School.md
       - School Histories/Jervois East Primary School.md
