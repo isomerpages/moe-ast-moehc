@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Marsiling Primary School.md
       - School Histories/Marsiling Secondary School.md
       - School Histories/Marymount Convent School.md
       - School Histories/Mattar East School.md
