@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Collection.md
+      - Books/The Malayan Arithmetic for English Schools in Malaya.md
       - Books/Tropical Hygiene Part I.md
       - Books/Outlines of Geography.md
       - Books/History Through the Ages.md
