@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Greenwood Primary School.md
       - School Histories/Griffiths Primary School.md
       - School Histories/Guangyang Primary School.md
       - School Histories/Guangyang Secondary School.md
