@@ -2,4 +2,5 @@ collections:
   visit:
     output: true
     order:
+      - Plan Your Visit.md
       - Tours.md
