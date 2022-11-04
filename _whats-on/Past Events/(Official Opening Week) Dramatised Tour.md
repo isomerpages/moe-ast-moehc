@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **[Official Opening Week] Dramatised Tours**
-10 Sep 2022 | 1 min read
+10 Sep 2022 I 1 min read
 
 Join us for this special dramatised tour of the new MOE Heritage Centre, happening only during this official opening period! Meet characters from different eras in history and watch the Singapore Education Story come to life.
 
