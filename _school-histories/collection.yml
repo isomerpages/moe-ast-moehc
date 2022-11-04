@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Red Swastika School.md
       - School Histories/Redhill School.md
       - School Histories/Regent Secondary School.md
       - School Histories/River Valley English School.md
