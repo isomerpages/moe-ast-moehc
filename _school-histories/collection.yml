@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - St George's Road Tamil School.md
       - St Joseph's Institution Junior.md
       - St Patrick's School.md
       - St Thomas Secondary School.md
