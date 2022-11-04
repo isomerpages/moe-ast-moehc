@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Sennett Estate School.md
       - Serangoon Garden North School.md
       - Serangoon Garden Secondary School.md
       - Serangoon Garden South School.md
