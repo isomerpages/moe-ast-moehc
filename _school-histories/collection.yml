@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Willow Avenue Secondary School.md
       - School Histories/Woodgrove Primary School.md
       - School Histories/Woodgrove Secondary School.md
       - School Histories/Woodlands Primary School.md
