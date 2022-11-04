@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Pearl Bank School.md
       - School Histories/Pearl Park Primary School.md
       - School Histories/Pearl's Hill School.md
       - School Histories/Peck Seah Primary School.md
