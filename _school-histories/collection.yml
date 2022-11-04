@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/St Hilda's Secondary School.md
       - School Histories/St Joseph's Institution.md
       - School Histories/St Margaret's Primary School.md
       - School Histories/St Margaret's Secondary School.md
