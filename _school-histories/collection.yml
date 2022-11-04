@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - St Margaret's Secondary School.md
       - St Stephen's School.md
       - St Theresa's High School.md
       - Stamford Girl's School.md
