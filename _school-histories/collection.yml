@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Evergreen Secondary School.md
       - School Histories/Fairfield Methodist School (Primary).md
       - School Histories/Fairfield Methodist School (Secondary).md
       - School Histories/Fajar Secondary School.md
