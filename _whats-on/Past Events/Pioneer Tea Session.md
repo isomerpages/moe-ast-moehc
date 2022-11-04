@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **Pioneer Tea Session**
-06 Sep 2019&nbsp;| 1 min read
+06 Sep 2019 I 1 min read
 
 Come celebrate Teachers' Day with fellow education pioneers and seniors at the MOE Heritage Centre!
 
