@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/The Happy School.md
       - School Histories/Thong Kheng School.md
       - School Histories/Tiong Bahru Primary School.md
       - School Histories/Tiong Bahru Secondary School.md
