@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Gan Eng Seng School.md
       - School Histories/Geylang Methodist School (Primary).md
       - School Histories/Geylang Methodist School (Secondary).md
       - School Histories/Geylang Primary School.md
