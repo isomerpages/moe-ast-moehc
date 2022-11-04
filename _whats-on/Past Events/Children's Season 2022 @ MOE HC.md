@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **Children's Season 2022 @ MOE HC**
-24 Jun 2022 | 1 min read
+24 Jun 2022 I 1 min read
 
 <img src="/images/pastevent6.png" style="width:75%">
 
