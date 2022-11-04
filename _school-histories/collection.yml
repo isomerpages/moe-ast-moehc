@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Jurong Institute.md
       - School Histories/Jurong Junior College.md
       - School Histories/Jurong Pioneer Junior College.md
       - School Histories/Jurong Primary School.md
