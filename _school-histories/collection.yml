@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Lakeside Primary School.md
       - School Histories/Lee Kuo Chuan Primary School.md
       - School Histories/Lianhua Primary School.md
       - School Histories/Loyang Primary School.md
