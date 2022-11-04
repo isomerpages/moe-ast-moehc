@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Past Events
 ---
 ### **Session 2: Playtime with Ye Ye**
-10 Dec 2021 | 1 min read
+10 Dec 2021 I 1 min read
 
 This Children's Season, go ‘back to old school’ with us in two lively online storytelling sessions.
 
