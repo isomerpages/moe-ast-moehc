@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - Heritage Resources.md
       - Heritage Spotlights.md
