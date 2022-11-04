@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Nanyang Junior College.md
       - School Histories/Nanyang Primary School.md
       - School Histories/National Junior College.md
       - School Histories/Naval Base Primary School.md
