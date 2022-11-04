@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Kim Seng West School.md
       - School Histories/Kong Chow School.md
       - School Histories/Kong Hwa School.md
       - School Histories/Kota Raja Malay School.md
