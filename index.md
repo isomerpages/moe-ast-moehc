@@ -4,7 +4,7 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: ""
+notification: "*We will be closed on 8 & 10 November for an internal event."
 sections:
   - hero:
       title: MOE Heritage Centre
