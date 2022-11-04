@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Collection.md
+      - Books/Notes on The Teaching of Music.md
       - Books/.keep
