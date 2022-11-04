@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Palm View Primary School.md
       - School Histories/Pandan Primary School.md
       - School Histories/Park Road School.md
       - School Histories/Park View Primary School.md
