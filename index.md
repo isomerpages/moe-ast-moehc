@@ -4,30 +4,37 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: MOE Heritage Centre
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+  - infopic:
+      title: Highlights
+      subtitle: MOE Heritage Centre
+      description: Explore School Histories
+      button: Click Here
+      url: /school-histories/
+      image: /images/infobar1.png
+      alt: Image alt text
+  - infopic:
+      title: Highlights
+      subtitle: MOE Heritage Centre
+      description: Virtual Tour
+      button: Click Here
+      url: /explore/virtual-tour/
+      image: /images/infobar2.png
+      alt: Image alt text
+  - infopic:
+      title: Highlights
+      subtitle: MOE Heritage Centre
+      description: What's On
+      button: Click here
+      url: /whats-on/upcoming-events/
+      image: /images/infobar3.png
+      alt: Image alt text
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Stay Updated!
+      button: Subscribe to our Mailing List
+      url: https://form.gov.sg/#!/5d5ce49deae0bb00128b8ef5
 ---
-
-
