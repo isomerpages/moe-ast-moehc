@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Collection.md
+      - Books/Japanese Conversation Textbook.md
       - Books/Japanese Language Textbook with Malay Translation.md
       - Books/Japanese Textbook for Teachers.md
       - Books/Civics.md
