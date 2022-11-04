@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Compassvale Primary School.md
       - School Histories/Compassvale Secondary School.md
       - School Histories/Concord Primary School.md
       - School Histories/Coral Primary School.md
