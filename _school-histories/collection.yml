@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Kim Keat Primary School.md
       - School Histories/Kim Seng East School.md
       - School Histories/Kim Seng Primary School.md
       - School Histories/Kim Seng Technical School.md
