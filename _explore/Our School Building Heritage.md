@@ -114,7 +114,7 @@ Schools were often set up in kampongs so that people living in villages would ha
 
 #### **Standardising School Designs**
 
-<img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/schbuildingheritage1.png" style="width:35%;margin-right:15px;" align = "left">
 <b>During post-war Singapore, it became the top priority of the day to ensure that every child had a place in school. The 1960s saw schools being built rapidly and the addition of new facilities to meet the needs of the developing nation.</b>
 
 <br clear="left">
@@ -208,7 +208,7 @@ Integrated schools were created to foster bonding among students from two or mor
 
 #### **Breaking the Mould**
 
-<img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
+<img src="/images/schbuildingheritage2.png" style="width:35%;margin-right:15px;" align = "left">
 <b>With a growing population in the 1970s and 1980s, more schools were built in new housing estates. These schools sported new designs and were equipped with modern facilities. Over the years, many schools developed their own architectural identity.</b>
 
 <br clear="left">
