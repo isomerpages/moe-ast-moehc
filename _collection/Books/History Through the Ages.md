@@ -11,7 +11,7 @@ third_nav_title: Books
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tnhistorythroughtheages2mr2.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/historythroughtheages2.png">  
 <img src="/images/historythroughtheages2.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
 
