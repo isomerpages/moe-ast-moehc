@@ -21,8 +21,8 @@ Tasked to set up a school heritage corner but don't know where to start? Have qu
 </a></p>	
 	
 <br clear="left">	
-		
-[Explore all resources](https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-resources/)
+
+<a href="[Explore all resources](https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-resources/)">
 
 #### **Spotlight**
 	
@@ -32,4 +32,6 @@ Tasked to set up a school heritage corner but don't know where to start? Have qu
 	
 <br clear="left">		
   
-[Check out the latest happenings!](https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-spotlights/)
+<a href="[Check out the latest happenings](https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-spotlights/)">	
+	
+	
