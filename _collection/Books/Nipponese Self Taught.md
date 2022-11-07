@@ -22,4 +22,12 @@ third_nav_title: Books
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/nipponese4.png">  
 <img src="/images/nipponese4.png" style="width:29%;margin-right:15px;" align = "left">
-</a></p>	
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/nipponese5.png">  
+<img src="/images/nipponese5.png" style="width:29%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/nipponese6.png">  
+<img src="/images/nipponese6.png" style="width:29%;margin-right:15px;" align = "left">
+</a></p>
