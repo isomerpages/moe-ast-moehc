@@ -90,7 +90,53 @@ A Report on Moral Education was released in 1979. A single moral education progr
 <div>  
   
 <p>
-text	
+<b>好公民  Good Citizen (Civic and Moral Education)</b>
+
+<br><br>-carousell- embed google slides <br><br>	
+	
+<b>PETS 5B</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Primary English Programme</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Primary Mathematics</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Rakyat yang Baik (Civic and Moral Education)</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Sang Nila Utama</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Science 3</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Social Studies for Primary Schools</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>வளர் தமிழ் பாடநூல் (Tamil Language Textbook 3A)</b>
+	
+<br><br>-carousell- embed google slides <br><br>
+	
+	
+<b>Tamil Language Civic and Moral Education 3A</b>
+	
+<br><br>-carousell- embed google slides <br><br>	
   
 </p>  
   
@@ -107,7 +153,35 @@ text
 <div>  
   
 <p>
-text
+In the 1980s and 1990s, independent and autonomous schools were set up.  Independent schools were free to design their own curriculum, while autonomous schools can have more flexibility over curriculum innovation and school management. These schools can introduce niche programmes to develop students holistically.
+
+<br><br>
+-image-<br>
+<b>Anderson Secondary School’s ‘Science Research and Innovation’ programme (2000).</b>
+	
+<br><br>
+-image-<br>
+<b>Art Programme at Victoria School (c. 1996).
+</b>	
+	
+<br><br>
+-image-<br>
+<b>Rock climbing wall at Cedar Girls’ School to provide students with more opportunities for outdoor activities (1990s).
+</b>
+	
+<br><br>
+-image-<br>
+<b>Anglo-Chinese School (Independent) students on the Work Experience Scheme (c. 1989).
+</b>
+	
+<br><br>
+-image-<br>
+<b>Chinese Culture Appreciation was included in the curriculum at Nanyang Girls’ High School (1990s).
+</b>	
+	
+<br><br>
+Music, Art and Language Elective Programmes were introduced to secondary schools during this period. Schools were also free to offer enrichment programmes such as science research, outdoor and adventure learning and work attachments. These programmes allowed students to broaden their education experience and pursue their interests.	
+	
 </p>  
   
 </div>  
