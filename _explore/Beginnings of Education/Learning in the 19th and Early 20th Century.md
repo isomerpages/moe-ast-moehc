@@ -211,7 +211,139 @@ The National Archives of the UK, ref. CO1069/485 (23).
   
 </ul>
 
+<img src="/images/runningvillagesch.png" style="width:85%">
+
+By the turn of the 20th century Singapore was thriving commercially, which led to growing demand for schools. The colonial government reformed the education system and introduced secondary and tertiary education. Along with collaborative efforts from pioneering communities, more schools were built across the island.
+
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
+  
+<input type="checkbox" id="accordion9">  
+  
+<label for="accordion9">Government English Branch Schools</label>  
+  
+<div>  
+  
+<p>
+Several new primary schools were set up in the early 20th century as branch schools to Raffles Institution. Students were taught a British syllabus using books printed in England and had to pass Standard Five (Primary Five) to progress to secondary level at Raffles Institution. In 1919, Malay boys who passed Standard Three could also progress to other English Schools.<br><br>
+	
+-image-<br>
+<b>Raffles Institution (1905).</b><br>
+Arshak C Galstaun Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Standard VIII students at Raffles Institution (1940s).</b><br>
+Raffles Institution Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>The first all-boys orchestra at Telok Kurau English School (1930).</b><br>
+Courtesy of National Archives of Singapore.
+
+	
+</p>  
+  
+</div>  
+  
+</li>  
+<li>  
+  
+<input type="checkbox" id="accordion10">  
+  
+<label for="accordion10">Vernacular Schools</label>  
+  
+<div>  
+  
+<p>
+The vernacular schools of the Chinese, Malay and Tamil communities began to modernise their curricula and teach subjects beyond basic literacy, though their focus remained on religious studies. Enrolment increased, and many schools moved from rented shophouses to purpose-built buildings or larger school premises in new locations. Before the outbreak of World War II, there were 38,000 students enrolled in Chinese schools, 5,800 in Malay schools, and 1,000 in Tamil schools.<br><br>
+	
+-image-<br>	
+<b>Students coming out of Tao Nan School (1909).</b><br>
+Edward William Newell Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>	
+<b>Teaching staff and students at Chong Hock Girls’ School (1922).</b><br>
+Chong Hock Girls' School Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>	
+<b>A Malay Girls’ School (c. 1910).</b><br>
+Courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>	
+<b>First batch of Tamil students from Umar Pulavar School (1947).</b><br>
+Umar Pulavar Tamil School Collection, courtesy of National Archives of Singapore.
+
+</p>  
+  
+</div>  
+  
+</li>  
+  
+<li>  
+  
+<input type="checkbox" id="accordion11">  
+  
+<label for="accordion11">Mission Schools</label>  
+  
+<div>  
+  
+<p>
+New branch schools like Katong Convent and St Patrick’s School were established by the Convent of the Holy Infant Jesus and the De La Salle Brothers of St Joseph’s Institution respectively. Both were boarding schools, and provided a well-rounded education as well as imparting Christian doctrine.<br><br>
+	
+-image-<br>	
+<b>Student boarders from the Convent of the Holy Infant Jesus at play (1924).</b><br>
+Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Orphans having a meal at the Convent of the Holy Infant Jesus (1924).</b><br>
+Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Founder of St Patrick’s School, Brother Stephen Buckley with the Junior Cambridge class (1935).</b><br>
+Courtesy of St Patrick’s School.	
+  
+</p>  
+  
+</div>  
+  
+</li>  
+	
+<li>  
+  
+<input type="checkbox" id="accordion12">  
+  
+<label for="accordion12">Tertiary Institutions</label>  
+  
+<div>  
+  
+<p>
+Tertiary education was introduced during the early 20th century. The first tertiary institution was the Straits and Federated Malay States Government Medical School in 1905, followed by Raffles College in 1928, a college for higher education in the arts and sciences. The two institutions later merged to form the University of Malaya in 1949.<br><br>
+	
+-image-<br>
+<b>Students at King Edward VII College of Medicine (1930s).</b><br>
+Lee Kip Lin Collection, courtesy of National Archives of Singapore..<br><br>
+	
+-image-<br>
+<b>Raffles College at Bukit Timah Road (c. 1938).</b><br>
+Raffles College Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>An inter-college football match between Raffles College and King Edward VII College of Medicine (1938).</b><br>
+Raffles College Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Raffles College students at the school’s hostel (1939).</b><br>
+Raffles College Collection, courtesy of National Archives of Singapore.
+
+</p>  
+  
+</div>  
+  
+</li>  	
+  
+</ul>
+
+#### **Educational Materials **
+
+
 ### **Early 20th Century**
-
-
-
