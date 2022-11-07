@@ -14,4 +14,3 @@ When Singapore became independent in 1965, the power of education to shape a nat
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/efficiency-driven-education/">  
 <img src="/images/journeytonationhood2.gif" style="width:85%">
 </a></p>
-
