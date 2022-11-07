@@ -8,6 +8,8 @@ third_nav_title: Books
 
 ### **Outlines of Geography**
 
+<b>This Geography workbook was intended for use in Malayan schools. It was notably printed by a local publisher, Methodist Printing House.</b>
+
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/outlinesofgeog2.png">  
