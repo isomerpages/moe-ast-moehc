@@ -5,7 +5,11 @@ description: ""
 ---
 ### **Heritage Resources**
 ##### **Guide: Toolkit for Developing Exhibitions**
-
+<img src="/images/heritageresources1.jpg" style="width:30%;margin-right:15px;" align = "left">
+This toolkit explores ways to plan a temporary exhibition, refresh, permanent collection displays, deliver effective museum interpretation and implement strategies that improve accessibility.  
+  
+Developed by: British Council<br>
+[Link](/files/toolkitfordevelopingexhibition.pdf)
 
 ##### **Video: Museum Etiquette for Primary Schools**
 
@@ -38,6 +42,3 @@ description: ""
 
 
 ##### **Video: Heritage Education Programmes**
-
-
-
