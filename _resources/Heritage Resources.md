@@ -47,18 +47,52 @@ Developed by: The Museum of Modern Art (MoMA)<br>
 [Link](https://www.coursera.org/learn/artinquiry#enroll)
 
 ##### **Video: Behind the Scenes at Heritage Conservation Centre**
-
+<img src="/images/heritageresources7.jpg" style="width:30%;margin-right:15px;" align = "left">
+Wonder how our conservation is like for our National Collection? Check out this mini video series about The Heritage Conservation Centre (HCC), the repository and conservation facility for the management and preservation of Singapore’s National Collection.  
+  
+Developed by: National Heritage Board<br>
+[Link](https://www.youtube.com/watch?v=4Zf_MpZhFrU&feature=youtu.be)
 
 ##### **Research Resources: Useful links**
+<img src="/images/heritageresources8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<b>Here are some useful websites and portals for doing content research:</b>
 
+NLB's Resource Guide on **[Development of Public Education in Singapore](http://www.nlb.gov.sg/resourceguides/development-of-education-in-singapore/)  **
+  
+NLB's **[OneSearch Portal](https://search.nlb.gov.sg/)** to search across all NLB, NHB and National Gallery resources.  
+  
+National Archives of Singapore's **[Online Search Portal](https://www.nas.gov.sg/archivesonline/)** for old photographs, oral history, audio & visual recordings etc.  
+  
+NHB's **[Roots](https://www.roots.sg/)** portal for the National Collection and other NHB resources.
 
 ##### **Guide: Exhibit Development**
-
+<img src="/images/heritageresources9.jpg" style="width:30%;margin-right:15px;" align = "left">
+This guide provides an overview of the exhibit development process and offers tips on how to plan and create an effective exhibit for anyone interested in developing exhibitions.   
+  
+Developed by: Smithsonian Exhibit<br>
+[Link](/files/Guide-to-Exhibit-Development.pdf)
 
 ##### **Online Course: The Museum as a Site and Source for Learning**
+<img src="/images/heritageresources10.jpg" style="width:30%;margin-right:15px;" align = "left">
 
+This free online course explores the purpose of museums today and find how they facilitate learning.  
+  
+Developed by: University of Glasgow<br>
+[Link](https://www.futurelearn.com/courses/museum-learning#section-overview)
 
 ##### **Activity: Let's Talk About School - A Family Conversation Card Set**
+<img src="/images/heritageresources11.jpg" style="width:30%;margin-right:15px;" align = "left">
+What better way to learn about how school was like in the past than to hear about it  
+from someone who went to school then? Use this set of cards to have fun dinner  
+conversation with your family members and share with each other your school day  
+memories!
 
+[PDF link]
 
+##### **Video: Heritage Education Programmes**
+<img src="/images/heritageresources12.jpg" style="width:30%;margin-right:15px;" align = "left">
+Find out more about the range of Heritage Education Programmes available from the National Heritage Board.  
+  
+Developed by: National Heritage Board<br>
+[Link](https://www.youtube.com/playlist?list=PLE2_iMKVKlHvi0LN4C-ui7WdwqY3UGx2Y)
 ##### **Video: Heritage Education Programmes**
