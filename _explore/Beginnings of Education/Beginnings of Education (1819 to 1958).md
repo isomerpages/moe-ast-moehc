@@ -18,5 +18,3 @@ The early days of education in Singapore from the 19th to mid-20th century lacke
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/restoring-education-after-world-war/">  
 <img src="/images/beginningsofeducation3.gif" style="width:85%">
 </a></p>
-
-
