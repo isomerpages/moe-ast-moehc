@@ -87,7 +87,7 @@ from someone who went to school then? Use this set of cards to have fun dinner
 conversation with your family members and share with each other your school day  
 memories!
 
-[PDF link]
+[PDF link](/files/moehc_conversationcards.pdf)
 
 ##### **Video: Heritage Education Programmes**
 <img src="/images/heritageresources12.jpg" style="width:30%;margin-right:15px;" align = "left">
