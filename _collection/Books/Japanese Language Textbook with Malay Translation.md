@@ -23,4 +23,3 @@ third_nav_title: Books
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japanmalaytrans4.png">  
 <img src="/images/japanmalaytrans4.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
-
