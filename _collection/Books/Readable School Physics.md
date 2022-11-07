@@ -13,7 +13,7 @@ third_nav_title: Books
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rsp2.png">  
-<img src="/images/rsp2.png" style="width:29%;margin-right:15px;" align = "left">
+<img src="/images/rsp2.png" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rsp3.png">  
