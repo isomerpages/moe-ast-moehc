@@ -57,7 +57,7 @@ Developed by: National Heritage Board<br>
 <img src="/images/heritageresources8.jpg" style="width:30%;margin-right:15px;" align = "left">
 <b>Here are some useful websites and portals for doing content research:</b>
 
-NLB's Resource Guide on **[Development of Public Education in Singapore](http://www.nlb.gov.sg/resourceguides/development-of-education-in-singapore/) **
+NLB's Resource Guide on **[Development of Public Education in Singapore](http://www.nlb.gov.sg/resourceguides/development-of-education-in-singapore/)**
   
 NLB's **[OneSearch Portal](https://search.nlb.gov.sg/)** to search across all NLB, NHB and National Gallery resources.  
   
