@@ -7,7 +7,24 @@ links:
   - title: What's On
     collection: whats-on
   - title: Explore
-    collection: explore
+    url: /explore/
+    sublinks:
+      - title: Virtual Tour
+        url: /explore/
+      - title: Beginnings of Education
+        url: /explore/1/
+      - title: Our Journey to Nationhood
+        url: /explore/2/
+      - title: A Learning Nation
+        url: /explore/3/
+      - title: Our Teaching Education & Dev..
+        url: /explore/4/
+      - title: Our School Building Heritage
+        url: /explore/5/
+      - title: Our School Day Memories
+        url: /explore/6/
+      - title: Collection
+        url: /explore/collection/
   - title: Resources
     collection: resources
   - title: School Histories
