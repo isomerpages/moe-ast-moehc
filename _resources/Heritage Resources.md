@@ -19,3 +19,13 @@ Tasked to set up a school heritage corner but don't know where to start? Have qu
 <p><a href="https://www.youtube.com/watch?v=4Zf_MpZhFrU&feature=youtu.be">  
 <img src="/images/resources4.jpg" style="width:30%;margin-right:5px;" align = "left">	
 </a></p>
+	
+<br clear="left">	
+
+#### **Spotlight**
+	
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-spotlights/">  
+<img src="/images/resources5.jpg" style="width:30%;margin-right:5px;" align = "left">	
+</a></p>	
+	
+	
