@@ -6,7 +6,7 @@ third_nav_title: Heritage Spotlights
 ---
 ### **NIE 70th Anniversary Celebrations**
 
-<img src="/images/70th%20anniversary.png" style="width:85%">
+<img src="/images/70th%20anniversary.png" style="width:65%">
 
 17 Jun 2020 I 1 min read
 
@@ -21,4 +21,3 @@ Take a walk down memory lane as you watch following NIE videos produced speciall
 **National Institute of Education (NIE): Reminisce Fond Memories**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/bvPVd2s3K_g" title="National Institute of Education (NIE): Reminisce Fond Memories | NIE 70th Anniversary Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
