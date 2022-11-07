@@ -6,9 +6,11 @@ description: ""
 ### **Our School Day Memories**
 Remember the old school days? Our cherished memories of the time we spent as students stay with us throughout our lives. Click on the image below to relive some of your old school day memories!
 
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/our-school-day-memories">  
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/our-school-day-memories"> 
 <img style="width:85%" src="/images/schdaymemories.png">  
 </a></p>
+
+**need help with migrating** ^ pic with hyperlink
 
 #### **Resources**
 Interested in searching for more school days related memories? Check out these websites!
