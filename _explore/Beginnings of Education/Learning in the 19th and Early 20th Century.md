@@ -345,32 +345,30 @@ Raffles College Collection, courtesy of National Archives of Singapore.
 </ul>
 
 #### **Educational Materials**
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials1.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/the-new-method-readers/">  
 <img src="/images/educationalmaterials1.png" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials2.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/the-janet-and-john-series/">  
 <img src="/images/educationalmaterials2.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials3.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/readable-school-physics/">  
 <img src="/images/educationalmaterials3.png" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials4.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/malayan-arithmetic-for-english-schools-in-malaya/">  
 <img src="/images/educationalmaterials4.png" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials5.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/tropical-hygiene-part-1/">  
 <img src="/images/educationalmaterials5.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials6.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/outlines-of-geography/">  
 <img src="/images/educationalmaterials6.png" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials7.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/history-through-the-ages/">  
 <img src="/images/educationalmaterials7.png" style="width:28%">
 </a></p>
-
-
