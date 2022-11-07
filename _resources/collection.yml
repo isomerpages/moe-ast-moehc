@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Heritage Spotlights/.keep
       - Resources.md
       - Heritage Resources.md
       - Heritage Spotlights.md
+      - Heritage Spotlights/.keep
