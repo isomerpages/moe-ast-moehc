@@ -21,15 +21,14 @@ Tasked to set up a school heritage corner but don't know where to start? Have qu
 <img src="/images/resources2.jpg" style="width:30%;margin-right:5px;" align = "left">  
 </a></p>	
 	
-<br clear="left">	
+<br clear="left">
 
 #### **Spotlight**
+
 [Check out the latest happenings](https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-spotlights/)	
 	
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/resources/heritage-spotlights/">  
 <img src="/images/resources5.jpg" style="width:30%;margin-right:5px;" align = "left">	
 </a></p>
 	
-<br clear="left">		
-  	
-	
+<br clear="left">
