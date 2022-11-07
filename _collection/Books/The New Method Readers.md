@@ -4,9 +4,11 @@ permalink: /explore/collection/books/the-new-method-readers/
 description: ""
 third_nav_title: Books
 ---
+<img src="/images/tnmr1.png" style="width:30%;margin-right:15px;" align = "left">
+
 ### **The New Method Readers**
 
-<img src="/images/tnmr1.png" style="width:35%;margin-right:15px;" align = "left"><b>This book is part of a collection of readers. It teaches students elementary English with commonly used words.</b>
+<b>This book is part of a collection of readers. It teaches students elementary English with commonly used words.</b>
 
 <br clear="left">
 
