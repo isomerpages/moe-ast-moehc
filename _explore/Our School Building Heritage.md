@@ -113,7 +113,6 @@ Schools were often set up in kampongs so that people living in villages would ha
 #### **Standardising School Designs**
 
 <img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
-
 <b>During post-war Singapore, it became the top priority of the day to ensure that every child had a place in school. The 1960s saw schools being built rapidly and the addition of new facilities to meet the needs of the developing nation.</b>
 
 <ul class="jekyllcodex_accordion">  
@@ -138,8 +137,6 @@ Under the 1947 Ten-Year Programme, five standard school designs were created. Th
 -image-<br>
 <b>A four-storey school building with a playing field (1958).</b><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
-	
-
 
 </p>  
   
@@ -150,7 +147,88 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
   
 <input type="checkbox" id="accordion6">  
   
-<label for="accordion6">title</label>  
+<label for="accordion6">Technical Schools</label>  
+  
+<div>  
+  
+<p>
+As the nation shifted its focus towards technical and science education, technical schools were built and facilities were expanded to accommodate the curriculum. Science laboratories, metal and carpentry workshops and home economic rooms became standard features in schools. <br><br>
+
+-image-<br>
+<b>Metal workshop of Serangoon Secondary Technical School and Thomson Primary Technical School (1964).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>
+<b>Home economics room of Serangoon Secondary Technical School and Thomson Primary Technical School (1964).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>	
+<b>Students at the science laboratory of Upper Serangoon Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>	
+<b>Technical workshop at Kim Seng Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+	
+</p>  
+  
+</div>  
+  
+</li>  
+  
+<li>  
+  
+<input type="checkbox" id="accordion7">  
+  
+<label for="accordion7">Integrated Schools</label>  
+  
+<div>  
+  
+<p>
+Integrated schools were created to foster bonding among students from two or more language streams. The typical design for primary schools was a four-storey H-shaped building. For secondary schools, the design incorporated facilities for academic, science and technical education.<br><br>
+	
+-image-<br>	
+<b>Tanglin Integrated Primary School with the typical H-shaped design (1964).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Technical facilities at Serangoon Garden Integrated Secondary Technical School (1964).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Science laboratory of Tanglin Integrated Secondary Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+  
+</p>  
+  
+</div>  
+  
+</li>  
+  
+</ul>
+
+#### **Breaking the Mould**
+
+<img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
+<b>With a growing population in the 1970s and 1980s, more schools were built in new housing estates. These schools sported new designs and were equipped with modern facilities. Over the years, many schools developed their own architectural identity.</b>
+
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
+  
+<input type="checkbox" id="accordion8">  
+  
+<label for="accordion8">title</label>  
+  
+<div>  
+  
+<p>
+text
+</p>  
+  
+</div>  
+  
+</li>  
+<li>  
+  
+<input type="checkbox" id="accordion9">  
+  
+<label for="accordion9">title</label>  
   
 <div>  
   
@@ -164,9 +242,9 @@ text
   
 <li>  
   
-<input type="checkbox" id="accordion7">  
+<input type="checkbox" id="accordion10">  
   
-<label for="accordion7">title</label>  
+<label for="accordion10">title</label>  
   
 <div>  
   
@@ -178,5 +256,38 @@ text
 </div>  
   
 </li>  
+	
+<li>  
   
+<input type="checkbox" id="accordion11">  
+  
+<label for="accordion11">title</label>  
+  
+<div>  
+  
+<p>
+text
+</p>  
+  
+</div>  
+  
+</li>
+	
+<li>  
+  
+<input type="checkbox" id="accordion12">  
+  
+<label for="accordion12">title</label>  
+  
+<div>  
+  
+<p>
+text	
+  
+</p>  
+  
+</div>  
+  
+</li>  
+	
 </ul>
