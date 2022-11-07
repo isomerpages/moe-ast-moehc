@@ -114,7 +114,20 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
   
 </ul>
 
-#### **Educational Materials** 
+#### **Educational Materials**
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/civics/">  
+<img src="/images/edumaterials1.png" style="width:21.5%;margin-right:15px;" align = "left">
+</a></p>
 
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/teaching-of-arithmetics/">  
+<img src="/images/edumaterials2.png" style="width:20%;margin-right:15px;" align = "left">
+</a></p>
 
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/teaching-of-speech/">  
+<img src="/images/edumaterials3.png" style="width:21%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/teaching-of-music/">  
+<img src="/images/edumaterials4.png" style="width:21%;margin-right:15px;" align = "left">
+</a></p>
 
