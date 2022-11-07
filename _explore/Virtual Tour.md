@@ -3,9 +3,6 @@ title: Virtual Tour
 permalink: /explore/
 description: ""
 ---
-
-
-
 ### **Virtual Tour**
 
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour/index.html">  
@@ -14,7 +11,7 @@ description: ""
 
 |  |
 |:---:|
-| **[Click here to begin Virtual Tour](https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour)** |
+| **[Click here to begin Virtual Tour](https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour)** <br>need help with migrating |
 |  |
 
 ### **Explore in Detail**
