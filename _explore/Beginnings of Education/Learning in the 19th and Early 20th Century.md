@@ -344,6 +344,10 @@ Raffles College Collection, courtesy of National Archives of Singapore.
 </ul>
 
 #### **Educational Materials **
+<p><a href="">  
+<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
 
 
 ### **Early 20th Century**
