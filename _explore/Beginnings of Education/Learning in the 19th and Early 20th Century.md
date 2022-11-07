@@ -24,7 +24,16 @@ _Courtesy of Singapore Land Authority_
 <div>  
   
 <p>
-text
+Amoy Street was located near the shore and attracted many migrants arriving from Amoy in China. Amoy Street became known as ‘Free School Street’ after the establishment of Cui Ying School in 1854, which offered lessons for free. The first Anglo-Chinese School was also established there in 1886.<br><br>
+
+-image-<br>
+<b>Cui Ying School (1854).</b><br>
+Courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>
+<b>Anglo-Chinese School (1886).</b><br>
+Courtesy of National Archives of Singapore.
+	
 </p>  
   
 </div>  
@@ -39,7 +48,9 @@ text
 <div>  
   
 <p>
-text
+Bras Basah Road was the site of several schools set up by missionaries. These included St Joseph’s Institution, formerly known as St John’s School in 1852, and the first Convent of the Holy Infant Jesus school, known as Town Convent in 1854.
+
+
 </p>  
   
 </div>  
@@ -144,4 +155,3 @@ text
 </li>	
   
 </ul>
-
