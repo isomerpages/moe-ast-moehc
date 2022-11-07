@@ -6,7 +6,7 @@ third_nav_title: Heritage Spotlights
 ---
 ### **NIE 70th Anniversary Celebrations**
 
-<img src="/images/70th%20anniversary.png" style="width:65%">
+<img src="/images/70th%20anniversary.png" style="width:45%">
 
 17 Jun 2020 I 1 min read
 
