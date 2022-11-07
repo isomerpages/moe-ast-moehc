@@ -12,7 +12,7 @@ third_nav_title: Heritage Spotlights
 
 Wondering what to do during this June Holiday? Fret not, we have compiled a list of exciting activities that you can enjoy with the whole family and learn about our shared heritage at the same time!
 
-1\. Artefact Highlights: Show and Tell by the **[National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/june-hol-ff-21)**
+**1\. Artefact Highlights: Show and Tell by the [National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/june-hol-ff-21)**
 
 <p><a href="https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/june-hol-ff-21"> 
 <img src="/images/heritageactivities2.png" style="width:50%" align=left>
@@ -25,7 +25,7 @@ Find out how growing up in the 1980s and 90s were like through Singapore’s cur
 **Suitable for:** Age 7 and up<br>
 **Registration: [https://ah210602.peatix.com/](https://ah210602.peatix.com/)**
 
-2\. Home in the Museum: A Treasure Hunt by the **[National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/june-hol-ff-21)**
+**2\. Home in the Museum: A Treasure Hunt by the [National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/june-hol-ff-21)**
 
 <img src="/images/heritageactivities3.png" style="width:50%" align=left>
 
@@ -36,7 +36,7 @@ Want to stretch your legs? Embark on this treasure hunt to help Dennis the Otter
 **Suitable for:** Age 7 and up<br>
 **Registration:** [Home in the Museum](https://peatix.com/event/1925139/view)
 
-3\. My First Wayang Kulit Show by the **[Malay Heritage Centre](https://www.malayheritage.gov.sg/en)**
+**3\. My First Wayang Kulit Show by the [Malay Heritage Centre](https://www.malayheritage.gov.sg/en)**
 
 <img src="/images/heritageactivities4.png" style="width:50%" align=left>
 
@@ -47,7 +47,7 @@ What do you know about the traditional puppet show wayang kulit? Explore the won
 **Details:** Online, no registration required.<br>
 **Link:** [https://www.malayheritage.gov.sg/myfirstwayangkulitshow](https://www.malayheritage.gov.sg/myfirstwayangkulitshow)
 
-4\. Faith Beauty Love Hope – Into 2021 by **[Asian Civilisations Museum](https://www.nhb.gov.sg/acm)**
+**4\. Faith Beauty Love Hope – Into 2021 by [Asian Civilisations Museum](https://www.nhb.gov.sg/acm)**
 
 <img src="/images/heritageactivities5.png" style="width:50%" align=left>
 
@@ -58,7 +58,7 @@ Don’t worry if you missed ACM’s Faith Beauty Love Hope – Our Stories Your 
 **Details:** Family trail for ages 9 and up<br>
 **Link:** [https://www.nhb.gov.sg/acm/whats-on/exhibitions/faith-beauty-love-hope-2021](https://www.nhb.gov.sg/acm/whats-on/exhibitions/faith-beauty-love-hope-2021)
 
-5\. Let’s Talk About School! Conversation Cards by MOE Heritage Centre
+**5\. Let’s Talk About School! Conversation Cards by MOE Heritage Centre**
 
 <img src="/images/heritageactivities6.png" style="width:50%" align=left>
 
@@ -79,4 +79,3 @@ This isn’t heritage-related, but did you know that the Young Scientist Badge S
 
 **Details:** Open to all primary school students<br>
 **Link:** [https://www.science.edu.sg/for-schools/resources/young-scientist-badge-scheme](https://safe.menlosecurity.com/https://www.science.edu.sg/for-schools/resources/young-scientist-badge-scheme)
-
