@@ -81,7 +81,7 @@ Developed by: University of Glasgow<br>
 [Link](https://www.futurelearn.com/courses/museum-learning#section-overview)
 
 ##### **Activity: Let's Talk About School - A Family Conversation Card Set**
-<img src="/images/heritageresources11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/heritageresources11.png" style="width:30%;margin-right:15px;" align = "left">
 What better way to learn about how school was like in the past than to hear about it  
 from someone who went to school then? Use this set of cards to have fun dinner  
 conversation with your family members and share with each other your school day  
@@ -95,6 +95,3 @@ Find out more about the range of Heritage Education Programmes available from th
   
 Developed by: National Heritage Board<br>
 [Link](https://www.youtube.com/playlist?list=PLE2_iMKVKlHvi0LN4C-ui7WdwqY3UGx2Y)
-
-
-
