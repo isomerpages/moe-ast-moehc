@@ -345,24 +345,32 @@ Raffles College Collection, courtesy of National Archives of Singapore.
 </ul>
 
 #### **Educational Materials**
-<p><a href="">  
-<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials1.png">  
+<img src="/images/educationalmaterials1.png" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-![](/images/educationalmaterials1.png)
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials2.png">  
+<img src="/images/educationalmaterials2.png" style="width:29%;margin-right:15px;" align = "left">
+</a></p>
 
-![](/images/educationalmaterials2.png)
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials3.png">  
+<img src="/images/educationalmaterials3.png" style="width:28%;margin-right:15px;" align = "left">
+</a></p>
 
-![](/images/educationalmaterials3.png)
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials4.png">  
+<img src="/images/educationalmaterials4.png" style="width:28%;margin-right:15px;" align = "left">
+</a></p>
 
-![](/images/educationalmaterials4.png)
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials5.png">  
+<img src="/images/educationalmaterials5.png" style="width:29%;margin-right:15px;" align = "left">
+</a></p>
 
-![](/images/educationalmaterials5.png)
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials6.png">  
+<img src="/images/educationalmaterials6.png" style="width:28%;margin-right:15px;" align = "left">
+</a></p>
 
-![](/images/educationalmaterials6.png)
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/educationalmaterials7.png">  
+<img src="/images/educationalmaterials7.png" style="width:28%">
+</a></p>
 
-![](/images/educationalmaterials7.png)
 
-
-
-### **Early 20th Century**
