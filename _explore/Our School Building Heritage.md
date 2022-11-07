@@ -9,7 +9,7 @@ Discover our school heritage and how school designs have transformed over the ye
 #### **Early School Spaces**
 
 <img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
-In the early 1800s until the 1940s before World War II broke out, schools were mainly set up by various communities whose main purpose was to provide education for their children.
+<b>In the early 1800s until the 1940s before World War II broke out, schools were mainly set up by various communities whose main purpose was to provide education for their children.</b>
 
 <ul class="jekyllcodex_accordion">  
   
@@ -111,3 +111,72 @@ Schools were often set up in kampongs so that people living in villages would ha
 </ul>
 
 #### **Standardising School Designs**
+
+<img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
+
+<b>During post-war Singapore, it became the top priority of the day to ensure that every child had a place in school. The 1960s saw schools being built rapidly and the addition of new facilities to meet the needs of the developing nation.</b>
+
+<ul class="jekyllcodex_accordion">  
+  
+<li>  
+  
+<input type="checkbox" id="accordion5">  
+  
+<label for="accordion5">Multi-Storey Schools</label>  
+  
+<div>  
+  
+<p>
+Under the 1947 Ten-Year Programme, five standard school designs were created. This included multi-storey school buildings which were proposed to maximise land space. By building upwards, schools were able to increase student enrolment and accommodate more facilities.<br><br>
+
+-image-<br>
+<b>One of the school designs during the 1950s.</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>
+<b>A three-storey primary school by Public Works Department (1955).</b><br>Public Works Department Collection, courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>
+<b>A four-storey school building with a playing field (1958).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+	
+
+
+</p>  
+  
+</div>  
+  
+</li>  
+<li>  
+  
+<input type="checkbox" id="accordion6">  
+  
+<label for="accordion6">title</label>  
+  
+<div>  
+  
+<p>
+text
+</p>  
+  
+</div>  
+  
+</li>  
+  
+<li>  
+  
+<input type="checkbox" id="accordion7">  
+  
+<label for="accordion7">title</label>  
+  
+<div>  
+  
+<p>
+text	
+  
+</p>  
+  
+</div>  
+  
+</li>  
+  
+</ul>
