@@ -161,29 +161,81 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 
 <br><br>
 <b>Extra-Curricular Activities</b><br>
-The Government saw sports and games as a good way to cultivate teamwork and a healthy spirit of competition in schools. Together with clubs and uniformed groups, these Extra Curricular Activities (ECAs) were aimed at developing well-rounded students outside the classroom. In 1975, ECAs were made compulsory for all secondary school students.	
+The Government saw sports and games as a good way to cultivate teamwork and a healthy spirit of competition in schools. Together with clubs and uniformed groups, these Extra Curricular Activities (ECAs) were aimed at developing well-rounded students outside the classroom. In 1975, ECAs were made compulsory for all secondary school students.<br><br>
+	
+-image-<br>
+<b>A school brass band rehearsal (1967).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>Junior Red Cross members learning to administer first aid (1969).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>National Cadet Corps members on parade for Speech Day (1975).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+	
+-image-<br>
+<b>A mass Wushu display by students (1970s).</b>
+
+<br><br>
+<b>Singapore Youth Festival</b><br>
+The first Singapore Youth Festival was launched on 18 July 1967. This annual event celebrates the accomplishments of students in sports, arts and music. Over the years, it has become a platform for students to showcase their artistic and musical talents.<br><br>
+
+-image-<br>
+<b>A school band performance at the opening of the first Singapore Youth Festival (1967).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+
+-image-<br>
+<b>A concert band competition at the Singapore Youth Festival (1968).</b>
+
+<br><br>
+-image-<br>
+<b>An Arts and Crafts exhibition at the Victoria Memorial Hall (1974).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+	
+<br><br>
+-image-<br>
+<b>Dancers performing at the first Singapore Youth Festival (1967).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+
+<br><br>
+-image-<br>
+<b>Mass display for the Singapore Youth Festival at the National Stadium (1975).</b><br>
+Singapore Tourism Board Collection, courtesy of National Archives of Singapore.
+	
+<br><br>
+<b>	Physical Education </b><br>
+Physical Education (PE) was added to the curriculum during this era. PE was seen as essential for developing students’ sportsmanship, teamwork and motor skills. Students also engaged in friendly competition with their peers during their school’s annual Sports Day.
+
+<br><br>
+-image-<br>
+<b>Sports Day at Thomson Shin Min Public School (1966).</b><br>
+Shin Min Public School Collection, courtesy of National Archives of Singapore.
+
+<br><br>
+-image-<br>
+<b>Students competing in a game of tug-of-war (1960s).</b>	
+	
+<br><br>
+-image-<br>
+<b>Students doing log exercises as a team during PE lessons (1970).</b>		
+	
+<br><br>
+-image-<br>
+<b>Outward Bound adventure course training at Pulau Ubin Camp (1967).</b><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+	
+<br><br>
+-image-<br>
+<b>Students playing basketball (1970s).</b>
 	
 </p>  
   
 </div>  
   
 </li>  
-	
-<li>  
-  
-<input type="checkbox" id="accordion4">  
-  
-<label for="accordion4">title</label>  
-  
-<div>  
-  
-<p>
-text
-</p>  
-  
-</div>  
-  
-</li>  	
   
 </ul>
+
 
