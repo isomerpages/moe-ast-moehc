@@ -94,7 +94,6 @@ Courtesy of Gan Eng Seng School.
 <input type="checkbox" id="accordion4">  
   
 <label for="accordion4">English Schools</label>  
-  
 <div>  
   
 <p>
@@ -210,6 +209,8 @@ The National Archives of the UK, ref. CO1069/485 (23).
 </li>	
   
 </ul>
+
+### **Early 20th Century**
 
 <img src="/images/runningvillagesch.png" style="width:85%">
 
@@ -343,7 +344,7 @@ Raffles College Collection, courtesy of National Archives of Singapore.
   
 </ul>
 
-#### **Educational Materials **
+#### **Educational Materials**
 <p><a href="">  
 <img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
