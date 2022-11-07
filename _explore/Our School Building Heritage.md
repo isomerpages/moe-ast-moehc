@@ -11,6 +11,8 @@ Discover our school heritage and how school designs have transformed over the ye
 <img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
 <b>In the early 1800s until the 1940s before World War II broke out, schools were mainly set up by various communities whose main purpose was to provide education for their children.</b>
 
+<br clear="left">
+
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -115,6 +117,8 @@ Schools were often set up in kampongs so that people living in villages would ha
 <img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
 <b>During post-war Singapore, it became the top priority of the day to ensure that every child had a place in school. The 1960s saw schools being built rapidly and the addition of new facilities to meet the needs of the developing nation.</b>
 
+<br clear="left">
+
 <ul class="jekyllcodex_accordion">  
   
 <li>  
@@ -207,18 +211,30 @@ Integrated schools were created to foster bonding among students from two or mor
 <img src="/images/schbuildingheritage.png" style="width:35%;margin-right:15px;" align = "left">
 <b>With a growing population in the 1970s and 1980s, more schools were built in new housing estates. These schools sported new designs and were equipped with modern facilities. Over the years, many schools developed their own architectural identity.</b>
 
+<br clear="left">
+
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
 <input type="checkbox" id="accordion8">  
   
-<label for="accordion8">title</label>  
+<label for="accordion8">Junior Colleges</label>  
   
 <div>  
   
 <p>
-text
+In 1969, the first junior college, National Junior College, was established. Every junior college was given a six-hectare plot of land and equipped with lecture theatres, audio-visual rooms, language and computer laboratories, multi-purpose halls as well as a host of sports facilities.<br><br>
+
+-image-<br>
+<b>First junior college, National Junior College at Linden Drive (1968).</b><br><br>
+
+-image-<br>
+<b>Second government junior college, Temasek Junior College in 1976 with improvements made based on the first junior college.</b><br><br>
+
+-image-<br>
+<b>One of the seven junior colleges, Raffles Junior College in the early 1980s. This follows the success of the initial Junior College Building Programme in the 1970s.</b>
+
 </p>  
   
 </div>  
@@ -228,12 +244,22 @@ text
   
 <input type="checkbox" id="accordion9">  
   
-<label for="accordion9">title</label>  
+<label for="accordion9">'1980' Generation Schools</label>  
   
 <div>  
   
 <p>
-text
+New school designs sprang up in emerging housing estates. 12 different plans were introduced and each had a unique design identity. A common school design was a large sloping tiled roof and a steel space frame over a concourse.<br><br>
+
+-image-<br>
+<b>School design of the 1980s, featuring a sloping tiled roof as seen at Bedok Town Secondary School (1984).</b><br><br>
+
+-image-<br>
+<b>Radin Mas Primary School at Bukit Purmei Avenue.</b><br><br>
+
+-image-<br>
+<b>Jing Shan Primary School at Jalan Lempong with a cubist design for a visually distinctive look.</b>
+	
 </p>  
   
 </div>  
@@ -244,12 +270,21 @@ text
   
 <input type="checkbox" id="accordion10">  
   
-<label for="accordion10">title</label>  
+<label for="accordion10">PRIME</label>  
   
 <div>  
   
 <p>
-text	
+In 1999, MOE launched Programme for Rebuilding and Improving Existing Schools (PRIME) in line with the vision of ‘Thinking Schools, Learning Nation’. Schools constructed before 1997 would be upgraded or rebuilt in phases, to ensure a conducive environment for teaching and learning.<br><br>
+
+-image-<br>	
+<b>Bukit View Primary School after PRIME upgrading in 2001, with improved facilities such as a new classroom block and additional computer and science laboratories.</b><br><br>
+
+-image-<br>	
+<b>Fajar Secondary School with a new building frontage after PRIME upgrading.</b><br><br>
+
+-image-<br>	
+<b>Changkat Primary School at its present premise in 2004, after relocating from an external holding site due to PRIME.</b>
   
 </p>  
   
@@ -261,12 +296,25 @@ text
   
 <input type="checkbox" id="accordion11">  
   
-<label for="accordion11">title</label>  
+<label for="accordion11">FlexSI</label>  
   
 <div>  
   
 <p>
-text
+Complementing PRIME, Flexible School Infrastructure (FlexSI) framework was introduced in 2005 to give primary and secondary schools more control over their spaces. This provided school infrastructure with greater flexibility in teaching and learning.<br><br>
+
+-image-<br>
+<b>Many-In-One Room that can be converted for different learning activities.</b><br><br>
+
+-image-<br>
+<b>Modular furniture are used to facilitate large group lectures.</b><br><br>
+
+-image-<br>
+<b>External areas, such as an outdoor learning trail, is converted into a learning space for students.</b><br><br>
+
+-image-<br>
+<b>Outdoor amphitheatre at Fairfield Methodist Primary School supports the visual and performing arts.</b>
+	
 </p>  
   
 </div>  
@@ -277,17 +325,52 @@ text
   
 <input type="checkbox" id="accordion12">  
   
-<label for="accordion12">title</label>  
+<label for="accordion12">Indoor Sports Hall</label>  
   
 <div>  
   
 <p>
-text	
+In 2006, MOE announced the provision of an indoor sports hall in schools to promote greater sports participation. Schools were able to vary the design of their sports hall to match students’ needs and construct different sports facilities indoors.<br><br>
+
+-image-<br>	
+<b>Unity Primary School has an indoor sports hall elevated over a court.</b><br><br>
+
+-image-<br>	
+<b>Fajar Secondary School’s newly renovated indoor sports hall.</b><br><br>
+
+-image-<br>	
+<b>CHIJ Secondary (Toa Payoh) has an indoor sports hall located on the roof level, above their multi-purpose hall.</b>
   
 </p>  
   
 </div>  
   
 </li>  
+	
+<li>  
+  
+<input type="checkbox" id="accordion13">  
+  
+<label for="accordion13">MOE Kindergartens</label>  
+  
+<div>  
+  
+<p>
+MOE also launched their first five pilot MOE Kindergartens in 2014 to provide affordable, quality pre-school education. Located within primary schools and community spaces, these schools are designed to provide purposeful spaces for learn and play.<br><br>
+
+-image-<br>
+<b>Inviting indoor spaces to support teaching and learning.</b><br><br>
+
+-image-<br>
+<b>Specially designed outdoor spaces to engage and excite children.</b>
+
+
+	
+  
+</p>  
+  
+</div>  
+  
+</li>  	
 	
 </ul>
