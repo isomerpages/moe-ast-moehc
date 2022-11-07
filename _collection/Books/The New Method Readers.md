@@ -10,18 +10,14 @@ third_nav_title: Books
 
 <br clear="left">
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tnmr2.png">  
 <img src="/images/tnmr2.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tnmr3.png">  
 <img src="/images/tnmr3.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tnmr4.png">  
 <img src="/images/tnmr4.png" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
-
-![](/images/tnmr2.png)
-![](/images/tnmr3.png)
-![](/images/tnmr4.png)
