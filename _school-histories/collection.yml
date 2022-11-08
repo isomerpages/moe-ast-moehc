@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Anchor Green Primary School.md
       - School Histories/Anderson Junior College.md
       - School Histories/Anderson Primary School.md
       - School Histories/Anderson Secondary School.md
