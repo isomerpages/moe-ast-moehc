@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Cedar Boys' Primary School.md
       - School Histories/Cedar Girls' Primary School.md
       - School Histories/Cedar Girls' Secondary School.md
       - School Histories/Cedar Primary School.md
