@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Belvedere School (Bukit Merah).md
       - School Histories/Bendemeer Primary School.md
       - School Histories/Bendemeer Secondary School.md
       - School Histories/Beng Wan Primary School.md
