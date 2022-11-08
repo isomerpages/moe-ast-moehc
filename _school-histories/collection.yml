@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Charlton School.md
       - School Histories/Chestnut Drive Secondary School.md
       - School Histories/CHIJ (Katong) Primary.md
       - School Histories/CHIJ Katong Convent.md
