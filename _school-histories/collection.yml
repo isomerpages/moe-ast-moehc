@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Cairnhill Primary School.md
       - School Histories/Cambridge Primary School.md
       - School Histories/Canberra Primary School.md
       - School Histories/Canberra Secondary School.md
