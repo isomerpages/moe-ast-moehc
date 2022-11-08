@@ -189,7 +189,7 @@ To foster a sense of national unity, all students sing the national anthem, Maju
 Tampines Primary School Collection, courtesy of National Archives of Singapore.</figcaption>
 </figure>	
 	
-Local folk songs like [_Di Tanjong Katong_](https://www.youtube.com/watch?v=vL3-AixDU2U&feature=emb_title)_,_ [_Munnaeru Vaalibaa_](https://www.youtube.com/watch?v=hOeZcU9ifKg&feature=emb_logo) _and Xiao Bai Chuan_ were sung in music classes to connect students with their heritage and cultural roots, as well as learn more about their peers from other ethnic groups.<br><br>
+Local folk songs like <a href="https://www.youtube.com/watch?v=vL3-AixDU2U&feature=emb_title">Di Tanjong Katong</a>, <a href="https://www.youtube.com/watch?v=hOeZcU9ifKg&feature=emb_logo">Munnaeru Vaalibaa</a> and Xiao Bai Chuan were sung in music classes to connect students with their heritage and cultural roots, as well as learn more about their peers from other ethnic groups.<br><br>
 	
 <b>Preparing a Skilled Workforce</b><br><br>
 	
