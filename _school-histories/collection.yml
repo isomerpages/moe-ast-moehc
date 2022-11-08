@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bishan Park Secondary School.md
       - School Histories/Blangah Rise Primary School.md
       - School Histories/Boo Teck School (Farrer Park).md
       - School Histories/Boon Keng Primary School.md
