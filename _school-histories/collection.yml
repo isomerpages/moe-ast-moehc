@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Casuarina Primary School.md
       - School Histories/Catholic High School.md
       - School Histories/Catholic Junior College.md
       - School Histories/Cedar Boys' Primary School.md
