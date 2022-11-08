@@ -49,6 +49,7 @@ Soh Chuan Lam Collection, courtesy of National Archives of Singapore.
 	
 The teaching of Japanese in schools was also made compulsory in 1942. Teachers had to undergo Japanese language instruction and were banned from using the English language in schools. Teachers who struggled to learn the language or who were unwilling to learn were dismissed.	<br>
 	
+<figure>	
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation2.png">  
 <img src="/images/japaneseoccupation2.png" style="width:30%;margin-right:15px;" align = "left"> 
 </a></p>	
@@ -63,7 +64,7 @@ The teaching of Japanese in schools was also made compulsory in 1942. Teachers h
 
 <br clear="left">	
 	
-<figure><strong>Newspapers featuring lessons on conversational Japanese.</strong>
+<figcaption><strong>Newspapers featuring lessons on conversational Japanese.</strong>
 </figcaption>  
 </figure>		
 
