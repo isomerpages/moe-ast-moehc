@@ -38,7 +38,7 @@ A key step in rebuilding education was the formulation of the Ten-Year Programme
 <br clear="left">	
 	
 <figcaption><strong>
-Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>The document states the principles behind Singapore’s education policy for the next ten years.<br>Courtesy of National Library Board.
+Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>The document states the principles behind Singapore’s education policy for the next ten years.Courtesy of National Library Board.
 </figcaption>	
 </figure>
 	
