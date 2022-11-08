@@ -128,8 +128,6 @@ Courtesy of National Archives of Singapore.
   
 <p>
 When Singapore attained independence in 1965, the Government envisioned a rugged society comprising citizens who were physically fit, tough and ready to work hard to build a nation.
-</figcaption>
-</figure>		
 	
 <b>Creating Shared Identity</b><br><br>
 	
