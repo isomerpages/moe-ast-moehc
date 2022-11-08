@@ -50,15 +50,15 @@ Soh Chuan Lam Collection, courtesy of National Archives of Singapore.
 The teaching of Japanese in schools was also made compulsory in 1942. Teachers had to undergo Japanese language instruction and were banned from using the English language in schools. Teachers who struggled to learn the language or who were unwilling to learn were dismissed.	<br>
 	
 <figure>	
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation2.png">  
+<p><a> href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation2.png">  
 <img src="/images/japaneseoccupation2.png" style="width:30%;margin-right:15px;" align = "left"> 
 </a></p>	
 	
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation3.png">  
+<p><a> href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation3.png">  
 <img src="/images/japaneseoccupation3.png" style="width:30%;margin-right:15px;" align = "left"> 
 </a></p>	
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation4.png">  
+<p><a> href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation4.png">  
 <img src="/images/japaneseoccupation4.png" style="width:30%;margin-right:15px;" align = "left"> 
 </a></p>		
 
@@ -87,7 +87,7 @@ Every morning, students and teachers had to assemble, face the direction of the 
 
 <figure>	
 <img src="/images/japaneseoccupation5.png" style="width:65%">
-<figcaption><strong>People bowing to the Japanese troops (1945).</b><br>
+<figcaption><strong>People bowing to the Japanese troops (1945).</strong><br>
 Argus newspaper collection of war photographs, State Library of Victoria.
 </figcaption>
 </figure>	
@@ -121,14 +121,14 @@ F A C Oehlers Collection, courtesy of National Archives of Singapore.
 <img src="/images/edumat1.png" style="width:20%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-conversation-textbook/">  
+<p><a> href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-conversation-textbook/">  
 <img src="/images/edumat2.png" style="width:21%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-language-textbook-with-malay-translation/">  
+<p><a> href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-language-textbook-with-malay-translation/">  
 <img src="/images/edumat3.png" style="width:20%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-textbooks-for-teachers/">  
+<p><a> href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-textbooks-for-teachers/">  
 <img src="/images/edumat4.png" style="width:21%;margin-right:15px;" align = "left">
 </a></p>
