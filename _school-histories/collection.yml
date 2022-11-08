@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bendemeer Secondary School.md
       - School Histories/Beng Wan Primary School.md
       - School Histories/Birkhall Road School.md
       - School Histories/Bishan Park Secondary School.md
