@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/CHIJ Primary (Toa Payoh).md
       - School Histories/CHIJ Secondary.md
       - School Histories/CHIJ St Nicholas Girls' School.md
       - School Histories/CHIJ St Joseph's Convent.md
