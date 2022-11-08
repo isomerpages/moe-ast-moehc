@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Boon Keng Primary School.md
       - School Histories/Boon Lay Garden Primary School.md
       - School Histories/Boon Lay Primary School.md
       - School Histories/Boon Lay Secondary School.md
