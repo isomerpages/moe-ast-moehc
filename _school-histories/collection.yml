@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Cantonment Primary School.md
       - School Histories/Cantonment School.md
       - School Histories/Casuarina Primary School.md
       - School Histories/Catholic High School.md
