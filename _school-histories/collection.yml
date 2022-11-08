@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Anderson Primary School.md
       - School Histories/Anderson Secondary School.md
       - School Histories/Anderson Serangoon Junior College.md
       - School Histories/Ang Mo Kio Primary School.md
