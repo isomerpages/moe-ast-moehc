@@ -88,13 +88,19 @@ Lim Kheng Chye Collection, courtesy of National Archives of Singapore.
 <p>
 As a landing site for early immigrants, Telok Ayer Street was an enclave for the Chinese community in the 1820s. Chinese philanthropists and clan associations set up schools like Chongwen Ge in 1849 and Anglo-Chinese Free School (Gan Eng Seng School today) in 1855 to cater to the Chinese community.<br><br>
 
+<figure>	
 <img src="/images/telokayer1.png" style="width:65%"><br>
 <strong>Chongwen Ge (1849).</strong><br>
-Andrew Tan Collection, courtesy of National Archives of Singapore.<br><br>
+Andrew Tan Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 
+<figure>	
 <img src="/images/telokayer2.png" style="width:65%"><br>
 <strong>Anglo-Chinese Free School (1855).</strong><br>
 Courtesy of Gan Eng Seng School.
+</figcaption>  
+</figure>	
 	
 </p>  
   
