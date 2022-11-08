@@ -57,14 +57,19 @@ Courtesy of National Archives of Singapore.
 <p>
 Bras Basah Road was the site of several schools set up by missionaries. These included St Joseph’s Institution, formerly known as St John’s School in 1852, and the first Convent of the Holy Infant Jesus school, known as Town Convent in 1854.<br><br>
 
+<figure>	
 <img src="/images/brasbasah1.png" style="width:65%">	
--image-<br>
-<b>St John’s School (1852).</b><br>
-Arshak C Galstaun Collection, courtesy of National Archives of Singapore.br><br>
+<strong>St John’s School (1852).</strong><br>
+Arshak C Galstaun Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 
+<figure>		
 <img src="/images/brasbasah2.png" style="width:65%"><br>
-<b>Town Convent (1854).</b><br>
+<strong>Town Convent (1854).</strong><br>
 Lim Kheng Chye Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>			
 
 </p>  
   
