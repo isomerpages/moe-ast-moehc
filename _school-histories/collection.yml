@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Admiralty Secondary School.md
       - School Histories/Ahmad Ibrahim Primary School.md
       - School Histories/Ahmad Ibrahim Secondary School.md
       - School Histories/Ai Tong School.md
