@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Braddell Primary School.md
       - School Histories/Braddell Westlake Secondary School.md
       - School Histories/Broadrick Primary School.md
       - School Histories/Broadrick Secondary School.md
