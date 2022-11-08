@@ -42,7 +42,7 @@ Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>T
 </figcaption>	
 </figure>
 	
-<img src="/images/restoringeducation4.jpg" style="width:40%;margin-left:15px;" align = "right">	
+<img src="/images/restoringeducation4.jpg" style="width:40%">
 The government continued to push through its efforts for a centralised education system through the 1956 White Paper on Education Policy. The White Paper suggested the increased use of Malayan-centred textbooks and a multilingual programme in schools, so as to achieve social cohesion between students from different language streams.	
 	
 <br clear="left">		
