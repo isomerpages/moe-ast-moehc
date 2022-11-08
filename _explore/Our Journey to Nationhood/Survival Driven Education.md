@@ -220,9 +220,9 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 
 <figure>
 <img src="/images/survivaldrivenc12.png" style="width:65%">
-<figcaption><strong>Founding of Singapore Polytechnic in 1954 that goes beyond technical education to provide vocational training.
+<figcaption><strong>Founding of Singapore Polytechnic in 1954 that goes beyond technical education to provide vocational training.</strong>
 </figcaption>
-</figure>		
+</figure>	
 
 <br><br>
 <b>Extra-Curricular Activities</b><br>
