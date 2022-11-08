@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bartley Secondary School.md
       - School Histories/Batu Berlayar School.md
       - School Histories/Beacon Primary School.md
       - School Histories/Beatty Primary School.md
