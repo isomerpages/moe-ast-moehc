@@ -30,16 +30,16 @@ Amoy Street was located near the shore and attracted many migrants arriving from
 <img src="/images/amoy1.png" style="width:65%">
 <figcaption> <strong>Cui Ying School (1854).</strong><br>
 Courtesy of National Archives of Singapore.
- </figcaption>  
-	</figure>
+</figcaption>  
+</figure>
 
 
 <figure>	
 <img src="/images/amoy2.png" style="width:65%">
 <figcaption> <strong>Anglo-Chinese School (1886).</strong><br>
 Courtesy of National Archives of Singapore.
- </figcaption>  
-	</figure>	
+</figcaption>  
+</figure>	
 	
 </p>  
   
