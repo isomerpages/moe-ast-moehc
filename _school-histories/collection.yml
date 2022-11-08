@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/CHIJ Kellock.md
       - School Histories/CHIJ Opera Estate Primary School.md
       - School Histories/CHIJ Our Lady Of Good Counsel.md
       - School Histories/CHIJ Our Lady Of The Nativity.md
