@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Anthony Road Girls' School.md
       - School Histories/Aroozoo School.md
       - School Histories/Assumption English School.md
       - School Histories/Assumption Pathway School.md
