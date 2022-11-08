@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Anglo Chinese School (Junior).md
       - School Histories/Anglo Chinese School (Primary).md
       - School Histories/Angsana Primary School.md
       - School Histories/Anthony Road Girls' School.md
