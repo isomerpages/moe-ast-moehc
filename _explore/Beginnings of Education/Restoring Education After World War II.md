@@ -42,7 +42,7 @@ Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>T
 </figcaption>	
 </figure>
 	
-image (align right)<br>	
+<img src="/images/restoringeducation4.jpg" style="width:60%;margin-left:15px;" align = "right">	
 The government continued to push through its efforts for a centralised education system through the 1956 White Paper on Education Policy. The White Paper suggested the increased use of Malayan-centred textbooks and a multilingual programme in schools, so as to achieve social cohesion between students from different language streams.	
 	
 </p>  
@@ -62,7 +62,7 @@ The government continued to push through its efforts for a centralised education
 The post-war period saw shortages of food, medicine and other basic supplies. Many schools had also been damaged or destroyed, which led to limited places in school and a lack of proper facilities. Teaching materials were inadequate and there were not enough teachers.<br><br>
 
 <figure>	
-<img src="/images/restoringeducation4.jpg" style="width:65%">
+<img src="/images/restoringeducation5.png" style="width:65%">
 <figcaption><strong>Mobile rationing units distributing supplies to residents (1949).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>	
@@ -86,7 +86,7 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 Many returning students were overaged and had their education disrupted due to the war. To alleviate the problem of limited spaces in schools, double-session schooling (morning and afternoon) was introduced to take in more students. Night schools were also set up for students to continue their lessons after hours.<br><br>
 
 <figure>	
-<img src="/images/restoringeducation5.png" style="width:65%">
+<img src="/images/restoringeducation6.png" style="width:65%">
 <figcaption><strong>
 A night class at Thomson Shin Min Public School catering to youths whose education was disrupted during the Japanese Occupation (1949).</strong><br>
 Shin Min Public School Collection, courtesy of National Archives of Singapore.	
@@ -111,21 +111,21 @@ Shin Min Public School Collection, courtesy of National Archives of Singapore.
 In 1950, the Teachers’ Training College was established to address the acute shortage of teachers after the war. Housed in the old premises of Anglo-Chinese School at Cairnhill Road, its role was to centralise teacher training and meet the demand for locally trained teachers. The curriculum comprised studies in education theories and psychology, language, civics as well as art, music and physical education.<br><br>
 	
 <figure>	
-<img src="/images/restoringeducation6.png" style="width:65%">
+<img src="/images/restoringeducation7.png" style="width:65%">
 <figcaption><strong>
 Teachers' Training College at Cairnhill Road (1950).</strong>
 </figcaption>
 </figure>	
 
 <figure>	
-<img src="/images/restoringeducation7.png" style="width:65%">
+<img src="/images/restoringeducation8.png" style="width:65%">
 <figcaption><strong>
 Teachers playing their musical instruments after lunch (1950s).</strong>
 </figcaption>	
 </figure>	
 
 <figure>	
-<img src="/images/restoringeducation8.png" style="width:65%">
+<img src="/images/restoringeducation9.png" style="width:65%">
 <figcaption><strong>
 Teachers-in-training doing physical exercises at the Teachers’ Training College (1954).</strong>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
@@ -133,14 +133,14 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 </figure>
 	
 <figure>	
-<img src="/images/restoringeducation9.png" style="width:65%">
+<img src="/images/restoringeducation10.png" style="width:65%">
 <figcaption><strong>Teachers-in-training attending lectures at the Teachers’ Training College (1954).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 </figcaption>	
 </figure>	
 
 <figure>	
-<img src="/images/restoringeducation10.png" style="width:65%">
+<img src="/images/restoringeducation11.png" style="width:65%">
 <figcaption><strong>
 Teachers' Training College at Paterson Road, between 1956 and 1965.</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
