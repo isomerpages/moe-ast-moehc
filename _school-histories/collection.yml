@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/CHIJ St Nicholas Girls' School.md
       - School Histories/CHIJ St Joseph's Convent.md
       - School Histories/CHIJ St Theresa's Convent.md
       - School Histories/Chong Boon Secondary School.md
