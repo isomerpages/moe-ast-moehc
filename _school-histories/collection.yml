@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Balestier Hill East Primary School.md
       - School Histories/Balestier Hill Primary School.md
       - School Histories/Balestier Hill Primary School (1986 to 1988).md
       - School Histories/Balestier Hill Secondary School.md
