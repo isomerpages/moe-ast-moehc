@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bukit Panjang Government High School.md
       - School Histories/Bukit Panjang Primary School.md
       - School Histories/Bukit Timah Primary School.md
       - School Histories/Bukit View Primary School.md
