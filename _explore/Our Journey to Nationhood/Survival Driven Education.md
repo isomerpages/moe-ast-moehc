@@ -23,14 +23,14 @@ A commission of inquiry was set up in 1962 to review the education system. The k
 	
 <figure>
 <img src="/images/survivaldrivena1.jpg" style="width:45%">
-<strong>1963 Final Report of the Commission of Inquiry into Education.</strong><br>
+<figcaption><strong>1963 Final Report of the Commission of Inquiry into Education.</strong><br>
 Courtesy of National Library Board, Singapore.
 </figcaption>
 </figure>	
 	
 <figure>	
 <img src="/images/survivaldrivena2.jpg" style="width:45%">
-<strong>The report outlines the key functions and responsibilities of the Ministry of Education.</strong><br>
+<figcaption><strong>The report outlines the key functions and responsibilities of the Ministry of Education.</strong><br>
 Courtesy of National Library Board, Singapore.
 </figcaption>
 </figure>	
@@ -53,14 +53,14 @@ As Singapore became self-governing in 1959, education and schools became crucial
 	
 <figure>	
 <img src="/images/survivaldrivenb1.png" style="width:65%">
-<strong>School building in construction (1962).</strong><br>
+<figcaption><strong>School building in construction (1962).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>		
 	
 <figure>	
 <img src="/images/survivaldrivenb2.png" style="width:65%">
-<strong>Malay-medium schools like Sang Nila Utama and Tun Seri Lanang Secondary Schools were set up by the Government to provide support for Malay education.</strong><br>
+<figcaption><strong>Malay-medium schools like Sang Nila Utama and Tun Seri Lanang Secondary Schools were set up by the Government to provide support for Malay education.</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
@@ -72,42 +72,42 @@ By the mid-1980s, many island schools closed down as more islanders moved to wor
 
 <figure>
 <img src="/images/survivaldrivenb3.png" style="width:65%">
-<strong>Crowds at the opening of Kampong Pasir (Tekong) Malay School by Prime Minister Lee Kuan Yew (1963).</strong><br>
+<figcaption><strong>Crowds at the opening of Kampong Pasir (Tekong) Malay School by Prime Minister Lee Kuan Yew (1963).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenb4.png" style="width:65%">
-<strong>St John’s English School (c. 1960s).</strong><br>
+<figcaption><strong>St John’s English School (c. 1960s).</strong><br>
 Courtesy of Mrs Lim Siew Yong.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenb5.png" style="width:65%">
-<strong>Assembly at a school on Pulau Sudong (1963).</strong><br>
+<figcaption><strong>Assembly at a school on Pulau Sudong (1963).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenb6.png" style="width:65%">
-<strong>School Sports Day at Pulau Seraya.</strong><br>
+<figcaption><strong>School Sports Day at Pulau Seraya.</strong><br>
 Courtesy of Mr Yahya bin Japris.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenb7.png" style="width:65%">
-<strong>Teachers on a sampan.</strong><br>
+<figcaption><strong>Teachers on a sampan.</strong><br>
 Photo by Mr Hoo Tor Kwun, Courtesy of Singapore Memory Project.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenb8.png" style="width:65%">
-<strong>Vacant Bin Kiang School at Pulau Ubin (1992).</strong><br>
+<figcaption><strong>Vacant Bin Kiang School at Pulau Ubin (1992).</strong><br>
 Courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
@@ -135,7 +135,7 @@ When Singapore attained independence in 1965, the Government envisioned a rugged
 	
 <figure>	
 <img src="/images/survivaldrivenc1.png" style="width:65%">
-<strong>School children holding national flags (1963).</strong><br>
+<figcaption><strong>School children holding national flags (1963).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
@@ -146,39 +146,39 @@ Schools were constructed with a similar look and feel to create a common identit
 
 <figure>
 <img src="/images/survivaldrivenc2.png" style="width:65%">
-<strong>Typical design for a primary school, a compact ‘H’ shape building (1967).</strong><br>
+<figcaption><strong>Typical design for a primary school, a compact ‘H’ shape building (1967).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc3.png" style="width:65%">
-<strong>Teachers and students reading together in the school library (1960s).</strong>
+<figcaption><strong>Teachers and students reading together in the school library (1960s).</strong>
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc4.png" style="width:65%">
-<strong>Students sitting for examinations in the school hall (1960s).</strong></figcaption>
+<figcaption><strong>Students sitting for examinations in the school hall (1960s).</strong></figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc5.png" style="width:65%">
-<strong>Students attending Silat Integrated School (1963).</strong><br>
+<figcaption><strong>Students attending Silat Integrated School (1963).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>	
 <img src="/images/survivaldrivenc6.png" style="width:65%">
-<strong>Students of Tanglin Integrated Secondary Technical School (1965).</strong><br>
+<figcaption><strong>Students of Tanglin Integrated Secondary Technical School (1965).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>	
 <img src="/images/survivaldrivenc7.png" style="width:65%">
-<strong>Teachers and students at morning assembly (1966).</strong><br>
+<figcaption><strong>Teachers and students at morning assembly (1966).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
@@ -187,7 +187,7 @@ To foster a sense of national unity, all students sing the national anthem, Maju
 
 <figure>
 <img src="/images/survivaldrivenc8.png" style="width:65%">
-<strong>Students of Tampines Primary School in ethnic costumes (1964 – 1980).</strong><br>
+<figcaption><strong>Students of Tampines Primary School in ethnic costumes (1964 – 1980).</strong><br>
 Tampines Primary School Collection, courtesy of National Archives of Singapore.</figcaption>
 </figure>	
 	
@@ -197,7 +197,7 @@ Local folk songs like [_Di Tanjong Katong_](https://www.youtube.com/watch?v=vL3
 	
 <figure>
 <img src="/images/survivaldrivenc9.png" style="width:65%">
-<strong>Yang di-Pertuan Negara Yusof Ishak, with Minister for Education Mr Yong Nyuk Lin during a visit to Queenstown Technical School (1962).</strong><br>
+<figcaption><strong>Yang di-Pertuan Negara Yusof Ishak, with Minister for Education Mr Yong Nyuk Lin during a visit to Queenstown Technical School (1962).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
@@ -208,21 +208,21 @@ Technical education was implemented to cater to the needs of a labour-intensive 
 
 <figure>
 <img src="/images/survivaldrivenc10.png" style="width:65%">
-<strong>Woodwork class at Kim Seng Technical School (1966).</strong><br>
+<figcaption><strong>Woodwork class at Kim Seng Technical School (1966).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc11.png" style="width:65%">
-<strong>Metalwork class at Balestier Trade School (1959).</strong><br>
+<figcaption><strong>Metalwork class at Balestier Trade School (1959).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc12.png" style="width:65%">
-<strong>Founding of Singapore Polytechnic in 1954 that goes beyond technical education to provide vocational training.
+<figcaption><strong>Founding of Singapore Polytechnic in 1954 that goes beyond technical education to provide vocational training.
 </figcaption>
 </figure>		
 
@@ -232,28 +232,28 @@ The Government saw sports and games as a good way to cultivate teamwork and a he
 	
 <figure>	
 <img src="/images/survivaldrivenc13.png" style="width:65%">
-<strong>A school brass band rehearsal (1967).</strong><br>
+<figcaption><strong>A school brass band rehearsal (1967).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>	
 <img src="/images/survivaldrivenc14.png" style="width:65%">
-<strong>Junior Red Cross members learning to administer first aid (1969).</strong><br>
+<figcaption><strong>Junior Red Cross members learning to administer first aid (1969).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>	
 <img src="/images/survivaldrivenc15.png" style="width:65%">
-<strong>National Cadet Corps members on parade for Speech Day (1975).</strong><br>
+<figcaption><strong>National Cadet Corps members on parade for Speech Day (1975).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>	
 <img src="/images/survivaldrivenc16.png" style="width:65%">
-<strong>A mass Wushu display by students (1970s).</strong>
+<figcaption><strong>A mass Wushu display by students (1970s).</strong>
 </figcaption>
 </figure>
 
@@ -263,73 +263,73 @@ The first Singapore Youth Festival was launched on 18 July 1967. This annual eve
 
 <figure>
 <img src="/images/survivaldrivenc17.png" style="width:65%">
-<strong>A school band performance at the opening of the first Singapore Youth Festival (1967).</strong><br>
+<figcaption><strong>A school band performance at the opening of the first Singapore Youth Festival (1967).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc18.png" style="width:65%">
-<strong>A concert band competition at the Singapore Youth Festival (1968).</strong>
+<figcaption><strong>A concert band competition at the Singapore Youth Festival (1968).</strong>
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc19.png" style="width:65%">
-<strong>An Arts and Crafts exhibition at the Victoria Memorial Hall (1974).</strong><br>
+<figcaption><strong>An Arts and Crafts exhibition at the Victoria Memorial Hall (1974).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>
 <img src="/images/survivaldrivenc20.png" style="width:65%">
-<strong>Dancers performing at the first Singapore Youth Festival (1967).</strong><br>
+<figcaption><strong>Dancers performing at the first Singapore Youth Festival (1967).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc21.png" style="width:65%">
-<strong>Mass display for the Singapore Youth Festival at the National Stadium (1975).</strong><br>
+<figcaption><strong>Mass display for the Singapore Youth Festival at the National Stadium (1975).</strong><br>
 Singapore Tourism Board Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>
-<strong>	Physical Education </strong><br>
+<figcaption><strong>Physical Education </strong><br>
 Physical Education (PE) was added to the curriculum during this era. PE was seen as essential for developing students’ sportsmanship, teamwork and motor skills. Students also engaged in friendly competition with their peers during their school’s annual Sports Day.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc22.png" style="width:65%">
-<strong>Sports Day at Thomson Shin Min Public School (1966).</strong><br>
+<figcaption><strong>Sports Day at Thomson Shin Min Public School (1966).</strong><br>
 Shin Min Public School Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
 <figure>
 <img src="/images/survivaldrivenc23.png" style="width:65%">
-<strong>Students competing in a game of tug-of-war (1960s).</strong>	
+<figcaption><strong>Students competing in a game of tug-of-war (1960s).</strong>	
 </figcaption>
 </figure>	
 	
 <figure>
 <img src="/images/survivaldrivenc24.png" style="width:65%">
-<strong>Students doing log exercises as a team during PE lessons (1970).</strong>		
+<figcaption><strong>Students doing log exercises as a team during PE lessons (1970).</strong>		
 </figcaption>
 </figure>	
 	
 <figure>
 <img src="/images/survivaldrivenc25.png" style="width:65%">
-<strong>Outward Bound adventure course training at Pulau Ubin Camp (1967).</strong><br>
+<figcaption><strong>Outward Bound adventure course training at Pulau Ubin Camp (1967).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
 <figure>
 <img src="/images/survivaldrivenc26.png" style="width:65%">
-<strong>Students playing basketball (1970s).</strong>
+<figcaption><strong>Students playing basketball (1970s).</strong>
 </figcaption>
 </figure>	
 	
