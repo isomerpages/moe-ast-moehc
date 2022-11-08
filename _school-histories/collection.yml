@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Alexandra Estate Primary School.md
       - School Histories/Alexandra Hill Primary School.md
       - School Histories/Alexandra Primary School.md
       - School Histories/Aljunied Primary School.md
