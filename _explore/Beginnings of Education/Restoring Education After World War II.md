@@ -127,7 +127,7 @@ Teachers playing their musical instruments after lunch (1950s).</strong>
 <figure>	
 <img src="/images/restoringeducation8.png" style="width:65%">
 <figcaption><strong>
-Teachers-in-training doing physical exercises at the Teachers’ Training College (1954).<br>
+Teachers-in-training doing physical exercises at the Teachers’ Training College (1954).</strong>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 </figcaption>	
 </figure>
