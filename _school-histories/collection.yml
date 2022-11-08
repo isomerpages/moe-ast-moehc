@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Ang Mo Kio Secondary School.md
       - School Histories/Anglican High School.md
       - School Histories/Anglo Chinese School (Barker Road).md
       - School Histories/Anglo Chinese Junior College.md
