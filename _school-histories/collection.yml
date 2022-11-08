@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bukit View Secondary School.md
       - School Histories/Buona Vista Secondary School.md
       - School Histories/Cairnhill Primary School.md
       - School Histories/Cambridge Primary School.md
