@@ -118,9 +118,12 @@ Courtesy of Gan Eng Seng School.
 <p>
 Before the British arrived, there were no schools in Singapore offering instruction in English. It was only in 1834 that the first English school, Singapore Free School, was set up. In addition to English classes, it offered several elementary classes in Malay, Chinese and Tamil. This was followed by several other English schools, which flourished under the colonial government.<br><br>
 
+<figure>	
 <img src="/images/engsch.png" style="width:65%"><br>
 <strong>The Singapore Institution (1849 - 1841), also called The Singapore Free School and currently known as Raffles Institution.</strong><br>
 Lee Kip Lin Collection, PictureSG, National Library, Singapore.	
+</figcaption>  
+</figure>	
 	
 </p>  
   
@@ -139,13 +142,19 @@ Lee Kip Lin Collection, PictureSG, National Library, Singapore.
 <p>
 The early Malay schools were relatively modest, with lessons conducted amid informal settings in rural areas. The curriculum was mainly religious in nature. Children were taught various crafts and gardening to contribute to the community. In 1856, more formal Malay schools were established at Telok Blangah and Kampong Glam.<br><br>
 
+<figure>	
 <img src="/images/malaysch1.png" style="width:65%"><br>
 <strong>Malay schoolboys walking past village houses on the way to school (c. 1905).</strong><br>
-Arshak C Galstaun Collection, courtesy of National Archives of Singapore.<br><br>
+Arshak C Galstaun Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>
 
+<figure>	
 <img src="/images/malaysch2.png" style="width:65%"><br>
 <strong>Students at the Malay Boys’ School (c. 1900 – 1906).</strong><br>
 Reproduced by kind permission of the Syndics of Cambridge University Library.	
+</figcaption>  
+</figure>	
 
 </p>  
   
@@ -163,13 +172,19 @@ Reproduced by kind permission of the Syndics of Cambridge University Library.
 <p>
 The early Chinese schools were established by wealthy businessmen, clan associations and Christian missionaries to cater to the Chinese community. Located in shophouses, temples or private residences, most of these schools taught a classical Chinese curriculum including abacus and letter-writing skills.<br><br>
 
+<figure>	
 <img src="/images/chisch1.png" style="width:65%"><br>
 <strong>Cui Ying School (c. 1905).</strong><br>
-Courtesy of National Archives of Singapore.<br><br>
+Courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 
+<figure>	
 <img src="/images/chisch2.png" style="width:65%"><br>
 <strong>Teachers and students at Anglo-Chinese School (1800s).</strong><br>
-Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.	
+Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 
 </p>  
   
@@ -188,13 +203,19 @@ Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.
 <p>
 There were comparatively few Tamil schools in the early days, in proportion to the population of immigrants from India. Started by the colonial government and Christian missionaries, these schools were located in shophouses and typically taught by a single teacher. Many of the early Tamil schools struggled to survive due to a lack of qualified teachers and textbooks.<br><br>
 
+<figure>	
 <img src="/images/tamilsch1.png" style="width:65%"><br>
 <strong>An Anglo-Tamil school and church (1880s).</strong><br>
-Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.<br><br>
+Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 
+<figure>	
 <img src="/images/tamilsch2.png" style="width:65%"><br>
 <strong>Anglo-Tamil School set up by the Methodist Mission (1880s).</strong><br>
 Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
   
 </p>  
   
@@ -213,13 +234,19 @@ Morgan Betty Bassett Collection, courtesy of National Archives of Singapore.
 <p>
 Following the establishment of an Education Department under the colonial government, Allan Maclean Skinner became the first Inspector of Schools of the Straits Settlement. He set up the Malay Teachers’ College in 1878 to meet the growing demand for locally trained Malay teachers. Newly graduated trainee teachers, mostly scholars, had to commit to a bond to teach for at least three years afterward.<br><br>
 
+<figure>	
 <img src="/images/firstlocaltcher1.png" style="width:65%"><br>
 <strong>The Malay Teachers’ College established at Telok Blangah (1880).</strong><br>
-The National Archives of the UK, ref. CO1069/485 (24).<br><br>
+The National Archives of the UK, ref. CO1069/485 (24).
+</figcaption>  
+</figure>	
 
+<figure>	
 <img src="/images/firstlocaltcher2.png" style="width:65%"><br>
 <strong>Graduates of Malay Teachers’ College (1880).</strong><br>
-The National Archives of the UK, ref. CO1069/485 (23).	
+The National Archives of the UK, ref. CO1069/485 (23).
+</figcaption>  
+</figure>	
 
 </p>  
   
@@ -248,17 +275,26 @@ By the turn of the 20th century Singapore was thriving commercially, which led 
 <p>
 Several new primary schools were set up in the early 20th century as branch schools to Raffles Institution. Students were taught a British syllabus using books printed in England and had to pass Standard Five (Primary Five) to progress to secondary level at Raffles Institution. In 1919, Malay boys who passed Standard Three could also progress to other English Schools.<br><br>
 	
+<figure>	
 <img src="/images/govtengsch1.png" style="width:65%"><br>
 <strong>Raffles Institution (1905).</strong><br>
-Arshak C Galstaun Collection, courtesy of National Archives of Singapore.<br><br>
+Arshak C Galstaun Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 	
-<img src="/images/govtengsch2.png" style="width:65%"><br>
+<figure>	
+<img src="/images/govtengsch2.png" style="width:65%">
 <strong>Standard VIII students at Raffles Institution (1940s).</strong><br>
-Raffles Institution Collection, courtesy of National Archives of Singapore.<br><br>
+Raffles Institution Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 	
--image-<br>
-<b>The first all-boys orchestra at Telok Kurau English School (1930).</b><br>
+<figure>	
+<img src="/images/govtengsch3.png" style="width:65%">
+<strong>The first all-boys orchestra at Telok Kurau English School (1930).</strong><br>
 Courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>	
 
 	
 </p>  
@@ -277,21 +313,32 @@ Courtesy of National Archives of Singapore.
 <p>
 The vernacular schools of the Chinese, Malay and Tamil communities began to modernise their curricula and teach subjects beyond basic literacy, though their focus remained on religious studies. Enrolment increased, and many schools moved from rented shophouses to purpose-built buildings or larger school premises in new locations. Before the outbreak of World War II, there were 38,000 students enrolled in Chinese schools, 5,800 in Malay schools, and 1,000 in Tamil schools.<br><br>
 	
+<figure>	
 <img src="/images/vernacularsch1.png" style="width:65%"><br>
 <strong>Students coming out of Tao Nan School (1909).</strong><br>
-Edward William Newell Collection, courtesy of National Archives of Singapore.<br><br>
+Edward William Newell Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/vernacularsch2.png" style="width:65%"><br>	
 <strong>Teaching staff and students at Chong Hock Girls’ School (1922).</strong><br>
-Chong Hock Girls' School Collection, courtesy of National Archives of Singapore.<br><br>
+Chong Hock Girls' School Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/vernacularsch3.png" style="width:65%"><br>
 <strong>A Malay Girls’ School (c. 1910).</strong><br>
-Courtesy of National Archives of Singapore.<br><br>
+Courtesy of National Archives of Singapore.</figcaption>  
+</figure>	
 	
+<figure>	
 <img src="/images/vernacularsch4.png" style="width:65%"><br>	
 <strong>First batch of Tamil students from Umar Pulavar School (1947).</strong><br>
 Umar Pulavar Tamil School Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 
 </p>  
   
@@ -309,18 +356,26 @@ Umar Pulavar Tamil School Collection, courtesy of National Archives of Singapore
   
 <p>
 New branch schools like Katong Convent and St Patrick’s School were established by the Convent of the Holy Infant Jesus and the De La Salle Brothers of St Joseph’s Institution respectively. Both were boarding schools, and provided a well-rounded education as well as imparting Christian doctrine.<br><br>
-	
+<figure>	
 <img src="/images/missionsch1.png" style="width:65%"><br>
 <strong>Student boarders from the Convent of the Holy Infant Jesus at play (1924).</strong><br>
-Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.<br><br>
+Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/missionsch2.png" style="width:65%"><br>
 <strong>Orphans having a meal at the Convent of the Holy Infant Jesus (1924).</strong><br>
-Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.<br><br>
+Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/missionsch3.png" style="width:65%"><br>
 <strong>Founder of St Patrick’s School, Brother Stephen Buckley with the Junior Cambridge class (1935).</strong><br>
 Courtesy of St Patrick’s School.	
+</figcaption>  
+</figure>		
   
 </p>  
   
@@ -339,21 +394,33 @@ Courtesy of St Patrick’s School.
 <p>
 Tertiary education was introduced during the early 20th century. The first tertiary institution was the Straits and Federated Malay States Government Medical School in 1905, followed by Raffles College in 1928, a college for higher education in the arts and sciences. The two institutions later merged to form the University of Malaya in 1949.<br><br>
 	
+<figure>	
 <img src="/images/tertiaryinstitutions1.png" style="width:65%"><br>
 <strong>Students at King Edward VII College of Medicine (1930s).</strong><br>
-Lee Kip Lin Collection, courtesy of National Archives of Singapore..<br><br>
+Lee Kip Lin Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/tertiaryinstitutions2.png" style="width:65%"><br>
 <strong>Raffles College at Bukit Timah Road (c. 1938).</strong><br>
-Raffles College Collection, courtesy of National Archives of Singapore.<br><br>
+Raffles College Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/tertiaryinstitutions3.png" style="width:65%"><br>
 <strong>An inter-college football match between Raffles College and King Edward VII College of Medicine (1938).</strong><br>
-Raffles College Collection, courtesy of National Archives of Singapore.<br><br>
+Raffles College Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 	
+<figure>	
 <img src="/images/tertiaryinstitutions4.png" style="width:65%"><br>
 <strong>Raffles College students at the school’s hostel (1939).</strong><br>
 Raffles College Collection, courtesy of National Archives of Singapore.
+</figcaption>  
+</figure>		
 
 </p>  
   
