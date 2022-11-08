@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bedok Town Primary School.md
       - School Histories/Bedok Town Secondary School.md
       - School Histories/Bedok View Primary School.md
       - School Histories/Bedok View Secondary School.md
