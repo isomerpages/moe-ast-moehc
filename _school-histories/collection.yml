@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Chai Chee Secondary School.md
       - School Histories/Changkat Changi Secondary School.md
       - School Histories/Changkat Primary School.md
       - School Histories/Chao Yang School.md
