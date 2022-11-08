@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Aroozoo School.md
       - School Histories/Assumption English School.md
       - School Histories/Assumption Pathway School.md
       - School Histories/Balestier Boys' School.md
