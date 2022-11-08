@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Anglo Chinese School (Barker Road).md
       - School Histories/Anglo Chinese Junior College.md
       - School Histories/Anglo Chinese School (Independent).md
       - School Histories/Anglo Chinese School (Junior).md
