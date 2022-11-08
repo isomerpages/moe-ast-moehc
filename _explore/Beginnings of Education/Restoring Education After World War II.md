@@ -62,7 +62,7 @@ The government continued to push through its efforts for a centralised education
 The post-war period saw shortages of food, medicine and other basic supplies. Many schools had also been damaged or destroyed, which led to limited places in school and a lack of proper facilities. Teaching materials were inadequate and there were not enough teachers.<br><br>
 
 <figure>	
-<img src="/images/restoringeducation4.png" style="width:65%">
+<img src="/images/restoringeducation4.jpg" style="width:65%">
 <figcaption><strong>Mobile rationing units distributing supplies to residents (1949).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>	
@@ -120,22 +120,22 @@ Teachers' Training College at Cairnhill Road (1950).</strong>
 <figure>	
 <img src="/images/restoringeducation7.png" style="width:65%">
 <figcaption><strong>
-<b>Teachers playing their musical instruments after lunch (1950s).</strong>
+Teachers playing their musical instruments after lunch (1950s).</strong>
 </figcaption>	
 </figure>	
 
 <figure>	
 <img src="/images/restoringeducation8.png" style="width:65%">
 <figcaption><strong>
-Teachers-in-training doing physical exercises at the Teachers’ Training College (1954).</b><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+Teachers-in-training doing physical exercises at the Teachers’ Training College (1954).<br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 </figcaption>	
 </figure>
 	
 <figure>	
 <img src="/images/restoringeducation9.png" style="width:65%">
 <figcaption><strong>Teachers-in-training attending lectures at the Teachers’ Training College (1954).</strong><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
 </figcaption>	
 </figure>	
 
