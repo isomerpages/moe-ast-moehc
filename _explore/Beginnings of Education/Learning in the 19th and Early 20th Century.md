@@ -26,13 +26,20 @@ _Courtesy of Singapore Land Authority_
 <p>
 Amoy Street was located near the shore and attracted many migrants arriving from Amoy in China. Amoy Street became known as ‘Free School Street’ after the establishment of Cui Ying School in 1854, which offered lessons for free. The first Anglo-Chinese School was also established there in 1886.<br><br>
 
-<img src="/images/amoy1.png" style="width:65%"><br>
-<b>Cui Ying School (1854).</b><br>
-Courtesy of National Archives of Singapore.<br><br>
-
-<img src="/images/amoy2.png" style="width:65%"><br>
-<b>Anglo-Chinese School (1886).</b><br>
+<figure>	
+<img src="/images/amoy1.png" style="width:65%">
+<figcaption> <strong>Cui Ying School (1854).</strong><br>
 Courtesy of National Archives of Singapore.
+ </figcaption>  
+	</figure>
+
+
+<figure>	
+<img src="/images/amoy2.png" style="width:65%">
+<figcaption> <strong>Anglo-Chinese School (1886).</strong><br>
+Courtesy of National Archives of Singapore.
+ </figcaption>  
+	</figure>	
 	
 </p>  
   
