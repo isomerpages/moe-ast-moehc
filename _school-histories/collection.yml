@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/CHIJ St Theresa's Convent.md
       - School Histories/Chong Boon Secondary School.md
       - School Histories/Chong De Primary School.md
       - School Histories/Chong Li Primary School.md
