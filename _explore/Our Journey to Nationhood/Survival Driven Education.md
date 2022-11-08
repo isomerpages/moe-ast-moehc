@@ -19,7 +19,7 @@ The 1960s were tough years for Singapore. As the people geared up for independen
 <div>  
   
 <p>
-A commission of inquiry was set up in 1962 to review the education system. The key findings were documented in the [1963 Final Report of the Commission of Inquiry into Education](https://eresources.nlb.gov.sg/history/events/c2904412-398a-467d-af9f-949cf76d7a63). The report contained recommendations to review the structure of the school system, teaching methods as well as teacher training.<br><br>
+A commission of inquiry was set up in 1962 to review the education system. The key findings were documented in the <a href="https://eresources.nlb.gov.sg/history/events/c2904412-398a-467d-af9f-949cf76d7a63">1963 Final Report of the Commission of Inquiry into Education</a>. The report contained recommendations to review the structure of the school system, teaching methods as well as teacher training.<br><br>
 	
 <figure>
 <img src="/images/survivaldrivena1.jpg" style="width:45%">
