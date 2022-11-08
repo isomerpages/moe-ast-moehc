@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Bukit Ho Swee Primary School.md
       - School Histories/Bukit Ho Swee Secondary School.md
       - School Histories/Bukit Merah North School.md
       - School Histories/Bukit Merah Primary School.md
