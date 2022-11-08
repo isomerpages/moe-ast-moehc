@@ -40,7 +40,7 @@ A key step in rebuilding education was the formulation of the Ten-Year Programme
 <figcaption><strong>
 Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>The document states the principles behind Singapore’s education policy for the next ten years.<br>Courtesy of National Library Board.
 </figcaption>	
-</strong>
+</figure>
 	
 image (align right)<br>	
 The government continued to push through its efforts for a centralised education system through the 1956 White Paper on Education Policy. The White Paper suggested the increased use of Malayan-centred textbooks and a multilingual programme in schools, so as to achieve social cohesion between students from different language streams.	
@@ -135,7 +135,7 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 <figure>	
 <img src="/images/restoringeducation9.png" style="width:65%">
 <figcaption><strong>Teachers-in-training attending lectures at the Teachers’ Training College (1954).</strong><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>	
 </figure>	
 
