@@ -97,9 +97,9 @@ Among all structural shapes, the triangle is the most stable, conveying the scho
 
 The lighthouse emphasises that every student is to be a guiding light that shines, reflecting the school motto.
 
-The central figure underscores the student-centred education that the school aims to provide, and the six beams symbolise the school values that the students will live by.
-
 <br clear="left">
+
+The central figure underscores the student-centred education that the school aims to provide, and the six beams symbolise the school values that the students will live by.
 
 #### **School Song**
 
