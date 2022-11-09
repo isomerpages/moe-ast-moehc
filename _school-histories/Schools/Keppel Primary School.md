@@ -1,0 +1,7 @@
+---
+title: Keppel Primary School
+permalink: /school-histories/keppel-pri/
+description: ""
+third_nav_title: Schools
+---
+
