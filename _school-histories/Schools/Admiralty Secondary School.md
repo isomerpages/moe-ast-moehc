@@ -58,7 +58,7 @@ ADSS recognises the potential of technology to transform society. The school enh
 
 Riding on its strength in technology, ADSS introduced its Applied Learning Programme (ALP) and Learning for Life Programme (LLP) in 2014 and 2015 respectively. The ALP, ‘Design Thinking through Innovation and Technology’, aims to equip all students with basic skills in electronics, programming and coding, as well as to empathise with users through Design Thinking. The LLP, ‘Nurturing Mindful Leaders Through Community Outreach’, develops leaders who demonstrate the school values by equipping them with necessary life skills to be responsible, caring and world-ready citizens.
 
-ADSS observed that its ALP and LLP could complement each other in providing a meaningful and authentic context for learning. Recognising the importance for students to develop competencies to thrive in an increasingly digitised world, ADSS introduced the iPad as an educational tool for students to take greater ownership of their learning. All students would own and use the iPad during lessons_._ These initiatives embrace the school’s focus on future-proofing the students, and developing them as self-directed learners with 21st-century competencies.
+ADSS observed that its ALP and LLP could complement each other in providing a meaningful and authentic context for learning. Recognising the importance for students to develop competencies to thrive in an increasingly digitised world, ADSS introduced the iPad as an educational tool for students to take greater ownership of their learning. All students would own and use the iPad during lessons. These initiatives embrace the school’s focus on future-proofing the students, and developing them as self-directed learners with 21st-century competencies.
 
 In commemoration of ADSS’ 15th anniversary in 2017, the school took stock of its growth in the community with the launch of the ADSS Heritage Space – a place that documents the development of the school from its inception to its present state, as well as the changing face of the northern tip of Singapore. A Northern Heritage Trail was launched in collaboration with the National Heritage Board (NHB) to partner the community in appreciating the rich culture and history of the northern area – Woodlands, Sembawang, Yishun and Admiralty.
 
@@ -128,4 +128,3 @@ Be a guiding light<br>
 Be a guiding light<br>
 We will always be steadfast and shining<br>
 Daring to pursue our dreams
-
