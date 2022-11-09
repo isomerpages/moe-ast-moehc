@@ -50,4 +50,10 @@ sections:
       url: https://form.gov.sg/#!/5d5ce49deae0bb00128b8ef5
       subtitle: MOE HEritage Centre
       description: Be the first to know of upcoming events!
+  - infobar:
+      title: Something to contribute?
+      subtitle: MOE HEritage Centre
+      description: School Histories Online Contribution
+      button: Contact Us
+      url: https://form.gov.sg/#!/5f728518ce42b600116dfdbe
 ---
