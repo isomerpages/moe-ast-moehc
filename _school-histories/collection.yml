@@ -2,7 +2,7 @@ collections:
   school-histories:
     output: true
     order:
-      - School Histories.md
+      - Schools/.keep
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
       - Schools/Ahmad Ibrahim Primary School.md
@@ -581,4 +581,4 @@ collections:
       - Schools/Zhenghua Secondary School.md
       - Schools/Zhonghua Primary School.md
       - Schools/Zhonghua Secondary School.md
-      - Schools/.keep
+      - School Histories.md
