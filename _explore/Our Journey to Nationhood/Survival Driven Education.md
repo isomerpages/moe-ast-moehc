@@ -224,7 +224,6 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 </figcaption>
 </figure>	
 
-<br><br>
 <b>Extra-Curricular Activities</b><br>
 The Government saw sports and games as a good way to cultivate teamwork and a healthy spirit of competition in schools. Together with clubs and uniformed groups, these Extra Curricular Activities (ECAs) were aimed at developing well-rounded students outside the classroom. In 1975, ECAs were made compulsory for all secondary school students.
 	
