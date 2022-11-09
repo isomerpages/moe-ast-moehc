@@ -69,7 +69,7 @@ TTC was replaced by the Institute of Education (IE), marking a milestone of orga
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation5.jpg" style="width:65%">
+<img src="/images/ourteachereducation5.jpg" style="width:55%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -153,7 +153,7 @@ The establishment of the Teachers Network in 1998 was a concrete move towards pr
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation10.jpg" style="width:65%">
+<img src="/images/ourteachereducation10.png" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -170,7 +170,7 @@ text
 </figcaption>
 </figure>
 
-	<b>2005: Expanding Opportunities for Lifelong Learning</b><br>
+<b>2005: Expanding Opportunities for Lifelong Learning</b><br>
 The Professional Development Continuum Model was implemented by MOE in collaboration with NIE, to empower teachers to pursue professional upgrading and in-service course accreditation.<br><br>
 
 <figure>
@@ -181,7 +181,7 @@ text
 </figcaption>
 </figure>
 	
-<b>### 2007: A Whole-School Approach for Professional Development</b><br>
+<b> 2007: A Whole-School Approach for Professional Development</b><br>
 The School Staff Developer position was created in 2007 to help school leaders look into systematic professional development of teachers and staff within a school.<br><br>
 
 <figure>
@@ -207,12 +207,12 @@ text
 Academy of Singapore Teachers (AST) was established on 1 September as a leading academy championing professional excellence and development for the teaching fraternity.<br><br>
 Built on the foundation of the former Training and Development Division and Teachers Network, AST, together with the teacher academies and language centres, continues the work of providing all educators with quality learning opportunities while advancing its philosophy of ‘teacher-ownership, teacher-leadership.’<br><br>
 	
-	<b>2017: A Model for Pedagogical Excellence</b><br>
+<b>2017: A Model for Pedagogical Excellence</b><br>
 The Singapore Teaching Practice, a model of teaching and learning built on past experiences, was introduced to guide and strengthen effective teaching and learning. Jointly developed by local educators and researchers, it articulated the beliefs of the teaching fraternity and distilled teaching practices that worked in our Singapore context.<br><br>
 	
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation15.jpg" style="width:65%">
+<img src="/images/ourteachereducation15.png" style="width:55%">
 <strong>text</strong><br>
 text
 </figcaption>
