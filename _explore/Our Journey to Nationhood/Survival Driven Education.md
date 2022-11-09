@@ -255,7 +255,6 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 </figcaption>
 </figure>
 
-<br><br>
 <b>Singapore Youth Festival</b><br>
 The first Singapore Youth Festival was launched on 18 July 1967. This annual event celebrates the accomplishments of students in sports, arts and music. Over the years, it has become a platform for students to showcase their artistic and musical talents.<br><br>
 
