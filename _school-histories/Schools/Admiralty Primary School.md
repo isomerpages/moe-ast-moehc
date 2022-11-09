@@ -4,7 +4,6 @@ permalink: /school-histories/admps/
 description: ""
 third_nav_title: Schools
 ---
-
 <img src="/images/admps.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Admiralty Primary School**
@@ -14,17 +13,41 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps1.jpg">  
 <img src="/images/admps1.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps2.jpg">  
 <img src="/images/admps2.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps3.jpg">  
 <img src="/images/admps3.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
 
 <br clear="left">
 
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps4.jpg">  
 <img src="/images/admps4.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/admps5.jpeg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps6.jpg">  
 <img src="/images/admps6.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps8.jpg">  
 <img src="/images/admps8.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps7.jpg">  
 <img src="/images/admps7.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps5.jpeg">  
+<img src="/images/admps5.jpeg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
 
 <br clear="left">
 
