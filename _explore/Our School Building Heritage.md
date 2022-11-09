@@ -27,13 +27,13 @@ Discover our school heritage and how school designs have transformed over the ye
 These were purpose-built buildings erected for educational use. Many of these schools were built in the European architectural style.<br><br>
 	
 -image-<br>
-<b>St Joseph’s Institution building at Bras Basah Road, completed in 1867 (c. 1900).</b><br>Arshak C Galstaun Collection, courtesy of National Archives of Singapore.<br><br>
+<b>St Joseph’s Institution building at Bras Basah Road, completed in 1867 (c. 1900).</b><br>Arshak C Galstaun Collection, courtesy of National Archives of Singapore.
 	
 -image-<br>
-<b>Alsagoff Arabic School, established in 1912, was named after Syed Mohamed Alsagoff, a wealthy Arab merchant and philanthropist.</b><br>© Urban Redevelopment Authority. All rights reserved.<br><br>
+<b>Alsagoff Arabic School, established in 1912, was named after Syed Mohamed Alsagoff, a wealthy Arab merchant and philanthropist.</b><br>© Urban Redevelopment Authority. All rights reserved.
 	
 -image-<br>
-<b>Tao Nan School (1920s).</b><br>Francis Lee Collection, courtesy of National Archives of Singapore.<br><br>
+<b>Tao Nan School (1920s).</b><br>Francis Lee Collection, courtesy of National Archives of Singapore.
 	
 -image-<br>
 <b>Raffles Institution at Bras Basah Road (1920).</b><br>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.
@@ -75,7 +75,7 @@ Places of worship like temples, churches and mosques bonded people within their 
 Many early schools started in shophouses that functioned as living quarters for immigrants, or offices for clan associations. These shophouses were built with a covered five-foot-way at the shopfront and were either two or three storeys.<br><br>
 	
 -image-<br>	
-<b>The first Anglo-Chinese School in a shophouse at 70 Amoy Street.</b><br>Courtesy of Anglo-Chinese Schools Board of Governors.<br><br>
+<b>The first Anglo-Chinese School in a shophouse at 70 Amoy Street.</b><br>Courtesy of Anglo-Chinese Schools Board of Governors.
 	
 -image-<br>
 <b>Teachers and students at Former Vinayagananda Tamil School.</b><br>
@@ -99,7 +99,7 @@ Francis Lee Collection, courtesy of National Archives of Singapore
 Schools were often set up in kampongs so that people living in villages would have access to education. A village school was typically built with an attap roof and wooden walls.<br><br>
 	
 -image-<br>	
-<b>Chin San Primary School (now Jingshan Primary School), was built and founded by businessmen and villagers of the Chin San Village in the 1940s.</b><br><br>
+<b>Chin San Primary School (now Jingshan Primary School), was built and founded by businessmen and villagers of the Chin San Village in the 1940s.</b>
 	
 -image-<br>
 <b>Hong San Primary School (now Fengshan Primary School) building in the 1950s. It was first set up as a village school in the 1933.</b>
@@ -133,10 +133,10 @@ Schools were often set up in kampongs so that people living in villages would ha
 Under the 1947 Ten-Year Programme, five standard school designs were created. This included multi-storey school buildings which were proposed to maximise land space. By building upwards, schools were able to increase student enrolment and accommodate more facilities.<br><br>
 
 -image-<br>
-<b>One of the school designs during the 1950s.</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+<b>One of the school designs during the 1950s.</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 -image-<br>
-<b>A three-storey primary school by Public Works Department (1955).</b><br>Public Works Department Collection, courtesy of National Archives of Singapore.<br><br>
+<b>A three-storey primary school by Public Works Department (1955).</b><br>Public Works Department Collection, courtesy of National Archives of Singapore.
 
 -image-<br>
 <b>A four-storey school building with a playing field (1958).</b><br>
@@ -156,18 +156,18 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 <div>  
   
 <p>
-As the nation shifted its focus towards technical and science education, technical schools were built and facilities were expanded to accommodate the curriculum. Science laboratories, metal and carpentry workshops and home economic rooms became standard features in schools. <br><br>
+As the nation shifted its focus towards technical and science education, technical schools were built and facilities were expanded to accommodate the curriculum. Science laboratories, metal and carpentry workshops and home economic rooms became standard features in schools. 
 
 -image-<br>
 <b>Metal workshop of Serangoon Secondary Technical School and Thomson Primary Technical School (1964).</b><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 -image-<br>
 <b>Home economics room of Serangoon Secondary Technical School and Thomson Primary Technical School (1964).</b><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 -image-<br>	
-<b>Students at the science laboratory of Upper Serangoon Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+<b>Students at the science laboratory of Upper Serangoon Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 -image-<br>	
 <b>Technical workshop at Kim Seng Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
@@ -187,13 +187,13 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 <div>  
   
 <p>
-Integrated schools were created to foster bonding among students from two or more language streams. The typical design for primary schools was a four-storey H-shaped building. For secondary schools, the design incorporated facilities for academic, science and technical education.<br><br>
+Integrated schools were created to foster bonding among students from two or more language streams. The typical design for primary schools was a four-storey H-shaped building. For secondary schools, the design incorporated facilities for academic, science and technical education.
 	
 -image-<br>	
-<b>Tanglin Integrated Primary School with the typical H-shaped design (1964).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+<b>Tanglin Integrated Primary School with the typical H-shaped design (1964).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 	
 -image-<br>
-<b>Technical facilities at Serangoon Garden Integrated Secondary Technical School (1964).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.<br><br>
+<b>Technical facilities at Serangoon Garden Integrated Secondary Technical School (1964).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 	
 -image-<br>
 <b>Science laboratory of Tanglin Integrated Secondary Technical School (1966).</b><br>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
@@ -224,13 +224,13 @@ Integrated schools were created to foster bonding among students from two or mor
 <div>  
   
 <p>
-In 1969, the first junior college, National Junior College, was established. Every junior college was given a six-hectare plot of land and equipped with lecture theatres, audio-visual rooms, language and computer laboratories, multi-purpose halls as well as a host of sports facilities.<br><br>
+In 1969, the first junior college, National Junior College, was established. Every junior college was given a six-hectare plot of land and equipped with lecture theatres, audio-visual rooms, language and computer laboratories, multi-purpose halls as well as a host of sports facilities.
 
 -image-<br>
 <b>First junior college, National Junior College at Linden Drive (1968).</b><br><br>
 
 -image-<br>
-<b>Second government junior college, Temasek Junior College in 1976 with improvements made based on the first junior college.</b><br><br>
+<b>Second government junior college, Temasek Junior College in 1976 with improvements made based on the first junior college.</b>
 
 -image-<br>
 <b>One of the seven junior colleges, Raffles Junior College in the early 1980s. This follows the success of the initial Junior College Building Programme in the 1970s.</b>
@@ -252,10 +252,10 @@ In 1969, the first junior college, National Junior College, was established. Eve
 New school designs sprang up in emerging housing estates. 12 different plans were introduced and each had a unique design identity. A common school design was a large sloping tiled roof and a steel space frame over a concourse.<br><br>
 
 -image-<br>
-<b>School design of the 1980s, featuring a sloping tiled roof as seen at Bedok Town Secondary School (1984).</b><br><br>
+<b>School design of the 1980s, featuring a sloping tiled roof as seen at Bedok Town Secondary School (1984).</b>
 
 -image-<br>
-<b>Radin Mas Primary School at Bukit Purmei Avenue.</b><br><br>
+<b>Radin Mas Primary School at Bukit Purmei Avenue.</b>
 
 -image-<br>
 <b>Jing Shan Primary School at Jalan Lempong with a cubist design for a visually distinctive look.</b>
@@ -278,10 +278,10 @@ New school designs sprang up in emerging housing estates. 12 different plans wer
 In 1999, MOE launched Programme for Rebuilding and Improving Existing Schools (PRIME) in line with the vision of ‘Thinking Schools, Learning Nation’. Schools constructed before 1997 would be upgraded or rebuilt in phases, to ensure a conducive environment for teaching and learning.<br><br>
 
 -image-<br>	
-<b>Bukit View Primary School after PRIME upgrading in 2001, with improved facilities such as a new classroom block and additional computer and science laboratories.</b><br><br>
+<b>Bukit View Primary School after PRIME upgrading in 2001, with improved facilities such as a new classroom block and additional computer and science laboratories.</b>
 
 -image-<br>	
-<b>Fajar Secondary School with a new building frontage after PRIME upgrading.</b><br><br>
+<b>Fajar Secondary School with a new building frontage after PRIME upgrading.</b>
 
 -image-<br>	
 <b>Changkat Primary School at its present premise in 2004, after relocating from an external holding site due to PRIME.</b>
@@ -304,13 +304,13 @@ In 1999, MOE launched Programme for Rebuilding and Improving Existing Schools (P
 Complementing PRIME, Flexible School Infrastructure (FlexSI) framework was introduced in 2005 to give primary and secondary schools more control over their spaces. This provided school infrastructure with greater flexibility in teaching and learning.<br><br>
 
 -image-<br>
-<b>Many-In-One Room that can be converted for different learning activities.</b><br><br>
+<b>Many-In-One Room that can be converted for different learning activities.</b>
 
 -image-<br>
-<b>Modular furniture are used to facilitate large group lectures.</b><br><br>
+<b>Modular furniture are used to facilitate large group lectures.</b>
 
 -image-<br>
-<b>External areas, such as an outdoor learning trail, is converted into a learning space for students.</b><br><br>
+<b>External areas, such as an outdoor learning trail, is converted into a learning space for students.</b>
 
 -image-<br>
 <b>Outdoor amphitheatre at Fairfield Methodist Primary School supports the visual and performing arts.</b>
@@ -333,10 +333,10 @@ Complementing PRIME, Flexible School Infrastructure (FlexSI) framework was intro
 In 2006, MOE announced the provision of an indoor sports hall in schools to promote greater sports participation. Schools were able to vary the design of their sports hall to match students’ needs and construct different sports facilities indoors.<br><br>
 
 -image-<br>	
-<b>Unity Primary School has an indoor sports hall elevated over a court.</b><br><br>
+<b>Unity Primary School has an indoor sports hall elevated over a court.</b>
 
 -image-<br>	
-<b>Fajar Secondary School’s newly renovated indoor sports hall.</b><br><br>
+<b>Fajar Secondary School’s newly renovated indoor sports hall.</b>
 
 -image-<br>	
 <b>CHIJ Secondary (Toa Payoh) has an indoor sports hall located on the roof level, above their multi-purpose hall.</b>
@@ -359,7 +359,7 @@ In 2006, MOE announced the provision of an indoor sports hall in schools to prom
 MOE also launched their first five pilot MOE Kindergartens in 2014 to provide affordable, quality pre-school education. Located within primary schools and community spaces, these schools are designed to provide purposeful spaces for learn and play.<br><br>
 
 -image-<br>
-<b>Inviting indoor spaces to support teaching and learning.</b><br><br>
+<b>Inviting indoor spaces to support teaching and learning.</b>
 
 -image-<br>
 <b>Specially designed outdoor spaces to engage and excite children.</b>
