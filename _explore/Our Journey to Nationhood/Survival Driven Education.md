@@ -293,11 +293,9 @@ Singapore Tourism Board Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 	
-<figure>
-<figcaption><strong>Physical Education </strong><br>
+<b>Physical Education </b><br>
 Physical Education (PE) was added to the curriculum during this era. PE was seen as essential for developing students’ sportsmanship, teamwork and motor skills. Students also engaged in friendly competition with their peers during their school’s annual Sports Day.
-</figcaption>
-</figure>	
+<br><br>
 
 <figure>
 <img src="/images/survivaldrivenc22.png" style="width:65%">
