@@ -3,582 +3,582 @@ collections:
     output: true
     order:
       - School Histories.md
-      - School Histories/Admiralty Primary School.md
-      - School Histories/Admiralty Secondary School.md
-      - School Histories/Ahmad Ibrahim Primary School.md
-      - School Histories/Ahmad Ibrahim Secondary School.md
-      - School Histories/Ai Tong School.md
-      - School Histories/Alexandra Estate Primary School.md
-      - School Histories/Alexandra Hill Primary School.md
-      - School Histories/Alexandra Primary School.md
-      - School Histories/Aljunied Primary School.md
-      - School Histories/Ama Keng School.md
-      - School Histories/Anchor Green Primary School.md
-      - School Histories/Anderson Junior College.md
-      - School Histories/Anderson Primary School.md
-      - School Histories/Anderson Secondary School.md
-      - School Histories/Anderson Serangoon Junior College.md
-      - School Histories/Ang Mo Kio Primary School.md
-      - School Histories/Ang Mo Kio Secondary School.md
-      - School Histories/Anglican High School.md
-      - School Histories/Anglo Chinese School (Barker Road).md
-      - School Histories/Anglo Chinese Junior College.md
-      - School Histories/Anglo Chinese School (Independent).md
-      - School Histories/Anglo Chinese School (Junior).md
-      - School Histories/Anglo Chinese School (Primary).md
-      - School Histories/Angsana Primary School.md
-      - School Histories/Anthony Road Girls' School.md
-      - School Histories/Aroozoo School.md
-      - School Histories/Assumption English School.md
-      - School Histories/Assumption Pathway School.md
-      - School Histories/Balestier Boys' School.md
-      - School Histories/Balestier Hill East Primary School.md
-      - School Histories/Balestier Hill Primary School.md
-      - School Histories/Balestier Hill Primary School (1986 to 1988).md
-      - School Histories/Balestier Hill Secondary School.md
-      - School Histories/Balester Hill West Primary School.md
-      - School Histories/Balestier Mixed School.md
-      - School Histories/Balestier Primary School.md
-      - School Histories/Bartley Primary School.md
-      - School Histories/Bartley Secondary School.md
-      - School Histories/Batu Berlayar School.md
-      - School Histories/Beacon Primary School.md
-      - School Histories/Beatty Primary School.md
-      - School Histories/Beatty Secondary School.md
-      - School Histories/Bedok Boys' School.md
-      - School Histories/Bedok Girls' School.md
-      - School Histories/Bedok Green Primary School.md
-      - School Histories/Bedok Green Secondary School.md
-      - School Histories/Bedok North Primary School.md
-      - School Histories/Bedok North Secondary School.md
-      - School Histories/Bedok Primary School.md
-      - School Histories/Bedok South Primary School.md
-      - School Histories/Bedok South Secondary School.md
-      - School Histories/Bedok Town Primary School.md
-      - School Histories/Bedok Town Secondary School.md
-      - School Histories/Bedok View Primary School.md
-      - School Histories/Bedok View Secondary School.md
-      - School Histories/Bedok West Primary School.md
-      - School Histories/Belvedere Primary School.md
-      - School Histories/Belvedere School (Bukit Merah).md
-      - School Histories/Bendemeer Primary School.md
-      - School Histories/Bendemeer Secondary School.md
-      - School Histories/Beng Wan Primary School.md
-      - School Histories/Birkhall Road School.md
-      - School Histories/Bishan Park Secondary School.md
-      - School Histories/Blangah Rise Primary School.md
-      - School Histories/Boo Teck School (Farrer Park).md
-      - School Histories/Boon Keng Primary School.md
-      - School Histories/Boon Lay Garden Primary School.md
-      - School Histories/Boon Lay Primary School.md
-      - School Histories/Boon Lay Secondary School.md
-      - School Histories/Bowen Secondary School.md
-      - School Histories/Braddell Primary School.md
-      - School Histories/Braddell Westlake Secondary School.md
-      - School Histories/Broadrick Primary School.md
-      - School Histories/Broadrick Secondary School.md
-      - School Histories/Bukit Batok East Primary School.md
-      - School Histories/Bukit Batok Secondary School.md
-      - School Histories/Bukit Batok West Primary School.md
-      - School Histories/Bukit Ho Swee Primary School.md
-      - School Histories/Bukit Ho Swee Secondary School.md
-      - School Histories/Bukit Merah North School.md
-      - School Histories/Bukit Merah Primary School.md
-      - School Histories/Bukit Merah Secondary School.md
-      - School Histories/Bukit Merah South School.md
-      - School Histories/Bukit Panjang Government High School.md
-      - School Histories/Bukit Panjang Primary School.md
-      - School Histories/Bukit Timah Primary School.md
-      - School Histories/Bukit View Primary School.md
-      - School Histories/Bukit View Secondary School.md
-      - School Histories/Buona Vista Secondary School.md
-      - School Histories/Cairnhill Primary School.md
-      - School Histories/Cambridge Primary School.md
-      - School Histories/Canberra Primary School.md
-      - School Histories/Canberra Secondary School.md
-      - School Histories/Canossa Catholic Primary School.md
-      - School Histories/Cantonment Primary School.md
-      - School Histories/Cantonment School.md
-      - School Histories/Casuarina Primary School.md
-      - School Histories/Catholic High School.md
-      - School Histories/Catholic Junior College.md
-      - School Histories/Cedar Boys' Primary School.md
-      - School Histories/Cedar Girls' Primary School.md
-      - School Histories/Cedar Girls' Secondary School.md
-      - School Histories/Cedar Primary School.md
-      - School Histories/Chai Chee Secondary School.md
-      - School Histories/Changkat Changi Secondary School.md
-      - School Histories/Changkat Primary School.md
-      - School Histories/Chao Yang School.md
-      - School Histories/Charlton School.md
-      - School Histories/Chestnut Drive Secondary School.md
-      - School Histories/CHIJ (Katong) Primary.md
-      - School Histories/CHIJ Katong Convent.md
-      - School Histories/CHIJ Kellock.md
-      - School Histories/CHIJ Opera Estate Primary School.md
-      - School Histories/CHIJ Our Lady Of Good Counsel.md
-      - School Histories/CHIJ Our Lady Of The Nativity.md
-      - School Histories/CHIJ Our Lady Queen Of Peace.md
-      - School Histories/CHIJ Primary (Toa Payoh).md
-      - School Histories/CHIJ Secondary.md
-      - School Histories/CHIJ St Nicholas Girls' School.md
-      - School Histories/CHIJ St Joseph's Convent.md
-      - School Histories/CHIJ St Theresa's Convent.md
-      - School Histories/Chong Boon Secondary School.md
-      - School Histories/Chong De Primary School.md
-      - School Histories/Chong Li Primary School.md
-      - School Histories/Chong Shan Primary School.md
-      - School Histories/Chongfu School.md
-      - School Histories/Chongzheng Primary School.md
-      - School Histories/Christ Church Secondary School.md
-      - School Histories/Chua Chu Kang Government Chinese Primary School.md
-      - School Histories/Chua Chu Kang Malay School.md
-      - School Histories/Chua Chu Kang Primary School.md
-      - School Histories/Chua Chu Kang Secondary School.md
-      - School Histories/Chung Cheng High School (Main).md
-      - School Histories/Chung Cheng High School (Yishun).md
-      - School Histories/Clementi North Primary School.md
-      - School Histories/Clementi Primary School.md
-      - School Histories/Clementi Town Primary School.md
-      - School Histories/Clementi Town Secondary School.md
-      - School Histories/Clementi Woods Secondary School.md
-      - School Histories/Commonwealth Secondary School.md
-      - School Histories/Compassvale Primary School.md
-      - School Histories/Compassvale Secondary School.md
-      - School Histories/Concord Primary School.md
-      - School Histories/Coral Primary School.md
-      - School Histories/Coral Secondary School.md
-      - School Histories/Corporation Primary School.md
-      - School Histories/Crescent Girls' School.md
-      - School Histories/Crest Secondary School.md
-      - School Histories/Da Qiao Primary School.md
-      - School Histories/Damai Primary School.md
-      - School Histories/Damai Secondary School.md
-      - School Histories/Da Zhong Primary School.md
-      - School Histories/De La Salle School.md
-      - School Histories/Delta Circus Primary School.md
-      - School Histories/Delta East Primary School.md
-      - School Histories/Delta Primary School.md
-      - School Histories/Delta Secondary School.md
-      - School Histories/Delta West Primary School.md
-      - School Histories/Deyi Secondary School.md
-      - School Histories/Dorset Primary School.md
-      - School Histories/Duchess School.md
-      - School Histories/Dunearn Secondary School.md
-      - School Histories/Dunman High School.md
-      - School Histories/Dunman Secondary School.md
-      - School Histories/East Coast Primary School.md
-      - School Histories/East Payoh Secondary School.md
-      - School Histories/East Spring Primary School.md
-      - School Histories/East Spring Secondary School.md
-      - School Histories/East View Primary School.md
-      - School Histories/East View Secondary School.md
-      - School Histories/Edgefield Primary School.md
-      - School Histories/Edgefield Secondary School.md
-      - School Histories/Elias Park Primary School.md
-      - School Histories/Elling North School.md
-      - School Histories/Elling Primary School.md
-      - School Histories/Elling South School.md
-      - School Histories/Endeavour Primary School.md
-      - School Histories/Eunoia Junior College.md
-      - School Histories/Eunos Primary School.md
-      - School Histories/Evergreen Primary School.md
-      - School Histories/Evergreen Secondary School.md
-      - School Histories/Fairfield Methodist School (Primary).md
-      - School Histories/Fairfield Methodist School (Secondary).md
-      - School Histories/Fajar Secondary School.md
-      - School Histories/Farrer Park Primary School.md
-      - School Histories/Farrer Primary School.md
-      - School Histories/Fengshan Primary School.md
-      - School Histories/Fern Green Primary School.md
-      - School Histories/Fernvale Primary School.md
-      - School Histories/First Toa Payoh Primary School.md
-      - School Histories/First Toa Payoh Secondary School.md
-      - School Histories/Fowlie Primary School.md
-      - School Histories/Frontier Primary School.md
-      - School Histories/Fuchun Primary School.md
-      - School Histories/Fuchun Secondary School.md
-      - School Histories/Fuhua Primary School.md
-      - School Histories/Fuhua Secondary School.md
-      - School Histories/Gan Eng Seng Primary School.md
-      - School Histories/Gan Eng Seng School.md
-      - School Histories/Geylang Methodist School (Primary).md
-      - School Histories/Geylang Methodist School (Secondary).md
-      - School Histories/Geylang Primary School.md
-      - School Histories/Ghim Moh Primary School.md
-      - School Histories/Ghim Moh Secondary School.md
-      - School Histories/Gongshang Primary School.md
-      - School Histories/Greendale Primary School.md
-      - School Histories/Greendale Secondary School.md
-      - School Histories/Greenridge Primary School.md
-      - School Histories/Greenridge Secondary School.md
-      - School Histories/Greenwood Primary School.md
-      - School Histories/Griffiths Primary School.md
-      - School Histories/Guangyang Primary School.md
-      - School Histories/Guangyang Secondary School.md
-      - School Histories/Guillemard Primary School.md
-      - School Histories/Hai Sing Catholic School.md
-      - School Histories/Haig Boys' School.md
-      - School Histories/Haig Girls' School.md
-      - School Histories/Havelock Primary School.md
-      - School Histories/Havelock School.md
-      - School Histories/Henderson Primary School.md
-      - School Histories/Henderson Secondary School.md
-      - School Histories/Heng A Khe Bong School.md
-      - School Histories/Henry Park Primary School.md
-      - School Histories/Hillgrove Secondary School.md
-      - School Histories/Holy Innocents' High School.md
-      - School Histories/Holy Innocents' Primary School.md
-      - School Histories/Hong Kah Primary School.md
-      - School Histories/Hong Kah Secondary School.md
-      - School Histories/Hong Wen School.md
-      - School Histories/Horizon Primary School.md
-      - School Histories/Hougang Primary School.md
-      - School Histories/Hougang Secondary School.md
-      - School Histories/Hua Kiau School.md
-      - School Histories/Hua Yi Primary School.md
-      - School Histories/Hua Yi Secondary School.md
-      - School Histories/Huamin Primary School.md
-      - School Histories/Hwa Chong Institution.md
-      - School Histories/Hwa Chong Junior College.md
-      - School Histories/Hwi Yoh Secondary School.md
-      - School Histories/Innova Junior College.md
-      - School Histories/Innova Primary School.md
-      - School Histories/Jagoh Primary School.md
-      - School Histories/Jalan Daud School.md
-      - School Histories/Jalan Kayu Primary School.md
-      - School Histories/Jaya Primary School.md
-      - School Histories/Jervois East Primary School.md
-      - School Histories/Jervois Primary School.md
-      - School Histories/Jervois West Primary School.md
-      - School Histories/Jiemin Primary school.md
-      - School Histories/Jin Shan Primary School.md
-      - School Histories/Jin Tai Primary School.md
-      - School Histories/Jin Tai Secondary School.md
-      - School Histories/Jing Shan Primary School.md
-      - School Histories/Joo Avenue School.md
-      - School Histories/Jubilee Primary School.md
-      - School Histories/Junyuan Primary School.md
-      - School Histories/Junyuan Secondary School.md
-      - School Histories/Jurong Institute.md
-      - School Histories/Jurong Junior College.md
-      - School Histories/Jurong Pioneer Junior College.md
-      - School Histories/Jurong Primary School.md
-      - School Histories/Jurong Secondary School.md
-      - School Histories/Jurong Special Secondary School.md
-      - School Histories/Jurong Town Primary School.md
-      - School Histories/Jurong West Primary School.md
-      - School Histories/Jurong West Secondary School.md
-      - School Histories/Jurongville Secondary School.md
-      - School Histories/Juying Primary School.md
-      - School Histories/Juying Secondary School.md
-      - School Histories/Kallang Primary School.md
-      - School Histories/Kay Siang Primary School.md
-      - School Histories/Kebun Baru Primary School.md
-      - School Histories/Kembangan Primary School.md
-      - School Histories/Keming Primary School.md
-      - School Histories/Keng Seng Primary School.md
-      - School Histories/Kent Ridge Secondary School.md
-      - School Histories/Keppel Primary School.md
-      - School Histories/Keppel School.md
-      - School Histories/Kheng Cheng School.md
-      - School Histories/Kim Keat Primary School.md
-      - School Histories/Kim Seng East School.md
-      - School Histories/Kim Seng Primary School.md
-      - School Histories/Kim Seng Technical School.md
-      - School Histories/Kim Seng West School.md
-      - School Histories/Kong Chow School.md
-      - School Histories/Kong Hwa School.md
-      - School Histories/Kota Raja Malay School.md
-      - School Histories/Kranji Primary School.md
-      - School Histories/Kranji Secondary School.md
-      - School Histories/Kuo Chuan Presbyterian Primary School.md
-      - School Histories/Kuo Chuan Presbyterian Secondary School.md
-      - School Histories/Kwong Wai Shiu Peck Shan Ting School.md
-      - School Histories/Labrador Primary School.md
-      - School Histories/Lakeside Primary School.md
-      - School Histories/Lee Kuo Chuan Primary School.md
-      - School Histories/Lianhua Primary School.md
-      - School Histories/Loyang Primary School.md
-      - School Histories/Loyang View Secondary School.md
-      - School Histories/Macpherson Primary School.md
-      - School Histories/Macpherson Secondary School.md
-      - School Histories/Macritchie Primary School.md
-      - School Histories/Maha Bodhi School.md
-      - School Histories/Maju Secondary School.md
-      - School Histories/Manjusri Secondary School.md
-      - School Histories/Margaret Drive Primary School.md
-      - School Histories/Maris Stella High School.md
-      - School Histories/Marsiling Primary School.md
-      - School Histories/Marsiling Secondary School.md
-      - School Histories/Marymount Convent School.md
-      - School Histories/Mattar East School.md
-      - School Histories/Mattar Primary School.md
-      - School Histories/May Primary School.md
-      - School Histories/Mayflower Primary School.md
-      - School Histories/Mayflower Secondary School.md
-      - School Histories/Mee Toh School.md
-      - School Histories/Mei Chin Primary School.md
-      - School Histories/Mei Chin Secondary School.md
-      - School Histories/Membina Primary School.md
-      - School Histories/Meng Teck School.md
-      - School Histories/Meridian Junior College.md
-      - School Histories/Meridian Primary School.md
-      - School Histories/Meridian Secondary School.md
-      - School Histories/Merlimau Primary School.md
-      - School Histories/Methodist Girls' School.md
-      - School Histories/Moulmein Primary School.md
-      - School Histories/Mount Vernon Secondary School.md
-      - School Histories/Mountbatten Primary School.md
-      - School Histories/Nam San School.md
-      - School Histories/Nan Chiau High School.md
-      - School Histories/Nan Chiau Primary School.md
-      - School Histories/Nan Chiow Public School.md
-      - School Histories/Nan Hua High School.md
-      - School Histories/Nan Hua Primary School.md
-      - School Histories/Nanyang Girls' High School.md
-      - School Histories/Nanyang Junior College.md
-      - School Histories/Nanyang Primary School.md
-      - School Histories/National Junior College.md
-      - School Histories/Naval Base Primary School.md
-      - School Histories/Naval Base Secondary School.md
-      - School Histories/Nee Soon School.md
-      - School Histories/New Town Primary School.md
-      - School Histories/New Town Secondary School.md
-      - School Histories/Ngee Ann Primary School.md
-      - School Histories/Ngee Ann Secondary School.md
-      - School Histories/Norfolk Primary School.md
-      - School Histories/North Spring Primary School.md
-      - School Histories/North View Primary School.md
-      - School Histories/North View Secondary School.md
-      - School Histories/North Vista Primary School.md
-      - School Histories/North Vista Secondary School.md
-      - School Histories/Northbrooks Secondary School.md
-      - School Histories/Northland Primary School.md
-      - School Histories/Northland Secondary School.md
-      - School Histories/Northlight School.md
-      - School Histories/Northoaks Primary School.md
-      - School Histories/NUS High School of Mathematics and Science.md
-      - School Histories/Oasis Primary School.md
-      - School Histories/Opera Estate Boys' Primary School.md
-      - School Histories/Opera Estate Girls' Primary School.md
-      - School Histories/Opera Estate Primary School.md
-      - School Histories/Orchid Park Secondary School.md
-      - School Histories/Outram Institute.md
-      - School Histories/Outram Primary School.md
-      - School Histories/Outram Secondary School.md
-      - School Histories/Owen School.md
-      - School Histories/Palm View Primary School.md
-      - School Histories/Pandan Primary School.md
-      - School Histories/Park Road School.md
-      - School Histories/Park View Primary School.md
-      - School Histories/Paya Lebar Methodist Girls' School (Primary).md
-      - School Histories/Paya Lebar Methodist Girls' School (Secondary).md
-      - School Histories/Paya Lebar School.md
-      - School Histories/Pearl Bank School.md
-      - School Histories/Pearl Park Primary School.md
-      - School Histories/Pearl's Hill School.md
-      - School Histories/Peck Seah Primary School.md
-      - School Histories/Pei Chun Public School.md
-      - School Histories/Pei Hwa Presbyterian Primary School.md
-      - School Histories/Pei Hwa Secondary School.md
-      - School Histories/Pei Tek Public School.md
-      - School Histories/Pei Tong Primary School.md
-      - School Histories/Peicai Secondary School.md
-      - School Histories/Peirce Secondary School.md
-      - School Histories/Peixin Primary School.md
-      - School Histories/Peiying Primary School.md
-      - School Histories/Permaisura Primary School.md
-      - School Histories/Ping Yi Primary School.md
-      - School Histories/Ping Yi Secondary School.md
-      - School Histories/Pioneer Junior College.md
-      - School Histories/Pioneer Primary School.md
-      - School Histories/Pioneer Secondary School.md
-      - School Histories/Playfair School.md
-      - School Histories/Poi Ching School.md
-      - School Histories/Presbyterian High School.md
-      - School Histories/Princess Elizabeth Primary School.md
-      - School Histories/Pulau Tekong Primary School.md
-      - School Histories/Punggol Cove Primary School.md
-      - School Histories/Punggol Green Primary School.md
-      - School Histories/Punggol Primary School.md
-      - School Histories/Punggol Secondary School.md
-      - School Histories/Punggol View Primary School.md
-      - School Histories/Qiaonan Primary School.md
-      - School Histories/Qifa Primary School.md
-      - School Histories/Qihua Primary School.md
-      - School Histories/Queenstown Primary School.md
-      - School Histories/Queenstown Secondary School.md
-      - School Histories/Queensway Secondary School.md
-      - School Histories/Radin Mas Primary School.md
-      - School Histories/Raffles Girls' Primary School.md
-      - School Histories/Raffles Girls' School.md
-      - School Histories/Raffles Institution.md
-      - School Histories/Raffles Junior College.md
-      - School Histories/Rangoon Road Primary School (Farrer Park).md
-      - School Histories/Rangoon Secondary School.md
-      - School Histories/Rayman School.md
-      - School Histories/Red Swastika School.md
-      - School Histories/Redhill School.md
-      - School Histories/Regent Secondary School.md
-      - School Histories/River Valley English School.md
-      - School Histories/River Valley Government Chinese School.md
-      - School Histories/River Valley High School.md
-      - School Histories/River Valley Primary School.md
-      - School Histories/Riverside Primary School.md
-      - School Histories/Riverside Secondary School.md
-      - School Histories/Rivervale Primary School.md
-      - School Histories/Rosyth School.md
-      - School Histories/Rulang Primary School.md
-      - School Histories/San Shan Primary School.md
-      - School Histories/Sang Nila Utama Secondary School.md
-      - School Histories/Selegie Primary School.md
-      - School Histories/Seletar Institute.md
-      - School Histories/Sembawang Hills Estate School.md
-      - School Histories/Sembawang Primary School.md
-      - School Histories/Sembawang Secondary School.md
-      - School Histories/Seng Kang Primary School.md
-      - School Histories/Seng Kang Secondary School.md
-      - School Histories/Sengkang Green Primary School.md
-      - School Histories/Sennett Estate School.md
-      - School Histories/Serangoon Garden North School.md
-      - School Histories/Serangoon Garden Secondary School.md
-      - School Histories/Serangoon Garden South School.md
-      - School Histories/Serangoon Garden Technical School.md
-      - School Histories/Serangoon Junior College.md
-      - School Histories/Serangoon Secondary School.md
-      - School Histories/Seraya Primary School.md
-      - School Histories/Shuqun Primary School.md
-      - School Histories/Shuqun Secondary School.md
-      - School Histories/Si Ling Primary School.md
-      - School Histories/Si Ling Secondary School.md
-      - School Histories/Siglap Indah Primary School.md
-      - School Histories/Siglap Primary School.md
-      - School Histories/Siglap Secondary School.md
-      - School Histories/Silat Primary School.md
-      - School Histories/Singapore Chinese Girls' School.md
-      - School Histories/Singapore Sports School.md
-      - School Histories/South View Primary School.md
-      - School Histories/Spectra Secondary School.md
-      - School Histories/Springdale Primary School.md
-      - School Histories/Springfield Secondary School.md
-      - School Histories/St Andrew's Junior College.md
-      - School Histories/St Andrew's Junior School.md
-      - School Histories/St Andrew's Secondary School.md
-      - School Histories/St Anthony's Canossian Primary School.md
-      - School Histories/St Anthony's Canossian Secondary School.md
-      - School Histories/St George's Road Tamil School.md
-      - School Histories/St Joseph's Institution Junior.md
-      - School Histories/St Patrick's School.md
-      - School Histories/St Thomas Secondary School.md
-      - School Histories/St Anthony's Primary School.md
-      - School Histories/St Gabriel's Primary School.md
-      - School Histories/St Gabriel's Secondary School.md
-      - School Histories/St Hilda's Primary School.md
-      - School Histories/St Hilda's Secondary School.md
-      - School Histories/St Joseph's Institution.md
-      - School Histories/St Margaret's Primary School.md
-      - School Histories/St Margaret's Secondary School.md
-      - School Histories/St Stephen's School.md
-      - School Histories/St Theresa's High School.md
-      - School Histories/Stamford Girl's School.md
-      - School Histories/Stamford Primary School.md
-      - School Histories/Swiss Cottage Primary School.md
-      - School Histories/Swiss Cottage Secondary School.md
-      - School Histories/Tampines Junior College.md
-      - School Histories/Tampines Meridian Junior College.md
-      - School Histories/Tampines North Primary School.md
-      - School Histories/Tampines Primary School.md
-      - School Histories/Tampines Secondary School.md
-      - School Histories/Tanglin Girls' School.md
-      - School Histories/Tanglin Primary School.md
-      - School Histories/Tanglin Secondary School.md
-      - School Histories/Tanjong Katong Girls' School.md
-      - School Histories/Tanjong Katong Primary School.md
-      - School Histories/Tanjong Katong Secondary School.md
-      - School Histories/Tanjong Rhu Boy's School.md
-      - School Histories/Tanjong Rhu Girls' School.md
-      - School Histories/Tanjong Rhu Primary School.md
-      - School Histories/Tao Nan School.md
-      - School Histories/Teck Ghee Primary School.md
-      - School Histories/Teck Whye Primary School.md
-      - School Histories/Teck Whye Secondary School.md
-      - School Histories/Telok Ayer Primary School.md
-      - School Histories/Telok Kurau East Primary School.md
-      - School Histories/Telok Kurau Malay Girls' School.md
-      - School Histories/Telok Kurau Primary School.md
-      - School Histories/Telok Kurau Secondary School.md
-      - School Histories/Telok Kurau West Primary School.md
-      - School Histories/Temasek Junior College.md
-      - School Histories/Temasek Primary School.md
-      - School Histories/Temasek Secondary School.md
-      - School Histories/The Chinese High School.md
-      - School Histories/The Happy School.md
-      - School Histories/Thong Kheng School.md
-      - School Histories/Tiong Bahru Primary School.md
-      - School Histories/Tiong Bahru Secondary School.md
-      - School Histories/Toh Tuck Primary School.md
-      - School Histories/Toh Tuck Secondary School.md
-      - School Histories/Towner Primary School.md
-      - School Histories/Townsville Institute.md
-      - School Histories/Townsville Primary School.md
-      - School Histories/Trafalgar School.md
-      - School Histories/Tuan Mong High School.md
-      - School Histories/Tun Seri Lanang Secondary School.md
-      - School Histories/Umar Pulavar Tamil School.md
-      - School Histories/Unity Primary School.md
-      - School Histories/Unity Secondary School.md
-      - School Histories/Upper Aljunied Technical School.md
-      - School Histories/Upper Serangoon Secondary School.md
-      - School Histories/Victoria Junior College.md
-      - School Histories/Victoria School.md
-      - School Histories/Waterloo School.md
-      - School Histories/Waterway Primary School.md
-      - School Histories/Wellington Primary School.md
-      - School Histories/West Grove Primary School.md
-      - School Histories/West Hill School.md
-      - School Histories/West Spring Primary School.md
-      - School Histories/West Spring Secondary School.md
-      - School Histories/West View Primary School.md
-      - School Histories/Westlake Primary School.md
-      - School Histories/Westwood Primary School.md
-      - School Histories/Westwood Secondary School.md
-      - School Histories/Whampoa Secondary School.md
-      - School Histories/White Sands Primary School.md
-      - School Histories/Whitley Secondary School.md
-      - School Histories/Willow Avenue Secondary School.md
-      - School Histories/Woodgrove Primary School.md
-      - School Histories/Woodgrove Secondary School.md
-      - School Histories/Woodlands Primary School.md
-      - School Histories/Woodlands Ring Primary School.md
-      - School Histories/Woodlands Ring Secondary School.md
-      - School Histories/Woodlands Secondary School.md
-      - School Histories/Woodsville Primary School.md
-      - School Histories/Woodsville Secondary School.md
-      - School Histories/Xianglin Primary School.md
-      - School Histories/Xinghua Primary School.md
-      - School Histories/Xingnan Primary School.md
-      - School Histories/Xinmin Primary School.md
-      - School Histories/Xinmin Secondary School.md
-      - School Histories/Xi Shan Primary School.md
-      - School Histories/Yang Zheng Primary School.md
-      - School Histories/Yew Tee Primary School.md
-      - School Histories/Yio Chu Kang Primary School.md
-      - School Histories/Yio Chu Kang Secondary School.md
-      - School Histories/Yishun Innova Junior College.md
-      - School Histories/Yishun Junior College.md
-      - School Histories/Yishun Primary School.md
-      - School Histories/Yishun Secondary School.md
-      - School Histories/Yishun Town Secondary School.md
-      - School Histories/Yu Neng Primary School.md
-      - School Histories/Yuan Ching Secondary School.md
-      - School Histories/Yung An Primary School.md
-      - School Histories/Yuqun Primary School.md
-      - School Histories/Yusok Ishak Secondary School.md
-      - School Histories/Yuying Secondary School.md
-      - School Histories/Zhangde Primary School.md
-      - School Histories/Zhenghua Primary School.md
-      - School Histories/Zhenghua Secondary School.md
-      - School Histories/Zhonghua Primary School.md
-      - School Histories/Zhonghua Secondary School.md
-      - School Histories/.keep
+      - Schools/Admiralty Primary School.md
+      - Schools/Admiralty Secondary School.md
+      - Schools/Ahmad Ibrahim Primary School.md
+      - Schools/Ahmad Ibrahim Secondary School.md
+      - Schools/Ai Tong School.md
+      - Schools/Alexandra Estate Primary School.md
+      - Schools/Alexandra Hill Primary School.md
+      - Schools/Alexandra Primary School.md
+      - Schools/Aljunied Primary School.md
+      - Schools/Ama Keng School.md
+      - Schools/Anchor Green Primary School.md
+      - Schools/Anderson Junior College.md
+      - Schools/Anderson Primary School.md
+      - Schools/Anderson Secondary School.md
+      - Schools/Anderson Serangoon Junior College.md
+      - Schools/Ang Mo Kio Primary School.md
+      - Schools/Ang Mo Kio Secondary School.md
+      - Schools/Anglican High School.md
+      - Schools/Anglo Chinese School (Barker Road).md
+      - Schools/Anglo Chinese Junior College.md
+      - Schools/Anglo Chinese School (Independent).md
+      - Schools/Anglo Chinese School (Junior).md
+      - Schools/Anglo Chinese School (Primary).md
+      - Schools/Angsana Primary School.md
+      - Schools/Anthony Road Girls' School.md
+      - Schools/Aroozoo School.md
+      - Schools/Assumption English School.md
+      - Schools/Assumption Pathway School.md
+      - Schools/Balestier Boys' School.md
+      - Schools/Balestier Hill East Primary School.md
+      - Schools/Balestier Hill Primary School.md
+      - Schools/Balestier Hill Primary School (1986 to 1988).md
+      - Schools/Balestier Hill Secondary School.md
+      - Schools/Balester Hill West Primary School.md
+      - Schools/Balestier Mixed School.md
+      - Schools/Balestier Primary School.md
+      - Schools/Bartley Primary School.md
+      - Schools/Bartley Secondary School.md
+      - Schools/Batu Berlayar School.md
+      - Schools/Beacon Primary School.md
+      - Schools/Beatty Primary School.md
+      - Schools/Beatty Secondary School.md
+      - Schools/Bedok Boys' School.md
+      - Schools/Bedok Girls' School.md
+      - Schools/Bedok Green Primary School.md
+      - Schools/Bedok Green Secondary School.md
+      - Schools/Bedok North Primary School.md
+      - Schools/Bedok North Secondary School.md
+      - Schools/Bedok Primary School.md
+      - Schools/Bedok South Primary School.md
+      - Schools/Bedok South Secondary School.md
+      - Schools/Bedok Town Primary School.md
+      - Schools/Bedok Town Secondary School.md
+      - Schools/Bedok View Primary School.md
+      - Schools/Bedok View Secondary School.md
+      - Schools/Bedok West Primary School.md
+      - Schools/Belvedere Primary School.md
+      - Schools/Belvedere School (Bukit Merah).md
+      - Schools/Bendemeer Primary School.md
+      - Schools/Bendemeer Secondary School.md
+      - Schools/Beng Wan Primary School.md
+      - Schools/Birkhall Road School.md
+      - Schools/Bishan Park Secondary School.md
+      - Schools/Blangah Rise Primary School.md
+      - Schools/Boo Teck School (Farrer Park).md
+      - Schools/Boon Keng Primary School.md
+      - Schools/Boon Lay Garden Primary School.md
+      - Schools/Boon Lay Primary School.md
+      - Schools/Boon Lay Secondary School.md
+      - Schools/Bowen Secondary School.md
+      - Schools/Braddell Primary School.md
+      - Schools/Braddell Westlake Secondary School.md
+      - Schools/Broadrick Primary School.md
+      - Schools/Broadrick Secondary School.md
+      - Schools/Bukit Batok East Primary School.md
+      - Schools/Bukit Batok Secondary School.md
+      - Schools/Bukit Batok West Primary School.md
+      - Schools/Bukit Ho Swee Primary School.md
+      - Schools/Bukit Ho Swee Secondary School.md
+      - Schools/Bukit Merah North School.md
+      - Schools/Bukit Merah Primary School.md
+      - Schools/Bukit Merah Secondary School.md
+      - Schools/Bukit Merah South School.md
+      - Schools/Bukit Panjang Government High School.md
+      - Schools/Bukit Panjang Primary School.md
+      - Schools/Bukit Timah Primary School.md
+      - Schools/Bukit View Primary School.md
+      - Schools/Bukit View Secondary School.md
+      - Schools/Buona Vista Secondary School.md
+      - Schools/Cairnhill Primary School.md
+      - Schools/Cambridge Primary School.md
+      - Schools/Canberra Primary School.md
+      - Schools/Canberra Secondary School.md
+      - Schools/Canossa Catholic Primary School.md
+      - Schools/Cantonment Primary School.md
+      - Schools/Cantonment School.md
+      - Schools/Casuarina Primary School.md
+      - Schools/Catholic High School.md
+      - Schools/Catholic Junior College.md
+      - Schools/Cedar Boys' Primary School.md
+      - Schools/Cedar Girls' Primary School.md
+      - Schools/Cedar Girls' Secondary School.md
+      - Schools/Cedar Primary School.md
+      - Schools/Chai Chee Secondary School.md
+      - Schools/Changkat Changi Secondary School.md
+      - Schools/Changkat Primary School.md
+      - Schools/Chao Yang School.md
+      - Schools/Charlton School.md
+      - Schools/Chestnut Drive Secondary School.md
+      - Schools/CHIJ (Katong) Primary.md
+      - Schools/CHIJ Katong Convent.md
+      - Schools/CHIJ Kellock.md
+      - Schools/CHIJ Opera Estate Primary School.md
+      - Schools/CHIJ Our Lady Of Good Counsel.md
+      - Schools/CHIJ Our Lady Of The Nativity.md
+      - Schools/CHIJ Our Lady Queen Of Peace.md
+      - Schools/CHIJ Primary (Toa Payoh).md
+      - Schools/CHIJ Secondary.md
+      - Schools/CHIJ St Nicholas Girls' School.md
+      - Schools/CHIJ St Joseph's Convent.md
+      - Schools/CHIJ St Theresa's Convent.md
+      - Schools/Chong Boon Secondary School.md
+      - Schools/Chong De Primary School.md
+      - Schools/Chong Li Primary School.md
+      - Schools/Chong Shan Primary School.md
+      - Schools/Chongfu School.md
+      - Schools/Chongzheng Primary School.md
+      - Schools/Christ Church Secondary School.md
+      - Schools/Chua Chu Kang Government Chinese Primary School.md
+      - Schools/Chua Chu Kang Malay School.md
+      - Schools/Chua Chu Kang Primary School.md
+      - Schools/Chua Chu Kang Secondary School.md
+      - Schools/Chung Cheng High School (Main).md
+      - Schools/Chung Cheng High School (Yishun).md
+      - Schools/Clementi North Primary School.md
+      - Schools/Clementi Primary School.md
+      - Schools/Clementi Town Primary School.md
+      - Schools/Clementi Town Secondary School.md
+      - Schools/Clementi Woods Secondary School.md
+      - Schools/Commonwealth Secondary School.md
+      - Schools/Compassvale Primary School.md
+      - Schools/Compassvale Secondary School.md
+      - Schools/Concord Primary School.md
+      - Schools/Coral Primary School.md
+      - Schools/Coral Secondary School.md
+      - Schools/Corporation Primary School.md
+      - Schools/Crescent Girls' School.md
+      - Schools/Crest Secondary School.md
+      - Schools/Da Qiao Primary School.md
+      - Schools/Damai Primary School.md
+      - Schools/Damai Secondary School.md
+      - Schools/Da Zhong Primary School.md
+      - Schools/De La Salle School.md
+      - Schools/Delta Circus Primary School.md
+      - Schools/Delta East Primary School.md
+      - Schools/Delta Primary School.md
+      - Schools/Delta Secondary School.md
+      - Schools/Delta West Primary School.md
+      - Schools/Deyi Secondary School.md
+      - Schools/Dorset Primary School.md
+      - Schools/Duchess School.md
+      - Schools/Dunearn Secondary School.md
+      - Schools/Dunman High School.md
+      - Schools/Dunman Secondary School.md
+      - Schools/East Coast Primary School.md
+      - Schools/East Payoh Secondary School.md
+      - Schools/East Spring Primary School.md
+      - Schools/East Spring Secondary School.md
+      - Schools/East View Primary School.md
+      - Schools/East View Secondary School.md
+      - Schools/Edgefield Primary School.md
+      - Schools/Edgefield Secondary School.md
+      - Schools/Elias Park Primary School.md
+      - Schools/Elling North School.md
+      - Schools/Elling Primary School.md
+      - Schools/Elling South School.md
+      - Schools/Endeavour Primary School.md
+      - Schools/Eunoia Junior College.md
+      - Schools/Eunos Primary School.md
+      - Schools/Evergreen Primary School.md
+      - Schools/Evergreen Secondary School.md
+      - Schools/Fairfield Methodist School (Primary).md
+      - Schools/Fairfield Methodist School (Secondary).md
+      - Schools/Fajar Secondary School.md
+      - Schools/Farrer Park Primary School.md
+      - Schools/Farrer Primary School.md
+      - Schools/Fengshan Primary School.md
+      - Schools/Fern Green Primary School.md
+      - Schools/Fernvale Primary School.md
+      - Schools/First Toa Payoh Primary School.md
+      - Schools/First Toa Payoh Secondary School.md
+      - Schools/Fowlie Primary School.md
+      - Schools/Frontier Primary School.md
+      - Schools/Fuchun Primary School.md
+      - Schools/Fuchun Secondary School.md
+      - Schools/Fuhua Primary School.md
+      - Schools/Fuhua Secondary School.md
+      - Schools/Gan Eng Seng Primary School.md
+      - Schools/Gan Eng Seng School.md
+      - Schools/Geylang Methodist School (Primary).md
+      - Schools/Geylang Methodist School (Secondary).md
+      - Schools/Geylang Primary School.md
+      - Schools/Ghim Moh Primary School.md
+      - Schools/Ghim Moh Secondary School.md
+      - Schools/Gongshang Primary School.md
+      - Schools/Greendale Primary School.md
+      - Schools/Greendale Secondary School.md
+      - Schools/Greenridge Primary School.md
+      - Schools/Greenridge Secondary School.md
+      - Schools/Greenwood Primary School.md
+      - Schools/Griffiths Primary School.md
+      - Schools/Guangyang Primary School.md
+      - Schools/Guangyang Secondary School.md
+      - Schools/Guillemard Primary School.md
+      - Schools/Hai Sing Catholic School.md
+      - Schools/Haig Boys' School.md
+      - Schools/Haig Girls' School.md
+      - Schools/Havelock Primary School.md
+      - Schools/Havelock School.md
+      - Schools/Henderson Primary School.md
+      - Schools/Henderson Secondary School.md
+      - Schools/Heng A Khe Bong School.md
+      - Schools/Henry Park Primary School.md
+      - Schools/Hillgrove Secondary School.md
+      - Schools/Holy Innocents' High School.md
+      - Schools/Holy Innocents' Primary School.md
+      - Schools/Hong Kah Primary School.md
+      - Schools/Hong Kah Secondary School.md
+      - Schools/Hong Wen School.md
+      - Schools/Horizon Primary School.md
+      - Schools/Hougang Primary School.md
+      - Schools/Hougang Secondary School.md
+      - Schools/Hua Kiau School.md
+      - Schools/Hua Yi Primary School.md
+      - Schools/Hua Yi Secondary School.md
+      - Schools/Huamin Primary School.md
+      - Schools/Hwa Chong Institution.md
+      - Schools/Hwa Chong Junior College.md
+      - Schools/Hwi Yoh Secondary School.md
+      - Schools/Innova Junior College.md
+      - Schools/Innova Primary School.md
+      - Schools/Jagoh Primary School.md
+      - Schools/Jalan Daud School.md
+      - Schools/Jalan Kayu Primary School.md
+      - Schools/Jaya Primary School.md
+      - Schools/Jervois East Primary School.md
+      - Schools/Jervois Primary School.md
+      - Schools/Jervois West Primary School.md
+      - Schools/Jiemin Primary school.md
+      - Schools/Jin Shan Primary School.md
+      - Schools/Jin Tai Primary School.md
+      - Schools/Jin Tai Secondary School.md
+      - Schools/Jing Shan Primary School.md
+      - Schools/Joo Avenue School.md
+      - Schools/Jubilee Primary School.md
+      - Schools/Junyuan Primary School.md
+      - Schools/Junyuan Secondary School.md
+      - Schools/Jurong Institute.md
+      - Schools/Jurong Junior College.md
+      - Schools/Jurong Pioneer Junior College.md
+      - Schools/Jurong Primary School.md
+      - Schools/Jurong Secondary School.md
+      - Schools/Jurong Special Secondary School.md
+      - Schools/Jurong Town Primary School.md
+      - Schools/Jurong West Primary School.md
+      - Schools/Jurong West Secondary School.md
+      - Schools/Jurongville Secondary School.md
+      - Schools/Juying Primary School.md
+      - Schools/Juying Secondary School.md
+      - Schools/Kallang Primary School.md
+      - Schools/Kay Siang Primary School.md
+      - Schools/Kebun Baru Primary School.md
+      - Schools/Kembangan Primary School.md
+      - Schools/Keming Primary School.md
+      - Schools/Keng Seng Primary School.md
+      - Schools/Kent Ridge Secondary School.md
+      - Schools/Keppel Primary School.md
+      - Schools/Keppel School.md
+      - Schools/Kheng Cheng School.md
+      - Schools/Kim Keat Primary School.md
+      - Schools/Kim Seng East School.md
+      - Schools/Kim Seng Primary School.md
+      - Schools/Kim Seng Technical School.md
+      - Schools/Kim Seng West School.md
+      - Schools/Kong Chow School.md
+      - Schools/Kong Hwa School.md
+      - Schools/Kota Raja Malay School.md
+      - Schools/Kranji Primary School.md
+      - Schools/Kranji Secondary School.md
+      - Schools/Kuo Chuan Presbyterian Primary School.md
+      - Schools/Kuo Chuan Presbyterian Secondary School.md
+      - Schools/Kwong Wai Shiu Peck Shan Ting School.md
+      - Schools/Labrador Primary School.md
+      - Schools/Lakeside Primary School.md
+      - Schools/Lee Kuo Chuan Primary School.md
+      - Schools/Lianhua Primary School.md
+      - Schools/Loyang Primary School.md
+      - Schools/Loyang View Secondary School.md
+      - Schools/Macpherson Primary School.md
+      - Schools/Macpherson Secondary School.md
+      - Schools/Macritchie Primary School.md
+      - Schools/Maha Bodhi School.md
+      - Schools/Maju Secondary School.md
+      - Schools/Manjusri Secondary School.md
+      - Schools/Margaret Drive Primary School.md
+      - Schools/Maris Stella High School.md
+      - Schools/Marsiling Primary School.md
+      - Schools/Marsiling Secondary School.md
+      - Schools/Marymount Convent School.md
+      - Schools/Mattar East School.md
+      - Schools/Mattar Primary School.md
+      - Schools/May Primary School.md
+      - Schools/Mayflower Primary School.md
+      - Schools/Mayflower Secondary School.md
+      - Schools/Mee Toh School.md
+      - Schools/Mei Chin Primary School.md
+      - Schools/Mei Chin Secondary School.md
+      - Schools/Membina Primary School.md
+      - Schools/Meng Teck School.md
+      - Schools/Meridian Junior College.md
+      - Schools/Meridian Primary School.md
+      - Schools/Meridian Secondary School.md
+      - Schools/Merlimau Primary School.md
+      - Schools/Methodist Girls' School.md
+      - Schools/Moulmein Primary School.md
+      - Schools/Mount Vernon Secondary School.md
+      - Schools/Mountbatten Primary School.md
+      - Schools/Nam San School.md
+      - Schools/Nan Chiau High School.md
+      - Schools/Nan Chiau Primary School.md
+      - Schools/Nan Chiow Public School.md
+      - Schools/Nan Hua High School.md
+      - Schools/Nan Hua Primary School.md
+      - Schools/Nanyang Girls' High School.md
+      - Schools/Nanyang Junior College.md
+      - Schools/Nanyang Primary School.md
+      - Schools/National Junior College.md
+      - Schools/Naval Base Primary School.md
+      - Schools/Naval Base Secondary School.md
+      - Schools/Nee Soon School.md
+      - Schools/New Town Primary School.md
+      - Schools/New Town Secondary School.md
+      - Schools/Ngee Ann Primary School.md
+      - Schools/Ngee Ann Secondary School.md
+      - Schools/Norfolk Primary School.md
+      - Schools/North Spring Primary School.md
+      - Schools/North View Primary School.md
+      - Schools/North View Secondary School.md
+      - Schools/North Vista Primary School.md
+      - Schools/North Vista Secondary School.md
+      - Schools/Northbrooks Secondary School.md
+      - Schools/Northland Primary School.md
+      - Schools/Northland Secondary School.md
+      - Schools/Northlight School.md
+      - Schools/Northoaks Primary School.md
+      - Schools/NUS High School of Mathematics and Science.md
+      - Schools/Oasis Primary School.md
+      - Schools/Opera Estate Boys' Primary School.md
+      - Schools/Opera Estate Girls' Primary School.md
+      - Schools/Opera Estate Primary School.md
+      - Schools/Orchid Park Secondary School.md
+      - Schools/Outram Institute.md
+      - Schools/Outram Primary School.md
+      - Schools/Outram Secondary School.md
+      - Schools/Owen School.md
+      - Schools/Palm View Primary School.md
+      - Schools/Pandan Primary School.md
+      - Schools/Park Road School.md
+      - Schools/Park View Primary School.md
+      - Schools/Paya Lebar Methodist Girls' School (Primary).md
+      - Schools/Paya Lebar Methodist Girls' School (Secondary).md
+      - Schools/Paya Lebar School.md
+      - Schools/Pearl Bank School.md
+      - Schools/Pearl Park Primary School.md
+      - Schools/Pearl's Hill School.md
+      - Schools/Peck Seah Primary School.md
+      - Schools/Pei Chun Public School.md
+      - Schools/Pei Hwa Presbyterian Primary School.md
+      - Schools/Pei Hwa Secondary School.md
+      - Schools/Pei Tek Public School.md
+      - Schools/Pei Tong Primary School.md
+      - Schools/Peicai Secondary School.md
+      - Schools/Peirce Secondary School.md
+      - Schools/Peixin Primary School.md
+      - Schools/Peiying Primary School.md
+      - Schools/Permaisura Primary School.md
+      - Schools/Ping Yi Primary School.md
+      - Schools/Ping Yi Secondary School.md
+      - Schools/Pioneer Junior College.md
+      - Schools/Pioneer Primary School.md
+      - Schools/Pioneer Secondary School.md
+      - Schools/Playfair School.md
+      - Schools/Poi Ching School.md
+      - Schools/Presbyterian High School.md
+      - Schools/Princess Elizabeth Primary School.md
+      - Schools/Pulau Tekong Primary School.md
+      - Schools/Punggol Cove Primary School.md
+      - Schools/Punggol Green Primary School.md
+      - Schools/Punggol Primary School.md
+      - Schools/Punggol Secondary School.md
+      - Schools/Punggol View Primary School.md
+      - Schools/Qiaonan Primary School.md
+      - Schools/Qifa Primary School.md
+      - Schools/Qihua Primary School.md
+      - Schools/Queenstown Primary School.md
+      - Schools/Queenstown Secondary School.md
+      - Schools/Queensway Secondary School.md
+      - Schools/Radin Mas Primary School.md
+      - Schools/Raffles Girls' Primary School.md
+      - Schools/Raffles Girls' School.md
+      - Schools/Raffles Institution.md
+      - Schools/Raffles Junior College.md
+      - Schools/Rangoon Road Primary School (Farrer Park).md
+      - Schools/Rangoon Secondary School.md
+      - Schools/Rayman School.md
+      - Schools/Red Swastika School.md
+      - Schools/Redhill School.md
+      - Schools/Regent Secondary School.md
+      - Schools/River Valley English School.md
+      - Schools/River Valley Government Chinese School.md
+      - Schools/River Valley High School.md
+      - Schools/River Valley Primary School.md
+      - Schools/Riverside Primary School.md
+      - Schools/Riverside Secondary School.md
+      - Schools/Rivervale Primary School.md
+      - Schools/Rosyth School.md
+      - Schools/Rulang Primary School.md
+      - Schools/San Shan Primary School.md
+      - Schools/Sang Nila Utama Secondary School.md
+      - Schools/Selegie Primary School.md
+      - Schools/Seletar Institute.md
+      - Schools/Sembawang Hills Estate School.md
+      - Schools/Sembawang Primary School.md
+      - Schools/Sembawang Secondary School.md
+      - Schools/Seng Kang Primary School.md
+      - Schools/Seng Kang Secondary School.md
+      - Schools/Sengkang Green Primary School.md
+      - Schools/Sennett Estate School.md
+      - Schools/Serangoon Garden North School.md
+      - Schools/Serangoon Garden Secondary School.md
+      - Schools/Serangoon Garden South School.md
+      - Schools/Serangoon Garden Technical School.md
+      - Schools/Serangoon Junior College.md
+      - Schools/Serangoon Secondary School.md
+      - Schools/Seraya Primary School.md
+      - Schools/Shuqun Primary School.md
+      - Schools/Shuqun Secondary School.md
+      - Schools/Si Ling Primary School.md
+      - Schools/Si Ling Secondary School.md
+      - Schools/Siglap Indah Primary School.md
+      - Schools/Siglap Primary School.md
+      - Schools/Siglap Secondary School.md
+      - Schools/Silat Primary School.md
+      - Schools/Singapore Chinese Girls' School.md
+      - Schools/Singapore Sports School.md
+      - Schools/South View Primary School.md
+      - Schools/Spectra Secondary School.md
+      - Schools/Springdale Primary School.md
+      - Schools/Springfield Secondary School.md
+      - Schools/St Andrew's Junior College.md
+      - Schools/St Andrew's Junior School.md
+      - Schools/St Andrew's Secondary School.md
+      - Schools/St Anthony's Canossian Primary School.md
+      - Schools/St Anthony's Canossian Secondary School.md
+      - Schools/St George's Road Tamil School.md
+      - Schools/St Joseph's Institution Junior.md
+      - Schools/St Patrick's School.md
+      - Schools/St Thomas Secondary School.md
+      - Schools/St Anthony's Primary School.md
+      - Schools/St Gabriel's Primary School.md
+      - Schools/St Gabriel's Secondary School.md
+      - Schools/St Hilda's Primary School.md
+      - Schools/St Hilda's Secondary School.md
+      - Schools/St Joseph's Institution.md
+      - Schools/St Margaret's Primary School.md
+      - Schools/St Margaret's Secondary School.md
+      - Schools/St Stephen's School.md
+      - Schools/St Theresa's High School.md
+      - Schools/Stamford Girl's School.md
+      - Schools/Stamford Primary School.md
+      - Schools/Swiss Cottage Primary School.md
+      - Schools/Swiss Cottage Secondary School.md
+      - Schools/Tampines Junior College.md
+      - Schools/Tampines Meridian Junior College.md
+      - Schools/Tampines North Primary School.md
+      - Schools/Tampines Primary School.md
+      - Schools/Tampines Secondary School.md
+      - Schools/Tanglin Girls' School.md
+      - Schools/Tanglin Primary School.md
+      - Schools/Tanglin Secondary School.md
+      - Schools/Tanjong Katong Girls' School.md
+      - Schools/Tanjong Katong Primary School.md
+      - Schools/Tanjong Katong Secondary School.md
+      - Schools/Tanjong Rhu Boy's School.md
+      - Schools/Tanjong Rhu Girls' School.md
+      - Schools/Tanjong Rhu Primary School.md
+      - Schools/Tao Nan School.md
+      - Schools/Teck Ghee Primary School.md
+      - Schools/Teck Whye Primary School.md
+      - Schools/Teck Whye Secondary School.md
+      - Schools/Telok Ayer Primary School.md
+      - Schools/Telok Kurau East Primary School.md
+      - Schools/Telok Kurau Malay Girls' School.md
+      - Schools/Telok Kurau Primary School.md
+      - Schools/Telok Kurau Secondary School.md
+      - Schools/Telok Kurau West Primary School.md
+      - Schools/Temasek Junior College.md
+      - Schools/Temasek Primary School.md
+      - Schools/Temasek Secondary School.md
+      - Schools/The Chinese High School.md
+      - Schools/The Happy School.md
+      - Schools/Thong Kheng School.md
+      - Schools/Tiong Bahru Primary School.md
+      - Schools/Tiong Bahru Secondary School.md
+      - Schools/Toh Tuck Primary School.md
+      - Schools/Toh Tuck Secondary School.md
+      - Schools/Towner Primary School.md
+      - Schools/Townsville Institute.md
+      - Schools/Townsville Primary School.md
+      - Schools/Trafalgar School.md
+      - Schools/Tuan Mong High School.md
+      - Schools/Tun Seri Lanang Secondary School.md
+      - Schools/Umar Pulavar Tamil School.md
+      - Schools/Unity Primary School.md
+      - Schools/Unity Secondary School.md
+      - Schools/Upper Aljunied Technical School.md
+      - Schools/Upper Serangoon Secondary School.md
+      - Schools/Victoria Junior College.md
+      - Schools/Victoria School.md
+      - Schools/Waterloo School.md
+      - Schools/Waterway Primary School.md
+      - Schools/Wellington Primary School.md
+      - Schools/West Grove Primary School.md
+      - Schools/West Hill School.md
+      - Schools/West Spring Primary School.md
+      - Schools/West Spring Secondary School.md
+      - Schools/West View Primary School.md
+      - Schools/Westlake Primary School.md
+      - Schools/Westwood Primary School.md
+      - Schools/Westwood Secondary School.md
+      - Schools/Whampoa Secondary School.md
+      - Schools/White Sands Primary School.md
+      - Schools/Whitley Secondary School.md
+      - Schools/Willow Avenue Secondary School.md
+      - Schools/Woodgrove Primary School.md
+      - Schools/Woodgrove Secondary School.md
+      - Schools/Woodlands Primary School.md
+      - Schools/Woodlands Ring Primary School.md
+      - Schools/Woodlands Ring Secondary School.md
+      - Schools/Woodlands Secondary School.md
+      - Schools/Woodsville Primary School.md
+      - Schools/Woodsville Secondary School.md
+      - Schools/Xianglin Primary School.md
+      - Schools/Xinghua Primary School.md
+      - Schools/Xingnan Primary School.md
+      - Schools/Xinmin Primary School.md
+      - Schools/Xinmin Secondary School.md
+      - Schools/Xi Shan Primary School.md
+      - Schools/Yang Zheng Primary School.md
+      - Schools/Yew Tee Primary School.md
+      - Schools/Yio Chu Kang Primary School.md
+      - Schools/Yio Chu Kang Secondary School.md
+      - Schools/Yishun Innova Junior College.md
+      - Schools/Yishun Junior College.md
+      - Schools/Yishun Primary School.md
+      - Schools/Yishun Secondary School.md
+      - Schools/Yishun Town Secondary School.md
+      - Schools/Yu Neng Primary School.md
+      - Schools/Yuan Ching Secondary School.md
+      - Schools/Yung An Primary School.md
+      - Schools/Yuqun Primary School.md
+      - Schools/Yusok Ishak Secondary School.md
+      - Schools/Yuying Secondary School.md
+      - Schools/Zhangde Primary School.md
+      - Schools/Zhenghua Primary School.md
+      - Schools/Zhenghua Secondary School.md
+      - Schools/Zhonghua Primary School.md
+      - Schools/Zhonghua Secondary School.md
+      - Schools/.keep
