@@ -23,10 +23,13 @@ No formal structure for training teachers existed in the early years, other than
 <b>1950: A Training College for Teachers</b><br>
 At the end of World War II, an overwhelming shortage of locally-trained teachers led to the establishment of the Teachers’ Training College (TTC) to train English medium teachers. TTC subsequently conducted training of teachers in vernacular schools, following the recommendation for equal treatment of the four main languages.<br><br>
 
--image-
-
-<b>1955: Charting a New Course for Education</b><br>
-The Ministry of Education (MOE) was formed with the goal of charting a new course for education in Singapore and carrying out the necessary reforms. Since its founding, MOE has actively implemented and formulated policies on education structure, curriculum, pedagogy and assessment.<br><br>
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:45%">
+<strong>1955: Charting a New Course for Education</strong><br>
+The Ministry of Education (MOE) was formed with the goal of charting a new course for education in Singapore and carrying out the necessary reforms. Since its founding, MOE has actively implemented and formulated policies on education structure, curriculum, pedagogy and assessment.
+</figcaption>
+</figure>
 
 -image-
 	
