@@ -42,7 +42,7 @@ text
 </figcaption>
 </figure>
 	
-	<b>1960: A Unified Training System</b><br>
+<b>1960: A Unified Training System</b><br>
 The dual system of part-time and full-time training at TTC proved inadequate for producing enough trained teachers for the growing number of schools. A three-year single in-service training system was introduced where teachers were trained at TTC in the morning, before assuming teaching responsibilities in schools in the afternoon.<br><br>
 
 <figure>
