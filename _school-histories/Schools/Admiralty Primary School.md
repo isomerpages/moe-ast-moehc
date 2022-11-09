@@ -87,9 +87,9 @@ Knowledge with Humanity
 <img src="/images/admps.png" style="width:30%;margin-right:15px;" align = "left">
 The school crest was designed through collaborative effort of the teachers. The symbols of an open book, a hand and five bands in a circular badge with the colors, blue, yellow and red form the emblem. The colors, blue, yellow and red stand for humanity, excellence and equal opportunity respectively.
 
-The open book represents the knowledge acquired by a student through the two stages of Primary Education (Foundation and Orientation). The hand symbolizes guidance and humanity. The five bands signify the five shared values that form the foundation of our nation.
-
 <br clear="left">
+
+The open book represents the knowledge acquired by a student through the two stages of Primary Education (Foundation and Orientation). The hand symbolizes guidance and humanity. The five bands signify the five shared values that form the foundation of our nation.
 
 1\. Nation before community and society above self<br>
 2\. Family as the basic unit of society<br>
