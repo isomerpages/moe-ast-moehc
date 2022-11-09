@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img src="/images/admps.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Admiralty Primary School**
-[URL to website](https://admiraltypri.moe.edu.sg/)
+[URL to website](https://admiraltypri.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
