@@ -25,7 +25,7 @@ At the end of World War II, an overwhelming shortage of locally-trained teachers
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:45%">
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
 <strong>1955: Charting a New Course for Education</strong><br>
 The Ministry of Education (MOE) was formed with the goal of charting a new course for education in Singapore and carrying out the necessary reforms. Since its founding, MOE has actively implemented and formulated policies on education structure, curriculum, pedagogy and assessment.
 </figcaption>
