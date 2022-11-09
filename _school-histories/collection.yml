@@ -2,7 +2,6 @@ collections:
   school-histories:
     output: true
     order:
-      - School Histories.md
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
       - Schools/Ahmad Ibrahim Primary School.md
