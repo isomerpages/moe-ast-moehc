@@ -18,23 +18,23 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 | <img src="/images/crest4.jpg" style="width:50%"> | <img src="/images/crest5.png" style="width:100%"> | <img src="/images/crest6.png" style="width:28%"> |
 |:---:|:---:|:---:|
-| [Ahmad Ibrahim Secondary School] | [Ai Tong School] | [Alexandra Estate Primary School] |
+| [Ahmad Ibrahim Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-sec/) | [Ai Tong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ai-tong-sch/) | [Alexandra Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-estate-pri-sch/) |
 
 | <img src="/images/crest7.png" style="width:60%"> | <img src="/images/crest8.png" style="width:75%"> | <img src="/images/crest9.png" style="width:35%"> |
 |:---:|:---:|:---:|
-| [Alexandra Hill Primary School] | [Alexandra Primary School] | [Aljunied Primary School] |
+| [Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) | [Alexandra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-pri/) | [Aljunied Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aljunied-pri/) |
 
 | <img src="/images/crest10.png" style="width:50%"> | <img src="/images/crest11.png" style="width:55%"> | <img src="/images/crest12.png" style="width:50%"> |
 |:---:|:---:|:---:|
-| [Ama Keng School] | [Anchor Green Primary School] | [Anderson Junior College] |
+| [Ama Keng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ama-keng-sch/) | [Anchor Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anchor-green-pri/) | [Anderson Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-jc/) |
 
 | <img src="/images/crest13.png" style="width:60%"> | <img src="/images/crest14.jpg" style="width:40%"> | <img src="/images/crest15.png" style="width:80%"> |
 |:---:|:---:|:---:|
-| [Anderson Primary School] | [Anderson Secondary School] | [Anderson Serangoon Junior College] |
+| [Anderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-pri/) | [Anderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-sec/) | [Anderson Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-serangoon-jc/) |
 
-|  |  |  |
+| <img src="/images/crest16.png" style="width:70%"> | <img src="/images/crest17.jpg" style="width:60%"> | <img src="/images/crest18.jpg" style="width:70%"> |
 |:---:|:---:|:---:|
-| [Ang Mo Kio Primary School] | [Ang Mo Kio Secondary School] | [Anglican High School] |
+| [Ang Mo Kio Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-sec/) | [Anglican High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anglican-high-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
