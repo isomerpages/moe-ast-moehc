@@ -29,6 +29,8 @@ In 1978, a committee led by then Deputy Prime Minister Dr Goh Keng Swee was task
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRU2T0bCplKEwJNj_zXHBBSqVDdBrUpg6Jg5lmlp8ePaBJtSGrrb3wUnYhnmBJZi3auIAeATiK5yq0E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+<br clear="left">	
+	
 A significant outcome of The Goh Report was the development of a New Education System, fundamentally changing Singapore’s education landscape. Streaming was introduced, and there was an emphasis on moral education.
 		
 </p>  
