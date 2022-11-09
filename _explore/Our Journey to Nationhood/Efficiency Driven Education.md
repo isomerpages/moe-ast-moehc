@@ -136,7 +136,7 @@ A Report on Moral Education was released in 1979. A single moral education progr
 	
 <b>Sang Nila Utama</b>
 	
-<iframe allowfullscreen="true" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHnlUjR5ThLUgNY5_3yUEELYxvyMRBMTvNWOfCLfYtlXIdO3yY3k3jdm36I2W47nLcxpgGo2lZ2_vl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQHnlUjR5ThLUgNY5_3yUEELYxvyMRBMTvNWOfCLfYtlXIdO3yY3k3jdm36I2W47nLcxpgGo2lZ2_vl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 	
 <br clear="left">	
 	
