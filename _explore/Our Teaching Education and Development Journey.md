@@ -36,7 +36,7 @@ The Ministry of Education (MOE) was formed with the goal of charting a new cours
 	
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation2.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -47,7 +47,7 @@ The dual system of part-time and full-time training at TTC proved inadequate for
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation3.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -58,7 +58,7 @@ The use of audio-visual resources became an integral part of professional teache
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation4.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -69,7 +69,7 @@ TTC was replaced by the Institute of Education (IE), marking a milestone of orga
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation5.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -80,7 +80,7 @@ MOE formalised in-service administration with the setting up of the Committee on
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation6.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -105,7 +105,7 @@ Following a review of the education system by MOE in 1978, the Curriculum Develo
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation7.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -116,7 +116,7 @@ The Diploma in Educational Administration (DEA), a one-year full-time in-service
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation8.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -127,7 +127,7 @@ In July 1991, IE and the College of Physical Education were merged to become Nat
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation9.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -153,7 +153,7 @@ The establishment of the Teachers Network in 1998 was a concrete move towards pr
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation10.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -164,7 +164,7 @@ The TWA programme encourage teachers to take up work attachments in other organi
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation11.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -175,7 +175,7 @@ The Professional Development Continuum Model was implemented by MOE in collabora
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation12.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -186,7 +186,7 @@ The School Staff Developer position was created in 2007 to help school leaders l
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation13.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -197,7 +197,7 @@ Professional Learning Communities (PLCs) were set up in schools to promote profe
 
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation14.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
@@ -212,7 +212,7 @@ The Singapore Teaching Practice, a model of teaching and learning built on past 
 	
 <figure>
 <figcaption>
-<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<img src="/images/ourteachereducation15.jpg" style="width:65%">
 <strong>text</strong><br>
 text
 </figcaption>
