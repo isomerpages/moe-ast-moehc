@@ -4,21 +4,21 @@ permalink: /explore/efficiency-driven-education/
 description: ""
 third_nav_title: Our Journey to Nationhood
 ---
-<img src="/images/journeytonationhood2.gif" style="width:85%">
+<img style="width:85%" src="/images/journeytonationhood2.gif">
 
 In the 1980s, Singapore was transiting from a labour-intensive to a capital-based economy. The emphasis shifted from technical education to science, technology, research and development. To keep up with an increasingly globalised world, the education system had to be reviewed to prepare students for the workforce.
 
 <figure>
-<img src="/images/efficiencydriven.png" style="width:65%">
-<figcaption> <strong>Teacher and students conducting a science experiment in the laboratory (c. 1980).</strong><br>Bedok North Secondary School Collection, courtesy of National Archives of Singapore.
- </figcaption>  
+<img style="width:65%" src="/images/efficiencydriven.png">
+<figcaption>&nbsp;<strong>Teacher and students conducting a science experiment in the laboratory (c. 1980).</strong><br>Bedok North Secondary School Collection, courtesy of National Archives of Singapore.
+&nbsp;</figcaption>  
 </figure>
 
 <ul class="jekyllcodex_accordion">  
   
 <li>  
   
-<input type="checkbox" id="accordion1">  
+<input id="accordion1" type="checkbox">  
   
 <label for="accordion1">The Goh Report</label>  
   
@@ -27,7 +27,7 @@ In the 1980s, Singapore was transiting from a labour-intensive to a capital-base
 <p>
 In 1978, a committee led by then Deputy Prime Minister Dr Goh Keng Swee was tasked to study and make recommendations to improve the education system. The Goh Report highlighted shortcomings like high education wastage and a lack of diversity to cater to the different learning needs of children.<br><br>
 
--carousell- embed google slides <br><br>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRU2T0bCplKEwJNj_zXHBBSqVDdBrUpg6Jg5lmlp8ePaBJtSGrrb3wUnYhnmBJZi3auIAeATiK5yq0E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 A significant outcome of The Goh Report was the development of a New Education System, fundamentally changing Singapore’s education landscape. Streaming was introduced, and there was an emphasis on moral education.
 		
@@ -38,7 +38,7 @@ A significant outcome of The Goh Report was the development of a New Education S
 </li>  
 <li>  
   
-<input type="checkbox" id="accordion2">  
+<input id="accordion2" type="checkbox">  
   
 <label for="accordion2">A New Curriculum</label>  
   
@@ -83,7 +83,7 @@ A Report on Moral Education was released in 1979. A single moral education progr
   
 <li>  
   
-<input type="checkbox" id="accordion3">  
+<input id="accordion3" type="checkbox">  
   
 <label for="accordion3">CDIS Developed Education Materials</label>  
   
@@ -146,7 +146,7 @@ A Report on Moral Education was released in 1979. A single moral education progr
 	
 <li>  
   
-<input type="checkbox" id="accordion4">  
+<input id="accordion4" type="checkbox">  
   
 <label for="accordion4">Greater Autonomy for Schools</label>  
   
