@@ -85,6 +85,7 @@ Knowledge with Humanity
 
 #### **School Crest**
 <img src="/images/admps.png" style="width:30%;margin-right:15px;" align = "left">
+
 The school crest was designed through collaborative effort of the teachers. The symbols of an open book, a hand and five bands in a circular badge with the colors, blue, yellow and red form the emblem. The colors, blue, yellow and red stand for humanity, excellence and equal opportunity respectively.
 
 <br clear="left">
