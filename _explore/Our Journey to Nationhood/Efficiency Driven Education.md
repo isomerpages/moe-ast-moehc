@@ -10,7 +10,7 @@ In the 1980s, Singapore was transiting from a labour-intensive to a capital-base
 
 <figure>
 <img style="width:65%" src="/images/efficiencydriven.png">
-<figcaption>&nbsp;<strong>Teacher and students conducting a science experiment in the laboratory (c. 1980).</strong><br>Bedok North Secondary School Collection, courtesy of National Archives of Singapore.
+<figcaption><strong>Teacher and students conducting a science experiment in the laboratory (c. 1980).</strong><br>Bedok North Secondary School Collection, courtesy of National Archives of Singapore.
 &nbsp;</figcaption>  
 </figure>
 
@@ -50,19 +50,19 @@ Following the recommendations from the Goh Report in 1979, MOE set up the Curric
 Local and foreign advisors were recruited by CDIS to produce quality teaching and learning materials for the Singapore curriculum. Project teams were assembled to develop local curriculum resources on English, Chinese, Mathematics and Science. More subjects were included over the years.<br><br>
 
 -image-<br>
-<b>CDIS 10th anniversary newsletter showcasing their process for developing educational materials.</b>
+<strong>CDIS 10th anniversary newsletter showcasing their process for developing educational materials.</strong>
 	
 <br><br>
 CDIS helped schools acquire the infrastructure for computer-based learning. Teachers were trained to integrate these lessons in class. Every school was equipped with audio-visual facilities, making learning more varied and enriching for students.
 
 <br><br>
 -image-<br>
-<b>Students watching an educational video using headsets (1985).</b><br>
+<strong>Students watching an educational video using headsets (1985).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 	
 <br><br>
 -image-<br>
-<b>Students undergo lessons in a computer lab (1997).</b><br>
+<strong>Students undergo lessons in a computer lab (1997).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 
 <br><br>
@@ -70,7 +70,7 @@ The establishment of CDIS saw the creation of high-quality textbooks and teachin
 	
 <br><br>
 -image-<br>
-<b>Report on Moral Education 1979.</b>
+<strong>Report on Moral Education 1979.</strong>
 	
 <br><br>	
 A Report on Moral Education was released in 1979. A single moral education programme was proposed across primary and secondary schools.  More emphasis would be given to instil moral values and civic responsibility, with Mother Tongue as the medium of instruction.
@@ -90,51 +90,51 @@ A Report on Moral Education was released in 1979. A single moral education progr
 <div>  
   
 <p>
-<b>好公民  Good Citizen (Civic and Moral Education)</b>
+<strong>好公民  Good Citizen (Civic and Moral Education)</strong>
 
 <br><br>-carousell- embed google slides <br><br>	
 	
-<b>PETS 5B</b>
+<strong>PETS 5B</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Primary English Programme</b>
+<strong>Primary English Programme</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Primary Mathematics</b>
+<strong>Primary Mathematics</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Rakyat yang Baik (Civic and Moral Education)</b>
+<strong>Rakyat yang Baik (Civic and Moral Education)</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Sang Nila Utama</b>
+<strong>Sang Nila Utama</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Science 3</b>
+<strong>Science 3</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Social Studies for Primary Schools</b>
+<strong>Social Studies for Primary Schools</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>வளர் தமிழ் பாடநூல் (Tamil Language Textbook 3A)</b>
+<strong>வளர் தமிழ் பாடநூல் (Tamil Language Textbook 3A)</strong>
 	
 <br><br>-carousell- embed google slides <br><br>
 	
 	
-<b>Tamil Language Civic and Moral Education 3A</b>
+<strong>Tamil Language Civic and Moral Education 3A</strong>
 	
 <br><br>-carousell- embed google slides <br><br>	
   
@@ -157,27 +157,27 @@ In the 1980s and 1990s, independent and autonomous schools were set up.  Indepen
 
 <br><br>
 -image-<br>
-<b>Anderson Secondary School’s ‘Science Research and Innovation’ programme (2000).</b>
+<strong>Anderson Secondary School’s ‘Science Research and Innovation’ programme (2000).</strong>
 	
 <br><br>
 -image-<br>
-<b>Art Programme at Victoria School (c. 1996).
-</b>	
+<strong>Art Programme at Victoria School (c. 1996).
+</strong>	
 	
 <br><br>
 -image-<br>
-<b>Rock climbing wall at Cedar Girls’ School to provide students with more opportunities for outdoor activities (1990s).
-</b>
+<strong>Rock climbing wall at Cedar Girls’ School to provide students with more opportunities for outdoor activities (1990s).
+</strong>
 	
 <br><br>
 -image-<br>
-<b>Anglo-Chinese School (Independent) students on the Work Experience Scheme (c. 1989).
-</b>
+<strong>Anglo-Chinese School (Independent) students on the Work Experience Scheme (c. 1989).
+</strong>
 	
 <br><br>
 -image-<br>
-<b>Chinese Culture Appreciation was included in the curriculum at Nanyang Girls’ High School (1990s).
-</b>	
+<strong>Chinese Culture Appreciation was included in the curriculum at Nanyang Girls’ High School (1990s).
+</strong>	
 	
 <br><br>
 Music, Art and Language Elective Programmes were introduced to secondary schools during this period. Schools were also free to offer enrichment programmes such as science research, outdoor and adventure learning and work attachments. These programmes allowed students to broaden their education experience and pursue their interests.	
