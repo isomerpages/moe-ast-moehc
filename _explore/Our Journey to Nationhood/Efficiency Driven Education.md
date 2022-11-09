@@ -53,18 +53,16 @@ Local and foreign advisors were recruited by CDIS to produce quality teaching an
 
 <figure>
 <figcaption>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivenb1.jpg">
 <strong>CDIS 10th anniversary newsletter showcasing their process for developing educational materials.</strong>
 </figcaption>
 </figure>	
-	
-<br><br>
+
 CDIS helped schools acquire the infrastructure for computer-based learning. Teachers were trained to integrate these lessons in class. Every school was equipped with audio-visual facilities, making learning more varied and enriching for students.
 
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivenb2.png">
 <strong>Students watching an educational video using headsets (1985).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
@@ -72,25 +70,23 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 	
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivenb3.png">
 <strong>Students undergo lessons in a computer lab (1997).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
-<br><br>
 The establishment of CDIS saw the creation of high-quality textbooks and teaching materials tailored to the needs of Singaporean students. Other local commercial publishers continued to publish materials until the late 1970s.
 	
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<p><a href="[https://eresources.nlb.gov.sg/history/events/7a63e9a1-c949-41d0-9b6f-d3853d832bb1](https://eresources.nlb.gov.sg/history/events/7a63e9a1-c949-41d0-9b6f-d3853d832bb1)">  
+<img style="width:45%" src="/images/efficiencydrivenb4.png">  
+</a></p>
 <strong>Report on Moral Education 1979.</strong>
 </figcaption>
 </figure>	
 	
-<br><br>	
 A Report on Moral Education was released in 1979. A single moral education programme was proposed across primary and secondary schools.  More emphasis would be given to instil moral values and civic responsibility, with Mother Tongue as the medium of instruction.
 	
 </p>  
@@ -175,16 +171,14 @@ In the 1980s and 1990s, independent and autonomous schools were set up.  Indepen
 
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivend1.png">
 <strong>Anderson Secondary School’s ‘Science Research and Innovation’ programme (2000).</strong>
 </figcaption>
 </figure>	
 	
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivend2.png">
 <strong>Art Programme at Victoria School (c. 1996).
 </strong>	
 </figcaption>
@@ -192,8 +186,7 @@ In the 1980s and 1990s, independent and autonomous schools were set up.  Indepen
 	
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivend3.png">
 <strong>Rock climbing wall at Cedar Girls’ School to provide students with more opportunities for outdoor activities (1990s).
 </strong>
 </figcaption>
@@ -201,8 +194,7 @@ In the 1980s and 1990s, independent and autonomous schools were set up.  Indepen
 	
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivend4.png">
 <strong>Anglo-Chinese School (Independent) students on the Work Experience Scheme (c. 1989).
 </strong>
 </figcaption>
@@ -210,14 +202,12 @@ In the 1980s and 1990s, independent and autonomous schools were set up.  Indepen
 	
 <figure>
 <figcaption>
-<br><br>
--image-<br>
+<img style="width:65%" src="/images/efficiencydrivend5.png">
 <strong>Chinese Culture Appreciation was included in the curriculum at Nanyang Girls’ High School (1990s).
 </strong>
 </figcaption>
 </figure>	
 	
-<br><br>
 Music, Art and Language Elective Programmes were introduced to secondary schools during this period. Schools were also free to offer enrichment programmes such as science research, outdoor and adventure learning and work attachments. These programmes allowed students to broaden their education experience and pursue their interests.	
 	
 </p>  
