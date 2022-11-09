@@ -14,6 +14,24 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 | <img src="/images/crest1.png" style="width:80%"> | <img src="/images/crest2.jpg" style="width:45%"> | <img src="/images/crest3.jpg" style="width:75%"> |
 |:---:|:---:|:---:|
-| [Admiralty Primary Schoo](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admps/) | [Admiralty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-pri/) |
+| [Admiralty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admps/) | [Admiralty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-pri/) |
 
+| <img src="/images/crest4.jpg" style="width:35%"> | <img src="/images/crest5.png" style="width:100%"> | <img src="/images/crest6.png" style="width:28%"> |
+|:---:|:---:|:---:|
+| [Ahmad Ibrahim Secondary School] | [Ai Tong School] | [Alexandra Estate Primary School] |
 
+| <img src="/images/crest7.png" style="width:35%"> | <img src="/images/crest8.png" style="width:35%"> | <img src="/images/crest9.png" style="width:30%"> |
+|:---:|:---:|:---:|
+| [Alexandra Hill Primary School] | [Alexandra Primary School] | [Aljunied Primary School] |
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  |  |  |
