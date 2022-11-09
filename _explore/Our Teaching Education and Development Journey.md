@@ -26,32 +26,65 @@ At the end of World War II, an overwhelming shortage of locally-trained teachers
 <figure>
 <figcaption>
 <img src="/images/ourteachereducation1.jpg" style="width:65%">
-<strong>1955: Charting a New Course for Education</strong><br>
-The Ministry of Education (MOE) was formed with the goal of charting a new course for education in Singapore and carrying out the necessary reforms. Since its founding, MOE has actively implemented and formulated policies on education structure, curriculum, pedagogy and assessment.
+<strong>Briefing of teachers-in-training at the Teachers’ Training College (1954).</strong><br>
+Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </figcaption>
 </figure>
-
--image-
+	
+<b>1955: Charting a New Course for Education</b><br>
+The Ministry of Education (MOE) was formed with the goal of charting a new course for education in Singapore and carrying out the necessary reforms. Since its founding, MOE has actively implemented and formulated policies on education structure, curriculum, pedagogy and assessment.
+	
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 	
 	<b>1960: A Unified Training System</b><br>
 The dual system of part-time and full-time training at TTC proved inadequate for producing enough trained teachers for the growing number of schools. A three-year single in-service training system was introduced where teachers were trained at TTC in the morning, before assuming teaching responsibilities in schools in the afternoon.<br><br>
 
--image-
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 <b>1966: Training Teachers in Media Use</b><br>
 The use of audio-visual resources became an integral part of professional teacher education in the 1960s. This was particularly significant when the Singapore Educational Television Service was established in 1966 as a production centre for instructional television programmes within MOE.<br><br>
 
--image-
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
-	<b>1973: Formalising Teacher Education on a National Level</b><br>
+<b>1973: Formalising Teacher Education on a National Level</b><br>
 TTC was replaced by the Institute of Education (IE), marking a milestone of organisational change in teacher education. Under its first Director Dr Ruth H. K. Wong, IE established itself as a significant institute for both pre-service and in-service teacher education, as well as education research.<br><br>
 
--image-
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
-	<b>1976: Improving Quality of In-Service Courses</b><br>
+<b>1976: Improving Quality of In-Service Courses</b><br>
 MOE formalised in-service administration with the setting up of the Committee on In-service Courses, with IE representation. This was later replaced by the Staff and Training Branch, to reconceptualise in-service provision as part of an overall staff development strategy.<br><br>
 
--image-
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 	
 </p>  
   
@@ -67,20 +100,38 @@ MOE formalised in-service administration with the setting up of the Committee on
 <div>  
   
 <p>
-	<b>1980: Enhancing Teaching and Learning with Educational Technology</b><br>
+<b>1980: Enhancing Teaching and Learning with Educational Technology</b><br>
 Following a review of the education system by MOE in 1978, the Curriculum Development Institute of Singapore (CDIS) was established to develop a range of local teaching materials. Instructional materials included a wide range of AV resources, with an emphasis on teacher education in Educational TV programmes.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 <b>1984: Developing Teachers to be School Leaders</b><br>
 The Diploma in Educational Administration (DEA), a one-year full-time in-service programme, was introduced. It stemmed from a desire to promote excellent teachers to school leadership positions to allow MOE to increasingly devolve the responsibility of educational management to school principals. This evolved to become the Leaders in Education (LEP) Programme in 2001, which focused on innovative and future-oriented leadership.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 <b>1991: A New Phase for Teacher Training</b><br>
 In July 1991, IE and the College of Physical Education were merged to become National Institute of Education (NIE), which in turn became a part of Nanyang Technological University.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 </p>  
   
@@ -100,27 +151,57 @@ In July 1991, IE and the College of Physical Education were merged to become Nat
 <b>1998: By Teachers, For Teachers</b><br>
 The establishment of the Teachers Network in 1998 was a concrete move towards promoting teacher ownership of professional learning, with ground-up teacher development initiatives.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 <b>2003: Teacher Work Attachment (TWA) Programme</b><br>
 The TWA programme encourage teachers to take up work attachments in other organisations to broaden perspectives, which could be infused into classroom activities for students. It also helps them understand skills which students need in the changing workplace.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 	<b>2005: Expanding Opportunities for Lifelong Learning</b><br>
 The Professional Development Continuum Model was implemented by MOE in collaboration with NIE, to empower teachers to pursue professional upgrading and in-service course accreditation.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 	
 <b>### 2007: A Whole-School Approach for Professional Development</b><br>
 The School Staff Developer position was created in 2007 to help school leaders look into systematic professional development of teachers and staff within a school.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 	
 <b>2009: Fostering Teacher-led Learning Communities</b><br>
 Professional Learning Communities (PLCs) were set up in schools to promote professional collaboration and excellence among teachers, so as to facilitate improved student learning outcomes.<br><br>
 
---image--
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 
 <b>2010: A Leading Academy for Teacher Development</b><br>
 Academy of Singapore Teachers (AST) was established on 1 September as a leading academy championing professional excellence and development for the teaching fraternity.<br><br>
@@ -129,7 +210,13 @@ Built on the foundation of the former Training and Development Division and Teac
 	<b>2017: A Model for Pedagogical Excellence</b><br>
 The Singapore Teaching Practice, a model of teaching and learning built on past experiences, was introduced to guide and strengthen effective teaching and learning. Jointly developed by local educators and researchers, it articulated the beliefs of the teaching fraternity and distilled teaching practices that worked in our Singapore context.<br><br>
 	
--image-
+<figure>
+<figcaption>
+<img src="/images/ourteachereducation1.jpg" style="width:65%">
+<strong>text</strong><br>
+text
+</figcaption>
+</figure>
 	
 <b>2020: Launch of SkillsFuture for Educators (SFEd)</b><br>	
 In line with the “Learn for Life” movement, SkillsFuture for Educators (SFEd) serves as a professional development (PD) roadmap for teachers to focus their efforts in prioritised Areas of Practice according to four levels of Practice in each area.<br><br>
