@@ -81,6 +81,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Anglo Chinese School (Barker Road)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acjc/) | [Anglo Chinese School (Independent)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-i/) |
 
+<img src="/images/crest22.png" style="width:15%;margin-left:75px;" align = "left">
+<img src="/images/crest23.jpg" style="width:15%;margin-left:145px;" align = "left">
+<img src="/images/crest24.png" style="width:30%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Anglo Chinese School (Junior)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-pri/) | [Angsana Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/angsana-pri/) |
