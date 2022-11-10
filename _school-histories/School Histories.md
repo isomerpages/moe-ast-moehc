@@ -13,7 +13,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crest1.png" style="width:20%;margin-left:45px;" align = "left">
 <img src="/images/crest2.jpg" style="width:12%;margin-left:95px;" align = "left">
-<img src="/images/crest3.jpg" style="width:25%;margin-left:125px;" align = "left">
+<img src="/images/crest3.jpg" style="width:25%;margin-right:45px;" align = "right">
 
 |  |  |  |
 |:---:|:---:|:---:|
