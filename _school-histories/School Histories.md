@@ -315,11 +315,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Guillemard Primary School] | [Hai Sing Catholic School] | [Haig Boys' School] |
+| [Guillemard Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guillemard-pri/) | [Hai Sing Catholic School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hai-sing-catholic-sch/) | [Haig Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Haig Girls' School] | [Havelock Primary School] | [Havelock School] |
+| [Haig Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-girls-sch/) | [Havelock Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/havelock-pri/) | [Havelock School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/havelock-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
