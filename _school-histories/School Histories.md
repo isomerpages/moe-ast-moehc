@@ -131,9 +131,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Balestier Hill West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-west-pri/) | [Balestier Mixed School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-mixed-sch/) | [Balestier Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-pri/) |
 
+<img src="/images/crest37.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crest38.jpg" style="width:25%;margin-left:95px;" align = "left">
+<img src="/images/crest39.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bartley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-pri/) | [Bartley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-sec/) | [Batu Berlayar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/batu-berlayar-sch/) |
+
+<img src="/images/crest40.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crest41.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crest42.jpg" style="width:18%;margin-right:45px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
