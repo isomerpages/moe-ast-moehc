@@ -223,19 +223,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Coral Secondary School] | [Corporation Primary School] | [Crescent Girls' School] |
+| [Coral Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-sec/) | [Corporation Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/corporation-pri/) | [Crescent Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crescent-girls-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Crest Secondary School] | [Da Qiao Primary School] | [Damai Primary School] |
+| [Crest Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crest-sec/) | [Da Qiao Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-qiao-pri/) | [Damai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Damai Secondary School] | [Dazhong Primary School] | [De La Salle School] |
+| [Damai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-sec/) | [Dazhong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-zhong-pri/) | [De La Salle School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/de-la-salle-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Circus Primary School] | [Delta East Primary School] | [Delta Primary School] |
+| [Delta Circus Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-circus-pri/) | [Delta East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-east-pri/) | [Delta Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
