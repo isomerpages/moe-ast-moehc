@@ -241,6 +241,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Boon Lay Garden Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-garden-pri/) | [Boon Lay Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-pri/) | [Boon Lay Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-sec/) |
 
+<img src="/images/crest70.jpg" style="width:25%;margin-left:65px;" align = "left">
+<img src="/images/crest71.png" style="width:25%;margin-left:75px;" align = "left">
+<img src="/images/crest72.png" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bowen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bowen-sec/) | [Braddell Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddel-westlake-sec/) |
