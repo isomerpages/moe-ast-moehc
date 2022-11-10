@@ -131,11 +131,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Batok Secondary School] | [Bukit Batok West Primary School] | [Bukit Ho Swee Primary School] |
+| [Bukit Batok Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Ho Swee Secondary School] | [Bukit Merah North School] | [Bukit Merah Primary School] |
+| [Bukit Ho Swee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
