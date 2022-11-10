@@ -211,6 +211,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Belvedere School (Bukit Merah)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-sec/) |
 
+<img src="/images/crest61.png" style="width:22%;margin-left:45px;" align = "left">
+<img src="/images/crest62.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crest63.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Beng Wan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beng-wan-pri/) | [Birkhall Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bishan-park-sec/) |
