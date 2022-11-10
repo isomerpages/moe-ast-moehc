@@ -329,7 +329,7 @@ img {
       width: auto;
       height: 20%;
       object-fit: cover;
-      margin-left:70px;
+      margin-left:100px;
       }
 			
 </style>
