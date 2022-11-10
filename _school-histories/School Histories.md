@@ -723,27 +723,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Trafalgar School] | [Tuan Mong High School] | [Tun Seri Lanang Secondary School] |
+| [Trafalgar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/trafalgar-sch/) | [Tuan Mong High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tun-seri-lanang-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Umar Pulavar Tamil School] | [Unity Primary School] | [Unity Secondary School] |
+| [Umar Pulavar Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-pri/) | [Unity Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Upper Aljunied Technical School] | [Upper Serangoon Secondary School] | [Victoria Junior College] |
+| [Upper Aljunied Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-aljunied-technical/) | [Upper Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-serangoon-sec/) | [Victoria Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/victoria-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Victoria School] | [Waterloo School] | [Waterway Primary School] |
+| [Victoria School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/victoria-school/) | [Waterloo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/waterloo-school/) | [Waterway Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/waterway-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Wellington Primary School] | [West Grove Primary School] | [West Hill School] |
+| [Wellington Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/wellington-pri/) | [West Grove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-grove-pri/) | [West Hill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-hill-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [West Spring Primary School] | [West Spring Secondary School] | [West View Primary School] |
+| [West Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-spring-pri/) | [West Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-spring-sec/) | [West View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-view-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
