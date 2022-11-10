@@ -301,25 +301,26 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Bukit Panjang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-pri/) | [Bukit Timah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-timah-pri/) | [Bukit View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-pri/) |
 
-|  |  |  |
-|:---:|:---:|:---:|
-| [Bukit View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/buona-vista-sec/) | [Cairnhill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cairnhill-pri/) |
-
 <img src="/images/crest88.jpg" style="width:23%;margin-left:45px;" align = "left">
 <img src="/images/crest89.png" style="width:25%;margin-left:95px;" align = "left">
 <img src="/images/crestC1.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
+
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cambridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cambridge-pri/) | [Canberra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-pri/) | [Canberra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-sec/) |
+| [Bukit View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/buona-vista-sec/) | [Cairnhill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cairnhill-pri/) |
 
 <img src="/images/crestC2.png" style="width:18%;margin-left:65px;" align = "left">
 <img src="/images/crestC3.png" style="width:30%;margin-left:95px;" align = "left">
 <img src="/images/crestC4.jpg" style="width:25%;margin-right:5px;" align = "right">
 
 <br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [Cambridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cambridge-pri/) | [Canberra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-pri/) | [Canberra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
