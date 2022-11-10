@@ -199,15 +199,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chongzheng Primary School] | [Christ Church Secondary School] | [Chua Chu Kang Government Chinese Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chua Chu Kang Malay School] | [Chua Chu Kang Primary School] | [Chua Chu Kang Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chung Cheng High School (Main)] | [Chung Cheng High School (Yishun)] | [Clemeti North Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
