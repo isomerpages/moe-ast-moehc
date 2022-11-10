@@ -292,6 +292,12 @@ img {
 |:---:|:---:|:---:|
 | [Bukit Ho Swee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-pri/) |
 
+<img src="/images/crest76.jpg" style="width:20%;margin-left:25px;" align = "left">
+<img src="/images/crest77.png" style="width:20%;margin-left:25px;" align = "left">
+<img src="/images/crest78.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/) | [Bukit Merah South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-govt-high-sch/) |
