@@ -299,19 +299,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Geylang Primary School] | [Ghim Moh Primary School] | [Ghim Moh Secondary School] |
+| [Geylang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-pri/) | [Ghim Moh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-pri/) | [Ghim Moh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Gongshang Primary School] | [Greendale Primary School] | [Greendale Secondary School] |
+| [Gongshang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gongshang-pri/) | [Greendale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greendale-pri/) | [Greendale Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greendale-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Greenridge Primary School] | [Greenridge Secondary School] | [Greenwood Primary School] |
+| [Greenridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenridge-pri/) | [Greenridge Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenridge-sec/) | [Greenwood Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenwood-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Griffiths Primary School] | [Guangyang Primary School] | [Guangyang Secondary School] |
+| [Griffiths Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/) | [Guangyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-pri/) | [Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
