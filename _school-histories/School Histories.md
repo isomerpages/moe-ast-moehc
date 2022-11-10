@@ -319,35 +319,35 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Haig Girls' School] | [Havelock Primary School] | [Havelock School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Henderson Primary School] | [Henderson Secondary School] | [Heng A Khe Bong School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Henry Park Primary School] | [Hillgrove Secondary School] | [Holy Innocents' High School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Holy Innocents' Primary School] | [Hong Kah Primary School] | [Hong Kah Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Hong Wen School] | [Horizon Primary School] | [Hougang Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Hougang Secondary School] | [Hua Kiau School] | [Hua Yi Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Hua Yi Secondary School] | [Huamin Primary School] | [Hwa Chong Institution] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Hwa Chong Junior College] | [Hwi Yoh Secondary School] | [Innova Junior College] |
 
 |  |  |  |
 |:---:|:---:|:---:|
