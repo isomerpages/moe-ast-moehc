@@ -171,19 +171,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Changkat Primary School] | [Chao Yang School] | [Charlton School] |
+| [Changkat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/changkat-pri/) | [Chao Yang School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chao-yang-sch/) | [Charlton School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/charlton-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chestnut Drive Secondary School] | [Chij (Katong) Primary] | [Chij Katong Convent] |
+| [Chestnut Drive Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-pri/) | [Chij Katong Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-convent/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Kellock] | [Chij Opera Estate Primary School] | [Chij Our Lady Of Good Counsel] |
+| [Chij Kellock](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-kellock/) | [Chij Opera Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-opera-estate-pri/) | [Chij Our Lady Of Good Counsel](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-of-good-counsel/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Our Lady Of The Nativity] | [Chij Our Lady Queen Of Peace] | [Chij Primary (Toa Payoh)] |
+| [Chij Our Lady Of The Nativity](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-of-nativity/) | [Chij Our Lady Queen Of Peace](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-queen-of-peace/) | [Chij Primary (Toa Payoh)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-pri-tpy/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
