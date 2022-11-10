@@ -53,7 +53,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crest13.png" style="width:15%;margin-left:65px;" align = "left">
 <img src="/images/crest14.jpg" style="width:16%;margin-left:155px;" align = "left">
-<img src="/images/crest15.png" style="width:28%;margin-right:25px;" align = "right">
+<img src="/images/crest15.png" style="width:25%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -70,6 +70,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | | | |
 |:---:|:---:|:---:|
 | [Ang Mo Kio Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-sec/) | [Anglican High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anglican-high-sch/) |
+
+<img src="/images/crest19.png" style="width:15%;margin-left:65px;" align = "left">
+<img src="/images/crest20.png" style="width:15%;margin-left:145px;" align = "left">
+<img src="/images/crest21.png" style="width:15%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
