@@ -291,11 +291,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fuhua Primary School] | [Fuhua Secondary School] | [Gan Eng Seng Primary School] |
+| [Fuhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-pri/) | [Fuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-sec/) | [Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Gan Eng Seng School] | [Geylang Methodist School (Primary)] | [Geylang Methodist School (Secondary)] |
+| [Gan Eng Seng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-sch/) | [Geylang Methodist School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-methodist-pri/) | [Geylang Methodist School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-methodist-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
