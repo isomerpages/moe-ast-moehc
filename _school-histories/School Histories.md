@@ -260,12 +260,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |  |  |  |
 |:---:|:---:|:---:|
 | [Broadrick Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-pri/) | [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-east-pri/) |
-
+hey
 <style>
 
 img {
     float: left;
-    width:  5%;
+    width: 1%;
     object-fit: cover;
     margin-left:35px;
 }
