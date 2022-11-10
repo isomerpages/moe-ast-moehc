@@ -159,15 +159,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Casuarina Primary School] | [Catholic High School] | [Catholic Junior College] |
+| [Casuarina Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/casuarina-pri/) | [Catholic High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-high-sch/) | [Catholic Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cedar Boys' Primary School] | [Cedar Girls' Primary School] | [Cedar Girls' Secondary School] |
+| [Cedar Boys' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-boys-pri/) | [Cedar Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-girls-pri/) | [Cedar Girls' Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-girls-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cedar Primary School] | [Chai Chee Secondary School] | [Changkat Changi Secondary School] |
+| [Cedar Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-pri/) | [Chai Chee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chai-chee-sec/) | [Changkat Changi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/changkat-changi-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
