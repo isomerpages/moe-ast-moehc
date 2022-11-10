@@ -655,75 +655,75 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St. Anthony's Primary School] | [St. Gabriel's Primary School] | [St. Gabriel's Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St. Hilda's Primary School] | [St. Hilda's Secondary School] | [St. Joseph's Institution] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St. Margaret's Primary School] | [St. Margaret's Secondary School] | [St. Stephen's School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St. Theresa's High School] | [Stamford Girls' School] | [Stamford Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Swiss Cottage Primary School] | [Swiss Cottage Secondary School] | [Tampines Junior College] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Tampines Meridian Junior College] | [Tampines North Primary School] | [Tampines Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Tampines Secondary School] | [Tanglin Girls' School] | [Tanglin Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Tanglin Secondary School] | [Tanjong Katong Girls' School] | [Tanjong Katong Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Tanjong Katong Secondary School] | [Tanjong Rhu Boys' School] | [Tanjong Rhu Girls' School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Tanjong Rhu Primary School] | [Tao Nan School] | [Teck Ghee Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Teck Whye Primary School] | [Teck Whye Secondary School] | [Telok Ayer Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Telok Kurau East Primary School] | [Telok Kurau Malay Girls' School] | [Telok Kurau Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Telok Kurau Secondary School] | [Telok Kurau West Primary School] | [Temasek Junior College] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Temasek Primary School] | [Temasek Secondary School] | [The Chinese High School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [The Happy School] | [Thong Kheng School] | [Tiong Bahru Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Tiong Bahru Secondary School] | [Toh Tuck Primary School] | [Toh Tuck Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Towner Primary School] | [Townsville Institute] | [Townsville Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Trafalgar School] | [Tuan Mong High School] | [Tun Seri Lanang Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
