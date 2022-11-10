@@ -151,51 +151,51 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Cambridge Primary School] | [Canberra Primary School] | [Canberra Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Canossa Catholic Primary School] | [Cantonment Primary School] | [Cantonment School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Casuarina Primary School] | [Catholic High School] | [Catholic Junior College] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| Cedar Boys' Primary School | Cedar Girls' Primary School | Cedar Girls' Secondary School |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Cedar Primary School] | [Chai Chee Secondary School] | [Changkat Changi Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Changkat Primary School] | [Chao Yang School] | [Charlton School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chestnut Drive Secondary School] | [Chij (Katong) Primary] | [Chij Katong Convent] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chij Kellock] | [Chij Opera Estate Primary School] | [Chij Our Lady Of Good Counsel] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chij Our Lady Of The Nativity] | [Chij Our Lady Queen Of Peace] | [Chij Primary (Toa Payoh)] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chij Secondary] | [Chij St Nicholas Girls' School] | [Chij St. Joseph's Convent] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chij St. Theresa's Convent] | [Chong Boon Secondary School] | [Chong De Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Chong Li Primary School] | [Chong Shan Primary School] | [Chongfu School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
