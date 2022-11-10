@@ -539,27 +539,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peicai Secondary School] | [Peirce Secondary School] | [Peixin Primary School] |
+| [Peicai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peicai-sec/) | [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peirce-sec/) | [Peixin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peixin-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peiying Primary School] | [Permaisura Primary School] | [Ping Yi Primary School] |
+| [Peiying Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peiying-pri/) | [Permaisura Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/permaisura-pri/) | [Ping Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ping-yi-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ping Yi Secondary School] | [Pioneer Junior College] | [Pioneer Primary School] |
+| [Ping Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pingyi-sec/) | [Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-jc/) | [Pioneer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pioneer Secondary School] | [Playfair School] | [Poi Ching School] |
+| [Pioneer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-sec/) | [Playfair School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/playfair-sch/) | [Poi Ching School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/poi-ching-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Presbyterian High School] | [Princess Elizabeth Primary School] | [Pulau Tekong Primary School] |
+| [Presbyterian High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pulau-tekong-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Cove Primary School] | [Punggol Green Primary School] | [Punggol Primary School] |
+| [Punggol Cove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-green-pri/) | [Punggol Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
