@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Yuhua Secondary School.md
       - Schools/Yumin Primary School.md
       - Schools/.keep
       - Schools/Admiralty Primary School.md
