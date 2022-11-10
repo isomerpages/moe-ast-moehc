@@ -265,8 +265,8 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 img {
     float: left;
-    width:  50px;
-    height: 50px;
+    width:  20%;
+    height: 20%;
     object-fit: cover;
     margin-left:35px;
 }
