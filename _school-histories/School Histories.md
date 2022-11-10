@@ -251,11 +251,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-payoh-sec/) | [East Spring Primary School] | [East Spring Secondary School] |
+| [East Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-payoh-sec/) | [East Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-pri/) | [East Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East View Primary School] | [East View Secondary School] | [Edgefield Primary School] |
+| [East View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-pri/) | [East View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-sec/) | [Edgefield Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/edgefield-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
