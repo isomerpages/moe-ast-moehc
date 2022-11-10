@@ -511,19 +511,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Orchid Park Secondary School] | [Outram Institute]| [Outram Primary School] |
+| [Orchid Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/orchid-park-sec/) | [Outram Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-institute/) | [Outram Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Outram Secondary School] | [Owen School] | [Palm View Primary School] |
+| [Outram Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-sec/) | [Owen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/owen-sch/) | [Palm View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/palm-view-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pandan Primary School] | [Park Road School] | [Park View Primary School] |
+| [Pandan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pandan-pri/) | [Park Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/park-road-sch/) | [Park View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/park-view-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Paya Lebar Methodist Girls' School (Primary)] | [Paya Lebar Methodist Girls' School (Secondary)] | [Paya Lebar School] |
+| [Paya Lebar Methodist Girls' School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist Girls' School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
