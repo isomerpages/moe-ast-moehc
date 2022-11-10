@@ -41,13 +41,31 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) | [Alexandra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-pri/) | [Aljunied Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aljunied-pri/) |
 
+<img src="/images/crest10.png" style="width:15%;margin-left:65px;" align = "left">
+<img src="/images/crest11.png" style="width:30%;margin-left:105px;" align = "left">
+<img src="/images/crest12.png" style="width:20%;margin-right:55px;" align = "right">
+
+<br clear="left">
+
 | | | |
 |:---:|:---:|:---:|
 | [Ama Keng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ama-keng-sch/) | [Anchor Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anchor-green-pri/) | [Anderson Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-jc/) |
 
+<img src="/images/crest13.png" style="width:15%;margin-left:65px;" align = "left">
+<img src="/images/crest14.jpg" style="width:16%;margin-left:155px;" align = "left">
+<img src="/images/crest15.png" style="width:30%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 | | | |
 |:---:|:---:|:---:|
 | [Anderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-pri/) | [Anderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-sec/) | [Anderson Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-serangoon-jc/) |
+
+<img src="/images/crest16.png" style="width:25%;margin-left:45px;" align = "left">
+<img src="/images/crest17.jpg" style="width:16%;margin-left:105px;" align = "left">
+<img src="/images/crest18.jpg" style="width:18%;margin-right:65px;" align = "right">
+
+<br clear="left">
 
 | | | |
 |:---:|:---:|:---:|
