@@ -83,7 +83,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crest22.png" style="width:18%;margin-left:65px;" align = "left">
 <img src="/images/crest23.jpg" style="width:18%;margin-left:125px;" align = "left">
-<img src="/images/crest24.png" style="width:30%;margin-right:15px;" align = "right">
+<img src="/images/crest24.png" style="width:28%;margin-right:15px;" align = "right">
 
 <br clear="left">
 
