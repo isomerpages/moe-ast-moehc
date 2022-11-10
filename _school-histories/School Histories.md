@@ -323,7 +323,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Cambridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cambridge-pri/) | [Canberra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-pri/) | [Canberra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-sec/) |
 
 <img src="/images/crestC5.png" style="width:18%;margin-left:65px;" align = "left">
-<img src="/images/crestC6.png" style="width:22%;margin-left:95px;" align = "left">
+<img src="/images/crestC6.png" style="width:22%;margin-left:135px;" align = "left">
 <img src="/images/crestC7.png" style="width:20%;margin-right:25px;" align = "right">
 
 <br clear="left">
