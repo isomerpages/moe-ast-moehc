@@ -703,23 +703,23 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau Secondary School] | [Telok Kurau West Primary School] | [Temasek Junior College] |
+| [Telok Kurau Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School]https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Temasek Primary School] | [Temasek Secondary School] | [The Chinese High School] |
+| [Temasek Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-pri/) | [Temasek Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-sec/) | [The Chinese High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [The Happy School] | [Thong Kheng School] | [Tiong Bahru Primary School] |
+| [The Happy School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-happy-sch/) | [Thong Kheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tiong Bahru Secondary School] | [Toh Tuck Primary School] | [Toh Tuck Secondary School] |
+| [Tiong Bahru Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Towner Primary School] | [Townsville Institute] | [Townsville Primary School] |
+| [Towner Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/towner-pri/) | [Townsville Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-institute/) | [Townsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
