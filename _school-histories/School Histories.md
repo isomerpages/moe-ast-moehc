@@ -239,19 +239,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Secondary School] | [Delta West Primary School] | [Deyi Secondary School] |
+| [Delta Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-sec/) | [Delta West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-west-pri/) | [Deyi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/deyi-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dorset Primary School] | [Duchess School] | [Dunearn Secondary School] |
+| [Dorset Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dorset-pri/) | [Duchess School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/duchess-sch/) | [Dunearn Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunearn-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dunman High School] | [Dunman Secondary School] | [East Coast Primary School] |
+| [Dunman High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunman-high/) | [Dunman Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunman-sec/) | [East Coast Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-coast-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East Payoh Secondary School] | [East Spring Primary School] | [East Spring Secondary School] |
+| [East Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-payoh-sec/) | [East Spring Primary School] | [East Spring Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
