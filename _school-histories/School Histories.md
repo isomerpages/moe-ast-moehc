@@ -563,11 +563,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Secondary School] | [Punggol View Primary School] | [Qiaonan Primary School] |
+| [Punggol Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-sec/) | [Punggol View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-view-pri/) | [Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Qifa Primary School] | [Qihua Primary School] | [Queenstown Primary School] |
+| [Qifa Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qifa-pri/) | [Qihua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qihua-pri/) | [Queenstown Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
