@@ -259,27 +259,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Edgefield Secondary School] | [Elias Park Primary School] | [Elling North School] |
+| [Edgefield Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/edgefield-sec/) | [Elias Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elias-park-pri/) | [Elling North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-north-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Elling Primary School] | [Elling South School] | [Endeavour Primary School] |
+| [Elling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-pri/) | [Elling South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-south-sch/) | [Endeavour Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/endeavour-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Eunoia Junior College] | [Eunos Primary School] | [Evergreen Primary School] |
+| [Eunoia Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/eunoia-jc/) | [Eunos Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/eunos-pri/) | [Evergreen Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/evergreen-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Evergreen Secondary School] | [Fairfield Methodist School (Primary)] | [Fairfield Methodist School (Secondary)] |
+| [Evergreen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/evergren-sec/) | [Fairfield Methodist School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fairfield-methodist-pri/) | [Fairfield Methodist School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fairfield-methodist-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fajar Secondary School] | [Farrer Park Primary School] | [Farrer Primary School] |
+| [Fajar Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fajar-sec/) | [Farrer Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-park-pri/) | [Farrer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fengshan Primary School] | [Fern Green Primary School] | [Fernvale Primary School] |
+| [Fengshan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fengshan-pri/) | [Fern Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fern-green-pri/) | [Fernvale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fernvale-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
