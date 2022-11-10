@@ -83,39 +83,39 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Beacon Primary School] | [Beatty Primary School] | [Beatty Secondary School] |
+| [Beacon Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beacon-pri/) | [Beatty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beatty-pri/) | [Beatty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beatty-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Boys' School] | [Bedok Girls' School] | [Bedok Green Primary School] |
+| [Bedok Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-boys-sch/) | [Bedok Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-girls-sch/) | [Bedok Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-green-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Green Secondary School] | [Bedok North Primary School] | [Bedok North Secondary School] |
+| [Bedok Green Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-green-sec/) | [Bedok North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-pri/) | [Bedok North Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Primary School] | [Bedok South Primary School] | [Bedok South Secondary School] |
+| [Bedok Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-pri/) | [Bedok South Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-south-pri/) | [Bedok South Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-south-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Town Primary School] | [Bedok Town Secondary School] | [Bedok View Primary School] |
+| [Bedok Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/) | [Bedok View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok View Secondary School] | [Bedok West Primary School] | [Belvedere Primary School] |
+| [Bedok View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-sec/) | [Bedok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-west-pri/) | [Belvedere Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Belvedere School (Bukit Merah)] | [Bendemeer Primary School] | [Bendemeer Secondary School] |
+| [Belvedere School (Bukit Merah)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Beng Wan Primary School] | [Birkhall Road School] | [Bishan Park Secondary School] |
+| [Beng Wan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beng-wan-pri/) | [Birkhall Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bishan-park-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Blangah Rise Primary School] | [Boo Teck School (Farrer Park)] | [Boon Keng Primary School] |
+| [Blangah Rise Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/blangah-rise-pri/) | [Boo Teck School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/) | [Boon Keng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-keng-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
