@@ -12,7 +12,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 ### **School Histories Online Repository**
 
 <img src="/images/crest1.png" style="width:20%;margin-left:45px;" align = "left">
-<img src="/images/crest2.jpg" style="width:12%;margin-left:125px;" align = "left">
+<img src="/images/crest2.jpg" style="width:12%;margin-left:135px;" align = "left">
 <img src="/images/crest3.jpg" style="width:25%;margin-right:45px;" align = "right">
 
 <br clear="left">
@@ -22,7 +22,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Admiralty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admps/) | [Admiralty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-pri/) |
 
 <img src="/images/crest4.jpg" style="width:15%;margin-left:65px;" align = "left">
-<img src="/images/crest5.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crest5.png" style="width:20%;margin-left:135px;" align = "left">
 <img src="/images/crest6.png" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
@@ -32,7 +32,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Ahmad Ibrahim Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-sec/) | [Ai Tong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ai-tong-sch/) | [Alexandra Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-estate-pri-sch/) |
 
 <img src="/images/crest7.png" style="width:15%;margin-left:65px;" align = "left">
-<img src="/images/crest8.png" style="width:16%;margin-left:125px;" align = "left">
+<img src="/images/crest8.png" style="width:16%;margin-left:135px;" align = "left">
 <img src="/images/crest9.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
