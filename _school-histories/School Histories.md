@@ -283,7 +283,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crest82.jpg" style="width:25%;margin-left:45px;" align = "left">
 <img src="/images/crest83.jpg" style="width:20%;margin-left:85px;" align = "left">
-<img src="/images/crest84.jpg" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crest84.jpg" style="width:22%;margin-right:25px;" align = "right">
 
 <br clear="left">
 
@@ -291,6 +291,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/) | [Bukit Merah South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-govt-high-sch/) |
 
+<img src="/images/crest85.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crest86.png" style="width:18%;margin-left:115px;" align = "left">
+<img src="/images/crest87.png" style="width:22%;margin-right:25px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -299,6 +304,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/buona-vista-sec/) | [Cairnhill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cairnhill-pri/) |
+
+<img src="/images/crest88.jpg" style="width:23%;margin-left:45px;" align = "left">
+<img src="/images/crest89.png" style="width:25%;margin-left:85px;" align = "left">
+<img src="/images/crestC1.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
