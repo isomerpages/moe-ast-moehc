@@ -547,7 +547,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Ping Yi Secondary School] | [Pioneer Junior College] | [Pioneer Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
