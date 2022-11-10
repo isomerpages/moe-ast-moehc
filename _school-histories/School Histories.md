@@ -571,19 +571,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Queenstown Secondary School] | [Queensway Secondary School] | [Radin Mas Primary School] |
+| [Queenstown Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-sec/) | [Queensway Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queensway-sec/) | [Radin Mas Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/radin-mas-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Girls' Primary School] | [Raffles Girls' School] | [Raffles Institution] |
+| [Raffles Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-pri/) | [Raffles Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-sch/) | [Raffles Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-institution/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Junior College] | [Rangoon Road Primary School (Farrer Park)] | [Rangoon Secondary School] |
+| [Raffles Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rayman School] | [Red Swastika School] | [Redhill School] |
+| [Rayman School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rayman-sch/) | [Red Swastika School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/red-swastika-sch/) | [Redhill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/redhill-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
