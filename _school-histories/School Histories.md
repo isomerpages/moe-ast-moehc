@@ -455,19 +455,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Meng Teck School] | [Meridian Junior College] | [Meridian Primary School] |
+| [Meng Teck School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meng-teck-sch/) | [Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-jc/) | [Meridian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Meridian Secondary School] | [Merlimau Primary School] | [Methodist Girls' School] |
+| [Meridian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-sec/) | [Merlimau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/merlimau-pri/) | [Methodist Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/methodist-girls-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Moulmein Primary School] | [Mount Vernon Secondary School] | [Mountbatten Primary School] |
+| [Moulmein Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/moulmein-pri/) | [Mount Vernon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mount-vernon-sec/) | [Mountbatten Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mountbatten-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nam San School] | [Nan Chiau High School] | [Nan Chiau Primary School] |
+| [Nam San School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nam-san-sch/) | [Nan Chiau High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiau-high-sch/) | [Nan Chiau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiau-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
