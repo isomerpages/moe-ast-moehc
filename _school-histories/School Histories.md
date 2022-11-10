@@ -55,11 +55,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anglo Chinese School (Barker Road)] | [Anglo Chinese Junior College] | [Anglo Chinese School (Independent)] |
+| [Anglo Chinese School (Barker Road)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acjc/) | [Anglo Chinese School (Independent)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-i/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anglo Chinese School (Junior)] | [Anglo Chinese School (Primary)] | [Angsana Primary School] |
+| [Anglo Chinese School (Junior)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-pri/) | [Angsana Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/angsana-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
