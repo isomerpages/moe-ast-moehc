@@ -747,39 +747,39 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Westlake Primary School] | [Westwood Primary School] | [Westwood Secondary School] |
+| [Westlake Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/) | [Westwood Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westwood-pri/) | [Westwood Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westwood-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Whampoa Secondary School] | [White Sands Primary School] | [Whitley Secondary School] |
+| [Whampoa Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/whampoa-sec/) | [White Sands Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/white-sands-pri/) | [Whitley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/whitley-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Willow Avenue Secondary School] | [Woodgrove Primary School] | [Woodgrove Secondary School] |
+| [Willow Avenue Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodgrove-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Woodlands Primary School] | [Woodlands Ring Primary School] | [Woodlands Ring Secondary School] |
+| [Woodlands Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-ring-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Woodlands Secondary School] | [Woodsville Primary School] | [Woodsville Secondary School] |
+| [Woodlands Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-sec/) | [Woodsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodsville-pri/) | [Woodsville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodsville-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Xianglin Primary School] | [Xinghua Primary School] | [Xingnan Primary School] |
+| [Xianglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xianglin-pri/) | [Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/) | [Xingnan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xingnan-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Xinmin Primary School] | [Xinmin Secondary School] | [Xishan Primary School] |
+| [Xinmin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinmin-pri/) | [Xinmin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinmin-sec/) | [Xishan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xi-shan-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yangzheng Primary School] | [Yew Tee Primary School] | [Yio Chu Kang Primary School] |
+| [Yangzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yang-zheng-pri/) | [Yew Tee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yew-tee-pri/) | [Yio Chu Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yio Chu Kang Secondary School] | [Yishun Innova Junior College] | [Yishun Junior College] |
+| [Yio Chu Kang Secondary School][https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College] |
 
 |  |  |  |
 |:---:|:---:|:---:|
