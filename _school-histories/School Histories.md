@@ -779,7 +779,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yio Chu Kang Secondary School][https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) |
+| [Yio Chu Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -787,11 +787,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yu Neng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuan-ching-sec/) | [Yuhua Primary School] |
+| [Yu Neng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuan-ching-sec/) | [Yuhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuhua Secondary School] | [Yumin Primary School] | [Yung An Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) |
+| [Yuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-sec/) | [Yumin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yumin-pri/) | [Yung An Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
