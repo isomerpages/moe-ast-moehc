@@ -55,51 +55,51 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Anglo Chinese School (Barker Road)] | [Anglo Chinese Junior College] | [Anglo Chinese School (Independent)] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Anglo Chinese School (Junior)] | [Anglo Chinese School (Primary)] | [Angsana Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Anthony Road Girls' School] | [Aroozoo School] | [Assumption English School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Assumption Pathway School] | [Balestier Boys' School]| [Balestier Hill East Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Balestier Hill Primary School] | [Balestier Hill Primary School (1986-1988)] | [Balestier Hill Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Balestier Hill West Primary School] | [Balestier Mixed School] | [Balestier Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bartley Primary School] | [Bartley Secondary School] | [Batu Berlayar School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Beacon Primary School] | [Beatty Primary School] | [Beatty Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bedok Boys' School] | [Bedok Girls' School] | [Bedok Green Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bedok Green Secondary School] | [Bedok North Primary School] | [Bedok North Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bedok Primary School] | [Bedok South Primary School] | [Bedok South Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bedok Town Primary School] | [Bedok Town Secondary School] | [Bedok View Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
