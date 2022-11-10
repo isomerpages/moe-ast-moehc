@@ -779,28 +779,28 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yio Chu Kang Secondary School][https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College] |
+| [Yio Chu Kang Secondary School][https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yishun Primary School] | [Yishun Secondary School] | [Yishun Town Secondary School] |
+| [Yishun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-pri/) | [Yishun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-sec/) | [Yishun Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-town-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yu Neng Primary School] | [Yuan Ching Secondary School] | [Yuhua Primary School] |
+| [Yu Neng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuan-ching-sec/) | [Yuhua Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuhua Secondary School] | [Yumin Primary School] | [Yung An Primary School] |
+| [Yuhua Secondary School] | [Yumin Primary School] | [Yung An Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuqun Primary School] | [Yusok Ishak Secondary School] | [Yuying Secondary School] |
+| [Yuqun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuqun-pri/) | [Yusok Ishak Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuying-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Zhangde Primary School] | [Zhenghua Primary School] | [Zhenghua Secondary School] |
+| [Zhangde Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhangde-pri/) | [Zhenghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhenghua-pri/) | [Zhenghua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhenghua-sec/) |
 
 |  |  |
 |:---:|:---:|
-| [Zhonghua Primary School] | [Zhonghua Secondary School] |
+| [Zhonghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhonghua-pri/) | [Zhonghua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhonghua-sec/) |
