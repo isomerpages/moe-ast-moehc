@@ -71,9 +71,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Ang Mo Kio Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-sec/) | [Anglican High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anglican-high-sch/) |
 
-<img src="/images/crest19.png" style="width:15%;margin-left:75px;" align = "left">
-<img src="/images/crest20.png" style="width:15%;margin-left:145px;" align = "left">
-<img src="/images/crest21.png" style="width:15%;margin-right:65px;" align = "right">
+<img src="/images/crest19.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crest20.png" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crest21.png" style="width:18%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -81,8 +81,8 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Anglo Chinese School (Barker Road)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acjc/) | [Anglo Chinese School (Independent)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-i/) |
 
-<img src="/images/crest22.png" style="width:15%;margin-left:75px;" align = "left">
-<img src="/images/crest23.jpg" style="width:15%;margin-left:145px;" align = "left">
+<img src="/images/crest22.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crest23.jpg" style="width:18%;margin-left:125px;" align = "left">
 <img src="/images/crest24.png" style="width:30%;margin-right:15px;" align = "right">
 
 <br clear="left">
