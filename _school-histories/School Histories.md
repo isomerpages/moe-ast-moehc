@@ -271,9 +271,9 @@ img {
 
 </style>
 
-<img src="/images/crest76.jpg" style="width:30%">
-<img src="/images/crest77.png" style="width:30%">
-<img src="/images/crest78.png" style="width:30%">
+<img src="/images/crest76.jpg" style="width:20%">
+<img src="/images/crest77.png" style="width:20%">
+<img src="/images/crest78.png" style="width:20%">
 
 
 <br clear="left">
