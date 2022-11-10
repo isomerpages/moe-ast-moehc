@@ -535,15 +535,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Pei Hwa Secondary School] | [Pei Tek Public School] | [Pei Tong Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Peicai Secondary School] | [Peirce Secondary School] | [Peixin Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Peiying Primary School] | [Permaisura Primary School] | [Ping Yi Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
