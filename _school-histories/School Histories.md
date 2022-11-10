@@ -111,9 +111,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Assumption Pathway School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-east-pri/) |
 
+<img src="/images/crest31.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crest32.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crest33.png" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Balestier Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-sec/) |
+
+<img src="/images/crest34.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crest35.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crest36.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
