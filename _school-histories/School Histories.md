@@ -91,6 +91,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Anglo Chinese School (Junior)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-pri/) | [Angsana Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/angsana-pri/) |
 
+<img src="/images/crest25.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crest26.png" style="width:15%;margin-left:135px;" align = "left">
+<img src="/images/crest27.jpg" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Anthony Road Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anthony-road-girls-sch/) | [Aroozoo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aroozoo-sch/) | [Assumption English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-eng-sch/) |
