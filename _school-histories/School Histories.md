@@ -199,15 +199,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chongzheng Primary School] | [Christ Church Secondary School] | [Chua Chu Kang Government Chinese Primary School] |
+| [Chongzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongzheng-pri/) | [Christ Church Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/christ-church-sec/) | [Chua Chu Kang Government Chinese Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-government-chi-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chua Chu Kang Malay School] | [Chua Chu Kang Primary School] | [Chua Chu Kang Secondary School] |
+| [Chua Chu Kang Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-malay-sch/) | [Chua Chu Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-pri/) | [Chua Chu Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chung Cheng High School (Main)] | [Chung Cheng High School (Yishun)] | [Clemeti North Primary School] |
+| [Chung Cheng High School (Main)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-north-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
