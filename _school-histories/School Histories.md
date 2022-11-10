@@ -675,31 +675,31 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Meridian Junior College] | [Tampines North Primary School] | [Tampines Primary School] |
+| [Tampines Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-north-pri/) | [Tampines Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Secondary School] | [Tanglin Girls' School] | [Tanglin Primary School] |
+| [Tampines Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-sec/) | [Tanglin Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanglin Secondary School] | [Tanjong Katong Girls' School] | [Tanjong Katong Primary School] |
+| [Tanglin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Katong Secondary School] | [Tanjong Rhu Boys' School] | [Tanjong Rhu Girls' School] |
+| [Tanjong Katong Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-girls-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Rhu Primary School] | [Tao Nan School] | [Teck Ghee Primary School] |
+| [Tanjong Rhu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-pri/) | [Tao Nan School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-ghee-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Teck Whye Primary School] | [Teck Whye Secondary School] | [Telok Ayer Primary School] |
+| [Teck Whye Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-ayer-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau East Primary School] | [Telok Kurau Malay Girls' School] | [Telok Kurau Primary School] |
+| [Telok Kurau East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
