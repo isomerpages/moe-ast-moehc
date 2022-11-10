@@ -272,7 +272,7 @@ img {
 
 </style>
 
-<img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crest76.jpg" style="width:20%;margin-left:75px;" align = "left">
 <img src="/images/crest77.png" style="width:20%;margin-left:75px;" align = "left">
 <img src="/images/crest78.png" style="width:20%;margin-right:75px;" align = "right">
 
