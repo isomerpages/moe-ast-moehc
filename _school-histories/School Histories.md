@@ -251,6 +251,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Bowen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bowen-sec/) | [Braddell Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddel-westlake-sec/) |
 
+<img src="/images/crest73.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crest74.jpg" style="width:25%;margin-left:75px;" align = "left">
+<img src="/images/crest75.png" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Broadrick Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-pri/) | [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-east-pri/) |
