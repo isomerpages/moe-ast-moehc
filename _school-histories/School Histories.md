@@ -419,11 +419,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School] | [Lakeside Primary School] |
+| [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/labrador-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Lee Kuo Chuan Primary School] | [Lianhua Primary School] | [Loyang Primary School] |
+| [Lee Kuo Chuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/) | [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
