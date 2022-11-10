@@ -278,8 +278,6 @@ img {
 
 <br clear="left">
 
-hello
-
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit Batok Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) |
