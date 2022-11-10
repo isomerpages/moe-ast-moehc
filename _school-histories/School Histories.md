@@ -261,10 +261,20 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Broadrick Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-pri/) | [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-east-pri/) |
 
-<img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align = "left">
-<img src="/images/crest77.png" style="width:20%;margin-left:115px;" align = "left">
-<img src="/images/crest78.png" style="width:20%;margin-right:25px;" align = "right">
+<style>
 
+img {
+    float: left;
+    width:  50px;
+    height: 50px;
+    object-fit: cover;
+    margin-left:35px;
+}
+
+</style>
+<img src="/images/crest76.jpg"  align="left">
+<img src="/images/crest77.png"  align="left">
+<img src="/images/crest78.png"  align="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -277,6 +287,10 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/) | [Bukit Merah South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-govt-high-sch/) |
+
+<img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crest77.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crest78.png" style="width:20%;margin-right:25px;" align = "right">
 
 |  |  |  |
 |:---:|:---:|:---:|
