@@ -103,27 +103,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bedok View Secondary School] | [Bedok West Primary School] | [Belvedere Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Belvedere School (Bukit Merah)] | [Bendemeer Primary School] | [Bendemeer Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Beng Wan Primary School] | [Birkhall Road School] | [Bishan Park Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Blangah Rise Primary School] | [Boo Teck School (Farrer Park)] | [Boon Keng Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Boon Lay Garden Primary School] | [Boon Lay Primary School] | [Boon Lay Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bowen Secondary School] | [Braddell Primary School] | [Braddell Westlake Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
