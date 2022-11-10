@@ -278,6 +278,9 @@ img {
 
 <br clear="left">
 
+![](/images/crest76.jpg)
+![](/images/crest77.png)
+![](/images/crest78.png)
 
 |  |  |  |
 |:---:|:---:|:---:|
