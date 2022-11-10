@@ -32,7 +32,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Ahmad Ibrahim Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-sec/) | [Ai Tong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ai-tong-sch/) | [Alexandra Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-estate-pri-sch/) |
 
 <img src="/images/crest7.png" style="width:15%;margin-left:65px;" align = "left">
-<img src="/images/crest8.png" style="width:16%;margin-left:135px;" align = "left">
+<img src="/images/crest8.png" style="width:16%;margin-left:155px;" align = "left">
 <img src="/images/crest9.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
