@@ -639,19 +639,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Spectra Secondary School] | [Springdale Primary School] | [Springfield Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St Andrew's Junior College] | [St Andrew's Junior School] | [St Andrew's Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St Anthony's Canossian Primary School] | [St Anthony's Canossian Secondary School] | [St George's Road Tamil School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [St Joseph's Institution Junior] | [St Patrick's School] | [St Thomas Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
