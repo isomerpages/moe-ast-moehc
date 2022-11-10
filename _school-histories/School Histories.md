@@ -563,23 +563,23 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Punggol Secondary School] | [Punggol View Primary School] | [Qiaonan Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Qifa Primary School] | [Qihua Primary School] | [Queenstown Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Queenstown Secondary School] | [Queensway Secondary School] | [Radin Mas Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Raffles Girls' Primary School] | [Raffles Girls' School] | [Raffles Institution] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Raffles Junior College] | [Rangoon Road Primary School (Farrer Park)] | [Rangoon Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
