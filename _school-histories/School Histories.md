@@ -101,6 +101,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Anthony Road Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anthony-road-girls-sch/) | [Aroozoo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aroozoo-sch/) | [Assumption English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-eng-sch/) |
 
+<img src="/images/crest28.png" style="width:30%;margin-left:65px;" align = "left">
+<img src="/images/crest29.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crest30.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Assumption Pathway School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-east-pri/) |
