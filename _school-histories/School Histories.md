@@ -201,6 +201,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Bedok View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-sec/) | [Bedok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-west-pri/) | [Belvedere Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-pri/) |
 
+<img src="/images/crest58.png" style="width:22%;margin-left:35px;" align = "left">
+<img src="/images/crest59.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crest60.png" style="width:15%;margin-right:45px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Belvedere School (Bukit Merah)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-sec/) |
