@@ -15,6 +15,8 @@ We recognise that every Singapore School has a story to tell, contributing to th
 <img src="/images/crest2.jpg" style="width:12%;margin-left:95px;" align = "left">
 <img src="/images/crest3.jpg" style="width:25%;margin-right:45px;" align = "right">
 
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Admiralty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admps/) | [Admiralty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-pri/) |
@@ -22,6 +24,8 @@ We recognise that every Singapore School has a story to tell, contributing to th
 <img src="/images/crest4.jpg" style="width:15%;margin-left:65px;" align = "left">
 <img src="/images/crest5.png" style="width:20%;margin-left:95px;" align = "left">
 <img src="/images/crest6.png" style="width:20%;margin-left:65px;" align = "left">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
