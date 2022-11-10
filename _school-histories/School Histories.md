@@ -139,15 +139,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Merah Secondary School] | [Bukit Merah South School] | [Bukit Panjang Government High School] |
+| [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/) | [Bukit Merah South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-govt-high-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Panjang Primary School] | [Bukit Timah Primary School] | [Bukit View Primary School] |
+| [Bukit Panjang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-pri/) | [Bukit Timah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-timah-pri/) | [Bukit View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit View Secondary School] | [Buona Vista Secondary School] | [Cairnhill Primary School] |
+| [Bukit View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/buona-vista-sec/) | [Cairnhill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cairnhill-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
