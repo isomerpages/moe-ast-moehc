@@ -583,15 +583,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Rayman School] | [Red Swastika School] | [Redhill School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Regent Secondary School] | [River Valley English School] | [River Valley Government Chinese School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [River Valley High School] | [River Valley Primary School] | [Riverside Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
