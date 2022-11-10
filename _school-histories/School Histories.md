@@ -527,15 +527,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pearl Bank School] | [Pearl Park Primary School] | [Pearl's Hill School] |
+| [Pearl Bank School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearl-bank-sch/) | [Pearl Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearl-park-pri-sch/) | [Pearl's Hill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearls-hill-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Park Seah Primary School] | [Pei Chun Public School] | [Pei Hwa Presbyterian Primary School] |
+| [Peck Seah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peck-seah-pri/) | [Pei Chun Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-chun-public-sch/) | [Pei Hwa Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-hwa-presbyterian-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pei Hwa Secondary School] | [Pei Tek Public School] | [Pei Tong Primary School] |
+| [Pei Hwa Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-hwa-sec/) | [Pei Tek Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-tek-public-sch/) | [Pei Tong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-tong-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
