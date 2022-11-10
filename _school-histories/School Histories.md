@@ -551,11 +551,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Pioneer Secondary School] | [Playfair School] | [Poi Ching School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Presbyterian High School] | [Princess Elizabeth Primary School] | [Pulau Tekong Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
