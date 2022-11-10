@@ -127,27 +127,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Broadrick Primary School] | [Broadrick Secondary School] | [Bukit Batok East Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bukit Batok Secondary School] | [Bukit Batok West Primary School] | [Bukit Ho Swee Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bukit Ho Swee Secondary School] | [Bukit Merah North School] | [Bukit Merah Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bukit Merah Secondary School] | [Bukit Merah South School] | [Bukit Panjang Government High School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bukit Panjang Primary School] | [Bukit Timah Primary School] | [Bukit View Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Bukit View Secondary School] | [Buona Vista Secondary School] | [Cairnhill Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
