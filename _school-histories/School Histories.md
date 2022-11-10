@@ -403,15 +403,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Keat Primary School] | [Kim Seng East School] | [Kim Seng Primary School] |
+| [Kim Keat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-keat-pri/) | [Kim Seng East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Seng Technical School] | [Kim Seng West School] | [Kong Chow School] |
+| [Kim Seng Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-west-sch/) | [Kong Chow School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-chow-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kong Hwa School] | [Kota Raja Malay School] | [Kranji Primary School] |
+| [Kong Hwa School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
