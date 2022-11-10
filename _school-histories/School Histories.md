@@ -163,7 +163,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Cedar Boys' Primary School | Cedar Girls' Primary School | Cedar Girls' Secondary School |
+| [Cedar Boys' Primary School] | [Cedar Girls' Primary School] | [Cedar Girls' Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -211,15 +211,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Clementi Primary School] | [Clementi Town Primary School] | [Clementi Town Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Clementi Woods Secondary School] | [Commonwealth Secondary School] | [Compassvale Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Compassvale Secondary School] | [Concord Primary School] | [Coral Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
