@@ -802,5 +802,5 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Zhangde Primary School] | [Zhenghua Primary School] | [Zhenghua Secondary School] |
 
 |  |  |
-|:---|:---|
+|:---:|:---:|
 | [Zhonghua Primary School] | [Zhonghua Secondary School] |
