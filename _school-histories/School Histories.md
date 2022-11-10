@@ -359,11 +359,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jervois Primary School] | [Jervois West Primary School] | [Jiemin Primary School] |
+| [Jervois Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-pri/) | [Jervois West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-west-pri/) | [Jiemin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jiemin-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jin Shan Primary School] | [Jin Tai Primary School] | [Jin Tai Secondary School] |
+| [Jin Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-shan-pri/) | [Jin Tai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-pri/) | [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
