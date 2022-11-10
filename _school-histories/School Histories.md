@@ -631,19 +631,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Siglap Primary School] | [Siglap Secondary School] | [Silat Primary School] |
+| [Siglap Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-pri/) | [Siglap Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-sec/) | [Silat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/silat-pri-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Singapore Chinese Girls' School] | [Singapore Sports School] | [South View Primary School] |
+| [Singapore Chinese Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/singapore-chinese-girls-sch/) | [Singapore Sports School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/singapore-sports-school/) | [South View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/south-view-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Spectra Secondary School] | [Springdale Primary School] | [Springfield Secondary School] |
+| [Spectra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/spectra-sec/) | [Springdale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/springdale-pri/) | [Springfield Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/springfield-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Andrew's Junior College] | [St Andrew's Junior School] | [St Andrew's Secondary School] |
+| [St Andrew's Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-jc/) | [St Andrew's Junior School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
