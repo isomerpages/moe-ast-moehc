@@ -351,19 +351,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Innova Primary School] | [Jagoh Primary School] | [Jalan Daud School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Jalan Kayu Primary School] | [Jaya Primary School] | [Jervois East Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Jervois Primary School] | [Jervois West Primary School] | [Jiemin Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Jin Shan Primary School] | [Jin Tai Primary School] | [Jin Tai Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
