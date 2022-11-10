@@ -271,9 +271,9 @@ img {
 }
 
 </style>
-<img src="/images/crest76.jpg"  align="left">
-<img src="/images/crest77.png"  align="left">
-<img src="/images/crest78.png"  align="left">
+<img src="/images/crest76.jpg" align="left">
+<img src="/images/crest77.png" align="left">
+<img src="/images/crest78.png" align="left">
 
 <br clear="left">
 
@@ -283,6 +283,10 @@ hello
 |:---:|:---:|:---:|
 | [Bukit Batok Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) |
 
+<img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crest77.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crest78.png" style="width:20%;margin-right:25px;" align = "right">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit Ho Swee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-pri/) |
@@ -291,11 +295,6 @@ hello
 |:---:|:---:|:---:|
 | [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/) | [Bukit Merah South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-govt-high-sch/) |
 
-<img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align = "left">
-<img src="/images/crest77.png" style="width:20%;margin-left:115px;" align = "left">
-<img src="/images/crest78.png" style="width:20%;margin-right:25px;" align = "right">
-
-<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
