@@ -63,23 +63,23 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anthony Road Girls' School] | [Aroozoo School] | [Assumption English School] |
+| [Anthony Road Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anthony-road-girls-sch/) | [Aroozoo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aroozoo-sch/) | [Assumption English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-eng-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Assumption Pathway School] | [Balestier Boys' School]| [Balestier Hill East Primary School] |
+| [Assumption Pathway School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-east-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill Primary School] | [Balestier Hill Primary School (1986-1988)] | [Balestier Hill Secondary School] |
+| [Balestier Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill West Primary School] | [Balestier Mixed School] | [Balestier Primary School] |
+| [Balestier Hill West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-west-pri/) | [Balestier Mixed School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-mixed-sch/) | [Balestier Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bartley Primary School] | [Bartley Secondary School] | [Batu Berlayar School] |
+| [Bartley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-pri/) | [Bartley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-sec/) | [Batu Berlayar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/batu-berlayar-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
