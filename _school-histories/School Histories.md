@@ -261,22 +261,20 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Broadrick Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-pri/) | [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-east-pri/) |
 
-
-hey
 <style>
 
 img {
     float: left;
-    width: 1%;
     object-fit: cover;
     margin-left:35px;
 }
 
 </style>
 
-![](/images/crest76.jpg)
-![](/images/crest77.png)
-![](/images/crest78.png)
+<img src="/images/crest76.jpg" style="width:30%">
+<img src="/images/crest77.png" style="width:30%">
+<img src="/images/crest78.png" style="width:30%">
+
 
 <br clear="left">
 
