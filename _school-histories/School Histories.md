@@ -647,15 +647,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Anthony's Canossian Primary School] | [St Anthony's Canossian Secondary School] | [St George's Road Tamil School] |
+| [St Anthony's Canossian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-george-road-tamil-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Joseph's Institution Junior] | [St Patrick's School] | [St Thomas Secondary School] |
+| [St Joseph's Institution Junior](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution-junior/) | [St Patrick's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-patrick-sch/) | [St Thomas Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-thomas-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Anthony's Primary School] | [St. Gabriel's Primary School] | [St. Gabriel's Secondary School] |
+| [St. Anthony's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
