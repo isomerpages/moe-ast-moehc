@@ -331,11 +331,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Holy Innocents' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/) | [Hong Kah Secondary School] |
+| [Holy Innocents' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/) | [Hong Kah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hong Wen School] | [Horizon Primary School] | [Hougang Primary School] |
+| [Hong Wen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-wen-sch/) | [Horizon Primary School] | [Hougang Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
@@ -375,11 +375,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong Junior College] | [Jurong Pioneer Junior College] | [Jurong Primary School] |
+| [Jurong Junior College] | [Jurong Pioneer Junior College] | [Jurong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong Secondary School] | [Jurong Special Secondary School] | [Jurong Town Primary School] |
+| [Jurong Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-sec/) | [Jurong Special Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-special-sec/) | [Jurong Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-town-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
