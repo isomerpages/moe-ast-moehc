@@ -427,31 +427,31 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Loyang View Secondary School] | [Macpherson Primary School] | [Macpherson Secondary School] |
+| [Loyang View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-view-sec/) | [Macpherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/) | [Macpherson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [MacRitchie Primary School] | [Maha Bodhi School] | [Maju Secondary School] |
+| [MacRitchie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macritchie-pri/) | [Maha Bodhi School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maha-bodhi-sch/) | [Maju Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maju-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Manjusri Secondary School] | [Margaret Drive Primary School] | [Maris Stella High School] |
+| [Manjusri Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/manjusri-sec/) | [Margaret Drive Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/margaret-drive-pri/) | [Maris Stella High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maris-stella-high-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Marsiling Primary School] | [Marsiling Secondary School] | [Marymount Convent School] |
+| [Marsiling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-pri/) | [Marsiling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-sec/) | [Marymount Convent School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marymount-convent/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mattar East School] | [Mattar Primary School] | [May Primary School] |
+| [Mattar East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mattar-east-sch/) | [Mattar Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mattar-pri/) | [May Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mayflower Primary School] | [Mayflower Secondary School] | [Mee Toh School] |
+| [Mayflower Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mayflower-pri/) | [Mayflower Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mayflower-sec/) | [Mee Toh School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mee-toh-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mei Chin Primary School] | [Mei Chin Secondary School] | [Membina Primary School] |
+| [Mei Chin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mei-chin-pri/) | [Mei Chin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mei-chin-sec/) | [Membina Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/membina-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
