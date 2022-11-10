@@ -221,9 +221,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Beng Wan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beng-wan-pri/) | [Birkhall Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bishan-park-sec/) |
 
+<img src="/images/crest64.png" style="width:15%;margin-left:65px;" align = "left">
+<img src="/images/crest65.png" style="width:25%;margin-left:115px;" align = "left">
+<img src="/images/crest66.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Blangah Rise Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/blangah-rise-pri/) | [Boo Teck School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/) | [Boon Keng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-keng-pri/) |
+
+<img src="/images/crest67.png" style="width:30%;margin-left:45px;" align = "left">
+<img src="/images/crest68.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crest69.jpg" style="width:25%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
