@@ -181,9 +181,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Bedok Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-pri/) | [Bedok South Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-south-pri/) | [Bedok South Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-south-sec/) |
 
+<img src="/images/crest52.png" style="width:20%;margin-left:45px;" align = "left">
+<img src="/images/crest53.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crest54.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bedok Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/) | [Bedok View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-pri/) |
+
+<img src="/images/crest55.jpg" style="width:20%;margin-left:45px;" align = "left">
+<img src="/images/crest56.png" style="width:22%;margin-left:115px;" align = "left">
+<img src="/images/crest57.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
