@@ -265,28 +265,28 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 img {
     float: left;
-    width:  5%;
+    width:  20%;
     object-fit: cover;
     margin-left:35px;
 }
 
 </style>
 
-<img src="/images/crest76.jpg" style="width:20%;margin-left:75px;" align = "left">
-<img src="/images/crest77.png" style="width:20%;margin-left:75px;" align = "left">
-<img src="/images/crest78.png" style="width:20%;margin-right:75px;" align = "right">
-
-<br clear="left">
-
-hey
-
 ![](/images/crest76.jpg)
 ![](/images/crest77.png)
 ![](/images/crest78.png)
 
+<br clear="left">
+
+hello
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit Batok Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) |
+
+<img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crest77.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crest78.png" style="width:20%;margin-right:25px;" align = "right">
 
 |  |  |  |
 |:---:|:---:|:---:|
