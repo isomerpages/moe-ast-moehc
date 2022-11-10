@@ -659,19 +659,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Hilda's Primary School] | [St. Hilda's Secondary School] | [St. Joseph's Institution] |
+| [St. Hilda's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-sec/) | [St. Joseph's Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Margaret's Primary School] | [St. Margaret's Secondary School] | [St. Stephen's School] |
+| [St. Margaret's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-sec/) | [St. Stephen's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-stephen-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Theresa's High School] | [Stamford Girls' School] | [Stamford Primary School] |
+| [St. Theresa's High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-girls-sch/) | [Stamford Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Swiss Cottage Primary School] | [Swiss Cottage Secondary School] | [Tampines Junior College] |
+| [Swiss Cottage Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-sec/) | [Tampines Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
