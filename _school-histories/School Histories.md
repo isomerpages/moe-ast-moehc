@@ -283,11 +283,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [First Toa Payoh Primary School] | [First Toa Payoh Secondary School] | [Fowlie Primary School] |
+| [First Toa Payoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/) | [First Toa Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/) | [Fowlie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Frontier Primary School] | [Fuchun Primary School] | [Fuchun Secondary School] |
+| [Frontier Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/frontier-pri/) | [Fuchun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuchun-pri/) | [Fuchun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuchun-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
