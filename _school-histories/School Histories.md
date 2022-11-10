@@ -223,27 +223,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Coral Secondary School] | [Corporation Primary School] | [Crescent Girls' School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Crest Secondary School] | [Da Qiao Primary School] | [Damai Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Damai Secondary School] | [Dazhong Primary School] | [De La Salle School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Delta Circus Primary School] | [Delta East Primary School] | [Delta Primary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Delta Secondary School] | [Delta West Primary School] | [Deyi Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [Dorset Primary School] | [Duchess School] | [Dunearn Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
