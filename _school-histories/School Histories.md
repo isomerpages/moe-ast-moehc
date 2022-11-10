@@ -587,47 +587,47 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Regent Secondary School] | [River Valley English School] | [River Valley Government Chinese School] |
+| [Regent Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/regent-sec/) | [River Valley English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-government-chi-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [River Valley High School] | [River Valley Primary School] | [Riverside Primary School] |
+| [River Valley High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-high-sch/) | [River Valley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-pri/) | [Riverside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Riverside Secondary School] | [Rivervale Primary School] | [Rosyth School] |
+| [Riverside Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-sec/) | [Rivervale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-vale-pri-sch/) | [Rosyth School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rosyth-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rulang Primary School] | [San Shan Primary School] | [Sang Nila Utama Secondary School] |
+| [Rulang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rulang-pri/) | [San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sang-nila-utama-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Selegie Primary School] | [Seletar Institute] | [Sembawang Hills Estate School] |
+| [Selegie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/selegie-pri/) | [Seletar Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seletar-institute/) | [Sembawang Hills Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-hills-estate-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Sembawang Primary School] | [Sembawang Secondary School] | [Seng Kang Primary School] |
+| [Sembawang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-pri/) | [Sembawang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-sec/) | [Seng Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seng Kang Secondary School] | [Sengkang Green Primary School] | [Sennett Estate School] |
+| [Seng Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sengkang-green-pri/) | [Sennett Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sennett-estate-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Serangoon Garden North School] | [Serangoon Garden Secondary School] | [Serangoon Garden South School] |
+| [Serangoon Garden North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-north-sch/) | [Serangoon Garden Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-sec/) | [Serangoon Garden South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-south-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Serangoon Garden Technical School] | [Serangoon Junior College] | [Serangoon Secondary School] |
+| [Serangoon Garden Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-technical-sch/) | [Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-jc/) | [Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seraya Primary School] | [Shuqun Primary School] | [Shuqun Secondary School] |
+| [Seraya Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seraya-pri/) | [Shuqun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-pri/) | [Shuqun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Si Ling Primary School] | [Si Ling Secondary School] | [Siglap Indah Primary School] |
+| [Si Ling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-pri/) | [Si Ling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-sec/) | [Siglap Indah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-indah-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
