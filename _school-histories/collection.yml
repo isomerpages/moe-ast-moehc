@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - School Histories.md
-      - Schools/Yuhua Primary School.md
-      - Schools/Yuhua Secondary School.md
-      - Schools/Yumin Primary School.md
       - Schools/.keep
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
@@ -576,6 +573,9 @@ collections:
       - Schools/Yishun Town Secondary School.md
       - Schools/Yu Neng Primary School.md
       - Schools/Yuan Ching Secondary School.md
+      - Schools/Yuhua Primary School.md
+      - Schools/Yuhua Secondary School.md
+      - Schools/Yumin Primary School.md
       - Schools/Yung An Primary School.md
       - Schools/Yuqun Primary School.md
       - Schools/Yusok Ishak Secondary School.md
