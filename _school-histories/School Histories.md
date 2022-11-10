@@ -323,15 +323,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Henderson Primary School] | [Henderson Secondary School] | [Heng A Khe Bong School] |
+| [Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) | [Henderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-sec/) | [Heng A Khe Bong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/heng-a-khe-bong-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Henry Park Primary School] | [Hillgrove Secondary School] | [Holy Innocents' High School] |
+| [Henry Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henry-park-pri/) | [Hillgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hillgrove-sec/) | [Holy Innocents' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-high-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Holy Innocents' Primary School] | [Hong Kah Primary School] | [Hong Kah Secondary School] |
+| [Holy Innocents' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/) | [Hong Kah Secondary School] |
 
 |  |  |  |
 |:---:|:---:|:---:|
