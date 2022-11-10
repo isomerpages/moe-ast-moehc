@@ -367,15 +367,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jing Shan Primary School] | [Joo Avenue School] | [Jubilee Primary School] |
+| [Jing Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jing-shan-pri/) | [Joo Avenue School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/joo-avenue-sch/) | [Jubilee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jubilee-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Junyuan Primary School] | [Junyuan Secondary School] | [Jurong Institute] |
+| [Junyuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-pri/) | [Junyuan Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-sec/) | [Jurong Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-intitute/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong Junior College] | [Jurong Pioneer Junior College] | [Jurong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-pri/) |
+| [Jurong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/) | [Jurong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
