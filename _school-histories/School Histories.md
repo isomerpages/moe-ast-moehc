@@ -11,8 +11,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 ### **School Histories Online Repository**
 
+<img src="/images/crest1.png" style="width:20%;margin-left:35px;" align = "left">
+<img src="/images/crest2.jpg" style="width:12%;margin-left:95px;" align = "left">
+<img src="/images/crest3.jpg" style="width:25%;margin-left:125px;" align = "left">
 
-| <img src="/images/crest1.png" style="width:80%"> | <img src="/images/crest2.jpg" style="width:45%"> | <img src="/images/crest3.jpg" style="width:75%"> |
+|  |  |  |
 |:---:|:---:|:---:|
 | [Admiralty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admps/) | [Admiralty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-pri/) |
 
