@@ -151,11 +151,11 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cambridge Primary School] | [Canberra Primary School] | [Canberra Secondary School] |
+| [Cambridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cambridge-pri/) | [Canberra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-pri/) | [Canberra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Canossa Catholic Primary School] | [Cantonment Primary School] | [Cantonment School] |
+| [Canossa Catholic Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canossa-catholic-pri/) | [Cantonment Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cantonment-pri/) | [Cantonment School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cantonment-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
