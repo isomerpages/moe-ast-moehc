@@ -383,23 +383,23 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong West Primary School] | [Jurong West Secondary School] | [Jurongville Secondary School] |
+| [Jurong West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-pri/) | [Jurong West Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-sec/) | [Jurongville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurongville-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Juying Primary School] | [Juying Secondary School] | [Kallang Primary School] |
+| [Juying Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/juying-pri/) | [Juying Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/juying-sec/) | [Kallang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kallang-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kay Siang Primary School] | [Kebun Baru Primary School] | [Kembangan Primary School] |
+| [Kay Siang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kay-siang-pri/) | [Kebun Baru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kebun-baru-pri/) | [Kembangan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kembangan-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Keming Primary School] | [Keng Seng Primary School] | [Kent Ridge Secondary School] |
+| [Keming Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keming-pri/) | [Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/) | [Kent Ridge Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kent-ridge-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Keppel Primary School] | [Keppel School] | [Kheng Cheng School] |
+| [Keppel Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keppel-pri/) | [Keppel School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keppel-sch/) | [Kheng Cheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kheng-cheng-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
