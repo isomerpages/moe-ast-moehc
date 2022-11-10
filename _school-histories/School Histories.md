@@ -211,15 +211,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Clementi Primary School] | [Clementi Town Primary School] | [Clementi Town Secondary School] |
+| [Clementi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-pri/) | [Clementi Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-town-pri/) | [Clementi Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-town-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Clementi Woods Secondary School] | [Commonwealth Secondary School] | [Compassvale Primary School] |
+| [Clementi Woods Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/) | [Commonwealth Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/commonwealth-sec/) | [Compassvale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/compassvale-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Compassvale Secondary School] | [Concord Primary School] | [Coral Primary School] |
+| [Compassvale Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/compassvale-sec/) | [Concord Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/concord-pri/) | [Coral Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
