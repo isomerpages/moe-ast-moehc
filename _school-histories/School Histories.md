@@ -471,43 +471,43 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nan Chiow Public School] | [Nan Hua High School] | [Nan Hua Primary School] |
+| [Nan Chiow Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiow-public-sch/) | [Nan Hua High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-hua-high-sch/) | [Nan Hua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-hua-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nanyang Girls' High School] | [Nanyang Junior College] | [Nanyang Primary School] |
+| [Nanyang Girls' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-girls-high-sch/) | [Nanyang Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-jc/) | [Nanyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [National Junior College] | [Naval Base Primary School] | [Naval Base Secondary School] |
+| [National Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/national-jc/) | [Naval Base Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-pri/) | [Naval Base Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nee Soon School] | [New Town Primary School] | [New Town Secondary School] |
+| [Nee Soon School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nee-soon-sch/) | [New Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/) | [New Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ngee Ann Primary School] | [Ngee Ann Secondary School] | [Norfolk Primary School] |
+| [Ngee Ann Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-sec/) | [Norfolk Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/norfolk-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [North Spring Primary School] | [North View Primary School] | [North View Secondary School] |
+| [North Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-spring-pri/) | [North View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-pri/) | [North View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [North Vista Primary School] | [North Vista Secondary School] | [Northbrooks Secondary School] |
+| [North Vista Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-vista-pri/) | [North Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-vista-sec/) | [Northbrooks Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northbrooks-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northland Primary School] | [Northland Secondary School] | [Northlight School] |
+| [Northland Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-pri/) | [Northland Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-sec/) | [Northlight School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northlight-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northoaks Primary School] | [Nus High School of Mathematics and Science] | [Oasis Primary School] |
+| [Northoaks Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/oasis-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Opera Estate Boys' Primary School] | [Opera Estate Girls' Primary School] | [Opera Estate Primary School] |
+| [Opera Estate Boys' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
