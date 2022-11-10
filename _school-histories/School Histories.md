@@ -187,15 +187,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Secondary] | [Chij St Nicholas Girls' School] | [Chij St. Joseph's Convent] |
+| [Chij Secondary](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-sec/) | [Chij St Nicholas Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-nicholas-girls-sch/) | [Chij St. Joseph's Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-joseph/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij St. Theresa's Convent] | [Chong Boon Secondary School] | [Chong De Primary School] |
+| [Chij St. Theresa's Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-st-theresa-convent/) | [Chong Boon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-boon-sec/) | [Chong De Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-de-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chong Li Primary School] | [Chong Shan Primary School] | [Chongfu School] |
+| [Chong Li Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-li-pri/) | [Chong Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-shan-pri/) | [Chongfu School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongfu-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
