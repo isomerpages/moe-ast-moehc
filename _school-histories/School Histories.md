@@ -335,27 +335,27 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hong Wen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-wen-sch/) | [Horizon Primary School] | [Hougang Primary School] |
+| [Hong Wen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-wen-sch/) | [Horizon Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/horizon-pri/) | [Hougang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hougang Secondary School] | [Hua Kiau School] | [Hua Yi Primary School] |
+| [Hougang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-sec/) | [Hua Kiau School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hua Yi Secondary School] | [Huamin Primary School] | [Hwa Chong Institution] |
+| [Hua Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-sec/) | [Huamin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/huamin-pri/) | [Hwa Chong Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-institution/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hwa Chong Junior College] | [Hwi Yoh Secondary School] | [Innova Junior College] |
+| [Hwa Chong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwi-yoh-sec/) | [Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-jc/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Innova Primary School] | [Jagoh Primary School] | [Jalan Daud School] |
+| [Innova Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-pri/) | [Jagoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jagoh-pri/) | [Jalan Daud School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jalan-daud-sch/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jalan Kayu Primary School] | [Jaya Primary School] | [Jervois East Primary School] |
+| [Jalan Kayu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jalan-kayu-pri/) | [Jaya Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jaya-pri/) | [Jervois East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-east-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
