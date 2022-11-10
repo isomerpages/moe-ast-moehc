@@ -119,15 +119,15 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Boon Lay Garden Primary School] | [Boon Lay Primary School] | [Boon Lay Secondary School] |
+| [Boon Lay Garden Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-garden-pri/) | [Boon Lay Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-pri/) | [Boon Lay Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bowen Secondary School] | [Braddell Primary School] | [Braddell Westlake Secondary School] |
+| [Bowen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bowen-sec/) | [Braddell Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddel-westlake-sec/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Broadrick Primary School] | [Broadrick Secondary School] | [Bukit Batok East Primary School] |
+| [Broadrick Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-pri/) | [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-east-pri/) |
 
 |  |  |  |
 |:---:|:---:|:---:|
