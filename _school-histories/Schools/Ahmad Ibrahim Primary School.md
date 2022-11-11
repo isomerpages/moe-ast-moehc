@@ -84,3 +84,25 @@ Grow with Resilience
 
 <br>The letters ‘A’ and ‘I’ form the letter ‘V’ representing Victory.<br>
 The circle symbolises the school as ONE united family.
+
+#### **School Song**
+
+**Audio, require school to upload on youtube**
+
+Ahmad Ibrahim Primary School<br>
+You’re our mentor and guiding star<br>
+From which we have all the best in education<br>
+Not forgetting care and concern
+  
+We compete with valour and aspire to always be the best<br>
+We are a team striving for excellence<br>
+And together meet all challenges
+
+Let us work towards our mission<br>
+With our knowledge<br>
+We can achieve
+  
+Grow with resilience and confidence<br>
+And be proud of our school<br>
+Grow with resilience and confidence<br>
+And be proud of our school
