@@ -972,6 +972,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Kong Hwa School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-pri/) |
 
+<img src="/images/crestK17.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestK18.png" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/crestK19.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Kranji Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-sec/) |
