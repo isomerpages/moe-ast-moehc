@@ -342,13 +342,31 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Casuarina Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/casuarina-pri/) | [Catholic High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-high-sch/) | [Catholic Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-jc/) |
 
+<img src="/images/crestC11.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC12.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestC13.jpg" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Cedar Boys' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-boys-pri/) | [Cedar Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-girls-pri/) | [Cedar Girls' Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-girls-sec/) |
 
+<img src="/images/crestC14.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestC15.png" style="width:18%;margin-left:145px;" align = "left">
+<img src="/images/crestC16.jpg" style="width:30%;margin-right:5px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Cedar Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-pri/) | [Chai Chee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chai-chee-sec/) | [Changkat Changi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/changkat-changi-sec/) |
+
+<img src="/images/crestC17.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestC18.png" style="width:15%;margin-left:155px;" align = "left">
+<img src="/images/crestC19.png" style="width:16%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
