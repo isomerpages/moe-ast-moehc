@@ -792,6 +792,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Hougang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-sec/) | [Hua Kiau School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-pri/) |
 
+<img src="/images/crestH21.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestH22.jpg" style="width:17%;margin-left:125px;" align = "left">
+<img src="/images/crestH23.jpg" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Hua Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-sec/) | [Huamin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/huamin-pri/) | [Hwa Chong Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-institution/) |
