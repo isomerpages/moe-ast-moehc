@@ -442,13 +442,31 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Chongzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongzheng-pri/) | [Christ Church Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/christ-church-sec/) | [Chua Chu Kang Government Chinese Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-government-chi-pri/) |
 
+<img src="/images/crestC41.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC42.png" style="width:18%;margin-left:145px;" align = "left">
+<img src="/images/crestC43.jpg" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chua Chu Kang Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-malay-sch/) | [Chua Chu Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-pri/) | [Chua Chu Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-sec/) |
 
+<img src="/images/crestC44.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC45.jpg" style="width:20%;margin-left:145px;" align = "left">
+<img src="/images/crestC46.png" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chung Cheng High School (Main)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-north-pri/) |
+
+<img src="/images/crestC47.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC48.png" style="width:21%;margin-left:145px;" align = "left">
+<img src="/images/crestC49.jpg" style="width:22%;margin-right:px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
