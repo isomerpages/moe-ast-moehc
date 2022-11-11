@@ -762,9 +762,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Henry Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henry-park-pri/) | [Hillgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hillgrove-sec/) | [Holy Innocents' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-high-sch/) |
 
+<img src="/images/crestH12.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestH13.png" style="width:30%;margin-left:65px;" align = "left">
+<img src="/images/crestH14.jpg" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Holy Innocents' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/) | [Hong Kah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-sec/) |
+
+<img src="/images/crestH15.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestH16.png" style="width:30%;margin-left:65px;" align = "left">
+<img src="/images/crestH17.jpg" style="width:18%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
