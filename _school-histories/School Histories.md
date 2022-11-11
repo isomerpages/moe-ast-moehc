@@ -440,7 +440,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chongzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongzheng-pri/) | [Christ Church Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/christ-church-sec/) | [Chua Chu Kang Government Chinese Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-government-chi-pri/) |
+| [Chongzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongzheng-pri/) | [Christ Church Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/christ-church-sec/) | [Chua Chu Kang<br> Government Chinese<br> Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-government-chi-pri/) |
 
 <img src="/images/crestC41.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestC42.png" style="width:18%;margin-left:145px;" align = "left">
@@ -450,7 +450,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chua Chu Kang Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-malay-sch/) | [Chua Chu Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-pri/) | [Chua Chu Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-sec/) |
+| [Chua Chu Kang<br> Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-malay-sch/) | [Chua Chu Kang<br> Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-pri/) | [Chua Chu Kang<br> Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-sec/) |
 
 <img src="/images/crestC44.jpg" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestC45.jpg" style="width:20%;margin-left:145px;" align = "left">
