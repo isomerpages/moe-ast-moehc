@@ -892,6 +892,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Jurong Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-sec/) | [Jurong Special Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-special-sec/) | [Jurong Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-town-pri/) |
 
+<img src="/images/crestJ24.png" style="width:22%;margin-left:55px;" align = "left">
+<img src="/images/crestJ25.png" style="width:15%;margin-left:105px;" align = "left">
+<img src="/images/crestJ26.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Jurong West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-pri/) | [Jurong West Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-sec/) | [Jurongville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurongville-sec/) |
