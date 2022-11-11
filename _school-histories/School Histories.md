@@ -632,13 +632,31 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Fajar Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fajar-sec/) | [Farrer Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-park-pri/) | [Farrer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-pri/) |
 
+<img src="/images/crestF6.png" style="width:12%;margin-left:95px;" align = "left">
+<img src="/images/crestF7.png" style="width:25%;margin-left:125px;" align = "left">
+<img src="/images/crestF8.jpg" style="width:25%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Fengshan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fengshan-pri/) | [Fern Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fern-green-pri/) | [Fernvale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fernvale-pri/) |
 
+<img src="/images/crestF9.png" style="width:23%;margin-left:75px;" align = "left">
+<img src="/images/crestF10.png" style="width:22%;margin-left:75px;" align = "left">
+<img src="/images/crestF11.png" style="width:22%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [First Toa Payoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/) | [First Toa Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/) | [Fowlie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) |
+
+<img src="/images/crestF12.png" style="width:25%;margin-left:65px;" align = "left">
+<img src="/images/crestF13.png" style="width:18%;margin-left:85px;" align = "left">
+<img src="/images/crestF14.jpg" style="width:15%;margin-right:25px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
