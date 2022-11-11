@@ -70,17 +70,17 @@ Ahmad Ibrahim Secondary is one of four schools in Singapore offering the Enhance
 
 Through the three signature programmes, Ahmad Ibrahim Secondary aims to raise the social and cultural capital of students, as well as to grow students with character, nurture inquiry and discipline minds, and inspire courage to lead and serve.
 
-Principals:
--\ Mr Leong Chin Toon (1962–1964)<br>
--\ Mr Chia Meng Ann (1965–1982)<br>
--\ Mr Bhajan Singh (1982)<br>
--\ Mdm Daulath Tajuddin (1983)<br>
--\ Mr Ng Chiong Seng (1984–1989)<br>
--\ Mrs Molly Tan (1989–1999)<br>
--\ Mr Tan Keng Joo (2000–2005)<br>
--\ Mr Stephen Chin (2005–2012)<br>
--\ Ms Chew Ing Lim (2012–2018)<br>
--\ Ms Tan Ke-Xin (2018–present)
+Principals:<br>
+\- Mr Leong Chin Toon (1962–1964)<br>
+\- Mr Chia Meng Ann (1965–1982)<br>
+\- Mr Bhajan Singh (1982)<br>
+\- Mdm Daulath Tajuddin (1983)<br>
+\- Mr Ng Chiong Seng (1984–1989)<br>
+\- Mrs Molly Tan (1989–1999)<br>
+\- Mr Tan Keng Joo (2000–2005)<br>
+\- Mr Stephen Chin (2005–2012)<br>
+\- Ms Chew Ing Lim (2012–2018)<br>
+\- Ms Tan Ke-Xin (2018–present)
 
 #### **Key Milestones**
 
