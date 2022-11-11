@@ -502,7 +502,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Coral Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-sec/) | [Corporation Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/corporation-pri/) | [Crescent Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crescent-girls-sch/) |
 
-<img src="/images/crestC59.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestC59.png" style="width:17%;margin-left:75px;" align = "left">
 <img src="/images/crestD1.jpg" style="width:27%;margin-left:105px;" align = "left">
 <img src="/images/crestD2.png" style="width:25%;margin-right:15px;" align = "right">
 
@@ -511,6 +511,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |  |  |  |
 |:---:|:---:|:---:|
 | [Crest Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crest-sec/) | [Da Qiao Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-qiao-pri/) | [Damai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-pri/) |
+
+<img src="/images/crestD3.jpg" style="width:13%;margin-left:75px;" align = "left">
+<img src="/images/crestD4.png" style="width:22%;margin-left:165px;" align = "left">
+<img src="/images/crestD5.png" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
