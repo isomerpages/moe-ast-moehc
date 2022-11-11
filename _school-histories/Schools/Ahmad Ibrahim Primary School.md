@@ -54,12 +54,12 @@ Having celebrated its 20th anniversary in 2015, AIPS has seen many milestone suc
   
 AIPS was designated as a Cluster N2 Centre of Learning for Chinese (Primary) and awarded niche status for the Programme for School-Based Excellence for Character and Citizenship Education in 2011, and this became the school’s Learning for Life Programme (LLP) in 2014. AIPS’s LLP, From Values into Action – Nurturing Community-based Student Leaders Programme, focuses on the students’ community involvement and leadership development. Besides LLP, AIPS has also attained its Applied Learning Programme (ALP) status in 2016 through the Sustainability Education – Nurturing Students to be Stewards of Our Environment programme. The progressive programmes conducted through ALP develop skills, knowledge and values that promote behaviour in support of a sustainable environment. The learning experiences aim to create the students’ awareness of their responsibility towards the quality of the environment and conserving precious resources as well as to hone socio-emotional competencies and 21st-century skills.
 
-Principals:
--\ Mrs Chan Kwai Foong (1995–2000)<br>
--\ Ms Foong Yin Wei (2001–2007)<br>
--\ Mdm Sim Siew Tin (2008–2012)<br>
--\ Mrs Melinder Goh née Thong Hoi Non (2013–2018)<br>
--\ Ms Ong Lee Choo (2019–present)
+Principals:<br>
+\- Mrs Chan Kwai Foong (1995–2000)<br>
+\- Ms Foong Yin Wei (2001–2007)<br>
+\- Mdm Sim Siew Tin (2008–2012)<br>
+\- Mrs Melinder Goh née Thong Hoi Non (2013–2018)<br>
+\- Ms Ong Lee Choo (2019–present)
 
 #### **Key Milestones**
 
