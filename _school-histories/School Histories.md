@@ -942,6 +942,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Keppel Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keppel-pri/) | [Keppel School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keppel-sch/) | [Kheng Cheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kheng-cheng-sch/) |
 
+<img src="/images/crestK11.png" style="width:19%;margin-left:55px;" align = "left">
+<img src="/images/crestK12.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestK13.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Kim Keat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-keat-pri/) | [Kim Seng East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-pri/) |
