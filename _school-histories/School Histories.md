@@ -952,6 +952,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Kim Keat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-keat-pri/) | [Kim Seng East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-pri/) |
 
+<img src="/images/crestK14.png" style="width:19%;margin-left:55px;" align = "left">
+<img src="/images/crestK15.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestK16.png" style="width:25%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Kim Seng Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-west-sch/) | [Kong Chow School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-chow-sch/) |
