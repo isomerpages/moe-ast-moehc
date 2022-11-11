@@ -982,6 +982,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Kranji Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-sec/) |
 
+<img src="/images/crestK20.png" style="width:25%;margin-left:55px;" align = "left">
+<img src="/images/crestK21.png" style="width:23%;margin-left:75px;" align = "left">
+<img src="/images/crestK22.jpg" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/labrador-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/) |
