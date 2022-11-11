@@ -802,6 +802,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Hua Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-sec/) | [Huamin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/huamin-pri/) | [Hwa Chong Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-institution/) |
 
+<img src="/images/crestH24.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestH25.png" style="width:15%;margin-left:125px;" align = "left">
+<img src="/images/crestI1.jpg" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Hwa Chong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwi-yoh-sec/) | [Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-jc/) |
