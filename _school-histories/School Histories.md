@@ -662,6 +662,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Frontier Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/frontier-pri/) | [Fuchun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuchun-pri/) | [Fuchun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuchun-sec/) |
 
+<img src="/images/crestF15.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestF16.png" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestG1.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Fuhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-pri/) | [Fuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-sec/) | [Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/) |
