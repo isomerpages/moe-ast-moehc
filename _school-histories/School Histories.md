@@ -782,6 +782,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Hong Wen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-wen-sch/) | [Horizon Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/horizon-pri/) | [Hougang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-pri/) |
 
+<img src="/images/crestH18.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestH19.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestH20.png" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Hougang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-sec/) | [Hua Kiau School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-pri/) |
