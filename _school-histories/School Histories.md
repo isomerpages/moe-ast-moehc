@@ -572,17 +572,41 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [East Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-payoh-sec/) | [East Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-pri/) | [East Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-sec/) |
 
+<img src="/images/crestE5.jpg" style="width:23%;margin-left:55px;" align = "left">
+<img src="/images/crestE6.png" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestE7.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [East View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-pri/) | [East View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-sec/) | [Edgefield Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/edgefield-pri/) |
+
+<img src="/images/crestE8.jpg" style="width:23%;margin-left:55px;" align = "left">
+<img src="/images/crestE9.png" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestE10.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [Edgefield Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/edgefield-sec/) | [Elias Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elias-park-pri/) | [Elling North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-north-sch/) |
 
+<img src="/images/crestE11.png" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestE12.png" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestE13.jpg" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Elling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-pri/) | [Elling South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-south-sch/) | [Endeavour Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/endeavour-pri/) |
+
+<img src="/images/crestE14.png" style="width:23%;margin-left:65px;" align = "left">
+<img src="/images/crestE15.jpg" style="width:18%;margin-left:115px;" align = "left">
+<img src="/images/crestE16.png" style="width:23%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
