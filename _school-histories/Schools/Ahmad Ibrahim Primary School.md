@@ -75,6 +75,7 @@ Principals:
 | 2015 | Celebration of 20th anniversary. |
 | 2016 | Implementation of the Applied Learning Programme (ALP): Sustainability Education- Nurturing Students to be Stewards of Our Environment. |
 | 2018 | Completion of PERI Upgrading and Indoor Sports Hall (ISH). |
+|
 
 #### **School Motto**
 Grow with Resilience
