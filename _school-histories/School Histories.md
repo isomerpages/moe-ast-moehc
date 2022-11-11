@@ -1002,6 +1002,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Lee Kuo Chuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/) | [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) |
 
+<img src="/images/crestL3.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestL4.png" style="width:23%;margin-left:105px;" align = "left">
+<img src="/images/crestL5.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Loyang View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-view-sec/) | [Macpherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/) | [Macpherson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/) |
