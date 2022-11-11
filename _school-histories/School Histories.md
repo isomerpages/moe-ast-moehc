@@ -383,7 +383,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Chestnut Drive Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-pri/) | [Chij Katong Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-convent/) |
 
 <img src="/images/crestC23.jpg" style="width:20%;margin-left:75px;" align = "left">
-<img src="/images/crestC24.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestC24.png" style="width:18%;margin-left:125px;" align = "left">
 <img src="/images/crestC25.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
@@ -392,21 +392,51 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Chij Kellock](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-kellock/) | [Chij Opera Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-opera-estate-pri/) | [Chij Our Lady Of Good Counsel](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-of-good-counsel/) |
 
+<img src="/images/crestC26.jpg" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestC27.jpg" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestC28.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chij Our Lady Of The Nativity](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-of-nativity/) | [Chij Our Lady Queen Of Peace](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-queen-of-peace/) | [Chij Primary (Toa Payoh)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-pri-tpy/) |
+
+<img src="/images/crestC29.jpg" style="width:25%;margin-left:65px;" align = "left">
+<img src="/images/crestC30.jpg" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestC31.png" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chij Secondary](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-sec/) | [Chij St Nicholas Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-nicholas-girls-sch/) | [Chij St. Joseph's Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-joseph/) |
 
+<img src="/images/crestC32.jpg" style="width:23%;margin-left:65px;" align = "left">
+<img src="/images/crestC33.png" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/crestC34.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chij St. Theresa's Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-st-theresa-convent/) | [Chong Boon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-boon-sec/) | [Chong De Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-de-pri/) |
 
+<img src="/images/crestC35.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC36.png" style="width:23%;margin-left:115px;" align = "left">
+<img src="/images/crestC37.png" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chong Li Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-li-pri/) | [Chong Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-shan-pri/) | [Chongfu School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongfu-sch/) |
+
+<img src="/images/crestC38.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC39.jpg" style="width:18%;margin-left:145px;" align = "left">
+<img src="/images/crestC40.png" style="width:16%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
