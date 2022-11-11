@@ -832,9 +832,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Jalan Kayu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jalan-kayu-pri/) | [Jaya Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jaya-pri/) | [Jervois East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-east-pri/) |
 
+<img src="/images/crestJ6.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestJ7.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestJ8.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Jervois Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-pri/) | [Jervois West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-west-pri/) | [Jiemin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jiemin-pri/) |
+
+<img src="/images/crestJ9.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestJ10.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestJ11.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
