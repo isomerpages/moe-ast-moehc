@@ -842,7 +842,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Jervois Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-pri/) | [Jervois West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-west-pri/) | [Jiemin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jiemin-pri/) |
 
-<img src="/images/crestJ9.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestJ9.jpg" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestJ10.png" style="width:20%;margin-left:105px;" align = "left">
 <img src="/images/crestJ11.png" style="width:20%;margin-right:25px;" align = "right">
 
@@ -852,9 +852,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Jin Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-shan-pri/) | [Jin Tai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-pri/) | [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) |
 
+<img src="/images/crestJ12.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestJ13.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestJ14.jpg" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Jing Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jing-shan-pri/) | [Joo Avenue School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/joo-avenue-sch/) | [Jubilee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jubilee-pri/) |
+
+<img src="/images/crestJ15.png" style="width:22%;margin-left:65px;" align = "left">
+<img src="/images/crestJ16.jpg" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestJ17.png" style="width:18%;margin-right:25px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
