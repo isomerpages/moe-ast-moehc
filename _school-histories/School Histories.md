@@ -332,6 +332,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Canossa Catholic Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canossa-catholic-pri/) | [Cantonment Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cantonment-pri/) | [Cantonment School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cantonment-sch/) |
 
+<img src="/images/crestC8.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestC9.jpg" style="width:35%;margin-left:75px;" align = "left">
+<img src="/images/crestC10.jpg" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Casuarina Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/casuarina-pri/) | [Catholic High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-high-sch/) | [Catholic Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-jc/) |
