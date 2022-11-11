@@ -752,6 +752,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) | [Henderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-sec/) | [Heng A Khe Bong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/heng-a-khe-bong-sch/) |
 
+<img src="/images/crestH9.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestH10.jpg" style="width:30%;margin-left:65px;" align = "left">
+<img src="/images/crestH11.jpg" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Henry Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henry-park-pri/) | [Hillgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hillgrove-sec/) | [Holy Innocents' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-high-sch/) |
