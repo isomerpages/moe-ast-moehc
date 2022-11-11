@@ -64,7 +64,7 @@ The school is certainly not one that rests on its laurel. In 2019, the school wo
 
 Admiralty Primary School celebrated its 20th anniversary in 2017. It remains committed to providing the best learning environment for its students, so that they will grow up to be good citizens and passionate learners.
 
-Principals:
+Principals:<br>
 \- Mr Freddie Kee (1997–2000) <br>
 \- Mdm Lim Soh Lian (2001–2010)<br>
 \- Mr Albert Alfred Alcantara (2011–2017)<br>
