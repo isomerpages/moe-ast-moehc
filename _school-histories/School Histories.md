@@ -682,9 +682,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Gan Eng Seng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-sch/) | [Geylang Methodist School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-methodist-pri/) | [Geylang Methodist School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-methodist-sec/) |
 
+<img src="/images/crestG5.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestG6.png" style="width:17%;margin-left:135px;" align = "left">
+<img src="/images/crestG7.png" style="width:24%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Geylang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-pri/) | [Ghim Moh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-pri/) | [Ghim Moh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-sec/) |
+
+<img src="/images/crestG8.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestG9.png" style="width:25%;margin-left:95px;" align = "left">
+<img src="/images/crestG10.png" style="width:24%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
