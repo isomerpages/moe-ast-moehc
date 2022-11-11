@@ -912,6 +912,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Juying Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/juying-pri/) | [Juying Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/juying-sec/) | [Kallang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kallang-pri/) |
 
+<img src="/images/crestK2.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestK3.png" style="width:22%;margin-left:95px;" align = "left">
+<img src="/images/crestK4.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Kay Siang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kay-siang-pri/) | [Kebun Baru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kebun-baru-pri/) | [Kembangan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kembangan-pri/) |
