@@ -903,7 +903,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Jurong West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-pri/) | [Jurong West Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-sec/) | [Jurongville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurongville-sec/) |
 
 <img src="/images/crestJ27.png" style="width:25%;margin-left:55px;" align = "left">
-<img src="/images/crestJ28.png" style="width:22%;margin-left:65px;" align = "left">
+<img src="/images/crestJ28.png" style="width:24%;margin-left:65px;" align = "left">
 <img src="/images/crestK1.png" style="width:18%;margin-right:35px;" align = "right">
 
 <br clear="left">
