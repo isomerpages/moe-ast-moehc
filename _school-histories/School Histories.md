@@ -522,21 +522,51 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Damai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-sec/) | [Dazhong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-zhong-pri/) | [De La Salle School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/de-la-salle-sch/) |
 
+<img src="/images/crestD6.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestD7.png" style="width:18%;margin-left:145px;" align = "left">
+<img src="/images/crestD8.png" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Delta Circus Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-circus-pri/) | [Delta East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-east-pri/) | [Delta Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-pri/) |
+
+<img src="/images/crestD9.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestD10.png" style="width:20%;margin-left:145px;" align = "left">
+<img src="/images/crestD11.jpg" style="width:22%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [Delta Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-sec/) | [Delta West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-west-pri/) | [Deyi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/deyi-sec/) |
 
+<img src="/images/crestD12.png" style="width:23%;margin-left:45px;" align = "left">
+<img src="/images/crestD13.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestD14.jpg" style="width:18%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Dorset Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dorset-pri/) | [Duchess School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/duchess-sch/) | [Dunearn Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunearn-sec/) |
 
+<img src="/images/crestD15.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestD16.jpg" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestE1.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Dunman High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunman-high/) | [Dunman Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunman-sec/) | [East Coast Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-coast-pri/) |
+
+<img src="/images/crestE2.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestE3.jpg" style="width:22%;margin-left:115px;" align = "left">
+<img src="/images/crestE4.png" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
