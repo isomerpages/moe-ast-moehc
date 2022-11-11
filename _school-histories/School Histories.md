@@ -372,6 +372,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Changkat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/changkat-pri/) | [Chao Yang School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chao-yang-sch/) | [Charlton School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/charlton-sch/) |
 
+<img src="/images/crestC20.png" style="width:22%;margin-left:45px;" align = "left">
+<img src="/images/crestC21.png" style="width:20%;margin-left:135px;" align = "left">
+<img src="/images/crestC22.jpg" style="width:18%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Chestnut Drive Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-pri/) | [Chij Katong Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-convent/) |
