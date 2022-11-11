@@ -713,7 +713,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Greenridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenridge-pri/) | [Greenridge Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenridge-sec/) | [Greenwood Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenwood-pri/) |
 
 <img src="/images/crestG14.png" style="width:20%;margin-left:65px;" align = "left">
-<img src="/images/crestG15.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crestG15.png" style="width:20%;margin-left:125px;" align = "left">
 <img src="/images/crestG16.jpg" style="width:20%;margin-right:15px;" align = "right">
 
 <br clear="left">
@@ -723,7 +723,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Griffiths Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/) | [Guangyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-pri/) | [Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/) |
 
 <img src="/images/crestG17.png" style="width:20%;margin-left:65px;" align = "left">
-<img src="/images/crestH1.jpg" style="width:22%;margin-left:115px;" align = "left">
+<img src="/images/crestH1.jpg" style="width:22%;margin-left:125px;" align = "left">
 <img src="/images/crestH2.png" style="width:23%;margin-right:15px;" align = "right">
 
 <br clear="left">
@@ -732,9 +732,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Guillemard Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guillemard-pri/) | [Hai Sing Catholic School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hai-sing-catholic-sch/) | [Haig Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) |
 
+<img src="/images/crestH3.png" style="width:22%;margin-left:65px;" align = "left">
+<img src="/images/crestH4.jpg" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestH5.png" style="width:20%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Haig Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-girls-sch/) | [Havelock Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/havelock-pri/) | [Havelock School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/havelock-sch/) |
+
+<img src="/images/crestH6.png" style="width:23%;margin-left:65px;" align = "left">
+<img src="/images/crestH7.png" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestH8.jpg" style="width:22%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
