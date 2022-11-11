@@ -872,9 +872,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Junyuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-pri/) | [Junyuan Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-sec/) | [Jurong Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-intitute/) |
 
+<img src="/images/crestJ18.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestJ19.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestJ20.jpg" style="width:24%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Jurong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/) | [Jurong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-pri/) |
+
+<img src="/images/crestJ21.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestJ22.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestJ23.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
