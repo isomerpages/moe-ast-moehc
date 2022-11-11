@@ -992,6 +992,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/labrador-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/) |
 
+<img src="/images/crestK23.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestL1.png" style="width:25%;margin-left:95px;" align = "left">
+<img src="/images/crestL2.png" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Lee Kuo Chuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/) | [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) |
