@@ -812,9 +812,21 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Hwa Chong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwi-yoh-sec/) | [Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-jc/) |
 
+<img src="/images/crestI2.png" style="width:22%;margin-left:65px;" align = "left">
+<img src="/images/crestJ1.jpg" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestJ2.png" style="width:18%;margin-right:25px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Innova Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-pri/) | [Jagoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jagoh-pri/) | [Jalan Daud School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jalan-daud-sch/) |
+
+<img src="/images/crestJ3.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestJ4.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestJ5.png" style="width:20%;margin-right:25px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
