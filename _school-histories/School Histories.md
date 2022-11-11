@@ -472,17 +472,41 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Clementi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-pri/) | [Clementi Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-town-pri/) | [Clementi Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-town-sec/) |
 
+<img src="/images/crestC50.png" style="width:25%;margin-left:45px;" align = "left">
+<img src="/images/crestC51.jpg" style="width:23%;margin-left:105px;" align = "left">
+<img src="/images/crestC52.png" style="width:25%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Clementi Woods Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/) | [Commonwealth Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/commonwealth-sec/) | [Compassvale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/compassvale-pri/) |
+
+<img src="/images/crestC53.jpg" style="width:25%;margin-left:45px;" align = "left">
+<img src="/images/crestC54.png" style="width:23%;margin-left:105px;" align = "left">
+<img src="/images/crestC55.jpg" style="width:25%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [Compassvale Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/compassvale-sec/) | [Concord Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/concord-pri/) | [Coral Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-pri/) |
 
+<img src="/images/crestC56.png" style="width:25%;margin-left:45px;" align = "left">
+<img src="/images/crestC57.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestC58.jpg" style="width:23%;margin-right:15px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [Coral Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-sec/) | [Corporation Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/corporation-pri/) | [Crescent Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crescent-girls-sch/) |
+
+<img src="/images/crestC59.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestD1.jpg" style="width:27%;margin-left:105px;" align = "left">
+<img src="/images/crestD2.png" style="width:25%;margin-right:15px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
