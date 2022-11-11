@@ -734,7 +734,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH3.png" style="width:22%;margin-left:65px;" align = "left">
 <img src="/images/crestH4.jpg" style="width:20%;margin-left:125px;" align = "left">
-<img src="/images/crestH5.png" style="width:20%;margin-right:15px;" align = "right">
+<img src="/images/crestH5.png" style="width:20%;margin-right:25px;" align = "right">
 
 <br clear="left">
 
@@ -744,7 +744,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH6.png" style="width:23%;margin-left:65px;" align = "left">
 <img src="/images/crestH7.png" style="width:18%;margin-left:125px;" align = "left">
-<img src="/images/crestH8.jpg" style="width:22%;margin-right:15px;" align = "right">
+<img src="/images/crestH8.jpg" style="width:22%;margin-right:25px;" align = "right">
 
 <br clear="left">
 
@@ -754,7 +754,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH9.jpg" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestH10.jpg" style="width:30%;margin-left:65px;" align = "left">
-<img src="/images/crestH11.jpg" style="width:18%;margin-right:35px;" align = "right">
+<img src="/images/crestH11.jpg" style="width:18%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -764,7 +764,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH12.jpg" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestH13.png" style="width:30%;margin-left:65px;" align = "left">
-<img src="/images/crestH14.jpg" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestH14.jpg" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -774,7 +774,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH15.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestH16.png" style="width:30%;margin-left:65px;" align = "left">
-<img src="/images/crestH17.jpg" style="width:16%;margin-right:30px;" align = "right">
+<img src="/images/crestH17.jpg" style="width:16%;margin-right:40px;" align = "right">
 
 <br clear="left">
 
@@ -784,7 +784,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH18.jpg" style="width:18%;margin-left:65px;" align = "left">
 <img src="/images/crestH19.png" style="width:20%;margin-left:145px;" align = "left">
-<img src="/images/crestH20.png" style="width:20%;margin-right:15px;" align = "right">
+<img src="/images/crestH20.png" style="width:20%;margin-right:25px;" align = "right">
 
 <br clear="left">
 
@@ -794,7 +794,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH21.jpg" style="width:18%;margin-left:65px;" align = "left">
 <img src="/images/crestH22.jpg" style="width:17%;margin-left:125px;" align = "left">
-<img src="/images/crestH23.jpg" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestH23.jpg" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -804,7 +804,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestH24.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestH25.png" style="width:15%;margin-left:125px;" align = "left">
-<img src="/images/crestI1.jpg" style="width:22%;margin-right:15px;" align = "right">
+<img src="/images/crestI1.jpg" style="width:22%;margin-right:25px;" align = "right">
 
 <br clear="left">
 
@@ -814,7 +814,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestI2.png" style="width:22%;margin-left:65px;" align = "left">
 <img src="/images/crestJ1.jpg" style="width:18%;margin-left:105px;" align = "left">
-<img src="/images/crestJ2.png" style="width:18%;margin-right:25px;" align = "right">
+<img src="/images/crestJ2.png" style="width:18%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -824,7 +824,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ3.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestJ4.jpg" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestJ5.png" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestJ5.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -834,7 +834,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ6.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestJ7.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestJ8.png" style="width:18%;margin-right:25px;" align = "right">
+<img src="/images/crestJ8.png" style="width:18%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -844,7 +844,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ9.jpg" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestJ10.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestJ11.png" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestJ11.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -854,7 +854,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ12.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestJ13.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestJ14.jpg" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestJ14.jpg" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -864,7 +864,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ15.png" style="width:22%;margin-left:65px;" align = "left">
 <img src="/images/crestJ16.jpg" style="width:18%;margin-left:105px;" align = "left">
-<img src="/images/crestJ17.png" style="width:18%;margin-right:25px;" align = "right">
+<img src="/images/crestJ17.png" style="width:18%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -874,7 +874,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ18.png" style="width:20%;margin-left:65px;" align = "left">
 <img src="/images/crestJ19.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestJ20.jpg" style="width:24%;margin-right:25px;" align = "right">
+<img src="/images/crestJ20.jpg" style="width:24%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -884,7 +884,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ21.png" style="width:18%;margin-left:65px;" align = "left">
 <img src="/images/crestJ22.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestJ23.png" style="width:20%;margin-right:35px;" align = "right">
+<img src="/images/crestJ23.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -894,7 +894,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ24.png" style="width:22%;margin-left:55px;" align = "left">
 <img src="/images/crestJ25.png" style="width:15%;margin-left:105px;" align = "left">
-<img src="/images/crestJ26.png" style="width:20%;margin-right:35px;" align = "right">
+<img src="/images/crestJ26.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -904,7 +904,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestJ27.png" style="width:25%;margin-left:55px;" align = "left">
 <img src="/images/crestJ28.png" style="width:24%;margin-left:65px;" align = "left">
-<img src="/images/crestK1.png" style="width:18%;margin-right:35px;" align = "right">
+<img src="/images/crestK1.png" style="width:18%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -914,7 +914,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestK2.png" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/crestK3.png" style="width:22%;margin-left:95px;" align = "left">
-<img src="/images/crestK4.png" style="width:20%;margin-right:35px;" align = "right">
+<img src="/images/crestK4.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -924,7 +924,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestK5.png" style="width:22%;margin-left:55px;" align = "left">
 <img src="/images/crestK6.png" style="width:22%;margin-left:85px;" align = "left">
-<img src="/images/crestK7.png" style="width:22%;margin-right:25px;" align = "right">
+<img src="/images/crestK7.png" style="width:22%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -934,7 +934,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestK8.png" style="width:19%;margin-left:55px;" align = "left">
 <img src="/images/crestK9.png" style="width:19%;margin-left:105px;" align = "left">
-<img src="/images/crestK10.png" style="width:19%;margin-right:25px;" align = "right">
+<img src="/images/crestK10.png" style="width:19%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -944,7 +944,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestK11.png" style="width:19%;margin-left:55px;" align = "left">
 <img src="/images/crestK12.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestK13.png" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestK13.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -954,7 +954,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestK14.png" style="width:19%;margin-left:55px;" align = "left">
 <img src="/images/crestK15.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestK16.png" style="width:25%;margin-right:25px;" align = "right">
+<img src="/images/crestK16.png" style="width:25%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -964,7 +964,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestK17.png" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/crestK18.png" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/crestK19.png" style="width:20%;margin-right:25px;" align = "right">
+<img src="/images/crestK19.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
