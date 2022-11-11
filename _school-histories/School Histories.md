@@ -1012,6 +1012,12 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Loyang View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-view-sec/) | [Macpherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/) | [Macpherson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/) |
 
+<img src="/images/crestL6.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestL7.jpg" style="width:23%;margin-left:105px;" align = "left">
+<img src="/images/crestL8.jpg" style="width:20%;margin-right:35px;" align = "right">
+
+<br clear="left">
+
 |  |  |  |
 |:---:|:---:|:---:|
 | [MacRitchie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macritchie-pri/) | [Maha Bodhi School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maha-bodhi-sch/) | [Maju Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maju-sec/) |
