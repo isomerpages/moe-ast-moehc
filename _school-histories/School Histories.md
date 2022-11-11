@@ -613,7 +613,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Eunoia Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/eunoia-jc/) | [Eunos Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/eunos-pri/) | [Evergreen Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/evergreen-pri/) |
 
 <img src="/images/crestE16.png" style="width:25%;margin-left:35px;" align = "left">
-<img src="/images/crestF1.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestF1.png" style="width:20%;margin-left:115px;" align = "left">
 <img src="/images/crestF2.jpg" style="width:23%;margin-right:35px;" align = "right">
 
 <br clear="left">
@@ -623,7 +623,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [Evergreen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/evergren-sec/) | [Fairfield Methodist School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fairfield-methodist-pri/) | [Fairfield Methodist School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fairfield-methodist-sec/) |
 
 <img src="/images/crestF3.jpg" style="width:24%;margin-left:55px;" align = "left">
-<img src="/images/crestF4.png" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestF4.png" style="width:18%;margin-left:115px;" align = "left">
 <img src="/images/crestF5.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
