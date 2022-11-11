@@ -105,3 +105,35 @@ With Integrity and Compassion
 #### **School Crest**
 <img src="/images/ahmadibrahimsec1.jpg" style="width:30%;margin-right:15px;" align = "left">
 
+<br>The torch with its red glowing flame symbolises the light of integrity and the warmth of compassion. It inspires every student to bear the truth, stand up for righteousness and, at the same time, have a heart for others and serve those in need.
+
+The twirling background design together with the torch is a stylised depiction of the lowercase letters, ‘ai’, the abbreviated form of the school name, Ahmad Ibrahim, in lowercase.
+
+The green colour shows the school’s shared value of harmony in a multiracial, multireligious school, while the silver colour represents its perseverance in the pursuit of excellence.
+
+#### **School Song**
+
+**Audio, require school to upload on youtube**
+
+With different dreams and aspirations<br>
+We’ve come to share a vision<br>
+Where each of us is special and treasured<br>
+With love and patience we are nurtured
+  
+Our school our home, our cosy haven<br>
+A place to learn life’s lessons<br>
+With different races and many faces<br>
+In harmony we’ll make a difference
+  
+With hearts that care, we journey<br>
+From strength to strength we grow<br>
+Undaunted by the challenges<br>
+We strive towards our goal
+  
+Ahmad Ibrahim, my school I hold so dear<br>
+Ignited with passion to learn and care<br>
+Growing together with all I share
+  
+Ahmad Ibrahim, my school I hold so dear<br>
+To serve my school and nation<br>
+With integrity and compassion
