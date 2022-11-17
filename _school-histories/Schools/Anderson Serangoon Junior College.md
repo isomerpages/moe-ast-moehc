@@ -50,6 +50,8 @@ Latin for ‘To Learn, To Serve – Not for Myself Alone’
 
 The college crest is inspired by the ‘flame’ element that is in both Anderson and Serangoon Junior Colleges’ crests as well as a flower bud that is ready to bloom.
 
+<br clear="left">
+
 The flame design is formed by the college initials ‘ASR’. The continued use of the flame element represents the merged colleges’ history and heritage. The flame also symbolises truth, light and hope, which captures the college’s intent to develop justice- and service-oriented students who are enlightened and in service of others. The flower bud symbolises youth and vitality, and represents the college as a place that nurtures leaders for the nation. Each petal of the flower embodies the college colours, signifying the way in which the college seeks to nurture students who are adventurous in thinking and boundless in imagination, while remaining grounded and empathetic citizens of the nation.
 
 #### **School Song**
@@ -79,4 +81,3 @@ To pursue the best for all ASR
 
 In life's every test, we will rise up with the rest<br>
 To pursue the best for all ASR
-
