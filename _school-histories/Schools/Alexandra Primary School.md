@@ -84,6 +84,8 @@ The triangle in the middle represents the letter “A” and resembles an eagle 
   
 The rays symbolise GLOW, which stands for **_G_** ood Character, **_L_** ove for Learning, **_O_** penness and towards **_W_** orld-readiness.
 
+<br clear="left">
+
 The three primary colours – Blue, Red and Yellow - represent the School Philosophy:<br>
 \- Every child matters, is unique and has the potential to make a difference.<br>
 \- Every staff member is an asset, has different strengths, and wants to contribute.<br>
@@ -116,4 +118,3 @@ Grow and glow to the best that we can be with creativity<br>
 Striving towards a harmonious society.<br>
 Alexandrians build a gracious community<br>
 Let’s take the lead and be heroic
-
