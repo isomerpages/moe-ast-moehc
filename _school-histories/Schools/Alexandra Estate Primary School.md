@@ -8,6 +8,8 @@ third_nav_title: Schools
 
 ### **Alexandra Estate Primary School**
 
+<br clear="left">
+
 #### **Image Gallery**
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri2.jpg">  
 <img src="/images/alexandraestatepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
