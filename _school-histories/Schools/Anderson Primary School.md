@@ -92,6 +92,8 @@ Courage & Sincerity
 **A**: (the stylised)-Looks like the Chinese character (人) which means people. It is set against a globe with a red line for the Equator, a reminder of Singapore's location on the map.  
   
 **Globe**: signifies the global outlook of our students.  
+
+<br clear="left">
   
 **Red**: represents the brotherhood and courage of all Andersonians.  
   
