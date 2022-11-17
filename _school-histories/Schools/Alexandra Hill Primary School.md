@@ -62,6 +62,8 @@ Usaha Itu Jaya
 
 The **torch** signifies passion for learning. It is surrounded by the name of the school in Chinese. Underscoring the crest is the school motto, “Usaha Itu Jaya”.
 
+<br clear="left">
+
 #### **School Song**
 Pupils of Alexandra Hill<br>
 With praises of school we fill<br>
