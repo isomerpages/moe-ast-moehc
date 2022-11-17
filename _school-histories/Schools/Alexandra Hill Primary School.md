@@ -45,11 +45,36 @@ Last Serving Principal:<br>
 
 #### **Key Milestones**
 
+|  |  |
+|:---:|---|
+| 1963 | Official opening of Alexandra Hill Primary School. |
+| 1995 | One of the pilot schools to introduce the Accelerating the Use of Information Technology in Primary Schools (AITP) project. |
+| 2002 | Merger with Bukit Ho Swee Primary School, Henderson Primary School and Keng Seng Primary School to form Gan Eng Seng Primary School. |
+|
 
 #### **School Motto**
+Usaha Itu Jaya
 
+“Hard Work Leads To Success”
 
 #### **School Crest**
+<img src="/images/alexandrahillpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The **torch** signifies passion for learning. It is surrounded by the name of the school in Chinese. Underscoring the crest is the school motto, “Usaha Itu Jaya”.
 
 #### **School Song**
+Pupils of Alexandra Hill<br>
+With praises of school we fill<br>
+We learn to be humble and humane<br>
+To give our best in lessons and games
+
+**Chorus:**<br>
+Let us always follow<br>
+This our school motto<br>
+Usaha itu jaya<br>
+Hard works leads to success
+
+Forward we surge in spirits true<br>
+United in whate’er we do<br>
+Honour and fame to our school we’ll bring<br>
+With hearts full of pride of you we sing
