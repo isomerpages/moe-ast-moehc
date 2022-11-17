@@ -101,9 +101,15 @@ The cross represents salvation, the shield represents God’s protection and ca
 #### **School Song**
 **Audio, require school to upload on youtube**
 
-浩荡圣中气象雄 如鹰展翅岛中<br>
-圣洁公义我尊崇 远近嘉名号圣公<br>
-治学立业须谦恭 师友爱乐融融<br>
-把握今天勤用功 创造锦绣之前程<br>
-进德修业树校风 向着标杆力冲<br>
-永为基督之精兵 永为邦国之忠臣
+浩荡圣中气象雄<br>
+如鹰展翅岛中<br>
+圣洁公义我尊崇<br>
+远近嘉名号圣公<br>
+治学立业须谦恭<br>
+师友爱乐融融<br>
+把握今天勤用功<br>
+创造锦绣之前程<br>
+进德修业树校风<br>
+向着标杆力冲<br>
+永为基督之精兵<br>
+永为邦国之忠臣
