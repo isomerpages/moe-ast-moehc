@@ -84,16 +84,57 @@ Principals:<br>
 \- Mr Winston Hodge (2011–2018)<br>
 \- Mr Arene Koh (2019–present)
 
-
 #### **Key Milestones**
 
+|  |  |
+|:---:|---|
+| 1886 | Founding of Anglo-Chinese School. |
+| 1914 | Formation of the Anglo-Chinese School Old Boys’ Association. |
+| 1986 | Celebration of Anglo-Chinese School centenary. |
+| 1988 | Anglo-Chinese Secondary School became an Independent School. |
+| 1989 | Set a record in the Guinness Book of Records by playing the world’s largest game of musical chairs with a total of 8,238 participants. |
+| 1993 | Official opening of Anglo-Chinese School (Independent) on Dover Road. |
+| 1996 | Official opening of the Anglo-Chinese School (Independent) Boarding School and Sports Complex. |
+| 2004 | Became a dual-track school offering both the ‘O’ Level track and the Integrated Programme. |
+| 2005 | Officially accredited as an International Baccalaureate World School. |
+| 2009 | Became the first school in Singapore to be awarded the Singapore Quality Award. |
+|
 
 #### **School Motto**
-
+The Best is Yet to Be
 
 #### **School Crest**
+<img src="/images/acsi1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The upper section of the crest comprises a mythical creature with a lion’s head, an eagle’s wings and a dragon’s body with claws. They represent the founding of ACS in a British colony (lion) by the American Methodist Mission (eagle) during the time of the Manchu dynasty in China (dragon). The lower section comprises the letters ‘ACS’ in red – signifying life as it bridges heaven and earth, which are represented by the two halves of blue and gold. The shield shape represents the knightly virtues of chivalry, honour, loyalty, valour and manliness.
+
+The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem. 
+
+The motto, ‘The Best is Yet to Be’, has been associated with ACS for generations since former principal T.W. Hinch first used it in the foreword of the 1935 issue of the school magazine. Since then, this opening line of Robert Browning’s, ‘Rabbi ben Ezra’, has been the rallying cry of ACSians, and was incorporated into the ACS crest in 1959.
 
 #### **School Song**
+**Audio, require school to upload on youtube**
 
+In days of yore from Western Shores<br>
+Oldham dauntless hero came<br>
+And planted a beacon of Truth and Light<br>
+In this Island of the Main<br>
+Here may it stand from year to year<br>
+Emblem of grand endeavour<br>
+The regions round echo the sound<br>
+Of ACS forever
+  
+Sing ACS forever more<br>
+Our ACS forever<br>
+God save our land and heaven bless<br>
+Our ACS forever
+  
+Our students hail from China’s Plains<br>
+And the Land of Rising Sun<br>
+We have many sons from India’s Strand<br>
+And the Islands of the Main<br>
+Our hearts our hopes our aims are one<br>
+No discord e’er will sever<br>
+We’ll stand together for the cause<br>
+Of ACS forever
 
