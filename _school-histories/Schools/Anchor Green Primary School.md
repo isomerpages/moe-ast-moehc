@@ -71,12 +71,12 @@ Principals:<br>
 | 2019 | Converted Learning for Life Programme in Serve and Leade through Environmental Education to an Applied Learning Programme; Empowering Learners to be Environmental Activists. |
 |
 
-#### School Motto
+#### **School Motto**
 Aspire Grow Serve  
   
 The school believes that all students can and will Aspire to do their best, to Grow holistically and Serve the community by giving back to others and society.
 
-#### School Crest
+#### **School Crest**
 <img src="/images/anchorgreenpri1.png" style="width:35%;margin-right:15px;" align = "left">
 
 The school logo embodies an anchor encased by a blue arc on top and a green arc at the bottom. The anchor symbolizes stability and well-grounded hope.   
@@ -85,7 +85,7 @@ The ring of the anchor is illustrated as a child with outstretched arms which sy
 
 The anchor is cocooned by 2 subtended arcs. The green arc at the bottom represents every Anchor Green student’s commitment to save and protect the environment. The blue arc on top represents Anchor Green student’s commitment to the global community. The entire logo tilted at an axis symbolizes creativity and innovation.
 
-#### School Song
+#### **School Song**
 **Audio, require school to upload on youtube**
 
 Such noble history, and loyal humble pride.<br>
