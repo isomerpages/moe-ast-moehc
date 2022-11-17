@@ -40,7 +40,7 @@ third_nav_title: Schools
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch8.jpg">  
-<img src="/images/aitongsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/aitongsch8.jpg" style="width:33.5%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch9.jpg">  
