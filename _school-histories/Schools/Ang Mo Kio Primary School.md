@@ -4,7 +4,7 @@ permalink: /school-histories/amk-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/amkpri1.png" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/amkpri1.png" style="width:30%;margin-right:15px;" align = "left">
 
 ### **Ang Mo Kio Primary School**
 [URL to website](http://angmokiopri.moe.edu.sg/)
@@ -136,4 +136,3 @@ As we reach for the world
   
 (Repeat chorus)<br>
 AMKP We Will Shine!
-
