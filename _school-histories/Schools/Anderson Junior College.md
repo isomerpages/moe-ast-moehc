@@ -94,7 +94,7 @@ Latin for ‘Not for Myself Alone’
 #### **School Crest**
 <img src="/images/andersonjc1.png" style="width:30%;margin-right:15px;" align = "left">
 
-The college crest is formed from the initials of the college. The letter ‘A’, in the form of a yellow flame, symbolises the vitality and youthful aspirations of the students. The dark blue letters, ‘J’ and ‘C’, supporting the flame, symbolise the college’s support for the individual in his/her efforts to realise his/her ambition. The four circles at the base signify racial harmony, highlighting the college motto, ‘_Non Mihi Solum’ (_Latin for ‘Not for Myself Alone’).
+The college crest is formed from the initials of the college. The letter ‘A’, in the form of a yellow flame, symbolises the vitality and youthful aspirations of the students. The dark blue letters, ‘J’ and ‘C’, supporting the flame, symbolise the college’s support for the individual in his/her efforts to realise his/her ambition. The four circles at the base signify racial harmony, highlighting the college motto, ‘_Non Mihi Solum’_ (Latin for ‘Not for Myself Alone’).
 
 #### **School Song**
 **Audio, require school to upload on youtube**
