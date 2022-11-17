@@ -26,15 +26,15 @@ third_nav_title: Schools
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec6.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec5.jpg">  
 <img src="/images/andersonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec5.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec6.jpg">  
 <img src="/images/andersonsec6.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<br clear="left">
+<br clear="left"><br clear="left"><br clear="left">
 
 #### **School History**
 Founded as a primary school in 1960, Anderson became a secondary girls’ school in 1964 and a co-educational school in 1965. The school was relocated from Stevens Road to Ang Mo Kio Street 44 in 1984, and then to its present premises at Ang Mo Kio Street 53 in 1993. Anderson Secondary School was one of the first six autonomous schools in 1994, which allowed the principals to have greater autonomy in school leadership.  
@@ -106,4 +106,3 @@ Steadfast and always active<br>
 In work and in our play<br>
 So striving for a spotless reputation<br>
 We’ll keep it that way.
-
