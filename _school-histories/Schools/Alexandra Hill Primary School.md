@@ -8,6 +8,8 @@ third_nav_title: Schools
 
 ### **Alexandra Hill Primary School**
 
+<br clear="left">
+
 #### **Image Gallery**
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri2.jpg">  
 <img src="/images/alexandrahillpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -51,4 +53,3 @@ Last Serving Principal:<br>
 
 
 #### **School Song**
-
