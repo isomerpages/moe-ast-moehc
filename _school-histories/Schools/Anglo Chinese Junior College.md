@@ -87,8 +87,6 @@ The Best is Yet to Be
 
 The upper section of the crest comprises a mythical creature with a lion’s head, an eagle’s wings and a dragon’s body with claws. They represent the founding of ACS in a British colony (lion) by the American Methodist Mission (eagle) during the time of the Manchu dynasty in China (dragon). The lower section comprises the letters ‘ACS’ in red – signifying life as it bridges heaven and earth, which are represented by the two halves of blue and gold. The shield shape represents the knightly virtues of chivalry, honour, loyalty, valour and manliness.
 
-<br clear="left">
-
 The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem. 
 
 The motto, ‘The Best is Yet to Be’, has been associated with ACS for generations since former principal T.W. Hinch first used it in the foreword of the 1935 issue of the school magazine. Since then, this opening line of Robert Browning’s, ‘Rabbi ben Ezra’, has been the rallying cry of ACSians, and was incorporated into the ACS crest in 1959.
