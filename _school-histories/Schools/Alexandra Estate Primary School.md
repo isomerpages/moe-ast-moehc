@@ -7,9 +7,6 @@ third_nav_title: Schools
 <img src="/images/alexandraestatepri1.png" style="width:30%;margin-right:15px;" align = "left">
 
 ### **Alexandra Estate Primary School**
-[URL to website](https://admiraltysec.moe.edu.sg/)
-
-<br clear="left">
 
 #### **Image Gallery**
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri2.jpg">  
