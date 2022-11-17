@@ -94,9 +94,9 @@ Sincerity & Perseverance 诚毅
 The school logo resembles a flying wheel.<br>
 The sign 同 gives the school its name, Ai Tong School
 
-<br clear="left">
-
 The pair of wings symbolises the school soaring into greater heights, seeking higher aspirations and excellence.
+
+<br clear="left">
 
 The circles symbolise the cohesive spirit of the teachers and students working together towards a common goal.
 
