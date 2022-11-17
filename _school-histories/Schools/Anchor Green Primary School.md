@@ -45,7 +45,7 @@ third_nav_title: Schools
 <img src="/images/anchorgreenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<br clear="left">
+<br clear="left"><br>
 
 #### **School History**
 Anchor Green Primary School was established in December 2007 to serve the growing number of young families in the new town of Sengkang. The school opened with an enrolment of 273 students in nine classes from Primary One to Primary Three. The school has also gradually expanded on its facilities, with an indoor sports hall added in 2011 and an annex block completed under the PERI upgrading project in 2018. Upon completion of the new block, Anchor Green Primary saw its first intake of Ministry of Education kindergarten pupils in 2019.  
