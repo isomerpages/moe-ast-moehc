@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri2.jpg">  
 <img src="/images/alexandrapri2.jpg" style="width:33%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri3.jpg">  
 <img src="/images/alexandrapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri4.jpg">  
 <img src="/images/alexandrapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri5.jpg">  
 <img src="/images/alexandrapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri6.jpg">  
 <img src="/images/alexandrapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri9.jpg">  
 <img src="/images/alexandrapri9.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri7.jpg">  
 <img src="/images/alexandrapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri8.jpg">  
 <img src="/images/alexandrapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
