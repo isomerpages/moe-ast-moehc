@@ -76,6 +76,8 @@ Aspire Grow Serve
   
 The school believes that all students can and will Aspire to do their best, to Grow holistically and Serve the community by giving back to others and society.
 
+<br clear="left">
+
 #### **School Crest**
 <img src="/images/anchorgreenpri1.png" style="width:35%;margin-right:15px;" align = "left">
 
