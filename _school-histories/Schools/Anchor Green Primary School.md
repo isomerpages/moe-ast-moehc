@@ -41,7 +41,7 @@ third_nav_title: Schools
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anchorgreenpri5.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anchorgreenpri8.jpg">  
 <img src="/images/anchorgreenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
