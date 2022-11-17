@@ -26,7 +26,7 @@ third_nav_title: Schools
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch7.jpg">  
-<img src="/images/aitongsch7.jpg" style="width:29%;margin-right:15px;" align = "right">
+<img src="/images/aitongsch7.jpg" style="width:29%;margin-right:20px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch5.jpg">  
@@ -124,5 +124,3 @@ zuo ge wei lai zhu ren weng
 
 共   为   本   国   效   忠<br>
 gong wei ben guo xiao zhong
-
-
