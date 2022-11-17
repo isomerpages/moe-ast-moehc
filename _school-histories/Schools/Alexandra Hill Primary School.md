@@ -41,7 +41,7 @@ In January 2002, the school merged with Bukit Ho Swee Primary School, Henderson 
 Last Serving Principal:<br>
 \- Mrs Goh Chin Neo Eileen (1997–2001) 
 
-Related Schools: [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) \| [Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) \| [Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/) \| [Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)
+**Related Schools:** **[Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/)** \| **[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)** \| **[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)** \| **[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
 
 #### **Key Milestones**
 
