@@ -85,14 +85,59 @@ Principals:<br>
 
 #### **Key Milestones**
 
-
+|  |  |
+|:---:|---|
+| 1886 | Founding of Anglo-Chinese School at 70 Amoy Street. |
+| 1887 | Relocation to 1 Canning Rise. |
+| 1959 | Rebuilding of school. |
+| 1986 | Celebration of 100th anniversary of ACS Family. |
+| 1994 | Moved to Barker Road as the primary school section of ACS (Barker Road). |
+| 1998 | Primary school section separated from ACS (Barker Road) and rechristened ACS (Primary). |
+| 2002 | Returned to the new Barker Road campus and became a single-session school. |
+|
 
 #### **School Motto**
+The Best Is Yet to Be
 
+The school motto was incorporated into the school crest by Mr T W Hinch (Principal, 1929 – 1947)
 
 #### **School Crest**
+<img src="/images/acspri1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The upper section of the crest comprises a mythical creature with a lion’s head, an eagle’s wings and a dragon’s body with claws. They represent the founding of ACS in a British colony (lion) by the American Methodist Mission (eagle) during the time of China’s Manchu dynasty (dragon). The lower section comprises the letters ‘ACS’ in red – signifying life as it bridges heaven and earth, which are represented by the two halves of blue and gold. The shield shape represents the knightly virtues of chivalry, honour, loyalty, valour and manliness.
+
+The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem.
 
 #### **School Song**
+**Audio, require school to upload on youtube**
 
+In days of yore from western shores<br>
+Oldham – Dauntless Hero came<br>
+And planted a Beacon of Truth and Light<br>
 
+in this Island of the Main.<br>
+Here may it stand from year to year,<br>
+Emblem of grand endeavor.<br>
+The regions round echo the sound<br>
+of A.C.S. forever.
+
+(Chorus)<br>
+Sing A.C.S. forever more,<br>
+Our A.C.S. forever.<br>
+God save our Land and Heaven bless<br>
+our A.C.S. forever.<br>
+Our students hail from China's plains,<br>
+and the Land of Rising Sun.
+
+We have many sons from India's strand,<br>
+and the Islands of the Main.<br>
+Our hearts, our hopes, our aims are one;<br>
+No discord e'er will sever.<br>
+We'll stand together for the cause<br>
+of A.C.S. forever.
+
+(Repeat the Chorus)<br>
+Sing A.C.S. forever more,<br>
+our A.C.S. forever.<br>
+God save our land and heaven bless<br>
+our A.C.S. forever Heritage
