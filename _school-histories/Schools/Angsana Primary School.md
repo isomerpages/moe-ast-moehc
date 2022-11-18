@@ -53,7 +53,7 @@ Originally named Towner Road School because of its location, Griffiths School wa
 Principal:<br>
 \- Ms Foong Yin Wei (2015–present)
 
-**Related Schools:** **[Griffiths Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/)** | **[Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/)**
+**Related Schools:** **[Griffiths Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/)** \| **[Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/)**
 
 
 #### **Key Milestones**
@@ -105,4 +105,3 @@ Our School, our Joy, our Pride!
   
 Upwards Angsana, Upwards Angsana<br>
 Our School, our Joy, our Pride
-
