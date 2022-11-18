@@ -12,3 +12,21 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior2.jpg">  
+<img src="/images/acsjunior2.jpg" style="width:38%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior3.jpg">  
+<img src="/images/acsjunior3.jpg" style="width:26%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior4.jpg">  
+<img src="/images/acsjunior4.jpg" style="width:26%;margin-right:15px;" align = "left">
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior5.jpg"> 
+<img src="/images/acsjunior5.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
