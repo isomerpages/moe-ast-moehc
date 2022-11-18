@@ -49,6 +49,8 @@ third_nav_title: Schools
 <img src="/images/acspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
+<br clear="left">
+
 #### **School History**
 Anglo-Chinese School (Primary) is one of seven schools of the ACS Family, the others being ACS (Junior), ACS (Barker Road), ACS (Independent), Anglo-Chinese Junior College, ACS (International) and ACS Jakarta.  
 
