@@ -84,6 +84,8 @@ With Constancy and Purpose
 
 The school emblem is the bamboo, which symbolises greatness, nobility, distinction, purity and humility. It epitomises all that is spirited, unswerving and unyielding.
 
+<br clear="left">
+
 #### **School Song**
 **Audio, require school to upload on youtube**
 
