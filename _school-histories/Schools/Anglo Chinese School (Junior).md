@@ -45,6 +45,8 @@ third_nav_title: Schools
 <img src="/images/acsjunior8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
+<br clear="left">
+
 #### **School History**
 Anglo-Chinese School (Junior) \[ACS(J)\] is one of the seven units in the ACS Family of Schools. The all-boys ACS was founded on 1 March 1886 by Bishop William Fitzjames Oldham in a shophouse at 70 Amoy Street. Adopting a bilingual approach to education, the boys learnt English in the morning and Chinese in the afternoon. Although the school had started with only 13 students, its high quality of education made it popular and well respected in the local community. In order to cater to the rapidly increasing student population, the school moved in 1887 to larger premises on Coleman Street.   
   
@@ -129,4 +131,3 @@ Sing A.C.S. forever more,<br>
 our A.C.S. forever.<br>
 God save our land and heaven bless<br>
 our A.C.S. forever.
-
