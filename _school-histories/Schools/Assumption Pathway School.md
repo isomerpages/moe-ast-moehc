@@ -4,7 +4,7 @@ permalink: /school-histories/assumption-pathway-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/assumptionpathwaysch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/assumptionpathwaysch1.png" style="width:35%;margin-right:15px;" align = "left">
 
 ### **Assumption Pathway School**
 [URL to website](https://www.aps.edu.sg/) - may require to change in future when original website is removed
@@ -46,7 +46,7 @@ third_nav_title: Schools
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch9.jpg">  
-<img src="/images/assumptionpathwaysch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/assumptionpathwaysch9.jpg" style="width:35%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
