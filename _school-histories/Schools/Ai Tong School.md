@@ -102,6 +102,12 @@ The circles symbolise the cohesive spirit of the teachers and students working t
 
 #### **School Song**
 
+#### **School History**
+#### **Key Milestones**
+#### **School Motto**
+#### **School Crest**
+#### **School Song**
+
 **Audio, require school to upload on youtube**
 
 我    爱    爱    同    贯    彻    始    终<br>
