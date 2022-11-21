@@ -101,13 +101,6 @@ The pair of wings symbolises the school soaring into greater heights, seeking hi
 The circles symbolise the cohesive spirit of the teachers and students working together towards a common goal.
 
 #### **School Song**
-
-#### **School History**
-#### **Key Milestones**
-#### **School Motto**
-#### **School Crest**
-#### **School Song**
-
 **Audio, require school to upload on youtube**
 
 我    爱    爱    同    贯    彻    始    终<br>
@@ -130,3 +123,22 @@ zuo ge wei lai zhu ren weng
 
 共   为   本   国   效   忠<br>
 gong wei ben guo xiao zhong
+
+#### **School History**
+
+
+#### **Key Milestones**
+
+|  |  |
+|:---:|---|
+|  |  |
+|  |  |
+
+#### **School Motto**
+
+
+#### **School Crest**
+
+
+#### **School Song**
+**Audio, require school to upload on youtube**
