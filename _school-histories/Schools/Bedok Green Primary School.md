@@ -68,23 +68,44 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 2002 | Bedok Green Primary School was established from the merger of Bedok View Primary School and Bedok South Primary School. |
+| 2003 | The school was officially opened by Professor S. Jayakumar. |
+| 2010 | Minister for Education, Dr Ng Eng Hen, conducted a Ministerial visit to the school. |
+| 2011 | The school conducted her 10th anniversary celebrations. |
+| 2016 | The school conducted her 15th anniversary celebrations. |
+| 2016 | The school’s newly-formed Junior Alumni Club was launched. |
+| 2017 | The school’s infrastructure and facilities were fully upgraded under MOE’s Primary Education Review and Implementation (PERI) plan. |
+| 2017 | The school’s Community Garden was officially launched. |
 |
 
 #### **School Motto**
-
+Persevere and Succeed
 
 #### **School Crest**
+<img src="/images/bedokgreenpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The eight rows in the open book represent the school striving to achieve the eight Desired Outcomes of Education. The lighted torch stands for a passion for continuous learning. The two leaves underscore the school’s belief in the importance of being green and protecting the environment. The motto within the school crest embodies the guiding principle for each and every BGPian to abide by. In its entirety, the BGPS School Crest serves as a pledge for all students to be empowered in their learning and to be persons of strength and character.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+We, in Bedok Green Primary<br>
+We always strive to do our best<br>
+We learn and play together<br>
+And work hard as a team<br>
+Persevere and we will succeed
+  
+Strive we must for excellence<br>
+To nation give the best we can<br>
+We’re proud of school and country<br>
+We pledge our loyalty<br>
+Persevere and we will succeed
+  
+Chorus<br>
+Here we can build a future<br>
+A people with compassion and a heart<br>
+Be creative in our work and play<br>
+Together hand in hand in perfect harmony<br>
+Persevere and succeed<br>
+We believe in our dreams<br>
+Be a vibrant learning community
