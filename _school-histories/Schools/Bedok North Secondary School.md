@@ -76,23 +76,39 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1981 | Establishment of Bedok North Secondary School at Bedok North Avenue 3. |
+| 1983 | Official opening of Bedok North Secondary School. |
+| 1999 | Move to Jalan Damai campus. |
+| 2001 | Official opening of Jalan Damai campus. |
+| 2011 | Launch of Eunos Heritage Trail and Heritage Corner Open House. |
+| 2017 | Celebration of 36th anniversary. |
+| 2018 | Merger with Damai Secondary School to become the present Damai Secondary School. |
 |
 
 #### **School Motto**
-
+Learn and Serve
 
 #### **School Crest**
+<img src="/images/bedoknorthsec1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The school crest is in beige and maroon colours. The five digits of the hand symbolise the five desired outcomes for the students: strive for excellence, encourage experimentation, rejoice in doing good, value diversity and embrace life-long learning. Starting from a common base, each student endeavours towards different heights of achievement. Each digit leads to a circle representing a goal that the student sets for himself/herself.
+
+In addition, the five digits and the hand symbolise the six school values: resilience, respect, responsibility, integrity, care, and working together in harmony. The logo also resembles books on a shelf, hence symbolising learning and knowledge.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Let us in Bedok North<br>
+prepare to serve our nation.<br>
+Our country needs each one of us<br>
+to give her of his best.<br>
+So let us strive to do our best<br>
+to learn to work as a team.<br>
+Experimenting with new ideas,<br>
+learning, sharing, growing.<br>
+We must learn the skills and values<br>
+our city state most needs.<br>
+To achieve progress and happiness<br>
+and win the race with time.<br>
+All these and more we plan to do<br>
+right here in Bedok North.
