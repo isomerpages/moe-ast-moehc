@@ -123,22 +123,3 @@ zuo ge wei lai zhu ren weng
 
 共   为   本   国   效   忠<br>
 gong wei ben guo xiao zhong
-
-#### **School History**
-
-
-#### **Key Milestones**
-
-|  |  |
-|:---:|---|
-|  |  |
-|  |  |
-
-#### **School Motto**
-
-
-#### **School Crest**
-
-
-#### **School Song**
-**Audio, require school to upload on youtube**
