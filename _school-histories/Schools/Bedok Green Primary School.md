@@ -82,7 +82,7 @@ Principals:<br>
 Persevere and Succeed
 
 #### **School Crest**
-<img src="/images/bedokgreenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/bedokgreenpri1.png" style="width:23%;margin-right:15px;" align = "left">
 
 The eight rows in the open book represent the school striving to achieve the eight Desired Outcomes of Education. The lighted torch stands for a passion for continuous learning. The two leaves underscore the school’s belief in the importance of being green and protecting the environment. The motto within the school crest embodies the guiding principle for each and every BGPian to abide by. In its entirety, the BGPS School Crest serves as a pledge for all students to be empowered in their learning and to be persons of strength and character.
 
