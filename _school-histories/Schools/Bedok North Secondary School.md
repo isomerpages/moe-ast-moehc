@@ -92,6 +92,8 @@ Learn and Serve
 
 The school crest is in beige and maroon colours. The five digits of the hand symbolise the five desired outcomes for the students: strive for excellence, encourage experimentation, rejoice in doing good, value diversity and embrace life-long learning. Starting from a common base, each student endeavours towards different heights of achievement. Each digit leads to a circle representing a goal that the student sets for himself/herself.
 
+<br clear="left">
+
 In addition, the five digits and the hand symbolise the six school values: resilience, respect, responsibility, integrity, care, and working together in harmony. The logo also resembles books on a shelf, hence symbolising learning and knowledge.
 
 #### **School Song**
