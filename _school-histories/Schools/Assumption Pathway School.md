@@ -13,11 +13,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch2.png">  
 <img src="/images/assumptionpathwaysch2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch3.png">  
 <img src="/images/assumptionpathwaysch3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
