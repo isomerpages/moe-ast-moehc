@@ -6,7 +6,7 @@ third_nav_title: Schools
 ---
 <img src="/images/balestierhillpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
-### **Admiralty Primary School**
+### **Balestier Hill Primary School**
 
 <br clear="left">
 
@@ -96,6 +96,8 @@ Gold represents PURITY and EXCELLENCE<br>
 Blue represents FOUNTAIN OF KNOWLEDGE<br>
 Green represents
 YOUTHFULNESS and VIGOUR
+
+<br clear="left">
 
 Shapes :<br>
 Shield - Symbol of Honour<br>
