@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Schools
 ---
 <img src="/images/balestierhilleastpri1.png" style="width:20%;margin-right:15px;" align = "left">
-![](/images/balestierhilleastpri1.png)
+
 ### **Balestier Hill East Primary School**
 
 <br clear="left">
