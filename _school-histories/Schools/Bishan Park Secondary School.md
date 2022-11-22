@@ -59,23 +59,47 @@ Related School: [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplify
 
 |  |  |
 |:---:|---|
-| 1993 |  |
-| 1996 |  |
-| 2004 |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1993 | Establishment of Bishan Park Secondary School. |
+| 1996 | Official opening of Bishan Park Secondary School. |
+| 2004 | Recognised as S7 Cluster Centre of Excellence for Visual Arts. |
+| 2009 | Recognised as Centre of Learning for Visual Arts. |
+| 2013 | Accorded niche status in Holistic Arts Programme. |
+| 2014 | Staging of the musical, Oeuvre VII, in conjunction with the school’s 21st anniversary celebration. |
+| 2014 | Accorded Applied Learning Programme - Broadcast Journalism, and Learning for Life Programme - Holistic Arts Programme. |
+| 2017 | Homecoming dinner and celebration. |
+| 2018 | Merger with Peirce Secondary School. |
 |
 
 #### **School Motto**
-
+Reach and Excel
 
 #### **School Crest**
+<img src="/images/bishanparksec7.png" style="width:20%;margin-right:15px;" align = "left">
 
+The central symbol, in the form of a directional arrow, epitomises the students’ spirit of working creatively and unyieldingly to excel. The three rings symbolise the close collaborative efforts of parents, students and teachers to enable the students to reach and excel. The logo exhorts the students to push themselves to the utmost limit of their potential and strive for excellence.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Here where we are nurtured<br>
+And tended with loving care<br>
+That we may grow from day to day<br>
+Hardy, resilient, persevering, wise<br>
+Whether at work or play<br>
+We'll be the best in every way
+
+Chorus:<br>
+Youthful and vigorous<br>
+BPS will always be<br>
+BPSians, come on strive<br>
+To reach and excel<br>
+Towards greater heights
+
+Imbue us with virtue<br>
+Help us be sincere<br>
+Let's be courteous and respectful<br>
+Generous, caring our commitments too<br>
+Come pledge honour and loyalty<br>
+To our school and our country
+
+Chorus
