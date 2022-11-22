@@ -60,7 +60,7 @@ Last Serving Principal:<br>
 Thoughts Into Deeds
 
 #### **School Crest**
-<img src="/images/bedoknorthpri1.png" style="width:23%;margin-right:15px;" align = "left">
+<img src="/images/bedoknorthpri1.png" style="width:22%;margin-right:15px;" align = "left">
 
 The **school colours** are dark green and gold.<br>
 The **circle** symbolises unity of the different races in the school.<br>
