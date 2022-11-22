@@ -100,7 +100,9 @@ Beacon “SHINE’ (an acronym of the five core values) rallies the Beacon commu
 #### **School Crest**
 <img src="/images/beaconpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
-The school crest symbolises the school philosophy and directions. The school crest in the shape of a shield symbolizes strength and the school’s commitment to nurture the whole child.   
+The school crest symbolises the school philosophy and directions. The school crest in the shape of a shield symbolizes strength and the school’s commitment to nurture the whole child.
+
+<br clear="left">
   
 The crest consists of a beacon with five brilliant rays in golden yellow serving as the guiding light.  The rays signify the school’s desired outcomes to be a **Contributor, Connector, Constructor, Conductor and Confident Learner.**  
   
