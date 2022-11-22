@@ -24,7 +24,7 @@ third_nav_title: Schools
 <img src="/images/bhwps4.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bhwps5.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bhwps5.png">  
 <img src="/images/bhwps5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
