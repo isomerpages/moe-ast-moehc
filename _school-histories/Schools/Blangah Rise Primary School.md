@@ -99,3 +99,22 @@ The bright yellow background indicates a bright future for the students of the s
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+We are steadfast in our aim<br>
+We shall rise above the others is our claim<br>
+We trust in our dream<br>
+United as a team!<br>
+United as a team!
+  
+Blangah Rise, Blangah Rise<br>
+We sing it with one heart, together<br>
+We shall strive, we shall rise!<br>
+Steadfast and glorious forever!
+  
+We are loyal in our quest<br>
+And with passion we shall learn to be our best!<br>
+This school is our choice<br>
+Proclaim it with one voice!<br>
+Proclaim it with one voice!
+  
+(Chorus)
