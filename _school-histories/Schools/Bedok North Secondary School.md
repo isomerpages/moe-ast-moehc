@@ -6,8 +6,7 @@ third_nav_title: Schools
 ---
 <img src="/images/bedoknorthsec1.png" style="width:20%;margin-right:15px;" align = "left">
 
-### **Admiralty Primary School**
-[URL to website](https://admiraltypri.moe.edu.sg/) - may require to change in future when original website is removed
+### **Bedok North Secondary School**
 
 <br clear="left">
 
@@ -45,8 +44,8 @@ third_nav_title: Schools
 <img src="/images/bedoknorthsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec9.jpg">  
-<img src="/images/bedoknorthsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec10.jpg">  
+<img src="/images/bedoknorthsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
