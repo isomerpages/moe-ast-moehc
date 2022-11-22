@@ -96,6 +96,8 @@ Wisdom through Knowledge
 
 The shape of the logo represents the school’s initials, ‘BHS’. The flow of the letters interlocking at the centre signifies the school motto, ‘Wisdom through Knowledge’. The colour blue represents knowledge and profound thinking, while the bright yellow represents wisdom and success.
 
+<br clear="left">
+
 #### **School Song**
 **Audio, require school to upload on youtube**
 
