@@ -75,23 +75,43 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1977 | Establishment of Bendemeer Secondary School. |
+| 1994 | Merger with Whampoa Secondary School. |
+| 1998 | Relocation to current premises at 1 St Wilfred Road and became single-session. |
+| 2008 | Launch of NTcipate Life@Bendemeer Programme. |
+| 2013 | Launch of National War and Diplomacy Card Game. |
+| 2015 | Accorded Applied Learning Programme, ‘Making Health Science Alive through Authentic Problem-based Learning’. |
+| 2016 | Accorded Learning for Life Programme, ‘Developing Student Leadership through Service Learning’. |
+| 2017 | Launch of School Heritage Gallery as part of the school’s 40th anniversary. |
+| 2019 | Pilot school for 1:1 Computing Programme with ETD. |
 |
 
 #### **School Motto**
-
+From Each His Best
 
 #### **School Crest**
+<img src="/images/bendemeersec1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The oval shape represents steadfastness and persistence. The colours blue and gold signify unity in harmony, and intellectual strength and moral courage, respectively.
+
+<br clear="left">
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Bendemeer a beacon in our lives,<br>
+where we live in perfect harmony,<br>
+Bendemeer, always in our hearts,<br>
+it's our home that we love and cherish<br>
+From each his best,<br>
+We will do no less,<br>
+We will take things in our stride,<br>
+Bendemeer, forever you'll be our pride.
+
+Bendemeerians, learners for life,<br>
+we can make a difference in this age,<br>
+we are willing to work and serve, for our family, school and nation.<br>
+From each his best,<br>
+we will do no less,<br>
+we will take things in our stride,<br>
+Bendemeer forever you’ll be our pride.
