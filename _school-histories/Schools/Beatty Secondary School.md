@@ -107,6 +107,8 @@ The motto is Latin for ‘Not With Force But With Skill’_._ The phrase was de
 
 The colours on the crest, which are the colours of Admiral Earl David Beatty, symbolise unity. The beehive, surrounded by buzzing bees, is derived from Admiral Beatty’s coat of arms. The school crest symbolises the hard work that has to be put in to achieve success.
 
+<br clear="left">
+
 #### **School Song**
 **Audio, require school to upload on youtube**
 
