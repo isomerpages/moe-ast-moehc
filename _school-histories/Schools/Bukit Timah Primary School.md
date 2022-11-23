@@ -67,14 +67,48 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1984 | Establishment of Bukit Batok Primary School from the merger of Bukit Batok East Primary School and Bukit Batok West Primary School. |
+| 2001 | Relocation of school to Lorong Kismis with a new name “Bukit Timah Primary School”. |
+| 2003 | Official opening of Bukit Timah Primary School. |
+| 2010 | Celebration of 10th anniversary under the name of Bukit Timah Primary School – commemorated with a magazine “Dare to Dream”. |
+| 2013 | Awarded niche programme for Music. |
+| 2014 | Accorded Applied Learning Programme for Inquiry-based Learning – Thinking Routines. |
+| 2015 | Renamed niche programme to Learning for Life Programme – Music Around Us. |
+|
 
 #### **School Motto**
-
+Strive for the Best
 
 #### **School Crest**
+<img src="/images/bukittimahpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The school crest consists of a human figure with outstretched arms, and a peak of excellence balancing a circle of all roundness against a blue background.  
+  
+The blue background denotes the depth of the oceans and the learning offers. Gold symbolizes the richness that will be experienced when the peak of excellence is attained.  
+  
+The human figure stands for a person robust in mind and body as he balances academic and CO-curricular achievements in the course of his education.  
+  
+Together, they depict Bukit Timah Primary School’s Motto – STRIVE FOR THE BEST
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Bukit Timah School we honour you,<br>
+Ready to do the best that is due.<br>
+In work and play let us unite,<br>
+And always try to do what’s right.
+
+Our pledge to Bukit Timah School<br>,
+We vow to give our best to you.<br>
+Ready to serve and show our zest,<br>
+Unite and STRIVE FOR THE BEST.
+
+With all our hearts we sing to you,<br>
+And beat the record we’ll always do.<br>
+The lessons, which we learnt from you,<br>
+We’ll treasure all our whole lives through.
+
+Our pledge to Bukit Timah School,<br>
+We vow to give our best to you.<br>
+Ready to serve and show our zest,<br>
+Unite and STRIVE FOR THE BEST.
