@@ -4,7 +4,7 @@ permalink: /school-histories/cantonment-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/admps.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/cantonmentpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Cantonment Primary School**
 [URL to website](http://www.cantonmentpri.moe.edu.sg/) - may require to change in future when original website is removed
@@ -14,15 +14,15 @@ third_nav_title: Schools
 #### **Image Gallery**
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
-<img src="/images/ahmadibrahimpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cantonmentpri.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
-<img src="/images/ahmadibrahimpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cantonmentpri.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
-<img src="/images/ahmadibrahimpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/cantonmentpri.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
