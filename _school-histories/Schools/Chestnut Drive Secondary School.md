@@ -12,40 +12,40 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec2.jpg">  
+<img src="/images/chestnutdrivesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec3.jpg">  
+<img src="/images/chestnutdrivesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec4.jpg">  
+<img src="/images/chestnutdrivesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec5.jpg">  
+<img src="/images/chestnutdrivesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
-<img src="/images/chestnutdrivesec.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec6.jpg">  
+<img src="/images/chestnutdrivesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec7.jpg">  
+<img src="/images/chestnutdrivesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec8.jpg">  
+<img src="/images/chestnutdrivesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec9.jpg">  
+<img src="/images/chestnutdrivesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
@@ -80,15 +80,15 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1968 |  |
-| 1969 |  |
-| 1987 |  |
-| 1988 |  |
-| 1998 |  |
-| 2002 |  |
-| 2005 |  |
-| 2014 |  |
-| 2016 |  |
+| 1968 | Establishment of Chestnut Drive Secondary School on 4 January. |
+| 1969 | Official opening of Chestnut Drive Secondary School on 12 June. |
+| 1987 | Integration of Chinese and English streams. |
+| 1988 | Conversion from double session to single session. |
+| 1998 | Celebration of 30th anniversary. |
+| 2002 | Symbolic walk from old campus to new campus on 1 August. |
+| 2005 | Official opening of new campus on 9 July. |
+| 2014 | Designated as Microsoft Mentor School. |
+| 2016 | Merger with Fajar Secondary School to become the present Fajar Secondary School. |
 |
 
 #### **School Motto**
