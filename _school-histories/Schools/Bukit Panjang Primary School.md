@@ -59,6 +59,7 @@ From a humble beginning of two classes, the school grew from strength to strengt
 In 1948, the principal, Mr C.A. Peterson, took office. He left in 1951 and was succeeded by Mr Wee Loh Siew. By then, the student enrolment had increased to 350.   
   
 To cope with the increasing demand for places, the Bukit Panjang Government Afternoon School was opened in July 1952, with an initial enrolment of 112. During this period, the school published an annual magazine, which now provides an invaluable record of the school in the 1950s. The school’s legacy lives on today with its annual newsletter and commemorative anniversary magazines.  
+
 Principals:<br>
 \- Mrs Downe (1932)<br>
 \- Ms Alvis (1932–1941)<br>
