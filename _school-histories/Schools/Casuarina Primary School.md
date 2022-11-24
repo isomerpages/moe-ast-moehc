@@ -62,7 +62,7 @@ Principals:<br>
 \- Ms Albuquerque Karen Anne (2015–2018)<br>
 \- Mrs Pek Kwee Lan (2019–present)
 
-**Related School:** [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) 
+**Related School:** **[Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/)** 
 
 #### **Key Milestones**
 
