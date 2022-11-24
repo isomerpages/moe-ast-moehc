@@ -44,7 +44,7 @@ The school merged with Guangyang Secondary School in 2006.
 Last Serving Principal:<br>
 \- Mdm Woon Meen Faye Catherine (Mrs Catherine Seah) (2003 - 2005)
 
-**Related School:** [Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/)
+**Related School:** **[Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/)**
 
 #### **Key Milestones**
 
