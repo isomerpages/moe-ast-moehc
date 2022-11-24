@@ -7,8 +7,7 @@ third_nav_title: Schools
 <img src="/images/cantonmentpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Cantonment Primary School**
-[URL to website](http://www.cantonmentpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](http://www.cantonmentpri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
