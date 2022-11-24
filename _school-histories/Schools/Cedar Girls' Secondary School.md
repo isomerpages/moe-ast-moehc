@@ -6,7 +6,7 @@ third_nav_title: Schools
 ---
 <img src="/images/cedargirlssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-### **school nameCedar Girls' Secondary School**
+### **Cedar Girls' Secondary School**
 [URL to website](http://www.cedargirlssec.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
