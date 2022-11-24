@@ -42,7 +42,7 @@ third_nav_title: Schools
 <img src="/images/bengwanpri8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri9.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri9.jpeg">  
 <img src="/images/bengwanpri9.jpeg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
