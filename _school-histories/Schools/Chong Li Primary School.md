@@ -77,6 +77,8 @@ Care and Loyalty
 
 The stylised letters “C” and “L” on the crest represent the school name, and signify the school motto, Care and Loyalty.
 
+<br clear="left">
+
 #### **School Song**
 Let’s sing in praise of Chong Li Primary<br>
 Just like that is all we care<br>
