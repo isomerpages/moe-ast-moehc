@@ -22,7 +22,7 @@ third_nav_title: Schools
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri4.jpg">  
-<img src="/images/casuarinapri4.jpg" style="width:30%;margin-right:5px;" align = "right">
+<img src="/images/casuarinapri4.jpg" style="width:30%;margin-right:20px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri5.jpg">  
