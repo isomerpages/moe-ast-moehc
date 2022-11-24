@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri2.png">  
 <img src="/images/boonkengpri2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri3.png">  
 <img src="/images/boonkengpri3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri4.png">  
 <img src="/images/boonkengpri4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri5.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri5.png">  
 <img src="/images/boonkengpri5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri6.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri6.png">  
 <img src="/images/boonkengpri6.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -46,7 +46,7 @@ On 2 January 2002, Boon Keng Primary School and May Primary School merged to bec
 Last Serving Principal:<br>
 \- Mr Mohd Mansor Bin Shaik A Kadir (1999 - 2001)
 
-**Related Schools:** [May Primary School]() \| [Farrer Park Primary School]()
+**Related Schools:** **[May Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/)** \| **[Farrer Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/)**
 
 #### **Key Milestones**
 
