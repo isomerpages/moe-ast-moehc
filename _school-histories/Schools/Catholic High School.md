@@ -4,7 +4,7 @@ permalink: /school-histories/catholic-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/catholichighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/catholichighsch1.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 ### **Catholic High School**
 [URL to website](https://catholichigh.moe.edu.sg/school/) - may require to change in future when original website is removed
@@ -109,7 +109,7 @@ Honesty: One who wishes to attain a whole personality ought to be honest, faithf
 Service: The ability to serve springs from one’s recognition of being part of a community and one’s responsibility to his fellow human beings.
 
 #### **School Crest**
-<img src="/images/catholichighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/catholichighsch1.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 The colour blue symbolises the infinite and boundless universe in which Man is free to think and choose how best to spend one’s time developing character as an individual who does not wall another off from the community, and simultaneously does not suffocate one’s own individuality. A person’s entity in humanity is a lesson of good faith guided by trust in God.
 
