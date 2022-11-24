@@ -52,7 +52,7 @@ Principals:<br>
 \- Mr Loke Kay Khee (2003–2008)<br>
 \- Mr Ang Hwee Khoon (2009–2010)
 
-Related School: [Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/)
+**Related School:** **[Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/)**
 
 #### **Key Milestones**
 
