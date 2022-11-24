@@ -70,7 +70,7 @@ Principals:<br>
 \- Mr Sim Chong Boon (2012–2016)<br>
 \- Mr Timothy Cheng (2017–present)
 
-**Related Schools:** **[Delta Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-sec/)** | **[Henderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-sec/)**
+**Related Schools:** **[Delta Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-sec/)** \| **[Henderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-sec/)**
 
 #### **Key Milestones**
 
