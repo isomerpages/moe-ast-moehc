@@ -87,7 +87,7 @@ Principals:<br>
 Through School to Nation
 
 #### **School Crest**
-<img src="/images/changkatchangisec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/changkatchangisec1.jpg" style="width:50%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
