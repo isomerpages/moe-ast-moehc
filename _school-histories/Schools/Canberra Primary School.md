@@ -77,7 +77,7 @@ Principals:<br>
 In pursuit of Excellence
 
 #### **School Crest**
-<img src="/images/canberrapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/canberrapri1.png" style="width:25%;margin-right:15px;" align = "left">
 
 This logo depicts the school as a modern outfit, forward looking in nature and bold in outlook. The 3 stylised calligraphic strokes depict the letter "C", "P" and "S", which are also the initials of the school. Facing the letter S is a sphere representing a globe. The globe represents the long-term goal of the school.
 
