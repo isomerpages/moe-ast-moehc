@@ -72,7 +72,7 @@ Principals:<br>
 \- Mrs Sara de Souza (2013–2018)<br>
 \- Mr Chua Choon Hock (2019–present)
 
-**Related School:** [MacPherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/)
+**Related School:** **[MacPherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/)**
 
 #### **Key Milestones**
 
