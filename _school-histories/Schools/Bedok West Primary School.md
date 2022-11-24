@@ -30,8 +30,8 @@ third_nav_title: Schools
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpr6.jpg">  
-<img src="/images/bedokwestpr6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri6.jpg">  
+<img src="/images/bedokwestpri6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri7.jpg">  
