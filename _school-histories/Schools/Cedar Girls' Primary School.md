@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img src="/images/cedargirlspri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Cedar Girls' Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) - may require to change in future when original website is removed
+[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
