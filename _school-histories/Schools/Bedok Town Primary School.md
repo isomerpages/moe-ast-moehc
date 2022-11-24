@@ -48,7 +48,7 @@ In January 2001, Bedok Town Primary School merged with Telok Kurau Primary Schoo
 Last Serving Principal:<br>
 \- Mrs Tan Khar Quek (1989-1995)
 
-**Related School:** [Telok Kurau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/)
+**Related School:** **[Telok Kurau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/)**
 
 #### **Key Milestones**
 
