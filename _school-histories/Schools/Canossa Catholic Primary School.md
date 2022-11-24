@@ -7,8 +7,7 @@ third_nav_title: Schools
 <img src="/images/canossacatholicpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Canossa Catholic Primary School**
-[URL to website](http://canossaconventpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](http://canossaconventpri.moe.edu.sg/) **broken link**
 <br clear="left">
 
 #### **Image Gallery**
