@@ -16,12 +16,12 @@ third_nav_title: Schools
 <img src="/images/braddellwestlakesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec3.jpg">  
-<img src="/images/braddellwestlakesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec4.jpg">  
+<img src="/images/braddellwestlakesec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec4.jpg">  
-<img src="/images/braddellwestlakesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec3.jpg">  
+<img src="/images/braddellwestlakesec3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
 <br clear="left">
