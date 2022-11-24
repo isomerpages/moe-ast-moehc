@@ -47,7 +47,7 @@ Principals:<br>
 \- Mdm Tan Siew Woon Jennifer (2008–2010)<br>
 \- Mr Chia Chor Yann (2011–2016)
 
-Related School: [Chai Chee Secondary School]() | [Ping Yi Secondary School]()
+**Related School:** **[Chai Chee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chai-chee-sec/)** \| **[Ping Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pingyi-sec/)**
 
 #### **Key Milestones**
 
