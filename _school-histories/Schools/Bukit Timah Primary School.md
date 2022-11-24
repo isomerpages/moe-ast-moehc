@@ -26,7 +26,7 @@ third_nav_title: Schools
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri7.jpg">  
-<img src="/images/bukittimahpri7.jpg" style="width:30%;margin-right:20px;" align = "right">
+<img src="/images/bukittimahpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri6.jpg">  
