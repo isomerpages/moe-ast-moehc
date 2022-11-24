@@ -39,7 +39,7 @@ In 1998, Bukit Merah Primary School merged with Alexandra Hill Primary School an
 Excellence
 
 #### **School Crest**
-<img src="/images/bukitmerahpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/bukitmerahpri1.jpg" style="width:25%;margin-right:15px;" align = "left">
 
 The turquoise blue frame signifies the neighbourhood which Bukit Merah Primary School is serving.
 
