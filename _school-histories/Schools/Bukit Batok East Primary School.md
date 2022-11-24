@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img src="/images/bukitbatokeastpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Bukit Batok East Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-)
+[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
