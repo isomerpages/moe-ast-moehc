@@ -55,6 +55,8 @@ Behold The Light
 
 The colour **red** is symbolic of universal brotherhood and equality, and the colour **white** signifies purity in thoughts and actions. The colours coincide with the national colours of Singapore, as the future and aspirations of the school are intertwined with those of the nation.
 
+<br clear="left">
+
 The **four parallel wavy lines** represent the four races striving together with equal opportunity to attain knowledge, which is symbolised by the light of the torch.
 
 #### **School Song**
