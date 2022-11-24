@@ -58,7 +58,7 @@ In 2003, Charlton School merged with Xinghua Primary School.
 Last Serving Principal:<br>
 \- Mr Abdul Rahman Ibrahim (1997–2002)
 
-Related School: [Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/)
+**Related School:** **[Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/)**
 
 #### **Key Milestones**
 
