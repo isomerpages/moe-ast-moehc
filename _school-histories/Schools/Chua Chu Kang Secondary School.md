@@ -70,25 +70,53 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1992 | Establishment of Chua Chu Kang Secondary School. |
+| 1993 | Enrolment of pioneer batch of students. |
+| 1995 | Official opening of Chua Chu Kang Secondary School. |
+| 2005 | Mass participation in the 40th National Day Parade performance segment. |
+| 2010 | Participation in the Inaugural Youth Olympic Games opening ceremony. |
+| 2011 | Participation in the 3rd ASEAN School Games opening ceremony. |
+| 2014 | Accorded the Learning for Life Programme in student leadership development. |
+| 2016 | Accorded the Applied Learning Programme in robotics and automation. |
+| 2017 | A Facelift! Transforming Spaces for Holistic Development. |
+| 2018 | Celebration of silver jubilee with the theme, ‘Cherishing the Past, Creating the Future’. |
 |
 
 #### **School Motto**
-
+Serve, Grow, Excel
 
 #### **School Crest**
+<img src="/images/ccksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The circular shape of the school crest signifies the school’s commitment to providing an all-round education. The book signifies the school’s emphasis on the passion for learning. The balanced weights signify the balance between the intellectual and other domains of development. The torch represents the Chua Chu Kang Secondary School spirit captured in the school motto, ‘Serve, Grow and Excel’. The colour green represents the growth and vitality of the school.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+In joy we celebrate our school,<br>
+To praise its honoured name.<br>
+As term by term and year by year<br>
+We aim to play the game.
+
+**Chorus:**<br>
+Serve, Grow, Excel,<br>
+Our motto for success.<br>
+Brings the honours home,<br>
+To our dear CCKS.
+
+Serve, serve with hearts sincere<br>
+Our school and nation fine.<br>
+Serving others before ourselves,<br>
+Let our spirit shine!
+
+**Chorus**<br>
+Grow, grow so pure and strong<br>
+In body, heart and mind.<br>
+Reaping rewards where we have sown,<br>
+Life's treasures we shall find!
+
+**Chorus**<br>
+Excelling at our work deserves,<br>
+Excelling at our play.<br>
+Raise our aims and score our goals,<br>
+Excel in every way!
