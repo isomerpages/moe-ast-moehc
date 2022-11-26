@@ -67,23 +67,47 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1962 |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1962 | Establishment of Dunearn Government Chinese Middle School. |
+| 1969 | Merger with Dunearn Vocational School and renamed as Dunearn Secondary School. |
+| 1986 | Phasing out of the Chinese stream. |
+| 1993 | Relocation to current premises at 21 Bukit Batok West Avenue 2. |
+| 1994 | Phasing out of the three-year pre-university course. |
+| 2012 | Celebration of 50th anniversary. |
+| 2014 | Accorded Applied Learning Programme in food science and technology and Learning for Life Programme in community youth leadership. |
+| 2016 | Relocation to 247 Jalan Boon Lay for PRIME upgrading. |
+| 2018 | Return to upgraded campus at 21 Bukit Batok West Avenue 2. |
 |
 
 #### **School Motto**
-
+Determined and Disciplined
 
 #### **School Crest**
+<img src="/images/dunearnsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+Originally designed by Mr Ang Oo Seng, one of the school’s longest-serving pioneer teachers, the stylised flame in the centre of the badge symbolises the school as a place of learning and enlightenment. The flame also subtly depicts the letters ‘DSS’, which stand for the school name. The three panels forming the background represent the support given by School Advisory Committee members, staff, and parents of the students. The polished diamond represents each student of Dunearn developed to his/her full potential.
+
+The three school colours of red, blue and gold stand respectively for the passion and enthusiasm for learning; discipline and steadfastness in character; and the ultimate target of the school’s endeavours.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+As I enter Dunearn’s gates<br>
+My heart swells up<br>
+With pride and hope<br>
+This is where I work and play<br>
+It’s the place that helps me grow
+
+Determined and disciplined<br>
+Our watchwords for success<br>
+We will always do our best<br>
+To bring glory to our school
+
+In Dunearn we care and share with one another<br>
+We strive to gain knowledge and skills<br>
+We face all challenges<br>
+We endure all pressures<br>
+Overcome all obstacles<br>
+United as a team<br>
+From Dunearn we will emerge responsible and confident<br>
+We’re determined and disciplined<br>
+We’re Dunearn!
