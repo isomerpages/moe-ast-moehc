@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img src="/images/dunmanhigh1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Dunman High School**
-[URL to website]() - may require to change in future when original website is removed
+[URL to website](https://dunmanhigh.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
