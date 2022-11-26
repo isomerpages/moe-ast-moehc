@@ -78,26 +78,53 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1938 |  |
-| 1973 |  |
-| 1977 |  |
-| 1984 |  |
-| 1986 |  |
-| 1988 |  |
-| 2003 |  |
-| 2009 |  |
-| 2011 |  |
-| 2014 |  |
+| 1938 | Tai Cheong School was named after its founder, Mr Chew Tai Cheong. |
+| 1973 | Mr Chai Chong Yii officially declared the school open when it moved to its new building at Track 7 Chua Chu Kang. |
+| 1977 | Mr Chai Chong Yii officially declared the school open when it moved to its new building at Track 7 Chua Chu Kang. |
+| 1984 | Converted from a Chinese village school to a Government School on 1 April 1984. |
+| 1986 | Re-sited at 35 Bukit Batok St 31 on 15 March. |
+| 1988 | Official opening of Dazhong Primary School by Mr Chai Chong Yii, then Member of Parliament for Bukit Batok, on 8 July. |
+| 2003 | Converted to single-session. |
+| 2009 | Relocated to Jurong East St 24 in December for PRIME upgrading. |
+| 2011 | Shifted back to its Bukit Batok site in December, equipped with the latest physical facilities after PERI upgrading. |
+| 2014 | The first batch of MOE Kindergarten was set up at Dazhong Primary School – MK@Dazhong. The school had its official opening ceremony on 1 August 2014. |
 | 2016 | The one and only Junior Orchestra in Singapore Primary Schools was set up in Dazhong Primary School in October 2016. |
 | 2018 | Celebration of 80th anniversary with two major events: musical concert, Dare to Soar, on 4 August 2018; and Family Day Carnival-cum-Alumni Homecoming on 18 August 2018. |
 | 2020 | Since its inception in 2016, the only Junior Orchestra in Singapore Primary school grew in strength to 100 members in May 2020. |
 |
 
 #### **School Motto**
-
+With Pride We Excel
 
 #### **School Crest**
+<img src="/images/dazhongpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The 8 points of the compass symbolise that knowledge is everywhere and waiting to be acquired by us.<br>
+The rings depict progress as we acquire knowledge.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Verse 1:<br>
+We, at Dazhong, strive to be<br>
+The best that we can be<br>
+Always gracious and caring<br>
+Serving others beyond ourselves
+
+Chorus:<br>
+Anchored in the values we believe<br>
+With pride we excel<br>
+Soaring beyond limits<br>
+In unity and with perseverance
+
+Verse 2:<br>
+We, at Dazhong, strive to be<br>
+The best that we can be<br>
+To bloom and grow<br>
+In our stride towards our goals
+
+Chorus:<br>
+Anchored in the values we believe<br>
+With pride we excel<br>
+Soaring beyond limits<br>
+In unity and with perseverance
