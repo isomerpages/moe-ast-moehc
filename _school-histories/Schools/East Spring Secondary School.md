@@ -13,6 +13,10 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastspringsec9.jpg">  
+<img src="/images/eastspringsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+</a></p>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastspringsec2.jpg">  
 <img src="/images/eastspringsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
@@ -25,11 +29,12 @@ third_nav_title: Schools
 <img src="/images/eastspringsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
+
+<br clear="left">
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastspringsec5.jpg">  
 <img src="/images/eastspringsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
-
-<br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastspringsec6.jpg">  
 <img src="/images/eastspringsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
@@ -41,10 +46,6 @@ third_nav_title: Schools
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastspringsec8.jpg">  
 <img src="/images/eastspringsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
-<img src="/images/eastspringsec.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
@@ -63,7 +64,7 @@ Principals:<br>
 \- Mr Teoh Teik Hoe (2015–2018)<br>
 \- Ms Susie Ho (2019–present)
 
-Related School: [East View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-sec/)
+**Related School: [East View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-sec/)**
 
 #### **Key Milestones**
 
