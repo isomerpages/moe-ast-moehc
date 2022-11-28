@@ -77,7 +77,9 @@ Dare to Aspire, Courage to Excel
 #### **School Crest**
 <img src="/images/fernvalepri1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-The stylised letters ‘F’ and ‘V’ that form the integral part of the school’s logo when put together represents the cross section of a fearless head of a lion.  
+The stylised letters ‘F’ and ‘V’ that form the integral part of the school’s logo when put together represents the cross section of a fearless head of a lion.
+
+<br clear="left">
   
 Courageous, bold and strong being the trademarks of a lion, it also symbolises the spirit of Fernvale Primary – “Daring and Courageous”.  
   
