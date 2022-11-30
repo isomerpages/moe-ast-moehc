@@ -40,8 +40,8 @@ third_nav_title: Schools
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
-<img src="/images/cckgovtchipri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri8.jpg">  
+<img src="/images/cckgovtchipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
