@@ -96,14 +96,49 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1885 | Establishment of Anglo-Chinese Free School in the shophouses on Telok Ayer Street. |
+| 1888 | Became an aided school. |
+| 1938 | Became a government school. |
+| 1950 | Formed the first Parent-Teacher Association in Singapore. |
+| 1986 | Became a co-educational school. |
+| 2000 | Relocation to 1 Henderson Road, marking the seventh move the school has undergone. |
+| 2014 | Accorded Learning for Life Programme, GESS Life, and Applied Learning Programme, Probes\*. |
+| 2015 | Celebration of 130th anniversary. |
+| 2015 | Creation of portraits articulating desired attributes for students, teaching and non-teaching staff. |
+|
 
 #### **School Motto**
-
+Onward
 
 #### **School Crest**
+<img src="/images/ganengsengpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The red dragon on the left stands for courage, endeavour and the everlasting fire of leadership. The Chinese junk on the right symbolises progress and the ongoing quest for peace and success. The school colours are red and green.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+In eighteen-eighty five, our founder Gan Eng Seng<br>
+Conceived the noble aim for a new breed of men<br>
+He started a free school for boys who were poor<br>
+To give them a chance to be something more<br>
+To teach them to learn, play and live at the fore<br>
+To give of their best and say forever more
+
+(Chorus)<br>
+Onward, Onward<br>
+Gan Eng Seng for Gessians<br>
+Onward, Onward<br>
+Gessians for Gan Eng Seng<br>
+The story of our school is a history of change<br>
+But truth, faith and vigour survived circumstances strange<br>
+And true to the meaning of the signs on our crest<br>
+A dragon for fire of leadership<br>
+And ship for seeking and making progress<br>
+In word and deed we vow forever more
+
+(Chorus)<br>
+Onward, Onward<br>
+Gan Eng Seng for Gessians<br>
+Onward, Onward<br>
+Gessians for Gan Eng Seng
