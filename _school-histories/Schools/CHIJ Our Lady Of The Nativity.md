@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity2.jpg">  
 <img src="/images/chijnativity2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity3.jpg">  
 <img src="/images/chijnativity3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity4.jpg">  
 <img src="/images/chijnativity4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity5.jpg">  
 <img src="/images/chijnativity5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity6.jpg">  
 <img src="/images/chijnativity6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity7.jpg">  
 <img src="/images/chijnativity7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity8.jpg">  
 <img src="/images/chijnativity8.png" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity9.jpg">  
 <img src="/images/chijnativity9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -83,7 +83,7 @@ Principals:<br>
 
 #### **School Motto**
 _Simple Dans Ma Vertu, Forte Dans Devoir (French Version)<br>
-__Simple in Virtue, Steadfast in Duty (English Version)_
+_Simple in Virtue, Steadfast in Duty (English Version)_
 
 To be **Simple in Virtue** is to cultivate a personal honesty which helps us relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel.
 
