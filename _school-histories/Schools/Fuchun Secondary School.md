@@ -4,7 +4,7 @@ permalink: /school-histories/fuchun-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fuchunsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/fuchunsec9.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Fuchun Secondary School**
 [URL to website](https://fuchunsec.moe.edu.sg/) - may require to change in future when original website is removed
