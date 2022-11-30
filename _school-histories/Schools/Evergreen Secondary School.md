@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec2.jpg">  
 <img src="/images/evergreensec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec3.jpg">  
 <img src="/images/evergreensec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec4.jpg">  
 <img src="/images/evergreensec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec5.jpg">  
 <img src="/images/evergreensec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec6.jpg">  
 <img src="/images/evergreensec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec7.jpg">  
 <img src="/images/evergreensec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/evergreensec8.jpg">  
 <img src="/images/evergreensec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
