@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri2.jpg">  
 <img src="/images/eunospri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri3.jpg">  
 <img src="/images/eunospri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri4.jpg">  
 <img src="/images/eunospri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri5.jpg">  
 <img src="/images/eunospri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri6.jpg">  
 <img src="/images/eunospri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri7.jpg">  
 <img src="/images/eunospri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri8.jpg">  
 <img src="/images/eunospri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eunospri9.jpg">  
 <img src="/images/eunospri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
