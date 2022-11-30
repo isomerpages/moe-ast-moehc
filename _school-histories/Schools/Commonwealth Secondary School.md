@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec2.jpg">  
 <img src="/images/commonwealthsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec3.jpg">  
 <img src="/images/commonwealthsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec4.jpg">  
 <img src="/images/commonwealthsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec5.jpg">  
 <img src="/images/commonwealthsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec6.jpg">  
 <img src="/images/commonwealthsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec7.jpg">  
 <img src="/images/commonwealthsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec8.jpg">  
 <img src="/images/commonwealthsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/commonwealthsec9.jpg">  
 <img src="/images/commonwealthsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
