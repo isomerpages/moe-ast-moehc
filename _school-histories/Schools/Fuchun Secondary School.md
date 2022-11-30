@@ -84,7 +84,7 @@ Principals:<br>
 True to Self
 
 #### **School Crest**
-<img src="/images/fuchunsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/fuchunsec9.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 The school crest is designed in a stylised ‘F’ to represent the name of the school and the flame of truth. The three little steps beside the flame signify that truth is not always easy to express and must therefore be taken step-by-step. The red colour of the crest symbolises courage to speak the truth.
 
