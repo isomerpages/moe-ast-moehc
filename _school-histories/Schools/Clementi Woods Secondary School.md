@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec2.jpg">  
 <img src="/images/clementiwoodssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec3.jpg">  
 <img src="/images/clementiwoodssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec4.jpg">  
 <img src="/images/clementiwoodssec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec5.jpg">  
 <img src="/images/clementiwoodssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec6.jpg">  
 <img src="/images/clementiwoodssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec7.jpg">  
 <img src="/images/clementiwoodssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec8.jpg">  
 <img src="/images/clementiwoodssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementiwoodssec9.jpg">  
 <img src="/images/clementiwoodssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -65,7 +65,7 @@ Principals:<br>
 \- Ms Low Chee Moon (2007–2014)<br>
 \- Ms Ng Ngoing Keng (2015) 
 
-Related Schools: [Ghim Moh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-sec/) \| [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) \| [Tanglin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-sec/)
+**Related Schools: [Ghim Moh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-sec/) \| [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) \| [Tanglin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-sec/)**
 
 #### **Key Milestones**
 
