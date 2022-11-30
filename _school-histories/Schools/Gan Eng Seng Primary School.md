@@ -4,141 +4,114 @@ permalink: /school-histories/gan-eng-seng-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ganengsengpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/gesps1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Gan Eng Seng Primary School**
-[URL to website](https://www.ganengsengsch.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://ganengsengpri.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri2.jpg">  
-<img src="/images/ganengsengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri3.jpg">  
-<img src="/images/ganengsengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri4.jpg">  
-<img src="/images/ganengsengpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri6.jpg">  
-<img src="/images/ganengsengpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri5.jpg">  
-<img src="/images/ganengsengpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri7.jpg">  
-<img src="/images/ganengsengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri8.jpg">  
-<img src="/images/ganengsengpri8.jpg" style="width:30%;margin-right:45px;" align = "right">
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri9.jpg">  
-<img src="/images/ganengsengpri9.jpg" style="width:30%;margin-right:15px;" align = "right">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri10.jpg">  
-<img src="/images/ganengsengpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/gesps.jpg">  
+<img src="/images/gesps10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-In 1885, Anglo-Chinese Free School was started in the shophouses of Telok Ayer Street by Mr Gan Eng Seng to offer free education to the children of poor parents in the vicinity. It became an aided school in 1888, and the school owed much to Mr Gan’s generous contribution to the new building at Telok Ayer Street in 1889. The building was opened on 4 April 1893, and the school was renamed after Mr Gan in 1923.
+Gan Eng Seng Primary School was named after the Chinese philanthropist Mr Gan Eng Seng (1844–1899). Gan Eng Seng Primary School was established from the merger of four primary schools: Alexandra Hill Primary School, Bukit Ho Swee Primary School, Henderson Primary School and Keng Seng Primary School. The school started on 2 January 2002 with more than 2,600 students spanning all six levels. The school also took in more than 100 students from a fifth school, Pearl’s Hill Primary, which had closed on 31 December 2001.
 
-Initially, English and Chinese were used to teach at Gan Eng Seng School, but it became an English-medium school in 1899. It then became a government school in 1938 and was housed temporarily in Sepoy Lines Malay School on Park Road, where it took the morning session.
+The school was officially opened on 11 September 2004. As a merger school, the initial years focused on team-building to strengthen the bond among the teachers who had come from different schools, as well as to establish the mission and vision of the school. Time was spent defining and deciding on the school identity. The teachers also wrote and designed the school song and uniform. The school song reflected what the teachers wanted students to achieve through the six years of education with the school: to be confident and resilient students who believe in themselves and the future.
 
-Gan Eng Seng School suspended operations during the Japanese occupation and reopened on 13 May 1946 after the war ended. The school operated from Waterloo Street from May 1947 and moved to Anson Road in 1951. In 1986, it relocated to a new site beside Keppel Railway Station and was officially opened on 12 July 1989. The school subsequently moved to its current site at 1 Henderson Road in 2000.
+In 2008, the principal and the staff set the next phase of school growth through a re-envisioning exercise. This marked another milestone in the school’s journey of continuous improvement: the beginning of the next stage of school excellence. The school saw the need to strengthen school pride and identity among its students. The term ‘GESPian’ was thus introduced in 2009. The  GESPian identity was articulated in four desired outcomes: engaged learner, confident individual, responsible citizen and successful contributor.
 
-The school’s Applied Learning Programme known as Probes\* develops work skills in students that would prepare them for future employment. Its Learning for Life Programme, GESS LIFE, develops students to be confident and effective community youth leaders who positively impact their community through the ‘3D’ approach: discovering oneself, developing good habits, and designing the world.
+The school places great emphasis on the students’ character development through a range of of programmes. These include the Community Involvement Programme (CIP) comprising the I-TOUCH programme. The school also provides a caring and psychosocial environment via a ‘discipline with dignity’ approach, using restorative practice. As a result, the Champs@GESPS framework was created to reward and recognise CHAMP class and individuals for demonstrating desirable GESPS traits. It focuses on Service Learning (CIP), Servant Leadership (Student Leadership Development Programme) and Active Citizenry (National Education). The school has a structured school-wide student leadership approach, which encompasses school-based leadership and class-based leadership. For its efforts, the school received the Character Development Award in 2010. It was also accorded the Sustained Achievement Award for Sports and Aesthetics from 2008 to 2010 for its co-curricular activities, and clinched a silver for the CHERISH Award in 2010.
 
-The school believes that teachers are the key catalysts for innovation and improvements in the delivery of student-centric, values-driven education. In 2017, the school embarked on a three-year journey to widen and deepen knowledge of, and conversations on, assessment principles and practices. In 2019, the school introduced alternative assessments at the lower secondary levels, as well as the inaugural Learning Fortnight, where Secondary 1 students sign up for modules that will instill the joy of learning beyond the syllabus.
-
-The school continues to work closely with parents and the community to value-add to the students’ educational and socio-emotional development. These partnerships enhance the holistic development of the students and prepare them well for the 21st century.
+To develop 21st-century competencies in its students and prepare them for life-long learning, the school’s Learning for Life Programme, ‘Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts’, emphasises the acquisition of values and life skills focusing on music and the performing arts.
 
 Principals:<br>
-\- Mr Robert Little (1895–1904)<br>
-\- Mr Ernesr J. Gomes (1905–14)<br>
-\- Mr Pagler (1914–15)<br>
-\- Mr J.A. Roberts (1915–22)<br>
-\- Mr H.A.L. Orchard (1923–38)<br>
-\- Mr G.C.S. Koch (1938)<br>
-\- Mr P.F. Aroozoo (1939–42)<br>
-\- Mr P.F. Aroozoo (1946–55)<br>
-\- Mr Soon Ban Hoe (1955)<br>
-\- Mr Peter Lim (1955–56)<br>
-\- Mr Wee Seong Kang (1957–60)<br>
-\- Mr A.G. Meyer (1960–65)<br>
-\- Mr Lee Chong Kee (1966–68)<br>
-\- Mrs Peggy Phang (1968–73)<br>
-\- Mr S. Thiagarajah (1974–76)<br>
-\- Mr Ong Kim Siong (1977–78)<br>
-\- Mr Teo Lye Huat (1979–80)<br>
-\- Mr Tan Sui Sen Robert (1981–83)<br>
-\- Mr Goh Yong Hung (1984–87)<br>
-\- Mr Eric S. Retnam (1988–94)<br>
-\- Ms Ho Peng (1995–97)<br>
-\- Mr Goh Choon Leng (1998–2002)<br>
-\- Mr Victor Giam Chong Guan (2003–08)<br>
-\- Mrs Carolin Tan (2009–14)<br>
-\- Mdm Jenny Tan (2015–2019)<br>
-\- Ms Tan Hwee Pin (2020–present)
+\- Ms Ng Soh Hua (2001–2008)<br>
+\- Mdm Thian Ai Ling (2008–2013)<br>
+\- Mr Ong Lye Whatt (2013–2019)<br>
+\- Mr Roy Lee Wei Yap (2019–present)
+
+**Related Schools: [Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) \| [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) \| [Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) \| [Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)**
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
-| 1885 | Establishment of Anglo-Chinese Free School in the shophouses on Telok Ayer Street. |
-| 1888 | Became an aided school. |
-| 1938 | Became a government school. |
-| 1950 | Formed the first Parent-Teacher Association in Singapore. |
-| 1986 | Became a co-educational school. |
-| 2000 | Relocation to 1 Henderson Road, marking the seventh move the school has undergone. |
-| 2014 | Accorded Learning for Life Programme, GESS Life, and Applied Learning Programme, Probes\*. |
-| 2015 | Celebration of 130th anniversary. |
-| 2015 | Creation of portraits articulating desired attributes for students, teaching and non-teaching staff. |
+| 2002 | Establishment of Gan Eng Seng Primary School from the merger of Alexandra Hill Primary School, Bukit Ho Swee Primary School, Henderson Primary School and Keng Seng Primary School. |
+| 2004 | Official opening of Gan Eng Seng Primary School. |
+| 2012 | Celebration of 10th anniversary. |
+| 2017 | Celebration of 15th Anniversary. |
 |
 
 #### **School Motto**
-Onward
+\-
 
 #### **School Crest**
-<img src="/images/ganengsengpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/gesps1.png" style="width:20%;margin-right:15px;" align = "left">
 
-The red dragon on the left stands for courage, endeavour and the everlasting fire of leadership. The Chinese junk on the right symbolises progress and the ongoing quest for peace and success. The school colours are red and green.
+The hand symbolises our students holding their future in their hands and the school providing a nurturing environment; protective and empowering.
+
+<br clear="left">
 
 #### **School Song**
 **Audio, require school to upload on youtube**
 
-In eighteen-eighty five, our founder Gan Eng Seng<br>
-Conceived the noble aim for a new breed of men<br>
-He started a free school for boys who were poor<br>
-To give them a chance to be something more<br>
-To teach them to learn, play and live at the fore<br>
-To give of their best and say forever more
+Verse 1:<br>
+With hands to guide us, receive and nurture us,<br>
+We will achieve so much more!<br>
+With all the love and care shown to us,<br>
+We will go forth with hearts filled with joy!
 
-(Chorus)<br>
-Onward, Onward<br>
-Gan Eng Seng for Gessians<br>
-Onward, Onward<br>
-Gessians for Gan Eng Seng<br>
-The story of our school is a history of change<br>
-But truth, faith and vigour survived circumstances strange<br>
-And true to the meaning of the signs on our crest<br>
-A dragon for fire of leadership<br>
-And ship for seeking and making progress<br>
-In word and deed we vow forever more
+Chorus:<br>
+We believe in the future before us!<br>
+We believe it is Hope before us!<br>
+Never give up, we will try,<br>
+With our hearts, with our minds!<br>
+The future's for us.
 
-(Chorus)<br>
-Onward, Onward<br>
-Gan Eng Seng for Gessians<br>
-Onward, Onward<br>
-Gessians for Gan Eng Seng
+Verse 2:<br>
+Together we walk this journey of life,<br>
+With courage and with faith!<br>
+Knowing our destiny is in our hands,<br>
+We will go on from strength to strength!
