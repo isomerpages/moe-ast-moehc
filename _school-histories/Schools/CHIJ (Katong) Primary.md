@@ -80,7 +80,7 @@ Principals:<br>
 
 #### **School Motto**
 _Simple Dans Ma Vertu, Forte Dans Devoir (French Version)<br>
-__Simple in Virtue, Steadfast in Duty (English Version)_
+_Simple in Virtue, Steadfast in Duty (English Version)_
 
 To be **Simple in Virtue** is to cultivate a personal honesty which helps us relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel.
 
