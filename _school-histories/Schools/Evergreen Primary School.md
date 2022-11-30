@@ -31,6 +31,8 @@ third_nav_title: Schools
 <img src="/images/evergreenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
+<br clear="left">
+
 #### **School History**
 Evergreen Primary was established in January 1999. The school started functioning with 22 classes of pupils from Primary One to Primary Four. It was temporarily housed in two separate campuses at Woodlands Ring Primary School and Woodlands Ring Secondary School. It then moved to its present premises on 22 March 1999, and was officially opened on 6 July 2002. The school celebrated its 10th and 20th anniversary in 2009 and 2019 respectively.
 
