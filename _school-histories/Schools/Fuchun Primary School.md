@@ -80,7 +80,7 @@ Principals:<br>
 Ever Onward
 
 #### **School Crest**
-<img src="/images/fuchunpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/fuchunpri9.png" style="width:20%;margin-right:15px;" align = "left">
 
 The school emblem is created through the fusion of F, C, P & S which stands for Fuchun Primary School.
 
