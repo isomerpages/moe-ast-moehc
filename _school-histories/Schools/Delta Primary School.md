@@ -4,7 +4,7 @@ permalink: /school-histories/delta-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/admps.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/deltapri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Delta Primary School**
 
@@ -12,8 +12,8 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
-<img src="/images/ahmadibrahimpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/deltapri2.jpg">  
+<img src="/images/deltapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
@@ -35,7 +35,7 @@ In 1990, Delta Primary School closed and the former site of the school has remai
 \-
 
 #### **School Crest**
-<img src="/images/admps.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/deltapri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
