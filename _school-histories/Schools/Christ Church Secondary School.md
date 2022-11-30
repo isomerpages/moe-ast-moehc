@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img src="/images/christchurchsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Christ Church Secondary School**
-[URL to website](https://christchurchsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://christchurchsec.moe.edu.sg/) **broken link**
 
 <br clear="left">
 
