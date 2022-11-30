@@ -6,7 +6,7 @@ third_nav_title: Schools
 ---
 <img src="/images/eastpayohsec1.png" style="width:20%;margin-right:15px;" align = "left">
 
-### **school name**
+### **East Payoh Secondary School**
 
 <br clear="left">
 
