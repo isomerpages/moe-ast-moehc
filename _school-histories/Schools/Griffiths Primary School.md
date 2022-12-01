@@ -44,7 +44,6 @@ third_nav_title: Schools
 
 <br clear="left">
 
-
 #### **School History**
 On 1 January 1950, the Department of Education (precursor of Ministry of Education) introduced a five-year plan to provide free and compulsory elementary education. Griffiths School was the first of 90 schools scheduled to be built under the plan in May 1950.
 
@@ -83,14 +82,53 @@ Principals (1988–2014)<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1988 | Establishment of the new Griffiths Primary School. |
+| 1990 | Official opening of Griffiths Primary School at Tampines Street 22. |
+| 1997 | Launch of a hydroponics greenhouse. |
+| 1999 | Visit by students of Chida Primary School from Japan. |
+| 2001 | Awarded Cherish Award (Silver) for efforts in improving overall school health. |
+| 2003 | Completion of PRIME upgrading. |
+| 2007 | Clinched second prize in National Education Animation Competition. |
+| 2008 | Inauguration of Griffiths Joy Centre, Media Production Hub and Family Life Centre. |
+| 2015 | Merger with Qiaonan Primary School to become Angsana Primary School. |
+|
 
 #### **School Motto**
-
+To Seek, to Strive, to Find
 
 #### **School Crest**
+<img src="/images/griffithspri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The torch represents the quest for knowledge, while the two arms symbolise joy and wisdom. The colour blue signifies being aspiring yet caring, and green represents the refreshing innocence of children.
+
+<br clear="left">
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+What’er it be, be it work or play<br>
+We’ll strive to do our best always<br>
+To improve ourselves to obey the rule<br>
+Fly high the flag of Griffiths school
+
+For progress, fairness, equality<br>
+To form a rugged society<br>
+With honest hears we’ll give our best<br>
+That those amongst us may be blessed
+
+Chorus:<br>
+We’ll seek<br>
+We’ll strive with all our hearts and mind<br>
+Not yield, but work<br>
+Until success we find<br>
+For love of country<br>
+Love of our school<br>
+To always mind the golden rule<br>
+To give to all a helping hand<br>
+Be one with all in this our land
+
+Chorus:<br>
+We’ll seek<br>
+We’ll strive with all our hearts and mind<br>
+Not yield, but work<br>
+Until success we find
