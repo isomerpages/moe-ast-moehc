@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Histories.md
-      - Schools/Hong Kah Secondary School.md
       - Schools/.keep
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
@@ -232,6 +231,7 @@ collections:
       - Schools/Holy Innocents' High School.md
       - Schools/Holy Innocents' Primary School.md
       - Schools/Hong Kah Primary School.md
+      - Schools/Hong Kah Secondary School.md
       - Schools/Horizon Primary School.md
       - Schools/Hougang Primary School.md
       - Schools/Hougang Secondary School.md
