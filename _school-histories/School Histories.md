@@ -1652,9 +1652,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Tanglin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT11.png" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestT12.png" style="width:25%;margin-left:85px;" align = "left">
+<img src="/images/crestT13.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1662,9 +1662,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Tanjong Katong Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-girls-sch/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT14.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestT15.png" style="width:18%;margin-left:135px;" align = "left">
+<img src="/images/crestT16.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1672,9 +1672,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Tanjong Rhu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-pri/) | [Tao Nan School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-ghee-pri/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT17.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestT18.png" style="width:15%;margin-left:145px;" align = "left">
+<img src="/images/crestT19.png" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1682,9 +1682,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Teck Whye Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-ayer-pri/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT20.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestT21.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crestT22.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1692,9 +1692,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Telok Kurau East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT23.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestT24.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestT25.jpg" style="width:18%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
