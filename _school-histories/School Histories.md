@@ -1272,9 +1272,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Peck Seah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peck-seah-pri/) | [Pei Chun Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-chun-public-sch/) | [Pei Hwa Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-hwa-presbyterian-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP14.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestP15.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestP16.png" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1282,9 +1282,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Pei Hwa Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-hwa-sec/) | [Pei Tek Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-tek-public-sch/) | [Pei Tong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-tong-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP17.jpg" style="width:18%;margin-left:55px;" align = "left">
+<img src="/images/crestP18.png" style="width:16%;margin-left:135px;" align = "left">
+<img src="/images/crestP19.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1292,9 +1292,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Peicai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peicai-sec/) | [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peirce-sec/) | [Peixin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peixin-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP20.png" style="width:17%;margin-left:75px;" align = "left">
+<img src="/images/crestP21.png" style="width:16%;margin-left:125px;" align = "left">
+<img src="/images/crestP22.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1302,9 +1302,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Peiying Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peiying-pri/) | [Permaisura Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/permaisura-pri/) | [Ping Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ping-yi-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP23.jpg" style="width:15%;margin-left:85px;" align = "left">
+<img src="/images/crestP24.jpg" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestP25.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1312,9 +1312,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Ping Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pingyi-sec/) | [Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-jc/) | [Pioneer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP26.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestP27.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestP28.png" style="width:15%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1322,9 +1322,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Pioneer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-sec/) | [Playfair School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/playfair-sch/) | [Poi Ching School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/poi-ching-sch/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP29.jpg" style="width:15%;margin-left:85px;" align = "left">
+<img src="/images/crestP30.png" style="width:17%;margin-left:135px;" align = "left">
+<img src="/images/crestP31.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
