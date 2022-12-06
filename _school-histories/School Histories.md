@@ -1572,9 +1572,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St Joseph's Institution Junior](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution-junior/) | [St Patrick's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-patrick-sch/) | [St Thomas Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-thomas-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS42.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestS43.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestS44.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1582,9 +1582,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St. Anthony's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS45.png" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestS46.png" style="width:17%;margin-left:105px;" align = "left">
+<img src="/images/crestS47.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
