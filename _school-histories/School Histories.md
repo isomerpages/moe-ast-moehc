@@ -1552,9 +1552,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St Andrew's Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-jc/) | [St Andrew's Junior School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS36.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestS37.jpg" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestS38.png" style="width:30%;margin-right:15px;" align = "right">
 
 <br clear="left">
 
