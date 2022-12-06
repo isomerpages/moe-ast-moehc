@@ -1422,9 +1422,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [River Valley High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-high-sch/) | [River Valley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-pri/) | [Riverside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-pri/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestR.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR17.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestR18.png" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/crestR19.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1432,9 +1432,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Riverside Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-sec/) | [Rivervale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-vale-pri-sch/) | [Rosyth School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rosyth-sch/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR20.png" style="width:25%;margin-left:55px;" align = "left">
+<img src="/images/crestS1.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestS2.png" style="width:24%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -1442,9 +1442,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Rulang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rulang-pri/) | [San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sang-nila-utama-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS3.png" style="width:22%;margin-left:55px;" align = "left">
+<img src="/images/crestS4.png" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestS5.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
