@@ -1152,9 +1152,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Nee Soon School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nee-soon-sch/) | [New Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/) | [New Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-sec/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN16.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestN17.jpg" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestN18.png" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
