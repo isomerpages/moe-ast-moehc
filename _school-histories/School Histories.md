@@ -1583,8 +1583,8 @@ We recognise that every Singapore School has a story to tell, contributing to th
 | [St. Anthony's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-sec/) |
 
 <img src="/images/crestS45.png" style="width:20%;margin-left:75px;" align = "left">
-<img src="/images/crestS46.png" style="width:17%;margin-left:105px;" align = "left">
-<img src="/images/crestS47.png" style="width:20%;margin-right:45px;" align = "right">
+<img src="/images/crestS.png" style="width:17%;margin-left:105px;" align = "left">
+<img src="/images/crestS46.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1592,9 +1592,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St. Hilda's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-sec/) | [St. Joseph's Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution/) |
 
-<img src="/images/crestS48.png" style="width:17%;margin-left:85px;" align = "left">
-<img src="/images/crestS49.png" style="width:21%;margin-left:105px;" align = "left">
-<img src="/images/crestS50.jpg" style="width:20%;margin-right:45px;" align = "right">
+<img src="/images/crestS46.png" style="width:17%;margin-left:85px;" align = "left">
+<img src="/images/crestS46.jpg" style="width:21%;margin-left:105px;" align = "left">
+<img src="/images/crestS47.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1602,9 +1602,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St. Margaret's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-sec/) | [St. Stephen's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-stephen-sch/) |
 
-<img src="/images/crestS51.png" style="width:28%;margin-left:35px;" align = "left">
-<img src="/images/crestS52.png" style="width:20%;margin-left:65px;" align = "left">
-<img src="/images/crestS53.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS.png" style="width:28%;margin-left:35px;" align = "left">
+<img src="/images/crestS.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestS53.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1612,9 +1612,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St. Theresa's High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-girls-sch/) | [Stamford Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-pri/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS54.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS52.png" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestT1.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
