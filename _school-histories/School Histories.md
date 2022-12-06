@@ -1482,9 +1482,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Serangoon Garden North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-north-sch/) | [Serangoon Garden Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-sec/) | [Serangoon Garden South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-south-sch/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS15.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS16.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestS17.png" style="width:18%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
