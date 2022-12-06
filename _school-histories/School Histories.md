@@ -1562,9 +1562,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [St Anthony's Canossian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-george-road-tamil-sch/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS39.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestS40.jpg" style="width:16%;margin-left:125px;" align = "left">
+<img src="/images/crestS41.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
