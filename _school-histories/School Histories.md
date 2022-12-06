@@ -1332,9 +1332,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Presbyterian High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pulau-tekong-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP32.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestP33.png" style="width:34%;margin-left:75px;" align = "left">
+<img src="/images/crestP34.png" style="width:16%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1342,9 +1342,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Punggol Cove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-green-pri/) | [Punggol Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP35.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestP36.jpg" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestQ1.png" style="width:22%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -1352,9 +1352,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Punggol Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-sec/) | [Punggol View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-view-pri/) | [Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestQ.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestQ2.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestQ3.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestQ4.png" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1362,9 +1362,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Qifa Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qifa-pri/) | [Qihua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qihua-pri/) | [Queenstown Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-pri/) |
 
-<img src="/images/crestQ.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestQ.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestQ5.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestQ6.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestR1.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1372,9 +1372,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Queenstown Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-sec/) | [Queensway Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queensway-sec/) | [Radin Mas Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/radin-mas-pri/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestR.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR2.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestR3.jpg" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestR4.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
