@@ -1532,9 +1532,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Singapore Chinese Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/singapore-chinese-girls-sch/) | [Singapore Sports School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/singapore-sports-school/) | [South View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/south-view-pri/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS30.jpg" style="width:30%;margin-left:55px;" align = "left">
+<img src="/images/crestS31.png" style="width:20%;margin-left:35px;" align = "left">
+<img src="/images/crestS32.jpg" style="width:15%;margin-right:75px;" align = "right">
 
 <br clear="left">
 
@@ -1542,9 +1542,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Spectra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/spectra-sec/) | [Springdale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/springdale-pri/) | [Springfield Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/springfield-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS33.png" style="width:24%;margin-left:55px;" align = "left">
+<img src="/images/crestS34.png" style="width:20%;margin-left:85px;" align = "left">
+<img src="/images/crestS35.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
