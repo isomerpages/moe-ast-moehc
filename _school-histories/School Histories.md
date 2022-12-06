@@ -1722,9 +1722,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [The Happy School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-happy-sch/) | [Thong Kheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-pri/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT32.png" style="width:25%;margin-left:55px;" align = "left">
+<img src="/images/crestT33.png" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestT34.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1732,9 +1732,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Tiong Bahru Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-sec/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT35.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestT36.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestT37.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1742,9 +1742,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Towner Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/towner-pri/) | [Townsville Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-institute/) | [Townsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-pri/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT38.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestT39.jpg" style="width:25%;margin-left:85px;" align = "left">
+<img src="/images/crestT40.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
