@@ -972,16 +972,6 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Kong Hwa School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-pri/) |
 
-<img src="/images/crestK17.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestK18.png" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/crestK19.png" style="width:20%;margin-right:35px;" align = "right">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [Kranji Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-sec/) |
-
 <img src="/images/crestK20.png" style="width:25%;margin-left:55px;" align = "left">
 <img src="/images/crestK21.png" style="width:23%;margin-left:75px;" align = "left">
 <img src="/images/crestK22.jpg" style="width:20%;margin-right:35px;" align = "right">
@@ -990,7 +980,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/labrador-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/) |
+| [Kranji Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-sec/) |
 
 <img src="/images/crestK23.png" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/crestL1.png" style="width:25%;margin-left:95px;" align = "left">
@@ -1000,7 +990,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Lee Kuo Chuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/) | [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) |
+| [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/labrador-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/) |
 
 <img src="/images/crestL3.png" style="width:18%;margin-left:65px;" align = "left">
 <img src="/images/crestL4.png" style="width:23%;margin-left:105px;" align = "left">
@@ -1010,17 +1000,33 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 |  |  |  |
 |:---:|:---:|:---:|
+| [Lee Kuo Chuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/) | [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) |
+
+<img src="/images/crestL6.jpg" style="width:25%;margin-left:45px;" align = "left">
+<img src="/images/crestM1.png" style="width:23%;margin-left:65px;" align = "left">
+<img src="/images/crestM2.jpg" style="width:20%;margin-right:45px;" align = "right">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
 | [Loyang View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-view-sec/) | [Macpherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/) | [Macpherson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/) |
 
-<img src="/images/crestL6.jpg" style="width:18%;margin-left:65px;" align = "left">
-<img src="/images/crestL7.jpg" style="width:23%;margin-left:105px;" align = "left">
-<img src="/images/crestL8.jpg" style="width:20%;margin-right:35px;" align = "right">
+<img src="/images/crestM3.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestM4.png" style="width:23%;margin-left:85px;" align = "left">
+<img src="/images/crestM5.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [MacRitchie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macritchie-pri/) | [Maha Bodhi School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maha-bodhi-sch/) | [Maju Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maju-sec/) |
+
+<img src="/images/crestM6.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestM7.jpg" style="width:18%;margin-left:85px;" align = "left">
+<img src="/images/crestM8.png" style="width:18%;margin-right:45px;" align = "right">
+
+<br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
