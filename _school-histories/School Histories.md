@@ -1142,9 +1142,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [National Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/national-jc/) | [Naval Base Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-pri/) | [Naval Base Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-sec/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN13.png" style="width:17%;margin-left:55px;" align = "left">
+<img src="/images/crestN14.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crestN15.jpg" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
