@@ -1702,9 +1702,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Telok Kurau Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-jc/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT26.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestT27.jpg" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crestT28.jpg" style="width:22%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -1712,9 +1712,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Temasek Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-pri/) | [Temasek Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-sec/) | [The Chinese High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) |
 
-<img src="/images/crestT.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestT.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestT.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestT29.png" style="width:25%;margin-left:35px;" align = "left">
+<img src="/images/crestT30.png" style="width:22%;margin-left:85px;" align = "left">
+<img src="/images/crestT31.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
