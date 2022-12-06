@@ -1232,9 +1232,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Outram Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-sec/) | [Owen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/owen-sch/) | [Palm View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/palm-view-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP2.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestP3.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestP4.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1242,19 +1242,19 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Pandan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pandan-pri/) | [Park Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/park-road-sch/) | [Park View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/park-view-pri/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP5.png" style="width:25%;margin-left:35px;" align = "left">
+<img src="/images/crestP6.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/crestP7.jpg" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Paya Lebar Methodist Girls' School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist Girls' School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-sch/) |
+| [Paya Lebar Methodist Girls'<br> School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist<br> Girls' School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-sch/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP8.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestP9.png" style="width:18%;margin-left:115px;" align = "left">
+<img src="/images/crestP10.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1262,9 +1262,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Pearl Bank School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearl-bank-sch/) | [Pearl Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearl-park-pri-sch/) | [Pearl's Hill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearls-hill-sch/) |
 
-<img src="/images/crestP.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestP.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestP11.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestP12.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestP13.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
