@@ -1032,9 +1032,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Manjusri Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/manjusri-sec/) | [Margaret Drive Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/margaret-drive-pri/) | [Maris Stella High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maris-stella-high-sch/) |
 
-<img src="/images/crestM.png" style="width:20%;margin-left:65px;" align = "left">
-<img src="/images/crestM.jpg" style="width:20%;margin-left:85px;" align = "left">
-<img src="/images/crestM.png" style="width:20%;margin-right:45px;" align = "right">
+<img src="/images/crestM9.jpg" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestM10.jpg" style="width:20%;margin-left:85px;" align = "left">
+<img src="/images/crestM11.jpg" style="width:24%;margin-right:25px;" align = "right">
 
 <br clear="left">
 
@@ -1042,9 +1042,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Marsiling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-pri/) | [Marsiling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-sec/) | [Marymount Convent School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marymount-convent/) |
 
-<img src="/images/crestM.png" style="width:20%;margin-left:65px;" align = "left">
-<img src="/images/crestM.jpg" style="width:20%;margin-left:85px;" align = "left">
-<img src="/images/crestM.png" style="width:20%;margin-right:45px;" align = "right">
+<img src="/images/crestM12.png" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestM13.png" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/crestM14.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1052,9 +1052,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Mattar East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mattar-east-sch/) | [Mattar Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mattar-pri/) | [May Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/) |
 
-<img src="/images/crestM.png" style="width:20%;margin-left:65px;" align = "left">
-<img src="/images/crestM.jpg" style="width:20%;margin-left:85px;" align = "left">
-<img src="/images/crestM.png" style="width:20%;margin-right:45px;" align = "right">
+<img src="/images/crestM15.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestM16.png" style="width:22%;margin-left:85px;" align = "left">
+<img src="/images/crestM17.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
