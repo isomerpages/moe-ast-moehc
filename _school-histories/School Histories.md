@@ -1162,9 +1162,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Ngee Ann Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-sec/) | [Norfolk Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/norfolk-pri/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN19.png" style="width:18%;margin-left:55px;" align = "left">
+<img src="/images/crestN20.jpg" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestN21.png" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1172,9 +1172,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [North Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-spring-pri/) | [North View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-pri/) | [North View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-sec/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN22.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestN23.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestN24.jpg" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1182,9 +1182,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [North Vista Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-vista-pri/) | [North Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-vista-sec/) | [Northbrooks Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northbrooks-sec/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN25.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestN26.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestN27.jpg" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1192,7 +1192,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Northland Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-pri/) | [Northland Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-sec/) | [Northlight School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northlight-sch/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestN28.png" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
 <img src="/images/crestO.jpg" style="width:20%;margin-right:65px;" align = "right">
 
