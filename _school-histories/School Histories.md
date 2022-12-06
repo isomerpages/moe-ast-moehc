@@ -1112,9 +1112,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Nam San School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nam-san-sch/) | [Nan Chiau High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiau-high-sch/) | [Nan Chiau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiau-pri/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN4.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestN5.jpg" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestN6.png" style="width:20%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1122,9 +1122,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Nan Chiow Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiow-public-sch/) | [Nan Hua High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-hua-high-sch/) | [Nan Hua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-hua-pri/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN7.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestN8.jpg" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestN9.png" style="width:25%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1132,9 +1132,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Nanyang Girls' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-girls-high-sch/) | [Nanyang Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-jc/) | [Nanyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-pri/) |
 
-<img src="/images/crestN.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestN.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestN.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestN10.jpg" style="width:18%;margin-left:55px;" align = "left">
+<img src="/images/crestN11.png" style="width:22%;margin-left:105px;" align = "left">
+<img src="/images/crestN12.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
