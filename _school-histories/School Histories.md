@@ -1194,7 +1194,7 @@ We recognise that every Singapore School has a story to tell, contributing to th
 
 <img src="/images/crestN28.png" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/crestN29.jpg" style="width:25%;margin-left:105px;" align = "left">
-<img src="/images/crestO1.png" style="width:20%;margin-right:45px;" align = "right">
+<img src="/images/crestO1.png" style="width:20%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -1202,9 +1202,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Northoaks Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/oasis-pri/) |
 
-<img src="/images/crestO.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestO.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestO.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestO2.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestO3.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestO4.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1212,9 +1212,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Opera Estate Boys' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-pri/) |
 
-<img src="/images/crestO.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestO.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestO.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestO5.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestO6.png" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestO7.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1222,9 +1222,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Orchid Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/orchid-park-sec/) | [Outram Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-institute/) | [Outram Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-pri/) |
 
-<img src="/images/crestO.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestO.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestP.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestO8.jpg" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestO9.png" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestP1.png" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
