@@ -1382,9 +1382,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Raffles Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-pri/) | [Raffles Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-sch/) | [Raffles Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-institution/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestR.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR5.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestR6.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestR7.png" style="width:19%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1392,9 +1392,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Raffles Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-sec/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestR.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR8.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestR9.png" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/crestR10.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1402,9 +1402,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Rayman School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rayman-sch/) | [Red Swastika School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/red-swastika-sch/) | [Redhill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/redhill-sch/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestR.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR11.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestR12.png" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestR13.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1412,9 +1412,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Regent Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/regent-sec/) | [River Valley English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-government-chi-sch/) |
 
-<img src="/images/crestR.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestR.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestR.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestR14.jpg" style="width:19%;margin-left:55px;" align = "left">
+<img src="/images/crestR15.jpg" style="width:16%;margin-left:135px;" align = "left">
+<img src="/images/crestR16.jpg" style="width:25%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
