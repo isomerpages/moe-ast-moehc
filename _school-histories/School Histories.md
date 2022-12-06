@@ -1452,9 +1452,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Selegie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/selegie-pri/) | [Seletar Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seletar-institute/) | [Sembawang Hills Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-hills-estate-sch/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS6.jpg" style="width:18%;margin-left:65px;" align = "left">
+<img src="/images/crestS7.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestS8.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1462,9 +1462,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Sembawang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-pri/) | [Sembawang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-sec/) | [Seng Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-pri/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS9.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS10.png" style="width:20%;margin-left:125px;" align = "left">
+<img src="/images/crestS11.png" style="width:22%;margin-right:35px;" align = "right">
 
 <br clear="left">
 
@@ -1472,9 +1472,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Seng Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sengkang-green-pri/) | [Sennett Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sennett-estate-sch/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS12.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS13.png" style="width:16%;margin-left:145px;" align = "left">
+<img src="/images/crestS14.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
