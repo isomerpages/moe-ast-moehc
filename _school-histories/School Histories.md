@@ -1492,9 +1492,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Serangoon Garden Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-technical-sch/) | [Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-jc/) | [Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS18.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS19.png" style="width:24%;margin-left:105px;" align = "left">
+<img src="/images/crestS20.png" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1502,9 +1502,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Seraya Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seraya-pri/) | [Shuqun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-pri/) | [Shuqun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-sec/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS21.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS22.jpg" style="width:18%;margin-left:125px;" align = "left">
+<img src="/images/crestS23.png" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1512,9 +1512,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Si Ling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-pri/) | [Si Ling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-sec/) | [Siglap Indah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-indah-pri/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS24.png" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestS25.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestS26.jpg" style="width:20%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1522,9 +1522,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Siglap Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-pri/) | [Siglap Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-sec/) | [Silat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/silat-pri-sch/) |
 
-<img src="/images/crestS.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestS.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestS.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestS27.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestS28.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestS29.jpg" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
