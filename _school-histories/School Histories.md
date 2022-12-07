@@ -1752,9 +1752,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Trafalgar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/trafalgar-sch/) | [Tuan Mong High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tun-seri-lanang-sec/) |
 
-<img src="/images/crestU.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestU.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestU.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestU1.png" style="width:25%;margin-left:35px;" align = "left">
+<img src="/images/crestU2.png" style="width:20%;margin-left:85px;" align = "left">
+<img src="/images/crestU3.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1762,9 +1762,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Umar Pulavar Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-pri/) | [Unity Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-sec/) |
 
-<img src="/images/crestU.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestU.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestV.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestU4.png" style="width:22%;margin-left:55px;" align = "left">
+<img src="/images/crestU5.png" style="width:18%;margin-left:95px;" align = "left">
+<img src="/images/crestV1.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
