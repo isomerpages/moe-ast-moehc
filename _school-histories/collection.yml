@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Jurong Primary School.md
       - Schools/Hong Wen School.md
       - Schools/.keep
       - Schools/Admiralty Primary School.md
