@@ -1832,9 +1832,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Willow Avenue Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodgrove-sec/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW17.jpg" style="width:16%;margin-left:75px;" align = "left">
+<img src="/images/crestW18.png" style="width:17%;margin-left:135px;" align = "left">
+<img src="/images/crestW19.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1842,9 +1842,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Woodlands Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-ring-sec/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW20.jpg" style="width:22%;margin-left:45px;" align = "left">
+<img src="/images/crestW21.png" style="width:16%;margin-left:125px;" align = "left">
+<img src="/images/crestW22.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1852,9 +1852,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Woodlands Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-sec/) | [Woodsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodsville-pri/) | [Woodsville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodsville-sec/) |
 
-<img src="/images/crestX.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestX.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestX.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestX1.png" style="width:22%;margin-left:55px;" align = "left">
+<img src="/images/crestX2.png" style="width:16%;margin-left:115px;" align = "left">
+<img src="/images/crestX3.png" style="width:22%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1862,9 +1862,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Xianglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xianglin-pri/) | [Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/) | [Xingnan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xingnan-pri/) |
 
-<img src="/images/crestX.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestX.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestX.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestX4.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestX5.png" style="width:18%;margin-left:115px;" align = "left">
+<img src="/images/crestX6.png" style="width:16%;margin-right:75px;" align = "right">
 
 <br clear="left">
 
@@ -1872,9 +1872,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Xinmin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinmin-pri/) | [Xinmin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinmin-sec/) | [Xishan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xi-shan-pri/) |
 
-<img src="/images/crestY.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestY.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestY.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestY1.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestY2.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestY3.png" style="width:18%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1882,9 +1882,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Yangzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yang-zheng-pri/) | [Yew Tee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yew-tee-pri/) | [Yio Chu Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-pri/) |
 
-<img src="/images/crestY.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestY.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestY.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestY4.png" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestY5.png" style="width:10%;margin-left:135px;" align = "left">
+<img src="/images/crestY6.jpg" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1892,9 +1892,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Yio Chu Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) |
 
-<img src="/images/crestY.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestY.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestY.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestY7.png" style="width:22%;margin-left:55px;" align = "left">
+<img src="/images/crestY8.png" style="width:16%;margin-left:125px;" align = "left">
+<img src="/images/crestY9.jpg" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1902,9 +1902,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Yishun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-pri/) | [Yishun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-sec/) | [Yishun Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-town-sec/) |
 
-<img src="/images/crestY.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestY.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestY.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestY10.png" style="width:22%;margin-left:55px;" align = "left">
+<img src="/images/crestY11.jpg" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestY12.png" style="width:16%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1912,9 +1912,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Yu Neng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuan-ching-sec/) | [Yuhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-pri/) |
 
-<img src="/images/crestY.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestY.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestY.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestY13.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/crestY14.png" style="width:28%;margin-left:95px;" align = "left">
+<img src="/images/crestY15.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
