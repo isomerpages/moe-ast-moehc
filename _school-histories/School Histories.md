@@ -1772,9 +1772,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Upper Aljunied Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-aljunied-technical/) | [Upper Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-serangoon-sec/) | [Victoria Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/victoria-jc/) |
 
-<img src="/images/crestV.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestV2.png" style="width:20%;margin-left:65px;" align = "left">
+<img src="/images/crestW1.png" style="width:22%;margin-left:85px;" align = "left">
+<img src="/images/crestW1.png" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1782,9 +1782,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Victoria School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/victoria-school/) | [Waterloo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/waterloo-school/) | [Waterway Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/waterway-pri/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW2.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestW3.png" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestW4.png" style="width:18%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1792,9 +1792,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Wellington Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/wellington-pri/) | [West Grove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-grove-pri/) | [West Hill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-hill-sch/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW5.png" style="width:16%;margin-left:85px;" align = "left">
+<img src="/images/crestW6.png" style="width:23%;margin-left:95px;" align = "left">
+<img src="/images/crestW7.png" style="width:18%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1802,9 +1802,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [West Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-spring-pri/) | [West Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-spring-sec/) | [West View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-view-pri/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW8.png" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestW9.png" style="width:17%;margin-left:105px;" align = "left">
+<img src="/images/crestW10.png" style="width:17%;margin-right:65px;" align = "right">
 
 <br clear="left">
 
@@ -1812,9 +1812,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Westlake Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/) | [Westwood Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westwood-pri/) | [Westwood Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westwood-sec/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW11.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestW12.png" style="width:20%;margin-left:105px;" align = "left">
+<img src="/images/crestW13.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1822,9 +1822,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Whampoa Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/whampoa-sec/) | [White Sands Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/white-sands-pri/) | [Whitley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/whitley-sec/) |
 
-<img src="/images/crestW.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestW.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestW.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestW14.png" style="width:18%;margin-left:75px;" align = "left">
+<img src="/images/crestW15.png" style="width:16%;margin-left:125px;" align = "left">
+<img src="/images/crestW16.png" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
