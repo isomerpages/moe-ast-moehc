@@ -1922,9 +1922,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Yuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-sec/) | [Yumin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yumin-pri/) | [Yung An Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) |
 
-<img src="/images/crestY.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestY.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestY.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestY16.png" style="width:27%;margin-left:35px;" align = "left">
+<img src="/images/crestY17.jpg" style="width:20%;margin-left:75px;" align = "left">
+<img src="/images/crestY18.jpg" style="width:22%;margin-right:45px;" align = "right">
 
 <br clear="left">
 
@@ -1932,9 +1932,9 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Yuqun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuqun-pri/) | [Yusok Ishak Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuying-sec/) |
 
-<img src="/images/crestZ.png" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/crestZ.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestZ.jpg" style="width:20%;margin-right:65px;" align = "right">
+<img src="/images/crestZ1.png" style="width:16%;margin-left:75px;" align = "left">
+<img src="/images/crestZ2.png" style="width:16%;margin-left:135px;" align = "left">
+<img src="/images/crestZ3.jpg" style="width:20%;margin-right:55px;" align = "right">
 
 <br clear="left">
 
@@ -1942,8 +1942,8 @@ We recognise that every Singapore School has a story to tell, contributing to th
 |:---:|:---:|:---:|
 | [Zhangde Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhangde-pri/) | [Zhenghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhenghua-pri/) | [Zhenghua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhenghua-sec/) |
 
-<img src="/images/crestZ.png" style="width:20%;margin-left:105px;" align = "left">
-<img src="/images/crestZ.jpg" style="width:20%;margin-right:135px;" align = "right">
+<img src="/images/crestZ4.png" style="width:18%;margin-left:105px;" align = "left">
+<img src="/images/crestZ5.jpg" style="width:24%;margin-right:105px;" align = "right">
 
 <br clear="left">
 
