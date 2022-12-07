@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Jurong Town Primary School.md
       - Schools/Jurong Special Secondary School.md
       - Schools/Jurong Secondary School.md
       - Schools/Jurong Primary School.md
