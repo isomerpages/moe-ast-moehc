@@ -108,10 +108,8 @@ Principals:<br>
 #### **School Crest**
 <img src="/images/hongwensch1.png" style="width:20%;margin-right:15px;" align = "left">
 
-The GEAR symbolises Progress in Technology.
-
-The RICE GRAINS symbolise Our Heritage.
-
+The GEAR symbolises Progress in Technology.<br>
+The RICE GRAINS symbolise Our Heritage.<br>
 The BOOK symbolises Literacy.
 
 <br clear="left">
