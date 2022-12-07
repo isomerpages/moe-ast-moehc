@@ -4,8 +4,6 @@ collections:
     order:
       - School Histories.md
       - Schools/.keep
-      - Schools/Jurong Town Primary School.md
-      - Schools/Jurong Special Secondary School.md
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
       - Schools/Ahmad Ibrahim Primary School.md
@@ -268,6 +266,8 @@ collections:
       - Schools/Jurong Pioneer Junior College.md
       - Schools/Jurong Primary School.md
       - Schools/Jurong Secondary School.md
+      - Schools/Jurong Special Secondary School.md
+      - Schools/Jurong Town Primary School.md
       - Schools/Jurong West Primary School.md
       - Schools/Jurong West Secondary School.md
       - Schools/Jurongville Secondary School.md
