@@ -48,10 +48,21 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+Ready, Resolute, Staunch.
 
 #### **School Crest**
+<img src="/images/jooavenue1.png" style="width:20%;margin-right:15px;" align = "left">
 
+\-
+
+<br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+Onward, onward we all will march.<br>
+Bravely united facing all task.<br>
+To raise our school flag high and high.<br>
+At work, at play, we must try.<br>
+Always having Joo Avenue in mind.<br>
+Ready, resolute and staunch.<br>
+This is our motto.<br>
+We shall strive, strive.
