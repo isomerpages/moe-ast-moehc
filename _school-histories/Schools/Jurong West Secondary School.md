@@ -14,7 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec2.jpg">  
-<img src="/images/jurongwestsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/jurongwestsec2.jpg" style="width:28%;margin-right:29px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec3.jpg">  
