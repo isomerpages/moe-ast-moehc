@@ -4,7 +4,7 @@ permalink: /school-histories/maris-stella-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/marrisstellahighsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/marrisstellahighsch1.png" style="width:15%;margin-right:15px;" align = "left">
 
 ### **Maris Stella High School**
 [URL to website](https://marisstellahigh.moe.edu.sg/) - may require to change in future when original website is removed
@@ -87,7 +87,7 @@ Principals:<br>
 勇 Courage
 
 #### **School Crest**
-<img src="/images/marrisstellahighsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/marrisstellahighsch1.png" style="width:15%;margin-right:15px;" align = "left">
 
 The school crest features the Marist ‘M’. The international crest of the Marist Brothers is the ‘A.M.’ monogram. It is fairly certain the monogram had been devised in honour of Our Lady long before the Marist Brothers came into being in 1817. The letters probably stand for ‘Ave Maria’ (Hail Mary).  
   
