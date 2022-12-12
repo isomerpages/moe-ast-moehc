@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch2.jpg">  
 <img src="/images/marrisstellahighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch4.jpg">  
 <img src="/images/marrisstellahighsch4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch3.jpg">  
 <img src="/images/marrisstellahighsch3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch5.jpg">  
 <img src="/images/marrisstellahighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch6.jpg">  
 <img src="/images/marrisstellahighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch8.jpg">  
 <img src="/images/marrisstellahighsch8.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch7.jpg">  
 <img src="/images/marrisstellahighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch9.jpg">  
 <img src="/images/marrisstellahighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -67,18 +67,17 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1958 | Founding of Maris Stella High School by Reverend Brother J. Chanel Soon. |
+| 1967 | Moved into its own building on Mount Vernon Road. |
+| 1976 | The primary section has its own five-storey block. |
+| 1979 | The secondary section became one of nine SAP schools, with the primary section also becoming an SAP school in 1990. |
+| 1987 | The primary section moved to its own separate building and facilities at a site adjacent to the secondary section. |
+| 1996 | The secondary section was accorded autonomous status. |
+| 1997 | The primary section became single-session. |
+| 2002 | The secondary section became N4 Cluster Centre of Excellence for Information and Communications Technology. |
+| 2014 | Received Best Practice Awards in Teaching and Learning, Character and Citizenship Education, Staff Well-being and Development, and Student All-Round Development. |
+| 2018 | Celebration of 60th anniversary. |
+| 2020 | The Secondary Section was one of the first nine schools to offer the Chinese Language Elective Programme (CLEP). |
 |
 
 #### **School Motto**
