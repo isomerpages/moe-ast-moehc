@@ -35,8 +35,11 @@ Kim Seng Primary School then merged with River Valley Government Chinese School 
 \-
 
 #### **School Crest**
+<img src="/images/kimsengpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 \-
+
+<br clear="left">
 
 #### **School Song**
 \-
