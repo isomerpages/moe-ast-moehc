@@ -4,7 +4,7 @@ permalink: /school-histories/marsiling-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/marsilingpri.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Marsiling Primary School**
 [URL to website](https://marsilingpri.moe.edu.sg/) - may require to change in future when original website is removed
@@ -14,46 +14,38 @@ third_nav_title: Schools
 #### **Image Gallery**
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri2.jpg" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri4.jpg" style="width:30%;margin-right:60px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri6.jpg" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/marsilingpri.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/marsilingpri9.jpg" style="width:30%;margin-right:60px;" align = "right">
 </a></p>
 
-<br clear="left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<img src="/images/marsilingpri10.jpg" style="width:30%;margin-right:60px;" align = "right">
+</a></p>
+
+<br clear="left"><br clear="left">
 
 #### **School History**
 Established in 1958, Marsiling Primary School is one of the oldest schools in the Marsiling/Woodlands estate. Originally known as Marsiling School, the school provided instruction in English, Chinese and Malay to children in the Marsiling area. Marsiling School was located along Marsiling Avenue, off Lorong Chikar. The school relocated to its current premises along Woodlands Centre Road in June 1986 and was renamed Marsiling Primary School.  
