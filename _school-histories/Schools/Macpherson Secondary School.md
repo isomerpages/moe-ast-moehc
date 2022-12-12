@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec2.jpg">  
 <img src="/images/macphersonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec3.jpg">  
 <img src="/images/macphersonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec4.jpg">  
 <img src="/images/macphersonsec4.jpg" style="width:31%;margin-right:35px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec5.jpg">  
 <img src="/images/macphersonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec6.jpg">  
 <img src="/images/macphersonsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec7.jpg">  
 <img src="/images/macphersonsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec8.jpg">  
 <img src="/images/macphersonsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/macphersonsec9.jpg">  
 <img src="/images/macphersonsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
