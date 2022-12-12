@@ -7,27 +7,26 @@ third_nav_title: Schools
 <img src="/images/leekuochuanpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Lee Kuo Chuan Primary School**
-[URL to website]() - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri2.png">  
 <img src="/images/leekuochuanpri2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri3.png">  
 <img src="/images/leekuochuanpri3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri4.png">  
 <img src="/images/leekuochuanpri4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.png">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri5.png">  
 <img src="/images/leekuochuanpri5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
