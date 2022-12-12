@@ -108,11 +108,11 @@ Our hearts beating as one.<br>
 Steadfast in character,<br>
 With minds that are enlightened.
 
-Chorus:
-Loyang View, a caring school we are.
-Where every life is touched, and every moment treasured.
-It’s a name we honour in word and deed.
-We dare to face each challenge,
-Learning to serve and lead.
-Within us lies the power
+Chorus:<br>
+Loyang View, a caring school we are.<br>
+Where every life is touched, and every moment treasured.<br>
+It’s a name we honour in word and deed.<br>
+We dare to face each challenge,<br>
+Learning to serve and lead.<br>
+Within us lies the power<br>
 To make our dreams come true.
