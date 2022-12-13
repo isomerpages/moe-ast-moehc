@@ -7,7 +7,6 @@ third_nav_title: Schools
 <img src="/images/moulmeinpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Moulmein Primary School**
-[URL to website]() - may require to change in future when original website is removed
 
 <br clear="left">
 
