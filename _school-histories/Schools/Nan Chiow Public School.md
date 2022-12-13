@@ -54,5 +54,4 @@ Principals:<br>
 <br clear="left">
 
 #### **School Song**
-<img src="/images/nanchiowschsong.png" style="width:65%">
-
+<img src="/images/nanchiowschsong.png" style="width:65%" align=left>
