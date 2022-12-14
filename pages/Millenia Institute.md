@@ -5,10 +5,10 @@ description: ""
 ---
 <img src="/images/mi1.jpg" style="width:35%;margin-right:15px;" align = "left">
 
+<br clear="left">
+
 ### **Millenia Institute**
 [URL to website](https://www.millenniainstitute.moe.edu.sg/) - may require to change in future when original website is removed
-
-<br clear="left">
 
 #### **Image Gallery**
 
