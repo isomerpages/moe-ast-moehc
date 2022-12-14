@@ -111,14 +111,41 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1906 | Establishment of Outram Road School on Outram Road, formally opened by then Governor of Singapore Sir John Anderson. |
+| 1958 | Became a co-educational school. |
+| 1961 | Renamed as Outram Secondary School. |
+| 1968 | Relocation to its present premises at York Hill. |
+| 1969 | Introduction of Higher School Certificate in Commercial Education Level – the only school in Singapore to do so. |
+| 1977 | Official opening of swimming complex. |
+| 2006 | Celebration of centennial year. |
+| 2007 | Accorded South 4 Centre of Excellence for Business and Enterprise. Becomes the first school in Singapore to offer Business Studies as subject. |
+| 2014 | Accorded Applied Learning Programme in business and enterprise and Learning for Life Programme in sports and outdoor education. |
+| 2016 | Celebration of 110th anniversary with homecoming carnival and dinner. |
+|
 
 #### **School Motto**
-
+Labor Omnia Vincit<br>
+Latin for ‘Labour Conquers All’
 
 #### **School Crest**
+<img src="/images/outramsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The book symbolises academic learning – to instruct, impart knowledge, teach and learn. The lion represents the school’s association with Singapore, the Lion City. The castle signifies a tower of learning; a place where all can study; a self-contained unit; and a place where unity, cooperation and teamwork produce a community (tower) of strength. The lion and the castle together symbolise Outram as one of the centres of learning in Singapore.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+We will go marching on together<br>
+True to our Alma Mater,<br>
+We will strive and march to victory,<br>
+Loyal Outramians are we.
+
+CHORUS:<br>
+Onward, friends, be true, sincere,<br>
+Work and foes we must not fear,<br>
+Never falter, never fall,<br>
+Labour conquers all.<br>
+We will raise our standards high,<br>
+And with our voices cry;<br>
+Brave and true hearts we will always be,<br>
+Loyal Outramians are we.
