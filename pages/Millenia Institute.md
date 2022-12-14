@@ -3,7 +3,7 @@ title: Millenia Institute
 permalink: /school-histories/millenia-institute/
 description: ""
 ---
-<img src="/images/mi1.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/mi1.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 ### **Millenia Institute**
 [URL to website](https://www.millenniainstitute.moe.edu.sg/) - may require to change in future when original website is removed
