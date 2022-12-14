@@ -67,10 +67,43 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+Inspiring Excellence
 
 #### **School Crest**
+<img src="/images/palmviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The emblem expresses the aspirations that school leaders of Palm View Primary School bear for the school, and consists of a central torch, an open book and a victory laurel crowned with a burning flame.
+
+The torch is a bearer of light and symbolises the school’s belief in the potential of every individual. Each student is unique and special, with the capacity to learn, advance and succeed, all the time being a force for good in this world. This belief forms the foundation for all educational endeavours and supports the school’s commitment to develop in every child 21st-century literacies and competencies, symbolised by the open book. The laurel, often used as a symbol of Olympic victory, expresses the school’s pursuit of educational excellence and its commitment to holistic education. This is crowned by a burning flame signifying light and truth, and expresses the school’s desire to inspire both teachers and students in the hope that they, too, will inspire others. The school’s vision, ‘Inspiring Excellence’, is placed across the central torch.
+
+Orange and green colours are chosen for the emblem to signify youthfulness, courage and vitality – qualities that the school hopes its students will exude.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Rise up Palm View let your voice be heard,<br>
+the siren beckons our flag unfurled.<br>
+Our school is calling us to make a stand,<br>
+Let us unite be the best we can.
+
+Stand up Palm View let your spirits soar,<br>
+treasures around us to be sought<br>
+Lessons unknown hidden in the breeze<br>
+waiting for young minds their riches glean.
+
+(Chorus) With curious minds and caring hearts,<br>
+Creative spirits this sets us apart<br>
+Inspiring excellence, a force for good.
+
+Reach out Palm View let your heart be stirred,<br>
+Love and kindness in every word<br>
+Give of yourself to serve and lead<br>
+Be true to every man in word and deed.
+
+(Chorus) With curious minds and caring hearts,<br>
+Creative spirits this sets us apart<br>
+Inspiring excellence, a force for good.
+
+(Chorus) With curious minds and caring hearts,<br>
+Creative spirits this sets us apart<br>
+Inspiring excellence, a force for good.
