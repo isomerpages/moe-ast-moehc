@@ -102,3 +102,59 @@ The Cross represents faith in God. The dove with a stalk of olive leaves depicts
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Behold the burning bush,<br>
+看 荆 棘 焚 而 不 毁<br>
+kan  jing  ji  fen  er  bu  hui
+
+Presbyterian glorious sign.<br>
+吾 长 老 会 的 异 象<br>
+wu zhang lao hui de yi xiang
+
+From Bethel we have built Li Sun High,<br>
+在 伯 特 利 创 礼 逊<br>
+zai  bo  te  li chuang  li  xun
+
+And our school by God's design.<br>
+达 宏 茂 桥 建 长 中<br>
+da hong mao qiao jian zhang zhong
+
+Firm in hope with fortitude,<br>
+立 定 信 心 加 毅 力<br>
+li  ding  xin  xin  jia  yi  li
+
+we will strengthen our resolve.<br>
+刚 强 奋 志 向 前 进<br>
+gang qiang fen zhi xiang qian jin
+
+Harmony respect for all,<br>
+敬 业 精 神 又 乐 群<br>
+jing ye jing shen you le qun
+
+help us every problem solve.<br>
+切 磋 琢 磨 谦 与 冲<br>
+qie cuo zhuo mo qian yu chong
+
+We flourish in eastern values.<br>
+发 扬 东 方 文 化 道 统<br>
+fa yang dong fang wen hua dao tong
+
+We make western advance as our own.<br>
+探 求 西 欧 科 技 知 识<br>
+tan  qiu  xi  ou  ke  ji  zhi  shi
+
+Follow Jesus in every way,<br>
+效 法 基 督 完 全 样 式<br>
+xiao fa ji du wan quan yang shi
+
+Let us all as pioneers be known!<br>
+立 己 立 人 为 民 前 锋<br>
+li  ji  li  ren wei min qian feng
+
+Follow Jesus in every way,<br>
+效 法 基 督 完 全 样 式<br>
+xiao fa ji du wan quan yang shi
+
+Let us all as pioneers be known!<br>
+立 己 立 人 为 民 前 锋<br>
+li  ji  li  ren wei min qian feng
