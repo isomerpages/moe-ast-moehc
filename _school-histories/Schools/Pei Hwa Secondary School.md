@@ -39,11 +39,11 @@ third_nav_title: Schools
 <img src="/images/peihwasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec8.jpg">  
 <img src="/images/peihwasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec9.jpg">  
 <img src="/images/peihwasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
