@@ -76,14 +76,42 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1933 | Establishment of Kiau Nam School at Lorong Koo Chye. |
+| 1942 | Closure of school during World War II. |
+| 1945 | Reopening of school at Paya Lebar Road. |
+| 1957 | Became a government-aided school. |
+| Became a government-aided school. | Became a full government school. |
+| 1985 | Merger with Pulau Tekong Primary School, relocation to Tampines Street 11 and renamed Qiaonan Primary School. |
+| 2007 | Attained Character Development Award. |
+| 2008 | Celebration of 75th anniversary. |
+| 2013 | Celebration of 80th anniversary. |
+| 2015 | Merger with Griffiths Primary School to become Angsana Primary School. |
+|
 
 #### **School Motto**
-
+Persevere to Excel
 
 #### **School Crest**
+<img src="/images/qiaonanpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The badge, in the shape of an open book, symbolises an emphasis on continuous learning and improvement. At the base of the book are five rings upholding the learning experience of the students. The five rings symbolise the five values promoted by the school: health, knowledge, co-operation, creativity and virtue. The interlinked rings reflect the school’s continual efforts to inculcate these values in the students.
+
+The dark blue colour symbolises the integrity with which the school carries out its duties. Yellow symbolises the excellence that the school strives to achieve, and red signifies the school’s passion in upholding its core values: search for new knowledge, strengthen the total being, support one another, seek to innovate and strive for good character.
 
 #### **School Song**
-**Audio, require school to upload on youtube**<br>
+**Audio, require school to upload on youtube**
+
+On our Lion City Qiaonan School stands<br>
+Reaching out to the skies and looking grand.<br>
+Where-in we are all nurtured<br>
+to be learned and cultured.<br>
+Ever keeping up with time<br>
+so we won’t be left behind.<br>
+With one another we will share,<br>
+For each other we will care<br>
+With the spirit that is Qiaonan<br>
+Working mind and heart as one.<br>
+And with the same unity,<br>
+we will serve our country<br>
+as loyal citizens should,<br>
+For all Singaporeans good.
