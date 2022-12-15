@@ -91,10 +91,36 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+Knowledge begets success
 
 #### **School Crest**
+<img src="/images/rafflesgirlspri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+**Knowledge, Progress and Success**
+
+Green for youth, vitality and growth<br>
+White for sincerity and purity in the young<br>
+Black for perseverance to strive with diligence
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+We shall try to do our best<br>
+Never stopping for a rest<br>
+Always ready to help each other<br>
+Eager to learn from one another
+
+Together, we shall strive<br>
+To build a better life<br>
+Together, together<br>
+All the way
+
+We’ll be polite, quick to obey<br>
+Grow in wisdom day by day<br>
+We are girls from RGPS<br>
+Always striving to be the best
+
+Together, we shall strive<br>
+To build a better life<br>
+Together, together<br>
+All the way
