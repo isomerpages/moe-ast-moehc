@@ -96,10 +96,23 @@ Principals of Qihua Primary School:<br>
 |
 
 #### **School Motto**
-
+Persevere to Succeed
 
 #### **School Crest**
+<img src="/images/qihuapri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+Qihua is a school where students persevere to succeed and aspire for knowledge and lifelong learning in the context of the national education goals. The Chinese name ‘启化’ means to inspire and educate.
+
+<br clear="left">
+
+The laurels symbolise aspiration for success. The book symbolises the quest for knowledge. The torch symbolises the search for lifelong learning. The globe symbolises the global outlook of the students of Qihua.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Green luxuriant trees by the shoreline,<br>
+stands our school steadfast on the ground of freedom and equality.<br>
+This is the ideal place for learning skills and acquiring knowledge.<br>
+Let’s learn together fellow Qihuaians.<br>
+For our Qihua, for our country strive diligently.<br>
+Persevere on pledging to be strong and brave leaders in our land.
