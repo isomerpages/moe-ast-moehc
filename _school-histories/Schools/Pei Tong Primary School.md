@@ -41,8 +41,7 @@ third_nav_title: Schools
 
 <br clear="left">
 
-<p><a align="left" style="width:30%;margin-right:15px;" href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/<img src=">
-.jpg"&gt;  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peitongpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri8.jpg">
 </a></p>
 
