@@ -97,3 +97,20 @@ The emblem of the tree, which forms the central motif of the school crest, repre
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+As we come together<br>
+United we do our best!<br>
+With perseverance and strength<br>
+We overcome all our trials<br>
+Together we will strive towards a future bright<br>
+One heart, one voice, one mind<br>
+At Qifa we will shine
+
+Friendships made and pleasures shared<br>
+Our memories for years to come<br>
+Loyalty and honesty<br>
+We aspire to be the best!<br>
+Together we will strive<br>
+Towards a future bright<br>
+One heart, one voice, one mind<br>
+At Qifa we will shine
