@@ -78,10 +78,31 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+Nurturing Talents
 
 #### **School Crest**
+<img src="/images/peihwasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The logo comprises the Chinese characters of the school name, 培 (Pei) and 华 (Hwa), which means ‘nurturing talents’. Central to the logo is the figure representing a resilient Pei Hwa student who is happy and confident as he or she overcomes each obstacle. The figure is upright (as shown by the 立 character at the top of the figure’s head) and grounded (as shown by the 土 character) in values. An education in Pei Hwa has enabled the individual to embrace the world of knowledge with open arms and to push beyond current boundaries.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+In Pei Hwa Secondary School<br>
+We are the pride of the community<br>
+To lead and serve with integrity<br>
+We grow in our resiliency
+
+Though there be many challenges<br>
+Our passion remains strong<br>
+We learn and work diligently<br>
+To be the best that we can be
+
+Here in Pei Hwa<br>
+Our talents are nurtured<br>
+Here in Pei Hwa<br>
+Where we share in harmony<br>
+We’ll spread our wings<br>
+Fly far and high<br>
+To bring pride and glory<br>
+To the happy Pei Hwa family
