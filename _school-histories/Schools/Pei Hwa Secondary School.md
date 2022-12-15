@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img src="/images/pic.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Pei Hwa Secondary School**
-[URL to website]() - may require to change in future when original website is removed
+[URL to website](https://peihwasec.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
