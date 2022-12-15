@@ -112,6 +112,8 @@ Filiae Melioris Aevi – Daughters of a Better Age
 
 The colours of the school crest are the standard colours of the House of Sir Stamford Raffles: green, white and black. The open book symbolises knowledge, and the burning torch represents the commitment to forge character and develop life skills.
 
+<br clear="left">
+
 #### **School Song**
 **Audio, require school to upload on youtube**
 
