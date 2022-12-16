@@ -13,23 +13,23 @@ third_nav_title: Schools
 #### **Image Gallery**
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/srgardennorth.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/srgardennorth2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/srgardennorth.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/srgardennorth3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/srgardennorth.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img src="/images/srgardennorth4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/srgardennorth.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/srgardennorth5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
-<img src="/images/srgardennorth.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/srgardennorth6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
