@@ -30,8 +30,8 @@ third_nav_title: Schools
 <img src="/images/sangnilautamasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec6.jpg">  
-<img src="/images/sangnilautamasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec6.png">  
+<img src="/images/sangnilautamasec6.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec7.jpg">  
