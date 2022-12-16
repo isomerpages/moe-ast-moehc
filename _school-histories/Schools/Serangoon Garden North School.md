@@ -35,7 +35,18 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-
+Established in 1956, Serangoon Garden North School was located at Kensington Park Road.   
+  
+It moved into its own premises in 1957 and functioned as a two-session school.   
+  
+In 1988, Serangoon Garden North School merged with neighbouring Serangoon Garden South School. In 2007, the amalgamated Serangoon Garden South School merged with Zhonghua Primary School. Serangoon Garden North School building has been left vacant since its closure in 1988.  
+  
+Principals:
+Mrs F. McKenna (1956)
+• Mr Cher Po Chia (1957)
+• Miss Paulina Baruch (1958-1966)
+• Mrs K. Selvaratnam (1967-1984)
+• Mr Po Gim Chong (1985-1987) 
 
 #### **Key Milestones**
 
