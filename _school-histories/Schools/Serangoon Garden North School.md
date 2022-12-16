@@ -25,7 +25,7 @@ third_nav_title: Schools
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srgardennorth5.jpg">  
-<img src="/images/srgardennorth5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/srgardennorth5.jpg" style="width:30%;margin-right:16px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srgardennorth6.jpg">  
