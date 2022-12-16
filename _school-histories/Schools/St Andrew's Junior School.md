@@ -100,3 +100,44 @@ Culture – Synergise to Serve and Soar<br>
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Lives are in the making here,<br>
+Hearts are in the waking here,<br>
+Mighty undertaking here,<br>
+Up and On! Up and On!<br>
+We are arming for the fight,<br>
+Pressing on with all our might,<br>
+Pluming wings for higher flight,<br>
+Up and On!
+
+Up Boys!<br>
+Truest fame lies in high endeavour;<br>
+Play the game!<br>
+Keep the flame burning brightly ever!
+
+Fair before us lies the way,<br>
+Time for work and time for play;<br>
+Fill the measure while we may,<br>
+Up and On! Up and On!<br>
+Life and time will not delay,<br>
+Time is running fast away,<br>
+Life is now today; today;<br>
+Up and On!<br>
+Up Boys!<br>
+Truest fame lies in high endeavour;<br>
+Play the game!<br>
+Keep the flame burning brightly ever!
+
+Foes in plenty we shall meet,<br>
+Hearts courageous scorn defeat;<br>
+So we press with eager feet,<br>
+Up and On! Up and On!<br>
+Ever onward to the fight,<br>
+Ever upward to the Light,<br>
+Ever true to GOD and RIGHT,<br>
+Up and On!
+
+Up Boys!<br>
+Truest fame lies in high endeavour;<br>
+Play the game!<br>
+Keep the flame burning brightly ever!
