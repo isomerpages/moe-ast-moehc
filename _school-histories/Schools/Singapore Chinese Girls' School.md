@@ -79,10 +79,20 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+Sincerity, Courage, Generosity, Service
 
 #### **School Crest**
+<img src="/images/sgchigirls1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The colours of the school crest are jade and gold. These colours reflect the desire for every student to develop the qualities of a _kim gek_ (‘gold’ and ‘jade’ in Hokkien) – a young lady who is the pride of her family because of the virtues she embodies. One observes the relevance of this connotation in the context of our current educational system, where the imparting of cultural values is stressed.
+
+The yin-yang symbol on the crest is the traditional Chinese symbol for balance, representing how seemingly opposing elements can complement each other. Taken together, the school crest symbolises the balanced, holistic education that the school provides to groom _kim geks_ who exemplify the values of sincerity, courage, generosity and service.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Glad that I live am I That the sky is blue<br>
+Glad for the country lanes and the fall of dew<br>
+After the sun the rain after the rain the sun<br>
+This is the way of life till the work be done<br>
+All that we need to do be we low or high is to see that we grow nearer the sky
