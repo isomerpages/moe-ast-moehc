@@ -96,14 +96,54 @@ Principals (St Anthony’s Canossian Primary School):<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1879 | Establishment of St Anna’s School. |
+| 1886 | St Anna’s School became St Anthony’s Boys’ and Girls’ School, located in a new building on Middle Road. |
+| 1893 | The school split into two schools – one for boys and the other for girls. |
+| 1894 | The girls’ school was taken over by the Canossian Daughters of Charity. |
+| 1971 | The administration of the school was separated, and the schools were named St Anthony’s Convent Primary School and St Anthony’s Convent Secondary School. |
+| 1995 | The schools moved from Middle Road to new premises at Bedok North Avenue 4. They were renamed St Anthony’s Canossian Primary and St Anthony’s Canossian Secondary schools. |
+| 2010 | Both schools underwent PRIME upgrading till end of 2012. |
+| 2014 | Both schools celebrated 135 years of Canossian education. |
+|
 
 #### **School Motto**
-
+VIA, VERITAS, VITA<br>
+The Way, The Truth, The Life
 
 #### **School Crest**
+<img src="/images/stanthonycanossianpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The school badge is meant for all Canossian Schools. On a dark-blue background there shines a four-pointed star with rays cast onto a book symbolising the Star of Wisdom Shining on Knowledge. The star is a symbol of lofty ideas stirring a person to great and noble deeds. The four points of the star represent four basic social virtues: truth, justice, love and freedom.
+
+<br clear="left">
+
+Truth: sincerity in words and deeds, simplicity and straightforwardness.  
+Justice: honesty, fairness, respect for the right of others.  
+Love: readiness to help and share with others.  
+Freedom: mutual tolerance and consideration for the principles of others.
+
+The Crown above the crest symbolises the supremacy of God over all and All for the Glory of God.
+
+On the crest of the motto for all Canossian schools: VIA VERITAS VITA<br>
+VIA – The Way, VERITAS – The Truth,  VITA – The Life
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+United in common endeavour<br>
+At work and play, life's lessons we learn<br>
+Our youthful hearts are filled with ardour<br>
+Truth and wisdom we yearn
+
+Chorus<br>
+Courageously with heads held high<br>
+We march ever on through life<br>
+Schooled in your spirit Canossa<br>
+For virtue, true nobility we strive<br>
+Schooled in your spirit Canossa<br>
+For true virtue we strive
+
+Our alma mater, our guardian, our guide<br>
+Prepare our spirits for duty's call<br>
+Our country to serve with virtuous might<br>
+We stand for truth and for right
