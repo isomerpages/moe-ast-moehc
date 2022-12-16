@@ -79,25 +79,35 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1959 | Establishment of Lichfield Secondary School. |
+| 1960 | Renamed as Serangoon Garden Government High School. |
+| 1984 | Became an English-medium school. |
+| 2004 | Relocation to current premises at Serangoon North Avenue 1. |
+| 2014 | Accorded Applied Learning Programme, ‘Researching Society using Media Communication’. |
+| 2014 | Accorded Learning for Life Programme, ‘Nurturing Confident and Compassionate Leaders through Uniformed Groups’. |
+| 2015 | Celebration of 55th anniversary. Conferred the Lee Hsien Loong Award for Innovation in the Normal Course. |
+| 2019 | Celebration of 60th anniversary. |
 |
 
 #### **School Motto**
-
+Integrity and Diligence
 
 #### **School Crest**
+<img src="/images/serangoongardensec1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The book symbolises the school’s aim to enable its students to achieve the highest level of academic achievement. The wheels represent the hope that students will be able to learn the diverse inter-related skills for lifelong learning in order to stay relevant in the face of constant change. The torch symbolises the bright future of students if they work hard and strive to do their best. The bird represents the Seranggong – a bird that is said to have been peculiar to the area where the school is located.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Go forth! Our Blazing torch uphold<br>
+With friendships true and hearts of gold.<br>
+Let’s learn with grace and serve with pride.<br>
+Let faith and wisdom be our guide.
+
+Nor creed nor race, both young and old<br>
+United in our motto bold –<br>
+With diligence and integrity,<br>
+We’ll shine our light for all to see.<br>
+Forge on with all our zeal and might:<br>
+Serangoon Garden flame, burn bright!
