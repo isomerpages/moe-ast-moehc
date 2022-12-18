@@ -4,5 +4,99 @@ permalink: /school-histories/st-patrick-sch/
 description: ""
 third_nav_title: Schools
 ---
+<img src="/images/stpatrickssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+
+### **St Patrick's School**
+[URL to website](https://stpatricks.moe.edu.sg/) - may require to change in future when original website is removed
+
+<br clear="left">
+
+#### **Image Gallery**
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch2.jpg">  
+<img src="/images/stpatrickssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch3.jpg">  
+<img src="/images/stpatrickssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch4.jpg">  
+<img src="/images/stpatrickssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch5.jpg">  
+<img src="/images/stpatrickssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch6.jpg">  
+<img src="/images/stpatrickssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch7.jpg">  
+<img src="/images/stpatrickssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<br clear="left">
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch8.jpg">  
+<img src="/images/stpatrickssch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch9.jpg">  
+<img src="/images/stpatrickssch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+</a></p>
+
+<br clear="left">
+
+#### **School History**
+St Patrick’s School (圣伯特理中学校) is a Lasallian Roman Catholic boys’ secondary school located on East Coast Road. The school was founded in 1933 as a temporary branch school of St Joseph’s Institution. It was built on land acquired by the La Salle Brothers in 1898, which had been intended to be a resort bungalow for the brothers. However, Brother Stephen Buckley saw the population growth in the eastern side of the island and petitioned the La Salle Brothers to build a school on this piece of land. The main school building was completed in 1932, and St Patrick’s became a school in its own right in 1933.
+
+During the Second World War, the school was used by the British as a hospital and later by the Japanese as an administrative building. It was returned to the Brothers in 1946 after the war.
+
+In 1957, the primary section of the school separated and became St Stephen’s School. St Patrick’s became co-educational with the introduction of pre-university classes in 1963, but this was phased out in 1978, and the school returned to being an all-boys school.
+
+St Patrick’s School is affiliated with the four Lasallian primary schools in Singapore – St Joseph’s Institution Junior (formerly St Michael’s School), St Stephen’s School, De La Salle School and St Anthony’s Primary School – as well as St Joseph’s Institution and Catholic Junior College.  
+
+Principals:<br>
+\- Bro Loarn Lynam (1933)<br>
+\- Bro Stephen Buckley (1934–1935)<br>
+\- Bro Henry Jaussaud (1936–1940)<br>
+\- Bro Matthias Linehan (1941)<br>
+\- Bro Patrick Donovan (1941–1945)<br>
+\- Bro Canice Brennan (1945–1946)<br>
+\- Bro Alban Rozario (1947–1952)<br>
+\- Bro Lawrence Robless (1953–1957)<br>
+\- Bro Justinian De Souza (1957–1962)<br>
+\- Bro Lawrence Robless (1963–1964)<br>
+\- Bro Patrick Loh (1964–1966)<br>
+\- Bro Joseph Kiely (1967–1972)<br>
+\- Bro Dennis Watt (1973–1974)<br>
+\- Br Joseph McNally (1975–1982)<br>
+\- Bro Oliver Rogers (1983–1984)<br>
+\- Mr Joseph Ng (1986–1988)<br>
+\- Bro Joseph Guan (1989–1991)<br>
+\- Mr Goh Bian Koon (1991–1997)<br>
+\- Mr Michael De Silva (1997–2001)<br>
+\- Mr Lak Pati Singh Lucas (2002–2011)<br>
+\- Mr Adolphus Tan Chin Eng (2012–2017)<br>
+\- Mr Eric Lee Wei Tat (2018–2019)<br>
+\- Mr Mark Gerard Minjoot (2019–present)
+
+#### **Key Milestones**
+
+|  |  |
+|:---:|---|
+|  |  |
+|  |  |
+
+#### **School Motto**
 
 
+#### **School Crest**
+
+
+#### **School Song**
+**Audio, require school to upload on youtube**
