@@ -88,7 +88,35 @@ Credere Et Servire<br>
 To Believe and To Serve
 
 #### **School Crest**
+<img src="/images/ststephensch1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The badge comprises a shield supported by a scroll with an ornate edge, indicating a desire to establish tradition. The badge carries the colours red (the blood that St Stephen shed for his belief), white and green (the colours of St Joseph’s Institution, the first school that the Christian Brothers built in Singapore in 1852). The flames are superimposed on the crossed palms, associated with martyrdom in the centre. The five-pointed radiating star, a sign of faith, which is the insignia of the Christian Brothers of the De La Salle Order, is in the circle and cross above it.
+
+The badge is intended to inculcate a sense of reverence for the past, the bravery to forge ahead and to invoke the all-embracing sense of belonging.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+All through St Stephen’s, a voice is resounding<br>
+Promptly respond to your duty’s sweet call,<br>
+Harken you all for the trumpet is sounding,<br>
+Your mater’s proclaiming her watchword to all.
+
+Forward her children dear,<br>
+Ever with hearts sincere,<br>
+Render with joy to your mater her due.<br>
+All that is vile reject,<br>
+Heaven will e’er protect<br>
+Sons of St. Stephen’s, valiant and true
+
+Onward and upward in life’s earnest battle,<br>
+Joyously bearing the brunt of the fight.<br>
+Nobly forgiving for all that may pain you,<br>
+And bravely defending the cause of the right.
+
+Forward her children dear,<br>
+Ever with hearts sincere,<br>
+Render with joy to your mater her due.<br>
+All that is vile reject,<br>
+Heaven will e’er protect<br>
+Sons of St Stephen’s, valiant and true
