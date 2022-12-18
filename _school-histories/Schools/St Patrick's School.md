@@ -89,14 +89,48 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1933 | Founding of school with 245 students. |
+| 1942 | Converted into a hospital by the 13th Australian General Hospital , and subsequently becomes the nos. 3 Japan’s Air Force headquarters. |
+| 1957 | Transfer of primary section to St Stephen’s School. |
+| 1963 | Start of pre-university co-educational classes. |
+| 1975 | Celebration of 30th anniversary of the postwar reopening of the school. |
+| 1978 | Inauguration of the Patrician Society (Alumni). |
+| 1982 | Military Band became Asia’s first to participate in the New York St Patrick’s Day Parade. |
+| 2005 | Awarded gold with honours in the first year of the Singapore Youth Festival’s grading system. |
+| 2012 | Adiji Scout Ceremony is attended by 6,000 scouts. |
+| 2018 | Celebration of 85th anniversary. |
+|
 
 #### **School Motto**
+Potest Qui Vult
 
+(Latin for ‘He Who Wills, Can’)
+
+The motto is a reminder that, despite human limitations, one can still achieve his ideals if he tries. The Patrician has his feet firmly on the ground as he reaches for the unreachable star.
 
 #### **School Crest**
+<img src="/images/stpatrickssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+Three symbols are depicted in the school badge. The green shamrock is a powerful sign of unity in diversity. It was used by St Patrick as a humble image of God. It also represents the earth and the environment. Set against a blue background is the Christian Brothers’ symbol – the radiant star – which conveys the ideals that can be achieved by each student.
+
+<br clear="left">
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+All through our college, a voice is resounding,<br>
+Promptly respond to your duty's sweet call;<br>
+Hearken you all for the trumpet is sounding<br>
+Your mater's proclaiming her watch words to all.
+
+Chorus: Forward her children dear<br>
+Ever with hearts sincere,<br>
+Render with joy to your mater her due!<br>
+All that is vile reject,<br>
+Heaven will E’er Protect
+
+Son of St Patrick’s valiant and true!<br>
+Onward and upwards in life's earnest battle,<br>
+Joyously bearing the brunt of the fight<br>
+Nobly forgiving for aught that may pain you<br>
+And bravely defending the cause of the right.
