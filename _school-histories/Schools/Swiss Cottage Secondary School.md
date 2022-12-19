@@ -61,20 +61,38 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1962 |  |
-| 1963 |  |
-| 1997 |  |
-| 2013 |  |
-| 2018 |  |
-| 2018 |  |
-| 2018 |  |
+| 1962 | Establishment of Swiss Cottage Secondary School on Bras Basah Road. |
+| 1963 | Relocation to Swiss Cottage estate along Durnean Road and official opening of school. |
+| 1997 | Relocation to 3 Bukit Batok Street 34. |
+| 2013 | Celebration of 50th anniversary. |
+| 2018 | Celebration of 55th anniversary. |
+| 2018 | Accorded Applied Learning Programme, ‘Applied Sciences for Sustainable Development’. |
+| 2018 | Accorded Learning for Life Programme, ‘Swiss Thoughtful Leadership Programme’. |
 |
 
 #### **School Motto**
-
+Scientiae Patriaeque Gratia<br>
+Latin for ‘For the Sake of Learning and for the State’
 
 #### **School Crest**
+<img src="/images/swisscottagepri7.png" style="width:20%;margin-right:15px;" align = "left">
 
+The crest is headed by five stars symbolising equality, peace, progress, justice and democracy. These are ideals on which a brotherhood of people can be built. Below is a torch signifying the light of knowledge and the love of learning. Encompassing it are five rings symbolising sports and how they connect people. The five horizontal bands denote the five houses as rivals in competition but steadfast in fraternity.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+A school standing high in our esteem,<br>
+She soars aloft and reigns supreme,<br>
+We cherish her and revere her name<br>
+The school we love of glorious fame.<br>
+Swiss Cottage! Swiss Cottage!<br>
+Blaze a path of glory!<br>
+Surging forward to greater heights of truth,<br>
+A beacon of light in our story,<br>
+A mould to guide and shape our youth.<br>
+Swiss Cottage! Swiss Cottage!<br>
+A sign of dedication,<br>
+Forging friendships with us all,<br>
+Our prayers, our praise and adoration,<br>
+Our pride, our joy, our school!
