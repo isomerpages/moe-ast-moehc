@@ -43,14 +43,33 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1946 | Founding of The Happy School. |
+| 1955 | Became a government-aided school. |
+| 1956 | Celebration of 10th anniversary. |
+| 1979 | Closure of school. |
+|
 
 #### **School Motto**
-
+\-
 
 #### **School Crest**
+<img src="/images/thehappysch1.png" style="width:20%;margin-right:15px;" align = "left">
 
+<br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+曲：沈光辉<br>
+词：林惠正
+
+我们孕育在却后的星洲<br>
+我们建立在幽静的芽珑<br>
+个个年纪小志气高<br>
+人人身体强精神好<br>
+我们都是中华民族的小英豪<br>
+勤学好问立业建功<br>
+敦品立行身心并重<br>
+我们要遵守纪律乔正旧习<br>
+我们要行新生活轰轰烈烈尽忠祖国<br>
+发扬校誉关爱精诚全始全终<br>
+我们是大时代的骄子<br>
+我们是中华民族的英豪
