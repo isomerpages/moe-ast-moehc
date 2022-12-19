@@ -68,20 +68,46 @@ Principals:<br>
 \- Mr Teo Song Khuang (2001–2005)<br>
 \- Mr Harphal Singh (2006–2010)
 
-**Related School: [Broadrick Secondary School]()**
+**Related School: [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/)**
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1965 | Establishment of Telok Kurau Integrated Secondary School |
+| 1981 | Introduction of the Normal stream. Renamed Telok Kurau Secondary School. |
+| 1985 | Celebration of 20th anniversary. |
+| 1989 | Champions of the National Drama Competition. |
+| 1990 | Publication of first newsletter, Voice. |
+| 2000 | Celebration of 35th anniversary. |
+| 2004 | Change of school uniform colour from green to beige. |
+| 2008 | Launch of School Within a School System for Normal Technical students. |
+| 2011 | Merger with Broadrick Secondary School to become the present Broadrick Secondary School. |
+|
 
 #### **School Motto**
-
+Knowledge for Progress
 
 #### **School Crest**
+<img src="/images/telokkurausec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The top section of the crest features a lion, representing Singapore. The red background in that section signifies racial harmony. The remaining portion of the crest has four components. The open book and the two pens represent the pursuit of holistic education. The initials of the school, ‘TKSS’, run diagonally across the crest. The four interlocking rings represent the harmony of the four main races in Singapore, while the burning torch symbolises the passion for continuous learning.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Come on, let’s strive forth<br>
+With our heads up and do the best we can<br>
+To bring honor and pride to ourselves and<br>
+Telok Kurau Secondary school
+
+We have hopes and we have dreams<br>
+Through education we want to achieve<br>
+The skills to serve our country<br>
+And the skills to live in harmony
+
+Come on, let’s strive forth<br>
+We have a mission<br>
+To do the best we can<br>
+To light up the place we call our home YES!<br>
+Telok Kurau Secondary School
