@@ -39,10 +39,14 @@ Since 2001, Telok Kurau Studios Art Centre has been located at the former site o
 |
 
 #### **School Motto**
-
+Nothing without labour
 
 #### **School Crest**
+<img src="/images/telokkurauwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+\-
+
+<br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+\-
