@@ -4,7 +4,7 @@ permalink: /school-histories/swiss-cottage-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/swisscottagesec.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/swisscottagepri7.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Swiss Cottage Secondary School**
 [URL to website](https://swisscottagesec.moe.edu.sg/) - may require to change in future when original website is removed
@@ -61,8 +61,14 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
+| 1962 |  |
+| 1963 |  |
+| 1997 |  |
+| 2013 |  |
+| 2018 |  |
+| 2018 |  |
+| 2018 |  |
+|
 
 #### **School Motto**
 
