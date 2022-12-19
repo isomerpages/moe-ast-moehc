@@ -94,10 +94,44 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+To Strive and Not to Yield
 
 #### **School Crest**
+<img src="/images/teckwhyesec1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The open book symbolises continuous learning and lifelong knowledge. The stripes represent the diverse groups in society, which are unified by a common goal and purpose. The colour grey represents the long-lasting and strong bonds that bind society together.
+
+The shield is a symbol of strength and resilience that withstands threats and challenges. The colour blue depicts the qualities of trustworthiness and commitment. Also the colour of open skies and vast seas, it reflects limitless possibilities and opportunities that are open to those who dare to explore.
+
+The four-pointed star represents students anchored in the school values, who serve as points of influence and inspiration as they light up the lives of others around them. The colour yellow exudes optimism and energy, and carries the promise of a bright future.
+
+The winner’s laurel is associated with champions and is a mark of honour and distinction. It symbolises the school’s quest for excellence and recognition of the different strengths and talents in students.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+Now in our days of joyous youth<br>
+We will strive in earnest search<br>
+For wondrous gleams of truth and light
+
+Like pioneers we'll set the pace<br>
+For all who dare to follow close<br>
+Uphold the codes of our national life
+
+Readied for the calls of home and state<br>
+We'll give forever our best to both<br>
+We'll freely give what we have learned<br>
+Within the walls of Teck Whye
+
+Now in our days of joyous youth<br>
+We will strive in earnest search<br>
+For wondrous gleams of truth and light
+
+Like pioneers we'll set the pace<br>
+For all who dare to follow close<br>
+Uphold the codes of our national life
+
+Readied for the calls of home and state<br>
+We'll give forever our best to both<br>
+We'll freely give what we have learned<br>
+Within the walls of Teck Whye
