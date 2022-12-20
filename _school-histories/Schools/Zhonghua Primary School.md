@@ -87,7 +87,22 @@ Principals:<br>
 Diligence Before Success
 
 #### **School Crest**
+<img src="/images/zhonghuapri1.png" style="width:20%;margin-right:15px;" align = "left">
 
+The school crest shows two letters ‘Z’s, one upright and the other inverted to signify the school’s emphasis in training its students and staff to be flexible in their outlook in life, particularly in problem-solving. The school crest is solid in structure, representing its belief that a school that is well-founded will flourish. The colour turquoise represents vibrant youth.
+
+<br clear="left">
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+When nineteen eighty-seven dawned<br>
+The torch of Zhonghua was first shone<br>
+Calling us all who belong to her<br>
+To set our goals and achieve them together
+
+Chorus:<br>
+In all we do, from each his best<br>
+Diligence will bring us success<br>
+Aiming high always on the go<br>
+Doing well today even better tomorrow
