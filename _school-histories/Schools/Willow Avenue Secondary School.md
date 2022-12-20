@@ -37,16 +37,45 @@ Principal:<br>
 
 |  |  |
 |:---:|---|
-|  |  |
-|  |  |
-|  |  |
+| 1965 | Establishment of Willow Avenue Secondary School. |
+| 1966 | Official opening of the school. |
+| 1991 | Closure of Willow Avenue Secondary School. |
 |
 
 #### **School Motto**
-
+_Kerajinan tangga kejayaan (_Success through labour)
 
 #### **School Crest**
+<img src="/images/willowavenuesec1.png" style="width:20%;margin-right:15px;" align = "left">
 
+\-
+
+<br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+We sing with pride that we are<br>
+From Willow Avenue Secondary School<br>
+We will always strive to be<br>
+Keen in studies and in play<br>
+Working to achieve the best<br>
+For that will only satisfy
+
+Chorus:<br>
+Our motto we’ll remember<br>
+Kerajinan tangga kejayaan<br>
+And endeavour to uphold it<br>
+Now and forever
+
+To our country and our school<br>
+We will always strive to bring<br>
+Honour, fame and greatness as well,<br>
+And so preserve her name<br>
+To our school Willow School<br>
+We will always be true
+
+To be rugged we will learn<br>
+To be loyal and resilient<br>
+For continuous progress<br>
+For peace and harmony we’ll strive<br>
+To achieve all this<br>
+Our motto be our guide
