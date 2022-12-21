@@ -115,6 +115,8 @@ Onward
 
 The red dragon on the left stands for courage, endeavour and the everlasting fire of leadership. The Chinese junk on the right symbolises progress and the ongoing quest for peace and success. The school colours are red and green.
 
+<br clear="left">
+
 #### **School Song**
 **Audio, require school to upload on youtube**
 
