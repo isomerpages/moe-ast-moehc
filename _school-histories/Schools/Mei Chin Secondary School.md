@@ -34,8 +34,8 @@ third_nav_title: Schools
 <img src="/images/meichinsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meichinsec7.jpg">  
-<img src="/images/meichinsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meichinsec9.jpg">  
+<img src="/images/meichinsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
@@ -44,8 +44,8 @@ third_nav_title: Schools
 <img src="/images/meichinsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meichinsec9.jpg">  
-<img src="/images/meichinsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meichinsec7.jpg">  
+<img src="/images/meichinsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
