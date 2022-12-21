@@ -25,12 +25,6 @@ third_nav_title: Schools
 <img src="/images/guangyangsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec5.jpg">  
-<img src="/images/guangyangsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec6.jpg">  
 <img src="/images/guangyangsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
@@ -38,8 +32,6 @@ third_nav_title: Schools
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec7.jpg">  
 <img src="/images/guangyangsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
-
-<br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec8.jpg">  
 <img src="/images/guangyangsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
