@@ -35,18 +35,16 @@ third_nav_title: Schools
 <img src="/images/mayflowerpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mayflowerpri7.jpg">  
-<img src="/images/mayflowerpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mayflowerpri9.jpg">  
+<img src="/images/mayflowerpri9.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
-
-<br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mayflowerpri8.jpg">  
-<img src="/images/mayflowerpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/mayflowerpri8.jpg" style="width:30%;margin-right:17px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mayflowerpri9.jpg">  
-<img src="/images/mayflowerpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mayflowerpri7.jpg">  
+<img src="/images/mayflowerpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
