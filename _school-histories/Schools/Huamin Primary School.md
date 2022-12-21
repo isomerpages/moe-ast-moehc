@@ -36,10 +36,8 @@ third_nav_title: Schools
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/huaminpri7.jpg">  
-<img src="/images/huaminpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/huaminpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
-
-<br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/huaminpri8.jpg">  
 <img src="/images/huaminpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
