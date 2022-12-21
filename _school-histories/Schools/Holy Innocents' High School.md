@@ -13,45 +13,45 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs2.jpg">  
 <img src="/images/hihs2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs4.jpg">  
 <img src="/images/hihs4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs3.jpg">  
 <img src="/images/hihs3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs5.jpg">  
 <img src="/images/hihs5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs6.jpg">  
 <img src="/images/hihs6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs7.jpg">  
 <img src="/images/hihs7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left"><br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs8.jpg">  
 <img src="/images/hihs8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs11.jpg">  
 <img src="/images/hihs11.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs10.jpg">  
 <img src="/images/hihs10.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri4.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hihs9.jpg">  
 <img src="/images/hihs9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
