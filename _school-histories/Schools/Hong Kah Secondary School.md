@@ -87,10 +87,40 @@ Principals:<br>
 |
 
 #### **School Motto**
-
+Conquer Thyself
 
 #### **School Crest**
+<img src="/images/hongkahsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
+The crest represents the school’s philosophy and its commitment to the students’ education. The circular shape reflects the aim of the school to provide a well-rounded education for every Hong Kah student. The three stars represent the three participants in the education enterprise: parents, students and professionals. Each has an important role to play, but the brightest star is the student. The globe signifies the internationalised outlook of the new world-ready youths.
+
+The Chinese characters are a reminder that while students move forward in the name of change, they must not forget the richness of their past. The Hong Kah colours of blue, green and gold symbolise respectively the infinite opportunities to reach for the stars; nature, life and a caring environment; and the ultimate achievement of the star, the invaluable qualities of education.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
+
+A life is given to each one of us<br>
+To make this a better world<br>
+Our life in Hong Kah we shall treasure<br>
+In Hong Kah our true-self we discover. 
+
+Conquer our shadows, fears and tears<br>
+We are blessed with many a strength. <br>
+Wisely we shall tend and use them<br>
+The world is in our hands.
+
+Hong Kah, Hong Kah<br>
+We learn from thee<br>
+We give to thee<br>
+Help us shine of good mind<br>
+Help us care with a heart that's ever kind. 
+
+Firmly nudge our Hong Kah boys<br>
+Gently urge our Hong Kah girls<br>
+Our future to us beckons<br>
+With pride, joy and confidence.
+
+Conquer thyself, conquer thyself<br>
+We learn from thee<br>
+We give to thee<br>
+Together, together we grow.
