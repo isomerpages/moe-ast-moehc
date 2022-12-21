@@ -13,7 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/raymansch2.jpg">  
 <img src="/images/raymansch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
