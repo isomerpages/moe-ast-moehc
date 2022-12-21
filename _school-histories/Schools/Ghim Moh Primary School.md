@@ -55,7 +55,7 @@ The school had an Engage in Creating Orchid Hybrids (ECOH) programme that foster
 
 In 2009, Ghim Moh Primary School merged with New Town Primary School.
 
-Last Serving Principal:
+Last Serving Principal:<br>
 \- Ms Pang Ong Choo (2001-2008)
 
 **Related School: [New Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/)**
