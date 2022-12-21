@@ -46,7 +46,7 @@ In January 2007, Ghim Moh Secondary School merged with Jin Tai Secondary School 
 Last Serving Principal:
 \- Mr Kwok Kah Kuoy (1999 - 2005)
 
-Related Schools: [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) \| [Clementi Woods Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/)
+**Related Schools: [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) \| [Clementi Woods Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/)**
 
 #### **Key Milestones**
 
