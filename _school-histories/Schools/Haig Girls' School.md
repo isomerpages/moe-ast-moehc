@@ -17,34 +17,32 @@ third_nav_title: Schools
 <img src="/images/haiggirls2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls4.jpg">  
-<img src="/images/haiggirls4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls3.jpg">  
+<img src="/images/haiggirls3.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls3.jpg">  
-<img src="/images/haiggirls3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls4.jpg">  
+<img src="/images/haiggirls4.jpg" style="width:30%;margin-right:15px;" align = "right">
+</a></p>
+
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls6.jpg">  
+<img src="/images/haiggirls6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls5.jpg">  
 <img src="/images/haiggirls5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls6.jpg">  
-<img src="/images/haiggirls6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls9.jpg">  
+<img src="/images/haiggirls9.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls7.jpg">  
-<img src="/images/haiggirls7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/haiggirls7.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
-
-<br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls8.jpeg">  
 <img src="/images/haiggirls8.jpeg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haiggirls9.jpg">  
-<img src="/images/haiggirls9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
