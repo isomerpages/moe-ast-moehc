@@ -66,7 +66,7 @@ Principals:<br>
 \- Mrs Marian Chia (2010–2012)<br>
 \- Mr Michael de Silva (2013–2018)
 
-**Related Schools: [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/)**
+**Related Schools: [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) \| [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/)**
 
 #### **Key Milestones**
 
