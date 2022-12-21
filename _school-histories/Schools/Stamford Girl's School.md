@@ -12,19 +12,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordgirls2.jpg">  
 <img src="/images/stamfordgirls2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordgirls3.jpg">  
 <img src="/images/stamfordgirls3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordgirls4.jpg">  
 <img src="/images/stamfordgirls4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordgirls5.jpg">  
 <img src="/images/stamfordgirls5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
