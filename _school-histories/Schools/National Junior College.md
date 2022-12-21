@@ -13,38 +13,38 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc2.jpg">  
 <img src="/images/njc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc3.jpg">  
 <img src="/images/njc3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc4.jpg">  
 <img src="/images/njc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc5.jpg">  
 <img src="/images/njc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc6.jpg">  
 <img src="/images/njc6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc7.jpg">  
 <img src="/images/njc7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc8.jpg">  
 <img src="/images/njc8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/njc9.jpg">  
 <img src="/images/njc9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
