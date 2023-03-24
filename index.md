@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Welcome!
-      background: /images/hero.jpg
+      background: /images/HC pages/00_homehero.jpg
       subtitle: The New Heritage Centre@Balestier is officially open for walk-in
         visits and guided tours. Come Visit!
       button: Visiting Info
