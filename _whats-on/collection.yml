@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Upcoming Events/.keep
-      - Upcoming Events/Upcoming Events.md
+      - Upcoming Events/Current & Upcoming Events.md
       - "Upcoming Events/United We Stand: Fighting COVID19 Together.md"
       - Past Events/.keep
       - Past Events/Past Events.md
