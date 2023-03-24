@@ -1,16 +1,16 @@
 title: MOE Heritage Centre
 url: https://moehc.sg
-favicon: /images/logo.svg
+favicon: /images/HC pages/00_faviconhc.svg
 colors:
-  primary-color: "#ca2126"
-  secondary-color: "#ca2126"
+  primary-color: "#745e4d"
+  secondary-color: "#bd9479"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#cc8a00"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#651d32"
     - title: media-color-three
-      color: "#00838f"
+      color: "#00a499"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
