@@ -4,7 +4,7 @@ permalink: /visit/plan-your-visit/
 description: ""
 image: /images/visit1.png
 ---
-![](/images/visit1.png)
+
 
 ### **Opening Hours**
 **Term Time**<br>
@@ -13,22 +13,18 @@ Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 **School Holidays**<br>
 Monday to Friday | 10am - 5pm (last entry 4.30pm)
 
-**_\*We will be closed on 8 & 10 November for an internal event._**
-
 ### **Contact us**
 [MOE\_Heritage\_Centre@moe.gov.sg](mailto:MOE\_Heritage\_Centre@moe.gov.sg)<br>
 6232 7975
 
-### **Getting Here**
-The new MOE Heritage Centre is located within MOEHQ (Balestier).
-
-**need help inserting google map**
-
+### **Getting to MOEHQ (Balestier)**
+The new MOE Heritage Centre is located within MOEHQ (Balestier).<br>
 **Address:**<br>
 565 Balestier Road, Singapore 329927 | Block C, Level 1
 
-### **Getting to MOEHQ (Balestier)**
-There are 2 entrances to MOEHQ (Balestier), one along **Balestier Road** and one along **Novena Rise**.
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="300" width="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7503137509107!2d103.84271531426543!3d1.3257380620229395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a40abcf9e23%3A0xa654727479cc25a7!2sMOE%20Heritage%20Centre!5e0!3m2!1sen!2ssg!4v1679640780607!5m2!1sen!2ssg"></iframe>
+
+There are 2 entrances to MOEHQ (Balestier), one along&nbsp;**Balestier Road**&nbsp;and one along&nbsp;**Novena Rise**.
 
 **By car:**<br>
 If you are driving, please enter via the Novena Rise entrance, off Thomson Road. For GPS directions, please key in 11 Novena Rise S307516 (ELD Training Centre). MOE building will be on the left of the ELD building.<br>
@@ -53,3 +49,5 @@ Enter via the door beside the carpark, turn left and walk along the Collab Space
 
 ### **Things to Note**
 As we are located in an MOE office building, please note that all visitors above 7 years of age will require a valid photo ID (NRIC, Driving License, PS Card, Student Ez-link etc.) for registration to enter the building.
+
+Admission is free for all walk-in visitors. 
