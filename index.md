@@ -4,13 +4,13 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: "*We will be closed on 8 & 10 November for an internal event."
+notification: ""
 sections:
   - hero:
       title: Welcome to MOE Heritage Centre
       background: /images/hero.jpg
-      subtitle: The New Heritage Centre@Balestier is officially open. We are open for
-        walk-in visits and guided tours. Come Visit!
+      subtitle: The New Heritage Centre@Balestier is officially open for walk-in
+        visits and guided tours. Come Visit!
       button: Visiting Info
       url: /visit/plan-your-visit/
       key_highlights:
