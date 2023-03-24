@@ -21,34 +21,21 @@ sections:
           description: Join our mailing list!
           url: https://form.gov.sg/5d5ce49deae0bb00128b8ef5
   - infopic:
-      title: Highlights
-      subtitle: MOE Heritage Centre
-      description: Explore School Histories
+      title: School Histories
+      subtitle: Spotlight
+      description: Explore the rich histories of our schools in this online repository.
       button: Click Here
       url: /school-histories/
       alt: Image alt text
+      image: /images/HC pages/00_highlight01.png
   - infopic:
-      title: Highlights
-      subtitle: MOE Heritage Centre
-      description: Virtual Tour
-      button: Click Here
+      title: Virtual Tour
+      subtitle: Spotlight
+      description: Explore selected content from our gallery here
+      button: CLICK HERE
       url: /explore/
-      image: /images/infobar2.png
+      image: /images/HC pages/00_highlight02.png
       alt: Image alt text
-  - infopic:
-      title: Highlights
-      subtitle: MOE Heritage Centre
-      description: What's On
-      button: Click here
-      url: /whats-on/upcoming-events/
-      image: /images/infobar3.png
-      alt: Image alt text
-  - infobar:
-      title: Stay Updated
-      button: Subscribe to our Mailing List
-      url: https://form.gov.sg/#!/5d5ce49deae0bb00128b8ef5
-      subtitle: MOE HEritage Centre
-      description: Be the first to know of upcoming events!
   - infobar:
       title: Something to contribute?
       subtitle: MOE HEritage Centre
