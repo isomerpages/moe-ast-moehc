@@ -2,7 +2,6 @@ collections:
   collection:
     output: true
     order:
-      - Takedown Policy.md
       - Collection.md
       - Books/The New Method Readers.md
       - Books/The Janet and John Series.md
