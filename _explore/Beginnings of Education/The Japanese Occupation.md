@@ -43,7 +43,7 @@ To enforce the learning of the Japanese language, dedicated language schools lik
 <figure>
 <img src="/images/japaneseoccupation1.png" style="width:65%">
 <figcaption><strong>A Japanese language class during the Japanese Occupation (c. 1942).</strong><br>
-Soh Chuan Lam Collection, courtesy of National Archives of Singapore.
+	<small>Soh Chuan Lam Collection, courtesy of National Archives of Singapore.</small>
 </figcaption>  
 </figure>	
 	
@@ -88,7 +88,7 @@ Every morning, students and teachers had to assemble, face the direction of the 
 <figure>	
 <img src="/images/japaneseoccupation5.png" style="width:65%">
 <figcaption><strong>People bowing to the Japanese troops (1945).</strong><br>
-Argus newspaper collection of war photographs, State Library of Victoria.
+	<small>Argus newspaper collection of war photographs, State Library of Victoria.</small>
 </figcaption>
 </figure>	
 	
@@ -104,7 +104,7 @@ Courtesy of the National Museum of Singapore, National Heritage Board.
 <figure>
 <img src="/images/japaneseoccupation7.png" style="width:65%">	
 <figcaption><strong>Farming during the Japanese Occupation (1942 – 1945).</strong><br>
-F A C Oehlers Collection, courtesy of National Archives of Singapore.
+	<small>F A C Oehlers Collection, courtesy of National Archives of Singapore.</small>
 </figcaption>
 </figure>	
   
