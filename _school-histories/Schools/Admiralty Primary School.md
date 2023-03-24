@@ -7,11 +7,9 @@ third_nav_title: Schools
 <img src="/images/admps.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Admiralty Primary School**
-[URL to website](https://admiraltypri.moe.edu.sg/) - may require to change in future when original website is removed
+[School Website](https://admiraltypri.moe.edu.sg/)
 
-<br clear="left">
-
-#### **Image Gallery**
+### **Image Gallery**
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps1.jpg">  
 <img src="/images/admps1.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -102,7 +100,7 @@ The letter ‘A’ formed by these symbols is derived from the school’s name. 
 
 #### **School Song**
 
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/12s23O1VtL5iVu8kNyCH8Z1BuycFnd5iZ/view?usp=share_link">Audio file</a>
 
 With an all round education<br>
 We shall keep on moving<br>
