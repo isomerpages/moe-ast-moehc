@@ -26,7 +26,6 @@ sections:
       description: Explore School Histories
       button: Click Here
       url: /school-histories/
-      image: /images/infobar1.png
       alt: Image alt text
   - infopic:
       title: Highlights
