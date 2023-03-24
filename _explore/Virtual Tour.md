@@ -11,7 +11,7 @@ description: ""
 
 |  |
 |:---:|
-| **[Click here to begin Virtual Tour](https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour)** <br>need help with migrating |
+| **[Click here to begin Virtual Tour](https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour)** <br>
 |  |
 
 ### **Explore in Detail**
