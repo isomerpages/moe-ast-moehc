@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Welcome to MOE Heritage Centre
+      title: Welcome!
       background: /images/hero.jpg
       subtitle: The New Heritage Centre@Balestier is officially open for walk-in
         visits and guided tours. Come Visit!
