@@ -4,7 +4,7 @@ permalink: /explore/the-japanese-occupation/
 description: ""
 third_nav_title: Beginnings of Education
 ---
-<img src="/images/beginningsofeducation2.gif" style="width:85%">
+<img src="/images/beginningsofeducation2.gif" style="width:100%">
 
 <img src="/images/japoccupation.png" style="width:40%;margin-left:15px;" align = "right">
 
