@@ -17,9 +17,9 @@ sections:
         - title: Contact Us
           description: ""
           url: /contactus/
-        - title: Useful Links
-          description: ""
-          url: /useful-links/
+        - title: Subscribe
+          description: Join our mailing list!
+          url: https://form.gov.sg/5d5ce49deae0bb00128b8ef5
   - infopic:
       title: Highlights
       subtitle: MOE Heritage Centre
