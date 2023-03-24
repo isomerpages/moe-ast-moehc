@@ -23,9 +23,4 @@ contacts:
       - email: MOE_Heritage_Centre@moe.gov.sg
       - other: "Office Hours: 8.30am - 6pm"
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
