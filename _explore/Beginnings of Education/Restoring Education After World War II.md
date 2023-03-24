@@ -38,7 +38,7 @@ A key step in rebuilding education was the formulation of the Ten-Year Programme
 <br clear="left">	
 	
 <figcaption><strong>
-Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>The document states the principles behind Singapore’s education policy for the next ten years.Courtesy of National Library Board.
+Educational Policy in the Colony of Singapore: Ten-Year Programme.</strong><br>The document states the principles behind Singapore’s education policy for the next ten years. Courtesy of National Library Board.
 </figcaption>	
 </figure>
 	
@@ -66,7 +66,7 @@ The post-war period saw shortages of food, medicine and other basic supplies. Ma
 <figure>	
 <img src="/images/restoringeducation5.png" style="width:65%">
 <figcaption><strong>Mobile rationing units distributing supplies to residents (1949).</strong><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+<small>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</small>
 </figcaption>	
 </figure>
 	
@@ -91,7 +91,7 @@ Many returning students were overaged and had their education disrupted due to t
 <img src="/images/restoringeducation6.png" style="width:65%">
 <figcaption><strong>
 A night class at Thomson Shin Min Public School catering to youths whose education was disrupted during the Japanese Occupation (1949).</strong><br>
-Shin Min Public School Collection, courtesy of National Archives of Singapore.	
+	<small>Shin Min Public School Collection, courtesy of National Archives of Singapore.	</small>
 </figcaption>	
 </figure>
 	
@@ -130,14 +130,14 @@ Teachers playing their musical instruments after lunch (1950s).</strong>
 <img src="/images/restoringeducation9.png" style="width:65%">
 <figcaption><strong>
 Teachers-in-training doing physical exercises at the Teachers’ Training College (1954).</strong>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<small>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</small>
 </figcaption>	
 </figure>
 	
 <figure>	
 <img src="/images/restoringeducation10.png" style="width:65%">
 <figcaption><strong>Teachers-in-training attending lectures at the Teachers’ Training College (1954).</strong><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
+<small>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</small>
 </figcaption>	
 </figure>	
 
@@ -145,7 +145,7 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 <img src="/images/restoringeducation11.png" style="width:65%">
 <figcaption><strong>
 Teachers' Training College at Paterson Road, between 1956 and 1965.</strong><br>
-Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+<small>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</small>
 </figcaption>
 </figure>	
 	
