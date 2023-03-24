@@ -36,10 +36,4 @@ sections:
       url: /explore/
       image: /images/HC pages/00_highlight02.png
       alt: Image alt text
-  - infobar:
-      title: Something to contribute?
-      subtitle: MOE HEritage Centre
-      description: School Histories Online Contribution
-      button: Contact Us
-      url: https://form.gov.sg/#!/5f728518ce42b600116dfdbe
 ---
