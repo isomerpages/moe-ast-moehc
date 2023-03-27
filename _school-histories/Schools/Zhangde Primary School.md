@@ -98,7 +98,6 @@ The mirror image of the letter ‘Z’ represents a reflective learner who is a 
 The school crest has a light blue background, signifying a resilient Zhangderen who thrives in the midst of change and challenges.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 Work we must all the time, in studies and CCA.<br>
 Building healthy bodies and mind, always helpful in every way.<br>
