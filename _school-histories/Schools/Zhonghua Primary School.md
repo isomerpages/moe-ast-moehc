@@ -94,7 +94,6 @@ The school crest shows two letters ‘Z’s, one upright and the other inverted 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 When nineteen eighty-seven dawned<br>
 The torch of Zhonghua was first shone<br>
