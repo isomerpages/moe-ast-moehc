@@ -97,7 +97,6 @@ The blue globe in the form of a stylised ‘H’ represents the global opportuni
 The colour red represents the plasma of life. The slashed ‘Z’ breaking out of its frame symbolises the need to break out of a mindset and its confines so that greater heights of achievement can be reached.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 **Riding On the Winds of Change**
 
