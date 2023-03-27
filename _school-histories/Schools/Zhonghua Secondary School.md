@@ -95,7 +95,6 @@ The school crest takes the shape of a begonia leaf. The begonia has dark green l
 Students are encouraged to emulate the enduring qualities of the begonia – to be steadfast, strong, determined and decisive. Students are also encouraged to cultivate qualities such as excellence, endurance, hope and goodness.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 We, sons and daughters of Zhonghua<br>
 Are to be courteous and righteous<br>
