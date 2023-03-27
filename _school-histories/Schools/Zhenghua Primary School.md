@@ -98,7 +98,6 @@ Laurel: success and distinction.<br>
 Triangle: unity of an integrated education.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 For Zhenghua we sing<br>
 For Zhenghua we stand<br>
