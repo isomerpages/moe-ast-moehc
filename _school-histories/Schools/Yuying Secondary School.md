@@ -110,7 +110,6 @@ The eagle in flight in the middle of the crest symbolises the students soaring l
 A reminder to stay rooted, the white and red colours bear similar symbolic meaning to the national flag. White represents purity, and the red eagle symbolises universal brotherhood and teamwork. These values also invoke the school motto, ‘Together, Achieve Personal Excellence’, which emphasises the importance of teamwork and unity within the school. The focus on excellence spurs students of Yuying Secondary School to realise their potential and face every challenge with courage and determination.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 Yuying, Yuying<br>
 You nurture us<br>
