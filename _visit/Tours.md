@@ -12,4 +12,7 @@ Scheduled guided tours of MOE Heritage Centre is conducted during school holiday
 Registration is required so look out for the forms. 
 
 **Tour Request**<br>
-Please write in to MOE_Heritage_Centre@moe.gov.sg for any tour requests. Confirmation of tour slot is subjected to availability of docents.
+Please write in to MOE_Heritage_Centre@moe.gov.sg for any tour requests. 
+Tour requests to be made at least one to two months in advance. 
+
+Confirmation of tour slot is subjected to availability of docents.
