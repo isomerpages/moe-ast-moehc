@@ -4,52 +4,53 @@ permalink: /school-histories/admps/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/admps.png">
+<img src="/images/admps.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Admiralty Primary School**
 [School Website](https://admiraltypri.moe.edu.sg/)
 
 ### **Image Gallery**
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSBrSuzlI70VR1idec0B1T3RDQq9BjOdqIOEVUaWqDc1L9BHYH1AV4k7__ou4XdZ3AP82ToeGl21d7/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps1.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps1.jpg">
+<img src="/images/admps1.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps2.jpg">
+<img src="/images/admps2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps3.jpg">
+<img src="/images/admps3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps4.jpg">
+<img src="/images/admps4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps6.jpg">
+<img src="/images/admps6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps8.jpg">
+<img src="/images/admps8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps7.jpg">
+<img src="/images/admps7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/admps5.jpeg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps5.jpeg">
+<img src="/images/admps5.jpeg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<iframe allowfullscreen="true" height="338" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRSBrSuzlI70VR1idec0B1T3RDQq9BjOdqIOEVUaWqDc1L9BHYH1AV4k7__ou4XdZ3AP82ToeGl21d7/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 #### **School History**
 Established in 1997, Admiralty Primary School started with 45 classes at Woodlands Circle. Built in the midst of a flourishing public-housing neighbourhood, the school serves the growing population of children in the estate. Being a relatively young school, Admiralty Primary was free to experiment, create and innovate. In a few short years, the school managed to forge a unique identity for itself.&nbsp;  
@@ -84,7 +85,7 @@ Principals:<br>
 Knowledge with Humanity
 
 #### **School Crest**
-<img align="left" style="width:30%;margin-right:15px;" src="/images/admps.png">
+<img src="/images/admps.png" style="width:30%;margin-right:15px;" align="left">
 
 <br>The school crest was designed through collaborative effort of the teachers. The symbols of an open book, a hand and five bands in a circular badge with the colors, blue, yellow and red form the emblem. The colors, blue, yellow and red stand for humanity, excellence and equal opportunity respectively.
 
