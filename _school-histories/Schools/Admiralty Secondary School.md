@@ -7,8 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/adss1.jpg">
 
 ### **Admiralty Secondary School**
-[URL to website](https://admiraltysec.moe.edu.sg/)
-
+[School Website](https://admiraltysec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
@@ -103,7 +102,7 @@ The central figure underscores the student-centred education that the school aim
 
 #### **School Song**
 
-<a href="https://drive.google.com/file/d/1AbEZclG7eBhlHEefRCUtbq6busCOoDLi/view?usp=sharing">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1AbEZclG7eBhlHEefRCUtbq6busCOoDLi/view?usp=sharing"     target="_blank">**♫ Listen**</a>
 
 Standing tall and proud<br>
 With one heart<br>
