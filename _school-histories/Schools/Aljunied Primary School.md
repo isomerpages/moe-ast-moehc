@@ -40,4 +40,4 @@ Perseverance
 <br clear="left">
 
 #### **School Song**
-\-
+*<small>School song unavailable</small>*
