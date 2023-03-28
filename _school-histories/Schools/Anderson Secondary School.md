@@ -79,7 +79,7 @@ Principals:<br>
 With Constancy and Purpose
 
 #### **School Crest**
-<img src="/images/andersonsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/school-histories/andersonseclogo.png" style="width:20%;margin-right:15px;" align = "left">
 
 The school emblem is the bamboo, which symbolises greatness, nobility, distinction, purity and humility. It epitomises all that is spirited, unswerving and unyielding.
 
