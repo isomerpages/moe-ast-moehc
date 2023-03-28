@@ -4,23 +4,24 @@ permalink: /school-histories/alexandra-hill-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/alexandrahillpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/alexandrahillpri1.png">
 
 ### **Alexandra Hill Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR83WPvKHDJDQ9tcuqZqsc2WRjm6euMx0LElrvjNYYw_3IKhFg0e2bV9YWCBbjFg9uCPz1SAibDZpuH/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri2.jpg">  
-<img src="/images/alexandrahillpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrahillpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri3.jpg">  
-<img src="/images/alexandrahillpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrahillpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri4.jpg">  
-<img src="/images/alexandrahillpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrahillpri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -32,7 +33,7 @@ In January 1987, Alexandra Hill Primary School introduced the Reading and Englis
 
 In June 1995, Alexandra Hill Primary School was one of six pilot schools to introduce the Accelerating the Use of Information Technology in Primary Schools (AITP) project.
 
-The school published a regular newsletter, initially entitled _Alexstar_. After 1996, the newsletter was called _Alexandra Hill Newsletter_.
+The school published a regular newsletter, initially entitled&nbsp;_Alexstar_. After 1996, the newsletter was called&nbsp;_Alexandra Hill Newsletter_.
 
 In 1997, Alexandra Hill Primary School absorbed students from Bukit Merah Primary School. In January 1998, the school moved to the former Bukit Merah Primary School premises at 100 Redhill Close. In 2000, the school was relocated to a temporary school building at 1 Telok Blangah Rise while its building was being renovated.
 
@@ -41,7 +42,7 @@ In January 2002, the school merged with Bukit Ho Swee Primary School, Henderson 
 Last Serving Principal:<br>
 \- Mrs Goh Chin Neo Eileen (1997–2001) 
 
-**Related Schools:** **[Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/)** \| **[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)** \| **[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)** \| **[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
+**Related Schools:**&nbsp;**[Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/)**&nbsp;\|&nbsp;**[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)**&nbsp;\|&nbsp;**[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)**&nbsp;\|&nbsp;**[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
 
 #### **Key Milestones**
 
@@ -58,9 +59,9 @@ Usaha Itu Jaya
 “Hard Work Leads To Success”
 
 #### **School Crest**
-<img src="/images/alexandrahillpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/alexandrahillpri1.png">
 
-The **torch** signifies passion for learning. It is surrounded by the name of the school in Chinese. Underscoring the crest is the school motto, “Usaha Itu Jaya”.
+The&nbsp;**torch**&nbsp;signifies passion for learning. It is surrounded by the name of the school in Chinese. Underscoring the crest is the school motto, “Usaha Itu Jaya”.
 
 <br clear="left">
 
