@@ -4,19 +4,15 @@ permalink: /school-histories/aljunied-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/aljuniedpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/aljuniedpri1.png">
 
 ### **Aljunied Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRS0b91kOLZ9_XY428EfZO0o4M1hPWjNK5Mywo23B4c3w--mnmbgWt27RSafQqO4VLJ9l1fXlejaN0P/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aljuniedpri2.jpg">  
-<img src="/images/aljuniedpri2.jpg" style="width:45%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Aljunied Primary School was established in 1971.  
@@ -35,7 +31,7 @@ When the school closed in 1977, the remaining students of Aljunied Primary Schoo
 Perseverance
 
 #### **School Crest**
-<img src="/images/aljuniedpri1.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aljuniedpri1.png">
 
 <br clear="left">
 
