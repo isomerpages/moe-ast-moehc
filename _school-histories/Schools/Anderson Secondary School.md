@@ -7,9 +7,8 @@ third_nav_title: Schools
 <img src="/images/andersonsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Anderson Secondary School**
-[URL to website](https://andersonsec.moe.edu.sg/)
+[School Website](https://andersonsec.moe.edu.sg/)
 
-<br clear="left">
 
 #### **Image Gallery**
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec2.jpg">  
@@ -87,7 +86,7 @@ The school emblem is the bamboo, which symbolises greatness, nobility, distincti
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="_blank" href="https://drive.google.com/file/d/1krUBhyAmNt52wxSHl_5YYLY_dYL19qlT/view?usp=share_link">**♫ Listen**</a>
 
 **The March of The Andersonians**
 
