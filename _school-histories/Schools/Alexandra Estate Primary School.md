@@ -7,7 +7,6 @@ third_nav_title: Schools
 <img src="/images/alexandraestatepri1.png" style="width:30%;margin-right:15px;" align = "left">
 
 ### **Alexandra Estate Primary School**
-
 <br clear="left">
 
 #### **Image Gallery**
@@ -48,4 +47,4 @@ All Endeavours Produce Success<br>
 <br clear="left">
 
 #### **School Song**
-\-
+<small>*School song unavailable*</small>
