@@ -95,7 +95,7 @@ The three primary colours – Blue, Red and Yellow - represent the School Philos
 The ornate-shape shield is incorporated into the design to reflect the heritage of the area where the school is situated.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1sVmPxvp3A-Shrl2qkl1v-rR3c6vtRlTr/view?usp=share_link"     target="_blank">**♫ Listen**</a>
 
 **Verse 1**<br>
 The sky is our limit<br>
