@@ -4,19 +4,20 @@ permalink: /school-histories/ama-keng-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/amakengsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/amakengsch1.png">
 
 ### **Ama Keng School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTQnNfVQADSmXDyJcAwEt7CBzmv3xpU7vF-JQ6kmmazA6L8RTgQTCPmIOoaMRHUVOvPzWxM0YnzIaR/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amakengsch2.jpg">  
-<img src="/images/amakengsch2.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img align="left" style="width:35%;margin-right:15px;" src="/images/amakengsch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amakengsch3.jpg">  
-<img src="/images/amakengsch3.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img align="left" style="width:35%;margin-right:15px;" src="/images/amakengsch3.jpg">
 </a></p>
 
 <br clear="left">
@@ -40,7 +41,7 @@ In 1990, Ama Keng School merged with Nam San School to form South View Primary S
 Alert Keen Steady
 
 #### **School Crest**
-<img src="/images/amakengsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/amakengsch1.png">
 
 <br clear="left">
 
