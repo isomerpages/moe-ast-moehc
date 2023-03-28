@@ -4,22 +4,23 @@ permalink: /school-histories/alexandra-estate-pri-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/alexandraestatepri1.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri1.png">
 
 ### **Alexandra Estate Primary School**
 <br clear="left">
 
 #### **Image Gallery**
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStE_SMO-XkZNmO0JX47tMA80TTL23zm35_sfIzeZLVvScRKJhz6-UnyXtNN991PCMmy8z3wMBmT1Zh/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri2.jpg">  
-<img src="/images/alexandraestatepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri3.jpg">  
-<img src="/images/alexandraestatepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri4.jpg">  
-<img src="/images/alexandraestatepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -42,7 +43,7 @@ All Endeavours Produce Success<br>
 (The acronym of the school’s motto (AEPS) was creatively designed to match the abbreviation of the school’s name - Alexandra Estate Primary School (AEPS).)
 
 #### **School Crest**
-<img src="/images/alexandraestatepri1.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri1.png">
 
 <br clear="left">
 
