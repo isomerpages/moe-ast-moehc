@@ -100,7 +100,7 @@ The pair of wings symbolises the school soaring into greater heights, seeking hi
 The circles symbolise the cohesive spirit of the teachers and students working together towards a common goal.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1O3X4aOVMOO7t5X1T68QwRFhsKH7tNpvS/view?usp=share_link"     target="_blank">**♫ Listen**</a>
 
 我&nbsp; &nbsp; 爱&nbsp; &nbsp; 爱&nbsp; &nbsp; 同&nbsp; &nbsp; 贯&nbsp; &nbsp; 彻&nbsp; &nbsp; 始&nbsp; &nbsp; 终<br>
 wo ai ai tong tong guan che shi zhong
