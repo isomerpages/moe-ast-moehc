@@ -4,47 +4,46 @@ permalink: /school-histories/ai-tong-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/aitongsch1.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch1.png">
 
 ### **Ai Tong School**
-[URL to website](http://www.aitong.moe.edu.sg/)
-
+[School Website](http://www.aitong.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUgGLw1uOmFinEXq9RoNEiTzWMtt6NLYUrx9XLENFUlPguIsI2f-ahCNOaGValxfpzBzRMeK6A6JAV/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch2.jpg">  
-<img src="/images/aitongsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch3.jpg">  
-<img src="/images/aitongsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch4.jpg">  
-<img src="/images/aitongsch4.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img align="left" style="width:28%;margin-right:15px;" src="/images/aitongsch4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch7.jpg">  
-<img src="/images/aitongsch7.jpg" style="width:29%;margin-right:60px;" align = "right">
+<img align="right" style="width:29%;margin-right:60px;" src="/images/aitongsch7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch5.jpg">  
-<img src="/images/aitongsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch6.jpg">  
-<img src="/images/aitongsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch8.jpg">  
-<img src="/images/aitongsch8.jpg" style="width:33.5%;margin-right:15px;" align = "left">
+<img align="left" style="width:33.5%;margin-right:15px;" src="/images/aitongsch8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aitongsch9.jpg">  
-<img src="/images/aitongsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -86,10 +85,10 @@ Principals:<br>
 |
 
 #### **School Motto**
-Sincerity & Perseverance 诚毅
+Sincerity &amp; Perseverance 诚毅
 
 #### **School Crest**
-<img src="/images/aitongsch1.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch1.png">
 
 The school logo resembles a flying wheel.<br>
 The sign 同 gives the school its name, Ai Tong School
@@ -103,23 +102,23 @@ The circles symbolise the cohesive spirit of the teachers and students working t
 #### **School Song**
 **Audio, require school to upload on youtube**
 
-我    爱    爱    同    贯    彻    始    终<br>
+我&nbsp; &nbsp; 爱&nbsp; &nbsp; 爱&nbsp; &nbsp; 同&nbsp; &nbsp; 贯&nbsp; &nbsp; 彻&nbsp; &nbsp; 始&nbsp; &nbsp; 终<br>
 wo ai ai tong tong guan che shi zhong
 
-同    学    相    勉    声    气    相    通<br>
+同&nbsp; &nbsp; 学&nbsp; &nbsp; 相&nbsp; &nbsp; 勉&nbsp; &nbsp; 声&nbsp; &nbsp; 气&nbsp; &nbsp; 相&nbsp; &nbsp; 通<br>
 tong xue xiang mian sheng qi xiang tong
 
-语  文  基  础  打  得  稳<br>
+语&nbsp; 文&nbsp; 基&nbsp; 础&nbsp; 打&nbsp; 得&nbsp; 稳<br>
 yu wen ji chu da de wen
 
-专  心  好  把  科  学  攻<br>
+专&nbsp; 心&nbsp; 好&nbsp; 把&nbsp; 科&nbsp; 学&nbsp; 攻<br>
 zhuan xin hao ba ke xue gong
 
-力  求   上   进   准   备   做   人   做  事<br>
+力&nbsp; 求&nbsp; &nbsp;上&nbsp; &nbsp;进&nbsp; &nbsp;准&nbsp; &nbsp;备&nbsp; &nbsp;做&nbsp; &nbsp;人&nbsp; &nbsp;做&nbsp; 事<br>
 li qiu shang jin zhun bei zuo ren zuo shi
 
-做  个  未  来  主  人  翁<br>
+做&nbsp; 个&nbsp; 未&nbsp; 来&nbsp; 主&nbsp; 人&nbsp; 翁<br>
 zuo ge wei lai zhu ren weng
 
-共   为   本   国   效   忠<br>
+共&nbsp; &nbsp;为&nbsp; &nbsp;本&nbsp; &nbsp;国&nbsp; &nbsp;效&nbsp; &nbsp;忠<br>
 gong wei ben guo xiao zhong
