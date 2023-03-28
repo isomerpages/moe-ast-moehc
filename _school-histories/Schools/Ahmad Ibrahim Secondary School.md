@@ -4,49 +4,48 @@ permalink: /school-histories/ahmad-ibrahim-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ahmadibrahimsec1.jpg" style="width:15%;margin-right:15px;" align = "left">
+<img align="left" style="width:15%;margin-right:15px;" src="/images/ahmadibrahimsec1.jpg">
 
 ### **Ahmad Ibrahim Secondary School**
-[URL to website](https://ahmadibrahimsec.moe.edu.sg/)
-
+[School Website](https://ahmadibrahimsec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfBWcXJlK69akOLWm0uxLOKnTFK6t9H-7TGkBL3yVYTYUZvbQ6wS9l528Ty25ihmFV0eVXqAf6rIYm/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec2.jpg">  
-<img src="/images/ahmadibrahimsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec3.jpg">  
-<img src="/images/ahmadibrahimsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
-<img src="/images/ahmadibrahimsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec5.jpg">  
-<img src="/images/ahmadibrahimsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec6.jpg">  
-<img src="/images/ahmadibrahimsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec7.jpg">  
-<img src="/images/ahmadibrahimsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec8.jpg">  
-<img src="/images/ahmadibrahimsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec9.jpg">  
-<img src="/images/ahmadibrahimsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -103,7 +102,7 @@ Principals:<br>
 With Integrity and Compassion
 
 #### **School Crest**
-<img src="/images/ahmadibrahimsec1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec1.jpg">
 
 <br>The torch with its red glowing flame symbolises the light of integrity and the warmth of compassion. It inspires every student to bear the truth, stand up for righteousness and, at the same time, have a heart for others and serve those in need.
 
@@ -113,7 +112,7 @@ The green colour shows the school’s shared value of harmony in a multiracial, 
 
 #### **School Song**
 
-**Audio, require school to upload on youtube**
+<a target="_blank" href="https://drive.google.com/file/d/1KSCDFotwMlNfHp7IEVIyisWFpSVSOOGc/view?usp=sharing">**♫ Listen**</a>
 
 With different dreams and aspirations<br>
 We’ve come to share a vision<br>
