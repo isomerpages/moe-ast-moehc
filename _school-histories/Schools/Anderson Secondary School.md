@@ -4,7 +4,7 @@ permalink: /school-histories/anderson-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/School%Histories/andersonsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/school-histories/andersonseclogo.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Anderson Secondary School**
 [School Website](https://andersonsec.moe.edu.sg/)
