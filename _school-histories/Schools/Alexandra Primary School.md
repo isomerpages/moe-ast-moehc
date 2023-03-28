@@ -7,8 +7,7 @@ third_nav_title: Schools
 <img src="/images/alexandrapri1.png" style="width:20%;margin-right:15px;" align = "left">
 
 ### **Alexandra Primary School**
-[URL to website](http://alexandrapri.moe.edu.sg/)
-
+[School Website](http://alexandrapri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
