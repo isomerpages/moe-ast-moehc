@@ -4,7 +4,7 @@ permalink: /school-histories/admiralty-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/adss1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/adss1.jpg">
 
 ### **Admiralty Secondary School**
 [URL to website](https://admiraltysec.moe.edu.sg/)
@@ -12,41 +12,41 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQwN7CmoHa3fqDvKTJIuHYuwaDsq0I0sFoa50VN0SEHRmPrsbu60w9qpq2HdpEqBqz0B7pZpBVUWXQF/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss2.jpg"> 
-<img src="/images/adss2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss3.jpg"> 
-<img src="/images/adss3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss4.jpg"> 
-<img src="/images/adss4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss5.jpg"> 
-<img src="/images/adss5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss6.jpg"> 
-<img src="/images/adss6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss7.jpg"> 
-<img src="/images/adss7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss8.jpg"> 
-<img src="/images/adss8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/adss9.jpg"> 
-<img src="/images/adss9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,13 +54,13 @@ third_nav_title: Schools
 #### **School History**
 Admiralty Secondary School (ADSS) was established in 2002 at the premises of Evergreen Secondary School. It officially opened at its current site at 31 Woodlands Crescent in 2004.
 
-ADSS recognises the potential of technology to transform society. The school enhanced its STEM (Science, Technology, Engineering and Mathematics) curriculum to equip students with the skills to embrace the increasing prevalence of technology in our lives. The school’s efforts were affirmed when it was recognised as a school with a niche in Robotics Enterprise in 2006, just four years after its establishment. 
+ADSS recognises the potential of technology to transform society. The school enhanced its STEM (Science, Technology, Engineering and Mathematics) curriculum to equip students with the skills to embrace the increasing prevalence of technology in our lives. The school’s efforts were affirmed when it was recognised as a school with a niche in Robotics Enterprise in 2006, just four years after its establishment.&nbsp;
 
 Riding on its strength in technology, ADSS introduced its Applied Learning Programme (ALP) and Learning for Life Programme (LLP) in 2014 and 2015 respectively. The ALP, ‘Design Thinking through Innovation and Technology’, aims to equip all students with basic skills in electronics, programming and coding, as well as to empathise with users through Design Thinking. The LLP, ‘Nurturing Mindful Leaders Through Community Outreach’, develops leaders who demonstrate the school values by equipping them with necessary life skills to be responsible, caring and world-ready citizens.
 
-ADSS observed that its ALP and LLP could complement each other in providing a meaningful and authentic context for learning. Recognising the importance for students to develop competencies to thrive in an increasingly digitised world, ADSS introduced the iPad as an educational tool for students to take greater ownership of their learning. All students would own and use the iPad during lessons. These initiatives embrace the school’s focus on future-proofing the students, and developing them as self-directed learners with 21st-century competencies.
+ADSS observed that its ALP and LLP could complement each other in providing a meaningful and authentic context for learning.&nbsp;Recognising the importance for students to develop competencies to thrive in an increasingly digitised world, ADSS introduced the iPad as an educational tool for students to take greater ownership of their learning. All students would own and use the iPad during lessons.&nbsp;These initiatives embrace the school’s focus on future-proofing the students, and developing them as self-directed learners with 21st-century competencies.
 
-In commemoration of ADSS’ 15th anniversary in 2017, the school took stock of its growth in the community with the launch of the ADSS Heritage Space – a place that documents the development of the school from its inception to its present state, as well as the changing face of the northern tip of Singapore. A Northern Heritage Trail was launched in collaboration with the National Heritage Board (NHB) to partner the community in appreciating the rich culture and history of the northern area – Woodlands, Sembawang, Yishun and Admiralty.
+In commemoration of ADSS’ 15th&nbsp;anniversary in 2017,&nbsp;the school took stock&nbsp;of its growth in the community with the launch of the ADSS Heritage Space – a place that documents the development of the school from its inception to its present state, as well as the changing face of the northern tip of Singapore. A Northern Heritage Trail was launched in collaboration with the National Heritage Board (NHB) to partner the community in appreciating the rich culture and history of the northern area – Woodlands, Sembawang, Yishun and Admiralty.
 
 The year 2018 marked another milestone in the history of ADSS. The school witnessed the fruit of its labour when Chng Yee Sin Renee became the first alumnus to receive the Lee Kuan Yew Award for All-Round Excellence. In addition, the completion of the Indoor Sports Hall provides the school with one more learning space to strengthen its efforts in developing the students holistically.
 
@@ -90,7 +90,7 @@ Principals:<br>
 To be a Guiding Light that Shines
 
 #### **School Crest**
-<img src="/images/adss1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/adss1.jpg">
 The main colour of the crest is blue in various shades. The lighter tone represents the sky and the darker tone represents the sea. The sea symbolises the vastness of knowledge, and the sky represents the breadth of enterprise in the students.
 
 Among all structural shapes, the triangle is the most stable, conveying the school’s ability to stand the test of time and any dynamic changes. The apex of the triangle represents an arrow capable of penetrating barriers to explore new frontiers of knowledge.
@@ -103,7 +103,7 @@ The central figure underscores the student-centred education that the school aim
 
 #### **School Song**
 
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1AbEZclG7eBhlHEefRCUtbq6busCOoDLi/view?usp=sharing">**♫ Listen**</a>
 
 Standing tall and proud<br>
 With one heart<br>
