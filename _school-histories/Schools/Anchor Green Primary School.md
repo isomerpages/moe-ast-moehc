@@ -88,7 +88,7 @@ The ring of the anchor is illustrated as a child with outstretched arms which sy
 The anchor is cocooned by 2 subtended arcs. The green arc at the bottom represents every Anchor Green student’s commitment to save and protect the environment. The blue arc on top represents Anchor Green student’s commitment to the global community. The entire logo tilted at an axis symbolizes creativity and innovation.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1iH-nkLOAu85RNYxiKZPAhiKr2UUMcH0c/view?usp=sharing"     target="_blank">**♫ Listen**</a>
 
 Such noble history, and loyal humble pride.<br>
 Where do all these things meet, within the oceans wide?
