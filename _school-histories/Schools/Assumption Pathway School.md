@@ -4,49 +4,46 @@ permalink: /school-histories/assumption-pathway-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/assumptionpathwaysch1.png" style="width:35%;margin-right:15px;" align = "left">
+<img align="left" style="width:35%;margin-right:15px;" src="/images/assumptionpathwaysch1.png">
 
 ### **Assumption Pathway School**
-[URL to website](https://www.aps.edu.sg/) - may require to change in future when original website is removed
-
-<br clear="left">
-
+[School Website](https://www.aps.edu.sg/)
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsPSj_o_0NnqftEVsV8zzR35QwQHxlUBBPGafO__Ajz2S2wpVVQPHe7Ng5L8dTeguhVwDngn7FR8xU/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch2.png">  
-<img src="/images/assumptionpathwaysch2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch2.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch3.png">  
-<img src="/images/assumptionpathwaysch3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch3.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch4.jpg">  
-<img src="/images/assumptionpathwaysch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch5.jpg">  
-<img src="/images/assumptionpathwaysch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch6.jpg">  
-<img src="/images/assumptionpathwaysch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch7.jpg">  
-<img src="/images/assumptionpathwaysch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch8.jpg">  
-<img src="/images/assumptionpathwaysch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch9.jpg">  
-<img src="/images/assumptionpathwaysch9.jpg" style="width:35%;margin-right:15px;" align = "left">
+<img align="left" style="width:35%;margin-right:15px;" src="/images/assumptionpathwaysch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,15 +57,15 @@ As a specialised school, APS offers vocational programmes accredited by the Inst
 
 The school was officially opened in 2012 and is currently located at 30 Cashew Road.
 
-The school’s niche areas are Culinary Skills and Baking Practices.  In Year 2015 Baking Production Kitchen (BPK) was set up to provide on the job training to students.   The BPK led to the launched of students’ managed canteen stalls "'Bake & Brew Delights'‘ in APS and Assumption English School in Year 2016.   In Year 2019, "pod" was set up in Jurong Secondary School to provide wider platform and exposure for students to be work ready.
+The school’s niche areas are Culinary Skills and Baking Practices.&nbsp; In Year 2015 Baking Production Kitchen (BPK) was set up to provide on the job training to students.&nbsp;&nbsp; The BPK led to the launched of students’ managed canteen stalls "'Bake &amp; Brew Delights'‘ in APS and Assumption English School in Year 2016.&nbsp;&nbsp; In Year 2019, "pod" was set up in Jurong Secondary School to provide wider platform and exposure for students to be work ready.
 
 In 2018, the school celebrated its 10th anniversary with President of Singapore, Madam Halimah Yaacob as the Guest of Honour.
 
-The school is honoured to collaborate with National Gallery Singapore (NGS) to have an Art Exhibition with their renowned artists in Year 2019.  Some of the students’ artwork have been selected for exhibit for the whole year and new artworks will be exhibited up to Year 2020.
+The school is honoured to collaborate with National Gallery Singapore (NGS) to have an Art Exhibition with their renowned artists in Year 2019.&nbsp; Some of the students’ artwork have been selected for exhibit for the whole year and new artworks will be exhibited up to Year 2020.
 
 Principals:<br>
-\- Mr Wee Tat Chuen (2009 – 2013)<br>
-\- Mr Eric Leong Yew Hon (2014 – present)
+* Mr Wee Tat Chuen (2009 – 2013)<br>
+* Mr Eric Leong Yew Hon (2014 – present)
 
 #### **Key Milestones**
 
@@ -93,7 +90,7 @@ Principals:<br>
 Through Hard Work Achieve Success
 
 #### **School Crest**
-<img src="/images/assumptionpathwaysch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/assumptionpathwaysch1.png">
 
 The crest identifies all the schools in Singapore that are governed under the Catholic Order of the Montfort Brothers of St Gabriel. Assumption Pathway School is one of these schools.
 
@@ -102,7 +99,7 @@ The centrepiece of the school crest is the Coat of Arm, which has four quadrants
 The Crest carries the Latin motto “Labor Omnia Vincit” which stands for “Labour conquers all things.” Hard work embodied in diligence and perseverance leads one to achieve greater things in life. The crest therefore motivates us to do our best in whatever we do.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1_WdcC-gT3C2InvFDdERppG8skri_Rleu/view?usp=share_link" target="\_blank">**♫ Listen**</a>
 
 Once more unite our youthful voices<br>
 Amidst our halls the strain to raise<br>
@@ -112,7 +109,7 @@ We follow those who have trodden up-rightly<br>
 As well in sunshine as in rain<br>
 Students old and new we do fashion so tightly<br>
 Enduring links of one long chain
-   
+&nbsp;  
 We, students of Assumption Pathway School<br>
 When God from on high sheds his light on our way<br>
 We, students of Assumption Pathway School<br>
