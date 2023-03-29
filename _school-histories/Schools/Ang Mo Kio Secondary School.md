@@ -4,77 +4,75 @@ permalink: /school-histories/amk-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/amksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/amksec1.jpg">
 
 ### **Ang Mo Kio Secondary School**
-[URL to website](http://angmokiosec.moe.edu.sg/)
-
-<br clear="left">
+[School Website](http://angmokiosec.moe.edu.sg/)
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQf6t4k-enVif8S_lp2KmW7C098gxSgt5G9CcA62dqBowpuRUakBopo_dKrCXekh0m2McdnvV4snySq/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec2.jpg">  
-<img src="/images/amksec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec3.jpg">  
-<img src="/images/amksec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec4.jpg">  
-<img src="/images/amksec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec5.jpg">  
-<img src="/images/amksec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec6.jpg">  
-<img src="/images/amksec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec7.jpg">  
-<img src="/images/amksec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec8.jpg">  
-<img src="/images/amksec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec9.jpg">  
-<img src="/images/amksec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec9.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec10.jpg">  
-<img src="/images/amksec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec10.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Ang Mo Kio Secondary School was established in 1979 as the first secondary school in Ang Mo Kio New Town. It operated in the premises of Hwi Yoh Secondary School in 1979 with 12 Secondary One classes. However, Ang Mo Kio Secondary School moved out of Hwi Yoh Sec to its current location in 1980. The school was officially declared open in 1980. The school was temporarily relocated to Hougang Street 93 when it underwent PRIME in 2000. In 2002, Ang Mo Kio Secondary School returned to its current location at 6 Ang Mo Kio Street 22. The school logo was originally a simple rectangular badge, and the current badge was used from 2004 onwards.
+Ang Mo Kio Secondary School was established in 1979 as the first secondary school in Ang Mo Kio New Town. It operated in the premises of Hwi Yoh Secondary School in 1979 with 12 Secondary One classes.&nbsp;However, Ang Mo Kio Secondary School moved out of Hwi Yoh Sec to its current location in 1980. The school was officially declared open in 1980. The school was temporarily relocated to Hougang Street 93 when it underwent PRIME in 2000. In 2002, Ang Mo Kio Secondary School returned to its current location at 6 Ang Mo Kio Street 22.&nbsp;The school logo was originally a simple rectangular badge, and the current badge was used from 2004 onwards.
 
-The school currently offers drama, visual arts, dance and music programmes under its Learn for Life Programme (LLP) in arts education as part of the school’s commitment towards providing a holistic education for the students. Night of Music, Arts and Dance (NOMAD), a signature event of our LLP, reflects the continual evolution of the arts in the school. Started in 2003 as a showcase of the school’s submissions for the Singapore Youth Festival, NOMAD has evolved into a festival that aims to bring the arts to the community as well as to showcase the students’ artistic talents.
+The school currently offers drama, visual arts, dance and music programmes under its&nbsp;Learn&nbsp;for Life Programme (LLP) in arts education as part of the school’s commitment towards&nbsp;providing&nbsp;a holistic education for the students. Night of Music, Arts and Dance (NOMAD), a signature event of our LLP, reflects the continual evolution of the arts in the school. Started in 2003 as a showcase of the school’s submissions for the Singapore Youth Festival, NOMAD has evolved into a festival that aims to bring the arts to the community&nbsp;as well as&nbsp;to showcase the students’ artistic talents.
 
-The Applied Learning Programme (ALP) in environmental sustainability through STEM provides learning opportunities for students in three major themes: biodiversity; energy and resources; and electronics and coding. Through the ALP, the students develop  a deeper sense of purpose and application to what they study, piquing interest in these areas.
+The Applied Learning Programme (ALP) in environmental sustainability&nbsp;through STEM&nbsp;provides learning opportunities for students in three major themes: biodiversity; energy and resources; and electronics and coding. Through the ALP, the students develop &nbsp;a deeper sense of purpose and application to what they study, piquing interest in&nbsp;these areas.
 
 Ang Mo Kio Secondary School celebrated its 40th anniversary in 2019.
 
 Principals:<br>
-\- Mr Tan Joo Kheng (1979–1982)<br>
-\- Ms Monica Quek Swee Imm (1982–1985)<br>
-\- Mrs Tan Guat Kim (1986–1993)<br>
-\- Mdm Doreen Yip Woon Yong (1993–1994)<br>
-\- Ms Paramita Bandara (1995–2000)<br>
-\- Ms Tan Siew Piang (2001–2004)<br>
-\- Mr Tan Chee Siong (2005–2010)<br>
-\- Mr Abdul Mannan (2011–2015)<br>
-\- Mr Tom Chan (2015–2017)<br>
-\- Mr Shaw Swee Tat (2017–present)
+* Mr Tan Joo Kheng (1979–1982)<br>
+* Ms Monica Quek Swee Imm (1982–1985)<br>
+* Mrs Tan Guat Kim (1986–1993)<br>
+* Mdm Doreen Yip Woon Yong (1993–1994)<br>
+* Ms Paramita Bandara (1995–2000)<br>
+* Ms Tan Siew Piang (2001–2004)<br>
+* Mr Tan Chee Siong (2005–2010)<br>
+* Mr Abdul Mannan (2011–2015)<br>
+* Mr Tom Chan (2015–2017)<br>
+* Mr Shaw Swee Tat (2017–present)
 
 #### **Key Milestones**
 
@@ -96,19 +94,19 @@ Principals:<br>
 Always Strive for the Best
 
 #### **School Crest**
-<img src="/images/amksec1.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/amksec1.jpg">
 
-The logo embodies the spirit of a dynamic and forward-looking organisation that is ready to face global challenges. The vision is to create a culture of learning, a mindset for excellence and a spirit of service. This is portrayed by the fluidity of the brush strokes. The logo’s fluidity and dynamism are balanced by the dignity and authority of the typeface, which emphasises the conviction to ‘Always Strive for the Best’, the school motto.
+The logo embodies the spirit of a dynamic and forward-looking organisation that is ready to face global challenges.&nbsp;The vision is to create a culture of learning, a mindset for excellence and a spirit of service. This is portrayed by the fluidity of the brush strokes. The logo’s fluidity and dynamism are balanced by the dignity and authority of the typeface, which emphasises the conviction to ‘Always Strive for the Best’, the school motto.
 
 
 Surging towards a shared vision, the three strokes represent a tripartite partnership among the school, parents and the community, as well as the school’s commitment to a total systems approach in education.
 
-The solid three-dimensional pillar represents the firm foundation provided by the school in nurturing innovative and inquiring minds as well as inculcating a sense of responsibility and respect for self, family, school and the nation. The ring surrounding the school and its people represents the collective team spirit of the people who work together harmoniously in a gracious community.    
+The solid three-dimensional pillar represents the firm foundation provided by the school in nurturing innovative and inquiring minds as well as inculcating a sense of responsibility and respect for self, family, school and the nation.&nbsp;The ring surrounding the school and its people represents the collective team spirit of the people who work together harmoniously in a gracious community.&nbsp;&nbsp;  
   
 The design of the incomplete circle is deliberate to allow change, flexibility, creativity and growth. The green circumference radiates energy and confidence, capturing the indomitable spirit of a progressive and forward-looking school in a globalised world.
 
 #### **School Song**
-<a href="LINK" target="\_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1Fp2J0an93QdcfB3Rpdr5a2oSk454y9RM/view?usp=share_link" target="\_blank">**♫ Listen**</a>
 
 Alma mater dear<br>
 To thee we sing our praises<br>
