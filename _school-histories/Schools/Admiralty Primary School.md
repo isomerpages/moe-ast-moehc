@@ -103,7 +103,7 @@ The letter ‘A’ formed by these symbols is derived from the school’s name. 
 
 #### **School Song**
 
-<a href="https://drive.google.com/file/d/13SP7kffSzgUVfydxSaZFtxxHGTzi_w81/view?usp=share_link"     target="_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/13SP7kffSzgUVfydxSaZFtxxHGTzi_w81/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 With an all round education<br>
 We shall keep on moving<br>
