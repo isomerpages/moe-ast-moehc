@@ -76,7 +76,7 @@ Principals:<br>
 | 2007 | ACS (Barker Road) bids farewell to principal Mr Ng Eng Chin after 14 years of faithful service to the school. Mr Ng went on to become the principal of ACS Jakarta. |
 | 2017 | ACS (Barker Road) bids farewell to Mr Peter Tan Chong Tze after 10 years of faithful service to the school. Mr Tan went on to become the principal of Queensway Secondary School. |
 | 2018 | Beginning of construction of the Indoor Sports Hall for both ACS Primary School and ACS (Barker Road). It is expected to be completed by end 2019. |
-|
+| 2022 | On 1 March, we consecrated the newly completed Indoor Sports Hall at a combined Founder's Day celebration with ACS (Primary). The delay had been due to Covid-19 which resulted in shortage of manpower in construction work.|
 
 #### **School Motto**
 The Best is Yet to Be
