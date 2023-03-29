@@ -4,49 +4,47 @@ permalink: /school-histories/acs-barker-road/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/acsbr1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/acsbr1.png">
 
 ### **Anglo Chinese School (Barker Road)**
-[URL to website](http://www.acsbr.moe.edu.sg/)
-
-<br clear="left">
+[School Website](http://www.acsbr.moe.edu.sg/)
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRha9ITnXS47dcyGtPmJfgm2VyJ1ej3QAODNFV1PPa-DNerHEfiLmZ8GEVmy09MmNtyJrXMDvZ9mspV/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr2.jpg">  
-<img src="/images/acsbr2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr3.jpg">  
-<img src="/images/acsbr3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr4.jpg">  
-<img src="/images/acsbr4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr5.jpg">  
-<img src="/images/acsbr5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr6.jpg">  
-<img src="/images/acsbr6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr7.jpg">  
-<img src="/images/acsbr7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr8.jpg">  
-<img src="/images/acsbr8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsbr9.jpg">  
-<img src="/images/acsbr9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,12 +56,12 @@ ACS (BR) was established on 1 January 1994 as a full government-aided school cat
 
 As the school grew, plans to redevelop the campus were made. In 1997, the school split into ACS (Primary) and ACS (BR). Both schools were relocated to separate holding schools while the Barker Road campus was being upgraded. In January 2003, ACS (Primary) and ACS (BR) returned to the Barker Road campus. Today, ACS (BR) offers an education that holds true to Bishop Oldham’s vision of a philosophy of education that stresses academic Achievement, strength of Character and Service to God and man.
 
-The ACS (BR) educational experience centres on the belief that God is our strength and provider, there is strength in diversity, we can bring out the best in everyone and we are called to serve God, nation and community. It is the mission of ACS (BR) to _touch hearts_ by creating memories and giving meaning to all the things that we do; to _empower minds_ by sharpening the intellect and broadening perspectives; and to _enrich souls_ by helping the students grow in faith and service to others.
+The ACS (BR) educational experience centres on the belief that God is our strength and provider, there is strength in diversity, we can bring out the best in everyone and we are called to serve God, nation and community. It is the mission of ACS (BR) to&nbsp;_touch hearts_&nbsp;by creating memories and giving meaning to all the things that we do; to&nbsp;_empower minds_&nbsp;by sharpening the intellect and broadening perspectives; and to&nbsp;_enrich souls_&nbsp;by helping the students grow in faith and service to others.
 
 Principals:<br>
-\- Mr Ng Eng Chin (1994–2007)<br>
-\- Mr Peter Tan Chong Tze (2008–2017)<br>
-\- Mr Loo Ming Yaw (2018–present)
+* Mr Ng Eng Chin (1994–2007)<br>
+* Mr Peter Tan Chong Tze (2008–2017)<br>
+* Mr Loo Ming Yaw (2018–present)
 
 #### **Key Milestones**
 
@@ -86,15 +84,15 @@ The Best is Yet to Be
 A motto shared amongst all the ACS schools, it unites all ACSians in the certainty that challenges of the future will be overcome, that tradition and the present effort will allow for the creation of a better future.
 
 #### **School Crest**
-<img src="/images/acsbr1.png" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/acsbr1.png">
 The upper section of the crest comprises a mythical creature with a lion’s head, an eagle’s wings and a dragon’s body with claws. They represent the founding of ACS in a British colony (lion) by the American Methodist Mission (eagle) during the time of the Manchu dynasty in China (dragon). The lower section comprises the letters ‘ACS’ in red – signifying life as it bridges heaven and earth, which are represented by the two halves of blue and gold. The shield shape represents the knightly virtues of chivalry, honour, loyalty, valour and manliness.
 
-The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem. 
+The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem.&nbsp;
 
 The motto, ‘The Best is Yet to Be’, has been associated with ACS for generations since former principal T.W. Hinch first used it in the foreword of the 1935 issue of the school magazine. Since then, this opening line of Robert Browning’s, ‘Rabbi ben Ezra’, has been the rallying cry of ACSians, and was incorporated into the ACS crest in 1959.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1ultQeXlFqzen14lqYLlTxgYIehsE6JFS/view?usp=share_link">**♫ Listen**</a>
 
 In days of yore from western shores<br>
 Oldham dauntless hero came<br>
