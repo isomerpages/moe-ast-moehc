@@ -108,7 +108,7 @@ The solid three-dimensional pillar represents the firm foundation provided by th
 The design of the incomplete circle is deliberate to allow change, flexibility, creativity and growth. The green circumference radiates energy and confidence, capturing the indomitable spirit of a progressive and forward-looking school in a globalised world.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="LINK" target="\_blank">**♫ Listen**</a>
 
 Alma mater dear<br>
 To thee we sing our praises<br>
