@@ -7,9 +7,8 @@ third_nav_title: Schools
 <img src="/images/amkpri1.png" style="width:30%;margin-right:15px;" align = "left">
 
 ### **Ang Mo Kio Primary School**
-[URL to website](http://angmokiopri.moe.edu.sg/)
+[School Website](http://angmokiopri.moe.edu.sg/)
 
-<br clear="left">
 
 #### **Image Gallery**
 
@@ -61,13 +60,13 @@ The school became a single-session school in 2013. The following year, AMKPS est
 In 2015, AMKP staged its inaugural ArtXuberance event, aimed at showcasing students’ talent in music, arts and drama. In 2018, AMKP celebrated its 40th anniversary, with the theme “Forty-tude’. In the same year, the school focused on providing enhance support for high-needs students through a whole-school integrated support system. We worked to build students’ connectedness to learning, school and community through customized programmes, which included Project Home- an after school engagement for students.
 
 Principals:<br>
-\- Mr Oh Choon Eng (1978–1982)<br>
-\- Mr Low Yong Kee (1982–1992)<br>
-\- Mrs Toh Boon Keng (1992–1998)<br>
-\- Mr Tan Kee Hai (1999–2001)<br>
-\- Mr Patrick Sih (2002–2006)<br>
-\- Mdm Chua Lay Tin (2006–2012)<br>
-\- Mr Chew Mun Wai (2012–present)
+* Mr Oh Choon Eng (1978–1982)<br>
+* Mr Low Yong Kee (1982–1992)<br>
+* Mrs Toh Boon Keng (1992–1998)<br>
+* Mr Tan Kee Hai (1999–2001)<br>
+* Mr Patrick Sih (2002–2006)<br>
+* Mdm Chua Lay Tin (2006–2012)<br>
+* Mr Chew Mun Wai (2012–present)
 
 **Related School:** [Kebun Baru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kebun-baru-pri/)
 
@@ -110,7 +109,7 @@ The circular band symbolises the collaborative efforts between the school and th
 Collectively, these culminate in an individual who is able to contribute to society and meet the challenges of an ever-changing world.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1LX7OV3hjzsvdggyWkuu5zvhv_Tx0TyCZ/view?usp=share_link">**♫ Listen**</a>
 
 AMKP We Will Shine
 
