@@ -4,60 +4,59 @@ permalink: /school-histories/amk-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/amkpri1.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri1.png">
 
 ### **Ang Mo Kio Primary School**
 [School Website](http://angmokiopri.moe.edu.sg/)
 
-
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX62L2Up9iYPpyXJGbBhipv0E1t8hzXuFVqXXNMnucm4l94AwJ8aHYmJiZhNtGrBPxo6ykJcNyyWBC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri2.jpeg">  
-<img src="/images/amkpri2.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri2.jpeg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri3.jpg">  
-<img src="/images/amkpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri4.jpg">  
-<img src="/images/amkpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri5.jpg">  
-<img src="/images/amkpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri7.jpg">  
-<img src="/images/amkpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri8.jpg">  
-<img src="/images/amkpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri6.jpg">  
-<img src="/images/amkpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri6.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Ang Mo Kio Primary School (AMKPS) was established in 1978. The new Primary One students were housed in Dorset Primary School for the first three months after the school started. In April 1978, the students moved into its premises at 22, Ang Mo Kio Avenue 3. They were joined by students and teachers from Jalan Kayu Primary School, which had closed down that year. On 12 October 1978, AMKPS was officially declared opened.    
+Ang Mo Kio Primary School (AMKPS) was established in 1978. The new Primary One students were housed in Dorset Primary School for the first three months after the school started. In April 1978, the students moved into its premises at 22, Ang Mo Kio Avenue 3. They were joined by students and teachers from Jalan Kayu Primary School, which had closed down that year. On 12 October 1978, AMKPS was officially declared opened.&nbsp;&nbsp;  
   
-On November 1992, the school moved to premises at Ang Mo Kio Street 21, which had been occupied by Ai Tong Primary School. On 3 September 1993, the new school was opened.   
+On November 1992, the school moved to premises at Ang Mo Kio Street 21, which had been occupied by Ai Tong Primary School. On 3 September 1993, the new school was opened.&nbsp;  
   
-In 2002, Ang Mo Kio Primary School merged with Kebun Baru Primary School to form the new Ang Mo Kio Primary School. On 30 May 2002, the school moved to its present location at 20, Ang Mo Kio Avenue 3.   
+In 2002, Ang Mo Kio Primary School merged with Kebun Baru Primary School to form the new Ang Mo Kio Primary School. On 30 May 2002, the school moved to its present location at 20, Ang Mo Kio Avenue 3.&nbsp;  
   
 In 2010, AMKPS began its reconstruction work under PRIME. It was completed in 2012, fitted with new facilities such as a competition-ready indoor sports hall, a new classroom block, a library facelift, new learning support facilities, an extended staff room, as well as student-care rooms for future planning needs.  
   
-The school became a single-session school in 2013. The following year, AMKPS established the AMKPS Leadership Inspired Values in Education (ALIVE) Programme as its Learning for Life Programme. ALIVE aims to develop values-driven leadership habits in every student through a holistic curriculum – with an emphasis on being an effective and self-directed learner who is able to make right decisions as well as a responsible and concerned citizen of Singapore.   
+The school became a single-session school in 2013. The following year, AMKPS established the AMKPS Leadership Inspired Values in Education (ALIVE) Programme as its Learning for Life Programme. ALIVE aims to develop values-driven leadership habits in every student through a holistic curriculum – with an emphasis on being an effective and self-directed learner who is able to make right decisions as well as a responsible and concerned citizen of Singapore.&nbsp;  
   
-In 2015, AMKP staged its inaugural ArtXuberance event, aimed at showcasing students’ talent in music, arts and drama. In 2018, AMKP celebrated its 40th anniversary, with the theme “Forty-tude’. In the same year, the school focused on providing enhance support for high-needs students through a whole-school integrated support system. We worked to build students’ connectedness to learning, school and community through customized programmes, which included Project Home- an after school engagement for students.
+In 2015, AMKP staged its inaugural ArtXuberance event, aimed at showcasing students’ talent in music, arts and drama.&nbsp;In 2018, AMKP celebrated its 40th&nbsp;anniversary, with the theme “Forty-tude’.&nbsp;In the same year, the school focused on providing enhance support for high-needs students through a whole-school integrated support system. We worked to&nbsp;build students’ connectedness to learning, school and community&nbsp;through customized programmes, which included Project Home- an after school engagement for students.
 
 Principals:<br>
 * Mr Oh Choon Eng (1978–1982)<br>
@@ -89,12 +88,12 @@ Principals:<br>
 Aspire and be Inspired
 
 #### **School Crest**
-<img src="/images/amkpri1.png" style="width:40%;margin-right:15px;" align = "left">
+<img align="left" style="width:40%;margin-right:15px;" src="/images/amkpri1.png">
 
-**Yellow** represents Vitality & Talents<br>
-**Blue** represents Loyalty & Honour<br>
-**Red** represents Confidence & Perseverance<br>
-**Green** represents Harmony & Equality
+**Yellow**&nbsp;represents Vitality &amp; Talents<br>
+**Blue**&nbsp;represents Loyalty &amp; Honour<br>
+**Red**&nbsp;represents Confidence &amp; Perseverance<br>
+**Green**&nbsp;represents Harmony &amp; Equality
 
 <br clear="left">
 
@@ -109,7 +108,7 @@ The circular band symbolises the collaborative efforts between the school and th
 Collectively, these culminate in an individual who is able to contribute to society and meet the challenges of an ever-changing world.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1LX7OV3hjzsvdggyWkuu5zvhv_Tx0TyCZ/view?usp=share_link">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1LX7OV3hjzsvdggyWkuu5zvhv_Tx0TyCZ/view?usp=share_link" target="\_blank">**♫ Listen**</a>
 
 AMKP We Will Shine
 
