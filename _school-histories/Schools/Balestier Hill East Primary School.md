@@ -4,16 +4,14 @@ permalink: /school-histories/balestier-hill-east-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/balestierhilleastpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhilleastpri1.png">
 
 ### **Balestier Hill East Primary School**
 
-<br clear="left">
-
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-UKVRp2faMMCCQnWdKk7l6M2gFHX7OB6EDNArC3OYRJzdnQH2nHZpplaq-rvJWs_6n4PigS4hXip_/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhilleastpri2.jpg">  
-<img src="/images/balestierhilleastpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhilleastpri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -32,14 +30,3 @@ Balestier Hill East Primary School merged with Balestier Hill West Primary Schoo
 | 1965 | Establishment of Balestier Hill East Primary School. |
 | 1986 | Merger with Balestier Hill West Primary School to form Balestier Primary School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/balestierhilleastpri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-#### **School Song**
-\-
