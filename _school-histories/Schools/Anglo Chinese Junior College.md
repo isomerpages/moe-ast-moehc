@@ -4,44 +4,43 @@ permalink: /school-histories/acjc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/acjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/acjc1.png">
 
-### **Anglo Chinese Junior College**
-[URL to website](https://admiraltysec.moe.edu.sg/)
-
-<br clear="left">
+### **Anglo-Chinese Junior College**
+[School Website](https://acjc.moe.edu.sg/)
 
 #### **Image Gallery**
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFm8830go-FyWeSffNwgVODn36yN36fErBLPbUHD557E37ygnxWAz3fIufUYtwe4yyETQM5VAbASCE/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc2.jpg">  
-<img src="/images/acjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc3.jpg">  
-<img src="/images/acjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc4.jpg">  
-<img src="/images/acjc4.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/acjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc5.jpg">  
-<img src="/images/acjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc6.jpg">  
-<img src="/images/acjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc7.jpg">  
-<img src="/images/acjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc8.jpg">  
-<img src="/images/acjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc8.jpg">
 </a></p>
 
 <br clear="left">
@@ -53,17 +52,17 @@ With funding secured from the association members, Reverend Oldham started ACS o
 
 Within eight months, the school relocated to larger premises on Coleman Street in November 1886. The upper standards of the school moved from Coleman Street to Cairnhill Road in 1928 and remained there till 1950. In 1950, ACS Secondary School shifted to Barker Road, and ACS admitted girls for the first time in the new post-school certificate classes.
 
-ACJC became operational on 3 January 1977 with 968 students at the Dover Close East campus. The initial idea for a post-secondary unit was mooted in 1913 when Bishop Oldham sent Reverend J.S. Nagle to raise funds and set up the college. However, the project was eventually dropped because the colonial government decided against it. In the 1970s, the Singapore government encouraged aided schools to set up junior colleges. Mr Lee Kuan Yew, then Prime Minister of Singapore, invited the school to build a junior college in 1970 based on a dollar-for-dollar grant from the government. ACS rose to the challenge, raising funds through the support of old boys, parents and benefactors. 
+ACJC became operational on 3 January 1977 with 968 students at the Dover Close East campus. The initial idea for a post-secondary unit was mooted in 1913 when Bishop Oldham sent Reverend J.S. Nagle to raise funds and set up the college. However, the project was eventually dropped because the colonial government decided against it. In the 1970s, the Singapore government encouraged aided schools to set up junior colleges. Mr Lee Kuan Yew, then Prime Minister of Singapore, invited the school to build a junior college in 1970 based on a dollar-for-dollar grant from the government. ACS rose to the challenge, raising funds through the support of old boys, parents and benefactors.&nbsp;
 
 ACJC has continued to expand its facilities over the years to support its commitment to an all-round education. The sports complex was completed in 1995 with the generosity of alumni and well-wishers. The upgrading of the main academic facilities was completed in 2002, and a new Centre for Performing Arts was opened in 2008. The history of the college is commemorated at the ACJC Grace Heritage Gallery.
 
 Principals:<br>
-\- Mr Chee Keng Lim (1977–1985)<br>
-\- Mr Wan Fook Weng (1986–1997)<br>
-\- Mrs Lim Han Soon (1997–2002)<br>
-\- Mrs Kelvyna Chan (2002–2013)<br>
-\- Ms Beatrice Chong (2013–2017)<br>
-\- Dr Shirleen Chee (2017–present)
+* Mr Chee Keng Lim (1977–1985)<br>
+* Mr Wan Fook Weng (1986–1997)<br>
+* Mrs Lim Han Soon (1997–2002)<br>
+* Mrs Kelvyna Chan (2002–2013)<br>
+* Ms Beatrice Chong (2013–2017)<br>
+* Dr Shirleen Chee (2017–present)
 
 #### **Key Milestones**
 
@@ -83,17 +82,17 @@ Principals:<br>
 The Best is Yet to Be
 
 #### **School Crest**
-<img src="/images/acjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/acjc1.png">
 
 The upper section of the crest comprises a mythical creature with a lion’s head, an eagle’s wings and a dragon’s body with claws. They represent the founding of ACS in a British colony (lion) by the American Methodist Mission (eagle) during the time of the Manchu dynasty in China (dragon). The lower section comprises the letters ‘ACS’ in red – signifying life as it bridges heaven and earth, which are represented by the two halves of blue and gold. The shield shape represents the knightly virtues of chivalry, honour, loyalty, valour and manliness.
 
-The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem. 
+The crest was designed by Mr Yap Pheng Geck when he was a teacher in ACS, inspired by the words of the school anthem.&nbsp;
 
 The motto, ‘The Best is Yet to Be’, has been associated with ACS for generations since former principal T.W. Hinch first used it in the foreword of the 1935 issue of the school magazine. Since then, this opening line of Robert Browning’s, ‘Rabbi ben Ezra’, has been the rallying cry of ACSians, and was incorporated into the ACS crest in 1959.
 
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1UaVSnfa6KtXztLVNdFOUwdSlsqm0ux16/view?usp=share_link">**♫ Listen**</a>
 
 In days of yore from Western Shores<br>
 Oldham dauntless hero came<br>
@@ -118,5 +117,5 @@ Our hearts our hopes our aims are one<br>
 No discord e'er will sever.<br>
 We'll stand together for the cause<br>
 Of ACS forever!
-   
+&nbsp;  
 (Repeat chorus)
