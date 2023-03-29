@@ -6,7 +6,7 @@ third_nav_title: Schools
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/acsbr1.png">
 
-### **Anglo Chinese School (Barker Road)**
+### **Anglo-Chinese School (Barker Road)**
 [School Website](http://www.acsbr.moe.edu.sg/)
 
 #### **Image Gallery**
