@@ -4,24 +4,23 @@ permalink: /school-histories/aroozoo-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/aroozoo1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/aroozoo1.png">
 
 ### **Aroozoo School**
-
-<br clear="left">
+<br>
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHV95AA_xTaYoPQGcZHr3MgWzyh94Z5si3tQdtvRXygEda2e5uNLGw7Zkpzit_L2IB8vSbmnnS8Yfs/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aroozoo2.jpg">  
-<img src="/images/aroozoo2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aroozoo2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aroozoo3.jpg">  
-<img src="/images/aroozoo3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aroozoo3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/aroozoo4.jpg">  
-<img src="/images/aroozoo4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aroozoo4.jpg">
 </a></p>
 
 <br clear="left">
@@ -44,7 +43,7 @@ In 1991, Aroozoo Primary School merged with neighbouring Charlton School. The ne
 Our Best in All We Do / Amal Ilmu Sunggoh
 
 #### **School Crest**
-<img src="/images/aroozoo1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/aroozoo1.png">
 
 <br clear="left">
 
@@ -63,4 +62,3 @@ We are loyal to our Aroozoo<br>
 For she cares for us always<br>
 She makes us work hard and play hard too<br>
 At the proper time and place
-
