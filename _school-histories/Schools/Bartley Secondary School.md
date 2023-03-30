@@ -4,49 +4,48 @@ permalink: /school-histories/bartley-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bartleysec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bartleysec1.jpg">
 
 ### **Bartley Secondary School**
-[URL to website](http://www.bartleysec.moe.edu.sg/)- may require to change in future when original website is removed
+[School Website](http://www.bartleysec.moe.edu.sg/)
 
-<br clear="left">
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZZiB71oAKTW768jjj3Uep9ToSlg4Ah-Q6_Arttg2rVk5U4yOQTbfSis2TtwQt8dOm39zsASTcyTNz/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec2.jpg">  
-<img src="/images/bartleysec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec3.jpg">  
-<img src="/images/bartleysec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec4.jpg">  
-<img src="/images/bartleysec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec5.jpg">  
-<img src="/images/bartleysec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec6.jpg">  
-<img src="/images/bartleysec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec7.jpg">  
-<img src="/images/bartleysec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec8.jpg">  
-<img src="/images/bartleysec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec9.jpg">  
-<img src="/images/bartleysec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -59,19 +58,19 @@ In 2012, Bartley Secondary School celebrated its 60th anniversary. In 2015, Bart
 In 2016, Bartley Secondary School merged with First Toa Payoh Secondary School and retained its name. The merged school has since operated from the premises at 10 Jalan Bunga Rampai.
 
 Principals:<br>
-\- Mr Chua Leong Hean (1952–1955)<br>
-\- Mr Soon Ban Hoe (1955)<br>
-\- Mr E.W. Jesudason (1955–1962)<br>
-\- Mr Andrew Yeo (1962–1968)<br>
-\- Mr V. Surendranath (1968–1978)<br>
-\- Mr Leong San Nam (1978)<br>
-\- Mr Yeo Chew Ming (1979–1981)<br>
-\- Mr Eric Ratnam (1981–1987)<br>
-\- Mr Muhammad Jaafar (1988–1995)<br>
-\- Mrs Tan So Wah (1996–2001)<br>
-\- Mdm Dolly Ong (2002–2007)<br>
-\- Mdm Mary Bay (2008–2014)<br>
-\- Mr Mohd Azhar Bin Terimo (2015–present)
+* Mr Chua Leong Hean (1952–1955)<br>
+* Mr Soon Ban Hoe (1955)<br>
+* Mr E.W. Jesudason (1955–1962)<br>
+* Mr Andrew Yeo (1962–1968)<br>
+* Mr V. Surendranath (1968–1978)<br>
+* Mr Leong San Nam (1978)<br>
+* Mr Yeo Chew Ming (1979–1981)<br>
+* Mr Eric Ratnam (1981–1987)<br>
+* Mr Muhammad Jaafar (1988–1995)<br>
+* Mrs Tan So Wah (1996–2001)<br>
+* Mdm Dolly Ong (2002–2007)<br>
+* Mdm Mary Bay (2008–2014)<br>
+* Mr Mohd Azhar Bin Terimo (2015–present)
 
 **Related School:** **[First Toa Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/)**
 
@@ -95,14 +94,14 @@ Principals:<br>
 _Facta Non Verba_
 
 #### **School Crest**
-<img src="/images/bartleysec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bartleysec1.jpg">
 
-The book at the top underscores the importance of education. The yellow lion symbolises strength and steadfastness. The tower beneath the lion is a reminder of the importance of vigilance. The white stripes represent honesty in the search for knowledge and in oneself. The red portions of the crest represent friendship, love, loyalty and brotherhood, which are attributes of Bartleyans.
+The book&nbsp;at the top underscores the importance of education. The yellow lion symbolises strength and steadfastness. The tower beneath the lion is a reminder of the importance of vigilance. The white stripes represent honesty in the search for knowledge and in oneself. The red portions of the crest represent friendship, love, loyalty and brotherhood, which are attributes of Bartleyans.
 
 The school motto ‘Facta Non Verba’ refers to a belief in deeds and not just words.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/14m4RSENVWk3w0HgKPJJ_SLskd8A2OHO1/view?usp=share_link" target="\_blank">**♫ Listen**</a>
 
 Bartley school of Singapore<br>
 Up and coming to the fore,<br>
