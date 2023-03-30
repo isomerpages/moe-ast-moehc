@@ -4,73 +4,71 @@ permalink: /school-histories/beacon-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/beaconpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/beaconpri1.png">
 
 ### **Beacon Primary School**
-[URL to website](https://beaconpri.moe.edu.sg/) - may require to change in future when original website is removed
-
-<br clear="left">
+[School Website](https://beaconpri.moe.edu.sg/) 
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9ymvmZ1snW1WOXRqDdsEABGDJ-9CrtqoA6OP5KLFBBxuTaqmUkcVXit-fzXvwR8zYkZg4BHR9th2U/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri2.jpg">  
-<img src="/images/beaconpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri3.jpg">  
-<img src="/images/beaconpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri4.jpg">  
-<img src="/images/beaconpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri5.jpg">  
-<img src="/images/beaconpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri6.jpg">  
-<img src="/images/beaconpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri7.jpg">  
-<img src="/images/beaconpri7.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/beaconpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri8.jpg">  
-<img src="/images/beaconpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri9.jpg">  
-<img src="/images/beaconpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri9.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri10.jpg">  
-<img src="/images/beaconpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri10.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Beacon Primary School was the first new primary school to be set up in 2007 as part of the FutureSchools@Singapore (FS@SG) programme. FS@SG was a collaboration between the Ministry of Education (MOE) and the Infocomm Development Authority to effectively harness the benefits of technology for engaged learning.   
+Beacon Primary School was the first new primary school to be set up in 2007 as part of the FutureSchools@Singapore (FS@SG) programme. FS@SG was a collaboration between the Ministry of Education (MOE) and the Infocomm Development Authority to effectively harness the benefits of technology for engaged learning.&nbsp;  
   
-The name ‘Beacon’ was revealed to the public on 21 May 2007 in the official announcement of the FS@SG programme. The name was chosen to signify the school’s important role as a vanguard in charting new directions and providing possible models to engage students in learning by leveraging technology, thus preparing them for a complex, ever-changing global environment.   
+The name ‘Beacon’ was revealed to the public on 21 May 2007 in the official announcement of the FS@SG programme. The name was chosen to signify the school’s important role as a vanguard in charting new directions and providing possible models to engage students in learning by leveraging technology, thus preparing them for a complex, ever-changing global environment.&nbsp;  
   
-The conceptualisation and planning process for the school started in early December 2006. The school team worked with MOE HQ officers to develop programmes that would address the holistic development of students functioning in a future that would demand skills in diverse domains. With the aim of forging a new paradigm in engaged learning and leveraging technologies, Beacon’s learning framework emphasised a balanced and forward-looking curriculum that harnessed both existing and emerging technologies, and was supported by flexible learning spaces.   
+The conceptualisation and planning process for the school started in early December 2006. The school team worked with MOE HQ officers to develop programmes that would address the holistic development of students functioning in a future that would demand skills in diverse domains. With the aim of forging a new paradigm in engaged learning and leveraging technologies, Beacon’s learning framework emphasised a balanced and forward-looking curriculum that harnessed both existing and emerging technologies, and was supported by flexible learning spaces.&nbsp;  
   
-Construction of the school building began in July 2006. The school was designed and built based on MOE’s school-building norms, but the interior spaces and technology infrastructure were re-examined and conceptualised to support Beacon’s learning framework.   
+Construction of the school building began in July 2006. The school was designed and built based on MOE’s school-building norms, but the interior spaces and technology infrastructure were re-examined and conceptualised to support Beacon’s learning framework.&nbsp;  
   
 Beacon registered the first batch of students during the 2007 Primary One registration exercise. A total of 240 places in eight Primary One classes were offered and fully taken up. The school started operations in its new premises on 2 January 2008 with a staff strength of 23 education officers, eight support staff and a pioneer cohort of 240 students.  
   
 The official school opening ceremony was held on 23 July 2010.
 
 Principals:<br>
-\- Miss Lim Boon Cheng (2006–2018)<br>
-\- Ms Pang Wee Mian (2019–present)
+* Miss Lim Boon Cheng (2006–2018)<br>
+* Ms Pang Wee Mian (2019–present)
 
 
 #### **Key Milestones**
@@ -98,20 +96,20 @@ Beacon “SHINE’ (an acronym of the five core values) rallies the Beacon commu
 \- Excel through Ownership in Learning
 
 #### **School Crest**
-<img src="/images/beaconpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/beaconpri1.png">
 
 The school crest symbolises the school philosophy and directions. The school crest in the shape of a shield symbolizes strength and the school’s commitment to nurture the whole child.
 
 <br clear="left">
   
-The crest consists of a beacon with five brilliant rays in golden yellow serving as the guiding light.  The rays signify the school’s desired outcomes to be a **Contributor, Connector, Constructor, Conductor and Confident Learner.**  
+The crest consists of a beacon with five brilliant rays in golden yellow serving as the guiding light.&nbsp; The rays signify the school’s desired outcomes to be a&nbsp;**Contributor, Connector, Constructor, Conductor and Confident Learner.**  
   
-Golden yellow, a colour for joy and creativity, depicts the school as a happy place to learn and work in and where innovation is part of the school culture.  Royal blue and the globe represent vastness and possibilities in a global and connected world in which our learners expand their horizons and envision for the future.   
+Golden yellow, a colour for joy and creativity, depicts the school as a happy place to learn and work in and where innovation is part of the school culture.&nbsp; Royal blue and the globe represent vastness and possibilities in a global and connected world in which our learners expand their horizons and envision for the future.&nbsp;  
   
-The design also portrays the journey of a pathfinder charting new directions in the pursuit of excellence. It reinforces the school’s aspiration for each Beacon to be a peak of excellence in his or her chosen areas. The school motto, **‘SHINE’**, at the base of the crest indicates that our pursuits are guided by core values.
+The design also portrays the journey of a pathfinder charting new directions in the pursuit of excellence. It reinforces the school’s aspiration for each Beacon to be a peak of excellence in his or her chosen areas. The school motto,&nbsp;**‘SHINE’**, at the base of the crest indicates that our pursuits are guided by core values.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1GFPhVuEoz-gw5VyORkJ1PbWfq4YzPXnj/view?usp=share_link" target="\_blank">**♫ Listen**</a>
 
 We aspire to be<br>
 The leaders of tomorrow<br>
