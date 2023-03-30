@@ -4,16 +4,16 @@ permalink: /school-histories/balestier-mixed-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/balestiermixedsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/balestiermixedsch1.jpg">
 
 ### **Balestier Mixed School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyRFutncUnxmlWnNXWiVuYhwwvNDZ1q66x0RSWJWeomM_eyA9SDZunET6-gFstSgJtZPD1GfWNJzVk/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestiermixedsch2.jpg">  
-<img src="/images/balestiermixedsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/balestiermixedsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -33,14 +33,3 @@ Balestier Primary School closed in 1991 due to falling enrolment.
 | 1984 | Merger with Balestier Boys’ School to form Balestier Primary School. |
 | 1991 | Closure of Balestier Primary School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/balestiermixedsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-#### **School Song**
-\-
