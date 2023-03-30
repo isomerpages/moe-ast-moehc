@@ -4,17 +4,14 @@ permalink: /school-histories/balestier-hill-pri-1986-1988/
 description: ""
 third_nav_title: Schools
 ---
-
-<img src="/images/balestierhillprimary1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhillprimary1.jpg">
 
 ### **Balestier Hill Primary School (1986 to 1988)**
 
-<br clear="left">
-
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1EFG6uDaKmj_tXzjTa46bICjUESsta_Ri1k9EAYjJ7DIPWOS2TvzEGSOwXx7QdzIclzJDejEtZeMx/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillprimary1.jpg">  
-<img src="/images/balestierhillprimary1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillprimary1.jpg">
 </a></p>
 
 <br clear="left">
@@ -27,7 +24,7 @@ Balestier Hill Primary School closed in 1988 and its pupils joined Lee Kuo Chuan
 Note: A new Balestier Hill Primary Hill Primary school later opened at Balestier Hill in 2002. It merged with Bendemeer Primary School in 2019 and relocated to Bendemeer Road.
 
 Principals:<br>
-\- Mrs Doris S
+* Mrs Doris S
 
 #### **Key Milestones**
 
@@ -41,7 +38,7 @@ Principals:<br>
 Resolute and Resourceful
 
 #### **School Crest**
-<img src="/images/balestierhillprimary1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhillprimary1.jpg">
 
 <br clear="left">
 
