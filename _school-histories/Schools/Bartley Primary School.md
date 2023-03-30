@@ -4,24 +4,23 @@ permalink: /school-histories/bartley-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bartleyprisch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bartleyprisch1.png">
 
 ### **Bartley Primary School**
 
-<br clear="left">
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2P8-6b-PzEyZUzyUhd5QXdapCHte3WWSOYTO-O9KOnOflu7YGZC6k8UrWwvAPwSi0XuRwDIgZXDM4/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleyprisch2.jpg">  
-<img src="/images/bartleyprisch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleyprisch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleyprisch3.jpg">  
-<img src="/images/bartleyprisch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleyprisch3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleyprisch4.jpg">  
-<img src="/images/bartleyprisch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bartleyprisch4.jpg">
 </a></p>
 
 <br clear="left">
@@ -32,7 +31,7 @@ Bartley Primary School was established in 1951. The school was housed in a two-s
 In 1986, Bartley Primary School closed and remaining students from the school joined Cedar Primary School and Elling Primary School.
 
 Principals:<br>
-\- Mr Huang Yong Chee
+* Mr Huang Yong Chee
 
 #### **Key Milestones**
 
@@ -46,9 +45,6 @@ Principals:<br>
 Always Your Best
 
 #### **School Crest**
-<img src="/images/bartleyprisch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bartleyprisch1.png">
 
 <br clear="left">
-
-#### **School Song**
-\-
