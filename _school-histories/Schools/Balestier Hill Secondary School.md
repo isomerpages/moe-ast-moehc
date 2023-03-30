@@ -4,45 +4,45 @@ permalink: /school-histories/balestier-hill-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/balestierhillsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhillsec1.png">
 
 ### **Balestier Hill Secondary School**
-<br clear="left">
+
 
 #### **Image Gallery**
-
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJEKtsmcfkjkpDPx-Y7Gbo4wI_U4sUWLf3ymz1Df4XcaTb7KvCr7QygvsV621Et_GgFWfqW6dV1uNo/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec2.jpg">  
-<img src="/images/balestierhillsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec3.jpg">  
-<img src="/images/balestierhillsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec4.jpg">  
-<img src="/images/balestierhillsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec5.jpg">  
-<img src="/images/balestierhillsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec6.jpg">  
-<img src="/images/balestierhillsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec7.jpg">  
-<img src="/images/balestierhillsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec8.jpg">  
-<img src="/images/balestierhillsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec9.jpg">  
-<img src="/images/balestierhillsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,7 +52,7 @@ Balestier Hill Secondary School started out in 1964 as Balestier Hill Integrated
 
 The school was renamed Balestier Hill Secondary School in 1992, and temporarily relocated to Dunearn Road to facilitate the building of its new premises. In 1995, the school launched its exchange programme with the city of Mihara in Japan. The Balestier Hill Technical Alumni Association was also set up to fostering ties among former students. In 1997, the school returned to new premises at Balestier Hill. Following the move, a new school logo was launched. On 24 June 2000, Balestier Hill Secondary School was officially declared open.
 
-Rangoon Secondary School and Monk’s Hill Secondary School were merged with Balestier Hill Secondary in 2001 and 2007 respectively, and the school continued operating as Balestier Hill Secondary School. Embracing its vision of building an inclusive community, the school opened its doors to hearing-impaired students from Upper Aljunied Technical School and took over the running of the Hearing Impaired Programme in 2002. Balestier Hill was also the only school at the time that supported students with dyslexia and autism. Leveraging its students’ talents in the performing arts, the school staged its first public concert, _Splendours_, at the Victoria Concert Hall in 2003.
+Rangoon Secondary School and Monk’s Hill Secondary School were merged with Balestier Hill Secondary in 2001 and 2007 respectively, and the school continued operating as Balestier Hill Secondary School. Embracing its vision of building an inclusive community, the school opened its doors to hearing-impaired students from Upper Aljunied Technical School and took over the running of the Hearing Impaired Programme in 2002. Balestier Hill was also the only school at the time that supported students with dyslexia and autism. Leveraging its students’ talents in the performing arts, the school staged its first public concert,&nbsp;_Splendours_, at the Victoria Concert Hall in 2003.
 
 In 2012, in line with the school’s approach of having ‘outdoor classrooms’, it began a series of camps, leadership training, expeditions and specialised outdoor adventure programmes, run entirely by teachers. The school aimed to build character, leadership skills and resilience beyond the classroom.
 
@@ -61,15 +61,15 @@ In 2013, Balestier Hill achieved niche status in environmental education for the
 In 2017, Balestier Hill Secondary School merged with Beatty Secondary School and has since been operating as Beatty Secondary School, retaining its Chinese name, 博理中学.
 
 Principals:<br>
-\- Mr Cheong Pak Lo (1964–1968)<br>
-\- Mr Wong Kai Ping (1969–1975)<br>
-\- Mr Thomas Tan Hui Mui (1976–1988)<br>
-\- Miss Lo Sheu Ming (1989–1992)<br>
-\- Ms Chan Mee Leen (1993–1998)<br>
-\- Mr Lak Pati Singh (1999–2001)<br>
-\- Ms Susie Ho (2002–2006)<br>
-\- Ms Chamb Cherk Ing (2007–2012)<br>
-\- Mr Abdul Harris bin Sumardi (2013–2016)
+* Mr Cheong Pak Lo (1964–1968)<br>
+* Mr Wong Kai Ping (1969–1975)<br>
+* Mr Thomas Tan Hui Mui (1976–1988)<br>
+* Miss Lo Sheu Ming (1989–1992)<br>
+* Ms Chan Mee Leen (1993–1998)<br>
+* Mr Lak Pati Singh (1999–2001)<br>
+* Ms Susie Ho (2002–2006)<br>
+* Ms Chamb Cherk Ing (2007–2012)<br>
+* Mr Abdul Harris bin Sumardi (2013–2016)
 
 
 #### **Key Milestones**
@@ -92,14 +92,14 @@ Principals:<br>
 Wisdom through Knowledge
 
 #### **School Crest**
-<img src="/images/balestierhillsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhillsec1.png">
 
 The shape of the logo represents the school’s initials, ‘BHS’. The flow of the letters interlocking at the centre signifies the school motto, ‘Wisdom through Knowledge’. The colour blue represents knowledge and profound thinking, while the bright yellow represents wisdom and success.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="_blank" href="https://drive.google.com/file/d/10M8i-NMsE49h_gnMJh-jT292_Gv5cUkp/view?usp=share_link">**♫ Listen**</a>
 
 We, the students of Balestier Hill Sec<br>
 In quest of knowledge we are here<br>
