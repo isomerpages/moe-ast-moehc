@@ -22,8 +22,7 @@ description: ""
 </p>
 
 ![](/images/Audio%20Guide/01_registration.jpg)
-
-<a href="https://drive.google.com/file/d/130Wr7fWNJ3dRAOjthnHXsAoIgffqmNf9/view?usp=share_link target=">Listen ➔</a>
+<br><a href="https://drive.google.com/file/d/130Wr7fWNJ3dRAOjthnHXsAoIgffqmNf9/view?usp=share_link target=">Listen ➔</a>
 <p>Hello and welcome to the MOE Heritage Centre.  
   
 Join us to discover the Singapore Education Story as you journey through the different zones.
