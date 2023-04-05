@@ -22,6 +22,7 @@ description: ""
 </p>
 
 ![](/images/Audio%20Guide/01_registration.jpg)
+	![](/images/Audio%20Guide/01_registration.jpg)
 <br><a href="https://drive.google.com/file/d/130Wr7fWNJ3dRAOjthnHXsAoIgffqmNf9/view?usp=share_link target=">Listen ➔</a>
 <p>Hello and welcome to the MOE Heritage Centre.  
   
