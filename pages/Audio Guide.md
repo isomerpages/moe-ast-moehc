@@ -257,27 +257,60 @@ Reminisce about school assembly time by browsing through the screen in between t
 
 <li>  
   
-<input type="checkbox" id="accordion9">  
+<input type="checkbox" id="accordion10">  
   
-<label for="accordion9">08 Our School Building Heritage</label>  
+<label for="accordion10">10 Our School Day Memories</label>  
   
 <div>  
   
 <p>
 
-![](/images/Audio%20Guide/09_schoolbuilding.jpg)
-<a href="https://drive.google.com/file/d/19ToWIUZYBMcuP8dE5mxqW61-SLOz8bDY/view?usp=sharing">Click to listen ➔</a>
+![](/images/Audio%20Guide/10_schoolday.jpg)
+
+<a href="https://drive.google.com/file/d/1vizy2jRw8oXJelm-8oWsFp85s4kmhplU/view?usp=sharing">Click to listen ➔</a>
 	
 
-</p><p>Come discover our schools’ rich building heritage.  
+</p><p>Take a look around the classroom and revisit your fond memories of school days.  
   
-Walk towards the centre of the zone and immerse yourself in the multimedia show of school buildings.  
+You may have noticed the classroom tables that have changed over time.  
   
-On the wall behind, the illustrations show how school designs and facilities have evolved to meet the learning needs of the nation. Find out more by interacting with the touchscreen or viewing the row of building plans.  
+Do you spot the CCA showcase? You will probably recognise some of these school items, whether you were in the band, uniformed group, sports or other co-curricular activities.  
   
-Do you remember the school songs you once sang?  
+Go on to discover other facets of school life in the classroom. Pause right here if you’d like to take some time to explore.  
   
-Reminisce about school assembly time by browsing through the screen in between the flag poles. You may just find your school song in there!
+Now, for everyone’s favourite period in the school timetable—Recess!  
+  
+Drop by the school bookshop…have you played these games before?  
+  
+Nearby is a wall filled with notes from our school days. Hopscotch your way there and pen down your memories too!
+</p>  
+  
+</div>  
+  
+</li>
+	
+<li>  
+  
+<input type="checkbox" id="accordion11">  
+  
+<label for="accordion11">11 M-Space</label>  
+  
+<div>  
+  
+<p>
+
+![](/images/Audio%20Guide/11_mspace.jpg)
+
+<a href="https://drive.google.com/file/d/1mmgcZvdI88JYnTbtHMac86N7Y0I4OvxY/view?usp=sharing">Click to listen ➔</a>
+	
+
+</p><p>Before you go, check out the M-Space for any exciting events or exhibitions happening at the gallery!  
+  
+That marks the end of our tour.  
+  
+Thank you for visiting our gallery and we hope you had a good time.  
+  
+See you again!
 </p>  
   
 </div>  
