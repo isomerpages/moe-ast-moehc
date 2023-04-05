@@ -156,7 +156,7 @@ Do you recognise the ‘made-in-Singapore’ textbooks here? They were developed
 
 ![](/images/Audio%20Guide/06_learningnation.jpg)
 
-<a href="https://drive.google.com/file/d/1cg75ZC1qAQ8khqLf_0X6mGN7j2Ze3C3c/view?usp=sharing">Click to listen ➔</a>
+<a href="https://drive.google.com/file/d/17bSB41hM4z5JccmpIYMpai7E6epsmdO9/view?usp=sharing">Click to listen ➔</a>
 	
 
 </p><p>Progress into the 21st&nbsp;century, where our education system continues to evolve to prepare Singaporeans for the ever-changing world!  
@@ -164,6 +164,33 @@ Do you recognise the ‘made-in-Singapore’ textbooks here? They were developed
 At the heart of this zone, try out our interactive game to learn about the knowledge and skills needed to thrive in our globalised environment.  
   
 Visit the showcase at the end of the zone. Watch how schools engage students in new ways of learning!
+  
+</p>  
+  
+</div>  
+  
+</li>  
+	
+<li>  
+  
+<input type="checkbox" id="accordion7">  
+  
+<label for="accordion7">07 Reflectory</label>  
+  
+<div>  
+  
+<p>
+
+![](/images/Audio%20Guide/07_reflectory.jpg)
+
+	<a href="https://drive.google.com/file/d/1Mq9biDpHxG4qM_euQSo6mPM8COST9Qz-/view?usp=sharing">Click to listen ➔</a>
+	
+
+</p><p>Here at the Reflectory, pause to think about what counts in education.  
+  
+Press the button on the console to start the video and be inspired by the dedication and passion of our teachers.  
+  
+Before you move on, explore other heart-warming stories at the touchscreen located at the back of the Reflectory.
   
 </p>  
   
