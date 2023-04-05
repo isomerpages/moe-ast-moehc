@@ -19,11 +19,14 @@ description: ""
 <div>  
   
 <p>
-![](/images/Audio%20Guide/01_registration.jpg)
+</p><figure>	
+<img style="width:65%" src="/images/audio-guide/01_registration.png">
+ 
+</figure>
 Hello and welcome to the MOE Heritage Centre.  
   
 Join us to discover the Singapore Education Story as you journey through the different zones.
-</p>  
+<p></p>  
   
 </div>  
   
