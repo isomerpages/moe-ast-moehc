@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Min Xin Primary School.md
       - Millenia Institute.md
       - School Histories.md
       - Schools/.keep
