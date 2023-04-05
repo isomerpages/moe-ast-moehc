@@ -3,9 +3,7 @@ title: Audio Guide
 permalink: /audio-guide/
 description: ""
 ---
+#### Welcome to the MOE Heritage Centre Gallery
+![](/images/Audio%20Guide/gallerymap.png)
 
-
-| Column 1 | Column 2 |  
-| -------- | -------- | 
-| Text     | Text     | 
-
+**Select a zone to listen to the audio files**
