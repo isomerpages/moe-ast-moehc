@@ -228,26 +228,56 @@ Examine the illuminated glass pillars. Each holds artefacts that signify the pro
 
 <li>  
   
-<input type="checkbox" id="accordion8">  
+<input type="checkbox" id="accordion9">  
   
-<label for="accordion8">08 Our Teacher Education and Development Journey</label>  
+<label for="accordion9">09 Our School Building Heritage</label>  
   
 <div>  
   
 <p>
 
-![](/images/Audio%20Guide/08_teacherdevelopment.jpg)
-
-<a href="https://drive.google.com/file/d/1N0SZiX_pPwpBvbQR2HS9GQgt1isMjQAT/view?usp=sharing">Click to listen ➔</a>
+![](/images/Audio%20Guide/09_schoolbuilding.jpg)
+<a href="https://drive.google.com/file/d/19ToWIUZYBMcuP8dE5mxqW61-SLOz8bDY/view?usp=sharing">Click to listen ➔</a>
 	
 
-</p><p>From here, take a trip down memory lane through three thematic zones that remind us of our cherished memories in school.  
+</p><p>Come discover our schools’ rich building heritage.  
   
-In this zone, trace the journey of teacher education and development from the 1950s to the present.  
+Walk towards the centre of the zone and immerse yourself in the multimedia show of school buildings.  
   
-Look out for the touchscreen to learn about the values and beliefs that have guided teachers through the generations.  
+On the wall behind, the illustrations show how school designs and facilities have evolved to meet the learning needs of the nation. Find out more by interacting with the touchscreen or viewing the row of building plans.  
   
-Examine the illuminated glass pillars. Each holds artefacts that signify the progress of teacher development through the years.
+Do you remember the school songs you once sang?  
+  
+Reminisce about school assembly time by browsing through the screen in between the flag poles. You may just find your school song in there!
+</p>  
+  
+</div>  
+  
+</li>
+
+<li>  
+  
+<input type="checkbox" id="accordion9">  
+  
+<label for="accordion9">08 Our School Building Heritage</label>  
+  
+<div>  
+  
+<p>
+
+![](/images/Audio%20Guide/09_schoolbuilding.jpg)
+<a href="https://drive.google.com/file/d/19ToWIUZYBMcuP8dE5mxqW61-SLOz8bDY/view?usp=sharing">Click to listen ➔</a>
+	
+
+</p><p>Come discover our schools’ rich building heritage.  
+  
+Walk towards the centre of the zone and immerse yourself in the multimedia show of school buildings.  
+  
+On the wall behind, the illustrations show how school designs and facilities have evolved to meet the learning needs of the nation. Find out more by interacting with the touchscreen or viewing the row of building plans.  
+  
+Do you remember the school songs you once sang?  
+  
+Reminisce about school assembly time by browsing through the screen in between the flag poles. You may just find your school song in there!
 </p>  
   
 </div>  
