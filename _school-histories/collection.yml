@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - Millenia Institute.md
       - School Histories.md
       - Schools/.keep
       - Schools/Admiralty Primary School.md
