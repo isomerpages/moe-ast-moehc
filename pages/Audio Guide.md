@@ -23,10 +23,11 @@ description: ""
 
 ![](/images/Audio%20Guide/01_registration.jpg)
 
-Hello and welcome to the MOE Heritage Centre.  
+<a href="https://drive.google.com/file/d/130Wr7fWNJ3dRAOjthnHXsAoIgffqmNf9/view?usp=share_link">Click to listen ➔</a>
+<p>Hello and welcome to the MOE Heritage Centre.  
   
 Join us to discover the Singapore Education Story as you journey through the different zones.
-<p></p>  
+</p><p></p>  
   
 </div>  
   
@@ -35,12 +36,19 @@ Join us to discover the Singapore Education Story as you journey through the dif
   
 <input type="checkbox" id="accordion2">  
   
-<label for="accordion2">title</label>  
+<label for="accordion2">02 Welcome Zone</label>  
   
 <div>  
   
 <p>
-text
+![](/images/Audio%20Guide/02_welcomezone.jpg)
+
+<a href="https://drive.google.com/file/d/1XEo1b_FK_nYKS0sP_oKoFrEn1cw7BCBx/view?usp=share_link">Click to listen ➔</a>
+You are now in the Welcome Zone.  
+  
+Notice the colourful sculpture filled with heartfelt anecdotes from our teachers. Recall your school days by exploring the white cubes around you—you can sit on them too!  
+  
+Be sure to check out a short teaser video before going to the next zone.
 </p>  
   
 </div>  
