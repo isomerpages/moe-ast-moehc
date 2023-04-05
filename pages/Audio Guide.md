@@ -44,6 +44,7 @@ Join us to discover the Singapore Education Story as you journey through the dif
 ![](/images/Audio%20Guide/02_welcomezone.jpg)
 
 <a href="https://drive.google.com/file/d/1XEo1b_FK_nYKS0sP_oKoFrEn1cw7BCBx/view?usp=share_link">Click to listen ➔</a>
+
 You are now in the Welcome Zone.  
   
 Notice the colourful sculpture filled with heartfelt anecdotes from our teachers. Recall your school days by exploring the white cubes around you—you can sit on them too!  
@@ -64,7 +65,15 @@ Be sure to check out a short teaser video before going to the next zone.
 <div>  
   
 <p>
-text	
+
+![](/images/Audio%20Guide/01_registration.jpg)
+
+<a href="https://drive.google.com/file/d/130Wr7fWNJ3dRAOjthnHXsAoIgffqmNf9/view?usp=share_link">Click to listen ➔</a>
+</p><p>Welcome class!  
+  
+You’re about to journey through different eras in Singapore’s education history.  
+  
+Walk up to the school desks and press the button to start the show.
   
 </p>  
   
