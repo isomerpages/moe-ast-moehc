@@ -183,7 +183,7 @@ Visit the showcase at the end of the zone. Watch how schools engage students in 
 
 ![](/images/Audio%20Guide/07_reflectory.jpg)
 
-	<a href="https://drive.google.com/file/d/1Mq9biDpHxG4qM_euQSo6mPM8COST9Qz-/view?usp=sharing">Click to listen ➔</a>
+<a href="https://drive.google.com/file/d/1Mq9biDpHxG4qM_euQSo6mPM8COST9Qz-/view?usp=sharing">Click to listen ➔</a>
 	
 
 </p><p>Here at the Reflectory, pause to think about what counts in education.  
@@ -192,6 +192,62 @@ Press the button on the console to start the video and be inspired by the dedica
   
 Before you move on, explore other heart-warming stories at the touchscreen located at the back of the Reflectory.
   
+</p>  
+  
+</div>  
+  
+</li>  
+
+<li>  
+  
+<input type="checkbox" id="accordion8">  
+  
+<label for="accordion8">08 Our Teacher Education and Development Journey</label>  
+  
+<div>  
+  
+<p>
+
+![](/images/Audio%20Guide/08_teacherdevelopment.jpg)
+
+<a href="https://drive.google.com/file/d/1N0SZiX_pPwpBvbQR2HS9GQgt1isMjQAT/view?usp=sharing">Click to listen ➔</a>
+	
+
+</p><p>From here, take a trip down memory lane through three thematic zones that remind us of our cherished memories in school.  
+  
+In this zone, trace the journey of teacher education and development from the 1950s to the present.  
+  
+Look out for the touchscreen to learn about the values and beliefs that have guided teachers through the generations.  
+  
+Examine the illuminated glass pillars. Each holds artefacts that signify the progress of teacher development through the years.
+</p>  
+  
+</div>  
+  
+</li>  
+
+<li>  
+  
+<input type="checkbox" id="accordion8">  
+  
+<label for="accordion8">08 Our Teacher Education and Development Journey</label>  
+  
+<div>  
+  
+<p>
+
+![](/images/Audio%20Guide/08_teacherdevelopment.jpg)
+
+<a href="https://drive.google.com/file/d/1N0SZiX_pPwpBvbQR2HS9GQgt1isMjQAT/view?usp=sharing">Click to listen ➔</a>
+	
+
+</p><p>From here, take a trip down memory lane through three thematic zones that remind us of our cherished memories in school.  
+  
+In this zone, trace the journey of teacher education and development from the 1950s to the present.  
+  
+Look out for the touchscreen to learn about the values and beliefs that have guided teachers through the generations.  
+  
+Examine the illuminated glass pillars. Each holds artefacts that signify the progress of teacher development through the years.
 </p>  
   
 </div>  
