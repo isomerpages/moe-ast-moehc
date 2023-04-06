@@ -98,6 +98,8 @@ Students are encouraged to emulate the enduring qualities of the begonia –&nbs
 
 #### **School Song**
 
+<a target="_blank" href="https://drive.google.com/file/d/1bctagErQ360lzevOPrPvoH3VVeA3StoM/view?usp=share_link">**♫ Listen**</a>
+
 We, sons and daughters of Zhonghua<br>
 Are to be courteous and righteous<br>
 And edified and dignified<br>
