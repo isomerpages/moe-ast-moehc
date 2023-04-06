@@ -4,39 +4,41 @@ permalink: /school-histories/zhonghua-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/zhonghuasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec1.jpg" style="width:20%;margin-right:15px;" align="left">
 
 ### **Zhonghua Secondary School**
-[URL to website](https://www.zhonghuasec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.zhonghuasec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/1pifEb23o_zQtTD1PACipOutdyH0FCRecSargJQj07yM/edit?usp=share_link/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec2.jpg">  
-<img src="/images/zhonghuasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec3.jpg">  
-<img src="/images/zhonghuasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec4.jpg">  
-<img src="/images/zhonghuasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec5.jpg">  
-<img src="/images/zhonghuasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec6.jpg">  
-<img src="/images/zhonghuasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec7.jpg">  
-<img src="/images/zhonghuasec7.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec7.jpg" style="width:20%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -48,7 +50,7 @@ In 1980, Chung Hwa Girls’ High School received its first intake of English-med
 
 In 1996, Zhonghua Secondary School gained autonomous status. The school relocated to Serangoon Avenue 3 in 2000. Zhonghua Secondary School also became the Centre of Excellence for Visual Arts, with the official opening of the Art Gallery and Centre in 2005. It is also the first co-educational school to offer the Art Elective Programme in 2010 to help students realise their artistic potential.
 
-In 2013, Zhonghua Secondary School became the South Zone Centre of Excellence for Science. The school retained its autonomous status from 2015 to 2020. Its signature programmes which are integrated under three broad strands of education, namely Science and Technology Education, Environmental and Sustainability Education, and Glocal Perspectives Education, develop and equip students with 21st Century Competencies.
+In 2013, Zhonghua Secondary School became the South Zone Centre of Excellence for Science. The school retained its autonomous status from 2015 to 2020. Its signature programmes&nbsp;which&nbsp;are integrated under three broad strands of education, namely&nbsp;Science and Technology Education, Environmental and Sustainability Education, and Glocal Perspectives Education, develop and equip students with 21st&nbsp;Century Competencies.
 
 Principals:<br>
 \- Mdm Yu Diazheng (1911–1919)<br>
@@ -88,11 +90,11 @@ Courteous, Righteous, Edified, Dignified<br>
 禮義廉恥
 
 #### **School Crest**
-<img src="/images/zhonghuasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/zhonghuasec1.jpg" style="width:20%;margin-right:15px;" align="left">
 
 The school crest takes the shape of a begonia leaf. The begonia has dark green leaves and produces red flowers. It is a hardy plant that survives naturally in almost any kind of condition. The colour green signifies freshness, youth, growth, life, vitality and resilience. The colour white is the emblem of purity, virtue and brightness.
 
-Students are encouraged to emulate the enduring qualities of the begonia – to be steadfast, strong, determined and decisive. Students are also encouraged to cultivate qualities such as excellence, endurance, hope and goodness.
+Students are encouraged to emulate the enduring qualities of the begonia –&nbsp;to be&nbsp;steadfast,&nbsp;strong, determined and decisive.&nbsp;Students are also encouraged to cultivate qualities such as&nbsp;excellence, endurance, hope and goodness.
 
 #### **School Song**
 
@@ -106,8 +108,8 @@ Stand up for Zhonghua! Stand up for Zhonghua!<br>
 Pledge to Zhonghua we’ll do our best<br>
 In whatever we pursue
 
-我们是中华的儿女   我们是社会的中坚<br>
-这是我们的天府   这是我们的学田<br>
-好好地耕种礼义廉耻     十二守则要躬践<br>
+我们是中华的儿女&nbsp; &nbsp;我们是社会的中坚<br>
+这是我们的天府&nbsp; &nbsp;这是我们的学田<br>
+好好地耕种礼义廉耻&nbsp; &nbsp; &nbsp;十二守则要躬践<br>
 励行五育，奋发南天 ， 爱护我们的山河<br>
 建设我们的乐园
