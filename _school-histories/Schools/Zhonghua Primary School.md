@@ -4,49 +4,51 @@ permalink: /school-histories/zhonghua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/zhonghuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuapri1.png">
 
 ### **Zhonghua Primary School**
-[URL to website](https://zhonghuapri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://zhonghuapri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe4gccTETeuZQAOHXI93rsaxzAzGG7J1Axz9-TuBWpV_kn4LS3xIwz8hmgTyFByWFScAoD_CFwRCgz/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri2.jpg">  
-<img src="/images/zhonghuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri3.jpg">  
-<img src="/images/zhonghuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri4.jpg">  
-<img src="/images/zhonghuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri5.jpg">  
-<img src="/images/zhonghuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri6.jpg">  
-<img src="/images/zhonghuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri7.jpg">  
-<img src="/images/zhonghuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri8.jpg">  
-<img src="/images/zhonghuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri9.jpg">  
-<img src="/images/zhonghuapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,7 +58,7 @@ Zhonghua Primary School was established in 1911 as Chung Hwa Girls’ School. In
 
 In 1980, the primary school ceased operations. In 1986, Chung Hwa Girls’ High School moved to its present location at Serangoon Avenue 4 and was renamed Zhonghua Secondary School.
 
-Zhonghua Primary School was rebuilt next to Zhonghua Secondary School. In 1987, the school operated as single-session. In 1989, the school was officially declared open. In 2001, the school underwent PRIME upgrading.  
+Zhonghua Primary School was rebuilt next to Zhonghua Secondary School. In 1987, the school operated as single-session. In 1989, the school was officially declared open. In 2001, the school underwent PRIME upgrading. &nbsp;
 
 Principals:<br>
 \- Mr Tan Eng Chai (1987–1989)<br>
@@ -87,13 +89,15 @@ Principals:<br>
 Diligence Before Success
 
 #### **School Crest**
-<img src="/images/zhonghuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuapri1.png">
 
 The school crest shows two letters ‘Z’s, one upright and the other inverted to signify the school’s emphasis in training its students and staff to be flexible in their outlook in life, particularly in problem-solving. The school crest is solid in structure, representing its belief that a school that is well-founded will flourish. The colour turquoise represents vibrant youth.
 
 <br clear="left">
 
 #### **School Song**
+
+<a href="https://drive.google.com/file/d/15i9CEhD-9pNqrm1JQ9HismXmi8ysQ6at/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 When nineteen eighty-seven dawned<br>
 The torch of Zhonghua was first shone<br>
