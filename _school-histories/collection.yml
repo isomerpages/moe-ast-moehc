@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Millenia Institute.md
       - Schools/Min Xin Primary School.md
       - Schools/Parry Primary School.md
       - Schools/.keep
