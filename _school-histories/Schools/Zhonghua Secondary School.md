@@ -4,7 +4,7 @@ permalink: /school-histories/zhonghua-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/zhonghuasec1.jpg" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuasec1.jpg">
 
 ### **Zhonghua Secondary School**
 [URL to website](https://www.zhonghuasec.moe.edu.sg/)
@@ -12,33 +12,32 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/1pifEb23o_zQtTD1PACipOutdyH0FCRecSargJQj07yM/edit?usp=share_link/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtPDgEJirckcigCOZIc8gnpPdW9MaBv5iwXeusq06aexRLfylDheB1Mc0LKNBrIovsiV2T229Pc0tx/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec2.jpg">  
-<img src="/images/zhonghuasec2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec3.jpg">  
-<img src="/images/zhonghuasec3.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec4.jpg">  
-<img src="/images/zhonghuasec4.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec5.jpg">  
-<img src="/images/zhonghuasec5.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec6.jpg">  
-<img src="/images/zhonghuasec6.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec7.jpg">  
-<img src="/images/zhonghuasec7.jpg" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuasec7.jpg">
 </a></p>
 
 <br clear="left">
@@ -90,7 +89,7 @@ Courteous, Righteous, Edified, Dignified<br>
 禮義廉恥
 
 #### **School Crest**
-<img src="/images/zhonghuasec1.jpg" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuasec1.jpg">
 
 The school crest takes the shape of a begonia leaf. The begonia has dark green leaves and produces red flowers. It is a hardy plant that survives naturally in almost any kind of condition. The colour green signifies freshness, youth, growth, life, vitality and resilience. The colour white is the emblem of purity, virtue and brightness.
 
