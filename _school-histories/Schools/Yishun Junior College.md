@@ -4,49 +4,50 @@ permalink: /school-histories/yishun-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yishunjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yishunjc1.jpg">
 
 ### **Yishun Junior College**
-[URL to website](http://yishunjc.moe.edu.sg/) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRS-3b0XBC75r5SStOMc0A8PDxFtfjLgaNj7WS0J-FSVgIfkaJ48tdvILKOufNjzy9qvLKU2_bF9o2-/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc2.jpg">  
-<img src="/images/yishunjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc3.jpg">  
-<img src="/images/yishunjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc4.jpg">  
-<img src="/images/yishunjc4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/yishunjc4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc5.jpg">  
-<img src="/images/yishunjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc6.jpg">  
-<img src="/images/yishunjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc7.jpg">  
-<img src="/images/yishunjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc8.jpg">  
-<img src="/images/yishunjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunjc9.jpg">  
-<img src="/images/yishunjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -88,7 +89,7 @@ Principals:<br>
 _Florescat Concordia_
 
 #### **School Crest**
-<img src="/images/yishunjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yishunjc1.jpg">
 
 The college crest has the shape of a shield. It signifies the strong and firm foundation that bonds the college together while protecting the students.
 
@@ -100,19 +101,22 @@ The college motto “Florescat Concordia” is a Latin phrase which means “Let
 
 An open book lies in the centre of the shield. It signifies the crucial role of the school as a premier institution of learning, delivering quality education services to the students.
 
-The torch represents the vision, mission and core values. It is shaped from the initials of the Romanised Chinese form of the college name: Yi & Shun.
+The torch represents the vision, mission and core values. It is shaped from the initials of the Romanised Chinese form of the college name: Yi &amp; Shun.
 
 The crimson flame of the lighted torch is formed by two individual S-shapes arranged and aligned to look as one. It represents Singapore society as a whole and is a reminder to the students to let the flame of loyalty burn strongly in their hearts.
 
-The staff of the torch comprises five quadrangles projected outwards in the shape of the letter “Y”. Firstly, it represents the five core values of the college: Integrity, Loyalty, Responsibility, Compassion and Commitment.  Secondly, it represents the faces of an open box showing our students’ freedom from the confines of restrictive thinking to solve problems innovatively by thinking “out of the box” in order to establish new perspectives, visions and dreams.
+The staff of the torch comprises five quadrangles projected outwards in the shape of the letter “Y”. Firstly, it represents the five core values of the college: Integrity, Loyalty, Responsibility, Compassion and Commitment.&nbsp; Secondly, it represents the faces of an open box showing our students’ freedom from the confines of restrictive thinking to solve problems innovatively by thinking “out of the box” in order to establish new perspectives, visions and dreams.
 
-Together, the flame and staff of the torch is a flaming baton: a spirit of burning passion for the college which students will carry in their hearts and hand down to succeeding batches of students. 
+Together, the flame and staff of the torch is a flaming baton: a spirit of burning passion for the college which students will carry in their hearts and hand down to succeeding batches of students.&nbsp;
 
-The stylised lion head is a national symbol which affirms our loyalty to the nation at all times.  It also signifies the desired qualities in the students – strength, determination and courage 
+The stylised lion head is a national symbol which affirms our loyalty to the nation at all times.&nbsp; It also signifies the desired qualities in the students – strength, determination and courage&nbsp;
 
 The laurel leaves represent the fruits of our labour and achievements over the years. They are also a reminder to the students that success is within their reach when they work hard.
 
 #### **School Song**
+
+<small>*School song unavailable*</small>
+
 Students of Yishun Junior College<br>
 Gather round your alma mater<br>
 Sing her praises and spread her fame<br>
