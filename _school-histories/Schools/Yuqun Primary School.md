@@ -79,7 +79,7 @@ The school colours are gold and blue.&nbsp;**Gold**&nbsp;signifies a bright and 
 
 #### **School Song**
 
-<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><small>*School song unavailable*</small>
+<small>*School song unavailable*</small>
 
 Let's develop healthy bodies and minds<br>
 Working towards a brighter future<br>
