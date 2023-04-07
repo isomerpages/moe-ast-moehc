@@ -4,45 +4,47 @@ permalink: /school-histories/yishun-innova-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yijc1.png" style="width:10%;margin-right:15px;" align = "left">
+<img align="left" style="width:10%;margin-right:15px;" src="/images/yijc1.png">
 
 ### **Yishun Innova Junior College**
-[URL to website](https://yijc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yijc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9xBDS0I6cvadxm_63yWDFK4tEyMtCxo2wjoAvt8od8XSSc0wufio7uG94asLDSDVElMptHBMJb7Bu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc2.jpg">  
-<img src="/images/yijc2.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yijc2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc3.jpg">  
-<img src="/images/yijc3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc4.jpg">  
-<img src="/images/yijc4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc5.jpg">  
-<img src="/images/yijc5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc6.jpg">  
-<img src="/images/yijc6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc7.jpg">  
-<img src="/images/yijc7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc8.jpg">  
-<img src="/images/yijc8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc9.jpg">  
-<img src="/images/yijc9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yijc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -73,14 +75,14 @@ Principal:<br>
 |
 
 #### **School Crest**
-<img src="/images/yijc1.png" style="width:10%;margin-right:15px;" align = "left">
+<img align="left" style="width:10%;margin-right:15px;" src="/images/yijc1.png">
 
 The crest is a creative amalgamation of similar and unique elements of the crests of Yishun and Innova junior colleges. The design honours the heritage of both colleges while charting a shared future.
 
 The prominent wave pattern represents the flame and wave emblems, which are significant elements of the identities of the former colleges. Embedded within the flame are the letters ‘Y’ and ‘I’ to represent how two different colleges can form a cohesive and distinctive identity together. The star is a key symbol in the crest and history of Innova Junior College. The pixelled sparks in the ‘YI’ flame form a star, representing the collaboration and commitment of both colleges to pursue a shared vision as one entity. The colours of red and blue are derived from the common college colours of maroon, navy and sky blue, but are new shades in the crest, signifying a fresh start for both colleges. The two colours are equally represented in the crest to show the unity of both colleges.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1ilCRnXO3BWzBIcpEwRqWtQwExYk7reLc/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 In a world of changes<br>
 Where our values will define us<br>
@@ -95,9 +97,9 @@ Crafting worlds anew
 We are Yishun Innova<br>
 With passion we ignite<br>
 Forging our own future<br>
-Like the blazing flame, Y.I.
+Like&nbsp;the&nbsp;blazing flame, Y.I.
 
 In our thoughts and our hearts<br>
 With courage we will rise<br>
 Leaning into our future<br>
-Like a blazing flame, Y.I.
+Like&nbsp;a&nbsp;blazing flame, Y.I.
