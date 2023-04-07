@@ -4,7 +4,7 @@ permalink: /school-histories/yuhua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yuhuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuapri1.png">
 
 ### **Yuhua Primary School**
 [URL to website](https://www.yuhuapri.moe.edu.sg/) 
@@ -13,40 +13,42 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAl6HeKaH_qRfUZUI-D6VRYmAf7bxwFIj5vVpS074iPNxsrB6yOku6UWnjB42mMyqWgO2l-WvSIeU-/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri2.jpg">  
-<img src="/images/yuhuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri3.jpg">  
-<img src="/images/yuhuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri4.jpg">  
-<img src="/images/yuhuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri5.jpg">  
-<img src="/images/yuhuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri6.jpg">  
-<img src="/images/yuhuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri7.jpg">  
-<img src="/images/yuhuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri8.jpg">  
-<img src="/images/yuhuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuhuapri9.jpg">  
-<img src="/images/yuhuapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -83,16 +85,17 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/yuhuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuapri1.png">
 
 The school crest shows a light bulb with its filament in the shape of a heart embedded in an arrangement puzzle. The light bulb represents the mind and the work of the school to nurture the students to be learners, thinkers and innovators. The filament of the bulb signifies the heart, depicting the school vision for the students to be people who care, share and contribute. These key aspects of the school crest symbolise the school’s mission, ‘Growing Our Hearts and Minds’.
 
-The arrangement puzzle symbolises a challenging and interesting school life, one that is full of potential. It speaks of the school’s belief that every child can learn. Each student enters the school with his or her unique strengths, talents and hopes. The school provides the nurturing and conducive learning environment to support each child in his or her self-discovery and growth. The arrangement is not complete until the final piece of the puzzle is put down at the end of a student’s six meaningful and purposeful years in the school.
+The arrangement puzzle symbolises a challenging and interesting school life, one that is full of potential.&nbsp;It speaks of the school’s belief that every child can learn.&nbsp;Each student enters the school with his or her unique strengths, talents and hopes. The school provides the nurturing and conducive learning environment to support each child in his or her self-discovery and growth. The arrangement is not complete until the final piece of the puzzle is put down at the end of a student’s six meaningful and purposeful years in the school.
 
 The school crest uses the colours blue and red. Blue signifies depth, breadth and stability of mind. Red signifies passion, affection and emotions of heart.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a href="https://drive.google.com/file/d/1IsLDr9lx_N05zb7zt4wf1eNEkbqiEggC/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Here is where we grow and serve<br>
 With a strong passion for life<br>
