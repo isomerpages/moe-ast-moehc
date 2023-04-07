@@ -104,6 +104,8 @@ The diagonal strokes on the right represent the latitude and the longitude of th
 
 #### **School Song**
 
+<small>*School song unavailable*</small>
+
 Here I am in Yuhua,  
 a brand new day,  
 ready for the challenges ahead.  
