@@ -4,7 +4,7 @@ permalink: /school-histories/yung-an-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yunganpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yunganpri1.png">
 
 ### **Yung An Primary School**
 
@@ -12,12 +12,14 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQds-Jn96Y-uWgWxI0ZElL5-95Or44IQTOPmG06wMSzE7zVFrdeBOf_9cyjas4jpGKT05WDl_G1QP8W/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunganpri2.jpg">  
-<img src="/images/yunganpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunganpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunganpri3.jpg">  
-<img src="/images/yunganpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunganpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -49,13 +51,15 @@ Last Serving Principal:<br>
 Progress Forever
 
 #### **School Crest**
-<img src="/images/yunganpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yunganpri1.png">
 
-The crest is in the shape of a kite, formed by the letters **Y** (Yung) and **A** (An). The kite symbolises ascension and progress to reflect the school motto, “Progress Forever”.
+The crest is in the shape of a kite, formed by the letters&nbsp;**Y**&nbsp;(Yung) and&nbsp;**A**&nbsp;(An). The kite symbolises ascension and progress to reflect the school motto, “Progress Forever”.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Yung An Primary proudly stands<br>
 Amidst industrial Jurong<br>
 It’s here that we’re led by guiding hands<br>
