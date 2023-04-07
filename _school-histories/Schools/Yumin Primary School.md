@@ -4,49 +4,51 @@ permalink: /school-histories/yumin-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yuminpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yuminpri1.png">
 
 ### **Yumin Primary School**
-[URL to website](http://yuminpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://yuminpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGhG67mVPqNdNFWORilRe5t9_MvWPaBbqnBOiyVv-v39M4RSZAorHWAESVG4SmI0ZAfESL6wBxHFrO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri2.jpg">  
-<img src="/images/yuminpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri3.jpg">  
-<img src="/images/yuminpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri4.jpg">  
-<img src="/images/yuminpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri5.jpg">  
-<img src="/images/yuminpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri6.jpg">  
-<img src="/images/yuminpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri7.jpg">  
-<img src="/images/yuminpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri8.jpg">  
-<img src="/images/yuminpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri9.jpg">  
-<img src="/images/yuminpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -83,12 +85,13 @@ Principals:<br>
 Aspire, Strive, Achieve, Serve
 
 #### **School Crest**
-<img src="/images/yuminpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yuminpri1.png">
 
-The school crest features a gear, an essential component in a machine. The gear keeps rotating until the product has been completed. It will turn again and again to manufacture new products. The gear with an open book illustrates the endless search for knowledge with perseverance and determination.
+The school crest features a gear, an essential component in a machine. The gear keeps rotating until the product has been completed. It will turn again and again to manufacture new products.&nbsp;The gear with an open book illustrates the endless search for knowledge with perseverance and determination.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a href="https://drive.google.com/file/d/1IUgbo4lb3Bzrss-qgB8xezB7tCJwXN7S/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We are one big family<br>
 We will strive for our country<br>
