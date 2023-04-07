@@ -4,7 +4,7 @@ permalink: /school-histories/yew-tee-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yewteepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yewteepri1.png">
 
 ### **Yew Tee Primary School**
 [URL to website](https://www.yewteepri.moe.edu.sg/)
@@ -13,40 +13,42 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsRStewk6Yy-ByuVeWo4p9gwV1scUcVgxZPvCwFDifemIcyFK_98_7JtAGnFKVdot1TMAw53pTp7md/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri2.jpg">  
-<img src="/images/yewteepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri3.jpg">  
-<img src="/images/yewteepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri4.jpg">  
-<img src="/images/yewteepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri5.jpg">  
-<img src="/images/yewteepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri6.jpg">  
-<img src="/images/yewteepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri7.png">  
-<img src="/images/yewteepri7.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri7.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri8.jpg">  
-<img src="/images/yewteepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yewteepri9.jpg">  
-<img src="/images/yewteepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -83,28 +85,29 @@ Principals:<br>
 Excellence with Integrity
 
 #### **School Crest**
-<img src="/images/yewteepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yewteepri1.png">
 
 The school crest shows two Chinese characters ‘Yu Zhi’, which means ‘nurturing young minds’. The book represents knowledge and wisdom. The shield, used in olden times by knights, symbolises the integrity and moral ethical values of the bearers. The banner and three arrows symbolise success and achievements beyond academic accomplishments. The entwined arrows symbolise creativity, the flaming torch stands for achievements in sports and co-curricular activities, while the handshake and heart represent racial harmony and care for others.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1RfGwW5whg7W6rmuq0eeirmHRPrpv7LNJ/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 Yew Tee Primary School<br>
 Loyal to you we shall be<br>
 Hand in hand we unite<br>
-To keep our flag flying high   
+To keep our flag flying high&nbsp;  
   
 Here we learn and study<br>
 Knowledge forever growing<br>
 Honest and trustworthy<br>
-We'll always be   
+We'll always be&nbsp;  
   
 Forward with courage in every test<br>
 Together we strive to be the best<br>
 Towards the goal<br>
 Onward we go<br>
-For a bright tomorrow   
+For a bright tomorrow&nbsp;  
   
 Yew Tee Primary School<br>
 Loyal to you we shall be<br>
