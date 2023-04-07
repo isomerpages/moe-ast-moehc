@@ -4,53 +4,55 @@ permalink: /school-histories/yusok-ishak-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yusokishaksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yusokishaksec1.jpg">
 
 ### **Yusok Ishak Secondary School**
-[URL to website](https://yusofishaksec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yusofishaksec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZrj8Et9h8mGT-Ghsz61QCWV3THGest0phyzWdBvd7JqnZiCa0qs3TLpQxJIYT3e2h63yKMQzKQ7nu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec2.jpg">  
-<img src="/images/yusokishaksec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec3.jpg">  
-<img src="/images/yusokishaksec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec4.jpg">  
-<img src="/images/yusokishaksec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec6.jpg">  
-<img src="/images/yusokishaksec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec5.jpg">  
-<img src="/images/yusokishaksec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec7.jpg">  
-<img src="/images/yusokishaksec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec8.jpg">  
-<img src="/images/yusokishaksec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec9.jpg">  
-<img src="/images/yusokishaksec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Yusof Ishak Secondary School was established in 1965 as Jubilee Integrated Secondary School, offering secondary education in English and Malay streams. Commencing with 984 students and 37 teachers, the school was renamed as Yusof Ishak Secondary School in the following year. On 29 July 1966, Singapore’s founding Prime Minister, Mr Lee Kuan Yew, officiated at the opening of Yusof Ishak Secondary School at Jubilee Road.
+Yusof Ishak Secondary School was established in 1965 as Jubilee Integrated Secondary School, offering secondary education in English and Malay streams. Commencing with 984 students and 37 teachers, the school was renamed as Yusof Ishak Secondary School in the following year. On 29 July 1966,&nbsp;Singapore’s founding Prime Minister, Mr Lee Kuan Yew, officiated at the opening of&nbsp;Yusof Ishak Secondary School at Jubilee Road.
 
 The school was one of the forerunners in equipping students with information technology knowledge and competency by setting up a computer laboratory in as early as 1992. With a focus on delivering a holistic education and in raising student achievements, the school became the first to top the value-added ranking in both the Express and Normal streams in 1992.
 
@@ -58,7 +60,7 @@ In December 1998, the school moved to its present site at 11 Bukit Batok Street 
 
 Yusof Ishak Secondary School’s vibrant performing arts programme was recognised as its niche in 2007. In 2014, Yusof Ishak Secondary School was accorded the Applied Learning Programme, ‘Programme for Authentic Science Technology and Environmental Learning’ (PASTEL).
 
-In 2015, the school celebrated its 50th anniversary in tandem with Singapore’s SG50 celebrations. Among the various activities to commemorate the event were the launch of the Presidents’ Trail, and the original play, _Newsman To Statesman_, which captures the life story of the first President Mr Yusof Bin Ishak. In the same year, Yusof Ishak Secondary School was recognised as a Centre for Teaching and Learning Excellence. In following year, it was accorded the Learning for Life Programme, ‘H2eArts in Tune Programme’ (History and Heritage through Arts and Music Programme). The school will be relocated to Punggol in 2021.
+In 2015, the school celebrated its 50th anniversary in tandem with Singapore’s SG50 celebrations. Among the various activities to commemorate the event were the launch of the Presidents’ Trail, and the original play,&nbsp;_Newsman To Statesman_, which captures the life story of the first President Mr Yusof Bin Ishak. In the same year, Yusof Ishak Secondary School was recognised as a Centre for Teaching and Learning Excellence. In following year, it was accorded the Learning for Life Programme, ‘H2eArts in Tune Programme’ (History and Heritage through Arts and Music Programme). The school will be relocated to Punggol in 2021.
 
 Principals:<br>
 \- Mr Charles G Lazaroo (1965–1969)<br>
@@ -93,14 +95,15 @@ Principals:<br>
 Ilmu Suluh Hidup (Knowledge is the Light of Life)
 
 #### **School Crest**
-<img src="/images/yusokishaksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yusokishaksec1.jpg">
 
 The sailing boat symbolises the spirit of discovery and progress in the high seas of knowledge. The three krises represent unity among the diverse races of students, as well as integrity and honour in all fields of endeavour. The school motto ‘Ilmu Suluh Hidup’ (Knowledge is the Light of Life) is featured on the scroll at the base of the shield.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a href="https://drive.google.com/file/d/13lfn93PZaCBq2tZmcNvRXKB3lb4RU4PN/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We’ll strive and strain together<br>
 To make our life anew<br>
