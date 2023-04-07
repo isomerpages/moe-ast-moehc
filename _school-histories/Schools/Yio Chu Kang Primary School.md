@@ -4,47 +4,49 @@ permalink: /school-histories/yck-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yckpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yckpri1.png">
 
 ### **Yio Chu Kang Primary School**
-[URL to website](https://www.yiochukangpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.yiochukangpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRb-usehHo5Os85DfKQTvI_TzS7x179w2NRlhUCDBIckwCLSwvvUFpbVnr--BDBnKoGJkSUOw6HPEUD/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri2.jpg">  
-<img src="/images/yckpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri3.jpg">  
-<img src="/images/yckpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri4.jpg">  
-<img src="/images/yckpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri5.jpg">  
-<img src="/images/yckpri5.jpg" style="width:29%;margin-right:15px;" align = "left">
+<img align="left" style="width:29%;margin-right:15px;" src="/images/yckpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri6.jpg">  
-<img src="/images/yckpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri7.jpg">  
-<img src="/images/yckpri7.jpg" style="width:30%;margin-right:35px;" align = "right">
+<img align="right" style="width:30%;margin-right:35px;" src="/images/yckpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri8.jpg">  
-<img src="/images/yckpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yckpri9.jpg">  
-<img src="/images/yckpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -92,14 +94,14 @@ Principals:<br>
 Youth of Character, Keen to Serve
 
 #### **School Crest**
-<img src="/images/yckpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yckpri1.png">
 
-The school crest features the school motto, ‘Youth of Character, Keen to Serve’, in the centre. The crest is halved diagonally, white over green. The colour green is symbolic of hope and success. The colour white signifies pervading and everlasting purity and virtue.
+The school crest features the school motto, ‘Youth of Character, Keen to Serve’, in the centre. The crest is halved diagonally, white over green.&nbsp;The colour green is symbolic of hope and success. The colour white signifies pervading and everlasting purity and virtue.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1e8U7_Nvgev1eA5ptxCZjZncFAMuLGIqp/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We are happy boys and girls at school<br>
 Our days with knowledge bright and full<br>
