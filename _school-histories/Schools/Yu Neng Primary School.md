@@ -4,7 +4,7 @@ permalink: /school-histories/yu-neng-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yunengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yunengpri1.png">
 
 ### **Yu Neng Primary School**
 [URL to website](https://www.yunengpri.moe.edu.sg/)
@@ -13,38 +13,40 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNeenHsN1YO6GuRliuFlLEkzJkXyMVHymlLGMFVosLR5btv2mOs7JuQTolQMkTuJQx_5qHdmTK6vqC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri2.jpg">  
-<img src="/images/yunengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri3.jpg">  
-<img src="/images/yunengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri4.jpg">  
-<img src="/images/yunengpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/yunengpri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri6.jpg">  
-<img src="/images/yunengpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/yunengpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri5.jpg">  
-<img src="/images/yunengpri5.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/yunengpri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri7.jpg">  
-<img src="/images/yunengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri8.jpg">  
-<img src="/images/yunengpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunengpri9.jpg">  
-<img src="/images/yunengpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,14 +87,15 @@ Principals:<br>
 Light Up and Shine
 
 #### **School Crest**
-<img src="/images/yunengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yunengpri1.png">
 
 The school crest shows an open book signifying the acquisition of knowledge. The torch represents the light that shines and guides the students as they strive towards excellence, being good examples to others. The unbroken circle stands for ‘total education’, which encompasses social, aesthetic, moral, physical and academic development. This symbol of togetherness also signifies everyone in the school working together to achieve common objectives and to educate students to the best of their abilities.
 
 The colours red, blue, yellow and white are used in the school crest. Red symbolises warm-heartedness and benevolence, blue for joy and happiness, yellow for the light that guides the students, and white for purity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a href="https://drive.google.com/file/d/18BwpYIt_qjemQ2xw6AUTc5Z5A_sf_312/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We are the young builders of our nation<br>
 Marching on to a bright future<br>
