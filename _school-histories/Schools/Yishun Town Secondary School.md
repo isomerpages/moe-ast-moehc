@@ -4,49 +4,51 @@ permalink: /school-histories/yishun-town-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ytss1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ytss1.jpg">
 
 ### **Yishun Town Secondary School**
-[URL to website](https://yishuntownsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yishuntownsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSe5PpjqK3CLQvYClxYkNYH-j8CdBLgJWzTNLoJ86WPoU-k9oGrHNFFdQjCjHRT3mRo5DNXTZmrfVr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss2.jpg">  
-<img src="/images/ytss2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss3.jpg">  
-<img src="/images/ytss3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss4.jpg">  
-<img src="/images/ytss4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss5.jpg">  
-<img src="/images/ytss5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss6.jpg">  
-<img src="/images/ytss6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss7.jpg">  
-<img src="/images/ytss7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss8.jpg">  
-<img src="/images/ytss8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss9.jpg">  
-<img src="/images/ytss9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss9.jpg">
 </a></p>
 
 <br clear="left">
@@ -88,12 +90,12 @@ Principals:<br>
 We Will Excel!
 
 #### **School Crest**
-<img src="/images/ytss1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ytss1.jpg">
 
 The school logo incorporates the letter ‘Y’, which stands for ‘Yishun’ and ‘youthfulness’. It signifies the students embracing life with zeal to face the new challenges of the millennium. In line with the school’s vision of a well-rounded education, the four arrows represent the development of the heart, body, mind and soul, while the circle symbolises the ultimate goal of a well-rounded student. The blue background represents a peaceful and harmonious school atmosphere. The colour yellow stands for the vibrancy of all of the school’s endeavours.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1GAsF3pnnueQswOV15EereXRSngs8NGQO/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Together in work and in play<br>
 In all our endeavours<br>
