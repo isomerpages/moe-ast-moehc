@@ -4,49 +4,51 @@ permalink: /school-histories/yishun-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yishunsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yishunsec1.png">
 
 ### **Yishun Secondary School**
-[URL to website](https://yishunsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yishunsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3oMLw0zQKXQH1Em7kFLftQ9aol_TKVtVOBEtakQPRIgw0XUZuEwdLOkmSL_j0VKoGUu6OP1niBZPo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec2.jpg">  
-<img src="/images/yishunsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec3.jpg">  
-<img src="/images/yishunsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec4.jpg">  
-<img src="/images/yishunsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec5.jpg">  
-<img src="/images/yishunsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec6.jpg">  
-<img src="/images/yishunsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec7.jpg">  
-<img src="/images/yishunsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec8.jpg">  
-<img src="/images/yishunsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunsec9.jpg">  
-<img src="/images/yishunsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,12 +91,12 @@ Principals:<br>
 We Seek, We Strive, We Soar
 
 #### **School Crest**
-<img src="/images/yishunsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yishunsec1.png">
 
 The school crest is in the shape of a water droplet, which symbolises the thirst for knowledge. The branches represent the school’s three core values that form the guiding principles to achieve the three desired outcomes for an Yishunite. The progressive growth of the branches indicates the different stages of learning that students have to go through before achieving their ultimate goal. The circle symbolises the fruits of labour that can be achieved through dedication, determination and self-discipline. The blue background signifies the students reaching out to seize the rich expanse of possibilities in the new economy through innovation and enterprise.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/16UsNMsEhkRvkN45aR31F5Cc4lho5cjNf/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 There's a joyful spirit that we share<br>
 In our home at Yishun Secondary School<br>
