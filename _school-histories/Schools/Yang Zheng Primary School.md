@@ -4,49 +4,51 @@ permalink: /school-histories/yang-zheng-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yangzhengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yangzhengpri1.png">
 
 ### **Yang Zheng Primary School**
-[URL to website](https://yangzhengpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yangzhengpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnpNS-p027hGJ_CXxMmZ5vTxMboMWMwsHZAiCHSoVLd-jAsEGwa4N_NEYSqDKV41XoIaduTUR3m34p/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri2.jpg">  
-<img src="/images/yangzhengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri3.jpg">  
-<img src="/images/yangzhengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri4.jpg">  
-<img src="/images/yangzhengpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri5.jpg">  
-<img src="/images/yangzhengpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri6.jpg">  
-<img src="/images/yangzhengpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri7.jpg">  
-<img src="/images/yangzhengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri8.jpg">  
-<img src="/images/yangzhengpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri9.jpg">  
-<img src="/images/yangzhengpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +56,7 @@ third_nav_title: Schools
 #### **School History**
 Yangzheng Primary School was established in 1905 by the Chinatown community. The school was then known as Yeung Ching School. In 1965, the school celebrated its 60th anniversary and the new school building on Club Street was completed. In 1970, the school became a co-educational school. Students could choose either Chinese or English as their first language. Between 1985 and 1987, Yeung Ching School merged with Telok Ayer and Peck Seah primary schools.
 
-In 1988, the school became a government school and Yeung Ching School was renamed Yangzheng Primary School. In the same year, the school moved to its present location at Serangoon Avenue 3. From 2005 to 2006, Yangzheng Primary School celebrated its 100th anniversary. 
+In 1988, the school became a government school and Yeung Ching School was renamed Yangzheng Primary School. In the same year, the school moved to its present location at Serangoon Avenue 3. From 2005 to 2006, Yangzheng Primary School celebrated its 100th anniversary.&nbsp;
 
 Principals:<br>
 \- Mr Song Mulin (1907–1916)<br>
@@ -100,14 +102,14 @@ Principals:<br>
 From Each His Finest Effort
 
 #### **School Crest**
-<img src="/images/yangzhengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yangzhengpri1.png">
 
 The school crest features the letter ‘Y’, which represents the school as well as the foundation and support it gives to the students. The school upholds the belief in the never-ending quest for knowledge, and this is depicted by the book that rests securely on the letter ‘Y’.
 
 The colours blue and gold represent vitality and finest efforts, respectively. The three sides of the triangle stand for acceptance, love and perseverance.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/19FVWValF0rqBnYOZfA6QPXnlKGMVMAqR/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Pupils of Yangzheng Primary School<br>
 We will obey the golden rule<br>
