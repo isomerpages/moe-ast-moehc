@@ -4,53 +4,55 @@ permalink: /school-histories/yck-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ycksec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ycksec1.png">
 
 ### **Yio Chu Kang Secondary School**
-[URL to website](https://yiochukangsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yiochukangsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReh0C7hkMfZ8i555posb_3Wpm6lYC8B07Tx72sFN5zTO3qoliUVd0px7x29u1PSYygy6Ka0BHyHMpy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec2.jpg">  
-<img src="/images/ycksec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec3.jpg">  
-<img src="/images/ycksec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec4.jpg">  
-<img src="/images/ycksec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec5.jpg">  
-<img src="/images/ycksec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec6.jpg">  
-<img src="/images/ycksec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec7.jpg">  
-<img src="/images/ycksec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec8.jpg">  
-<img src="/images/ycksec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ycksec9.jpg">  
-<img src="/images/ycksec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Yio Chu Kang Secondary School was established in 1965 due to the demand for secondary education for the children of residents in the area. The school started as an integrated English-Chinese stream school at 11 Milestone Yio Chu Kang Road and was officially declared open in June 1966.  
+Yio Chu Kang Secondary School was established in 1965 due to the demand for secondary education for the children of residents in the area. The school started as an integrated English-Chinese stream school at 11 Milestone Yio Chu Kang Road and was officially declared open in June 1966.&nbsp;&nbsp;
 
 In 1982, the school moved into a new building along Ang Mo Kio Avenue 5, and adopted a new school logo. In 2000, the school was selected to be one of the first schools to benefit from PRIME upgrading. The campus was upgraded with more facilities, particularly for the performing arts.
 
@@ -93,7 +95,7 @@ Principals:<br>
 Pursuit of Knowledge, Service to All
 
 #### **School Crest**
-<img src="/images/ycksec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ycksec1.png">
 
 The symmetry of the logo represents the balance of a holistic education for all. It features three orange shapes that resemble the bloom of petals. Collectively, they represent the school’s desire to nurture students to become competent learners, confident leaders and caring innovators.
 
@@ -104,7 +106,8 @@ A strong letter ‘Y’ in the centre not only stands for the school name, but a
 The circle that brings all the elements together forms a neverending ring to symbolise the collaborative synergy of staff, students and the community working together in a spirit of inclusivity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a href="https://drive.google.com/file/d/1GPn2HLDPsUiL4ac9DIq2MBxsCxRGGVPS/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Our School is Yio Chu Kang.<br>
 Together, we learn and grow.<br>
