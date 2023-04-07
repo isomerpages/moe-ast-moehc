@@ -4,41 +4,42 @@ permalink: /school-histories/yishun-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yishunpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yishunpri1.png">
 
 ### **Yishun Primary School**
-[URL to website](https://yishunpri.moe.edu.sg/) **broken link**
-
+[URL to website](https://yishunpri.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEOz-coIo2pF-TiJxsbDegXh71K4nHmfJYtQQ1h2xYr7imz7HfImC6NThFdqKx1xSjI5R9-oTqEJaT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri2.jpg">  
-<img src="/images/yishunpri2.jpg" style="width:24%;margin-right:15px;" align = "left">
+<img align="left" style="width:24%;margin-right:15px;" src="/images/yishunpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri3.jpg">  
-<img src="/images/yishunpri3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri4.jpg">  
-<img src="/images/yishunpri4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri5.jpg">  
-<img src="/images/yishunpri5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri6.jpg">  
-<img src="/images/yishunpri6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri7.jpg">  
-<img src="/images/yishunpri7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri8.jpg">  
-<img src="/images/yishunpri8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -78,12 +79,12 @@ Principals:<br>
 Do Our Best and Be the Best
 
 #### **School Crest**
-<img src="/images/yishunpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yishunpri1.png">
 
-The rotating globe of the logo symbolises the school’s aim to develop independent and engaged learners with skills and values to flourish as global citizens in a changing world. The three orange strokes on the globe form the letter ‘Y’, which stands for Yishun Primary School. The three strokes also represent the collaborative synergy of engaged students, caring staff and the supportive community working together in growing people and nurturing aspirations.  Within the ring that encompasses the globe and strokes is the name of the school. In addition, the school motto emphasises the expectation for all staff and students to ‘Do Our Best and Be the Best’.
+The rotating globe of the logo symbolises the school’s aim to develop independent and engaged learners with skills and values to flourish as global citizens in a changing world. The three orange strokes on the globe form the letter ‘Y’, which stands for Yishun Primary School. The three strokes also represent the collaborative synergy of engaged students, caring staff and the supportive community working together in growing people and nurturing aspirations. &nbsp;Within the ring that encompasses the globe and strokes is the name of the school. In addition, the school motto emphasises the expectation for all staff and students to ‘Do Our Best and Be the Best’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1gwg4z7xCSS6d-KdLlYVj7EXHjrR3b8jx/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 In work or in play we will strive every day<br>
 We will make the best of every little way<br>
