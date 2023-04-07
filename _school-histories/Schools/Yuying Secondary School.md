@@ -4,51 +4,53 @@ permalink: /school-histories/yuying-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/yuyingsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yuyingsec1.jpg">
 
 ### **Yuying Secondary School**
-[URL to website](https://yuyingsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://yuyingsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtp7Q-WuniaSlldp-2Gng0F7oAhLU-bHuj7aJckKf8bgSBPveOzBV3gtJV0Nl3pxb_057Syiz0Rf0z/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec2.jpg">  
-<img src="/images/yuyingsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec3.jpg">  
-<img src="/images/yuyingsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec4.jpg">  
-<img src="/images/yuyingsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec5.jpg">  
-<img src="/images/yuyingsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec6.jpg">  
-<img src="/images/yuyingsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec7.jpg">  
-<img src="/images/yuyingsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuyingsec8.jpg">  
-<img src="/images/yuyingsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec8.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Yuying Secondary School was established as Yock Eng High School by the Hainanese community in 1910. Located on Prinsep Street, the Chinese-medium high school started with an enrolment of only 15 students. Over the years, as the enrolment grew, the School Management Board initiated a campaign to raise funds for new premises in 1939. 
+Yuying Secondary School was established as Yock Eng High School by the Hainanese community in 1910. Located on Prinsep Street, the Chinese-medium high school started with an enrolment of only 15 students. Over the years, as the enrolment grew, the School Management Board initiated a campaign to raise funds for new premises in 1939.&nbsp;
 
 With great pride, the school moved to a new campus at 65 Tanjong Katong Road in 1941. However, the outbreak of the Second World War led to the Japanese armed forces occupying the school premises and education was disrupted.
 
@@ -101,7 +103,7 @@ Principals:<br>
 Together, Achieve Personal Excellence
 
 #### **School Crest**
-<img src="/images/yuyingsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/yuyingsec1.jpg">
 
 The school crest features the Chinese name of the school, 育英 – ‘育’ means to nurture, and ‘英’ refers to heroes or talents. Together, the name encapsulates the desire of the school to nurture its students and develop their talents so that they can contribute to society.
 
@@ -110,6 +112,8 @@ The eagle in flight in the middle of the crest symbolises the students soaring l
 A reminder to stay rooted, the white and red colours bear similar symbolic meaning to the national flag. White represents purity, and the red eagle symbolises universal brotherhood and teamwork. These values also invoke the school motto, ‘Together, Achieve Personal Excellence’, which emphasises the importance of teamwork and unity within the school. The focus on excellence spurs students of Yuying Secondary School to realise their potential and face every challenge with courage and determination.
 
 #### **School Song**
+
+<a href="https://drive.google.com/file/d/1nSKvw1tGkwDdXshdTUNiKWe0KJvebxMV/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Yuying, Yuying<br>
 You nurture us<br>
