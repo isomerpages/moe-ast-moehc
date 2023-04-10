@@ -8,6 +8,8 @@ third_nav_title: Schools
 
 ### **Ahmad Ibrahim Primary School**
 [School Website](http://www.ahmadibrahimpri.moe.edu.sg/)
+<br clear="left">
+
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjvZ8RUZD2T2CBwfQolOpsRe6CSQiLpAjfP0GfKNvyBLO_7ywflElJSoCI5Ib0YbO5U-msxv71uRwv/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
