@@ -42,7 +42,3 @@ In 1988, the school merged with Jervois Primary, which was subsequently closed i
 All Endeavours Produce Success<br>
 (The acronym of the school’s motto (AEPS) was creatively designed to match the abbreviation of the school’s name - Alexandra Estate Primary School (AEPS).)
 
-#### **School Crest**
-<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri1.png">
-
-<br clear="left">
