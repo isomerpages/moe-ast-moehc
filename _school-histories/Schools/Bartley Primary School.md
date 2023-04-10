@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bartleyprisch1.png">
 
 ### **Bartley Primary School**
-
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2P8-6b-PzEyZUzyUhd5QXdapCHte3WWSOYTO-O9KOnOflu7YGZC6k8UrWwvAPwSi0XuRwDIgZXDM4/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
