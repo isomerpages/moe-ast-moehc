@@ -8,7 +8,7 @@ third_nav_title: Schools
 
 ### **Ang Mo Kio Primary School**
 [School Website](http://angmokiopri.moe.edu.sg/)
-
+<br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX62L2Up9iYPpyXJGbBhipv0E1t8hzXuFVqXXNMnucm4l94AwJ8aHYmJiZhNtGrBPxo6ykJcNyyWBC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri2.jpeg">  
