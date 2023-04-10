@@ -120,7 +120,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/school-histories/balestier-hill-pri-1986-1988/ | [Balestier Hill Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-sec/) |
+| [Balestier Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/school-histories/balestier-hill-pri-1986-1988/) | [Balestier Hill Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-sec/) |
 
 <img src="/images/crest34.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest35.png" style="width:20%;margin-left:145px;" align="left">
