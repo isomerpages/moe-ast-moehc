@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Anglo-Chinese School (Independent)**
 [School Website](https://www.acsindep.moe.edu.sg/)
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgTkIT7V6_9VACzxSEz1QZG9odrY8dNNnTUJrbHJ2qbW4Um1C4VA6l2aeN7TJbDqrNRAJW0pySfgzN/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
