@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/aroozoo1.png">
 
 ### **Aroozoo School**
-<br>
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHV95AA_xTaYoPQGcZHr3MgWzyh94Z5si3tQdtvRXygEda2e5uNLGw7Zkpzit_L2IB8vSbmnnS8Yfs/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
