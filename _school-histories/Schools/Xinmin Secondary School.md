@@ -4,47 +4,49 @@ permalink: /school-histories/xinmin-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/xinminsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xinminsec1.png">
 
 ### **Xinmin Secondary School**
-[URL to website](https://xinminsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://xinminsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbs8J0ij7SrXQ6nI08W6u0EvRnocHC7PRE0RpZqixkKfVyvXkBrWs4QC3iiW1Vg_Jk8tC2pJxIv8OU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec2.jpg">  
-<img src="/images/xinminsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec3.jpg">  
-<img src="/images/xinminsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec4.jpg">  
-<img src="/images/xinminsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec5.jpg">  
-<img src="/images/xinminsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec6.jpg">  
-<img src="/images/xinminsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec7.jpg">  
-<img src="/images/xinminsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec8.jpg">  
-<img src="/images/xinminsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminsec9.jpg">  
-<img src="/images/xinminsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +56,7 @@ In 1945, Sin Min School was established to provide educational opportunities to 
 
 Later renamed as Xinmin Secondary School, it became the first neighbourhood school in Hougang to gain autonomous status and the Singapore Quality Class certification. Xinmin is recognised for its strong curriculum, holistic student development and youth leadership framework, as well as its innovative approaches to character development.
 
-Xinmin prides itself on four signature programmes: XinminCares, Coding@Xinmin, RefleXions@Xinmin and Xinmin’s Student Leadership Academy. Each programme nurtures students into leaders of hearts and minds. True to Xinmin’s beginnings as a community school, XinminCares develops students into ever-ready contributors to the community and compassionate individuals with a heart to serve others at local and overseas platforms.  Students also get to initiate and lead positive change, including organising the school’s annual Chinese New Year’s Spring-it-Up, befriending the elderly in Hougang, and organising Xinmin Change Initiator projects.
+Xinmin prides itself on four signature programmes: XinminCares, Coding@Xinmin, RefleXions@Xinmin and Xinmin’s Student Leadership Academy. Each programme nurtures students into leaders of hearts and minds. True to Xinmin’s beginnings as a community school, XinminCares develops students into ever-ready contributors to the community and compassionate individuals with a heart to serve others at local and overseas platforms.&nbsp; Students also get to initiate and lead positive change, including organising the school’s annual Chinese New Year’s Spring-it-Up, befriending the elderly in Hougang, and organising Xinmin Change Initiator projects.
 
 Xinmin aims to equip students well for the digital age by developing them into computational thinkers and conversant technology users who are also other-centred, empathetic and compassionate individuals. Coding@Xinmin exposes students to basic coding through active learning and tinkering, including animation and games creation. Above all, students learn to harness technology to improve lives, as they seek to impact society positively by designing solutions to authentic problems.
 
@@ -96,14 +98,15 @@ Principals:<br>
 Steadfast in Spirit, Diligent in Service
 
 #### **School Crest**
-<img src="/images/xinminsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xinminsec1.png">
 
 The graphic display of grace and exuberance depicts the school’s vibrant and dynamic students who are ready to strive, excel and serve. The three bold strokes surging forward signify the students embracing the future with confidence and optimism. The three figures represent the close partnership between the school, home and community.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1_qLC0v8jtWJaAky0I6_TG1Ku-Hp-SEAd/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 新民新民<br>
 我们要做社会的主人<br>
