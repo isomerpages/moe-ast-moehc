@@ -8,7 +8,7 @@ third_nav_title: Schools
 
 ### **Anderson Serangoon Junior College**
 [School Website](https://asrjc.moe.edu.sg/)
-
+<br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4Z5jATaiUp4mjN8kFMnUNxY0alPJvbzcWMcLv7C59fVYxYq2qJgyAqePx8Q9xGULekNDjtiF3RXDk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsrjc2.jpg">  
