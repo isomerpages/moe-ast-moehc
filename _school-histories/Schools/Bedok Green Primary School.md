@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Bedok Green Primary School**
 [School Website](http://www.bedokgreenpri.moe.edu.sg/) 
+<br clear="left">
 
 #### **Image Gallery**
 
