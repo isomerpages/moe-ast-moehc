@@ -46,6 +46,3 @@ All Endeavours Produce Success<br>
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri1.png">
 
 <br clear="left">
-
-#### **School Song**
-<small>*School song unavailable*</small>
