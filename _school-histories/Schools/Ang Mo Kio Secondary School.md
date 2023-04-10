@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Ang Mo Kio Secondary School**
 [School Website](http://angmokiosec.moe.edu.sg/)
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQf6t4k-enVif8S_lp2KmW7C098gxSgt5G9CcA62dqBowpuRUakBopo_dKrCXekh0m2McdnvV4snySq/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
