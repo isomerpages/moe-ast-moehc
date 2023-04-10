@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/beattypri5.png">
 
 ### **Beatty Primary School**
-
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRFhM58JN16rirjSGychOjA4rtLh6QGT8eQaNfz1F9jeeMYsnXTRIYSLCe1fn5GvD2UBjbeG03TREe/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
