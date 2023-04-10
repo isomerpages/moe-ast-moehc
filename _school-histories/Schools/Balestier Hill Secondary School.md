@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhillsec1.png">
 
 ### **Balestier Hill Secondary School**
-
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJEKtsmcfkjkpDPx-Y7Gbo4wI_U4sUWLf3ymz1Df4XcaTb7KvCr7QygvsV621Et_GgFWfqW6dV1uNo/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
