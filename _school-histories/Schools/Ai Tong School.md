@@ -52,24 +52,24 @@ third_nav_title: Schools
 Ai Tong School was established in 1912. The school was initially housed in a Methodist church on Boon Tat Street. In 1917, it relocated to 209 Telok Ayer Street. The Hokkien Huay Kuan took over Ai Tong School in 1929. In 1946, a branch school opened at the old Gan Eng Seng School premises. In 1956, the main school moved to the Hokkien Huay Kuan building at 137 Telok Ayer Street. Ai Tong School became a government-aided school in 1957, and in 1980, it became an integrated school. The new building at Ang Mo Kio Avenue 3 was officially opened in October 1981. Ai Tong became a Special Assistance Plan school in 1989. In 1993, the school relocated to 100 Bright Hill Drive, and it underwent PRIME in 2004. In 2017, Ai Tong School celebrated its 105th anniversary.
 
 Principals:<br>
-\- Mr Koh Chee Hou (1912–1913)<br>
-\- Mr Yap Eng Choo (1914)<br>
-\- Mr Ong Tao Nan (1915)<br>
-\- Mr Tan Choon Yao (1917–1919)<br>
-\- Mr Ing Yan (1920–1921)<br>
-\- Mr Tan Boon Teng (1922–1928)<br>
-\- Mr Ho Sin Nong (1929–1933)<br>
-\- Mr Tan Chou Shin (1934–1937)<br>
-\- Mr Chong Kwei Chang (1938–1939)<br>
-\- Mr Peng Ping Moh (1940–1941)<br>
-\- Mr Chong Kwei Chang (1946–1947)<br>
-\- Mr Koh Yee Chow (1948–1949)<br>
-\- Mr Yap Fan Fong (1950–1951)<br>
-\- Mr Koh Cheng Foo (1952–1971)<br>
-\- Mr Ting Beng Chin (1971–2001)<br>
-\- Mr Ng Keng Song (2002–2009)<br>
-\- Mr Tan Yap Kin (2010–2016)<br>
-\- Mdm Diane Goh (2017–present)
+* Mr Koh Chee Hou (1912–1913)
+* Mr Yap Eng Choo (1914)
+* Mr Ong Tao Nan (1915)
+* Mr Tan Choon Yao (1917–1919)
+* Mr Ing Yan (1920–1921)
+* Mr Tan Boon Teng (1922–1928)
+* Mr Ho Sin Nong (1929–1933)
+* Mr Tan Chou Shin (1934–1937)
+* Mr Chong Kwei Chang (1938–1939)
+* Mr Peng Ping Moh (1940–1941)
+* Mr Chong Kwei Chang (1946–1947)
+* Mr Koh Yee Chow (1948–1949)
+* Mr Yap Fan Fong (1950–1951)
+* Mr Koh Cheng Foo (1952–1971
+* Mr Ting Beng Chin (1971–2001)
+* Mr Ng Keng Song (2002–2009)
+* Mr Tan Yap Kin (2010–2016)
+* Mdm Diane Goh (2017–present)
 
 #### **Key Milestones**
 
@@ -100,7 +100,7 @@ The pair of wings symbolises the school soaring into greater heights, seeking hi
 The circles symbolise the cohesive spirit of the teachers and students working together towards a common goal.
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/1O3X4aOVMOO7t5X1T68QwRFhsKH7tNpvS/view?usp=share_link"     target="_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1O3X4aOVMOO7t5X1T68QwRFhsKH7tNpvS/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 我&nbsp; &nbsp; 爱&nbsp; &nbsp; 爱&nbsp; &nbsp; 同&nbsp; &nbsp; 贯&nbsp; &nbsp; 彻&nbsp; &nbsp; 始&nbsp; &nbsp; 终<br>
 wo ai ai tong tong guan che shi zhong
