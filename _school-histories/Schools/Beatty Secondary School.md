@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Beatty Secondary School**
 [School Website](http://www.beattysec.moe.edu.sg/)
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnMuZ9K0Sivcnf9ejfyDoqZC3JUMCH3rx6NOiKY8Fi7XOPOqi4k5RbwhOFdr2NHO-zCRbBOJgOQcK5/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
