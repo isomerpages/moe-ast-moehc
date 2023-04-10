@@ -64,7 +64,7 @@ Be sure to check out a short teaser video before going to the next zone.
   
 <p>
 <img alt="Projection" src="/images/Audio%20Guide/03_projection.jpg">
-
+<br>
 <a href="https://drive.google.com/file/d/1dsupnHenmZoTZLCE7PDJ0vOqtpKyjf65/view?usp=share_link target=">Listen ➔</a>
 </p><p>Welcome class!  
   
@@ -88,7 +88,7 @@ Walk up to the school desks and press the button to start the show.
   
 <p>
 <img alt="Education in the Early Years" src="/images/Audio%20Guide/04_educationearlyyears.jpg">
-
+<br>
 <a target="\_blank" href="https://drive.google.com/file/d/1OOsnwtZvdS3F03QzvO_1KvDtqiMKCu5F/view?usp=sharing">Listen ➔</a>
 </p><p>Step into this zone and travel back in time to 1819, when Sir Stamford Raffles first set up a British settlement in Singapore.  
   
@@ -117,6 +117,8 @@ Behind you, the bamboo scaffoldings represent the efforts to restore education a
 <p>
 
 <img alt="Building a Nation" src="/images/Audio%20Guide/05_buildingnation.jpg">
+<br>
+	
 <a target="\_blank" href="https://drive.google.com/file/d/18MLwgVZaaHtAaND_5mfMki0admM2XYd5/view?usp=share_link">Listen ➔</a>
 	
 </p><p>Move into 1959, the year that Singapore attained self-government.  
@@ -146,6 +148,7 @@ Do you recognise the ‘made-in-Singapore’ textbooks here? They were developed
 <p>
 
 <img alt="A Learning Nation" src="/images/Audio%20Guide/06_learningnation.jpg">
+<br>
 <a target="\_blank" href="https://drive.google.com/file/d/17bSB41hM4z5JccmpIYMpai7E6epsmdO9/view?usp=sharing">Listen ➔</a>
 	
 
@@ -172,6 +175,7 @@ Visit the showcase at the end of the zone. Watch how schools engage students in 
 <p>
 
 <img alt="Reflectory" src="/images/Audio%20Guide/07_reflectory.jpg">
+<br>
 <a target="\_blank" href="https://drive.google.com/file/d/1Mq9biDpHxG4qM_euQSo6mPM8COST9Qz-/view?usp=sharing">Listen ➔</a>
 	
 
@@ -198,6 +202,8 @@ Before you move on, explore other heart-warming stories at the touchscreen locat
 <p>
 
 <img alt="Teacher Development" src="/images/Audio%20Guide/08_teacherdevelopment.jpg">
+<br>
+	
 <a target="\_blank" href="https://drive.google.com/file/d/1N0SZiX_pPwpBvbQR2HS9GQgt1isMjQAT/view?usp=sharing">Listen ➔</a>
 	
 
@@ -224,7 +230,7 @@ Examine the illuminated glass pillars. Each holds artefacts that signify the pro
   
 <p>
 <img alt="School Building Heritage" src="/images/Audio%20Guide/09_schoolbuilding.jpg">
-
+<br>
 <a target="\_blank" href="https://drive.google.com/file/d/19ToWIUZYBMcuP8dE5mxqW61-SLOz8bDY/view?usp=sharing">Listen ➔</a>
 	
 
@@ -253,8 +259,8 @@ Reminisce about school assembly time by browsing through the screen in between t
   
 <p>
 
-![](/images/Audio%20Guide/10_schoolday.jpg)
 <img alt="School Day Memories" src="/images/Audio%20Guide/10_schoolday.jpg">
+<br>
 <a target="\_blank" href="https://drive.google.com/file/d/1vizy2jRw8oXJelm-8oWsFp85s4kmhplU/view?usp=sharing">Listen ➔</a>
 	
 
@@ -288,6 +294,7 @@ Nearby is a wall filled with notes from our school days. Hopscotch your way ther
 <p>
 
 <img alt="Mspace" src="/images/Audio%20Guide/11_mspace.jpg">
+<br>
 <a target="\_blank" href="https://drive.google.com/file/d/1mmgcZvdI88JYnTbtHMac86N7Y0I4OvxY/view?usp=sharing">Listen ➔</a>
 	
 
