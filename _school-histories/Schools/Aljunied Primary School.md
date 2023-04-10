@@ -34,6 +34,3 @@ Perseverance
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aljuniedpri1.png">
 
 <br clear="left">
-
-#### **School Song**
-*<small>School song unavailable</small>*
