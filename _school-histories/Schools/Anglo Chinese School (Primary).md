@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Anglo-Chinese School (Primary)**
 [School Website](https://www.acspri.moe.edu.sg/)
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7oaDjYMBu6y4bP-nKwBXnI6Q2hkWQpxyRmf176h9PN8jw8GUCe51zuNtnAtkbDc4UxUW_8JUd-u4N/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
