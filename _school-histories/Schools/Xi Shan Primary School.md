@@ -4,47 +4,48 @@ permalink: /school-histories/xi-shan-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/xishanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xishanpri1.png">
 
 ### **Xi Shan Primary School**
-[URL to website](https://xishanpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://xishanpri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSiO15PPZmc3ukYpWpvxgoRxHwaio0424h4e0ctu9i7S0cHwboWy-OkFOlHXSw0ia68AM9U4OGFEffw/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri2.jpg">  
-<img src="/images/xishanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xishanpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri3.jpg">  
-<img src="/images/xishanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xishanpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri4.jpg">  
-<img src="/images/xishanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xishanpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri5.jpg">  
-<img src="/images/xishanpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xishanpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri7.jpg">  
-<img src="/images/xishanpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/xishanpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri6.jpg">  
-<img src="/images/xishanpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/xishanpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri8.jpg">  
-<img src="/images/xishanpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xishanpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xishanpri9.jpg">  
-<img src="/images/xishanpri9.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/xishanpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -62,7 +63,7 @@ In the late 1960s, the demand for education increases, another fund raising was 
 
 Negotiations began with the Ministry of Education to convert Si San Public school to a government school. In consideration of the benefits and advantages for the community, the management committee gave their support and effected the conversion. In May 1984, Si San Public School became Si San Primary School and English became the medium of instruction. While many other village schools had to close down due to development of rural areas, Si San transformed into a modern school. In 1986, the government acquired the plot of land where Si San Primary School was located and the school was relocated to the current site. The school took on the Hanyu Pinyin appellation: Xishan, and was officially renamed Xishan Primary School.
 
-In 1986, Xishan Primary School started to offer Chinese, Malay and Tamil as second languages. Previously, only Chinese pupils studied in the school.  With the shift to Yishun New Town, pupils of several races made up the school population. Xishan Primary School played a key role in bringing pupils of different races together. On 11 November 1988, Xishan Primary School was officially declared open. 
+In 1986, Xishan Primary School started to offer Chinese, Malay and Tamil as second languages. Previously, only Chinese pupils studied in the school.&nbsp; With the shift to Yishun New Town, pupils of several races made up the school population. Xishan Primary School played a key role in bringing pupils of different races together. On 11 November 1988, Xishan Primary School was officially declared open.&nbsp;
 
 Since the founding of the school, the community spirit of giving and emphasis on the importance of education have remained strong and distinctive. From its inception in 1937, the school has been led by a total of 12 principals, working hand in hand with its dedicated staff to continually do the best for each cohort of students.
 
@@ -102,14 +103,14 @@ Principals:<br>
 Love, Care And Share
 
 #### **School Crest**
-<img src="/images/xishanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xishanpri1.png">
 
 The burning torch is symbolic of the schools’ pursuit of learning and academic excellence. It reminds the students that education is an on-going process. The red band reminds them to be united as one people.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/16T8QUFb8b706SDFDtvcKasu_b-Vsgys3/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Stand up for Xishan<br>
 Never must we let her down<br>
