@@ -8,6 +8,8 @@ third_nav_title: Schools
 
 ### **Angsana Primary School**
 [School Website](http://www.angsanapri.moe.edu.sg/)
+<br clear="left">
+
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYC-uLCc6BkGCVz14opuhHk5JEP9_ypMTLtmtG3LRTCwQEMTFWhDMxHG9TGzFIV4fwr4Jxkv4nXfso/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/angsanapri2.jpg">  
