@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Assumption English School**
 [School Website](http://assumptionenglish.moe.edu.sg/)
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSj2TfaIhy4Q7SQYwAe3vN46cSRMqs8UfnVTE0Jw6XTZaDuaUqJEq2hwcUhch7OtYbZxclb_vAtQBvI/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
