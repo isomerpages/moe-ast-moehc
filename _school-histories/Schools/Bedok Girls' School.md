@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bedokgirlssch1.png">
 
 ### **Bedok Girls' School**
-
+<br clear="left">
 
 #### **Image Gallery**
 
