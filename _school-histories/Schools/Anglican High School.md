@@ -8,6 +8,8 @@ third_nav_title: Schools
 
 ### **Anglican High School**
 [School Website](http://anglicanhigh.moe.edu.sg/)
+<br clear="left">
+
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9A7ZyQeVw5lN2xjgmednHk0xFmzPisHi_WJDO5UR3KvTv8h6QPOGeTix0mV3wZ0Jwy9kejFXsanHZ/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch2.jpg">  
