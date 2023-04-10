@@ -56,8 +56,9 @@ With the passing of the baton in 2015 to its second principal, Mdm Norliza, deep
 In 2016, Anchor Green Primary School was accorded a second Learning for Life Programme in Aspire, Grow Passion, Serve through the Arts (AGPS.Arts). The school’s vision from&nbsp;**A.G.P.S. Arts**&nbsp;is to develop every Anchorlite to be a Lifelong Learner and a Lifelong Advocate of the Arts by building upon our pupils' knowledge, skills and love for the arts, nurturing their creative expressions, enriching their social, cultural and heritage awareness and growing them to be confident, critical and creative learners and active contributors to society through a wide spectrum of arts platforms.
 
 Principals:<br>
-\- Mrs Dhillon Awtar Singh (2007–2014)<br>
-\- Mdm Norliza Bte A. Rahim (2014–present)
+* Mrs Dhillon Awtar Singh (2007–2014)<br>
+* Mdm Norliza Bte A. Rahim (2014–2021)
+* Mr Wesley Cheong (2021–present)
 
 #### **Key Milestones**
 
