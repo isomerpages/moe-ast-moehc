@@ -8,7 +8,8 @@ third_nav_title: Schools
 
 ### **Assumption Pathway School**
 [School Website](https://www.aps.edu.sg/)
-<br>
+<br clear="left">
+
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsPSj_o_0NnqftEVsV8zzR35QwQHxlUBBPGafO__Ajz2S2wpVVQPHe7Ng5L8dTeguhVwDngn7FR8xU/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch2.png">  
