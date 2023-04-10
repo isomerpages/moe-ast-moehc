@@ -4,21 +4,20 @@ permalink: /school-histories/bedok-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bedokpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedokpri1.jpg">
 
 ### **Bedok Primary School**
-[URL to website](https://admiraltypri.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCfUIHeRzVoc_HxpsVdsJu7tx3yAWjzUqfPFXikATDNOQ-KTGXRWP5NJRAwHX-MDi9K0_pYsjIU-SY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokpri2.jpg">  
-<img src="/images/bedokpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokpri3.jpg">  
-<img src="/images/bedokpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -39,13 +38,3 @@ In 2002, Bedok View Primary School merged with Bedok South Primary School to for
 | Early 1960s | Establishment of Bedok Primary School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/bedokpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-#### **School Song**
-\-
