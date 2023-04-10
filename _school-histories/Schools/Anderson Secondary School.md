@@ -8,7 +8,7 @@ third_nav_title: Schools
 
 ### **Anderson Secondary School**
 [School Website](https://andersonsec.moe.edu.sg/)
-
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRidHUE-oyv9o2E4GnXKJ1KD5d4O7xx-UI0pR6sob2lRF1f-ZkdUU82MyToIEvlqD9dKnMCMB7T8JzW/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
