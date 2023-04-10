@@ -44,6 +44,3 @@ Alert Keen Steady
 <img align="left" style="width:20%;margin-right:15px;" src="/images/amakengsch1.png">
 
 <br clear="left">
-
-#### **School Song**
-<small>*School song unavailable*</small>
