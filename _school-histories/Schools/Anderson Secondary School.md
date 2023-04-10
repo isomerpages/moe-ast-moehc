@@ -4,7 +4,7 @@ permalink: /school-histories/anderson-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/andersonsec1.jpg">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/andersonss_logo.png">
 
 ### **Anderson Secondary School**
 [School Website](https://andersonsec.moe.edu.sg/)
@@ -80,7 +80,7 @@ Principals:<br>
 With Constancy and Purpose
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/school-histories/andersonseclogo.png">
+<img align="left" style="width:20%;margin-right:15px;" src="images/School%20Histories/andersonss_logo.png">
 
 The school emblem is the bamboo, which symbolises greatness, nobility, distinction, purity and humility. It epitomises all that is spirited, unswerving and unyielding.
 
