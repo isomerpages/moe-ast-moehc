@@ -7,6 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/balestierhilleastpri1.png">
 
 ### **Balestier Hill East Primary School**
+<br>
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-UKVRp2faMMCCQnWdKk7l6M2gFHX7OB6EDNArC3OYRJzdnQH2nHZpplaq-rvJWs_6n4PigS4hXip_/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
