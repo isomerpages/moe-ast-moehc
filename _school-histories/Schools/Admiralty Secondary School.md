@@ -4,7 +4,7 @@ permalink: /school-histories/admiralty-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/adss1.jpg">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/adss1.jpg">
 
 ### **Admiralty Secondary School**
 [School Website](https://admiraltysec.moe.edu.sg/)
@@ -64,10 +64,10 @@ In commemoration of ADSS’ 15th&nbsp;anniversary in 2017,&nbsp;the school took 
 The year 2018 marked another milestone in the history of ADSS. The school witnessed the fruit of its labour when Chng Yee Sin Renee became the first alumnus to receive the Lee Kuan Yew Award for All-Round Excellence. In addition, the completion of the Indoor Sports Hall provides the school with one more learning space to strengthen its efforts in developing the students holistically.
 
 Principals:<br>
-\- Mrs Lim Ai Poo (2002–2007)<br>
-\- Mdm Jessie Koh (2007–2013)<br>
-\- Mr Toh Thiam Chye (2013–2019)<br>
-\- Mr Lam Yui-P'ng (2019–present)
+* Mrs Lim Ai Poo (2002–2007)<br>
+* Mdm Jessie Koh (2007–2013)<br>
+* Mr Toh Thiam Chye (2013–2019)<br>
+* Mr Lam Yui-P'ng (2019–present)
 
 #### **Key Milestones**
 
@@ -102,7 +102,7 @@ The central figure underscores the student-centred education that the school aim
 
 #### **School Song**
 
-<a href="https://drive.google.com/file/d/1AbEZclG7eBhlHEefRCUtbq6busCOoDLi/view?usp=sharing"     target="_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1AbEZclG7eBhlHEefRCUtbq6busCOoDLi/view?usp=sharing" target="_blank">**♫ Listen**</a>
 
 Standing tall and proud<br>
 With one heart<br>
