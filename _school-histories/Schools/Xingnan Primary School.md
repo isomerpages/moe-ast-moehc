@@ -4,49 +4,51 @@ permalink: /school-histories/xingnan-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/xingnanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xingnanpri1.png">
 
 ### **Xingnan Primary School**
-[URL to website](https://xingnanpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://xingnanpri.moe.edu.sg/
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaJzHiL07EDSCstQv9iM_zqtWo2TxuHYFIHsf01UbyE0q07dafxiKaqTFTzpegfdg_pC8ML8E0lbtN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri2.jpg">  
-<img src="/images/xingnanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri3.jpg">  
-<img src="/images/xingnanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri4.jpg">  
-<img src="/images/xingnanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri5.jpg">  
-<img src="/images/xingnanpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri6.jpg">  
-<img src="/images/xingnanpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri7.jpg">  
-<img src="/images/xingnanpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri8.jpg">  
-<img src="/images/xingnanpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri9.jpg">  
-<img src="/images/xingnanpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -100,12 +102,12 @@ Principals:<br>
 For Country and For School (卫国为校)
 
 #### **School Crest**
-<img src="/images/xingnanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xingnanpri1.png">
 
-The school crest was designed by Ms Peng Huijun, a former student, in 1988. It was designed to link Xingnan’s past with the future. The four red petals symbolise the four official languages taught in the school. The torch is the symbol of the old school, signifying knowledge and enlightenment. The diamond outline, which resembles a mortar board, kindles in the young mind the thought of tertiary education. In 2006, to reflect the change in the primary education system from an eight-year course to a six-year course, the crest was redesigned to include six bands, each indicating a year of study in primary school. The phrase, “Established 1932”, was also included to remind all students of the school’s history and how far it has come.
+The school crest was designed by Ms Peng Huijun, a former student, in 1988. It was designed to link Xingnan’s past with the future. The four red petals symbolise the four official languages taught in the school. The torch is the symbol of the old school, signifying knowledge and enlightenment. The diamond outline, which resembles a mortar board, kindles in the young mind the thought of tertiary education. In 2006, to reflect the change in the primary education system from an eight-year course to a six-year course, the crest was redesigned to include six bands, each indicating a year of study in primary school.&nbsp;The phrase, “Established 1932”, was also included to remind all students of the school’s history and how far it has come.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1dYrzP0I6VMkGEcJouRD_HCqjnm-x2oWP/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Once a little village school it was<br>
 But today an ultra modern school<br>
