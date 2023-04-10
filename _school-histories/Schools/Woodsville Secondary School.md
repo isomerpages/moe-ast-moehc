@@ -4,7 +4,7 @@ permalink: /school-histories/woodsville-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/woodsvillesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/woodsvillesec1.png">
 
 ### **Woodsville Secondary School**
 
@@ -12,22 +12,24 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1W38Zq1EVCoKrDJVIhyEh6XbBDF2chs4vu6MmSglTRPwC-ChnI40G5-xKSpajepKz-n88kcHYp9mX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec2.jpg">  
-<img src="/images/woodsvillesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec3.jpg">  
-<img src="/images/woodsvillesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec4.jpg">  
-<img src="/images/woodsvillesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec5.jpg">  
-<img src="/images/woodsvillesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec5.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,11 +60,13 @@ In 2004, Woodsville Secondary School merged with MacPherson Secondary School.
 Aspire and Achieve.
 
 #### **School Crest**
-<img src="/images/woodsvillesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/woodsvillesec1.png">
 
 The crest represents an eagle in flight. An eagle is a powerful and majestic bird. It has fiery eyes, steely talons, vast wing span and soaring flight. The eagle is the embodiment of strength and invincibility.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Let us strive with heart and song<br>
 For the school, our love, our second home<br>
 Let us strive with words and deeds<br>
