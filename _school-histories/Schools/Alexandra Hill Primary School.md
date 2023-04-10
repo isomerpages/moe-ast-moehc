@@ -40,7 +40,7 @@ In 1997, Alexandra Hill Primary School absorbed students from Bukit Merah Primar
 In January 2002, the school merged with Bukit Ho Swee Primary School, Henderson Primary School and Keng Seng Primary School to become Gan Eng Seng Primary School.
 
 Last Serving Principal:<br>
-\- Mrs Goh Chin Neo Eileen (1997–2001) 
+* Mrs Goh Chin Neo Eileen (1997–2001) 
 
 **Related Schools:**&nbsp;**[Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/)**&nbsp;\|&nbsp;**[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)**&nbsp;\|&nbsp;**[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)**&nbsp;\|&nbsp;**[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
 
