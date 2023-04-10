@@ -4,34 +4,34 @@ permalink: /school-histories/bedok-north-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bedoknorthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoknorthpri1.png">
 
 ### **Bedok North Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZSYoxzqPtiMdQk4kfUZ0WPvgrmA9XnpOxxNeJbH9I4TblGDTWw52Db9IL6z0GHjOKi8fw_8XqVkaV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri2.jpg">  
-<img src="/images/bedoknorthpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri3.jpg">  
-<img src="/images/bedoknorthpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri4.jpg">  
-<img src="/images/bedoknorthpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri5.jpg">  
-<img src="/images/bedoknorthpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri6.jpg">  
-<img src="/images/bedoknorthpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -44,7 +44,7 @@ On 1 October 1980, the building was completed and handed over to the school. The
 In 2001, Bedok North Primary School merged with East Coast Primary School. To commemorate the former school, East Coast Primary School built a four-storey rock wall on its premises.
 
 Last Serving Principal:<br>
-\- Mrs Angela Tan (1985–1996)
+* Mrs Angela Tan (1985–1996)
 
 **Related School:** **[East Coast Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-coast-pri/)**
 
@@ -60,13 +60,13 @@ Last Serving Principal:<br>
 Thoughts Into Deeds
 
 #### **School Crest**
-<img src="/images/bedoknorthpri1.png" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoknorthpri1.png">
 
-The **school colours** are dark green and gold.<br>
-The **circle** symbolises unity of the different races in the school.<br>
-The **book** symbolises knowledge.<br>
-The **key** represents thrift as well as the instrument to unlock the book of knowledge.<br>
-The **pen** is the symbol for the wise utilisation of knowledge.
+The&nbsp;**school colours**&nbsp;are dark green and gold.<br>
+The&nbsp;**circle**&nbsp;symbolises unity of the different races in the school.<br>
+The&nbsp;**book**&nbsp;symbolises knowledge.<br>
+The&nbsp;**key**&nbsp;represents thrift as well as the instrument to unlock the book of knowledge.<br>
+The&nbsp;**pen**&nbsp;is the symbol for the wise utilisation of knowledge.
 
 #### **School Song**
 We are pupils of Bedok North<br>
