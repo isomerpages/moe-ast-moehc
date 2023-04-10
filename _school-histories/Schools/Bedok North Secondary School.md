@@ -59,14 +59,15 @@ In 2011, BNSS launched its Heritage Gallery, which dedicated a segment to educat
 
 BNSS also worked with the larger community extensively: Student volunteers provided companionship to beneficiaries of Thye Hwa Kwan Senior Activity Centre and St Andrew’s Community Hospital. Bedok North students also advocated for the environment, spreading messages on energy and water conservation through working with kindergartens.
 
-In 2017, BNSS celebrated its 36th anniversary. In 2018, it merged with Damai Secondary School and the merged school has sinc
-e operated under the name of Damai Secondary School.
-Mr Nga Been Huon (1981–1987)<br>
-\- Mdm Sun Huey Min (1988–1993)<br>
-\- Mr Thomas Ong (1994–2000)<br>
-\- Mrs Yap Weng Ha (2001–2006)<br>
-\- Ms Susie Ho (2007–2012)<br>
-\- Mr Chua Lek Hong (2013–2017)
+In 2017, BNSS celebrated its 36th anniversary. In 2018, it merged with Damai Secondary School and the merged school has since operated under the name of Damai Secondary School.
+
+Principals:
+* Mr Nga Been Huon (1981–1987)<br>
+* Mdm Sun Huey Min (1988–1993)<br>
+* Mr Thomas Ong (1994–2000)<br>
+* Mrs Yap Weng Ha (2001–2006)<br>
+* Ms Susie Ho (2007–2012)<br>
+* Mr Chua Lek Hong (2013–2017)
 
 **Related School:** **[Damai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-sec/)**
 
@@ -91,12 +92,10 @@ Learn and Serve
 
 The school crest is in beige and maroon colours. The five digits of the hand symbolise the five desired outcomes for the students: strive for excellence, encourage experimentation, rejoice in doing good, value diversity and embrace life-long learning. Starting from a common base, each student endeavours towards different heights of achievement. Each digit leads to a circle representing a goal that the student sets for himself/herself.
 
-<br clear="left">
-
 In addition, the five digits and the hand symbolise the six school values:&nbsp;resilience, respect, responsibility, integrity, care,&nbsp;and working together in&nbsp;harmony. The logo also resembles books on a shelf, hence symbolising learning and knowledge.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/17IyqNgur3XONfHkvuebIDwFL2aygt8SD/view?usp=sharing" target="\_blank">**♫ Listen**</a>
 
 Let us in Bedok North<br>
 prepare to serve our nation.<br>
