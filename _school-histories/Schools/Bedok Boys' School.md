@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bedokboyssch1.jpg">
 
 ### **Bedok Boys' School**
-
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTRC9ayIVcpaEY7f6BNcPre7d1uKVquGv-4msukja4UIdcjlKhr0QOrpeMafrXlTkftCQv2e11X3KuT/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
