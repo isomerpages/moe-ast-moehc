@@ -8,7 +8,7 @@ third_nav_title: Schools
 
 ### **Admiralty Primary School**
 [School Website](https://admiraltypri.moe.edu.sg/)
-
+<br clear="left">
 ### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOtzWhix_zP194_DZ-yQgKXQ39EHVmclHdHtCkA5qfwDdoVAF1AnGQn1ZkQ5fb8A/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 
