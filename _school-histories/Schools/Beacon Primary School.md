@@ -8,6 +8,7 @@ third_nav_title: Schools
 
 ### **Beacon Primary School**
 [School Website](https://beaconpri.moe.edu.sg/) 
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9ymvmZ1snW1WOXRqDdsEABGDJ-9CrtqoA6OP5KLFBBxuTaqmUkcVXit-fzXvwR8zYkZg4BHR9th2U/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
