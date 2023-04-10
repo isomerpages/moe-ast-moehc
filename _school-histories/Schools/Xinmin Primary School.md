@@ -4,45 +4,47 @@ permalink: /school-histories/xinmin-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/xinminpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xinminpri1.png">
 
 ### **Xinmin Primary School**
-[URL to website](https://xinminpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://xinminpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHDVrAExII5dMPu6COiTqkApv45rjqXBXTihB5m8T1kkAXfsL_BDeLXE2Y9_AhcstRFJmaAcxfnLaW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri2.jpg">  
-<img src="/images/xinminpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri3.jpg">  
-<img src="/images/xinminpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri4.jpg">  
-<img src="/images/xinminpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri5.jpg">  
-<img src="/images/xinminpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri6.jpg">  
-<img src="/images/xinminpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri7.jpg">  
-<img src="/images/xinminpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri8.jpg">  
-<img src="/images/xinminpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinminpri9.jpg">  
-<img src="/images/xinminpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,9 +54,9 @@ Xinmin Primary School was established on 1 November 1945 by Mr Yap Fun Hong, Mr 
 
 Sin Min School was one of the three Chinese schools at the time offering education solely at the primary level. In 1956, the school established the high school section, the first Chinese high school along Upper Serangoon Road.
 
-In 1978, Sin Min School became a Chinese and English integrated school with the English stream in the primary school section. In the years that followed, the school became a government-aided school with primary and secondary classes. By 1980, the school had a population of 827 primary students, 762 secondary students and 63 teaching staff. In 1988, the school moved to its present location at 9 Hougang Avenue 8, and separated into Xinmin Primary School and Xinmin Secondary School.   
+In 1978, Sin Min School became a Chinese and English integrated school with the English stream in the primary school section. In the years that followed, the school became a government-aided school with primary and secondary classes. By 1980, the school had a population of 827 primary students, 762 secondary students and 63 teaching staff. In 1988, the school moved to its present location at 9 Hougang Avenue 8, and separated into Xinmin Primary School and Xinmin Secondary School. &nbsp;&nbsp;
 
-In 2015, the school became single-session after the completion of PERI upgrading. In 2018, the school has about 1,300 students and 120 teaching staff. 
+In 2015, the school became single-session after the completion of PERI upgrading. In 2018, the school has about 1,300 students and 120 teaching staff.&nbsp;
 
 Principals:<br>
 \- Mr Albert Ong Kian Ann (1988–1996)<br>
@@ -80,14 +82,14 @@ Principals:<br>
 In Word And Deed
 
 #### **School Crest**
-<img src="/images/xinminpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xinminpri1.png">
 
 The school crest shows a traditional shield with the school name positioned at the top and the motto, ‘In Word and Deed’, placed below to support it. The open book signifies honesty and openness towards knowledge. The four tongues of flames represent the four core subjects: English, mother tongue, mathematics and science.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1nviuNXTp6XiJtKeabGbQkfWNA6_4m0yF/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Xinmin Xinmin always aim for excellence<br>
 We strive hard to succeed what we say we'll do<br>
