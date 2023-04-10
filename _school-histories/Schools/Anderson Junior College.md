@@ -7,6 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/andersonjc1.png">
 
 ### **Anderson Junior College**
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPcP7xonYG_JD17H_U2U2bCOcgHiT87Neh110OzOH7OfyufpeUiUP8qyEkaFrNkXhprTIkKdeT0etc/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
