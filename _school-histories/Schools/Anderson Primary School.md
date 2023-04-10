@@ -8,7 +8,7 @@ third_nav_title: Schools
 
 ### **Anderson Primary School**
 [School Website](http://www.andersonpri.moe.edu.sg/)
-
+<br clear="left">
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2wY6x1Uvz2Y0w9wIpsjk0Rw58Z88X0jZqFKzRmqaFda8rtJbSdl8fTan-i9NFgmlpSgss2hIySwbF/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
