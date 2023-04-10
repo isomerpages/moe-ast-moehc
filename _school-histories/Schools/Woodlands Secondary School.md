@@ -4,7 +4,7 @@ permalink: /school-histories/woodlands-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/woodlandssec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandssec1.png">
 
 ### **Woodlands Secondary School**
 [URL to website](https://woodlandssec.moe.edu.sg/) - may require to change in future when original website is removed
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJJ1iN0HOO5Dc0Xqe2Fviy4peGKu9wvThpPYoU7i8_Yqj7FyKULemHhuBQKj4jbAtNna0eADlVuqiZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec2.jpg">  
-<img src="/images/woodlandssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pwoodlandssec3ic.jpg">  
-<img src="/images/woodlandssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec4.jpg">  
-<img src="/images/woodlandssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec5.jpg">  
-<img src="/images/woodlandssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec6.jpg">  
-<img src="/images/woodlandssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec7.jpg">  
-<img src="/images/woodlandssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec8.jpg">  
-<img src="/images/woodlandssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec9.jpg">  
-<img src="/images/woodlandssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,11 +59,11 @@ Since its inception, Woodlands Secondary School has become a familiar icon in th
 
 In 1999, Woodlands Secondary School became single-session. In 2003, it underwent PRIME upgrading and was designated as an Innovation Centre. The entrance of the school was shifted to face a less busy road, and the address of the school changed to 11 Marsiling Road. In 2006, a new school vision, ‘Weave, Dream, Lead’, was adopted as the school progressed to new peaks of excellence in educating each Woodlander that joins its ranks.
 
-In 2012, the school celebrated its 30th anniversary and attained the Singapore Quality Class award. It also welcomed the addition of an indoor sports hall and a synthetic turf field. 
+In 2012, the school celebrated its 30th anniversary and attained the Singapore Quality Class award. It also welcomed the addition of an indoor sports hall and a synthetic turf field.&nbsp;
 
 In 2015, Woodlands Secondary School was accorded the Applied Learning Programme, ‘Real Food, Real Science’, and the Learning for Life Programme, ‘Active Global Citizens Programme’.
 
-The school crafted its new vision, mission and values in 2018. The new vision, ‘Every Woodlander a Gift to Society’, speaks of its aspiration of being a hope-building school that enables success for all. 
+The school crafted its new vision, mission and values in 2018. The new vision, ‘Every Woodlander a Gift to Society’, speaks of its aspiration of being a hope-building school that enables success for all.&nbsp;
 
 Principals:<br>
 \- Mrs Jayam Narayanaswamy (1982–1986)<br>
@@ -94,12 +95,12 @@ Principals:<br>
 Wisdom and Truth
 
 #### **School Crest**
-<img src="/images/woodlandssec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandssec1.png">
 
 The overall blue tone reflects the setting of the school, which is located near the sea. The colour blue also represents harmony, serenity and closeness to nature. The six-pointed star signifies the total development of the individual’s academic, physical, social, emotional, aesthetic and moral aspects, which are strengthened to fineness as represented by the points of the star. The stylised letter ‘W’ resembles a soaring bird, representing the purity of spirit and ambition to reach greater heights.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1KzznUZJCL7rfOk_-NfSDh4MgaHnzkecL/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Woodlanders stand tall and proud<br>
 Honest in word, thought and deed<br>
