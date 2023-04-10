@@ -4,48 +4,48 @@ permalink: /school-histories/bedok-north-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bedoknorthsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoknorthsec1.png">
 
 ### **Bedok North Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7nN5ftf9HNv4pRXxQap0g15aWAbbKzcvcj_3dSrh_iISubhD1_fib6xXjHB8FxXaRIKvnLixbeA-n/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec2.jpg">  
-<img src="/images/bedoknorthsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec3.jpg">  
-<img src="/images/bedoknorthsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec4.jpg">  
-<img src="/images/bedoknorthsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec5.jpg">  
-<img src="/images/bedoknorthsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec6.jpg">  
-<img src="/images/bedoknorthsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec7.jpg">  
-<img src="/images/bedoknorthsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec8.jpg">  
-<img src="/images/bedoknorthsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec10.jpg">  
-<img src="/images/bedoknorthsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec10.jpg">
 </a></p>
 
 <br clear="left">
@@ -59,10 +59,9 @@ In 2011, BNSS launched its Heritage Gallery, which dedicated a segment to educat
 
 BNSS also worked with the larger community extensively: Student volunteers provided companionship to beneficiaries of Thye Hwa Kwan Senior Activity Centre and St Andrew’s Community Hospital. Bedok North students also advocated for the environment, spreading messages on energy and water conservation through working with kindergartens.
 
-In 2017, BNSS celebrated its 36th anniversary. In 2018, it merged with Damai Secondary School and the merged school has since operated under the name of Damai Secondary School.
-
-Principals:<br>
-\- Mr Nga Been Huon (1981–1987)<br>
+In 2017, BNSS celebrated its 36th anniversary. In 2018, it merged with Damai Secondary School and the merged school has sinc
+e operated under the name of Damai Secondary School.
+Mr Nga Been Huon (1981–1987)<br>
 \- Mdm Sun Huey Min (1988–1993)<br>
 \- Mr Thomas Ong (1994–2000)<br>
 \- Mrs Yap Weng Ha (2001–2006)<br>
@@ -88,13 +87,13 @@ Principals:<br>
 Learn and Serve
 
 #### **School Crest**
-<img src="/images/bedoknorthsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoknorthsec1.png">
 
 The school crest is in beige and maroon colours. The five digits of the hand symbolise the five desired outcomes for the students: strive for excellence, encourage experimentation, rejoice in doing good, value diversity and embrace life-long learning. Starting from a common base, each student endeavours towards different heights of achievement. Each digit leads to a circle representing a goal that the student sets for himself/herself.
 
 <br clear="left">
 
-In addition, the five digits and the hand symbolise the six school values: resilience, respect, responsibility, integrity, care, and working together in harmony. The logo also resembles books on a shelf, hence symbolising learning and knowledge.
+In addition, the five digits and the hand symbolise the six school values:&nbsp;resilience, respect, responsibility, integrity, care,&nbsp;and working together in&nbsp;harmony. The logo also resembles books on a shelf, hence symbolising learning and knowledge.
 
 #### **School Song**
 **Audio, require school to upload on youtube**
