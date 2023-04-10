@@ -46,6 +46,3 @@ Knowledge is power
 <img align="left" style="width:20%;margin-right:15px;" src="/images/anthonyroadgirlssch1.jpg">
 
 <br clear="left">
-
-#### **School Song**
-<small>*School song unavailable*</small>
