@@ -4,49 +4,51 @@ permalink: /school-histories/xinghua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/xinghuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xinghuapri1.png">
 
 ### **Xinghua Primary School**
-[URL to website](http://xinghuapri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://xinghuapri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyQfJGGZrATTXlvT5Ne1_WCw7ViV35rMvYg6fo5C1RO0qrwivMj6XEVl6nLzwGfX2D-kfZQb2m2iOa/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri2.jpg">  
-<img src="/images/xinghuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri3.jpg">  
-<img src="/images/xinghuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri4.jpg">  
-<img src="/images/xinghuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri5.jpg">  
-<img src="/images/xinghuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri6.jpg">  
-<img src="/images/xinghuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri7.jpg">  
-<img src="/images/xinghuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri8.jpg">  
-<img src="/images/xinghuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri9.jpg">  
-<img src="/images/xinghuapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -87,14 +89,14 @@ Principals:<br>
 Towards Excellence
 
 #### **School Crest**
-<img src="/images/xinghuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/xinghuapri1.png">
 
 The school crest features blue triangles, which symbolise love and honesty. The white triangles symbolise simplicity and purity. The red stripes symbolise diligence and courage.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1ohUoLfVNbDZQgZUdPCSf8iAmi4lX7pXY/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We are proud of Xinghua Primary School<br>
 Our hearts are joined as one<br>
