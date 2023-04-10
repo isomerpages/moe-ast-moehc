@@ -40,8 +40,8 @@ Join us to discover the Singapore Education Story as you journey through the dif
 <p>
 
 <img alt="Welcome Zone" src="/images/Audio%20Guide/02_welcomezone.jpg">
-
-</p><p><a target="\_blank" href="https://drive.google.com/file/d/1XEo1b_FK_nYKS0sP_oKoFrEn1cw7BCBx/view?usp=share_link">Listen ➔</a>
+<br>
+<a target="\_blank" href="https://drive.google.com/file/d/1XEo1b_FK_nYKS0sP_oKoFrEn1cw7BCBx/view?usp=share_link">Listen ➔</a>
 
 You are now in the Welcome Zone.  
   
