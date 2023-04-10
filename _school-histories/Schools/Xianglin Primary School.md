@@ -10,8 +10,7 @@ third_nav_title: Schools
 
 <br clear="left">
 
-#### **Image Gallery**
-<small>*Image gallery unavailable*</small>
+
 
 #### **School History**
 Xianglin Primary School was established in 1985 following the merger of Tanglin Girls’ School and Kay Siang Primary School. The school was located along Tanglin Road &nbsp;and occupied the combined premises of Tanglin Girls’ School and Kay Siang Primary School, which were located next to each other.  
@@ -26,13 +25,3 @@ In 1987, Xianglin Primary School merged with Belvedere Primary School. The new s
 | 1987 | Merger of Xianglin Primary School with Belvedere Primary School. |
 |
 
-#### **School Motto**
-<small>*School motto unavailable*</small>
-
-#### **School Crest**
-<small>*School crest unavailable*</small>
-
-<br clear="left">
-
-#### **School Song**
-<small>*School song unavailable*</small>
