@@ -4,7 +4,7 @@ permalink: /school-histories/whampoa-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/whampoasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/whampoasec1.png">
 
 ### **Whampoa Secondary School**
 
@@ -12,24 +12,26 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQC01oB1PZbbdc4U83vKWiRgxro26y9j9lZXbHUXqU30pMbRhtI0RWaXq-Vyu_B8IDBmLTnaHOcJ8xr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec6.jpg">  
-<img src="/images/whampoasec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec2.jpg">  
-<img src="/images/whampoasec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec5.jpg">  
-<img src="/images/whampoasec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec3.jpg">  
-<img src="/images/whampoasec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec4.jpg">  
-<img src="/images/whampoasec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec4.jpg">
 </a></p>
 
 <br clear="left">
@@ -41,7 +43,7 @@ The name of the school originated from Singapore’s pioneer businessman Mr Wham
 
 In 1965, the school set up pre-university classes and became a full school. By 1968, Whampoa Secondary School had 1098 students with 58 teaching staff.
 
-In 1972, the school participated in the Singapore Youth Festival with 1,000 students performing aerobics at the same time. Over the years, the school was known for its arts & cultural activities and sports achievements such as volleyball, basketball and table tennis.
+In 1972, the school participated in the Singapore Youth Festival with 1,000 students performing aerobics at the same time. Over the years, the school was known for its arts &amp; cultural activities and sports achievements such as volleyball, basketball and table tennis.
 
 Whampoa Secondary School started its first English-medium class in 1981, seeing its last batch of Chinese-medium students graduating in 1987.
 
@@ -71,7 +73,7 @@ Towards an all rounded education<br>
 德智体群
 
 #### **School Crest**
-<img src="/images/whampoasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/whampoasec1.png">
 
 The school crest is circular in shape to symbolise the bond between the students and the school management.
 
