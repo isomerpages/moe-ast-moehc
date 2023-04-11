@@ -4,67 +4,68 @@ permalink: /school-histories/boon-lay-garden-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/boonlaygardenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/boonlaygardenpri1.png">
 
 ### **Boon Lay Garden Primary School**
-[URL to website](https://boonlaygardenpri.moe.edu.sg/) - may require to change in future when original website is removed
+[School Website](https://boonlaygardenpri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDgrVwc8uAxDHwAt2Fed5m8Jn9Rn8sfhIuJXI-z8E1kbeyhcUbRmGRQH4bZCUk3p_uy5rbVI0pi6KS/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri2.jpg">  
-<img src="/images/boonlaygardenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri3.jpg">  
-<img src="/images/boonlaygardenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri4.jpg">  
-<img src="/images/boonlaygardenpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri5.jpg">  
-<img src="/images/boonlaygardenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri6.jpg">  
-<img src="/images/boonlaygardenpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri7.jpg">  
-<img src="/images/boonlaygardenpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri8.jpg">  
-<img src="/images/boonlaygardenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaygardenpri9.jpg">  
-<img src="/images/boonlaygardenpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaygardenpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Boon Lay Garden Primary School (BLGPS) was established in 1977 along Boon Lay Avenue. The government built the school to meet the increasing demand for school places by residents of the Boon Lay constituency. Officially declared open on 18 August 1978, the school started with an enrolment of 1,080 pupils in 20 English-stream and seven Chinese-stream classes. The school relocated to its present premises at Boon Lay Drive in December 2001. The new campus was officially opened on 31 July 2004.   
+Boon Lay Garden Primary School (BLGPS) was established in 1977 along Boon Lay Avenue. The government built the school to meet the increasing demand for school places by residents of the Boon Lay constituency. Officially declared open on 18 August 1978, the school started with an enrolment of 1,080 pupils in 20 English-stream and seven Chinese-stream classes. The school relocated to its present premises at Boon Lay Drive in December 2001. The new campus was officially opened on 31 July 2004.&nbsp;  
   
-The mission of Boon Lay Garden Primary has always been to provide a nurturing and supportive learning environment where pupils are developed to their fullest potential, with a readiness to serve others. Over the years, the school has built an indoor sports hall, an outdoor experiential learning space, a fitness playground and a student care centre to better support its teaching and learning programmes.   
+The mission of Boon Lay Garden Primary has always been to provide a nurturing and supportive learning environment where pupils are developed to their fullest potential, with a readiness to serve others. Over the years, the school has built an indoor sports hall, an outdoor experiential learning space, a fitness playground and a student care centre to better support its teaching and learning programmes.&nbsp;  
   
 Boon Lay Garden Primary celebrated its 40th anniversary in 2017 and completed its PERI upgrading in 2018.
 
 Principals:<br>
-\- Mr Brendon Wee (1977–1996)<br>
-\- Mr Ng Seng Long (1997–2000)<br>
-\- Mr Ng Chor Hee (2001)<br>
-\- Mrs Florence Lim (2002–2004)<br>
-\- Mr Wan Imran Mohd Woojdy (2005–2012)<br>
-\- Mrs Ong-Loh Jia Miin (2013–present)
+* Mr Brendon Wee (1977–1996)<br>
+* Mr Ng Seng Long (1997–2000)<br>
+* Mr Ng Chor Hee (2001)<br>
+* Mrs Florence Lim (2002–2004)<br>
+* Mr Wan Imran Mohd Woojdy (2005–2012)<br>
+* Mrs Ong-Loh Jia Miin (2013–2020)
+* Mrs Christine Low (2020–present)
 
 #### **Key Milestones**
 
@@ -88,7 +89,7 @@ Strive for Perfection
 The school motto- Strive for perfection spurs all to continually engage in the healthy pursuit of excellence, a deliberate effort to progress and improve that culminates in one’s personal best in all endeavours.
 
 #### **School Crest**
-<img src="/images/boonlaygardenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/boonlaygardenpri1.png">
 
 The school Crest comprises the school principal colours of brown and white, a central, yellow motif, an open book atop the logo, and the overarching school motto. Each symbolizes a hallmark of Boon Lay Garden Primary School:
 
@@ -97,7 +98,7 @@ The school Crest comprises the school principal colours of brown and white, a ce
 *   The book on top reiterates the importance of providing quality education for every child that passes through the school gates.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Xjxlsqen-ldYvxOyffjep5LZooQtY7T_/view?usp=share_link">**♫ Listen**</a>
 
 Boon Lay Garden Primary<br>
 Honour to our school<br>
