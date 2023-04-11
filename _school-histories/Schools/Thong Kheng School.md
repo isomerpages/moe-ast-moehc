@@ -38,4 +38,3 @@ Principals:<br>
 | 1954 | Relocation of Thong Kheng School to Lorong 29 Geylang. |
 | 1981 | Closure of Thong Kheng School. |
 |
-
