@@ -6,7 +6,7 @@ third_nav_title: Schools
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/westspringsec1.png">
 
-### **school name**
+### **West Spring Secondary School**
 [URL to website](https://westspringsec.moe.edu.sg/)
 
 <br clear="left">
