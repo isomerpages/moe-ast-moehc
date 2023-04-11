@@ -4,17 +4,15 @@ permalink: /school-histories/belvedere-sch-bukit-merah/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/belvederesch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/belvederesch1.png">
 
 ### **Belvedere School (Bukit Merah)**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnkCBNnwleIVXsF24QWYfGfvOzKeXsl9B__tWhu5d7WtyE907A8ULv5PPjbmnQeVx6UxmVeUA8OTMQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/belvederesch2.jpg">  
-<img src="/images/belvederesch2.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
 
 <br clear="left">
 
@@ -36,7 +34,7 @@ Over time, the enrolment in Belvedere Primary School gradually declined due to p
 Be Loyal
 
 #### **School Crest**
-<img src="/images/belvederesch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/belvederesch1.png">
 
 <br clear="left">
 
