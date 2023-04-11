@@ -4,46 +4,46 @@ permalink: /school-histories/beng-wan-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bengwanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bengwanpri1.png">
 
 ### **Beng Wan Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7pz2mulm1yNCv0XSFKIYSDqt1WDO6fpItY3q3UhK1f9fvnYsze4JdQvhIVCX9qDeAa7fpGjv1i-f6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri2.jpg">  
-<img src="/images/bengwanpri2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri3.jpg">  
-<img src="/images/bengwanpri3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri4.jpg">  
-<img src="/images/bengwanpri4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri5.jpg">  
-<img src="/images/bengwanpri5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri6.jpg">  
-<img src="/images/bengwanpri6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri7.jpg">  
-<img src="/images/bengwanpri7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri8.jpg">  
-<img src="/images/bengwanpri8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri9.jpeg">  
-<img src="/images/bengwanpri9.jpeg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri9.jpeg">
 </a></p>
 
 <br clear="left">
@@ -55,12 +55,12 @@ In 1997, the school celebrated its 20th anniversary.
 
 In 2004, Beng Wan Primary School merged with Bendemeer Primary School.
 
-Last Serving Principal:<br>
-\- Mr Teh Swee Chin (1977 - 1983)<br>
-\- Mr Foo Siang Juan (1984 - 1988)<br>
-\- Mr Han Mok Puek (1989 - 1992) <br>
-\- Mr Stephen Lu (1993 - 1998)<br>
-\- Miss Lim Kuek Heng (1999 - 2002)
+Principals:<br>
+* Mr Teh Swee Chin (1977 - 1983)<br>
+* Mr Foo Siang Juan (1984 - 1988)<br>
+* Mr Han Mok Puek (1989 - 1992) <br>
+* Mr Stephen Lu (1993 - 1998)<br>
+* Miss Lim Kuek Heng (1999 - 2002)
 
 **Related School:** **[Bendemeer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/)**
 
@@ -79,13 +79,13 @@ Last Serving Principal:<br>
 Disciplined To Serve
 
 #### **School Crest**
-<img src="/images/bengwanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bengwanpri1.png">
 
-The **three white stripes** of equal length represent purity, equality and harmony.
+The&nbsp;**three white stripes**&nbsp;of equal length represent purity, equality and harmony.
 
 **Blue**, being the colour of distinction, is an inspiration to students to strive for excellence. It is also the colour of the school uniform.
 
-The letters **b w p s** are the intials of Beng Wan Primary School.
+The letters&nbsp;**b w p s**&nbsp;are the intials of Beng Wan Primary School.
 
 #### **School Song**
 To Beng Wan we go willingly<br>
