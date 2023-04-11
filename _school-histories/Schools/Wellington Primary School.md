@@ -80,6 +80,7 @@ Empowerment through Education
 The Wellington crest embodies the spirit of a dynamic learning partnership between the school and its stakeholders in response to the emerging challenges in education. The stylised ‘W’ stands for ‘Wellington’ with the straight upright lines underscoring the school’s efforts at inculcating values to the young. The abstract branches of the tree with the leaf symbolises Wellington’s commitment to nurture the growth and development of every individual through quality education. The brilliant yellow reflects the vibrancy and energy of Wellington in empowering its members through quality education. The colour blue represents the learner-centred environment that is conducive to creativity and innovation.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1pYlyGhFQCta3Y97dHvYfCJJ0CxjeBipc/view?usp=share_link">**♫ Listen**</a>
 
 Wellington Primary forever inviting<br>
 The place we learn to be innovative<br>
