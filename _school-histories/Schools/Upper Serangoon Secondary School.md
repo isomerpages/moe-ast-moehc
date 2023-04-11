@@ -53,6 +53,8 @@ The&nbsp;**torch**&nbsp;symbolises the continual process of learning and the acq
 The&nbsp;**wheel**&nbsp;and the&nbsp;**book**&nbsp;represent the quest for an all-rounded education.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 This torch of learning, this store of skill<br>
 With sweetness and light will the city fill<br>
 From strength to strength we will always grow<br>
