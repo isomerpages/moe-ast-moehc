@@ -4,36 +4,36 @@ permalink: /school-histories/braddel-westlake-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/braddellwestlakesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/braddellwestlakesec1.png">
 
 ### **Braddell Westlake Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQql7icQiv_TCRz07aoaID6pks_Z0RZ8lz9Ax272br-8Gg_mEbKk3O3huMSJtNqYiuY3Mybp-rI-VT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec2.jpg">  
-<img src="/images/braddellwestlakesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/braddellwestlakesec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec4.jpg">  
-<img src="/images/braddellwestlakesec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/braddellwestlakesec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec3.jpg">  
-<img src="/images/braddellwestlakesec3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/braddellwestlakesec3.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec5.jpg">  
-<img src="/images/braddellwestlakesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/braddellwestlakesec5.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Braddell-Westlake Secondary School was formed from a merger between Braddell Secondary School and Westlake Secondary School in 2000. Located along Braddell Road, it occupied the former premises of both schools, with the lower-secondary section housed in Campus 1 (Braddell Secondary School) and the upper-secondary section situated at Campus 2 (Westlake Secondary School).
+Braddell-Westlake Secondary School was formed from a merger between&nbsp;Braddell Secondary School and Westlake Secondary School in 2000. Located along Braddell Road, it occupied the former premises of both schools, with the lower-secondary section housed in Campus 1 (Braddell Secondary School) and the upper-secondary section situated at Campus 2 (Westlake Secondary School).
 
 The merged school featured a glass mosaic wall mural, which showcased numerous famous past and present landmarks of Singapore, including the Singapore River, World Trade Centre and the National Theatre. The iconic mural was designed by art teacher Mr Ho Cheok Tin.
 
@@ -42,7 +42,7 @@ BWSS was an active participant in community events in the neighbourhood, such as
 The school merged with Guangyang Secondary School in 2006.
 
 Last Serving Principal:<br>
-\- Mdm Woon Meen Faye Catherine (Mrs Catherine Seah) (2003 - 2005)
+* Mdm Woon Meen Faye Catherine (Mrs Catherine Seah) (2003 - 2005)
 
 **Related School:** **[Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/)**
 
@@ -60,7 +60,7 @@ Last Serving Principal:<br>
 In Word and Deed, With Purpose and Determination
 
 #### **School Crest**
-<img src="/images/braddellwestlakesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/braddellwestlakesec1.png">
 
 The white dove is a symbol of new beginnings.
 
