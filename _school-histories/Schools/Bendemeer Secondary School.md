@@ -4,47 +4,47 @@ permalink: /school-histories/bendemeer-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bendemeersec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bendemeersec1.png">
 
 ### **Bendemeer Secondary School**
-[URL to website](http://www.bendemeersec.moe.edu.sg/) - may require to change in future when original website is removed
+[School Website](http://www.bendemeersec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWhIJcwZiNJbMMr6O1wiZi8U7n7uog_-QJHOVmgWdbkD_azAVxK20VRvk_UBspSrmL0WjGvxm9GCA_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec2.jpg">  
-<img src="/images/bendemeersec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec3.jpg">  
-<img src="/images/bendemeersec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec4.jpg">  
-<img src="/images/bendemeersec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec5.jpg">  
-<img src="/images/bendemeersec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec6.jpg">  
-<img src="/images/bendemeersec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec7.jpg">  
-<img src="/images/bendemeersec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec8.jpg">  
-<img src="/images/bendemeersec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec9.jpg">  
-<img src="/images/bendemeersec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -61,14 +61,15 @@ In 2017, Bendemeer Secondary School celebrated its 40th anniversary with the lau
 In 2019, the school was selected as one of 8 schools to pilot the 1:1 Computing Programme with ETD.
 
 Principals:<br>
-\- Mr Oei Kim Pheow (1977–1979)<br>
-\- Mr Lim Lak Ching (1979–1981)<br>
-\- Mdm Rebeca Lee (1981–1997)<br>
-\- Mrs Karen Oei (1998–2002)<br>
-\- Mrs Rathi Parimalan (2003–2007)<br>
-\- Mrs Wong Mee Mee (2008–2011)<br>
-\- Mr Ling Khoon Chow (2012–2016)<br>
-\- Mr Chen Fook Pang (2017–present)
+* Mr Oei Kim Pheow (1977–1979)<br>
+* Mr Lim Lak Ching (1979–1981)<br>
+* Mdm Rebeca Lee (1981–1997)<br>
+* Mrs Karen Oei (1998–2002)<br>
+* Mrs Rathi Parimalan (2003–2007)<br>
+* Mrs Wong Mee Mee (2008–2011)<br>
+* Mr Ling Khoon Chow (2012–2016)<br>
+* Mr Chen Fook Pang (2017–2022)
+* Ms Foo Sheue Feng (2022–present)
 
 
 #### **Key Milestones**
@@ -90,7 +91,7 @@ Principals:<br>
 From Each His Best
 
 #### **School Crest**
-<img src="/images/bendemeersec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bendemeersec1.png">
 
 The oval shape represents steadfastness and persistence. The colours blue and gold signify unity in harmony, and intellectual strength and moral courage, respectively.
 
