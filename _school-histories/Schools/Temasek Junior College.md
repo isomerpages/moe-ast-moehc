@@ -4,49 +4,50 @@ permalink: /school-histories/temasek-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/temasekjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/temasekjc1.jpg">
 
 ### **Temasek Junior College**
-[URL to website](https://www.temasekjc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.temasekjc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYBidHVq-VYzdNSWnjytOa-ZxeqF6fDp4siBPmTx5ZE1s-HnKqdVuEZ-AnCwnGlcke6Z-Ap4krVq-E/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc2.jpg">  
-<img src="/images/temasekjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc3.jpg">  
-<img src="/images/temasekjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc4.jpg">  
-<img src="/images/temasekjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc5.jpg">  
-<img src="/images/temasekjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc6.jpg">  
-<img src="/images/temasekjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc7.jpg">  
-<img src="/images/temasekjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc8.jpg">  
-<img src="/images/temasekjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekjc9.jpg">  
-<img src="/images/temasekjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -92,12 +93,13 @@ Principals:<br>
 For College, For Nation
 
 #### **School Crest**
-<img src="/images/temasekjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/temasekjc1.jpg">
 
 The college crest depicts the letters ‘TJC’ in bold form, with the letter ‘T’ taking a symbolic shape and reflecting a characteristic architectural feature of the college. The green background acknowledges the TJC’s alignment with the national objective of projecting a clean and green country. The divisions in the cross of the ‘T’ stand for the five national ideals of justice, equality, happiness, prosperity and progress. The segments in the trunk of the ‘T’ symbolise the four major races working in unison within the college towards the national ideals. The name of the college encircles the crest, flanked by laurels representing the recognition that the college has achieved and is a constant reminder of its commitment to its motto.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1JFTo19HPyHAFqd1kdZPF8SXd5PbBf04D/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 It matters not where we are from<br>
 To Temasek we now belong<br>
