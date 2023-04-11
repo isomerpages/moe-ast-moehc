@@ -4,7 +4,7 @@ permalink: /school-histories/waterway-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/waterwaypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/waterwaypri1.png">
 
 ### **Waterway Primary School**
 [URL to website](https://www.waterwaypri.moe.edu.sg/)
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb90sTL9P8BXAbJRSA2NTfFcavAPLF0ZSQVka7lqWtJXU2pEjLqblXXwMJGo-iyGolNKh3Ik1ELJZg/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri2.jpg">  
-<img src="/images/waterwaypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri3.jpg">  
-<img src="/images/waterwaypri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri4.jpg">  
-<img src="/images/waterwaypri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri5.jpg">  
-<img src="/images/waterwaypri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri6.jpg">  
-<img src="/images/waterwaypri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri7.jpg">  
-<img src="/images/waterwaypri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri8.jpg">  
-<img src="/images/waterwaypri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri9.jpg">  
-<img src="/images/waterwaypri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -69,14 +70,15 @@ Principal:<br>
 To Learn To Lead To Serve
 
 #### **School Crest**
-<img src="/images/waterwaypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/waterwaypri1.png">
 
 The school crest shows the lighthouse as a symbol of direction for the school in the education of its students. The school aims to build strong foundations for the students to learn, to learn through life and to be gracious citizens. The tower is a pillar of strength and hope in a sea of change while the beacon is the light that shows the way.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1nYAMYlfnwylQhW0wx4EFtG2NzyK6ts3z/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 We are here to learn, to lead, to serve<br>
 The lighthouse to show the way<br>
