@@ -4,47 +4,49 @@ permalink: /school-histories/victoria-school/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/victoriasch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/victoriasch1.png">
 
 ### **Victoria School**
-[URL to website](https://victoria.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://victoria.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcBDSietgFEHbsnGDplQNfn4LnCPc8zFcKbGp05jNmshyH426icDiIGaz4uk332P1JxRS2fnhJI0pc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch2.jpg">  
-<img src="/images/victoriasch2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch3.jpg">  
-<img src="/images/victoriasch3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch4.jpg">  
-<img src="/images/victoriasch4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch5.jpg">  
-<img src="/images/victoriasch5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch6.jpg">  
-<img src="/images/victoriasch6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch7.jpg">  
-<img src="/images/victoriasch7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch8.jpg">  
-<img src="/images/victoriasch8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch9.jpg">  
-<img src="/images/victoriasch9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +56,7 @@ Victoria School was established in 1876 as an English class in Kampong Glam Mala
 
 In 1900, the school moved to Syed Alwi Road, near Victoria Bridge. Hence the school became known as Victoria Bridge School. The first annual sports meet took place in 1915. In 1929, the house system was introduced and the house prefects were appointed in the following year. Until 1930, Victoria only had primary classes from Standard 1 to Standard 5. In 1931, the school became the second government secondary school in Singapore.
 
-The school moved to Tyrwhitt Road in 1933 and was renamed Victoria School. In 1940, the prefect badge and school motto, ‘Nil Sine Labore’, were introduced. During the Japanese Occupation, the school was renamed Jalan Besar Boys’ School and reverted to its former name after the war. In 1951, Post School Certificate classes started. The school anthem was composed and set to music in the early 1950s. The school made great strides academically and in its extra-curricular activities. In 1979, Victoria School became a Pre-University Center, offering three-year pre-university courses. 
+The school moved to Tyrwhitt Road in 1933 and was renamed Victoria School. In 1940, the prefect badge and school motto, ‘Nil Sine Labore’, were introduced. During the Japanese Occupation, the school was renamed Jalan Besar Boys’ School and reverted to its former name after the war. In 1951, Post School Certificate classes started. The school anthem was composed and set to music in the early 1950s. The school made great strides academically and in its extra-curricular activities. In 1979, Victoria School became a Pre-University Center, offering three-year pre-university courses.&nbsp;
 
 A new chapter began when Victoria Junior College was established in Marine Parade in 1984, and Victoria School moved to its Geylang Bahru site that same year. Victoria School launched its Art Elective Programme in 1985. Victoria Challenge, an event now fondly remembered by all Victorians, started in July 1987. In 1993, Victoria School was accorded autonomous status. The school hosted the Gifted Education Programme from 2001 to 2005.
 
@@ -133,12 +135,12 @@ Principals:<br>
 Nil Sine Labore (Nothing Without Labour)
 
 #### **School Crest**
-<img src="/images/victoriasch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/victoriasch1.png">
 
 The open book symbolises lifelong learning. The torch signifies truth and the passing on of a tradition. It also illuminates the way for Victorians who venture forth to excel beyond the shores of Singapore. The colour yellow symbolises dignity and excellence, while the colour red symbolises universal brotherhood and equality.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1AeZixJmJhdh7upMgVrVB7QP2r3aIMaKM/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Victoria in Singapore,<br>
 There are other schools we know,<br>
