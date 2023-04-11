@@ -43,4 +43,3 @@ With fidelity and discipline
 
 
 <br clear="left">
-
