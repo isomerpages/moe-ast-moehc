@@ -4,7 +4,7 @@ permalink: /school-histories/unity-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/unitypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/unitypri1.png">
 
 ### **Unity Primary School**
 [URL to website](https://unitypri.moe.edu.sg/) - may require to change in future when original website is removed
@@ -12,39 +12,40 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT300rwNJSkRJ_txGuXsy8oYnUF4n266Zk6K7rOMubFAhi5AfrIWJ_M7YJ4z4k8o-nltVGI-GDjUHbb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri2.jpg">  
-<img src="/images/unitypri2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri3.jpg">  
-<img src="/images/unitypri3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri4.jpg">  
-<img src="/images/unitypri4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri5.jpg">  
-<img src="/images/unitypri5.jpg" style="width:22%;margin-right:48px;" align = "right">
+<img align="right" style="width:22%;margin-right:48px;" src="/images/unitypri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri6.jpg">  
-<img src="/images/unitypri6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri7.jpg">  
-<img src="/images/unitypri7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri8.jpg">  
-<img src="/images/unitypri8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitypri9.jpg">  
-<img src="/images/unitypri9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,7 +53,7 @@ third_nav_title: Schools
 #### **School History**
 Unity Primary School was established on 4 January 1999 with an enrolment of 835 students. At the time, the school did not have its own building and was functioning in both Kranji Primary School and De La Salle School.
 
-The new school building at 21 Chua Chu Kang Crescent was officially opened on 10 February 2001. The school’s PERI upgrading was completed in April 2015. 
+The new school building at 21 Chua Chu Kang Crescent was officially opened on 10 February 2001. The school’s PERI upgrading was completed in April 2015.&nbsp;
 
 Principals:<br>
 \- Mrs Germaine Kong (1999–2003)<br>
@@ -74,26 +75,26 @@ Principals:<br>
 In Unity, We Achieve
 
 #### **School Crest**
-<img src="/images/unitypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/unitypri1.png">
 
-The **3 ribbons** symbolize an “**U**pright”, “**U**ndaunted” & “**U**nited” Spirit & they carry   
-**3 messages**:<br>
-1\. To nurture confident & all-rounded individuals.<br>
-2\. To develop concerned & active citizens with good character & instill in them sound moral values.<br>
-3\. To strengthen the school-home-community partnership.
+The&nbsp;**3&nbsp;ribbons**&nbsp;symbolize&nbsp;an&nbsp;“**U**pright”,&nbsp;“**U**ndaunted”&nbsp;&amp;&nbsp;“**U**nited”&nbsp;Spirit&nbsp;&amp;&nbsp;they&nbsp;carry&nbsp;  
+**3&nbsp;messages**:<br>
+1\. To&nbsp;nurture confident &amp; all-rounded&nbsp;individuals.<br>
+2\. To&nbsp;develop&nbsp;concerned&nbsp;&amp;&nbsp;active&nbsp;citizens&nbsp;with&nbsp;good&nbsp;character&nbsp;&amp;&nbsp;instill&nbsp;in&nbsp;them&nbsp;sound moral&nbsp;values.<br>
+3\. To&nbsp;strengthen the school-home-community&nbsp;partnership.
 
-The **3 dots** depict the **3 initiatives**, namely, fostering<br>
-1\. Joy of Learning<br>
-2\. Creative & Critical Thinking<br>
+The&nbsp;**3 dots**&nbsp;depict the&nbsp;**3 initiatives**,&nbsp;namely, fostering<br>
+1\. Joy of&nbsp;Learning<br>
+2\. Creative &amp; Critical&nbsp;Thinking<br>
 3\. Teamwork
 
-The 3 colours represent:<br>
-1\. Blue for Respect & Harmony.<br>
-2\. Red for Resilience & Care.<br>
-3\. White for Responsibility & Integrity.
+The&nbsp;3&nbsp;colours&nbsp;represent:<br>
+1\. Blue for Respect &amp;&nbsp;Harmony.<br>
+2\. Red for Resilience &amp;&nbsp;Care.<br>
+3\. White for Responsibility &amp;&nbsp;Integrity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1CCjpPDzZ0U8fgnDFLufOwpRaiUcuLWso/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Always gracious we will be<br>
 Doing our part for society<br>
