@@ -4,7 +4,7 @@ permalink: /school-histories/west-hill-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/westhillsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westhillsch1.png">
 
 ### **West Hill School**
 
@@ -12,8 +12,10 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAQVbzYGV7Mr56kzEhbAQksnHiWte0qiM9ecXd61pwzPHRWVu9qtf37isOZd2kntYTBgjoz0Meba7c/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westhillsch2.jpg">  
-<img src="/images/westhillsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westhillsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -40,11 +42,8 @@ Principals:<br>
 Rajin Dan Usaha
 
 #### **School Crest**
-<img src="/images/westhillsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westhillsch1.png">
 
-\-
+
 
 <br clear="left">
-
-#### **School Song**
-\-
