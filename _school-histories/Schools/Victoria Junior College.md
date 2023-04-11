@@ -4,49 +4,50 @@ permalink: /school-histories/victoria-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/victoriajc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/victoriajc1.png">
 
 ### **Victoria Junior College**
-[URL to website](https://victoriajc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://victoriajc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEaxYQXzJ4Sj\_iwprXGlvlnPvDyJy9LvCU83OU0q6\_fOKe331vzDmnKBz5ANMuKuE8otxhbH\_MuwIP/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc2.jpg">  
-<img src="/images/victoriajc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc3.jpg">  
-<img src="/images/victoriajc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc4.jpg">  
-<img src="/images/victoriajc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc5.jpg">  
-<img src="/images/victoriajc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc6.jpg">  
-<img src="/images/victoriajc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc7.jpg">  
-<img src="/images/victoriajc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc8.jpg">  
-<img src="/images/victoriajc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc9.jpg">  
-<img src="/images/victoriajc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ With a firm belief in the motto, ‘Nil Sine Labore’ – Latin for ‘Nothing 
 
 VJC is well known for its strong academic programmes as well as its diverse and successful CCAs. Its choir and the symphonic band have won several local and overseas competitions since the 1980s. In sports, VJC was dominant in squash and hockey in the 1980s; since then, other sports like soccer, volleyball, floorball and wushu have come to the fore. Today, dance is a popular and equally successful CCA in the college.
 
-In 2005, VJC started the Victoria Integrated Programme in which selected students could skip the O-Level and spend four years in the college leading up to the A-Level. This was later replaced by the Victoria-Cedar Alliance Integrated Programme (VCA-IP), launched in 2011. VJC received its first cohort of VCA-IP students in 2015. In 2019, Siow Mein Yeak, Yue became the fifth Victorian, and the first from the VCA-IP, to be awarded the President’s Scholarship.
+In 2005, VJC started the Victoria Integrated Programme in which selected students could skip the O-Level and spend four years in the college leading up to the A-Level. This was later replaced by the Victoria-Cedar Alliance Integrated Programme (VCA-IP), launched in 2011. VJC received its first cohort of VCA-IP students in 2015.&nbsp;In 2019, Siow Mein Yeak, Yue became the fifth Victorian, and the first from the VCA-IP,&nbsp;to be awarded&nbsp;the President’s Scholarship.
 
 Principals:<br>
 \- Mrs Lee Phui Mun (1984–2001)<br>
@@ -89,12 +90,13 @@ Principals:<br>
 Nil Sine Labore (Nothing Without Labour)
 
 #### **School Crest**
-<img src="/images/victoriajc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/victoriajc1.png">
 
 Yellow is the colour of royalty in Asian cultures. In today’s context, it takes on meanings that were once associated with royalty, including dignity, leadership and a concern for the welfare of others. The colour red symbolises universal brotherhood and equality of humanity. The open book signifies the knowledge and wisdom acquired through lifelong learning. The torch represents truth and the passing on of a tradition. It also illuminates the way for students who venture forth to excel beyond Singapore.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1C0n71hZf4mFjNTmEi_LPGdz_uV6_odTP/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 Victoria in Singapore<br>
 There are other schools we know<br>
