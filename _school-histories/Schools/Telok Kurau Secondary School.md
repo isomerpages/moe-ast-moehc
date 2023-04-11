@@ -11,7 +11,7 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSctQjJJUA-DyrDKObpgQJvNDVwIcn1x-vp9CITy9o4mB0IjnJLg-ezRTsvLMbbjBketyITs_hp9cfn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>creen="true" webkitallowfullscreen="true"&gt;
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSctQjJJUA-DyrDKObpgQJvNDVwIcn1x-vp9CITy9o4mB0IjnJLg-ezRTsvLMbbjBketyITs_hp9cfn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec2.jpg">
