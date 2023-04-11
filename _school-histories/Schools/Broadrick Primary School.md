@@ -4,25 +4,24 @@ permalink: /school-histories/broadrick-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/broadrickpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/broadrickpri1.png">
 
 ### **Broadrick Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSM6gIbt2e4Nx8J8d2DG81zS5CpwPYvM7CrfIwQp4-RCyHzJN-Vz4EubHXjNuTLy6ITRI-AW318wEeq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/broadrickpri2.jpg">  
-<img src="/images/broadrickpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/broadrickpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/broadrickpri3.jpg">  
-<img src="/images/broadrickpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/broadrickpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/broadrickpri4.jpg">  
-<img src="/images/broadrickpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/broadrickpri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,7 +34,7 @@ The school was one of two primary schools selected to pilot a full-day school se
 Over time, the number of students in the school declined. In 1987, there were only seven classes with a total of 150 students. The school closed due to falling enrolment in the same year. Since 1995, EtonHouse International School has occupied the former Broadrick Primary School site.  
   
 Principals:<br>
-\- Mr Thamboo Mahendran (1976-1987)
+* Mr Thamboo Mahendran (1976-1987)
 
 #### **Key Milestones**
 
@@ -49,9 +48,6 @@ Principals:<br>
 Look Ahead
 
 #### **School Crest**
-<img src="/images/broadrickpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/broadrickpri1.png">
 
 <br clear="left">
-
-#### **School Song**
-\-
