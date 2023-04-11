@@ -4,21 +4,22 @@ permalink: /school-histories/tiong-bahru-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/tiongbahrusec1.png">
+<img src="/images/tiongbahrusec1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Tiong Bahru Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLzsYSxXrCEkEoKRg0jA_6yruAy_S0gO5JJC_qO2RtVZAwxdkWW6TNqPx1nuJI-oUD-9sc6IfXoqQY/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmkA2mQwESlm9S17on9DzHpznvL05FyV8QZWF5tIRvU64OfbyldJ1qNYaCP_gf_tJOq2blCMxB54Zo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrusec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tiongbahrusec2.jpg">
+<img src="/images/tiongbahrusec2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrusec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tiongbahrusec3.jpg">
+<img src="/images/tiongbahrusec3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -46,7 +47,7 @@ Principals:<br>
 Maju &amp; Jaya
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/tiongbahrusec1.png">
+<img src="/images/tiongbahrusec1.png" style="width:20%;margin-right:15px;" align="left">
 
 
 
