@@ -84,7 +84,7 @@ The school crest shows a figure of a huge tree formed by six small trees, repres
 The base trees in light green signify its passion for community. The middle trees is a reminder to always embrace a heart of gratitude and a resilient mindset. The tallest tree in dark green is a symbol for all to possess a future-ready confidence, to move together as one into the desired future. These are the four character strengths the school aspires to imbue in the students. The school crest aptly reflects the school’s motto, ‘Future-ready, Anchor-steady’. The school name is in teal and brown, which are contrasting colours of the giant redwood trees, representing its inspiration to thrive and be exceptional.
 
 #### **School Song**
-
+<a target="_blank" href="https://drive.google.com/file/d/1eGzqdhj_E-huiRvOcx54s_LhZwXGsxk9/view?usp=share_link">**♫ Listen**</a>
 
 Boys and girls of Westwood primary<br>
 we are destined to lead<br>
