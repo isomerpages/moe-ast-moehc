@@ -4,20 +4,20 @@ permalink: /school-histories/boo-teck-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bootecksch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bootecksch1.png">
 
 ### **Boo Teck School (Farrer Park)**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9AtptijMR4u3do567rVuFACG4voSlkHVNpCt-RJIPNhTfZRW9jCphOuAkfIHRGR-d0xHfyneUoUD0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri2.jpg">  
-<img src="/images/bootecksch2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bootecksch2.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimpri3.jpg">  
-<img src="/images/bootecksch3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bootecksch3.png">
 </a></p>
 
 <br clear="left">
@@ -31,17 +31,17 @@ Over time, enrolment declined, and Boo Teck School closed in 1981. Since 1988, W
 
 |  |  |
 |:---:|---|
-| 1955 | Establishment of Boo Teck School. |
-| 1981 | Closure of Boo Teck School. |
+|1955| Establishment of Boo Teck School. |
+|1981| Closure of Boo Teck School. |
 |
 
 #### **School Motto**
-<img src="/images/bootecksch4.png" style="width:60%;margin-right:15px;" align = "left">
+<img align="left" style="width:60%;margin-right:15px;" src="/images/bootecksch4.png">
 
 <br clear="left">
 
 #### **School Crest**
-<img src="/images/bootecksch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bootecksch1.png">
 
 The rectangular crest of Boo Teck School (武德学校) featuring a sailboat, lighthouse and the school name in English and Chinese.
 
@@ -49,4 +49,4 @@ The rectangular crest of Boo Teck School (武德学校) featuring a sailboat, li
 
 #### **School Song**
 
-<img src="/images/bootecksch5.png" style="width:65%" align=left>
+<img align="left" style="width:65%" src="/images/bootecksch5.png">
