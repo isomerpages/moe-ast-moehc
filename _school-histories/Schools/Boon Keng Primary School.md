@@ -4,34 +4,34 @@ permalink: /school-histories/boon-keng-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/boonkengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/boonkengpri1.png">
 
 ### **Boon Keng Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwdH1gPWbKIN7jbo9b2cy5eoUUOsPCqaJs_GZS3cEdWYNv6EENHG7x4hQJ6S03YJoelslY64RGsLRL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri2.png">  
-<img src="/images/boonkengpri2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri2.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri3.png">  
-<img src="/images/boonkengpri3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri3.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri4.png">  
-<img src="/images/boonkengpri4.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri4.png">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri5.png">  
-<img src="/images/boonkengpri5.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri5.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri6.png">  
-<img src="/images/boonkengpri6.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri6.png">
 </a></p>
 
 <br clear="left">
@@ -41,10 +41,10 @@ Boon Keng Primary School was established on 3 January 1977 on the site of Kampon
 
 Originally known as Sims Avenue Primary School, the school was later renamed on account of its location along Upper Boon Keng Road.
 
-On 2 January 2002, Boon Keng Primary School and May Primary School merged to become Farrer Park Primary School. 
+On 2 January 2002, Boon Keng Primary School and May Primary School merged to become Farrer Park Primary School.&nbsp;
 
 Last Serving Principal:<br>
-\- Mr Mohd Mansor Bin Shaik A Kadir (1999 - 2001)
+* Mr Mohd Mansor Bin Shaik A Kadir (1999 - 2001)
 
 **Related Schools:** **[May Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/)** \| **[Farrer Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/)**
 
@@ -61,9 +61,8 @@ Last Serving Principal:<br>
 One For All. All For One.
 
 #### **School Crest**
-<img src="/images/boonkengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/boonkengpri1.png">
 
-Meaning of crest unavailable.
 
 <br clear="left">
 
