@@ -4,49 +4,49 @@ permalink: /school-histories/temasek-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/temaseksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/temaseksec1.jpg">
 
 ### **Temasek Secondary School**
-[URL to website](https://temaseksec.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://temaseksec.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeNRkrI_f-ig3_vGAu_Ujp8TFvAyd2SBQqX4a9amspQFT1Y3PZdCVEmXKnpvGu1j21sTpXSaVcz6Fe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec2.jpg">  
-<img src="/images/temaseksec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec3.jpg">  
-<img src="/images/temaseksec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec4.jpg">  
-<img src="/images/temaseksec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec5.jpg">  
-<img src="/images/temaseksec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec6.jpg">  
-<img src="/images/temaseksec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec7.jpg">  
-<img src="/images/temaseksec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec8.jpg">  
-<img src="/images/temaseksec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temaseksec9.jpg">  
-<img src="/images/temaseksec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temaseksec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +58,7 @@ In 1995, Temasek Secondary School was accorded autonomous status and became a ce
 
 Temasek Secondary School has developed three signature programmes: Leadership Education and Development @ Temasek Secondary School (LEAD@TMS), Cross-Cultural Awareness (C2A) and the Temasek Ignis Programme (TIP).
 
-Student leadership has been a hallmark of the school since 2001 and it has constantly evolved to cater to the diverse students’ interests. Recently branded as LEAD@TMS, the programme aims to develop values, competencies, knowledge and cultural literacy in student leaders. Based on their interests and talents, students are also formally appointed into one of the five leadership groups where they lead in various school-level and community-based activities.  
+Student leadership has been a hallmark of the school since 2001 and it has constantly evolved to cater to the diverse students’ interests. Recently branded as LEAD@TMS, the programme aims to develop values, competencies, knowledge and cultural literacy in student leaders. Based on their interests and talents, students are also formally appointed into one of the five leadership groups where they lead in various school-level and community-based activities.&nbsp;&nbsp;
 
 Since 2014, all Temasekians are developed in C2A through an integrated school- based curriculum that enables them to navigate and thrive in a culturally diverse 21st-century world. TIP, the school’s talent development programme, was launched in 2016 to cater to students with strong intellectual curiosity and personal drive. The programme aims to develop independent learners, confident thinkers and innovators, and stretches students to further hone academic skills and student leadership ability.
 
@@ -92,14 +92,15 @@ Principals:<br>
 We Care
 
 #### **School Crest**
-<img src="/images/temaseksec1.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/temaseksec1.jpg">
 
 The school crest has strong historical references. The navy blue represents the sea, which nostalgically recalls Singapore’s old name, Temasek (meaning ‘Seaport Town’) and from which the school derives its name. The sea also symbolises the wealth of knowledge that the school imparts and obtains with integrity. The supporting colours are red and gold. Red represents brotherhood and team spirit, while gold symbolises prosperity and progress.
 
 The motif depicts two lions holding a radiantly burning torch. The lions signify the nation and the school. The torch illuminates the nation’s and school’s ethos of a well-balanced curriculum of education and sports.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1JcjtbLfBe4BaRkx_R0Z5XO3jVEr8iQY6/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 We feel for our families<br>
 We strive for our school <br>
