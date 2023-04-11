@@ -4,34 +4,34 @@ permalink: /school-histories/bedok-south-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bedoksouthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoksouthpri1.png">
 
 ### **Bedok South Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqfhaiCazHMjKbERDStJRs91qMVHRIq2sw6HxgK8FODgpQdBYEhY3mmuj5VGJh10ehBm20KXbCCc1k/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri2.jpg">  
-<img src="/images/bedoksouthpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri3.jpg">  
-<img src="/images/bedoksouthpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri4.jpg">  
-<img src="/images/bedoksouthpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri5.jpg">  
-<img src="/images/bedoksouthpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri6.jpg">  
-<img src="/images/bedoksouthpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -61,11 +61,11 @@ In January 2002, it merged with Bedok View Primary School to become Bedok Green 
 Honour and Righteousness
 
 #### **School Crest**
-<img src="/images/bedoksouthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoksouthpri1.png">
 
-The **logo** in the centre of the crest is a graphic expression of the school acronym: B.S.P.S. The **circles** signify an all-rounded education.
+The&nbsp;**logo**&nbsp;in the centre of the crest is a graphic expression of the school acronym: B.S.P.S. The&nbsp;**circles**&nbsp;signify an all-rounded education.
 
-The colour **white** symbolises the school’s belief in honour and righteousness. **Brown** symbolises strength, perserverance and harmony.
+The colour&nbsp;**white**&nbsp;symbolises the school’s belief in honour and righteousness.&nbsp;**Brown**&nbsp;symbolises strength, perserverance and harmony.
 
 #### **School Song**
 Bedok South Primary School to you we come<br>
