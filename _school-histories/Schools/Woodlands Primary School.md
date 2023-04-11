@@ -4,7 +4,7 @@ permalink: /school-histories/woodlands-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandspri1.png">
+<img src="/images/woodlandspri1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Woodlands Primary School**
 [URL to website](https://woodlandspri.moe.edu.sg/)
@@ -13,42 +13,42 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTgseKZebyoTX1EYGdkZtYFoWLfrVfNDoexWoar2KGmtsOtz28642AEjr0yg1YbW\_lZwUlulXuszx\_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTgseKZebyoTX1EYGdkZtYFoWLfrVfNDoexWoar2KGmtsOtz28642AEjr0yg1YbW_lZwUlulXuszx_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri2.jpg">
+<img src="/images/woodlandspri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri3.jpg">
+<img src="/images/woodlandspri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri4.jpg">
+<img src="/images/woodlandspri4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri5.jpg">
+<img src="/images/woodlandspri5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri6.jpg">
+<img src="/images/woodlandspri6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri7.jpg">
+<img src="/images/woodlandspri7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri8.jpg">
+<img src="/images/woodlandspri8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandspri9.jpg">
+<img src="/images/woodlandspri9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -87,7 +87,7 @@ Principals:<br>
 Step By Step Towards Excellence
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandspri1.png">
+<img src="/images/woodlandspri1.png" style="width:20%;margin-right:15px;" align="left">
 
 The school crest shows a lion’s head which is synonymous with Lion City, Singapore. ‘WDP’ stands for Woodlands Primary School, and the book represents knowledge and enlightenment. The torch represents a burning desire for knowledge. The school colours are red, yellow and orange.
 
