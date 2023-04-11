@@ -4,26 +4,27 @@ permalink: /school-histories/tiong-bahru-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tiongbahrusec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tiongbahrusec1.png">
 
 ### **Tiong Bahru Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLzsYSxXrCEkEoKRg0jA_6yruAy_S0gO5JJC_qO2RtVZAwxdkWW6TNqPx1nuJI-oUD-9sc6IfXoqQY/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrusec2.jpg">  
-<img src="/images/tiongbahrusec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tiongbahrusec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrusec3.jpg">  
-<img src="/images/tiongbahrusec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tiongbahrusec3.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Established in 1966, Tiong Bahru Secondary School was located beside Lower Delta Road. It was one of the first bilingual integrated secondary schools after Singapore’s Independence in 1965.  
+Established in 1966, Tiong Bahru Secondary School was located beside Lower Delta Road. It was one of the first bilingual&nbsp;integrated secondary schools after Singapore’s Independence in 1965.  
   
 In the 1980s, student enrolment fell due to residential shifts. In 1991, Tiong Bahru Secondary School merged with Bukit Ho Swee Secondary School to form Delta Secondary School. In 2004, Delta Secondary School merged with Bukit Merah Secondary School.  
   
@@ -42,16 +43,19 @@ Principals:<br>
 |
 
 #### **School Motto**
-Maju & Jaya
+Maju &amp; Jaya
 
 #### **School Crest**
-<img src="/images/tiongbahrusec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tiongbahrusec1.png">
 
-\-
+
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
+
 Beside Lower Delta Road stands Tiong Bahru<br>
 A stately integrated Secondary School<br>
 Her influence spreads, her beauty will grow<br>
