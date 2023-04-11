@@ -46,4 +46,3 @@ In 1996, Upper Aljunied Technical School closed. The school building has since b
 | 1996 | Closure of Upper Aljunied Technical School. |
 | Late 1960s | Establishment of Upper Aljunied Technical School. |
 |
-
