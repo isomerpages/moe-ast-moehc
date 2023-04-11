@@ -95,3 +95,25 @@ The school crest features the profiles of two persons united as one, moving on a
 The ladder-like design represents success in the pursuit of wisdom and the ideals of the school. It is a clarion call to endeavour and aspire towards greater heights while honouring and treasuring heritage. ‘BLS’ is the acronym for Boon Lay Secondary. Accompanying the school crest, the Chinese name of the school 文礼中学 reflects the Chinese heritage of Boon Lay Secondary when it began in 1977 as a bilingual school offering both Chinese and English as the medium of instruction.
 
 #### **School Song**
+<a href="https://drive.google.com/file/d/1pWqkoeNDR0VFR3rnbdr2mTVXXU82qPqk/view?usp=share_link" target="\_blank">**♫ Listen**</a>
+
+Together we bond and we grow&nbsp;  
+As a family of learners and leaders  
+Together we strive to excel  
+We know that we’re made for greatness  
+Arise Boon Layians arise!  
+Towards our dreams we all aspire  
+Arise Boon Layians arise!  
+Ascend with honour in all endeavor  
+  
+  
+Together we take on every challenge  
+Onward and upward we charge with purpose  
+We serve with wisdom and respect  
+We know that we’re made for greatness  
+Arise Boon Layians arise!  
+Towards our dreams we all aspire  
+Arise Boon Layians arise!  
+Ascend with honour in all endeavor  
+Arise Boon Layians arise!  
+Achieve for self, for community and nation
