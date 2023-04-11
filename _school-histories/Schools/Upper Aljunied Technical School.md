@@ -4,7 +4,7 @@ permalink: /school-histories/upper-aljunied-technical/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/upperaljuniedtechnicalsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch1.png">
 
 ### **Upper Aljunied Technical School**
 
@@ -12,22 +12,24 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBsh9F-6LQjliSdnw4Jo_T9J0ACZWtvpVXWjYQVMOhqaMzUBqkq-3DLX7JJzMv4IRBnihle58KoP89/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch2.jpg">  
-<img src="/images/upperaljuniedtechnicalsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch3.jpg">  
-<img src="/images/upperaljuniedtechnicalsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch4.jpg">  
-<img src="/images/upperaljuniedtechnicalsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch5.jpg">  
-<img src="/images/upperaljuniedtechnicalsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch5.jpg">
 </a></p>
 
 <br clear="left">
@@ -45,15 +47,3 @@ In 1996, Upper Aljunied Technical School closed. The school building has since b
 | Late 1960s | Establishment of Upper Aljunied Technical School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/upperaljuniedtechnicalsch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
