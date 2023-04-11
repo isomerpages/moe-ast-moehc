@@ -4,7 +4,7 @@ permalink: /school-histories/upper-serangoon-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/usss.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/usss.png">
 
 ### **Upper Serangoon Secondary School**
 
@@ -12,14 +12,16 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSu9l1-gjAf6u7\_-Op\_Nmhp\_MKUU5zk\_dKxrJPpptL1AE\_sjsPYipllYqR4cxV9\_73Cr9dw2ZCzS32x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/usss.png">  
-<img src="/images/usss.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/usss.png">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Upper Serangoon Secondary School was originally known as Upper Serangoon Technical School. Located at 279 Upper Serangoon Road, the school was officially opened on 17 June 1966 to offer technical education, with English and Chinese as the language of instruction. In 1994, the school was renamed as Upper Serangoon Secondary School.   
+Upper Serangoon Secondary School was originally known as Upper Serangoon Technical School. Located at 279 Upper Serangoon Road, the school was officially opened on 17 June 1966 to offer technical education, with English and Chinese as the language of instruction. In 1994, the school was renamed as Upper Serangoon Secondary School.&nbsp;  
   
 In September 1999, the school was awarded “The Most Improved School in the Thinking Culture Award, North Zone”. The school also participated in the MOE’s pilot scheme in installing the FM system to enhance learning during lessons for these students.  
   
@@ -45,10 +47,10 @@ Last Serving Principal:<br>
 Towards Total Achievement
 
 #### **School Crest**
-<img src="/images/usss.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/usss.png">
 
-The **torch** symbolises the continual process of learning and the acquisition of knowledge.<br>
-The **wheel** and the **book** represent the quest for an all-rounded education.
+The&nbsp;**torch**&nbsp;symbolises the continual process of learning and the acquisition of knowledge.<br>
+The&nbsp;**wheel**&nbsp;and the&nbsp;**book**&nbsp;represent the quest for an all-rounded education.
 
 #### **School Song**
 This torch of learning, this store of skill<br>
