@@ -4,20 +4,20 @@ permalink: /school-histories/birkhall-road-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/birkhallroadsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/birkhallroadsch1.png">
 
 ### **Birkhall Road School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMKjJdwetH5DadALChVAKsurkTmHpQolDEmogKPg-ddGv3bHObTuj-XbfzXk2KshfbNTIwxDMOEZ1M/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/birkhallroadsch2.jpg">  
-<img src="/images/birkhallroadsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/birkhallroadsch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/birkhallroadsch3.jpg">  
-<img src="/images/birkhallroadsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/birkhallroadsch3.jpg">
 </a></p>
 
 <br clear="left">
@@ -39,9 +39,6 @@ Birkhall Road School shared a field with neighbouring Strathmore Primary School 
 Give of your best
 
 #### **School Crest**
-<img src="/images/birkhallroadsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/birkhallroadsch1.png">
 
 <br clear="left">
-
-#### **School Song**
-\-
