@@ -4,16 +4,17 @@ permalink: /school-histories/the-happy-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/thehappysch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/thehappysch1.png">
 
 ### **The Happy School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk37fKCj7vGBxoJgGOV857FTdiCJMoXP5youpYzZNn6KYoetxo_SSbMEXvw8OE8aZf2jr6pmXcHiFQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/thehappysch2.jpg">  
-<img src="/images/thehappysch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/thehappysch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -23,13 +24,13 @@ Happy Free School was established in 1946 and was located at 24 Lorong 14 Geylan
 
 The students increased from 90 to 130 students in 1946 with morning and afternoon sessions. Happy Free School provided students charitable education without paying school fees. Learning resources such as books and stationary were provided free of charge.
 
-With rising demand and increase in student enrolment, the current location is no longer conducive for learning. In 1947, Happy Free School found the new school premises located at 67 and 69 Lorong 14 Geylang to accommodate the students. However, there was a need to rebuild and restore the shophouse buildings as it was destroyed during the war years.  
+With rising demand and increase in student enrolment, the current location is no longer conducive for learning. In 1947, Happy Free School found the new school premises located at 67 and 69 Lorong 14 Geylang to accommodate the students. However, there was a need to rebuild and restore the shophouse buildings as it was destroyed during the war years.&nbsp;&nbsp;
 
 In the same year, the school hosted a charity event and donation drive at Happy World Amusement Park, using the raised amount to complete the repair works by the end of 1947. Equipped with the new building, the student population continued to increase in 1948.
 
 In 1950, the school was renamed as “The Happy School.” In the same year, the school decided to carry out another charity event and donation drive at Happy World Amusement Park to support its operating costs and expansion plans. Subsequently, more charity events were carried out over the next few years to furnish the school with new learning facilities and resources, garnering strong support from the local community.
 
-By the end of 1955, The Happy School became a government-aided school. Night classes for overage students and young adults who missed school due to various reasons began in 1956. The Happy School was also known for its art & craft and calligraphy achievements in the 1960s.
+By the end of 1955, The Happy School became a government-aided school. Night classes for overage students and young adults who missed school due to various reasons began in 1956. The Happy School was also known for its art &amp; craft and calligraphy achievements in the 1960s.
 
 From the mid-1960s, the school had reduced student enrolment as families began to relocate to the new towns. As of 1966, the total student population was 449 in 12 classes with 15 teachers.
 
@@ -49,15 +50,12 @@ Principals:<br>
 | 1979 | Closure of school. |
 |
 
-#### **School Motto**
-\-
 
-#### **School Crest**
-<img src="/images/thehappysch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
 
 #### **School Song**
+
+<small>*School song unavailable*</small>
+
 曲：沈光辉<br>
 词：林惠正
 
