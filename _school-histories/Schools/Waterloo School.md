@@ -4,17 +4,18 @@ permalink: /school-histories/waterloo-school/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/waterloosch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/waterloosch1.png">
 
 ### **Waterloo School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
+
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_6URcgZjih66Xr1xEmBNek2o_IL-QqkI63AIPhTV7g8MBgKA0CpnBv0tUxxeI3rS3HRsrrCkfF8AO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterloosch2.jpg">  
-<img src="/images/waterloosch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/waterloosch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -32,15 +33,6 @@ In 1984, Waterloo School merged with Stamford Girls’ School to form Stamford P
 | 1984 | Merger with Stamford Girls’ School to form Stamford Primary School. |
 |
 
-#### **School Motto**
-\-
 
-#### **School Crest**
-<img src="/images/waterloosch1.png" style="width:20%;margin-right:15px;" align = "left">
 
-\-
 
-<br clear="left">
-
-#### **School Song**
-\-
