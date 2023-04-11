@@ -4,7 +4,7 @@ permalink: /school-histories/upper-serangoon-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/usss.png">
+<img src="/images/usss.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Upper Serangoon Secondary School**
 
@@ -12,10 +12,10 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSu9l1-gjAf6u7\_-Op\_Nmhp\_MKUU5zk\_dKxrJPpptL1AE\_sjsPYipllYqR4cxV9\_73Cr9dw2ZCzS32x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSu9l1-gjAf6u7_-Op_Nmhp_MKUU5zk_dKxrJPpptL1AE_sjsPYipllYqR4cxV9_73Cr9dw2ZCzS32x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/usss.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/usss.png">
+<img src="/images/usss.png" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -47,7 +47,7 @@ Last Serving Principal:<br>
 Towards Total Achievement
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/usss.png">
+<img src="/images/usss.png" style="width:20%;margin-right:15px;" align="left">
 
 The&nbsp;**torch**&nbsp;symbolises the continual process of learning and the acquisition of knowledge.<br>
 The&nbsp;**wheel**&nbsp;and the&nbsp;**book**&nbsp;represent the quest for an all-rounded education.
