@@ -4,38 +4,38 @@ permalink: /school-histories/bishan-park-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bishanparksec7.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bishanparksec7.png">
 
 ### **Bishan Park Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOt7YLlObeSy1A9OA7xQhyTJCnKoOP-x47S7uDaQYit67rhdMy5wFhwhNBaeAsEBgROZIoTlokGjjV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec1.jpg">  
-<img src="/images/bishanparksec1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec1.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec2.jpg">  
-<img src="/images/bishanparksec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec3.jpg">  
-<img src="/images/bishanparksec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec3.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec4.jpg">  
-<img src="/images/bishanparksec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec5.jpg">  
-<img src="/images/bishanparksec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec6.jpg">  
-<img src="/images/bishanparksec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -46,12 +46,12 @@ Bishan Park Secondary School was established on 2 January 1993 with 15 teachers,
 The school merged with Peirce Secondary School in 2018 and has since been known as Peirce Secondary School, operating at the latter’s premises.
 
 Principals:<br>
-\- Mr Chia Choo Kiat (1993–1994)<br>
-\- Mrs Quek Chau Lan (1994–1997)<br>
-\- Mr Lim Kuan Min (1997–2002)<br>
-\- Ms Daisy Tan (2002–2004)<br>
-\- Mr Vasuthevan (2004–2010)<br>
-\- Mdm Valerie Goh (2011–2017)
+* Mr Chia Choo Kiat (1993–1994)<br>
+* Mrs Quek Chau Lan (1994–1997)<br>
+* Mr Lim Kuan Min (1997–2002)<br>
+* Ms Daisy Tan (2002–2004)<br>
+* Mr Vasuthevan (2004–2010)<br>
+* Mdm Valerie Goh (2011–2017)
 
 Related School: [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peirce-sec/)
 
@@ -74,12 +74,12 @@ Related School: [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplify
 Reach and Excel
 
 #### **School Crest**
-<img src="/images/bishanparksec7.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bishanparksec7.png">
 
 The central symbol, in the form of a directional arrow, epitomises the students’ spirit of working creatively and unyieldingly to excel. The three rings symbolise the close collaborative efforts of parents, students and teachers to enable the students to reach and excel. The logo exhorts the students to push themselves to the utmost limit of their potential and strive for excellence.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1mTx2DLdwEZunmGVtWRVHyOvKulutGLAH/view?usp=share_link">**♫ Listen**</a>
 
 Here where we are nurtured<br>
 And tended with loving care<br>
