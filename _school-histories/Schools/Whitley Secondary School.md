@@ -4,47 +4,49 @@ permalink: /school-histories/whitley-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/whitleysec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/whitleysec1.png">
 
 ### **Whitley Secondary School**
-[URL to website](https://www.whitleysec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.whitleysec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyr4WkgcqyTWHgKsD-DhS7WBq8qhAO_1rPZeocV1TO4VH2GEUaWJlX-bePMxCOf4yhj_pNpFIoEPWZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec2.jpg">  
-<img src="/images/whitleysec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec3.jpg">  
-<img src="/images/whitleysec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec4.jpg">  
-<img src="/images/whitleysec4.jpg" style="width:18%;margin-right:15px;" align = "left">
+<img align="left" style="width:18%;margin-right:15px;" src="/images/whitleysec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec5.jpg">  
-<img src="/images/whitleysec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec6.jpg">  
-<img src="/images/whitleysec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec7.jpg">  
-<img src="/images/whitleysec7.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/whitleysec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec8.jpg">  
-<img src="/images/whitleysec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec9.jpg">  
-<img src="/images/whitleysec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -95,12 +97,12 @@ Principals:<br>
 Knowledge and Sportsmanship
 
 #### **School Crest**
-<img src="/images/whitleysec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/whitleysec1.png">
 
 The name of the school stretches diagonally across its initials ‘WSS’, which are cast over the the shield. The shield represents strength and solidity. At the base of it is the school motto ‘Knowledge and Sportsmanship’. This emphasises the importance of these values – having an enquiring mind and being a team player – for building a strong foundation in students, who strive for the betterment of society above self.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1IG4g5D7lBj7aRb6Qzxr20w8uqu8njSUZ/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Go forward Whitley School in strength and unity,<br>
 Keep your colours flying, fearless and with dignity<br>
