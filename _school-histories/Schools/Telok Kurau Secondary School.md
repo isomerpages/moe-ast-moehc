@@ -4,52 +4,53 @@ permalink: /school-histories/telok-kurau-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/telokkurausec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkurausec1.jpg">
 
 ### **Telok Kurau Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSctQjJJUA-DyrDKObpgQJvNDVwIcn1x-vp9CITy9o4mB0IjnJLg-ezRTsvLMbbjBketyITs_hp9cfn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>creen="true" webkitallowfullscreen="true"&gt;
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec2.jpg">  
-<img src="/images/telokkurausec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec3.jpg">  
-<img src="/images/telokkurausec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec4.jpg">  
-<img src="/images/telokkurausec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec5.jpg">  
-<img src="/images/telokkurausec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec6.jpg">  
-<img src="/images/telokkurausec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec7.jpg">  
-<img src="/images/telokkurausec7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/telokkurausec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec8.jpg">  
-<img src="/images/telokkurausec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec9.jpg">  
-<img src="/images/telokkurausec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Established in 1965, Telok Kurau Secondary School (TKSS) was located on Chin Cheng Road.  The school’s official name then was Telok Kurau Integrated Secondary School as it had both English and Malay streams. _Telok kurau_ is Malay for ‘mango fish bay’, and the name of a Malay village in the area.
+Established in 1965, Telok Kurau Secondary School (TKSS) was located on Chin Cheng Road. &nbsp;The school’s official name then was Telok Kurau Integrated Secondary School as it had both English and Malay streams.&nbsp;_Telok kurau_&nbsp;is Malay for ‘mango fish bay’, and the name of a Malay village in the area.
 
 The school was an icon in the national education of Singapore, having been established in the same year as Singapore’s independence. The building of the school was first envisioned by the government in the early 1960s. Amidst the tranquil enclave of a middle-class population and villages in the eastern part of the island, a school would be built to cater to the education needs of the Malay population in the area. It was the 55th school established by the government. After 16 years, TKSS ceased being an integrated school and became a full-fledged English-medium school in 1981.
 
@@ -89,12 +90,13 @@ Principals:<br>
 Knowledge for Progress
 
 #### **School Crest**
-<img src="/images/telokkurausec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkurausec1.jpg">
 
-The top section of the crest features a lion, representing Singapore. The red background in that section signifies racial harmony. The remaining portion of the crest has four components. The open book and the two pens represent the pursuit of holistic education. The initials of the school, ‘TKSS’, run diagonally across the crest. The four interlocking rings represent the harmony of the four main races in Singapore, while the burning torch symbolises the passion for continuous learning.
+The top section of the crest features a lion, representing Singapore.&nbsp;The red background&nbsp;in that section signifies racial harmony. The remaining portion of the crest has four components. The open book and the two pens represent the pursuit of holistic education. The initials of the school, ‘TKSS’, run diagonally across the crest. The four interlocking rings represent the harmony of the four main races in Singapore, while the burning torch symbolises the passion for continuous learning.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1njBRa8aOHCxuaAIaz_jZOEdNw8skM39S/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
 
 Come on, let’s strive forth<br>
 With our heads up and do the best we can<br>
