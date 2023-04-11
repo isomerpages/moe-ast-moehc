@@ -4,16 +4,16 @@ permalink: /school-histories/bukit-batok-west-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitbatokwestpri1.png">
+<img src="/images/bukitbatokwestpri1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Bukit Batok West Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYZ5TcML7xuTDtdJTOr5YZoerRoxojfoLd13niVjV33HeE-LG30PmBZAyyPofUdGfDxpuQU\_03\_WJA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYZ5TcML7xuTDtdJTOr5YZoerRoxojfoLd13niVjV33HeE-LG30PmBZAyyPofUdGfDxpuQU_03_WJA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitbatokwestpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatokwestpri2.jpg">
+<img src="/images/bukitbatokwestpri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
