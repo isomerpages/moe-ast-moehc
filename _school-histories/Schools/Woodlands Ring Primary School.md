@@ -4,7 +4,7 @@ permalink: /school-histories/woodlands-ring-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandsringpri1.png">
+<img src="/images/woodlandsringpri1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Woodlands Ring Primary School**
 [URL to website](https://woodlandspri.moe.edu.sg/)
@@ -13,42 +13,42 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVksSSnki2Sr\_AVYf63prIuOwI9NlmOx6X7F3VnJ82AB2W7yEJRkXeXXMYgRCuK41ATtYJIGyMSTWu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVksSSnki2Sr_AVYf63prIuOwI9NlmOx6X7F3VnJ82AB2W7yEJRkXeXXMYgRCuK41ATtYJIGyMSTWu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri2.jpg">
+<img src="/images/woodlandsringpri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri3.jpg">
+<img src="/images/woodlandsringpri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri4.jpg">
+<img src="/images/woodlandsringpri4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri5.jpg">
+<img src="/images/woodlandsringpri5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri6.jpg">
+<img src="/images/woodlandsringpri6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri7.jpg">
+<img src="/images/woodlandsringpri7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri8.jpg">
+<img src="/images/woodlandsringpri8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringpri9.jpg">
+<img src="/images/woodlandsringpri9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -81,7 +81,7 @@ Principals:<br>
 We Do Our Best
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandsringpri1.png">
+<img src="/images/woodlandsringpri1.png" style="width:20%;margin-right:15px;" align="left">
 
 The school crest shows the eagle, representing strength, confidence and swiftness in action, reflecting the importance of taking pride in the school’s work and ability to soar to new heights. The name of the&nbsp;school is inscribed in the ring above the school motto, ‘We Do Our Best’.
 
