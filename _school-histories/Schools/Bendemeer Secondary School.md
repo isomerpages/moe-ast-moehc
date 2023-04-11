@@ -98,7 +98,7 @@ The oval shape represents steadfastness and persistence. The colours blue and go
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/184vW7WjOzyTIyOGuG0wZva7VLilglwuJ/view?usp=share_link" target="\_blank">**♫ Listen**</a>
 
 Bendemeer a beacon in our lives,<br>
 where we live in perfect harmony,<br>
