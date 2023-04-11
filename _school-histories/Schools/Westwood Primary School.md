@@ -4,47 +4,48 @@ permalink: /school-histories/westwood-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/westwoodpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westwoodpri1.png">
 
 ### **Westwood Primary School**
-[URL to website](https://westwoodpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://westwoodpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3qwO6-S8jEtzuQrkyo29F0ft_bU0nyC7w1JT7NcTzSP2bO6LNj1FY53epCGkumjx2hHyvffcG0Bni/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri2.jpg">  
-<img src="/images/westwoodpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri3.jpg">  
-<img src="/images/westwoodpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri4.jpg">  
-<img src="/images/westwoodpri4.jpg" style="width:30%;margin-right:47px;" align = "right">
+<img align="right" style="width:30%;margin-right:47px;" src="/images/westwoodpri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri5.jpg">  
-<img src="/images/westwoodpri5.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/westwoodpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri6.jpg">  
-<img src="/images/westwoodpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri7.jpg">  
-<img src="/images/westwoodpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri8.jpg">  
-<img src="/images/westwoodpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri9.jpg">  
-<img src="/images/westwoodpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -74,7 +75,7 @@ Principal:<br>
 Future-ready, Anchor-steady
 
 #### **School Crest**
-<img src="/images/westwoodpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westwoodpri1.png">
 
 The school crest shows a figure of a huge tree formed by six small trees, representing the six year levels within the school. It also symbolises how everyone is unique as individuals, yet united as a community.  
 
@@ -83,7 +84,7 @@ The school crest shows a figure of a huge tree formed by six small trees, repres
 The base trees in light green signify its passion for community. The middle trees is a reminder to always embrace a heart of gratitude and a resilient mindset. The tallest tree in dark green is a symbol for all to possess a future-ready confidence, to move together as one into the desired future. These are the four character strengths the school aspires to imbue in the students. The school crest aptly reflects the school’s motto, ‘Future-ready, Anchor-steady’. The school name is in teal and brown, which are contrasting colours of the giant redwood trees, representing its inspiration to thrive and be exceptional.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
 
 Boys and girls of Westwood primary<br>
 we are destined to lead<br>
