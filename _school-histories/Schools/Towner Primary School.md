@@ -4,16 +4,17 @@ permalink: /school-histories/towner-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/townerpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/townerpri1.png">
 
 ### **Towner Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0U3Edw-tMafD9q1qbb5q4pyeko39dr2xxT88b4AcBE0N4Pkwk4ik6nPpSzokHyYknQ6VRCmfj5ez9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townerpri2.jpg">  
-<img src="/images/townerpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/townerpri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -38,15 +39,6 @@ Principals:<br>
 | 1997 | Closure of Towner Primary School. |
 |
 
-#### **School Motto**
-\-
 
-#### **School Crest**
-<img src="/images/townerpri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-
