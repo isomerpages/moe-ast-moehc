@@ -4,49 +4,50 @@ permalink: /school-histories/teck-whye-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/teckwhyesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/teckwhyesec1.png">
 
 ### **Teck Whye Secondary School**
-[URL to website](https://teckwhyesec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://teckwhyesec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQazRFWqIF-7BTX9AlHyfCV39HvEFewHftkuCIcgEeWO96I5pZFaGKqg6v9kjLCj9qqWAvY0q7Ng94A/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec2.jpg">  
-<img src="/images/teckwhyesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec3.jpg">  
-<img src="/images/teckwhyesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec4.jpg">  
-<img src="/images/teckwhyesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec5.jpg">  
-<img src="/images/teckwhyesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec6.jpg">  
-<img src="/images/teckwhyesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec7.jpg">  
-<img src="/images/teckwhyesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec8.jpg">  
-<img src="/images/teckwhyesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec9.jpg">  
-<img src="/images/teckwhyesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -62,7 +63,7 @@ In 2011, in response to the Student-Centric Values-Driven Education initiative a
 
 Curriculum innovation was further enhanced when staff members visited the Stanford d.school and Henry Ford Learning Institute in the United States to learn about design thinking, which was infused in the school’s Applied Learning Programme from 2010 onwards. Design thinking was also embedded in the school’s Project Work curriculum and Orchid Hybridisation Programme, and continues to be a key focus in the school’s Applied Learning Programme.
 
-In 2016, the school celebrated its golden jubilee with the following key events: ArtSynergy ‘Museum of Memories’, a musical featuring the school’s performing arts groups; Appreciation Day, which officially launched the Heritage Corridor, Chill-Out Room and commemorative _Dendrobium_ TWSS50 orchid; and the Alumni Homecoming, which brought together former students and colleagues from 1966 to 2016.
+In 2016, the school celebrated its golden jubilee with the following key events: ArtSynergy ‘Museum of Memories’, a musical featuring the school’s performing arts groups; Appreciation Day, which officially launched the Heritage Corridor, Chill-Out Room and commemorative&nbsp;_Dendrobium_&nbsp;TWSS50 orchid; and the Alumni Homecoming, which brought together former students and colleagues from 1966 to 2016.
 
 Today, Teck Whye Secondary School continues to focus on its mission of creating a community of future-ready learners who lead, serve and achieve.
 
@@ -97,7 +98,7 @@ Principals:<br>
 To Strive and Not to Yield
 
 #### **School Crest**
-<img src="/images/teckwhyesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/teckwhyesec1.png">
 
 The open book symbolises continuous learning and lifelong knowledge. The stripes represent the diverse groups in society, which are unified by a common goal and purpose. The colour grey represents the long-lasting and strong bonds that bind society together.
 
@@ -108,7 +109,7 @@ The four-pointed star represents students anchored in the school values, who ser
 The winner’s laurel is associated with champions and is a mark of honour and distinction. It symbolises the school’s quest for excellence and recognition of the different strengths and talents in students.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1ps-UQ5RzG6o09qoC8FB2SDFfSVEWpcyw/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Now in our days of joyous youth<br>
 We will strive in earnest search<br>
