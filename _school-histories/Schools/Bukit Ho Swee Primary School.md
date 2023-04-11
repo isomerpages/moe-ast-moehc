@@ -4,24 +4,24 @@ permalink: /school-histories/bukit-ho-swee-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukithosweepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukithosweepri1.png">
 
 ### **Bukit Ho Swee Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5dZITO-FAToEUNtXxEhrUlLypNQ8mgpbELoDrBRN9AEU3XImVsrMhW\_TsRYE-5fEzOIaBu86-PouU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukithosweepri2.png">  
-<img src="/images/bukithosweepri2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri2.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukithosweepri3.png">  
-<img src="/images/bukithosweepri3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri3.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukithosweepri4.png">  
-<img src="/images/bukithosweepri4.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri4.png">
 </a></p>
 
 <br clear="left">
@@ -32,7 +32,7 @@ Bukit Ho Swee Primary School was established in January 1986 from the merger of 
 In January 2002, Bukit Ho Swee Primary merged with Alexandra Hill Primary School, Henderson Primary School and Keng Seng Primary School to become Gan Eng Seng Primary School.
 
 Last Serving Principal:<br>
-\- Mrs Koe Poh Tee (1998–2001)
+* Mrs Koe Poh Tee (1998–2001)
 
 **Related Schools:** **[Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/)** \| **[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)** \| **[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)** \| **[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
 
@@ -49,7 +49,7 @@ Last Serving Principal:<br>
 Do The Best We Can
 
 #### **School Crest**
-<img src="/images/bukithosweepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukithosweepri1.png">
 
 <br clear="left">
 
