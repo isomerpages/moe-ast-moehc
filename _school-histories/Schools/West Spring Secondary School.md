@@ -4,7 +4,7 @@ permalink: /school-histories/west-spring-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/westspringsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westspringsec1.png">
 
 ### **school name**
 [URL to website](https://westspringsec.moe.edu.sg/)
@@ -12,39 +12,40 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4lMHchxA9je-DnQ6dCKAe-OCb12-xnwxBWEB-1ZsbBwM5eK-n0QXEBAEmmGLYo-PuZnTgH_zDC55I/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec2.jpg">  
-<img src="/images/westspringsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec3.jpg">  
-<img src="/images/westspringsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec4.jpg">  
-<img src="/images/westspringsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec5.jpg">  
-<img src="/images/westspringsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec6.jpg">  
-<img src="/images/westspringsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec7.jpg">  
-<img src="/images/westspringsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec8.jpg">  
-<img src="/images/westspringsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringsec9.jpg">  
-<img src="/images/westspringsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -84,14 +85,14 @@ Principals:<br>
 Thirst for Knowledge
 
 #### **School Crest**
-<img src="/images/westspringsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westspringsec1.png">
 
 The letter ‘W’ is stylised as a a waterfall, signifying a neverending flow of knowledge from the book. It is also a fountain that sends knowledge from the students up to the book. This represents a neverending thirst for knowledge. The red triple ‘S’ symbolises the flames of passion for learning, surviving and excelling.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1DojU0t7ZUfNVhBbekcOY3g6B8MKJgqNM/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 There’s a spring that’s a bubbling in our corner of the earth<br>
 Come drink our water and be quenched<br>
