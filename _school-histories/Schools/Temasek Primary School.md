@@ -4,47 +4,48 @@ permalink: /school-histories/temasek-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/temasekpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/temasekpri1.png">
 
 ### **Temasek Primary School**
-[URL to website](https://www.temasekpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.temasekpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTovvXeaHDUnfNDoCv5H99gB5hPj54qxQezTRc3qU3vZeqMbPRriz1eDGjLZmQsf-6F0DToGUhkyoxe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri2.jpg">  
-<img src="/images/temasekpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri3.jpg">  
-<img src="/images/temasekpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri4.jpg">  
-<img src="/images/temasekpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri5.jpg">  
-<img src="/images/temasekpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri6.jpg">  
-<img src="/images/temasekpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri7.jpg">  
-<img src="/images/temasekpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri9.jpg">  
-<img src="/images/temasekpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri9.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/temasekpri10.jpg">  
-<img src="/images/temasekpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/temasekpri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -87,14 +88,14 @@ Principals:<br>
 Forward Together
 
 #### **School Crest**
-<img src="/images/temasekpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/temasekpri1.png">
 
 The school crest shows the shield as a symbol of excellence in education, work and behaviour of the students. The torch symbolises knowledge. The four stripes represent the four official languages that are taught in the school.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1LRMFLdP8ib3-0sF3PFMnbO-91KnGJu4H/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We are young we are strong<br>
 In spirt as one we shall belong<br>
