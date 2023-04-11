@@ -4,34 +4,35 @@ permalink: /school-histories/bedok-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bedokviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedokviewpri1.png">
 
 ### **Bedok View Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQG9iu9RTFQg_S18wbFYdWCB-e0VCruKBXeH6Oy5e11NDh9X0YC5YxhpW-Gw1Z-Hiy7EeqQpfkfcA4o/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri2.png">  
-<img src="/images/bedokviewpri2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri2.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri3.png">  
-<img src="/images/bedokviewpri3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri3.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri4.jpg">  
-<img src="/images/bedokviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri5.png">  
-<img src="/images/bedokviewpri5.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri5.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri6.png">  
-<img src="/images/bedokviewpri6.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri6.png">
 </a></p>
 
 <br clear="left">
@@ -42,7 +43,7 @@ In 1977, Bedok View Primary School was the first primary school to be built in B
 In January 2002, it merged with Bedok South Primary School to become Bedok Green Primary School.
 
 Last Serving Principal:<br>
-\- Mr Lee Yin Hin (2000 - 2001)
+* Mr Lee Yin Hin (2000 - 2001)
 
 #### **Key Milestones**
 
@@ -57,13 +58,12 @@ Last Serving Principal:<br>
 Life Is A Challenge
 
 #### **School Crest**
-<img src="/images/bedokviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedokviewpri1.png">
 
 The crest shows the letters “BVPS”, representing Bedok View Primary School. At the bottom of the crest is the Chinese name of the school.
 
-<br clear="left">
 
-The graphic of **HDB blocks** on the left represents the Bedok neighbourhood that the school is a part of. The **burning** **torch** represents passion for learning. The **lion** represents Singapore. Below, the **open book** represents knowledge.
+The graphic of&nbsp;**HDB blocks**&nbsp;on the left represents the Bedok neighbourhood that the school is a part of. The&nbsp;**burning**&nbsp;**torch**&nbsp;represents passion for learning. The&nbsp;**lion**&nbsp;represents Singapore. Below, the&nbsp;**open book**&nbsp;represents knowledge.
 
 #### **School Song**
 Determination ensures survival<br>
