@@ -4,47 +4,48 @@ permalink: /school-histories/westwood-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/westwoodsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westwoodsec1.png">
 
 ### **Westwood Secondary School**
-[URL to website](https://westwoodsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://westwoodsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2ZtXQtpD-DXWQHh-7yy5NmVlwDKP4yIll5sA9m4J8dVwXN9nK8FFu36HyLuNJ0XctHESVO6uhpcw6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec2.jpg">  
-<img src="/images/westwoodsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec3.jpg">  
-<img src="/images/westwoodsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec4.jpg">  
-<img src="/images/westwoodsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec5.jpg">  
-<img src="/images/westwoodsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec6.jpg">  
-<img src="/images/westwoodsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec7.jpg">  
-<img src="/images/westwoodsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec8.jpg">  
-<img src="/images/westwoodsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec9.jpg">  
-<img src="/images/westwoodsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,7 +53,7 @@ third_nav_title: Schools
 #### **School History**
 Westwood Secondary School (WWSS) was established in 2000 as a government co-educational school. It accepted its pioneer batch of 200 students in January that year, and shifted from a modest block in Hua Yi Secondary School to its present location at 11 Jurong West Street 25 on 4 December 2000. With the handover of the campus on 5 February 2001, WWSS had its official school opening on 12 November 2002, beginning the journey of nurturing and educating Westwoodians for the future.
 
-In 2001, the school introduced its flagship programme, Westwood Bytes. Comprising In-Touch, Rev-Up and Home@Westwood, this is a dynamic, multimodal programme that looks into the holistic development of every Westwoodian. Westwood Bytes stretches students’ potential – be it moral, physical or linguistic – and keeps them in touch with current local and world events.  
+In 2001, the school introduced its flagship programme, Westwood Bytes. Comprising In-Touch, Rev-Up and Home@Westwood, this is a dynamic, multimodal programme that looks into the holistic development of every Westwoodian. Westwood Bytes stretches students’ potential – be it moral, physical or linguistic – and keeps them in touch with current local and world events.&nbsp;&nbsp;
 
 The first homecoming in 2008 was a casual lunch that was held to bring together former students. WWSS celebrated its 10th anniversary in 2010. A larger-scale homecoming dinner was organised in 2014. Ties with the school and old friendships are renewed; today, the Westwood alumni form an important part of the school.
 
@@ -85,14 +86,14 @@ Principals:<br>
 Rooted to Soar
 
 #### **School Crest**
-<img src="/images/westwoodsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westwoodsec1.png">
 
 The tree featured in the school crest is the Pandanus Furcatus, a unique tree in Singapore. The roots of the tree are very unusual – they not only draw nutrients from the ground, but also support the trunk. The Pandanus Furcatus is a strong tree that requires little maintenance to thrive and is known to stand rooted despite the changing seasons, signifying the resilience and adaptability of Westwoodians.
 
 Shaped like a star soaring to the skies, the five evergreen leaves represent Westwoodians’ tenacity in chasing their dreams. The graphic strokes stand for the five core values that the school instils in its students – resilience, integrity, compassion, innovation and continual learning. The gradation of the colour within the trunks and roots, from light to dark green, signifies the progress of Westwoodians as their minds mature.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1puqLNLQIb92bO1faNdX77rW-l93N2NO8/view?usp=share_link">**♫ Listen**</a>
 
 A happy day is a day we spend in Westwood<br>
 A place we call our second home where hearts are big and teachers care<br>
