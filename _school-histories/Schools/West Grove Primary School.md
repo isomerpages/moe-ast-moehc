@@ -4,7 +4,7 @@ permalink: /school-histories/west-grove-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/westgrovepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westgrovepri1.png">
 
 ### **West Grove Primary School**
 [URL to website](https://www.westgrovepri.moe.edu.sg/)
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xtplnE-lzFszmyxpa9ZB_nPv3yZDb5-WVyNUZu2ivnkmrVwdOqbkzCP60YUPnGnBFwKCEkcBWgQ0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri2.jpg">  
-<img src="/images/westgrovepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri3.jpg">  
-<img src="/images/westgrovepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri4.jpg">  
-<img src="/images/westgrovepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri5.jpg">  
-<img src="/images/westgrovepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri6.jpg">  
-<img src="/images/westgrovepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri7.jpg">  
-<img src="/images/westgrovepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri8.jpg">  
-<img src="/images/westgrovepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri9.jpg">  
-<img src="/images/westgrovepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -74,12 +75,11 @@ Principals:<br>
 Wisdom and Grace
 
 #### **School Crest**
-<img src="/images/westgrovepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westgrovepri1.png">
 
 Shaped like a shield, the badge represents honour and loyalty to uphold for the school. The black outline demonstrates boldness in taking on challenges. The colour green signifies freshness of mind and body towards learning. Like pages of an open book, the colour blue shows learning with an open mind.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 At West Grove we march on with our peers<br>
 Together we achieve through the years<br>
