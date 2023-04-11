@@ -4,32 +4,33 @@ permalink: /school-histories/westlake-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/westlakepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westlakepri1.png">
 
 ### **Westlake Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaOfabmhto6w5qr64GHBmZ38V3_hOBclmOsboConIJNQF6GFZvMewKmgHmP9XMhqagpfs1y_4IoD6U/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri2.jpg">  
-<img src="/images/westlakepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri3.jpg">  
-<img src="/images/westlakepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri4.jpg">  
-<img src="/images/westlakepri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/westlakepri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri5.jpg">  
-<img src="/images/westlakepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri6.jpg">  
-<img src="/images/westlakepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,11 +59,13 @@ Principals:<br>
 Diligence and Loyalty
 
 #### **School Crest**
-<img src="/images/westlakepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/westlakepri1.png">
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We call ourselves Westlakians<br>
 Happy children all<br>
 We are proud as Westlakians<br>
