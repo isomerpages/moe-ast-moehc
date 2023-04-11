@@ -4,28 +4,29 @@ permalink: /school-histories/the-chinese-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/thechihighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/thechihighsch1.jpg">
 
 ### **The Chinese High School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsn2U9fNaY1Fex3gLuXwhtkd8umXXaSn-0VnYTPqUVzyGcNKZ8mwOyb4iP6xCN1jD-5n7w8nwskhTt/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch2.jpg">  
-<img src="/images/thechihighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/thechihighsch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch4.jpg">  
-<img src="/images/thechihighsch4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/thechihighsch4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch3.jpg">  
-<img src="/images/thechihighsch3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/thechihighsch3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch5.jpg">  
-<img src="/images/thechihighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/thechihighsch5.jpg">
 </a></p>
 
 <br clear="left">
@@ -82,26 +83,25 @@ Principals:<br>
 (Unrelenting Self-Empowerment)
 
 #### **School Crest**
-<img src="/images/thechihighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/thechihighsch1.jpg">
 
-In 1930, Chinese High’s new triangular-shaped crest reflects the harmonious three-way link between the school’s board members, teachers and students. The **feather** and **hammer** together mean being master of both the pen and the sword. The **torch** represents a burning passion for learning that will never be extinguished.
+In 1930, Chinese High’s new triangular-shaped crest reflects the harmonious three-way link between the school’s board members, teachers and students. The&nbsp;**feather**&nbsp;and&nbsp;**hammer**&nbsp;together mean being master of both the pen and the sword. The&nbsp;**torch**&nbsp;represents a burning passion for learning that will never be extinguished.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 海天寥廓 云树苍笼 中有我华中<br>
-礼门义路 时雨春风 吾侪托帡幪<br>
-猗与华中 南方之强 我中华之光<br>
+礼门义路&nbsp;时雨春风&nbsp;吾侪托帡幪<br>
+猗与华中&nbsp;南方之强&nbsp;我中华之光<br>
 雄立狮岛 式是炎荒 万世其无疆
 
 人生茫茫 学海洋洋 吾侪当自强<br>
-朝乾夕惕 日就月将 莫负好时光<br>
-猗与华中 南方之强 我中华之光<br>
+朝乾夕惕&nbsp;日就月将&nbsp;莫负好时光<br>
+猗与华中&nbsp;南方之强&nbsp;我中华之光<br>
 雄立狮岛 式是炎荒 万世其无疆
 
 迨予庶士 笃实辉光 斐然已成章<br>
 膂力方刚 经营四方 前途浩且长<br>
-猗与华中 南方之强 我中华之光<br>
+猗与华中&nbsp;南方之强&nbsp;我中华之光<br>
 雄立狮岛 式是炎荒 万世其无疆
