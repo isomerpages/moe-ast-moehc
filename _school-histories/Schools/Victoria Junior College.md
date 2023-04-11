@@ -4,7 +4,7 @@ permalink: /school-histories/victoria-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/victoriajc1.png">
+<img src="/images/victoriajc1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Victoria Junior College**
 [URL to website](https://victoriajc.moe.edu.sg/)
@@ -12,42 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEaxYQXzJ4Sj\_iwprXGlvlnPvDyJy9LvCU83OU0q6\_fOKe331vzDmnKBz5ANMuKuE8otxhbH\_MuwIP/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEaxYQXzJ4Sj_iwprXGlvlnPvDyJy9LvCU83OU0q6_fOKe331vzDmnKBz5ANMuKuE8otxhbH_MuwIP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc2.jpg">
+<img src="/images/victoriajc2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc3.jpg">
+<img src="/images/victoriajc3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc4.jpg">
+<img src="/images/victoriajc4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc5.jpg">
+<img src="/images/victoriajc5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc6.jpg">
+<img src="/images/victoriajc6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc7.jpg">
+<img src="/images/victoriajc7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc8.jpg">
+<img src="/images/victoriajc8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/victoriajc9.jpg">
+<img src="/images/victoriajc9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -90,12 +90,12 @@ Principals:<br>
 Nil Sine Labore (Nothing Without Labour)
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/victoriajc1.png">
+<img src="/images/victoriajc1.png" style="width:20%;margin-right:15px;" align="left">
 
 Yellow is the colour of royalty in Asian cultures. In today’s context, it takes on meanings that were once associated with royalty, including dignity, leadership and a concern for the welfare of others. The colour red symbolises universal brotherhood and equality of humanity. The open book signifies the knowledge and wisdom acquired through lifelong learning. The torch represents truth and the passing on of a tradition. It also illuminates the way for students who venture forth to excel beyond Singapore.
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/1C0n71hZf4mFjNTmEi_LPGdz_uV6_odTP/view?usp=share_link" target="_blank">**♫ Listen**</a>
+<a target="_blank" href="https://drive.google.com/file/d/1C0n71hZf4mFjNTmEi_LPGdz_uV6_odTP/view?usp=share_link">**♫ Listen**</a>
 
 
 Victoria in Singapore<br>
