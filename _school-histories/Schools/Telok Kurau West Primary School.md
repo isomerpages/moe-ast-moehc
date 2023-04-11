@@ -4,20 +4,21 @@ permalink: /school-histories/telok-kurau-west-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/telokkurauwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkurauwestpri1.png">
 
 ### **Telok Kurau West Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRuRf9sjdWhzPzMOsvlduFCFsZB6EQbAqpLOAfgzIXeivu1ruSxllwfqPAlALgyAfGthekUQOqusOsq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurauwestpri2.jpg">  
-<img src="/images/telokkurauwestpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurauwestpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurauwestpri3.jpg">  
-<img src="/images/telokkurauwestpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurauwestpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -42,11 +43,7 @@ Since 2001, Telok Kurau Studios Art Centre has been located at the former site o
 Nothing without labour
 
 #### **School Crest**
-<img src="/images/telokkurauwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkurauwestpri1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-
