@@ -4,16 +4,16 @@ permalink: /school-histories/bukit-batok-west-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitbatokwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitbatokwestpri1.png">
 
 ### **Bukit Batok West Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYZ5TcML7xuTDtdJTOr5YZoerRoxojfoLd13niVjV33HeE-LG30PmBZAyyPofUdGfDxpuQU\_03\_WJA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitbatokwestpri2.jpg">  
-<img src="/images/bukitbatokwestpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatokwestpri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -30,14 +30,3 @@ In 1984, it merged with neighbouring Bukit Batok East Primary School to form Buk
 | 1959 | Establishment of Bukit Batok West Primary School. |
 | 1984 | Merger with Bukit Batok East Primary School to form Bukit Batok Primary School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/bukitbatokwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-#### **School Song**
-\-
