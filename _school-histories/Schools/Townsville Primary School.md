@@ -4,31 +4,32 @@ permalink: /school-histories/townsville-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/townsvillepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/townsvillepri1.png">
 
 ### **Townsville Primary School**
-[URL to website](https://townsvillepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://townsvillepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_gUslHLTwUpY_xCUCIu9ZNvLgKzo2V4fHoraLj0IiRb-uEGpQnI9Ov7kso1aa-84j9zsXj-QrGFzX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri2.jpg">  
-<img src="/images/townsvillepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri3.jpg">  
-<img src="/images/townsvillepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri4.jpg">  
-<img src="/images/townsvillepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri5.jpg">  
-<img src="/images/townsvillepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri5.jpg">
 </a></p>
 
 <br clear="left">
@@ -36,7 +37,7 @@ third_nav_title: Schools
 #### **School History**
 Townsville Primary School was established in 1983, originally located at Ang Mo Kio Street 32. In 1985, the school was officially declared open. In 1989, Her Majesty Queen Elizabeth II of Great Britain visited the school.
 
-In 2000, the school moved to its present location at 3 Ang Mo Kio Avenue 10. The following year, it merged with Chong Shan Primary School, which had earlier amalgamated with Chong De in 1998. Townsville Primary School’s new campus was officially declared open in 2002. 
+In 2000, the school moved to its present location at 3 Ang Mo Kio Avenue 10. The following year, it merged with Chong Shan Primary School, which had earlier amalgamated with Chong De in 1998. Townsville Primary School’s new campus&nbsp;was officially declared open in 2002.&nbsp;
 
 In 2013, the Ministry of Education granted the school niche status in visual arts under the Programme for School-based Excellence. Through the visual arts programme, Townsville Primary aims to develop students’ communication, critical and creative thinking skills.
 
@@ -69,14 +70,14 @@ Principals:<br>
 Do Our Best
 
 #### **School Crest**
-<img src="/images/townsvillepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/townsvillepri1.png">
 
 The school crest shows a triangle symbolising stability and steadfastness. The school logo, consisting of the letters ‘T’ and ‘P’ (initials of Townsville Primary), is white in colour. It symbolises the innocence and purity of young, untarnished minds. It rests in the centre of the inner royal-blue triangle.  
   
 The motto, ‘Do Our Best’, is placed above the logo, and the name of the school is positioned at the base of the triangle to reinforce the school’s strong determination to mould and shape each student according to individual needs, capabilities and changing trends.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1C6GPuW7ZyHitIrDG9Cyrg-TPwl9RZdDu/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Townsville<br>
 The name that's most dear<br>
