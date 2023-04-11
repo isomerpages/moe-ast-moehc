@@ -4,47 +4,48 @@ permalink: /school-histories/telok-kurau-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/telokkuraupri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
 
 ### **Telok Kurau Primary School**
-[URL to website](https://telokkuraupri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://telokkuraupri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRl_cJczAJnFovBnW73apQYwyjt-ysO6B_gzS_BXIGArbwTpy4aAC5FHaR1511R6LTaJS2tFamMa7oB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri2.jpg">  
-<img src="/images/telokkuraupri2.jpg" style="width:28%;margin-right:30px;" align = "left">
+<img align="left" style="width:28%;margin-right:30px;" src="/images/telokkuraupri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri3.jpg">  
-<img src="/images/telokkuraupri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri4.jpg">  
-<img src="/images/telokkuraupri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/telokkuraupri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri5.jpg">  
-<img src="/images/telokkuraupri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri6.jpg">  
-<img src="/images/telokkuraupri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri7.jpg">  
-<img src="/images/telokkuraupri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri8.jpg">  
-<img src="/images/telokkuraupri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri9.jpg">  
-<img src="/images/telokkuraupri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,14 +86,14 @@ Principals:<br>
 Strive for Excellence
 
 #### **School Crest**
-<img src="/images/telokkuraupri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
 
 The school crest shows the letter ‘T’ in the middle of the crest, representing TKPS. The ‘T’ extends with a circle to show a physically and mentally active team constantly and eagerly seeking knowledge. The colour blue represents discipline and stability. Yellow represents creativity, interest and youth. White represents equality and honesty.
 
 The progress of TKPS is depicted by the swoosh and the circle. Pointing to the sky, the symbol indicates that TKPS is moving ahead to a higher level of education. The growing three lines show a growing school constantly improving and upgrading to more achievements. All of the above elements are within a circle representing a learning and nurturing school environment with a stable, solid foundation.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1Z3jRdzwjBqqmDw0ZPLI920DrRlpwr_SQ/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Telok Kurau Primary School<br>
 Honesty each day is our rule<br>
