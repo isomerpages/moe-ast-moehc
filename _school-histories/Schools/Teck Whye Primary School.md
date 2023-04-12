@@ -4,53 +4,54 @@ permalink: /school-histories/teck-whye-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/teckwhyepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/teckwhyepri1.png">
 
 ### **Teck Whye Primary School**
-[URL to website](https://teckwhyepri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://teckwhyepri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVAP5w_wQmJG-6fxpK5rulttj_I5ZC15LXd4IntOPKy_mY6uR5DjqKMN1sw-9jLLpBiUoZfztcs9dF/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri2.jpg">  
-<img src="/images/teckwhyepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri3.jpg">  
-<img src="/images/teckwhyepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri4.jpg">  
-<img src="/images/teckwhyepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri5.jpg">  
-<img src="/images/teckwhyepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri6.jpg">  
-<img src="/images/teckwhyepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri7.jpg">  
-<img src="/images/teckwhyepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri8.jpg">  
-<img src="/images/teckwhyepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri9.jpg">  
-<img src="/images/teckwhyepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri9.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri10.jpg">  
-<img src="/images/teckwhyepri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ third_nav_title: Schools
 #### **School History**
 Teck Whye Primary School was established as Jalan Teck Whye Primary School at 36 Jalan Teck Whye in 1959. It served the community in Choa Chu Kang, which mostly consisted of farmers then. In 1972, the school merged with Bukit Panjang Malay School. The school was renamed Teck Whye Primary School in 1996 and relocated to 30 Jalan Teck Whye.
 
-In 2001, the school moved to its present location at 11 Teck Whye Walk and was officially declared open on 28 June 2002. Teck Whye Primary School celebrated its 50th and 60th anniversary in 2009 and 2019 respectively and completed its PERI upgrading in 2017.
+In 2001, the school moved to its present location at 11 Teck Whye Walk and was officially declared open on 28 June 2002. Teck Whye Primary School celebrated its 50th&nbsp;and 60th&nbsp;anniversary in 2009 and 2019 respectively and completed its PERI upgrading in 2017.
 
 Principals:<br>
 \- Mr Wee Soo Ann (1959–1964)<br>
@@ -93,12 +94,12 @@ Principals:<br>
 Aspire and Achieve
 
 #### **School Crest**
-<img src="/images/teckwhyepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/teckwhyepri1.png">
 
 The school crest shows letters ‘T’ and ‘W’, which stand for Teck Whye and teamwork. The human figure symbolises ‘People, Our Focus’. Together, the school aspires and achieves. Teck Whye Primary wants to inspire all students to reach for the stars and shine for Singapore. The school crest also represents ‘Thinking School, Learning Nation’, where the staff and students unite as one to strive for excellence. The school wishes for its students to be determined to succeed and be confident of a brighter future.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1bctagErQ360lzevOPrPvoH3VVeA3StoM/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 With heads held high, our flag we fly<br>
 We stand with confidence and pride<br>
