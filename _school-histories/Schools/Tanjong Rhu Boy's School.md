@@ -4,20 +4,21 @@ permalink: /school-histories/tanjong-rhu-boys-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tanjongrhuboys1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongrhuboys1.png">
 
 ### **Tanjong Rhu Boy's School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9914fLNS0ciZvQhNZX1HAsfceFRLOcGrVH_LwG_-TyR0Vgblmn49n6AYjFqG6xS7IhRGI-R9h_Hr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhuboys2.jpg">  
-<img src="/images/tanjongrhuboys2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhuboys2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhuboys3.jpg">  
-<img src="/images/tanjongrhuboys3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhuboys3.jpg">
 </a></p>
 
 <br clear="left">
@@ -25,7 +26,7 @@ third_nav_title: Schools
 #### **School History**
 Established in 1950, Tanjong Rhu Boys’ School was located at Meyer Road next to Tanjong Rhu Girls’ School. In the 1960s, it relocated to Tanjong Rhu Road.  
   
-In 1984, Tanjong Rhu Boys’ School merged with Tanjong Rhu **Integrated** Primary School and Tanjong Rhu Girls’ School to form a new Tanjong Rhu Primary School. The amalgamated school was housed on the grounds of Tanjong Rhu Girls’ School and Tanjong Rhu Boys’ School.  
+In 1984, Tanjong Rhu Boys’ School merged with Tanjong Rhu&nbsp;**Integrated**&nbsp;Primary School and Tanjong Rhu Girls’ School to form a new Tanjong Rhu Primary School. The amalgamated school was housed on the grounds of Tanjong Rhu Girls’ School and Tanjong Rhu Boys’ School.  
   
 The building of the former Tanjong Rhu Integrated Primary School was leased out. Tanjong Rhu Primary School was eventually closed in 1989 to make way for Dunman High School, which continues to occupy the site till today.
 
@@ -52,13 +53,14 @@ Principals:<br>
 Truth and loyalty
 
 #### **School Crest**
-<img src="/images/tanjongrhuboys1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongrhuboys1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
+ <small>*School song unavailable*</small>
+
 Nineteen fifty, we remember our boys of every race met to study<br>
 Of different races we may be yet constant be our pace<br>
 Through all weather we will show our mettle<br>
