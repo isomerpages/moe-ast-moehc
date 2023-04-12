@@ -99,7 +99,8 @@ Aspire and Achieve
 The school crest shows letters ‘T’ and ‘W’, which stand for Teck Whye and teamwork. The human figure symbolises ‘People, Our Focus’. Together, the school aspires and achieves. Teck Whye Primary wants to inspire all students to reach for the stars and shine for Singapore. The school crest also represents ‘Thinking School, Learning Nation’, where the staff and students unite as one to strive for excellence. The school wishes for its students to be determined to succeed and be confident of a brighter future.
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/1bctagErQ360lzevOPrPvoH3VVeA3StoM/view?usp=share_link" target="_blank">**♫ Listen**</a>
+
+<a target="_blank" href="https://drive.google.com/file/d/1r593_DbV6e-2pxYsZ1rpfd4aHtKI6L6n/view?usp=share_link">**♫ Listen**</a>
 
 With heads held high, our flag we fly<br>
 We stand with confidence and pride<br>
