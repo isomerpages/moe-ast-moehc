@@ -1,0 +1,21 @@
+collections:
+  whats-on:
+    output: true
+    order:
+      - Upcoming Events/.keep
+      - Upcoming Events/Current & Upcoming Events.md
+      - "Upcoming Events/United We Stand: Fighting COVID19 Together.md"
+      - Past Events/.keep
+      - Past Events/Past Events.md
+      - "Past Events/(3 to 10 Sep 2022: Official Opening Week) Self guided
+        activities.md"
+      - Past Events/(Official Opening Week) Dramatised Tour.md
+      - Past Events/(Official Opening Week) Guided Tours.md
+      - Past Events/(Official Opening Week) Pixel Art Workshop.md
+      - Past Events/(Official Opening Week) Dramatised Tours.md
+      - Past Events/Children's Season 2022 @ MOE HC.md
+      - "Past Events/Session 2: Playtime with Ye Ye.md"
+      - "Past Events/Session 1: There are saga seeds in our pockets.md"
+      - Past Events/Pioneer Tea Session 2021.md
+      - Past Events/September Sketchwalk with Urban Sketchers Singapore.md
+      - Past Events/Pioneer Tea Session.md

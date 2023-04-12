@@ -1,0 +1,21 @@
+collections:
+  collection:
+    output: true
+    order:
+      - Collection.md
+      - Books/The New Method Readers.md
+      - Books/The Janet and John Series.md
+      - Books/Readable School Physics.md
+      - Books/The Malayan Arithmetic for English Schools in Malaya.md
+      - Books/Tropical Hygiene Part I.md
+      - Books/Outlines of Geography.md
+      - Books/History Through the Ages.md
+      - Books/Nipponese Self Taught.md
+      - Books/Japanese Conversation Textbook.md
+      - Books/Japanese Language Textbook with Malay Translation.md
+      - Books/Japanese Textbook for Teachers.md
+      - Books/Civics.md
+      - Books/Notes on The Teaching of Arithmetic.md
+      - Books/Notes on The Teaching of Speech.md
+      - Books/Notes on The Teaching of Music.md
+      - Books/.keep

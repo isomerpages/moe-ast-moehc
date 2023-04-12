@@ -1,32 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
+title: MOE Heritage Centre
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Welcome!
+      background: /images/HC pages/00_homehero.jpg
+      subtitle: The New Heritage Centre@Balestier is officially open for walk-in
+        visits and guided tours. Come Visit!
+      button: Visiting Info
+      url: /visit/plan-your-visit/
+      key_highlights:
+        - title: Contact Us
+          description: ""
+          url: /contactus/
+        - title: Subscribe
+          description: Join our mailing list!
+          url: https://form.gov.sg/5d5ce49deae0bb00128b8ef5
+  - infopic:
+      title: School Histories
+      subtitle: Spotlight
+      description: Explore the rich histories of our schools in this online repository.
+      button: Click Here
+      url: /school-histories/
+      alt: Image alt text
+      image: /images/HC pages/00_highlight01.png
+  - infopic:
+      title: Virtual Tour
+      subtitle: Spotlight
+      description: Explore selected content from our gallery here
+      button: CLICK HERE
+      url: /explore/
+      image: /images/HC pages/00_highlight02.png
+      alt: Image alt text
 ---
-
