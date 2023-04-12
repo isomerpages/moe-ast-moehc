@@ -4,20 +4,21 @@ permalink: /school-histories/tanjong-rhu-girls-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tanjongrhugirls1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongrhugirls1.png">
 
 ### **Tanjong Rhu Girls' School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1UAXcvLab0zJeH2595Yisqt5WS1WbNeDQAmNylk5MKi4SYMz6Mejep9F1MbPv5Rju9-a-nV6AkjpB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhugirls2.jpg">  
-<img src="/images/tanjongrhugirls2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhugirls2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhugirls3.jpg">  
-<img src="/images/tanjongrhugirls3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhugirls3.jpg">
 </a></p>
 
 <br clear="left">
@@ -39,11 +40,7 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/tanjongrhugirls1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongrhugirls1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-
