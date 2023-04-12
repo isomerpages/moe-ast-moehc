@@ -4,49 +4,50 @@ permalink: /school-histories/tao-nan-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/taonansch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/taonansch1.png">
 
 ### **Tao Nan School**
-[URL to website]() - may require to change in future when original website is removed
+[URL to website]()
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYewBiicUYWzrQhE7DDoxewVmVUJ_UmOfYgA4YVxHTAO3IchtyPgJdmTpJLsPuqpn9-lm3vLiMLacl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch2.jpg">  
-<img src="/images/taonansch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch3.jpg">  
-<img src="/images/taonansch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch4.jpg">  
-<img src="/images/taonansch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch5.jpg">  
-<img src="/images/taonansch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch6.jpg">  
-<img src="/images/taonansch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch7.jpg">  
-<img src="/images/taonansch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch8.jpg">  
-<img src="/images/taonansch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/taonansch9.jpg">  
-<img src="/images/taonansch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/taonansch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -100,14 +101,14 @@ Principals:<br>
 Sincerity and Perseverance 诚毅
 
 #### **School Crest**
-<img src="/images/taonansch1.png" style="width:23%;margin-right:15px;" align = "left">
+<img align="left" style="width:23%;margin-right:15px;" src="/images/taonansch1.png">
 
-The lion represents the Lion City, Singapore. Its leaping position symbolises bravery and continuous progress and advancement in the face of difficulties. The open book represents the unquenchable thirst for knowledge. The base of the crest states the school motto, ‘Sincerity & Perseverance’. The entire crest signifies the acquisition of abundant knowledge and the training of a strong and healthy body to eventually be good and loyal citizens.
+The lion represents the Lion City, Singapore. Its leaping position symbolises bravery and continuous progress and advancement in the face of difficulties. The open book represents the unquenchable thirst for knowledge. The base of the crest states the school motto, ‘Sincerity &amp; Perseverance’. The entire crest signifies the acquisition of abundant knowledge and the training of a strong and healthy body to eventually be good and loyal citizens.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1mzJ26Klml-ijO9zk9O7gh_kNJaSlOrmP/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We belong to Tao Nan School and we always obey the school rules.<br>
 The task of nation building we shoulder, wisdom of sages past we deliver.<br>
