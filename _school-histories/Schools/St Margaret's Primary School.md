@@ -4,53 +4,54 @@ permalink: /school-histories/st-margaret-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stmargaretpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretpri1.png">
 
-### **St Margaret's Primary School**
-[URL to website](https://stmargaretspri.moe.edu.sg/) - may require to change in future when original website is removed
+### **St. Margaret's Primary School**
+[URL to website](https://stmargaretspri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFhzHWRA-oCfahtUZCkXqV6AvFhoycv_Cmin5MrWwgNVuk9BBqIPsxxtAC8XZ1G00GeVn-v-UH6lUX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri2.jpg">  
-<img src="/images/stmargaretpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri3.jpg">  
-<img src="/images/stmargaretpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri4.jpg">  
-<img src="/images/stmargaretpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri5.jpg">  
-<img src="/images/stmargaretpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri6.jpg">  
-<img src="/images/stmargaretpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri8.jpg">  
-<img src="/images/stmargaretpri8.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/stmargaretpri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri7.jpg">  
-<img src="/images/stmargaretpri7.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/stmargaretpri7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri9.jpg">  
-<img src="/images/stmargaretpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-The history of St Margaret’s School, the oldest school in Singapore and Southeast Asia, dates back to 1842. Mrs Maria Dyer, a young missionary of the London Missionary Society, started the school in the spirit of ‘charity, patience and devotion’ – the school’s motto today. Also known as Chinese Girls’ School, it was located in a shophouse on North Bridge Road. The girls were taught the Christian faith, given an elementary education and, above all, taught to be good homemakers. With special emphasis on character building and leadership, the education trained the girls to be independent. This has been the school’s tradition since then.
+The history of St. Margaret’s School, the oldest school in Singapore and Southeast Asia, dates back to 1842. Mrs Maria Dyer, a young missionary of the London Missionary Society, started the school in the spirit of ‘charity, patience and devotion’ – the school’s motto today. Also known as Chinese Girls’ School, it was located in a shophouse on North Bridge Road. The girls were taught the Christian faith, given an elementary education and, above all, taught to be good homemakers. With special emphasis on character building and leadership, the education trained the girls to be independent. This has been the school’s tradition since then.
 
 In 1861, the school relocated from North Bridge Road to 134 Sophia Road. In 1900, the school was renamed ‘CEZMS (Church of England Zenana Missionary Society) School’. In 1939, the school was accorded grant-in-aid status, and it became a day school for girls of all races. In 1949, Bishop Wilson renamed the school ‘St Margaret’s School’, in honour of Queen Margaret of Scotland.
 
@@ -101,12 +102,12 @@ Principals:<br>
 Charity, Patience, Devotion
 
 #### **School Crest**
-<img src="/images/stmargaretpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretpri1.png">
 
 The green background represents creation – life and activity, creativity and growth. The white cross represents the Christian mission of the school. Like a directional compass, it shows the right way to take and points the school to God’s love, truth and provision. The white band running diagonally across from the upper left hand corner to the lower corner stands for purity in thought, word and deed. The sash at the base of the emblem represents the friendship ties that bind all who are in the St Margaret’s School family
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1Loiih0USBKe3UDuWvIyyvM1Qw1MxZ5mQ/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 In these sound walls a goodly learning frame,<br>
 Who here abide true kindliness impart<br>
