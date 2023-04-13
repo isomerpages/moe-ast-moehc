@@ -82,7 +82,7 @@ The school badge features an image of Leonardo da Vinci, one of the most versati
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="_blank" href="https://drive.google.com/file/d/1nhIgmfazKD-YwiivfXB9N-hIoNisDRHN/view?usp=share_link">**♫ Listen**</a>
 
 On the sea-shore of endless worlds,<br>
 With the mind and with the body,<br>
