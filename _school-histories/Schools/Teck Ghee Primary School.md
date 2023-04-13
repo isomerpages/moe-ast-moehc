@@ -100,6 +100,7 @@ Our motto ‘Aspire and Achieve’ urges teachers and students to be anchored on
 The pillar with the core values, ‘TGPS’, represents our effort in achieving our aspirations.&nbsp; Our core values are&nbsp;**T**eam Spirit,&nbsp;**G**raciousness,&nbsp;**P**erseverance and&nbsp;**S**elf-Discipline.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1kqkroT4R5UjyB9At6XvizDyVRb1NDFIY/view?usp=share_link">**♫ Listen**</a>
 
 Upholding the goals of Teck Ghee Primary<br>
 Pupils and Teachers<br>
