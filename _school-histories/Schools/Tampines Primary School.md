@@ -4,53 +4,54 @@ permalink: /school-histories/tampines-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tampinespri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tampinespri1.jpg">
 
-### **school name**
-[URL to website](https://tampinespri.moe.edu.sg/) - may require to change in future when original website is removed
+### **Tampines Primary School**
+[URL to website](https://tampinespri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-TMUz_pLuRm4GGzhzkEd21jJHSjLQrds2CwBnea3Lxvr1QBXNdNI1SQ3bZF4smADr3CB621zbW5HZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri2.jpg">  
-<img src="/images/tampinespri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri3.jpg">  
-<img src="/images/tampinespri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri4.jpg">  
-<img src="/images/tampinespri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri5.jpg">  
-<img src="/images/tampinespri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri6.jpg">  
-<img src="/images/tampinespri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri7.jpg">  
-<img src="/images/tampinespri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri8.jpg">  
-<img src="/images/tampinespri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri9.jpg">  
-<img src="/images/tampinespri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri9.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinespri10.jpg">  
-<img src="/images/tampinespri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ Tampines Primary School was established in 1985. The following year, the school 
 
 In 2007, the school underwent PRIME upgrading, and became single-session in 2008. The school celebrated the completion of its new building in November 2009 with a homecoming walk.
 
-As the first community school in Singapore, Tampines Primary School leverages on the use of community resources to enrich the students’ learning to contribute as concerned citizens. The partnership allows a cohesive and caring culture to take place among the communities in Tampines West. Leveraging its culture of excellence, the school was conferred the School Distinction Award in 2010 and 2014.  These achievements are the results of a shared vision and strong collaboration between school, stakeholders and partners.
+As the first community school in Singapore, Tampines Primary School leverages on the use of community resources to enrich the students’ learning to contribute as concerned citizens. The partnership allows a cohesive and caring culture to take place among the communities in Tampines West. Leveraging its culture of excellence, the school was conferred the School Distinction Award in 2010 and 2014.&nbsp; These achievements are the results of a shared vision and strong collaboration between school, stakeholders and partners.
 
 Principals:<br>
 \- Mr Goh Liang Chuan (1986–1997)<br>
@@ -91,7 +92,7 @@ Principals:<br>
 To Persevere and Succeed
 
 #### **School Crest**
-<img src="/images/tampinespri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tampinespri1.jpg">
 
 The school crest shows the stylised letters ‘T’ and ‘P’, which stand for ‘Tampines Primary School’. It also signifies a child graduating from the school with an education towards the future incorporating information technology.
 
@@ -100,7 +101,7 @@ The school crest shows the stylised letters ‘T’ and ‘P’, which stand for
 The colours white, blue and red give a vivid identity of the school. The white background depicts the child’s purity of mind. Blue depicts the hallmark of excellence where the sky is the limit. Red represents the vibrancy of the school’s programmes. The two lines represent the foundational steps towards achieving the desired outcomes of education and a bright future. The round shape represents a holistic education for the students with the total involvement of the school and the community.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1RKmyPWyymGY9fFWjAGZNzcEGXr-R7sbF/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 (A) With gladness of hearts we join in song<br>
 With loyalty and oneness of minds we throng<br>
