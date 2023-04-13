@@ -4,47 +4,48 @@ permalink: /school-histories/st-hilda-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sthildasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sthildasec1.jpg">
 
-### **St Hilda's Secondary School**
-[URL to website](https://www.sthildassec.moe.edu.sg/) - may require to change in future when original website is removed
+### **St. Hilda's Secondary School**
+[URL to website](https://www.sthildassec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHqPkT9Pw-Z66W-ttMx0ScMw8Cn0sWMjKWJJdf_w7TXy6GnUYkxnYUkI98HzI8-shXruEwy2nux8e1/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec2.jpg">  
-<img src="/images/sthildasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec3.jpg">  
-<img src="/images/sthildasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec4.jpg">  
-<img src="/images/sthildasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec5.jpg">  
-<img src="/images/sthildasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec6.jpg">  
-<img src="/images/sthildasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec7.jpg">  
-<img src="/images/sthildasec7.jpg" style="width:24%;margin-right:75px;" align = "right">
+<img align="right" style="width:24%;margin-right:75px;" src="/images/sthildasec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec8.jpg">  
-<img src="/images/sthildasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec9.jpg">  
-<img src="/images/sthildasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,7 +57,7 @@ During the Second World War, St. Hilda’s School came under the jurisdiction of
 
 In 1988, St Hilda’s School relocated to Tampines and split into two schools due to the increasing demand for better facilities to meet future needs. In the following year, St Hilda’s welcomed its first batch of 165 primary school and 109 secondary school male students. On 28 July 1990, St Hilda’s Primary School and St Hilda’s Secondary School were officially opened by then Senior Minister of State for Education Dr Tay Eng Soon. Bishop Moses Tay consecrated the two schools.
 
-In commemoration of its 70th anniversary, St Hilda’s published _Hildan Harvest_, which records the school’s history since its founding in 1934. On 13 April 2012, then Minister for Education Mr Heng Swee Keat officially opened the new Student Activity Centre, which houses a multipurpose hall, two indoor sports halls and Singapore’s first roof-top full-size hockey pitch. In 2014, the school celebrated its 80th anniversary with a series of events centred on the theme, ‘Run with Endurance, Race with Joy’, which culminated in the sealing of a time capsule containing significant artefacts that would be unearthed during the school’s 100th anniversary. In 2019, the school celebrated its 85th anniversary with a line-up of events jointly organised with St Hilda’s Primary School.
+In commemoration of its 70th anniversary, St Hilda’s published&nbsp;_Hildan Harvest_, which records the school’s history since its founding in 1934. On 13 April 2012, then Minister for Education Mr Heng Swee Keat officially opened the new Student Activity Centre, which houses a multipurpose hall, two indoor sports halls and Singapore’s first roof-top full-size hockey pitch. In 2014, the school celebrated its 80th anniversary with a series of events centred on the theme, ‘Run with Endurance, Race with Joy’, which culminated in the sealing of a time capsule containing significant artefacts that would be unearthed during the school’s 100th anniversary. In 2019, the school celebrated its 85th anniversary with a line-up of events jointly organised with St Hilda’s Primary School.
 
 Principals:<br>
 \- Mr P.V. Thomas (1929–1934)<br>
@@ -95,7 +96,7 @@ Go Forward<br>
 The founder of St Hilda’s, Archdeacon Graham White, captured the essence of the school’s aims and aspirations in the Mosaic command, ‘Go Forward’_._
 
 #### **School Crest**
-<img src="/images/sthildasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sthildasec1.jpg">
 
 The school badge embodies the aims and aspirations of St Hilda’s. Its circular shape symbolises unity within the diversity of people, creeds and cultures in Singapore.
 
@@ -106,7 +107,7 @@ At the centre of the badge is a Cross mounted on a blue shield, which represents
 Below the Cross is the school motto, ‘Go Forward’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1FeOMzhv8YPzUV_oXf6j-pDMARpGDtAgS/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 Go forward together one and all<br>
 Forward onward, whatever may befall,<br>
