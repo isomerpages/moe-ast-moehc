@@ -92,6 +92,7 @@ Step By Step Towards Excellence
 The school crest shows a lion’s head which is synonymous with Lion City, Singapore. ‘WDP’ stands for Woodlands Primary School, and the book represents knowledge and enlightenment. The torch represents a burning desire for knowledge. The school colours are red, yellow and orange.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1Hpz5CkbwME4I_XIaqLGG1Y_nvGHTNVK7/view?usp=share_link">**♫ Listen**</a>
 
 Woodlands Primary School forever<br>
 None more loved can be<br>
