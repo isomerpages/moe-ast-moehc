@@ -80,6 +80,7 @@ Wisdom and Grace
 Shaped like a shield, the badge represents honour and loyalty to uphold for the school. The black outline demonstrates boldness in taking on challenges. The colour green signifies freshness of mind and body towards learning. Like pages of an open book, the colour blue shows learning with an open mind.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1vsOcogrG5-dI2LVBJAWALnp3l1iUEkj0/view?usp=share_link">**♫ Listen**</a>
 
 At West Grove we march on with our peers<br>
 Together we achieve through the years<br>
