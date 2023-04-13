@@ -4,49 +4,50 @@ permalink: /school-histories/st-joseph-institution-junior/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stjosephinstitutionjr1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stjosephinstitutionjr1.png">
 
-### **St Joseph's Institution Junior**
-[URL to website](http://sjijunior.moe.edu.sg/) - may require to change in future when original website is removed
+### **St. Joseph's Institution Junior**
+[URL to website](http://sjijunior.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBtANtLFBfttqdDLfQyh9qZ9KoyO-5yHgsF-bLhnyX3n-vgPXygHHbzFZyE2Snsbkhdgi4UpioJRPP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr2.jpg">  
-<img src="/images/stjosephinstitutionjr2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr3.jpg">  
-<img src="/images/stjosephinstitutionjr3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr4.jpg">  
-<img src="/images/stjosephinstitutionjr4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr5.jpg">  
-<img src="/images/stjosephinstitutionjr5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr6.jpg">  
-<img src="/images/stjosephinstitutionjr6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr7.jpg">  
-<img src="/images/stjosephinstitutionjr7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr8.jpg">  
-<img src="/images/stjosephinstitutionjr8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr9.jpg">  
-<img src="/images/stjosephinstitutionjr9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr9.jpg">
 </a></p>
 
 <br clear="left">
@@ -97,14 +98,13 @@ Ora et Labora <br>
 Pray and Work
 
 #### **School Crest**
-<img src="/images/stjosephinstitutionjr1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stjosephinstitutionjr1.png">
 
 Following the name change from St Michael’s School to St Joseph’s Institution Junior School in 2007, the school adopted the school crest of St Joseph’s Institution.
 
-The green field of the crest is divided into four quadrants by a white cross, the symbol of the Christian faith. In the centre of the cross lies the logo of the Brothers, a five-pointed star, the _Signum Fidei_. It originated from the Star of Bethlehem, which led the Magi (wise men of the East) to the birth of Christ. In fact, the _Signum Fidei_ (the Sign of Faith) is the motto of the Christian Brothers of St John Baptist De La Salle. It reminds all Josephians to centre their lives on faith and to reach always for the reachable star of their convictions and ideals. In the top quadrant are three interlocking circles, symbolising games and the sporting spirit of all Josephians. In the top-right quadrant is the lamp of knowledge on a book, which is a symbol of learning. The lion at the bottom-left quadrant represents the courage and determination with which Josephians face the many challenges of life. It is also a reminder that SJI, the flagship of the Lasallian enterprise in Asia, was established in Singapore in 1852. The crown surmounting the crest symbolises victory – the victory of faith over the forces of evil. It is also a reminder that SJI was founded in the days when Singapore was still a British colony. At the bottom-right quadrant of the crest is the monogram of the school – ‘SJI’.
+The green field of the crest is divided into four quadrants by a white cross, the symbol of the Christian faith. In the centre of the cross lies the logo of the Brothers, a five-pointed star, the&nbsp;_Signum Fidei_. It originated from the Star of Bethlehem, which led the Magi (wise men of the East) to the birth of Christ. In fact, the&nbsp;_Signum Fidei_&nbsp;(the Sign of Faith) is the motto of the Christian Brothers of St John Baptist De La Salle. It reminds all Josephians to centre their lives on faith and to reach always for the reachable star of their convictions and ideals. In the top quadrant are three interlocking circles, symbolising games and the sporting spirit of all Josephians. In the top-right quadrant is the lamp of knowledge on a book, which is a symbol of learning. The lion at the bottom-left quadrant represents the courage and determination with which Josephians face the many challenges of life. It is also a reminder that SJI, the flagship of the Lasallian enterprise in Asia, was established in Singapore in 1852. The crown surmounting the crest symbolises victory – the victory of faith over the forces of evil. It is also a reminder that SJI was founded in the days when Singapore was still a British colony. At the bottom-right quadrant of the crest is the monogram of the school – ‘SJI’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 All through our college,<br>
 a voice is resounding,<br>
