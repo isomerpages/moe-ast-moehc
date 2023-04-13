@@ -90,6 +90,7 @@ In 1930, Chinese High’s new triangular-shaped crest reflects the harmonious th
 <br clear="left">
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1w06LlQda8u--exntklZq1yBGoBVKHuc5/view?usp=share_link">**♫ Listen**</a>
 
 海天寥廓 云树苍笼 中有我华中<br>
 礼门义路&nbsp;时雨春风&nbsp;吾侪托帡幪<br>
