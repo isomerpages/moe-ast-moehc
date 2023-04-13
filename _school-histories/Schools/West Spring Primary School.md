@@ -72,6 +72,8 @@ The flow of turquoise hues throughout the logo carries with it the imagery of fl
 
 #### **School Song**
 
+<a target="_blank" href="https://drive.google.com/file/d/14I3dATRmNLRBz7iBbKnRLAJz3AsXQncF/view?usp=share_link">**♫ Listen**</a>
+
 Every day that I wake<br>
 I’m thankful for this day<br>
 I’ve got joy in my heart<br>
