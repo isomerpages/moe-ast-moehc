@@ -90,6 +90,7 @@ The three trees symbolise creativity, illustrated by the stylised representation
 The colours,&nbsp;white, blue and green reflect honesty, harmony and vitality, respectively.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1cP88E6pCd0yicwtabKe80xry4KRXMRYM/view?usp=share_link">**♫ Listen**</a>
 
 It all begins at Woodlands Ring<br>
 A thinking school that guides within<br>
