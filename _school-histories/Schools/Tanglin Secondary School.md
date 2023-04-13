@@ -4,51 +4,52 @@ permalink: /school-histories/tanglin-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tanglinsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinsec1.jpg">
 
 ### **Tanglin Secondary School**
-[URL to website](https://tanglinsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://tanglinsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTC6pHLpOXJ87ffOTnA9pMd8nvcoY68jJNVZTGzIh3rA9dnBN0xH76j2rpLHHQMAMRLN1Fc2KGHUHQU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec2.jpg">  
-<img src="/images/tanglinsec2.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec3.jpg">  
-<img src="/images/tanglinsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec4.jpg">  
-<img src="/images/tanglinsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec4.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec5.jpg">  
-<img src="/images/tanglinsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec6.jpg">  
-<img src="/images/tanglinsec6.jpg" style="width:22%;margin-right:63px;" align = "right">
+<img align="right" style="width:22%;margin-right:63px;" src="/images/tanglinsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec7.jpg">  
-<img src="/images/tanglinsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec7.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec8.jpg">  
-<img src="/images/tanglinsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec9.jpg">  
-<img src="/images/tanglinsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec9.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec10.jpg">  
-<img src="/images/tanglinsec10.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec10.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,7 +57,7 @@ third_nav_title: Schools
 #### **School History**
 Tanglin Secondary School was established in 1964 as Tanglin Integrated Secondary Technical School, located in Queenstown. The school was officially declared open on 16 October 1964. The school was Singapore’s first technical school where the medium of instruction was in Chinese. It was also the first school in Singapore to admit female students to technical courses.
 
-In 1969, Tanglin Integrated Secondary Technical School was renamed as Tanglin Technical Secondary School. The school celebrated its 25th anniversary in 1989.  In 1993, the school moved to its current premises at 301 West Coast Road and was renamed as Tanglin Secondary School. In 2014, the school celebrated its 50th anniversary.
+In 1969, Tanglin Integrated Secondary Technical School was renamed as Tanglin Technical Secondary School. The school celebrated its 25th anniversary in 1989.&nbsp; In 1993, the school moved to its current premises at 301 West Coast Road and was renamed as Tanglin Secondary School. In 2014, the school celebrated its 50th anniversary.
 
 In 2015, Tanglin Secondary School was accorded the Applied Learning Programme, ‘Tanglin PLUS’ (Perspectives and Literacies to Understand Society). Through this programme, students acquire deeper and broader knowledge to investigate societal issues. To make learning relevant, students are given opportunities to apply their knowledge to real-world situations, requiring them to use critical thinking and effective communication skills. Partners, such as the Singapore Botanic Gardens, National Gallery Singapore and Boeing, have been engaged to provide authentic learning experiences for the students.
 
@@ -96,7 +97,7 @@ Principals:<br>
 Strive for Success
 
 #### **School Crest**
-<img src="/images/tanglinsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinsec1.jpg">
 
 The badge was redesigned at the end of 2015 to mark Tanglin Secondary School’s rebirth as a merged school with Clementi Woods Secondary School.
 
@@ -107,7 +108,7 @@ The pentagon symbolises the five main aspects of education: intellectual, cultur
 The rays spread diagonally upwards, signifying the school’s constant growth and success while being firmly rooted in traditions and beginnings. When the rays branch out through the arc, they represent the school pushing beyond boundaries to develop students with the strength and character to shape a nation of the future.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1EcU4O6HaXZV5EuvgXpnryNhJUNocXT6u/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 我 们 是 东 林 中 学 的 好 学 生<br>
 为 国 家, 为 人 民 , 忠 心 耿 耿<br>
