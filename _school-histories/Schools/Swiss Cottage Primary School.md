@@ -4,32 +4,33 @@ permalink: /school-histories/swiss-cottage-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/swisscottagepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/swisscottagepri1.png">
 
 ### **Swiss Cottage Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8YR7p-pRRFsG0Novk_E5y_37CpgaGC_Rlmt7hp-XY8Dh9hYMiytK0bglQ2CqmYWX53QDXbrrHtLqT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri2.png">  
-<img src="/images/swisscottagepri2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri2.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri3.png">  
-<img src="/images/swisscottagepri3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri3.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri4.png">  
-<img src="/images/swisscottagepri4.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri4.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri5.png">  
-<img src="/images/swisscottagepri5.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri5.png">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri6.png">  
-<img src="/images/swisscottagepri6.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri6.png">
 </a></p>
 
 <br clear="left">
@@ -65,12 +66,12 @@ Rajin Dan Jujur<br>
 (Hardworking and Honest)
 
 #### **School Crest**
-<img src="/images/swisscottagepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/swisscottagepri1.png">
 
-The school crest is in the shape of a shield, with the name of the school in white embossed onto it. The **school motto** “Rajin Dan Jujur”, meaning hardworking and honest, is at the base of the shield. The **shield** signifies academic and scholastic aspirations and the desire to excel in games and sports. The colour **red** represents universal brotherhood and the colour **yellow** signifies greatness in all that the school tries to achieve.
+The school crest is in the shape of a shield, with the name of the school in white embossed onto it. The&nbsp;**school motto**&nbsp;“Rajin Dan Jujur”, meaning hardworking and honest, is at the base of the shield. The&nbsp;**shield**&nbsp;signifies academic and scholastic aspirations and the desire to excel in games and sports. The colour&nbsp;**red**&nbsp;represents universal brotherhood and the colour&nbsp;**yellow**&nbsp;signifies greatness in all that the school tries to achieve.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>
 
 We shall all try hard to achieve success<br>
 In work and play we will do our best<br>
