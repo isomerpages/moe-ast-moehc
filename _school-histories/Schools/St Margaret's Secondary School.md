@@ -4,49 +4,50 @@ permalink: /school-histories/st-margaret-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stmargaretsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretsec1.png">
 
-### **St Margaret's Secondary School**
-[URL to website](https://stmargaretssec.moe.edu.sg/) - may require to change in future when original website is removed
+### **St. Margaret's Secondary School**
+[URL to website](https://stmargaretssec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrNgseSQHaXpit_-KDpUgmkPSBH12zDrdK4RiP-HKRxd2Mnc9esAVvEJs5V2DOX-yrDd9qwIKqDovB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec2.jpg">  
-<img src="/images/stmargaretsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec3.jpg">  
-<img src="/images/stmargaretsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec3.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec4.jpg">  
-<img src="/images/stmargaretsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec5.jpg">  
-<img src="/images/stmargaretsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec5.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec6.jpg">  
-<img src="/images/stmargaretsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec6.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec7.jpg">  
-<img src="/images/stmargaretsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec8.jpg">  
-<img src="/images/stmargaretsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec8.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretsec9.jpg">  
-<img src="/images/stmargaretsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,13 +55,13 @@ third_nav_title: Schools
 #### **School History**
 Mrs Maria Dyer a missionary of the London Missionary Society was en route to China when she stopped by Singapore in 1842. She was horrified to see girls being auctioned as slaves and decided to start a home for homeless girls, regardless of race, in a tiny shop-house in North Bridge Road. Thus, began the first girls' school in Singapore. It was named the Chinese Girls’ School.
 
-The girls were given an elementary education in English, instructed in the Christian religion and were taught how to be good homemakers with cooking and needlework lessons. For many years, it was the only girls' school in Singapore.  As the number of pupils increased, the school relocated several times before finally settling at 134 Sophia Road in 1861, with a boarding house built in its grounds.
+The girls were given an elementary education in English, instructed in the Christian religion and were taught how to be good homemakers with cooking and needlework lessons. For many years, it was the only girls' school in Singapore.&nbsp; As the number of pupils increased, the school relocated several times before finally settling at 134 Sophia Road in 1861, with a boarding house built in its grounds.
 
 In 1900, The Church of England Zenana Missionary Society (CEZMS) took over the management of the school and the school was re-named the CEZMS School. In 1928, more academic subjects were introduced and the school had its first Science laboratory. The school was much damaged during World War II. After the war the Bishop of Singapore changed its name to St. Margaret's School in 1949, after Queen Margaret of Scotland.
 
 The school soon recovered from its wartime setbacks and set about consolidating its curriculum and provided students with a broad based education in the academic, physical, social, moral and spiritual domains. Soon, the school had grown so much that space for further expansion was required.
 
-In 1957, plans were made to build a new Secondary School at Farrer Road. Completed in 1960, it was officially opened by the Rt Rev RF Gibson Jr, Bishop of Virginia on 20th February 1963.  In 1998, the school moved to temporary premises at Commonwealth Avenue while its Farrer Road building and facilities were redeveloped to meet the changing needs of education in the 21st century.
+In 1957, plans were made to build a new Secondary School at Farrer Road. Completed in 1960, it was officially opened by the Rt Rev RF Gibson Jr, Bishop of Virginia on 20th February 1963. &nbsp;In 1998, the school moved to temporary premises at Commonwealth Avenue while its Farrer Road building and facilities were redeveloped to meet the changing needs of education in the 21st century.
 
 In December 2000, the school celebrated its homecoming to a brand new campus with state-of-the-art facilities at Farrer Road. The crowning touch to this momentous event was the special guest, Dr James Hudson Taylor III, the great grandson of Mrs Maria Dyer, the founder of St. Margaret's. The school was officially declared open on 26 July 2002 by Dr Tony Tan, then the Deputy Prime Minister and Minister for Defence.
 
@@ -104,10 +105,10 @@ Principals:<br>
 #### **School Motto**
 Charity, Patience, Devotion
 
-**Explanation:** The school is named after Queen Margaret of Scotland who was known for many good qualities, among them, love (charity), patience and devotion for her people.
+**Explanation:**&nbsp;The school is named after Queen Margaret of Scotland who was known for many good qualities, among them, love (charity), patience and devotion for her people.
 
 #### **School Crest**
-<img src="/images/stmargaretsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretsec1.png">
 
 The green background represents creation, of which we are a part. It stands for life and activity, creativity and growth.
 
@@ -116,7 +117,7 @@ The white cross represents the Christian Mission of the school. Like a direction
 The white band running diagonally across from the upper left hand corner to the lower corner stands for purity in thought, word and deed.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1B-a7BSNW8ZlsKA12PyWEhSdtBQK6TzID/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 In these sound walls a goodly learning frame,<br>
 Who here abide true kindliness impart<br>
