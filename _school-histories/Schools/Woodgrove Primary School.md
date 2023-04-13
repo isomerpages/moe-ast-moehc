@@ -82,6 +82,7 @@ The school crest shows the school’s commitment to provide a student-centred an
 The orange fruits symbolise the achievements that are attained when the students are developed holistically to be ‘Staunch, Stable, Steadfast and Successful’.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/14mQse30lxIRpd-pgoJluFL1xD8bpwdiJ/view?usp=share_link">**♫ Listen**</a>
 
 Woodgrove is where we excel<br>
 Our teachers’ mission<br>
