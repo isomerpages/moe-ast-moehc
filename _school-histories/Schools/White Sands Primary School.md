@@ -96,6 +96,7 @@ There are four colours in the school crest, each with significant meaning. Blue 
 The school motto of “Learn Grow and Excel Together” represents the rallying together of students, staff and stakeholders to learn and grow to bring out the best in everyone’s potential.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1pRgQytWYiF6yvklSDhJXcQ9yiWrn7pTm/view?usp=share_link">**♫ Listen**</a>
 
 While caring for each other as a sister or brother<br>
 We’ll strive to achieve<br>
