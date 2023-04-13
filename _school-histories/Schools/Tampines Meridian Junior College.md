@@ -4,21 +4,22 @@ permalink: /school-histories/tampines-meridian-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tampinesmeridianjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tampinesmeridianjc1.png">
 
 ### **Tampines Meridian Junior College**
-[URL to website](https://tmjc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://tmjc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQys_EjKjAHov7bfC99yBiWF_pnmLhTMVNRlrfz036o-f9n8mnn4dj0WGPIsbkSTSz5eWWNGNFZ23EY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesmeridianjc2.jpg">  
-<img src="/images/tampinesmeridianjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesmeridianjc2.jpg">
 </a></p>
 
 <p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesmeridianjc3.jpg">  
-<img src="/images/tampinesmeridianjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesmeridianjc3.jpg">
 </a></p>
 
 <br clear="left">
@@ -43,12 +44,12 @@ Principal:<br>
 |
 
 #### **School Crest**
-<img src="/images/tampinesmeridianjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tampinesmeridianjc1.png">
 
 The circular shape of the crest represents the college’s commitment to provide an all-rounded, holistic and rich education. The colour red represents courage, resilience and care, while silver represents integrity. The strong typeface that spells ‘TMJC’, the school’s initials, represents the college’s clarity of purpose and steadfast determination to always strive to be better.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1hkvDhMTI1pIWqzpLARumpN2NPDnUTZnR/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We learn, we serve<br>
 Let knowledge guide our paths to grow.<br>
