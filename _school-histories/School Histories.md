@@ -761,7 +761,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Henry Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henry-park-pri/) | [Hillgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hillgrove-sec/) | [Holy Innocents' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-high-sch/) |
+| [Henry Park Primary School](/school-histories/henry-park-pri/) | [Hillgrove Secondary School](/school-histories/hillgrove-sec/) | [Holy Innocents' High School](/school-histories/holy-innocent-high-sch/) |
 
 <img src="/images/crestH12.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestH13.png" style="width:30%;margin-left:65px;" align="left">
@@ -771,7 +771,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Holy Innocents' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/) | [Hong Kah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-sec/) |
+| [Holy Innocents' Primary School](/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](/school-histories/hong-kah-pri/) | [Hong Kah Secondary School](/school-histories/hong-kah-sec/) |
 
 <img src="/images/crestH15.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestH16.png" style="width:30%;margin-left:65px;" align="left">
@@ -781,7 +781,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hong Wen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-wen-sch/) | [Horizon Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/horizon-pri/) | [Hougang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-pri/) |
+| [Hong Wen School](/school-histories/hong-wen-sch/) | [Horizon Primary School](/school-histories/horizon-pri/) | [Hougang Primary School](/school-histories/hougang-pri/) |
 
 <img src="/images/crestH18.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestH19.png" style="width:20%;margin-left:145px;" align="left">
