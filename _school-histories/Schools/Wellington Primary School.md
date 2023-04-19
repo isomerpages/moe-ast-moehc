@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7iZpjbn3zpQVjP6BSq5QaFmKg_Q2Omia_USuSAo1hyUiVGlpelBedKd7IhCXtXfqHP67h8fAw8gpV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri2.jpg">  
+<p><a href="/images/wellingtonpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri3.jpg">  
+<p><a href="/images/wellingtonpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri4.jpg">  
+<p><a href="/images/wellingtonpri4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/wellingtonpri4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri5.jpg">  
+<p><a href="/images/wellingtonpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri6.jpg">  
+<p><a href="/images/wellingtonpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri7.jpg">  
+<p><a href="/images/wellingtonpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri8.jpg">  
+<p><a href="/images/wellingtonpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/wellingtonpri9.jpg">  
+<p><a href="/images/wellingtonpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri9.jpg">
 </a></p>
 

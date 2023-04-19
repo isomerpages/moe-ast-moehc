@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/maypri2.jpg">  
+<p><a href="/images/maypri2.jpg">  
 <img src="/images/maypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/maypri3.jpg">  
+<p><a href="/images/maypri3.jpg">  
 <img src="/images/maypri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/maypri4.jpg">  
+<p><a href="/images/maypri4.jpg">  
 <img src="/images/maypri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -40,7 +40,7 @@ In 2002, May Primary School merged with Boon Keng Primary School to become Farre
 Last Serving Principal:<br>
 \- Mdm Oehlers Jacqueline U N (1997 - 2001)
 
-**Related Schools: [Boon Keng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-keng-pri/) | [Farrer Park Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-park-pri/)**
+**Related Schools: [Boon Keng Primary School](/school-histories/boon-keng-pri/) | [Farrer Park Primary School](/school-histories/farrer-park-pri/)**
 
 #### **Key Milestones**
 

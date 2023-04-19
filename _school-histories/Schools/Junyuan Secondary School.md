@@ -13,47 +13,47 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec2.jpg">  
+<p><a href="/images/junyuansec2.jpg">  
 <img src="/images/junyuansec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec3.jpg">  
+<p><a href="/images/junyuansec3.jpg">  
 <img src="/images/junyuansec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec4.jpg">  
+<p><a href="/images/junyuansec4.jpg">  
 <img src="/images/junyuansec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec5.jpg">  
+<p><a href="/images/junyuansec5.jpg">  
 <img src="/images/junyuansec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec6.jpg">  
+<p><a href="/images/junyuansec6.jpg">  
 <img src="/images/junyuansec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec7.jpg">  
+<p><a href="/images/junyuansec7.jpg">  
 <img src="/images/junyuansec7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec8.jpg">  
+<p><a href="/images/junyuansec8.jpg">  
 <img src="/images/junyuansec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec9.jpg">  
+<p><a href="/images/junyuansec9.jpg">  
 <img src="/images/junyuansec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec10.jpg">  
+<p><a href="/images/junyuansec10.jpg">  
 <img src="/images/junyuansec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/junyuansec11.jpg">  
+<p><a href="/images/junyuansec11.jpg">  
 <img src="/images/junyuansec11.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

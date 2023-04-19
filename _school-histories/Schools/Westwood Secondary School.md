@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2ZtXQtpD-DXWQHh-7yy5NmVlwDKP4yIll5sA9m4J8dVwXN9nK8FFu36HyLuNJ0XctHESVO6uhpcw6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec2.jpg">  
+<p><a href="/images/westwoodsec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec3.jpg">  
+<p><a href="/images/westwoodsec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec4.jpg">  
+<p><a href="/images/westwoodsec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec5.jpg">  
+<p><a href="/images/westwoodsec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec6.jpg">  
+<p><a href="/images/westwoodsec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec7.jpg">  
+<p><a href="/images/westwoodsec7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec8.jpg">  
+<p><a href="/images/westwoodsec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westwoodsec9.jpg">  
+<p><a href="/images/westwoodsec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec9.jpg">
 </a></p>
 

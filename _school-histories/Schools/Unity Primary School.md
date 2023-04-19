@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT300rwNJSkRJ_txGuXsy8oYnUF4n266Zk6K7rOMubFAhi5AfrIWJ_M7YJ4z4k8o-nltVGI-GDjUHbb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri2.jpg">  
+<p><a href="/images/unitypri2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri3.jpg">  
+<p><a href="/images/unitypri3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri4.jpg">  
+<p><a href="/images/unitypri4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri5.jpg">  
+<p><a href="/images/unitypri5.jpg">  
 <img align="right" style="width:22%;margin-right:48px;" src="/images/unitypri5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri6.jpg">  
+<p><a href="/images/unitypri6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri7.jpg">  
+<p><a href="/images/unitypri7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri8.jpg">  
+<p><a href="/images/unitypri8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/unitypri9.jpg">  
+<p><a href="/images/unitypri9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri9.jpg">
 </a></p>
 

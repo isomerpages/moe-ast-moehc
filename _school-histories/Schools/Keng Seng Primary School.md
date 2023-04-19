@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri2.jpg">  
+<p><a href="/images/kengsengpri2.jpg">  
 <img src="/images/kengsengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri3.jpg">  
+<p><a href="/images/kengsengpri3.jpg">  
 <img src="/images/kengsengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri4.jpg">  
+<p><a href="/images/kengsengpri4.jpg">  
 <img src="/images/kengsengpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri5.jpg">  
+<p><a href="/images/kengsengpri5.jpg">  
 <img src="/images/kengsengpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri6.jpg">  
+<p><a href="/images/kengsengpri6.jpg">  
 <img src="/images/kengsengpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri7.jpg">  
+<p><a href="/images/kengsengpri7.jpg">  
 <img src="/images/kengsengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri8.jpg">  
+<p><a href="/images/kengsengpri8.jpg">  
 <img src="/images/kengsengpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kengsengpri9.jpg">  
+<p><a href="/images/kengsengpri9.jpg">  
 <img src="/images/kengsengpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -62,7 +62,7 @@ In January 2002, Keng Seng Primary School merged with Alexandra Hill Primary Sch
 Last Serving Principal:<br>
 \- Mdm Florence Chong Peng Hua (1999 - 2001)
 
-**Related Schools: [Alexandra Hill Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) | [Bukit Ho Swee Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) | [Henderson Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) | [Gan Eng Seng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
+**Related Schools: [Alexandra Hill Primary School](/school-histories/alexandra-hill-pri/) | [Bukit Ho Swee Primary School](/school-histories/bukit-ho-swee-pri/) | [Henderson Primary School](/school-histories/henderson-pri/) | [Gan Eng Seng Primary School](/school-histories/gan-eng-seng-pri/)**
 
 #### **Key Milestones**
 

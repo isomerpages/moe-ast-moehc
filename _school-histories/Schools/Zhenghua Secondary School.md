@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6tid2LffXiPuQ1P24vVbDDmH6Zu4P6blWY9PHdM_N4Hj5iiw7Sv7M9S_fQwbIiXzaSIh7qTJIWWT_/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec2.jpg">  
+<p><a href="/images/zhenghuasec2.jpg">  
 <img src="/images/zhenghuasec2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec3.jpg">  
+<p><a href="/images/zhenghuasec3.jpg">  
 <img src="/images/zhenghuasec3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec4.jpg">  
+<p><a href="/images/zhenghuasec4.jpg">  
 <img src="/images/zhenghuasec4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec5.jpg">  
+<p><a href="/images/zhenghuasec5.jpg">  
 <img src="/images/zhenghuasec5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec6.jpg">  
+<p><a href="/images/zhenghuasec6.jpg">  
 <img src="/images/zhenghuasec6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec7.jpg">  
+<p><a href="/images/zhenghuasec7.jpg">  
 <img src="/images/zhenghuasec7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec8.jpg">  
+<p><a href="/images/zhenghuasec8.jpg">  
 <img src="/images/zhenghuasec8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhenghuasec9.jpg">  
+<p><a href="/images/zhenghuasec9.jpg">  
 <img src="/images/zhenghuasec9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 

@@ -11,7 +11,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1EFG6uDaKmj_tXzjTa46bICjUESsta_Ri1k9EAYjJ7DIPWOS2TvzEGSOwXx7QdzIclzJDejEtZeMx/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillprimary1.jpg">  
+<p><a href="/images/balestierhillprimary1.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillprimary1.jpg">
 </a></p>
 

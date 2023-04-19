@@ -14,25 +14,25 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiq-Wa3XeNXwYT-CrwFjiBLGg7cj_75-WGGhIPuCCWwwObhqMTng8EzqKKkoA5bLZmjQWA3wFnS6Hj/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuqunpri2.jpg">  
+<p><a href="/images/yuqunpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuqunpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuqunpri3.jpg">  
+<p><a href="/images/yuqunpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuqunpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuqunpri4.jpg">  
+<p><a href="/images/yuqunpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuqunpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuqunpri5.jpg">  
+<p><a href="/images/yuqunpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuqunpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuqunpri6.jpg">  
+<p><a href="/images/yuqunpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuqunpri6.jpg">
 </a></p>
 
@@ -54,7 +54,7 @@ In 2002, Yuqun Primary School merged with Yuhua Primary School.&nbsp;
 Last Serving Principal:<br>
 \- Mr Phung Ah Tee (1999 - 2001)
 
-**Related Schools: [Yuhua Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-pri/)**
+**Related Schools: [Yuhua Primary School](/school-histories/yuhua-pri/)**
 
 #### **Key Milestones**
 

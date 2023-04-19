@@ -11,21 +11,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRRFhM58JN16rirjSGychOjA4rtLh6QGT8eQaNfz1F9jeeMYsnXTRIYSLCe1fn5GvD2UBjbeG03TREe/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/beattypri1.jpg">  
+<p><a href="/images/beattypri1.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattypri1.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/beattypri2.jpg">  
+<p><a href="/images/beattypri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattypri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/beattypri3.jpg">  
+<p><a href="/images/beattypri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattypri3.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/beattypri4.jpg">  
+<p><a href="/images/beattypri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattypri4.jpg">
 </a></p>
 

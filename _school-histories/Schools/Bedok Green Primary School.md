@@ -12,36 +12,36 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreenpri2.jpg">  
+<p><a href="/images/bedokgreenpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri2.jpg">
 </a></p>
 
 
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreenpri4.jpg">  
+<p><a href="/images/bedokgreenpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreenpri5.jpg">  
+<p><a href="/images/bedokgreenpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri5.jpg">
 </a></p>
 
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreenpri7.jpg">  
+<p><a href="/images/bedokgreenpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreenpri8.jpg">  
+<p><a href="/images/bedokgreenpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri8.jpg">
 </a></p>
 
 
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreenpri10.jpg">  
+<p><a href="/images/bedokgreenpri10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri10.jpg">
 </a></p>
 

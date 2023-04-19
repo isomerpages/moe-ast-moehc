@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri2.png">  
+<p><a href="/images/leekuochuanpri2.png">  
 <img src="/images/leekuochuanpri2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri3.png">  
+<p><a href="/images/leekuochuanpri3.png">  
 <img src="/images/leekuochuanpri3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri4.png">  
+<p><a href="/images/leekuochuanpri4.png">  
 <img src="/images/leekuochuanpri4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/leekuochuanpri5.png">  
+<p><a href="/images/leekuochuanpri5.png">  
 <img src="/images/leekuochuanpri5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

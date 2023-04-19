@@ -12,19 +12,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pandanpri2.jpg">  
+<p><a href="/images/pandanpri2.jpg">  
 <img src="/images/pandanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pandanpri3.jpg">  
+<p><a href="/images/pandanpri3.jpg">  
 <img src="/images/pandanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pandanpri4.jpg">  
+<p><a href="/images/pandanpri4.jpg">  
 <img src="/images/pandanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pandanpri5.jpg">  
+<p><a href="/images/pandanpri5.jpg">  
 <img src="/images/pandanpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -44,7 +44,7 @@ In 2008, Pandan Primary School merged with Fuhua Primary School.
 Last Serving Principal:<br>
 \- Mdm Tan May Ling (2003 - 2007)
 
-**Related School: [Fuhua Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-pri/)**
+**Related School: [Fuhua Primary School](/school-histories/fuhua-pri/)**
 
 #### **Key Milestones**
 

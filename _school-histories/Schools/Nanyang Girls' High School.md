@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch2.jpg">  
+<p><a href="/images/nanyanggirlshighsch2.jpg">  
 <img src="/images/nanyanggirlshighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch3.jpg">  
+<p><a href="/images/nanyanggirlshighsch3.jpg">  
 <img src="/images/nanyanggirlshighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch4.jpg">  
+<p><a href="/images/nanyanggirlshighsch4.jpg">  
 <img src="/images/nanyanggirlshighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch5.jpg">  
+<p><a href="/images/nanyanggirlshighsch5.jpg">  
 <img src="/images/nanyanggirlshighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch6.jpg">  
+<p><a href="/images/nanyanggirlshighsch6.jpg">  
 <img src="/images/nanyanggirlshighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch7.jpg">  
+<p><a href="/images/nanyanggirlshighsch7.jpg">  
 <img src="/images/nanyanggirlshighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch8.jpg">  
+<p><a href="/images/nanyanggirlshighsch8.jpg">  
 <img src="/images/nanyanggirlshighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanyanggirlshighsch9.jpg">  
+<p><a href="/images/nanyanggirlshighsch9.jpg">  
 <img src="/images/nanyanggirlshighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

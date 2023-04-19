@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri2.jpg">  
+<p><a href="/images/henryparkpri2.jpg">  
 <img src="/images/henryparkpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri3.jpg">  
+<p><a href="/images/henryparkpri3.jpg">  
 <img src="/images/henryparkpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri4.jpg">  
+<p><a href="/images/henryparkpri4.jpg">  
 <img src="/images/henryparkpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri5.jpg">  
+<p><a href="/images/henryparkpri5.jpg">  
 <img src="/images/henryparkpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri6.jpg">  
+<p><a href="/images/henryparkpri6.jpg">  
 <img src="/images/henryparkpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri7.jpg">  
+<p><a href="/images/henryparkpri7.jpg">  
 <img src="/images/henryparkpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri8.jpg">  
+<p><a href="/images/henryparkpri8.jpg">  
 <img src="/images/henryparkpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/henryparkpri9.jpg">  
+<p><a href="/images/henryparkpri9.jpg">  
 <img src="/images/henryparkpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJJ1iN0HOO5Dc0Xqe2Fviy4peGKu9wvThpPYoU7i8_Yqj7FyKULemHhuBQKj4jbAtNna0eADlVuqiZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec2.jpg">  
+<p><a href="/images/woodlandssec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pwoodlandssec3ic.jpg">  
+<p><a href="/images/pwoodlandssec3ic.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec4.jpg">  
+<p><a href="/images/woodlandssec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec5.jpg">  
+<p><a href="/images/woodlandssec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec6.jpg">  
+<p><a href="/images/woodlandssec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec7.jpg">  
+<p><a href="/images/woodlandssec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec8.jpg">  
+<p><a href="/images/woodlandssec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandssec9.jpg">  
+<p><a href="/images/woodlandssec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandssec9.jpg">
 </a></p>
 

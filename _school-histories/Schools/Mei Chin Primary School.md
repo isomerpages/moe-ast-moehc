@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinpri2.jpg">  
+<p><a href="/images/meichinpri2.jpg">  
 <img src="/images/meichinpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinpri3.jpg">  
+<p><a href="/images/meichinpri3.jpg">  
 <img src="/images/meichinpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinpri4.jpg">  
+<p><a href="/images/meichinpri4.jpg">  
 <img src="/images/meichinpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinpri5.jpg">  
+<p><a href="/images/meichinpri5.jpg">  
 <img src="/images/meichinpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinpri6.jpg">  
+<p><a href="/images/meichinpri6.jpg">  
 <img src="/images/meichinpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinpri7.jpg">  
+<p><a href="/images/meichinpri7.jpg">  
 <img src="/images/meichinpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -53,7 +53,7 @@ In 1991, the school underwent two-and-a-half months’ renovations to its buildi
 
 In January 2002, Mei Chin Primary School and Tanglin Primary School merged with Queenstown Primary School.
 
-**Related Schools: [Tanglin Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-pri/) | [Queenstown Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-pri/)**
+**Related Schools: [Tanglin Primary School](/school-histories/tanglin-pri/) | [Queenstown Primary School](/school-histories/queenstown-pri/)**
 
 #### **Key Milestones**
 

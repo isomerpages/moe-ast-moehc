@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEiuhJxbdo-5TeTldzr1VZpBZZC1TxaeDoMhuFdbLIfJmRgi2PZt8zs38VM1LqOHJWQ3ZfF8JqEGFV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri2.jpg">  
+<p><a href="/images/blangahrisepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri3.jpg">  
+<p><a href="/images/blangahrisepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri4.jpg">  
+<p><a href="/images/blangahrisepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri5.jpg">  
+<p><a href="/images/blangahrisepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri6.jpg">  
+<p><a href="/images/blangahrisepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri7.jpg">  
+<p><a href="/images/blangahrisepri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri8.jpg">  
+<p><a href="/images/blangahrisepri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/blangahrisepri9.jpg">  
+<p><a href="/images/blangahrisepri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/blangahrisepri9.jpg">
 </a></p>
 

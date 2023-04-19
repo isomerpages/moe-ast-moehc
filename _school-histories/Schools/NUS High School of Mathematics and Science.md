@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch2.jpg">  
+<p><a href="/images/nushighsch2.jpg">  
 <img src="/images/nushighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch3.jpg">  
+<p><a href="/images/nushighsch3.jpg">  
 <img src="/images/nushighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch4.jpg">  
+<p><a href="/images/nushighsch4.jpg">  
 <img src="/images/nushighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch5.jpg">  
+<p><a href="/images/nushighsch5.jpg">  
 <img src="/images/nushighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch6.jpg">  
+<p><a href="/images/nushighsch6.jpg">  
 <img src="/images/nushighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch7.jpg">  
+<p><a href="/images/nushighsch7.jpg">  
 <img src="/images/nushighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch8.jpg">  
+<p><a href="/images/nushighsch8.jpg">  
 <img src="/images/nushighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nushighsch9.jpg">  
+<p><a href="/images/nushighsch9.jpg">  
 <img src="/images/nushighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

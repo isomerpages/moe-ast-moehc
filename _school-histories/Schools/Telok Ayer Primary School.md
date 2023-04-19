@@ -13,11 +13,11 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRokfYKAFloTSP4ti3E2TEGn-14gK-7M61Wp1ordWT2A9ndmHxW30IGmaApipQ9Zok407TXkEN2glzW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokayerpri2.jpg">  
+<p><a href="/images/telokayerpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokayerpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokayerpri3.jpg">  
+<p><a href="/images/telokayerpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokayerpri3.jpg">
 </a></p>
 

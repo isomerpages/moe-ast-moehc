@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch2.jpg">  
+<p><a href="/images/khengchengsch2.jpg">  
 <img src="/images/khengchengsch2.jpg" style="width:20%;margin-left:35px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch3.jpg">  
+<p><a href="/images/khengchengsch3.jpg">  
 <img src="/images/khengchengsch3.jpg" style="width:30%;margin-left:45px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch4.jpg">  
+<p><a href="/images/khengchengsch4.jpg">  
 <img src="/images/khengchengsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch5.jpg">  
+<p><a href="/images/khengchengsch5.jpg">  
 <img src="/images/khengchengsch5.jpg" style="width:20%;margin-left:35px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch6.jpg">  
+<p><a href="/images/khengchengsch6.jpg">  
 <img src="/images/khengchengsch6.jpg" style="width:30%;margin-left:45px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch7.jpg">  
+<p><a href="/images/khengchengsch7.jpg">  
 <img src="/images/khengchengsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch8.jpg">  
+<p><a href="/images/khengchengsch8.jpg">  
 <img src="/images/khengchengsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/khengchengsch9.jpg">  
+<p><a href="/images/khengchengsch9.jpg">  
 <img src="/images/khengchengsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

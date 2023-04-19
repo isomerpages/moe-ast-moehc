@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMKjJdwetH5DadALChVAKsurkTmHpQolDEmogKPg-ddGv3bHObTuj-XbfzXk2KshfbNTIwxDMOEZ1M/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/birkhallroadsch2.jpg">  
+<p><a href="/images/birkhallroadsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/birkhallroadsch2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/birkhallroadsch3.jpg">  
+<p><a href="/images/birkhallroadsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/birkhallroadsch3.jpg">
 </a></p>
 

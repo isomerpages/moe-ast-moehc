@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/neesoonsch2.jpg">  
+<p><a href="/images/neesoonsch2.jpg">  
 <img src="/images/neesoonsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/neesoonsch3.jpg">  
+<p><a href="/images/neesoonsch3.jpg">  
 <img src="/images/neesoonsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/neesoonsch4.jpg">  
+<p><a href="/images/neesoonsch4.jpg">  
 <img src="/images/neesoonsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/neesoonsch5.jpg">  
+<p><a href="/images/neesoonsch5.jpg">  
 <img src="/images/neesoonsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/neesoonsch6.jpg">  
+<p><a href="/images/neesoonsch6.jpg">  
 <img src="/images/neesoonsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

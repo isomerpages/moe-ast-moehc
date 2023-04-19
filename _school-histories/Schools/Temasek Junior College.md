@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYBidHVq-VYzdNSWnjytOa-ZxeqF6fDp4siBPmTx5ZE1s-HnKqdVuEZ-AnCwnGlcke6Z-Ap4krVq-E/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc2.jpg">  
+<p><a href="/images/temasekjc2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc3.jpg">  
+<p><a href="/images/temasekjc3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc4.jpg">  
+<p><a href="/images/temasekjc4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc5.jpg">  
+<p><a href="/images/temasekjc5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc6.jpg">  
+<p><a href="/images/temasekjc6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc7.jpg">  
+<p><a href="/images/temasekjc7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc8.jpg">  
+<p><a href="/images/temasekjc8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/temasekjc9.jpg">  
+<p><a href="/images/temasekjc9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/temasekjc9.jpg">
 </a></p>
 

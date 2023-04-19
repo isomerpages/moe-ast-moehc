@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec2.jpg">  
+<p><a href="/images/canberrasec2.jpg">  
 <img src="/images/canberrasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec3.jpg">  
+<p><a href="/images/canberrasec3.jpg">  
 <img src="/images/canberrasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec4.jpg">  
+<p><a href="/images/canberrasec4.jpg">  
 <img src="/images/canberrasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec5.jpg">  
+<p><a href="/images/canberrasec5.jpg">  
 <img src="/images/canberrasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec6.jpg">  
+<p><a href="/images/canberrasec6.jpg">  
 <img src="/images/canberrasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec7.jpg">  
+<p><a href="/images/canberrasec7.jpg">  
 <img src="/images/canberrasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/canberrasec8.jpg">  
+<p><a href="/images/canberrasec8.jpg">  
 <img src="/images/canberrasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

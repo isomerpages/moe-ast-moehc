@@ -14,35 +14,35 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRHXuQ4g7KF1mkg5GwUC0ScoloBXHDPXp04gG_2kMBJ5X_yKfbzJ7KML64RXjIynm_A13DV5fNwZe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri2.jpg">  
+<p><a href="/images/westspringpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri3.jpg">  
+<p><a href="/images/westspringpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri4.jpg">  
+<p><a href="/images/westspringpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri5.jpg">  
+<p><a href="/images/westspringpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri6.jpg">  
+<p><a href="/images/westspringpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri7.jpg">  
+<p><a href="/images/westspringpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringpri8.jpg">  
+<p><a href="/images/westspringpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri8.jpg">
 </a></p>
 

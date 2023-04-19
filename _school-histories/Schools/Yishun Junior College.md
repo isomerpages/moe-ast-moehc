@@ -14,39 +14,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRS-3b0XBC75r5SStOMc0A8PDxFtfjLgaNj7WS0J-FSVgIfkaJ48tdvILKOufNjzy9qvLKU2_bF9o2-/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc2.jpg">  
+<p><a href="/images/yishunjc2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc3.jpg">  
+<p><a href="/images/yishunjc3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc4.jpg">  
+<p><a href="/images/yishunjc4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/yishunjc4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc5.jpg">  
+<p><a href="/images/yishunjc5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc6.jpg">  
+<p><a href="/images/yishunjc6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc7.jpg">  
+<p><a href="/images/yishunjc7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc8.jpg">  
+<p><a href="/images/yishunjc8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc8.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunjc9.jpg">  
+<p><a href="/images/yishunjc9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunjc9.jpg">
 </a></p>
 
@@ -67,7 +67,7 @@ Principals:<br>
 \- Mdm Koh Teck Siew (2007-2015)<br>
 \- Mrs Edelweis Neo (2015-2018)
 
-**Related School: [Innova Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-jc/) | [Yishun Innova Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/)**
+**Related School: [Innova Junior College](/school-histories/innova-jc/) | [Yishun Innova Junior College](/school-histories/yishun-innova-jc/)**
 
 #### **Key Milestones**
 

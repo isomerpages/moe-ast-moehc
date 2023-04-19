@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri2.jpg">  
+<p><a href="/images/punggolgreenpri2.jpg">  
 <img src="/images/punggolgreenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri3.jpg">  
+<p><a href="/images/punggolgreenpri3.jpg">  
 <img src="/images/punggolgreenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri4.jpg">  
+<p><a href="/images/punggolgreenpri4.jpg">  
 <img src="/images/punggolgreenpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri5.jpg">  
+<p><a href="/images/punggolgreenpri5.jpg">  
 <img src="/images/punggolgreenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri6.jpg">  
+<p><a href="/images/punggolgreenpri6.jpg">  
 <img src="/images/punggolgreenpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri7.jpg">  
+<p><a href="/images/punggolgreenpri7.jpg">  
 <img src="/images/punggolgreenpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri8.jpg">  
+<p><a href="/images/punggolgreenpri8.jpg">  
 <img src="/images/punggolgreenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolgreenpri9.jpg">  
+<p><a href="/images/punggolgreenpri9.jpg">  
 <img src="/images/punggolgreenpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

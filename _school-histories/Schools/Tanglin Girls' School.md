@@ -13,7 +13,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzpin3Hs6iSAmPaoEBeO3EOBQE2uP7kDnNx80EXoMjtKm3Qvhc-UblH30Nkzo2Cymr4InpWv2JraOo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglingirlssch2.jpg">  
+<p><a href="/images/tanglingirlssch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanglingirlssch2.jpg">
 </a></p>
 

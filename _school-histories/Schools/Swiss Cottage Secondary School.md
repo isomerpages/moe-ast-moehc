@@ -14,29 +14,29 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRa39HZ2_pweUrLryOo1NRiwkDDQoqwFSYherrdBEWniLhGdkRg6wvJDTbv3Tbs8c0Fb83x-8ga3sUN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec1.jpg">  
+<p><a href="/images/swisscottagesec1.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec1.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec2.jpg">  
+<p><a href="/images/swisscottagesec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec3.jpg">  
+<p><a href="/images/swisscottagesec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec4.jpg">  
+<p><a href="/images/swisscottagesec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec5.jpg">  
+<p><a href="/images/swisscottagesec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec6.jpg">  
+<p><a href="/images/swisscottagesec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec6.jpg">
 </a></p>
 

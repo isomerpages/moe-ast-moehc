@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUgGLw1uOmFinEXq9RoNEiTzWMtt6NLYUrx9XLENFUlPguIsI2f-ahCNOaGValxfpzBzRMeK6A6JAV/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch2.jpg">  
+<p><a href="/images/aitongsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch3.jpg">  
+<p><a href="/images/aitongsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch4.jpg">  
+<p><a href="/images/aitongsch4.jpg">  
 <img align="left" style="width:28%;margin-right:15px;" src="/images/aitongsch4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch7.jpg">  
+<p><a href="/images/aitongsch7.jpg">  
 <img align="right" style="width:29%;margin-right:60px;" src="/images/aitongsch7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch5.jpg">  
+<p><a href="/images/aitongsch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch6.jpg">  
+<p><a href="/images/aitongsch6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch8.jpg">  
+<p><a href="/images/aitongsch8.jpg">  
 <img align="left" style="width:33.5%;margin-right:15px;" src="/images/aitongsch8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/aitongsch9.jpg">  
+<p><a href="/images/aitongsch9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch9.jpg">
 </a></p>
 

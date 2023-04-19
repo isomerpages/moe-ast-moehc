@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQazRFWqIF-7BTX9AlHyfCV39HvEFewHftkuCIcgEeWO96I5pZFaGKqg6v9kjLCj9qqWAvY0q7Ng94A/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec2.jpg">  
+<p><a href="/images/teckwhyesec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec3.jpg">  
+<p><a href="/images/teckwhyesec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec4.jpg">  
+<p><a href="/images/teckwhyesec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec5.jpg">  
+<p><a href="/images/teckwhyesec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec6.jpg">  
+<p><a href="/images/teckwhyesec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec7.jpg">  
+<p><a href="/images/teckwhyesec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec8.jpg">  
+<p><a href="/images/teckwhyesec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyesec9.jpg">  
+<p><a href="/images/teckwhyesec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyesec9.jpg">
 </a></p>
 

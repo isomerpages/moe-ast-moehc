@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri2.jpg">  
+<p><a href="/images/ecppri2.jpg">  
 <img src="/images/ecppri2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri3.jpg">  
+<p><a href="/images/ecppri3.jpg">  
 <img src="/images/ecppri3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri4.jpg">  
+<p><a href="/images/ecppri4.jpg">  
 <img src="/images/ecppri4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri5.jpg">  
+<p><a href="/images/ecppri5.jpg">  
 <img src="/images/ecppri5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri6.jpg">  
+<p><a href="/images/ecppri6.jpg">  
 <img src="/images/ecppri6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri7.jpg">  
+<p><a href="/images/ecppri7.jpg">  
 <img src="/images/ecppri7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri8.jpg">  
+<p><a href="/images/ecppri8.jpg">  
 <img src="/images/ecppri8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ecppri9.jpg">  
+<p><a href="/images/ecppri9.jpg">  
 <img src="/images/ecppri9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -62,7 +62,7 @@ Principals:<br>
 \- Mr Tan Siew Tiong (2009–2015)<br>
 \- Ms Jessie Lim Chien Chin (2015–present)
 
-**Related Schools: [Bedok North Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-pri/) \| [Damai Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-pri/)**
+**Related Schools: [Bedok North Primary School](/school-histories/bedok-north-pri/) \| [Damai Primary School](/school-histories/damai-pri/)**
 
 #### **Key Milestones**
 

@@ -13,49 +13,49 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec2.jpg">  
+<p><a href="/images/jurongvillesec2.jpg">  
 <img src="/images/jurongvillesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec3.jpg">  
+<p><a href="/images/jurongvillesec3.jpg">  
 <img src="/images/jurongvillesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec4.jpg">  
+<p><a href="/images/jurongvillesec4.jpg">  
 <img src="/images/jurongvillesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec5.jpg">  
+<p><a href="/images/jurongvillesec5.jpg">  
 <img src="/images/jurongvillesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec6.jpg">  
+<p><a href="/images/jurongvillesec6.jpg">  
 <img src="/images/jurongvillesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec7.jpg">  
+<p><a href="/images/jurongvillesec7.jpg">  
 <img src="/images/jurongvillesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec8.jpg">  
+<p><a href="/images/jurongvillesec8.jpg">  
 <img src="/images/jurongvillesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec9.jpg">  
+<p><a href="/images/jurongvillesec9.jpg">  
 <img src="/images/jurongvillesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec10.jpg">  
+<p><a href="/images/jurongvillesec10.jpg">  
 <img src="/images/jurongvillesec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongvillesec11.jpg">  
+<p><a href="/images/jurongvillesec11.jpg">  
 <img src="/images/jurongvillesec11.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -79,7 +79,7 @@ Principals:<br>
 \- Mdm Flora Ong Fei Min (2016–2018)<br>
 \- Mr Chan Yew Wooi (2019–present)
 
-**Related School: [Hong Kah Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-sec/)**
+**Related School: [Hong Kah Secondary School](/school-histories/hong-kah-sec/)**
 
 #### **Key Milestones**
 

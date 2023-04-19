@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri2.jpg">  
+<p><a href="/images/oasispri2.jpg">  
 <img src="/images/oasispri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri3.jpg">  
+<p><a href="/images/oasispri3.jpg">  
 <img src="/images/oasispri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri4.jpg">  
+<p><a href="/images/oasispri4.jpg">  
 <img src="/images/oasispri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri5.jpg">  
+<p><a href="/images/oasispri5.jpg">  
 <img src="/images/oasispri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri6.jpg">  
+<p><a href="/images/oasispri6.jpg">  
 <img src="/images/oasispri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri7.jpg">  
+<p><a href="/images/oasispri7.jpg">  
 <img src="/images/oasispri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri8.jpg">  
+<p><a href="/images/oasispri8.jpg">  
 <img src="/images/oasispri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/oasispri9.jpg">  
+<p><a href="/images/oasispri9.jpg">  
 <img src="/images/oasispri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/moulmeinpri2.jpg">  
+<p><a href="/images/moulmeinpri2.jpg">  
 <img src="/images/moulmeinpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -23,7 +23,7 @@ Moulmein Primary School was formed in 1983 at 51 Jalan Rajah in Toa Payoh, when 
 
 In January 2002, Moulmein Primary School merged with Swiss Cottage Primary School to become Balestier Hill Primary School.
 
-**Related Schools: [Swiss Cottage Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-pri/) | [Balestier Hill Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/)**
+**Related Schools: [Swiss Cottage Primary School](/school-histories/swiss-cottage-pri/) | [Balestier Hill Primary School](/school-histories/balestier-hill-pri/)**
 
 #### **Key Milestones**
 

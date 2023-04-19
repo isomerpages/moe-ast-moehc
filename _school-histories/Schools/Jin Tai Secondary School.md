@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec2.jpg">  
+<p><a href="/images/jintaisec2.jpg">  
 <img src="/images/jintaisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec4.jpg">  
+<p><a href="/images/jintaisec4.jpg">  
 <img src="/images/jintaisec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec3.jpg">  
+<p><a href="/images/jintaisec3.jpg">  
 <img src="/images/jintaisec3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec7.jpg">  
+<p><a href="/images/jintaisec7.jpg">  
 <img src="/images/jintaisec7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec6.jpg">  
+<p><a href="/images/jintaisec6.jpg">  
 <img src="/images/jintaisec6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec5.jpg">  
+<p><a href="/images/jintaisec5.jpg">  
 <img src="/images/jintaisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec8.jpg">  
+<p><a href="/images/jintaisec8.jpg">  
 <img src="/images/jintaisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintaisec9.jpg">  
+<p><a href="/images/jintaisec9.jpg">  
 <img src="/images/jintaisec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -56,7 +56,7 @@ In 2007, Jin Tai Secondary School merged with Ghim Moh Secondary School to becom
 Last Serving Principal:<br>
 \- Mr Teoh Teik Hoe (1999 - 2006)
 
-**Related Schools: [Ghim Moh Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-sec/) | [Clementi Woods Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/)**
+**Related Schools: [Ghim Moh Secondary School](/school-histories/ghim-moh-sec/) | [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/)**
 
 #### **Key Milestones**
 

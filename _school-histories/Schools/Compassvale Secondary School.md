@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec2.jpg">  
+<p><a href="/images/compassvalesec2.jpg">  
 <img src="/images/compassvalesec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec3.jpg">  
+<p><a href="/images/compassvalesec3.jpg">  
 <img src="/images/compassvalesec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec4.jpg">  
+<p><a href="/images/compassvalesec4.jpg">  
 <img src="/images/compassvalesec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec5.jpg">  
+<p><a href="/images/compassvalesec5.jpg">  
 <img src="/images/compassvalesec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec6.jpg">  
+<p><a href="/images/compassvalesec6.jpg">  
 <img src="/images/compassvalesec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec7.jpg">  
+<p><a href="/images/compassvalesec7.jpg">  
 <img src="/images/compassvalesec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec8.jpg">  
+<p><a href="/images/compassvalesec8.jpg">  
 <img src="/images/compassvalesec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/compassvalesec9.jpg">  
+<p><a href="/images/compassvalesec9.jpg">  
 <img src="/images/compassvalesec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 

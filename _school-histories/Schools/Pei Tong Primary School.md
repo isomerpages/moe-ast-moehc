@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri2.jpg">  
+<p><a href="/images/peitongpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri3.jpg">  
+<p><a href="/images/peitongpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri4.jpg">  
+<p><a href="/images/peitongpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri5.jpg">  
+<p><a href="/images/peitongpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri6.jpg">  
+<p><a href="/images/peitongpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri7.jpg">  
+<p><a href="/images/peitongpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri8.jpg">  
+<p><a href="/images/peitongpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri9.jpg">  
+<p><a href="/images/peitongpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri9.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peitongpri10.jpg">  
+<p><a href="/images/peitongpri10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri10.jpg">
 </a></p>
 

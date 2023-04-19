@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri2.jpg">  
+<p><a href="/images/radinmaspri2.jpg">  
 <img src="/images/radinmaspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri3.jpg">  
+<p><a href="/images/radinmaspri3.jpg">  
 <img src="/images/radinmaspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri4.jpg">  
+<p><a href="/images/radinmaspri4.jpg">  
 <img src="/images/radinmaspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri5.jpg">  
+<p><a href="/images/radinmaspri5.jpg">  
 <img src="/images/radinmaspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri6.jpg">  
+<p><a href="/images/radinmaspri6.jpg">  
 <img src="/images/radinmaspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri7.jpg">  
+<p><a href="/images/radinmaspri7.jpg">  
 <img src="/images/radinmaspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri8.jpg">  
+<p><a href="/images/radinmaspri8.jpg">  
 <img src="/images/radinmaspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/radinmaspri9.jpg">  
+<p><a href="/images/radinmaspri9.jpg">  
 <img src="/images/radinmaspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri2.jpg">  
+<p><a href="/images/sthildapri2.jpg">  
 <img src="/images/sthildapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri3.jpg">  
+<p><a href="/images/sthildapri3.jpg">  
 <img src="/images/sthildapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri4.jpg">  
+<p><a href="/images/sthildapri4.jpg">  
 <img src="/images/sthildapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri5.jpg">  
+<p><a href="/images/sthildapri5.jpg">  
 <img src="/images/sthildapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri6.jpg">  
+<p><a href="/images/sthildapri6.jpg">  
 <img src="/images/sthildapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri7.jpg">  
+<p><a href="/images/sthildapri7.jpg">  
 <img src="/images/sthildapri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildapri8.jpg">  
+<p><a href="/images/sthildapri8.jpg">  
 <img src="/images/sthildapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

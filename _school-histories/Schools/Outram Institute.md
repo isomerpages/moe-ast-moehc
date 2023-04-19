@@ -12,23 +12,23 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/outraminstitute2.jpg">  
+<p><a href="/images/outraminstitute2.jpg">  
 <img src="/images/outraminstitute2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/outraminstitute3.jpg">  
+<p><a href="/images/outraminstitute3.jpg">  
 <img src="/images/outraminstitute3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/outraminstitute4.jpg">  
+<p><a href="/images/outraminstitute4.jpg">  
 <img src="/images/outraminstitute4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/outraminstitute5.jpg">  
+<p><a href="/images/outraminstitute5.jpg">  
 <img src="/images/outraminstitute5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/outraminstitute6.jpg">  
+<p><a href="/images/outraminstitute6.jpg">  
 <img src="/images/outraminstitute6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -47,7 +47,7 @@ Last Serving Principal<br>
 \- Mrs Lim Han Soon (1987–1991)<br>
 \- Mrs Lam-Kan Kim Swee (1991–2003)
 
-**Related Schools: [Jurong Institute](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-intitute/) | [Millennia Institute](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/millenia-institute/)**
+**Related Schools: [Jurong Institute](/school-histories/jurong-intitute/) | [Millennia Institute](/school-histories/millenia-institute/)**
 
 #### **Key Milestones**
 

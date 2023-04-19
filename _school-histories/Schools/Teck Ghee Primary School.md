@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjmykhLkHzVcvMuyudkXnrAkHnJD6Tn3_gz-hIXITKSTQYzwZItOi5nmQlLn9Xay-_PnEGsIWh3Lpd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri2.jpg">  
+<p><a href="/images/teckgheepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri3.jpg">  
+<p><a href="/images/teckgheepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri4.jpg">  
+<p><a href="/images/teckgheepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri5.jpg">  
+<p><a href="/images/teckgheepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri6.jpg">  
+<p><a href="/images/teckgheepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri7.jpg">  
+<p><a href="/images/teckgheepri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri8.jpg">  
+<p><a href="/images/teckgheepri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckgheepri9.jpg">  
+<p><a href="/images/teckgheepri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri9.jpg">
 </a></p>
 
@@ -66,7 +66,7 @@ Principals:<br>
 \- Mdm Chua Pei Pei (2010–2017)<br>
 \- Mr Wong Jia Wang (2017–present)
 
-**Related School: [Chong Li Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-li-pri/)**
+**Related School: [Chong Li Primary School](/school-histories/chong-li-pri/)**
 
 #### **Key Milestones**
 

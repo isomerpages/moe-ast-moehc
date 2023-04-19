@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaJzHiL07EDSCstQv9iM_zqtWo2TxuHYFIHsf01UbyE0q07dafxiKaqTFTzpegfdg_pC8ML8E0lbtN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri2.jpg">  
+<p><a href="/images/xingnanpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri3.jpg">  
+<p><a href="/images/xingnanpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri4.jpg">  
+<p><a href="/images/xingnanpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri5.jpg">  
+<p><a href="/images/xingnanpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri6.jpg">  
+<p><a href="/images/xingnanpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri7.jpg">  
+<p><a href="/images/xingnanpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri8.jpg">  
+<p><a href="/images/xingnanpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xingnanpri9.jpg">  
+<p><a href="/images/xingnanpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri9.jpg">
 </a></p>
 

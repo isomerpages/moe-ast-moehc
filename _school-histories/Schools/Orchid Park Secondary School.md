@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec2.jpg">  
+<p><a href="/images/orchirdparksec2.jpg">  
 <img src="/images/orchirdparksec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec3.jpg">  
+<p><a href="/images/orchirdparksec3.jpg">  
 <img src="/images/orchirdparksec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec4.jpg">  
+<p><a href="/images/orchirdparksec4.jpg">  
 <img src="/images/orchirdparksec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec5.jpg">  
+<p><a href="/images/orchirdparksec5.jpg">  
 <img src="/images/orchirdparksec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec6.jpg">  
+<p><a href="/images/orchirdparksec6.jpg">  
 <img src="/images/orchirdparksec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec7.jpg">  
+<p><a href="/images/orchirdparksec7.jpg">  
 <img src="/images/orchirdparksec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec8.jpg">  
+<p><a href="/images/orchirdparksec8.jpg">  
 <img src="/images/orchirdparksec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/orchirdparksec9.jpg">  
+<p><a href="/images/orchirdparksec9.jpg">  
 <img src="/images/orchirdparksec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

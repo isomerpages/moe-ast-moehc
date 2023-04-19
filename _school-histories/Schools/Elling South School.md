@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ellingsouthsch2.jpg">  
+<p><a href="/images/ellingsouthsch2.jpg">  
 <img src="/images/ellingsouthsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ellingsouthsch3.jpg">  
+<p><a href="/images/ellingsouthsch3.jpg">  
 <img src="/images/ellingsouthsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

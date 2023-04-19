@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec2.jpg">  
+<p><a href="/images/meichinsec2.jpg">  
 <img src="/images/meichinsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec3.jpg">  
+<p><a href="/images/meichinsec3.jpg">  
 <img src="/images/meichinsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec4.jpg">  
+<p><a href="/images/meichinsec4.jpg">  
 <img src="/images/meichinsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec5.jpg">  
+<p><a href="/images/meichinsec5.jpg">  
 <img src="/images/meichinsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec6.jpg">  
+<p><a href="/images/meichinsec6.jpg">  
 <img src="/images/meichinsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec9.jpg">  
+<p><a href="/images/meichinsec9.jpg">  
 <img src="/images/meichinsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec8.jpg">  
+<p><a href="/images/meichinsec8.jpg">  
 <img src="/images/meichinsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meichinsec7.jpg">  
+<p><a href="/images/meichinsec7.jpg">  
 <img src="/images/meichinsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

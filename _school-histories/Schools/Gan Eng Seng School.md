@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri2.jpg">  
+<p><a href="/images/ganengsengpri2.jpg">  
 <img src="/images/ganengsengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri3.jpg">  
+<p><a href="/images/ganengsengpri3.jpg">  
 <img src="/images/ganengsengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri4.jpg">  
+<p><a href="/images/ganengsengpri4.jpg">  
 <img src="/images/ganengsengpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri6.jpg">  
+<p><a href="/images/ganengsengpri6.jpg">  
 <img src="/images/ganengsengpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri5.jpg">  
+<p><a href="/images/ganengsengpri5.jpg">  
 <img src="/images/ganengsengpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri7.jpg">  
+<p><a href="/images/ganengsengpri7.jpg">  
 <img src="/images/ganengsengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri8.jpg">  
+<p><a href="/images/ganengsengpri8.jpg">  
 <img src="/images/ganengsengpri8.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri9.jpg">  
+<p><a href="/images/ganengsengpri9.jpg">  
 <img src="/images/ganengsengpri9.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ganengsengpri10.jpg">  
+<p><a href="/images/ganengsengpri10.jpg">  
 <img src="/images/ganengsengpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

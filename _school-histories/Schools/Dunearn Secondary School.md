@@ -13,25 +13,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunearnsec2.jpg">  
+<p><a href="/images/dunearnsec2.jpg">  
 <img src="/images/dunearnsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunearnsec3.jpg">  
+<p><a href="/images/dunearnsec3.jpg">  
 <img src="/images/dunearnsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunearnsec4.jpg">  
+<p><a href="/images/dunearnsec4.jpg">  
 <img src="/images/dunearnsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunearnsec5.jpg">  
+<p><a href="/images/dunearnsec5.jpg">  
 <img src="/images/dunearnsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunearnsec6.jpg">  
+<p><a href="/images/dunearnsec6.jpg">  
 <img src="/images/dunearnsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

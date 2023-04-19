@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVksSSnki2Sr_AVYf63prIuOwI9NlmOx6X7F3VnJ82AB2W7yEJRkXeXXMYgRCuK41ATtYJIGyMSTWu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri2.jpg">  
+<p><a href="/images/woodlandsringpri2.jpg">  
 <img src="/images/woodlandsringpri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri3.jpg">  
+<p><a href="/images/woodlandsringpri3.jpg">  
 <img src="/images/woodlandsringpri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri4.jpg">  
+<p><a href="/images/woodlandsringpri4.jpg">  
 <img src="/images/woodlandsringpri4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri5.jpg">  
+<p><a href="/images/woodlandsringpri5.jpg">  
 <img src="/images/woodlandsringpri5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri6.jpg">  
+<p><a href="/images/woodlandsringpri6.jpg">  
 <img src="/images/woodlandsringpri6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri7.jpg">  
+<p><a href="/images/woodlandsringpri7.jpg">  
 <img src="/images/woodlandsringpri7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri8.jpg">  
+<p><a href="/images/woodlandsringpri8.jpg">  
 <img src="/images/woodlandsringpri8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringpri9.jpg">  
+<p><a href="/images/woodlandsringpri9.jpg">  
 <img src="/images/woodlandsringpri9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 

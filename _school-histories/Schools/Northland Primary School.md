@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri2.jpg">  
+<p><a href="/images/northlandpri2.jpg">  
 <img src="/images/northlandpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri3.jpg">  
+<p><a href="/images/northlandpri3.jpg">  
 <img src="/images/northlandpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri4.jpg">  
+<p><a href="/images/northlandpri4.jpg">  
 <img src="/images/northlandpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri5.jpg">  
+<p><a href="/images/northlandpri5.jpg">  
 <img src="/images/northlandpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri6.jpg">  
+<p><a href="/images/northlandpri6.jpg">  
 <img src="/images/northlandpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri7.jpg">  
+<p><a href="/images/northlandpri7.jpg">  
 <img src="/images/northlandpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri8.jpg">  
+<p><a href="/images/northlandpri8.jpg">  
 <img src="/images/northlandpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandpri9.jpg">  
+<p><a href="/images/northlandpri9.jpg">  
 <img src="/images/northlandpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

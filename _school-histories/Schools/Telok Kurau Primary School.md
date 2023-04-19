@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRl_cJczAJnFovBnW73apQYwyjt-ysO6B_gzS_BXIGArbwTpy4aAC5FHaR1511R6LTaJS2tFamMa7oB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri2.jpg">  
+<p><a href="/images/telokkuraupri2.jpg">  
 <img align="left" style="width:28%;margin-right:30px;" src="/images/telokkuraupri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri3.jpg">  
+<p><a href="/images/telokkuraupri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri4.jpg">  
+<p><a href="/images/telokkuraupri4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/telokkuraupri4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri5.jpg">  
+<p><a href="/images/telokkuraupri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri6.jpg">  
+<p><a href="/images/telokkuraupri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri7.jpg">  
+<p><a href="/images/telokkuraupri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri8.jpg">  
+<p><a href="/images/telokkuraupri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkuraupri9.jpg">  
+<p><a href="/images/telokkuraupri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri9.jpg">
 </a></p>
 

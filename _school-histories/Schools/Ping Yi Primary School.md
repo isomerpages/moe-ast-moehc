@@ -12,27 +12,27 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyipri2.jpg">  
+<p><a href="/images/pingyipri2.jpg">  
 <img src="/images/pingyipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyipri4.jpg">  
+<p><a href="/images/pingyipri4.jpg">  
 <img src="/images/pingyipri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyipri3.jpg">  
+<p><a href="/images/pingyipri3.jpg">  
 <img src="/images/pingyipri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyipri5.jpg">  
+<p><a href="/images/pingyipri5.jpg">  
 <img src="/images/pingyipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyipri7.jpg">  
+<p><a href="/images/pingyipri7.jpg">  
 <img src="/images/pingyipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyipri8.jpg">  
+<p><a href="/images/pingyipri8.jpg">  
 <img src="/images/pingyipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -48,7 +48,7 @@ In 2001, Ping Yi Primary merged with Fengshan Primary School.
 Last Serving Principal:<br>
 \- Mrs Awtar Singh nee Sukhdev Kaur (1999 - 2000)
 
-**Related School: [Fengshan Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/fengshan-pri/)**
+**Related School: [Fengshan Primary School](/school-histories/fengshan-pri/)**
 
 #### **Key Milestones**
 

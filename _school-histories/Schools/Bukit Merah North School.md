@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahnorthsch2.png">  
+<p><a href="/images/bukitmerahnorthsch2.png">  
 <img src="/images/bukitmerahnorthsch2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahnorthsch3.png">  
+<p><a href="/images/bukitmerahnorthsch3.png">  
 <img src="/images/bukitmerahnorthsch3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahnorthsch4.png">  
+<p><a href="/images/bukitmerahnorthsch4.png">  
 <img src="/images/bukitmerahnorthsch4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahnorthsch5.jpg">  
+<p><a href="/images/bukitmerahnorthsch5.jpg">  
 <img src="/images/bukitmerahnorthsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

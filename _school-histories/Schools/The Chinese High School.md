@@ -13,19 +13,19 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQsn2U9fNaY1Fex3gLuXwhtkd8umXXaSn-0VnYTPqUVzyGcNKZ8mwOyb4iP6xCN1jD-5n7w8nwskhTt/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch2.jpg">  
+<p><a href="/images/thechihighsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/thechihighsch2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch4.jpg">  
+<p><a href="/images/thechihighsch4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/thechihighsch4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch3.jpg">  
+<p><a href="/images/thechihighsch3.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/thechihighsch3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/thechihighsch5.jpg">  
+<p><a href="/images/thechihighsch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/thechihighsch5.jpg">
 </a></p>
 
@@ -61,7 +61,7 @@ Principals:<br>
 \- Mr Steven Koh Yong Chiah 许永正 (1999–2002)<br>
 \- Mr Hon Chiew Weng 潘兆荣 (2003–2004)
 
-**Related Schools: [Hwa Chong Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/) | [Hwa Chong Institution](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-institution/)**
+**Related Schools: [Hwa Chong Junior College](/school-histories/hwa-chong-jc/) | [Hwa Chong Institution](/school-histories/hwa-chong-institution/)**
 
 #### **Key Milestones**
 

@@ -13,25 +13,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingpri2.jpg">  
+<p><a href="/images/juyingpri2.jpg">  
 <img src="/images/juyingpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingpri3.jpg">  
+<p><a href="/images/juyingpri3.jpg">  
 <img src="/images/juyingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingpri4.jpg">  
+<p><a href="/images/juyingpri4.jpg">  
 <img src="/images/juyingpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingpri5.jpg">  
+<p><a href="/images/juyingpri5.jpg">  
 <img src="/images/juyingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingpri6.jpg">  
+<p><a href="/images/juyingpri6.jpg">  
 <img src="/images/juyingpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

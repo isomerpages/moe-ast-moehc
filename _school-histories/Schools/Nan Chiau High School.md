@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch2.jpg">  
+<p><a href="/images/nanchiauhighsch2.jpg">  
 <img src="/images/nanchiauhighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch3.jpg">  
+<p><a href="/images/nanchiauhighsch3.jpg">  
 <img src="/images/nanchiauhighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch4.jpg">  
+<p><a href="/images/nanchiauhighsch4.jpg">  
 <img src="/images/nanchiauhighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch5.jpg">  
+<p><a href="/images/nanchiauhighsch5.jpg">  
 <img src="/images/nanchiauhighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch6.jpg">  
+<p><a href="/images/nanchiauhighsch6.jpg">  
 <img src="/images/nanchiauhighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch7.jpg">  
+<p><a href="/images/nanchiauhighsch7.jpg">  
 <img src="/images/nanchiauhighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch8.jpg">  
+<p><a href="/images/nanchiauhighsch8.jpg">  
 <img src="/images/nanchiauhighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanchiauhighsch9.jpg">  
+<p><a href="/images/nanchiauhighsch9.jpg">  
 <img src="/images/nanchiauhighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

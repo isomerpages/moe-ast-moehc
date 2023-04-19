@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec2.jpg">  
+<p><a href="/images/chongboonsec2.jpg">  
 <img src="/images/chongboonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec3.jpg">  
+<p><a href="/images/chongboonsec3.jpg">  
 <img src="/images/chongboonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec4.jpg">  
+<p><a href="/images/chongboonsec4.jpg">  
 <img src="/images/chongboonsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec5.jpg">  
+<p><a href="/images/chongboonsec5.jpg">  
 <img src="/images/chongboonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec6.jpg">  
+<p><a href="/images/chongboonsec6.jpg">  
 <img src="/images/chongboonsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec7.jpg">  
+<p><a href="/images/chongboonsec7.jpg">  
 <img src="/images/chongboonsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec8.jpg">  
+<p><a href="/images/chongboonsec8.jpg">  
 <img src="/images/chongboonsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongboonsec9.jpeg">  
+<p><a href="/images/chongboonsec9.jpeg">  
 <img src="/images/chongboonsec9.jpeg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -71,7 +71,7 @@ Principals:<br>
 \- Mrs Sarapathy Menon (2004–2010)<br>
 \- Mr Yeo Kuerk Heng (2011–2017)
 
-**Related School: [Yio Chu Kang Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/)**
+**Related School: [Yio Chu Kang Secondary School](/school-histories/yck-sec/)**
 
 #### **Key Milestones**
 

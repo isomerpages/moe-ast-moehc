@@ -14,49 +14,49 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdFRE7uv3UaaOauVg7ldr771GNHuWoe6rY22ikfPFYdivN2hmp4Drwvn1l0tztka4MH4mkiIUsH9-x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri2.jpg">  
+<p><a href="/images/tampinesnorthpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri3.jpg">  
+<p><a href="/images/tampinesnorthpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri4.jpg">  
+<p><a href="/images/tampinesnorthpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri5.jpg">  
+<p><a href="/images/tampinesnorthpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri6.jpg">  
+<p><a href="/images/tampinesnorthpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri7.jpg">  
+<p><a href="/images/tampinesnorthpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri8.jpg">  
+<p><a href="/images/tampinesnorthpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri9.jpg">  
+<p><a href="/images/tampinesnorthpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri9.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri10.jpg">  
+<p><a href="/images/tampinesnorthpri10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri10.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri11.jpg">  
+<p><a href="/images/tampinesnorthpri11.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri11.jpg">
 </a></p>
 

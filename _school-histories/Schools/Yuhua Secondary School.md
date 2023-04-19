@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTO71FdL48r6_gltxXrKPLcOgNvHFbWBtPwo8lH4W-iIbQTuhQEKIR8nFbRk2zNUzSitXV0iWWmZKqK/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec2.jpg">  
+<p><a href="/images/yuhuasec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec3.jpg">  
+<p><a href="/images/yuhuasec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec4.jpg">  
+<p><a href="/images/yuhuasec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec5.jpg">  
+<p><a href="/images/yuhuasec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec6.jpg">  
+<p><a href="/images/yuhuasec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec7.jpg">  
+<p><a href="/images/yuhuasec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec8.jpg">  
+<p><a href="/images/yuhuasec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuhuasec9.jpg">  
+<p><a href="/images/yuhuasec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec9.jpg">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mr Yap Wai Meng (Dec 2018–Dec 2019)<br>
 \- Mr Pang Chin Keat Kevin (Dec 2019–present)
 
-**Related School: [Shuqun Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-sec/)**
+**Related School: [Shuqun Secondary School](/school-histories/shuqun-sec/)**
 
 #### **Key Milestones**
 

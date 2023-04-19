@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri2.jpg">  
+<p><a href="/images/hongkahpri2.jpg">  
 <img src="/images/hongkahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri3.jpg">  
+<p><a href="/images/hongkahpri3.jpg">  
 <img src="/images/hongkahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri4.jpg">  
+<p><a href="/images/hongkahpri4.jpg">  
 <img src="/images/hongkahpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri5.jpg">  
+<p><a href="/images/hongkahpri5.jpg">  
 <img src="/images/hongkahpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri6.jpg">  
+<p><a href="/images/hongkahpri6.jpg">  
 <img src="/images/hongkahpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri7.jpg">  
+<p><a href="/images/hongkahpri7.jpg">  
 <img src="/images/hongkahpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri8.jpg">  
+<p><a href="/images/hongkahpri8.jpg">  
 <img src="/images/hongkahpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hongkahpri9.jpg">  
+<p><a href="/images/hongkahpri9.jpg">  
 <img src="/images/hongkahpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -64,7 +64,7 @@ Principals:<br>
 \- Ms Shanti d/o Govindan (1999–2006)<br>
 \- Mdm Lee Lay Keok (2007–2014)
 
-**Related School: [Lianhua Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/)**
+**Related School: [Lianhua Primary School](/school-histories/lianhua-pri/)**
 
 #### **Key Milestones**
 

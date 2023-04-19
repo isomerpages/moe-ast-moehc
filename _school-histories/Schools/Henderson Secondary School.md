@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec2.jpg">  
+<p><a href="/images/hendersonsec2.jpg">  
 <img src="/images/hendersonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec3.jpg">  
+<p><a href="/images/hendersonsec3.jpg">  
 <img src="/images/hendersonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec5.jpg">  
+<p><a href="/images/hendersonsec5.jpg">  
 <img src="/images/hendersonsec5.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec4.jpg">  
+<p><a href="/images/hendersonsec4.jpg">  
 <img src="/images/hendersonsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec8.jpg">  
+<p><a href="/images/hendersonsec8.jpg">  
 <img src="/images/hendersonsec8.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec6.jpg">  
+<p><a href="/images/hendersonsec6.jpg">  
 <img src="/images/hendersonsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec7.jpg">  
+<p><a href="/images/hendersonsec7.jpg">  
 <img src="/images/hendersonsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonsec9.jpg">  
+<p><a href="/images/hendersonsec9.jpg">  
 <img src="/images/hendersonsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -66,7 +66,7 @@ Principals:<br>
 \- Mrs Yeo Chin Nam (2000–2008)<br>
 \- Mr Simen Lourds (2009–2016) 
 
-**Related School: [Bukit Merah Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/)**
+**Related School: [Bukit Merah Secondary School](/school-histories/bukit-merah-sec/)**
 
 #### **Key Milestones**
 

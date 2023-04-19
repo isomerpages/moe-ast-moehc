@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBtANtLFBfttqdDLfQyh9qZ9KoyO-5yHgsF-bLhnyX3n-vgPXygHHbzFZyE2Snsbkhdgi4UpioJRPP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr2.jpg">  
+<p><a href="/images/stjosephinstitutionjr2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr3.jpg">  
+<p><a href="/images/stjosephinstitutionjr3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr4.jpg">  
+<p><a href="/images/stjosephinstitutionjr4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr5.jpg">  
+<p><a href="/images/stjosephinstitutionjr5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr6.jpg">  
+<p><a href="/images/stjosephinstitutionjr6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr7.jpg">  
+<p><a href="/images/stjosephinstitutionjr7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr8.jpg">  
+<p><a href="/images/stjosephinstitutionjr8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitutionjr9.jpg">  
+<p><a href="/images/stjosephinstitutionjr9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitutionjr9.jpg">
 </a></p>
 

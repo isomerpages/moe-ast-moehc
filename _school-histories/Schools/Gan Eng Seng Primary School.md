@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps2.jpg">  
+<p><a href="/images/gesps2.jpg">  
 <img src="/images/gesps2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps3.jpg">  
+<p><a href="/images/gesps3.jpg">  
 <img src="/images/gesps3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps4.jpg">  
+<p><a href="/images/gesps4.jpg">  
 <img src="/images/gesps4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps5.jpg">  
+<p><a href="/images/gesps5.jpg">  
 <img src="/images/gesps5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps6.jpg">  
+<p><a href="/images/gesps6.jpg">  
 <img src="/images/gesps6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps7.jpg">  
+<p><a href="/images/gesps7.jpg">  
 <img src="/images/gesps7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps8.jpg">  
+<p><a href="/images/gesps8.jpg">  
 <img src="/images/gesps8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps9.jpg">  
+<p><a href="/images/gesps9.jpg">  
 <img src="/images/gesps9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gesps10.jpg">  
+<p><a href="/images/gesps10.jpg">  
 <img src="/images/gesps10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -72,7 +72,7 @@ Principals:<br>
 \- Mr Ong Lye Whatt (2013–2019)<br>
 \- Mr Roy Lee Wei Yap (2019–present)
 
-**Related Schools: [Alexandra Hill Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) \| [Bukit Ho Swee Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) \| [Henderson Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) \| [Keng Seng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)**
+**Related Schools: [Alexandra Hill Primary School](/school-histories/alexandra-hill-pri/) \| [Bukit Ho Swee Primary School](/school-histories/bukit-ho-swee-pri/) \| [Henderson Primary School](/school-histories/henderson-pri/) \| [Keng Seng Primary School](/school-histories/keng-seng-pri/)**
 
 #### **Key Milestones**
 

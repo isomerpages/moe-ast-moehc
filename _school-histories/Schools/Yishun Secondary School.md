@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3oMLw0zQKXQH1Em7kFLftQ9aol_TKVtVOBEtakQPRIgw0XUZuEwdLOkmSL_j0VKoGUu6OP1niBZPo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec2.jpg">  
+<p><a href="/images/yishunsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec3.jpg">  
+<p><a href="/images/yishunsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec4.jpg">  
+<p><a href="/images/yishunsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec5.jpg">  
+<p><a href="/images/yishunsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec6.jpg">  
+<p><a href="/images/yishunsec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec7.jpg">  
+<p><a href="/images/yishunsec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec8.jpg">  
+<p><a href="/images/yishunsec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yishunsec9.jpg">  
+<p><a href="/images/yishunsec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yishunsec9.jpg">
 </a></p>
 

@@ -13,33 +13,33 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri2.jpg">  
+<p><a href="/images/gongshangpri2.jpg">  
 <img src="/images/gongshangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri4.jpg">  
+<p><a href="/images/gongshangpri4.jpg">  
 <img src="/images/gongshangpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri3.jpg">  
+<p><a href="/images/gongshangpri3.jpg">  
 <img src="/images/gongshangpri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri5.jpg">  
+<p><a href="/images/gongshangpri5.jpg">  
 <img src="/images/gongshangpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri6.jpg">  
+<p><a href="/images/gongshangpri6.jpg">  
 <img src="/images/gongshangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri7.jpg">  
+<p><a href="/images/gongshangpri7.jpg">  
 <img src="/images/gongshangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/gongshangpri8.jpg">  
+<p><a href="/images/gongshangpri8.jpg">  
 <img src="/images/gongshangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

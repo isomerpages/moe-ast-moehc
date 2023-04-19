@@ -13,23 +13,23 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peircesec2.jpg">  
+<p><a href="/images/peircesec2.jpg">  
 <img src="/images/peircesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peircesec3.jpg">  
+<p><a href="/images/peircesec3.jpg">  
 <img src="/images/peircesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peircesec4.jpg">  
+<p><a href="/images/peircesec4.jpg">  
 <img src="/images/peircesec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peircesec5.jpg">  
+<p><a href="/images/peircesec5.jpg">  
 <img src="/images/peircesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peircesec6.jpg">  
+<p><a href="/images/peircesec6.jpg">  
 <img src="/images/peircesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -49,7 +49,7 @@ Principals:<br>
 \- Mdm Lee Eet Fong (2011–2017)<br>
 \- Mdm Chang Betty (2017–present)
 
-**Related School: [Bishan Park Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bishan-park-sec/)**
+**Related School: [Bishan Park Secondary School](/school-histories/bishan-park-sec/)**
 
 #### **Key Milestones**
 

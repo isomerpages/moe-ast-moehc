@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYC-uLCc6BkGCVz14opuhHk5JEP9_ypMTLtmtG3LRTCwQEMTFWhDMxHG9TGzFIV4fwr4Jxkv4nXfso/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/angsanapri2.jpg">  
+<p><a href="/images/angsanapri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/angsanapri3.jpg">  
+<p><a href="/images/angsanapri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/angsanapri4.jpg">  
+<p><a href="/images/angsanapri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/angsanapri5.jpg">  
+<p><a href="/images/angsanapri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/angsanapri6.jpg">  
+<p><a href="/images/angsanapri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/angsanapri7.jpg">  
+<p><a href="/images/angsanapri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri7.jpg">
 </a></p>
 
@@ -52,7 +52,7 @@ Originally named Towner Road School because of its location, Griffiths School wa
 Principal:<br>
 * Ms Foong Yin Wei (2015–present)
 
-**Related Schools:** **[Griffiths Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/)** \| **[Qiaonan Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/)**
+**Related Schools:** **[Griffiths Primary School](/school-histories/griffiths-pri/)** \| **[Qiaonan Primary School](/school-histories/qiaonan-pri/)**
 
 
 #### **Key Milestones**

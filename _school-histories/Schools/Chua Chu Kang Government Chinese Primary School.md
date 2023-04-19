@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri2.jpg">  
+<p><a href="/images/cckgovtchipri2.jpg">  
 <img src="/images/cckgovtchipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri3.jpg">  
+<p><a href="/images/cckgovtchipri3.jpg">  
 <img src="/images/cckgovtchipri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri4.jpg">  
+<p><a href="/images/cckgovtchipri4.jpg">  
 <img src="/images/cckgovtchipri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri5.jpg">  
+<p><a href="/images/cckgovtchipri5.jpg">  
 <img src="/images/cckgovtchipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri6.jpg">  
+<p><a href="/images/cckgovtchipri6.jpg">  
 <img src="/images/cckgovtchipri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri7.jpg">  
+<p><a href="/images/cckgovtchipri7.jpg">  
 <img src="/images/cckgovtchipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cckgovtchipri8.jpg">  
+<p><a href="/images/cckgovtchipri8.jpg">  
 <img src="/images/cckgovtchipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

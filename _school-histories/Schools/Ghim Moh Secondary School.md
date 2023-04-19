@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohsec2.jpg">  
+<p><a href="/images/ghimmohsec2.jpg">  
 <img src="/images/ghimmohsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohsec3.jpg">  
+<p><a href="/images/ghimmohsec3.jpg">  
 <img src="/images/ghimmohsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohsec4.jpg">  
+<p><a href="/images/ghimmohsec4.jpg">  
 <img src="/images/ghimmohsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohsec5.jpg">  
+<p><a href="/images/ghimmohsec5.jpg">  
 <img src="/images/ghimmohsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohsec6.jpg">  
+<p><a href="/images/ghimmohsec6.jpg">  
 <img src="/images/ghimmohsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -46,7 +46,7 @@ In January 2007, Ghim Moh Secondary School merged with Jin Tai Secondary School 
 Last Serving Principal:
 \- Mr Kwok Kah Kuoy (1999 - 2005)
 
-**Related Schools: [Jin Tai Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) \| [Clementi Woods Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/)**
+**Related Schools: [Jin Tai Secondary School](/school-histories/jin-tai-sec/) \| [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/)**
 
 #### **Key Milestones**
 

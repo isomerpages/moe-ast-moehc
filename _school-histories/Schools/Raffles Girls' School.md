@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch2.jpg">  
+<p><a href="/images/rafflesgirlssch2.jpg">  
 <img src="/images/rafflesgirlssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch3.jpg">  
+<p><a href="/images/rafflesgirlssch3.jpg">  
 <img src="/images/rafflesgirlssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch4.jpg">  
+<p><a href="/images/rafflesgirlssch4.jpg">  
 <img src="/images/rafflesgirlssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch5.jpg">  
+<p><a href="/images/rafflesgirlssch5.jpg">  
 <img src="/images/rafflesgirlssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch6.jpg">  
+<p><a href="/images/rafflesgirlssch6.jpg">  
 <img src="/images/rafflesgirlssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch7.jpg">  
+<p><a href="/images/rafflesgirlssch7.jpg">  
 <img src="/images/rafflesgirlssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch8.jpg">  
+<p><a href="/images/rafflesgirlssch8.jpg">  
 <img src="/images/rafflesgirlssch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlssch9.jpg">  
+<p><a href="/images/rafflesgirlssch9.jpg">  
 <img src="/images/rafflesgirlssch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

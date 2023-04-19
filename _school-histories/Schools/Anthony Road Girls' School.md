@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPOhTMV_wWdy2Lzse95eW1iq_dtv6BgtD_YTT4ReB0A6ypZJGmic4YZr5VtvAo9DUxxHX-zUFRXSxA/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/anthonyroadgirlssch2.jpg">  
+<p><a href="/images/anthonyroadgirlssch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anthonyroadgirlssch2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/anthonyroadgirlssch3.jpg">  
+<p><a href="/images/anthonyroadgirlssch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anthonyroadgirlssch3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/anthonyroadgirlssch4.jpg">  
+<p><a href="/images/anthonyroadgirlssch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anthonyroadgirlssch4.jpg">
 </a></p>
 

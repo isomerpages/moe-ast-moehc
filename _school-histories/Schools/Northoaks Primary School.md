@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri2.jpg">  
+<p><a href="/images/northoakspri2.jpg">  
 <img src="/images/northoakspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri3.jpg">  
+<p><a href="/images/northoakspri3.jpg">  
 <img src="/images/northoakspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri4.jpg">  
+<p><a href="/images/northoakspri4.jpg">  
 <img src="/images/northoakspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri5.jpg">  
+<p><a href="/images/northoakspri5.jpg">  
 <img src="/images/northoakspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri6.jpg">  
+<p><a href="/images/northoakspri6.jpg">  
 <img src="/images/northoakspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri7.jpg">  
+<p><a href="/images/northoakspri7.jpg">  
 <img src="/images/northoakspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri8.jpg">  
+<p><a href="/images/northoakspri8.jpg">  
 <img src="/images/northoakspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northoakspri9.jpg">  
+<p><a href="/images/northoakspri9.jpg">  
 <img src="/images/northoakspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

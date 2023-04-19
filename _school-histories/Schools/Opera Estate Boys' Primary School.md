@@ -13,15 +13,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/operaestateboys2.jpg">  
+<p><a href="/images/operaestateboys2.jpg">  
 <img src="/images/operaestateboys2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/operaestateboys3.jpg">  
+<p><a href="/images/operaestateboys3.jpg">  
 <img src="/images/operaestateboys3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/operaestateboys4.jpg">  
+<p><a href="/images/operaestateboys4.jpg">  
 <img src="/images/operaestateboys4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

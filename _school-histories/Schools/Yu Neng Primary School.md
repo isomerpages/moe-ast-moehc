@@ -15,37 +15,37 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNeenHsN1YO6GuRliuFlLEkzJkXyMVHymlLGMFVosLR5btv2mOs7JuQTolQMkTuJQx_5qHdmTK6vqC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri2.jpg">  
+<p><a href="/images/yunengpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri3.jpg">  
+<p><a href="/images/yunengpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri4.jpg">  
+<p><a href="/images/yunengpri4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/yunengpri4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri6.jpg">  
+<p><a href="/images/yunengpri6.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/yunengpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri5.jpg">  
+<p><a href="/images/yunengpri5.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/yunengpri5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri7.jpg">  
+<p><a href="/images/yunengpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri8.jpg">  
+<p><a href="/images/yunengpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yunengpri9.jpg">  
+<p><a href="/images/yunengpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunengpri9.jpg">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mdm Tan Lee Ching, Elis (2009–2013)<br>
 \- Mrs Clara Lim-Tan (2014–present)
 
-**Related School: [Min Xin Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/min-xin-pri/)**
+**Related School: [Min Xin Primary School](/school-histories/min-xin-pri/)**
 
 #### **Key Milestones**
 

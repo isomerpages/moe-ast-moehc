@@ -13,23 +13,23 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peckseahpri2.jpg">  
+<p><a href="/images/peckseahpri2.jpg">  
 <img src="/images/peckseahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peckseahpri3.jpg">  
+<p><a href="/images/peckseahpri3.jpg">  
 <img src="/images/peckseahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peckseahpri4.jpg">  
+<p><a href="/images/peckseahpri4.jpg">  
 <img src="/images/peckseahpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peckseahpri5.jpg">  
+<p><a href="/images/peckseahpri5.jpg">  
 <img src="/images/peckseahpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peckseahpri6.jpg">  
+<p><a href="/images/peckseahpri6.jpg">  
 <img src="/images/peckseahpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec2.jpg">  
+<p><a href="/images/guangyangsec2.jpg">  
 <img src="/images/guangyangsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec3.jpg">  
+<p><a href="/images/guangyangsec3.jpg">  
 <img src="/images/guangyangsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec4.jpg">  
+<p><a href="/images/guangyangsec4.jpg">  
 <img src="/images/guangyangsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec6.jpg">  
+<p><a href="/images/guangyangsec6.jpg">  
 <img src="/images/guangyangsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec7.jpg">  
+<p><a href="/images/guangyangsec7.jpg">  
 <img src="/images/guangyangsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec8.jpg">  
+<p><a href="/images/guangyangsec8.jpg">  
 <img src="/images/guangyangsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec9.jpg">  
+<p><a href="/images/guangyangsec9.jpg">  
 <img src="/images/guangyangsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guangyangsec10.jpg">  
+<p><a href="/images/guangyangsec10.jpg">  
 <img src="/images/guangyangsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

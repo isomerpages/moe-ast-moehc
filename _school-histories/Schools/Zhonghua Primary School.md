@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe4gccTETeuZQAOHXI93rsaxzAzGG7J1Axz9-TuBWpV_kn4LS3xIwz8hmgTyFByWFScAoD_CFwRCgz/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri2.jpg">  
+<p><a href="/images/zhonghuapri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri3.jpg">  
+<p><a href="/images/zhonghuapri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri4.jpg">  
+<p><a href="/images/zhonghuapri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri5.jpg">  
+<p><a href="/images/zhonghuapri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri6.jpg">  
+<p><a href="/images/zhonghuapri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri7.jpg">  
+<p><a href="/images/zhonghuapri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri8.jpg">  
+<p><a href="/images/zhonghuapri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuapri9.jpg">  
+<p><a href="/images/zhonghuapri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri9.jpg">
 </a></p>
 
@@ -68,7 +68,7 @@ Principals:<br>
 \- Mr Bucktha Seelan (2007–2014)<br>
 \- Mdm Rostinah Mohamad Said (2014–present)
 
-**Related School: [Serangoon Garden South School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-south-sch/)**
+**Related School: [Serangoon Garden South School](/school-histories/serangoon-garden-south-sch/)**
 
 #### **Key Milestones**
 

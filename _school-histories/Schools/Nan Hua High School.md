@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch2.jpg">  
+<p><a href="/images/nanhuahighsch2.jpg">  
 <img src="/images/nanhuahighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch3.jpg">  
+<p><a href="/images/nanhuahighsch3.jpg">  
 <img src="/images/nanhuahighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch4.jpg">  
+<p><a href="/images/nanhuahighsch4.jpg">  
 <img src="/images/nanhuahighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch5.jpg">  
+<p><a href="/images/nanhuahighsch5.jpg">  
 <img src="/images/nanhuahighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch6.jpg">  
+<p><a href="/images/nanhuahighsch6.jpg">  
 <img src="/images/nanhuahighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch7.jpg">  
+<p><a href="/images/nanhuahighsch7.jpg">  
 <img src="/images/nanhuahighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch8.jpg">  
+<p><a href="/images/nanhuahighsch8.jpg">  
 <img src="/images/nanhuahighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/nanhuahighsch9.jpg">  
+<p><a href="/images/nanhuahighsch9.jpg">  
 <img src="/images/nanhuahighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,15 +13,15 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRy_3JNa9hf_gHlOgW55MnknQX_M4cG_1fmJ51nzyxEDaz4AMtPqXtDkMrZLbdIliXKX7F01e3ErCN5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tohtucksec2.jpg">  
+<p><a href="/images/tohtucksec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tohtucksec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tohtucksec3.jpg">  
+<p><a href="/images/tohtucksec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tohtucksec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tohtucksec4.jpg">  
+<p><a href="/images/tohtucksec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tohtucksec4.jpg">
 </a></p>
 

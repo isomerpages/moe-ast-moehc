@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec2.jpg">  
+<p><a href="/images/mayflowersec2.jpg">  
 <img src="/images/mayflowersec2.jpg" style="width:25%;margin-left:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec3.jpg">  
+<p><a href="/images/mayflowersec3.jpg">  
 <img src="/images/mayflowersec3.jpg" style="width:30%;margin-left:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec4.jpg">  
+<p><a href="/images/mayflowersec4.jpg">  
 <img src="/images/mayflowersec4.jpg" style="width:30%;margin-left:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec5.jpg">  
+<p><a href="/images/mayflowersec5.jpg">  
 <img src="/images/mayflowersec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec6.jpg">  
+<p><a href="/images/mayflowersec6.jpg">  
 <img src="/images/mayflowersec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec7.jpg">  
+<p><a href="/images/mayflowersec7.jpg">  
 <img src="/images/mayflowersec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mayflowersec8.jpg">  
+<p><a href="/images/mayflowersec8.jpg">  
 <img src="/images/mayflowersec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

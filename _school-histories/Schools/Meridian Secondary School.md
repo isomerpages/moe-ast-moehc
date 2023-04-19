@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec2.jpg">  
+<p><a href="/images/meridiansec2.jpg">  
 <img src="/images/meridiansec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec3.jpg">  
+<p><a href="/images/meridiansec3.jpg">  
 <img src="/images/meridiansec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec4.jpg">  
+<p><a href="/images/meridiansec4.jpg">  
 <img src="/images/meridiansec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec5.jpg">  
+<p><a href="/images/meridiansec5.jpg">  
 <img src="/images/meridiansec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec6.jpg">  
+<p><a href="/images/meridiansec6.jpg">  
 <img src="/images/meridiansec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec7.jpg">  
+<p><a href="/images/meridiansec7.jpg">  
 <img src="/images/meridiansec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec8.jpg">  
+<p><a href="/images/meridiansec8.jpg">  
 <img src="/images/meridiansec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridiansec9.jpg">  
+<p><a href="/images/meridiansec9.jpg">  
 <img src="/images/meridiansec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -63,7 +63,7 @@ In 2018, the school celebrated its first anniversary as one big Meridian family.
 Principal:<br>
 \- Mrs Hilda Thong (2017–present)
 
-**Related Schools: [Coral Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-sec/) | [Siglap Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-sec/)**
+**Related Schools: [Coral Secondary School](/school-histories/coral-sec/) | [Siglap Secondary School](/school-histories/siglap-sec/)**
 
 #### **Key Milestones**
 

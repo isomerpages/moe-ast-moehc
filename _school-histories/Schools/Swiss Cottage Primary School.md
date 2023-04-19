@@ -13,23 +13,23 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8YR7p-pRRFsG0Novk_E5y_37CpgaGC_Rlmt7hp-XY8Dh9hYMiytK0bglQ2CqmYWX53QDXbrrHtLqT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri2.png">  
+<p><a href="/images/swisscottagepri2.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri2.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri3.png">  
+<p><a href="/images/swisscottagepri3.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri3.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri4.png">  
+<p><a href="/images/swisscottagepri4.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri4.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri5.png">  
+<p><a href="/images/swisscottagepri5.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri5.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/swisscottagepri6.png">  
+<p><a href="/images/swisscottagepri6.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagepri6.png">
 </a></p>
 
@@ -47,7 +47,7 @@ In January 2002, Swiss Cottage Primary merged with Moulmein Primary to become Ba
 Last Serving Principal:<br>
 \- Mr Idris Bin Shaikh Abdul Aziz Mattar (Mr Idris Mattar) (1999 - 2001)
 
-**Related Schools: [Moulmein Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/moulmein-pri/) | [Balestier Hill Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/)**
+**Related Schools: [Moulmein Primary School](/school-histories/moulmein-pri/) | [Balestier Hill Primary School](/school-histories/balestier-hill-pri/)**
 
 #### **Key Milestones**
 

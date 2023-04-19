@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sanshanpri2.jpg">  
+<p><a href="/images/sanshanpri2.jpg">  
 <img src="/images/sanshanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sanshanpri3.jpg">  
+<p><a href="/images/sanshanpri3.jpg">  
 <img src="/images/sanshanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -29,7 +29,7 @@ In 1982, San Shan School relocated to new premises in Toa Payoh North Road as Sa
 
 In 2002, San Shan Primary School merged with Braddell Primary School and Westlake Primary School to become First Toa Payoh Primary School.
 
-**Related Schools: [Braddell Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/braddell-pri/) | [Westlake Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/) | [First Toa Payoh Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/)**
+**Related Schools: [Braddell Primary School](/school-histories/braddell-pri/) | [Westlake Primary School](/school-histories/westlake-pri/) | [First Toa Payoh Primary School](/school-histories/first-tpy-pri/)**
 
 #### **Key Milestones**
 

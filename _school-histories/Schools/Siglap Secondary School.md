@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec2.jpg">  
+<p><a href="/images/siglapsec2.jpg">  
 <img src="/images/siglapsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec3.jpg">  
+<p><a href="/images/siglapsec3.jpg">  
 <img src="/images/siglapsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec4.jpg">  
+<p><a href="/images/siglapsec4.jpg">  
 <img src="/images/siglapsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec5.jpg">  
+<p><a href="/images/siglapsec5.jpg">  
 <img src="/images/siglapsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec6.jpg">  
+<p><a href="/images/siglapsec6.jpg">  
 <img src="/images/siglapsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec7.jpg">  
+<p><a href="/images/siglapsec7.jpg">  
 <img src="/images/siglapsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec8.jpg">  
+<p><a href="/images/siglapsec8.jpg">  
 <img src="/images/siglapsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/siglapsec9.jpg">  
+<p><a href="/images/siglapsec9.jpg">  
 <img src="/images/siglapsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -71,7 +71,7 @@ Principals:<br>
 \- Mr Ng Chee Kheong (2004–2009)<br>
 \- Mr Low Joo Hong (2009–2016)
 
-**Related Schools: [Coral Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-sec/) | [Meridian Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-sec/)**
+**Related Schools: [Coral Secondary School](/school-histories/coral-sec/) | [Meridian Secondary School](/school-histories/meridian-sec/)**
 
 #### **Key Milestones**
 

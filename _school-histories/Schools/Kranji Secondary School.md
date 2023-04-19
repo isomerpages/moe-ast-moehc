@@ -13,40 +13,40 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec2.jpg">  
+<p><a href="/images/kranjisec2.jpg">  
 <img src="/images/kranjisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec3.jpg">  
+<p><a href="/images/kranjisec3.jpg">  
 <img src="/images/kranjisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec4.jpg">  
+<p><a href="/images/kranjisec4.jpg">  
 <img src="/images/kranjisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec5.jpg">  
+<p><a href="/images/kranjisec5.jpg">  
 <img src="/images/kranjisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec6.jpg">  
+<p><a href="/images/kranjisec6.jpg">  
 <img src="/images/kranjisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec7.jpg">  
+<p><a href="/images/kranjisec7.jpg">  
 <img src="/images/kranjisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec8.jpg">  
+<p><a href="/images/kranjisec8.jpg">  
 <img src="/images/kranjisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kranjisec9.jpg">  
+<p><a href="/images/kranjisec9.jpg">  
 <img src="/images/kranjisec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIakW8RD8EnZGZb38DoICENj2HkSIfSZdar3Fq3CnnQfcqV3Ex5kf41rTaETOKbo8lgb5ju3O20fow/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec2.jpg">  
+<p><a href="/images/bedokgreensec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec3.jpg">  
+<p><a href="/images/bedokgreensec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec4.jpg">  
+<p><a href="/images/bedokgreensec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec5.jpg">  
+<p><a href="/images/bedokgreensec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec6.jpg">  
+<p><a href="/images/bedokgreensec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec7.jpg">  
+<p><a href="/images/bedokgreensec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec8.jpg">  
+<p><a href="/images/bedokgreensec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgreensec9.jpg">  
+<p><a href="/images/bedokgreensec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec9.jpg">
 </a></p>
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri2.jpg">  
+<p><a href="/images/hougangpri2.jpg">  
 <img src="/images/hougangpri2.jpg" style="width:25%;margin-left:25px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri3.jpg">  
+<p><a href="/images/hougangpri3.jpg">  
 <img src="/images/hougangpri3.jpg" style="width:30%;margin-left:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri4.jpg">  
+<p><a href="/images/hougangpri4.jpg">  
 <img src="/images/hougangpri4.jpg" style="width:30%;margin-left:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri5.jpg">  
+<p><a href="/images/hougangpri5.jpg">  
 <img src="/images/hougangpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri6.jpg">  
+<p><a href="/images/hougangpri6.jpg">  
 <img src="/images/hougangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri7.jpg">  
+<p><a href="/images/hougangpri7.jpg">  
 <img src="/images/hougangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri8.jpg">  
+<p><a href="/images/hougangpri8.jpg">  
 <img src="/images/hougangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hougangpri9.jpg">  
+<p><a href="/images/hougangpri9.jpg">  
 <img src="/images/hougangpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

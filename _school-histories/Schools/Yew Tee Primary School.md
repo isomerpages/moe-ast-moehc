@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsRStewk6Yy-ByuVeWo4p9gwV1scUcVgxZPvCwFDifemIcyFK_98_7JtAGnFKVdot1TMAw53pTp7md/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri2.jpg">  
+<p><a href="/images/yewteepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri3.jpg">  
+<p><a href="/images/yewteepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri4.jpg">  
+<p><a href="/images/yewteepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri5.jpg">  
+<p><a href="/images/yewteepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri6.jpg">  
+<p><a href="/images/yewteepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri7.png">  
+<p><a href="/images/yewteepri7.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri7.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri8.jpg">  
+<p><a href="/images/yewteepri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri8.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yewteepri9.jpg">  
+<p><a href="/images/yewteepri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yewteepri9.jpg">
 </a></p>
 

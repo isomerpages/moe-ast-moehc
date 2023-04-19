@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch2.jpg">  
+<p><a href="/images/marrisstellahighsch2.jpg">  
 <img src="/images/marrisstellahighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch4.jpg">  
+<p><a href="/images/marrisstellahighsch4.jpg">  
 <img src="/images/marrisstellahighsch4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch3.jpg">  
+<p><a href="/images/marrisstellahighsch3.jpg">  
 <img src="/images/marrisstellahighsch3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch5.jpg">  
+<p><a href="/images/marrisstellahighsch5.jpg">  
 <img src="/images/marrisstellahighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch6.jpg">  
+<p><a href="/images/marrisstellahighsch6.jpg">  
 <img src="/images/marrisstellahighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch8.jpg">  
+<p><a href="/images/marrisstellahighsch8.jpg">  
 <img src="/images/marrisstellahighsch8.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch7.jpg">  
+<p><a href="/images/marrisstellahighsch7.jpg">  
 <img src="/images/marrisstellahighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marrisstellahighsch9.jpg">  
+<p><a href="/images/marrisstellahighsch9.jpg">  
 <img src="/images/marrisstellahighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

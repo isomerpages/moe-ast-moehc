@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec2.jpg">  
+<p><a href="/images/christchurchsec2.jpg">  
 <img src="/images/christchurchsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec3.jpg">  
+<p><a href="/images/christchurchsec3.jpg">  
 <img src="/images/christchurchsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec4.jpg">  
+<p><a href="/images/christchurchsec4.jpg">  
 <img src="/images/christchurchsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec5.jpg">  
+<p><a href="/images/christchurchsec5.jpg">  
 <img src="/images/christchurchsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec6.jpg">  
+<p><a href="/images/christchurchsec6.jpg">  
 <img src="/images/christchurchsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec7.jpg">  
+<p><a href="/images/christchurchsec7.jpg">  
 <img src="/images/christchurchsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec8.jpg">  
+<p><a href="/images/christchurchsec8.jpg">  
 <img src="/images/christchurchsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/christchurchsec9.jpg">  
+<p><a href="/images/christchurchsec9.jpg">  
 <img src="/images/christchurchsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

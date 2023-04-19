@@ -13,27 +13,27 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mattareastsch2.jpg">  
+<p><a href="/images/mattareastsch2.jpg">  
 <img src="/images/mattareastsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mattareastsch3.jpg">  
+<p><a href="/images/mattareastsch3.jpg">  
 <img src="/images/mattareastsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mattareastsch4.jpg">  
+<p><a href="/images/mattareastsch4.jpg">  
 <img src="/images/mattareastsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mattareastsch5.jpg">  
+<p><a href="/images/mattareastsch5.jpg">  
 <img src="/images/mattareastsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mattareastsch6.jpg">  
+<p><a href="/images/mattareastsch6.jpg">  
 <img src="/images/mattareastsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mattareastsch7.jpg">  
+<p><a href="/images/mattareastsch7.jpg">  
 <img src="/images/mattareastsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

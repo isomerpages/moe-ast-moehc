@@ -15,37 +15,37 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRb-usehHo5Os85DfKQTvI_TzS7x179w2NRlhUCDBIckwCLSwvvUFpbVnr--BDBnKoGJkSUOw6HPEUD/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri2.jpg">  
+<p><a href="/images/yckpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri3.jpg">  
+<p><a href="/images/yckpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri4.jpg">  
+<p><a href="/images/yckpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri5.jpg">  
+<p><a href="/images/yckpri5.jpg">  
 <img align="left" style="width:29%;margin-right:15px;" src="/images/yckpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri6.jpg">  
+<p><a href="/images/yckpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri7.jpg">  
+<p><a href="/images/yckpri7.jpg">  
 <img align="right" style="width:30%;margin-right:35px;" src="/images/yckpri7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri8.jpg">  
+<p><a href="/images/yckpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yckpri9.jpg">  
+<p><a href="/images/yckpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri9.jpg">
 </a></p>
 

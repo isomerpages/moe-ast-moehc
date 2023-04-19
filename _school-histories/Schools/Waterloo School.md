@@ -14,7 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_6URcgZjih66Xr1xEmBNek2o_IL-QqkI63AIPhTV7g8MBgKA0CpnBv0tUxxeI3rS3HRsrrCkfF8AO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterloosch2.jpg">  
+<p><a href="/images/waterloosch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterloosch2.jpg">
 </a></p>
 

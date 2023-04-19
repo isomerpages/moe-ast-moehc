@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc2.jpg">  
+<p><a href="/images/meridianjc2.jpg">  
 <img src="/images/meridianjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc3.jpg">  
+<p><a href="/images/meridianjc3.jpg">  
 <img src="/images/meridianjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc4.jpg">  
+<p><a href="/images/meridianjc4.jpg">  
 <img src="/images/meridianjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc5.jpg">  
+<p><a href="/images/meridianjc5.jpg">  
 <img src="/images/meridianjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc6.jpg">  
+<p><a href="/images/meridianjc6.jpg">  
 <img src="/images/meridianjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc7.jpg">  
+<p><a href="/images/meridianjc7.jpg">  
 <img src="/images/meridianjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc8.jpg">  
+<p><a href="/images/meridianjc8.jpg">  
 <img src="/images/meridianjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/meridianjc9.jpg">  
+<p><a href="/images/meridianjc9.jpg">  
 <img src="/images/meridianjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -67,7 +67,7 @@ Principals:<br>
 \- Ms Esther Lai (2003–2014)<br>
 \- Mr Lim Yan Hock (2015–2018)
 
-**Related Schools: [Tampines Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-jc/)| [Tampines Meridian Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-meridian-jc/)**
+**Related Schools: [Tampines Junior College](/school-histories/tampines-jc/)| [Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/)**
 
 #### **Key Milestones**
 

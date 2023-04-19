@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc2.jpg">  
+<p><a href="/images/serangoonjc2.jpg">  
 <img src="/images/serangoonjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc3.jpg">  
+<p><a href="/images/serangoonjc3.jpg">  
 <img src="/images/serangoonjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc4.jpg">  
+<p><a href="/images/serangoonjc4.jpg">  
 <img src="/images/serangoonjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc5.jpg">  
+<p><a href="/images/serangoonjc5.jpg">  
 <img src="/images/serangoonjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc6.jpg">  
+<p><a href="/images/serangoonjc6.jpg">  
 <img src="/images/serangoonjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc7.jpg">  
+<p><a href="/images/serangoonjc7.jpg">  
 <img src="/images/serangoonjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc8.jpg">  
+<p><a href="/images/serangoonjc8.jpg">  
 <img src="/images/serangoonjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/serangoonjc9.jpg">  
+<p><a href="/images/serangoonjc9.jpg">  
 <img src="/images/serangoonjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -69,7 +69,7 @@ Principals:<br>
 \- Mrs Wong-Cheang Mei Heng (2010–2014)<br>
 \- Mr Manogaran s/o Suppiah (2014–2018)
 
-**Related Schools: [Anderson Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-jc/) | [Anderson Serangoon Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-serangoon-jc/)**
+**Related Schools: [Anderson Junior College](/school-histories/anderson-jc/) | [Anderson Serangoon Junior College](/school-histories/anderson-serangoon-jc/)**
 
 #### **Key Milestones**
 

@@ -20,7 +20,7 @@ In 1987, the school launched an “open library” programme to instill a sense 
 
 In 2002, Woodsville Primary School merged with MacPherson Primary School.
 
-**Related School: [MacPherson Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/)**
+**Related School: [MacPherson Primary School](/school-histories/macpherson-pri/)**
 
 #### **Key Milestones**
 

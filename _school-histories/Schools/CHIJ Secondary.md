@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec2.jpg">  
+<p><a href="/images/chijsec2.jpg">  
 <img src="/images/chijsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec3.jpg">  
+<p><a href="/images/chijsec3.jpg">  
 <img src="/images/chijsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec4.jpg">  
+<p><a href="/images/chijsec4.jpg">  
 <img src="/images/chijsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec5.jpg">  
+<p><a href="/images/chijsec5.jpg">  
 <img src="/images/chijsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec6.jpg">  
+<p><a href="/images/chijsec6.jpg">  
 <img src="/images/chijsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec7.jpg">  
+<p><a href="/images/chijsec7.jpg">  
 <img src="/images/chijsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec8.jpg">  
+<p><a href="/images/chijsec8.jpg">  
 <img src="/images/chijsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chijsec9.jpg">  
+<p><a href="/images/chijsec9.jpg">  
 <img src="/images/chijsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

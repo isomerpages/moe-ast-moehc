@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch2.jpg">  
+<p><a href="/images/presbyterianhighsch2.jpg">  
 <img src="/images/presbyterianhighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch3.jpg">  
+<p><a href="/images/presbyterianhighsch3.jpg">  
 <img src="/images/presbyterianhighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch4.jpg">  
+<p><a href="/images/presbyterianhighsch4.jpg">  
 <img src="/images/presbyterianhighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch5.jpg">  
+<p><a href="/images/presbyterianhighsch5.jpg">  
 <img src="/images/presbyterianhighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch6.jpg">  
+<p><a href="/images/presbyterianhighsch6.jpg">  
 <img src="/images/presbyterianhighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch7.jpg">  
+<p><a href="/images/presbyterianhighsch7.jpg">  
 <img src="/images/presbyterianhighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch8.jpg">  
+<p><a href="/images/presbyterianhighsch8.jpg">  
 <img src="/images/presbyterianhighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/presbyterianhighsch9.jpg">  
+<p><a href="/images/presbyterianhighsch9.jpg">  
 <img src="/images/presbyterianhighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

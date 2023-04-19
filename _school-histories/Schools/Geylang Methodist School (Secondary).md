@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec2.jpg">  
+<p><a href="/images/geylangmethodistsec2.jpg">  
 <img src="/images/geylangmethodistsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec3.jpg">  
+<p><a href="/images/geylangmethodistsec3.jpg">  
 <img src="/images/geylangmethodistsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec4.jpg">  
+<p><a href="/images/geylangmethodistsec4.jpg">  
 <img src="/images/geylangmethodistsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec5.jpg">  
+<p><a href="/images/geylangmethodistsec5.jpg">  
 <img src="/images/geylangmethodistsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec6.jpg">  
+<p><a href="/images/geylangmethodistsec6.jpg">  
 <img src="/images/geylangmethodistsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec7.jpg">  
+<p><a href="/images/geylangmethodistsec7.jpg">  
 <img src="/images/geylangmethodistsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec8.jpg">  
+<p><a href="/images/geylangmethodistsec8.jpg">  
 <img src="/images/geylangmethodistsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/geylangmethodistsec9.jpg">  
+<p><a href="/images/geylangmethodistsec9.jpg">  
 <img src="/images/geylangmethodistsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri2.jpg">  
+<p><a href="/images/edgefieldpri2.jpg">  
 <img src="/images/edgefieldpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri3.jpg">  
+<p><a href="/images/edgefieldpri3.jpg">  
 <img src="/images/edgefieldpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri6.jpg">  
+<p><a href="/images/edgefieldpri6.jpg">  
 <img src="/images/edgefieldpri6.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri5.jpg">  
+<p><a href="/images/edgefieldpri5.jpg">  
 <img src="/images/edgefieldpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri4.jpg">  
+<p><a href="/images/edgefieldpri4.jpg">  
 <img src="/images/edgefieldpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri7.jpg">  
+<p><a href="/images/edgefieldpri7.jpg">  
 <img src="/images/edgefieldpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri8.jpg">  
+<p><a href="/images/edgefieldpri8.jpg">  
 <img src="/images/edgefieldpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/edgefieldpri9.jpg">  
+<p><a href="/images/edgefieldpri9.jpg">  
 <img src="/images/edgefieldpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

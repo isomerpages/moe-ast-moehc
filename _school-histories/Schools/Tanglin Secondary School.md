@@ -14,41 +14,41 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTC6pHLpOXJ87ffOTnA9pMd8nvcoY68jJNVZTGzIh3rA9dnBN0xH76j2rpLHHQMAMRLN1Fc2KGHUHQU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec2.jpg">  
+<p><a href="/images/tanglinsec2.jpg">  
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinsec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec3.jpg">  
+<p><a href="/images/tanglinsec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec4.jpg">  
+<p><a href="/images/tanglinsec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec5.jpg">  
+<p><a href="/images/tanglinsec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec6.jpg">  
+<p><a href="/images/tanglinsec6.jpg">  
 <img align="right" style="width:22%;margin-right:63px;" src="/images/tanglinsec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec7.jpg">  
+<p><a href="/images/tanglinsec7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec8.jpg">  
+<p><a href="/images/tanglinsec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec8.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec9.jpg">  
+<p><a href="/images/tanglinsec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec9.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanglinsec10.jpg">  
+<p><a href="/images/tanglinsec10.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanglinsec10.jpg">
 </a></p>
 
@@ -76,7 +76,7 @@ Principals:<br>
 \- Mdm Aini Maarof (2010–2015)<br>
 \- Ms Ng Ngoing Keng (2016–present)
 
-**Related Schools: [Clementi Woods Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/)**
+**Related Schools: [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/)**
 
 #### **Key Milestones**
 

@@ -14,31 +14,31 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6I3BMOCvOr3uGQr7pU-DEWIkNRE_r0f3pj7HOVEfFNs5695Y6K56_6-o8Kb6RNDOLUuv4aRa0UmN4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution2.jpg">  
+<p><a href="/images/stjosephinstitution2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution3.jpg">  
+<p><a href="/images/stjosephinstitution3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution4.jpg">  
+<p><a href="/images/stjosephinstitution4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/stjosephinstitution4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution5.jpg">  
+<p><a href="/images/stjosephinstitution5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution6.jpg">  
+<p><a href="/images/stjosephinstitution6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution7.jpg">  
+<p><a href="/images/stjosephinstitution7.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution8.jpg">  
+<p><a href="/images/stjosephinstitution8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution8.jpg">
 </a></p>
 

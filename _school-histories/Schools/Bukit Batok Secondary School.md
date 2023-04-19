@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmF47f9Q0nibuB2bBiLCRtotbJaXAnww4r9lRXs5ysE7WFkX896Na-p5hcCy_xxvMOJoarKc_WK8Y2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec2.jpg">  
+<p><a href="/images/bukitbatoksec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec3.jpg">  
+<p><a href="/images/bukitbatoksec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec4.jpg">  
+<p><a href="/images/bukitbatoksec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec5.jpg">  
+<p><a href="/images/bukitbatoksec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec6.jpg">  
+<p><a href="/images/bukitbatoksec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec7.jpg">  
+<p><a href="/images/bukitbatoksec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec8.jpg">  
+<p><a href="/images/bukitbatoksec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec9.jpg">  
+<p><a href="/images/bukitbatoksec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec9.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatoksec10.jpg">  
+<p><a href="/images/bukitbatoksec10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec10.jpg">
 </a></p>
 

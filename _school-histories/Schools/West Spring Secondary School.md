@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4lMHchxA9je-DnQ6dCKAe-OCb12-xnwxBWEB-1ZsbBwM5eK-n0QXEBAEmmGLYo-PuZnTgH_zDC55I/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec2.jpg">  
+<p><a href="/images/westspringsec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec3.jpg">  
+<p><a href="/images/westspringsec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec4.jpg">  
+<p><a href="/images/westspringsec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec4.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec5.jpg">  
+<p><a href="/images/westspringsec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec6.jpg">  
+<p><a href="/images/westspringsec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec7.jpg">  
+<p><a href="/images/westspringsec7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec8.jpg">  
+<p><a href="/images/westspringsec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westspringsec9.jpg">  
+<p><a href="/images/westspringsec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/westspringsec9.jpg">
 </a></p>
 

@@ -14,7 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbQj4SBGRLmAswAF-g1PseP6ZI1rfUMyWaiD9AplFTkv3rxgL8-PVq4dbpjBP_4BIEBxigzYvnNzA-/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stthomassec2.jpg">  
+<p><a href="/images/stthomassec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stthomassec2.jpg">
 </a></p>
 

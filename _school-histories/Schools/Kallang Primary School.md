@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kallangpri2.jpg">  
+<p><a href="/images/kallangpri2.jpg">  
 <img src="/images/kallangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kallangpri3.jpg">  
+<p><a href="/images/kallangpri3.jpg">  
 <img src="/images/kallangpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

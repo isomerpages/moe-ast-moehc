@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kongchowsch2.jpg">  
+<p><a href="/images/kongchowsch2.jpg">  
 <img src="/images/kongchowsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kongchowsch3.jpg">  
+<p><a href="/images/kongchowsch3.jpg">  
 <img src="/images/kongchowsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kongchowsch4.jpg">  
+<p><a href="/images/kongchowsch4.jpg">  
 <img src="/images/kongchowsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

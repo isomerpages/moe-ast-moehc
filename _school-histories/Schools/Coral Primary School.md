@@ -12,43 +12,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri2.jpg">  
+<p><a href="/images/coralpri2.jpg">  
 <img src="/images/coralpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri3.jpg">  
+<p><a href="/images/coralpri3.jpg">  
 <img src="/images/coralpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri4.jpg">  
+<p><a href="/images/coralpri4.jpg">  
 <img src="/images/coralpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri5.jpg">  
+<p><a href="/images/coralpri5.jpg">  
 <img src="/images/coralpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri6.jpg">  
+<p><a href="/images/coralpri6.jpg">  
 <img src="/images/coralpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri7.jpg">  
+<p><a href="/images/coralpri7.jpg">  
 <img src="/images/coralpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri8.jpg">  
+<p><a href="/images/coralpri8.jpg">  
 <img src="/images/coralpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri9.jpg">  
+<p><a href="/images/coralpri9.jpg">  
 <img src="/images/coralpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralpri10.jpg">  
+<p><a href="/images/coralpri10.jpg">  
 <img src="/images/coralpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -63,7 +63,7 @@ Principals:<br>
 \- Mr Eric Leong (2008–2013)<br>
 \- Miss Chong Siew Fong (2013–2018)
 
-**Related School: [White Sands Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/white-sands-pri/)**
+**Related School: [White Sands Primary School](/school-histories/white-sands-pri/)**
 
 #### **Key Milestones**
 

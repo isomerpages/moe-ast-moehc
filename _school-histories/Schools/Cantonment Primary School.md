@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri2.jpg">  
+<p><a href="/images/cantonmentpri2.jpg">  
 <img src="/images/cantonmentpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri3.jpg">  
+<p><a href="/images/cantonmentpri3.jpg">  
 <img src="/images/cantonmentpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri4.jpg">  
+<p><a href="/images/cantonmentpri4.jpg">  
 <img src="/images/cantonmentpri4.jpg" style="width:30%;margin-right:20px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri6.jpg">  
+<p><a href="/images/cantonmentpri6.jpg">  
 <img src="/images/cantonmentpri6.jpg" style="width:30%;margin-right:18px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri5.jpg">  
+<p><a href="/images/cantonmentpri5.jpg">  
 <img src="/images/cantonmentpri5.jpg" style="width:30%;margin-right:13px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri7.jpg">  
+<p><a href="/images/cantonmentpri7.jpg">  
 <img src="/images/cantonmentpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri8.jpg">  
+<p><a href="/images/cantonmentpri8.jpg">  
 <img src="/images/cantonmentpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cantonmentpri9.jpg">  
+<p><a href="/images/cantonmentpri9.jpg">  
 <img src="/images/cantonmentpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

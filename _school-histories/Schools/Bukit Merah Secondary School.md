@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec2.jpg">  
+<p><a href="/images/bukitmerahsec2.jpg">  
 <img src="/images/bukitmerahsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec3.jpg">  
+<p><a href="/images/bukitmerahsec3.jpg">  
 <img src="/images/bukitmerahsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec4.jpg">  
+<p><a href="/images/bukitmerahsec4.jpg">  
 <img src="/images/bukitmerahsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec5.jpg">  
+<p><a href="/images/bukitmerahsec5.jpg">  
 <img src="/images/bukitmerahsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec6.jpg">  
+<p><a href="/images/bukitmerahsec6.jpg">  
 <img src="/images/bukitmerahsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec7.jpg">  
+<p><a href="/images/bukitmerahsec7.jpg">  
 <img src="/images/bukitmerahsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec8.jpg">  
+<p><a href="/images/bukitmerahsec8.jpg">  
 <img src="/images/bukitmerahsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitmerahsec9.jpg">  
+<p><a href="/images/bukitmerahsec9.jpg">  
 <img src="/images/bukitmerahsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mr Sim Chong Boon (2012–2016)<br>
 \- Mr Timothy Cheng (2017–present)
 
-**Related Schools:** **[Delta Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-sec/)** \| **[Henderson Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-sec/)**
+**Related Schools:** **[Delta Secondary School](/school-histories/delta-sec/)** \| **[Henderson Secondary School](/school-histories/henderson-sec/)**
 
 #### **Key Milestones**
 

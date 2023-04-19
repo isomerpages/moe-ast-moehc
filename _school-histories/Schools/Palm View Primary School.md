@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri2.jpg">  
+<p><a href="/images/palmviewpri2.jpg">  
 <img src="/images/palmviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri3.jpg">  
+<p><a href="/images/palmviewpri3.jpg">  
 <img src="/images/palmviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri4.jpg">  
+<p><a href="/images/palmviewpri4.jpg">  
 <img src="/images/palmviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri5.jpg">  
+<p><a href="/images/palmviewpri5.jpg">  
 <img src="/images/palmviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri6.jpg">  
+<p><a href="/images/palmviewpri6.jpg">  
 <img src="/images/palmviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri7.jpg">  
+<p><a href="/images/palmviewpri7.jpg">  
 <img src="/images/palmviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri8.jpg">  
+<p><a href="/images/palmviewpri8.jpg">  
 <img src="/images/palmviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/palmviewpri9.jpg">  
+<p><a href="/images/palmviewpri9.jpg">  
 <img src="/images/palmviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

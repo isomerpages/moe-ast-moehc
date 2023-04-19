@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec2.jpg">  
+<p><a href="/images/jurongwestsec2.jpg">  
 <img src="/images/jurongwestsec2.jpg" style="width:28%;margin-right:29px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec3.jpg">  
+<p><a href="/images/jurongwestsec3.jpg">  
 <img src="/images/jurongwestsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec4.jpg">  
+<p><a href="/images/jurongwestsec4.jpg">  
 <img src="/images/jurongwestsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec5.jpg">  
+<p><a href="/images/jurongwestsec5.jpg">  
 <img src="/images/jurongwestsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec6.jpg">  
+<p><a href="/images/jurongwestsec6.jpg">  
 <img src="/images/jurongwestsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec7.jpg">  
+<p><a href="/images/jurongwestsec7.jpg">  
 <img src="/images/jurongwestsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec8.jpg">  
+<p><a href="/images/jurongwestsec8.jpg">  
 <img src="/images/jurongwestsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec9.jpg">  
+<p><a href="/images/jurongwestsec9.jpg">  
 <img src="/images/jurongwestsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongwestsec10.jpg">  
+<p><a href="/images/jurongwestsec10.jpg">  
 <img src="/images/jurongwestsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

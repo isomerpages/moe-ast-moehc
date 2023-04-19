@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/merlimaupri2.jpg">  
+<p><a href="/images/merlimaupri2.jpg">  
 <img src="/images/merlimaupri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/merlimaupri3.jpg">  
+<p><a href="/images/merlimaupri3.jpg">  
 <img src="/images/merlimaupri3.jpg" style="width:20%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/merlimaupri4.jpg">  
+<p><a href="/images/merlimaupri4.jpg">  
 <img src="/images/merlimaupri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/merlimaupri5.jpg">  
+<p><a href="/images/merlimaupri5.jpg">  
 <img src="/images/merlimaupri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/merlimaupri6.jpg">  
+<p><a href="/images/merlimaupri6.jpg">  
 <img src="/images/merlimaupri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/merlimaupri7.jpg">  
+<p><a href="/images/merlimaupri7.jpg">  
 <img src="/images/merlimaupri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -52,7 +52,7 @@ In 2003, Merlimau Primary School merged with Yung An Primary School and Jurong T
 Last Serving Principal:<br>
 \- Dr Boon Suan Loy Zoe (1998 - 2001)
 
-**Related Schools: [Jurong Town Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-town-pri/) | [Yung An Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) | [Lakeside Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/)**
+**Related Schools: [Jurong Town Primary School](/school-histories/jurong-town-pri/) | [Yung An Primary School](/school-histories/yung-an-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/)**
 
 #### **Key Milestones**
 

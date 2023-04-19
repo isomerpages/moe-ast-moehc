@@ -13,29 +13,29 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbBdA9gieLp9Iyu6ZacnLJy8MAlH2pYXn0Gxi8oExSQQunRvL_13LgdxOz-_F-rqAzgxHdyfN5YpbA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoktownpri2.png">  
+<p><a href="/images/bedoktownpri2.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoktownpri2.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoktownpri3.jpg">  
+<p><a href="/images/bedoktownpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoktownpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoktownpri4.jpg">  
+<p><a href="/images/bedoktownpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoktownpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoktownpri5.jpg">  
+<p><a href="/images/bedoktownpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoktownpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoktownpri6.jpg">  
+<p><a href="/images/bedoktownpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoktownpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoktownpri7.jpg">  
+<p><a href="/images/bedoktownpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoktownpri7.jpg">
 </a></p>
 
@@ -49,7 +49,7 @@ In January 2001, Bedok Town Primary School merged with Telok Kurau Primary Schoo
 Last Serving Principal:<br>
 * Mrs Tan Khar Quek (1989-1995)
 
-**Related School:** **[Telok Kurau Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/)**
+**Related School:** **[Telok Kurau Primary School](/school-histories/telok-kurau-pri/)**
 
 #### **Key Milestones**
 

@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/permaisurapri2.jpg">  
+<p><a href="/images/permaisurapri2.jpg">  
 <img src="/images/permaisurapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/permaisurapri3.jpg">  
+<p><a href="/images/permaisurapri3.jpg">  
 <img src="/images/permaisurapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/permaisurapri4.jpg">  
+<p><a href="/images/permaisurapri4.jpg">  
 <img src="/images/permaisurapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/permaisurapri5.jpg">  
+<p><a href="/images/permaisurapri5.jpg">  
 <img src="/images/permaisurapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/permaisurapri6.jpg">  
+<p><a href="/images/permaisurapri6.jpg">  
 <img src="/images/permaisurapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

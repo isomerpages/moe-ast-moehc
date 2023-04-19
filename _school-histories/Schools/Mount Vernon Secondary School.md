@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountvernonsec2.jpg">  
+<p><a href="/images/mountvernonsec2.jpg">  
 <img src="/images/mountvernonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountvernonsec3.jpg">  
+<p><a href="/images/mountvernonsec3.jpg">  
 <img src="/images/mountvernonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountvernonsec4.jpg">  
+<p><a href="/images/mountvernonsec4.jpg">  
 <img src="/images/mountvernonsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountvernonsec5.jpg">  
+<p><a href="/images/mountvernonsec5.jpg">  
 <img src="/images/mountvernonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

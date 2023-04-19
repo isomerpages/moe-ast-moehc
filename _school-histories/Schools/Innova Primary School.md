@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri2.jpg">  
+<p><a href="/images/innovapri2.jpg">  
 <img src="/images/innovapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri3.jpg">  
+<p><a href="/images/innovapri3.jpg">  
 <img src="/images/innovapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri4.jpg">  
+<p><a href="/images/innovapri4.jpg">  
 <img src="/images/innovapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri5.jpg">  
+<p><a href="/images/innovapri5.jpg">  
 <img src="/images/innovapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri6.jpg">  
+<p><a href="/images/innovapri6.jpg">  
 <img src="/images/innovapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri7.jpg">  
+<p><a href="/images/innovapri7.jpg">  
 <img src="/images/innovapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri8.jpg">  
+<p><a href="/images/innovapri8.jpg">  
 <img src="/images/innovapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/innovapri9.jpg">  
+<p><a href="/images/innovapri9.jpg">  
 <img src="/images/innovapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

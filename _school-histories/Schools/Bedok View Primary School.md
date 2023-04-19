@@ -13,25 +13,25 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQG9iu9RTFQg_S18wbFYdWCB-e0VCruKBXeH6Oy5e11NDh9X0YC5YxhpW-Gw1Z-Hiy7EeqQpfkfcA4o/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri2.png">  
+<p><a href="/images/bedokviewpri2.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri2.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri3.png">  
+<p><a href="/images/bedokviewpri3.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri3.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri4.jpg">  
+<p><a href="/images/bedokviewpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri5.png">  
+<p><a href="/images/bedokviewpri5.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri5.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokviewpri6.png">  
+<p><a href="/images/bedokviewpri6.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokviewpri6.png">
 </a></p>
 

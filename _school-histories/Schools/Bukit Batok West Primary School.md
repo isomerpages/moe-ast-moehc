@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYZ5TcML7xuTDtdJTOr5YZoerRoxojfoLd13niVjV33HeE-LG30PmBZAyyPofUdGfDxpuQU_03_WJA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukitbatokwestpri2.jpg">  
+<p><a href="/images/bukitbatokwestpri2.jpg">  
 <img src="/images/bukitbatokwestpri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 

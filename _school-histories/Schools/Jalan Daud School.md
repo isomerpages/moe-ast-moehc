@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jalandaud2.jpg">  
+<p><a href="/images/jalandaud2.jpg">  
 <img src="/images/jalandaud2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jalandaud3.jpg">  
+<p><a href="/images/jalandaud3.jpg">  
 <img src="/images/jalandaud3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jalandaud4.jpg">  
+<p><a href="/images/jalandaud4.jpg">  
 <img src="/images/jalandaud4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jalandaud5.jpg">  
+<p><a href="/images/jalandaud5.jpg">  
 <img src="/images/jalandaud5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

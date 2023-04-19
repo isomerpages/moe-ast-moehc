@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY8g3Lh2xmIlgcHPTfXR4dYmqayf62ad2nTcAYEi0ghc_9AE1V3Lz4OeL7Cj0uhd0Xyhelf9tmVnao/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec2.jpg">  
+<p><a href="/images/broadricksec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec3.jpg">  
+<p><a href="/images/broadricksec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec4.jpg">  
+<p><a href="/images/broadricksec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec5.jpg">  
+<p><a href="/images/broadricksec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec6.jpg">  
+<p><a href="/images/broadricksec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec7.jpg">  
+<p><a href="/images/broadricksec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec8.jpg">  
+<p><a href="/images/broadricksec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec9.jpg">  
+<p><a href="/images/broadricksec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec9.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/broadricksec10.jpg">  
+<p><a href="/images/broadricksec10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec10.jpg">
 </a></p>
 
@@ -78,7 +78,7 @@ Principals:<br>
 * Mrs Tan Lay Hong (2016–2022)
 * Mr Ng Tiong Nam (2022–present)
 
-**Related School:** **[Telok Kurau Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-sec/)** \| **[MacPherson Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/)**
+**Related School:** **[Telok Kurau Secondary School](/school-histories/telok-kurau-sec/)** \| **[MacPherson Secondary School](/school-histories/macpherson-sec/)**
 
 #### **Key Milestones**
 

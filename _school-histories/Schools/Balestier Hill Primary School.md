@@ -11,39 +11,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSpkjWh9HxeHL9uArhhBD6xmi3ySyxO08aUTb_gF7vdhHkPXWYPNoax7Y5jyFwIjXtCWY6EqxSN6jiM/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri2.jpg">  
+<p><a href="/images/balestierhillpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri3.jpg">  
+<p><a href="/images/balestierhillpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri4.jpg">  
+<p><a href="/images/balestierhillpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri5.jpg">  
+<p><a href="/images/balestierhillpri5.jpg">  
 <img align="left" style="width:40%;margin-right:15px;" src="/images/balestierhillpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri6.jpg">  
+<p><a href="/images/balestierhillpri6.jpg">  
 <img align="right" style="width:40%;margin-right:15px;" src="/images/balestierhillpri6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri7.jpg">  
+<p><a href="/images/balestierhillpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillpri7.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri8.jpg">  
+<p><a href="/images/balestierhillpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillpri9.jpg">  
+<p><a href="/images/balestierhillpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierhillpri9.jpg">
 </a></p>
 

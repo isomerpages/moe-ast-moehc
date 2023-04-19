@@ -14,11 +14,11 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQys_EjKjAHov7bfC99yBiWF_pnmLhTMVNRlrfz036o-f9n8mnn4dj0WGPIsbkSTSz5eWWNGNFZ23EY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesmeridianjc2.jpg">  
+<p><a href="/images/tampinesmeridianjc2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesmeridianjc2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesmeridianjc3.jpg">  
+<p><a href="/images/tampinesmeridianjc3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesmeridianjc3.jpg">
 </a></p>
 
@@ -32,7 +32,7 @@ The college offers two Ministry of Education special programmes: Drama Elective 
 Principal:<br>
 \- Ms Pamela Yoong (2019–present)
 
-**Related Schools: [Tampines Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-jc/) | [Meridian Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-jc/)**
+**Related Schools: [Tampines Junior College](/school-histories/tampines-jc/) | [Meridian Junior College](/school-histories/meridian-jc/)**
 
 #### **Key Milestones**
 

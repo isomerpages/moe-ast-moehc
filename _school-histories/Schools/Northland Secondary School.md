@@ -13,23 +13,23 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandsec2.jpg">  
+<p><a href="/images/northlandsec2.jpg">  
 <img src="/images/northlandsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandsec4.jpg">  
+<p><a href="/images/northlandsec4.jpg">  
 <img src="/images/northlandsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandsec3.jpg">  
+<p><a href="/images/northlandsec3.jpg">  
 <img src="/images/northlandsec3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandsec5.jpg">  
+<p><a href="/images/northlandsec5.jpg">  
 <img src="/images/northlandsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northlandsec6.jpg">  
+<p><a href="/images/northlandsec6.jpg">  
 <img src="/images/northlandsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -50,7 +50,7 @@ Principals:<br>
 \- Mr Leonard Koh Yiak Kheng (2009–2016)<br>
 \- Mdm Tan Siew Woon (2017–present)
 
-**Related School: [North View Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-sec/)**
+**Related School: [North View Secondary School](/school-histories/north-view-sec/)**
 
 #### **Key Milestones**
 

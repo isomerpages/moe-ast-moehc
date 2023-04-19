@@ -13,11 +13,11 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP9914fLNS0ciZvQhNZX1HAsfceFRLOcGrVH_LwG_-TyR0Vgblmn49n6AYjFqG6xS7IhRGI-R9h_Hr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhuboys2.jpg">  
+<p><a href="/images/tanjongrhuboys2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhuboys2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhuboys3.jpg">  
+<p><a href="/images/tanjongrhuboys3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhuboys3.jpg">
 </a></p>
 

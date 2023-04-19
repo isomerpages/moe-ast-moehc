@@ -13,15 +13,15 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRovp_W_3xKrL1QNWU1vwCfV6ZYrFzGgfvlg2OLk7pG6w4EPfyI0cuyGpeiqK86YjoBr_rgT14D8mHo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/umarplavartamilsch2.jpg">  
+<p><a href="/images/umarplavartamilsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/umarplavartamilsch2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/umarplavartamilsch3.jpg">  
+<p><a href="/images/umarplavartamilsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/umarplavartamilsch3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/umarplavartamilsch4.jpg">  
+<p><a href="/images/umarplavartamilsch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/umarplavartamilsch4.jpg">
 </a></p>
 

@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRsPSj_o_0NnqftEVsV8zzR35QwQHxlUBBPGafO__Ajz2S2wpVVQPHe7Ng5L8dTeguhVwDngn7FR8xU/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch2.png">  
+<p><a href="/images/assumptionpathwaysch2.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch2.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch3.png">  
+<p><a href="/images/assumptionpathwaysch3.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch3.png">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch4.jpg">  
+<p><a href="/images/assumptionpathwaysch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch5.jpg">  
+<p><a href="/images/assumptionpathwaysch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch6.jpg">  
+<p><a href="/images/assumptionpathwaysch6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch7.jpg">  
+<p><a href="/images/assumptionpathwaysch7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch8.jpg">  
+<p><a href="/images/assumptionpathwaysch8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionpathwaysch8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/assumptionpathwaysch9.jpg">  
+<p><a href="/images/assumptionpathwaysch9.jpg">  
 <img align="left" style="width:35%;margin-right:15px;" src="/images/assumptionpathwaysch9.jpg">
 </a></p>
 

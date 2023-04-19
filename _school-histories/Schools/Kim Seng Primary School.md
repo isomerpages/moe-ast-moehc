@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kimsengpri2.jpg">  
+<p><a href="/images/kimsengpri2.jpg">  
 <img src="/images/kimsengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

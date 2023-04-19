@@ -15,29 +15,29 @@ third_nav_title: Schools
 
 <iframe frameborder="0" width="800" height="479" allowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQtPDgEJirckcigCOZIc8gnpPdW9MaBv5iwXeusq06aexRLfylDheB1Mc0LKNBrIovsiV2T229Pc0tx/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec2.jpg">  
+<p><a href="/images/zhonghuasec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec3.jpg">  
+<p><a href="/images/zhonghuasec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec4.jpg">  
+<p><a href="/images/zhonghuasec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec5.jpg">  
+<p><a href="/images/zhonghuasec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec6.jpg">  
+<p><a href="/images/zhonghuasec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/zhonghuasec7.jpg">  
+<p><a href="/images/zhonghuasec7.jpg">  
 <img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuasec7.jpg">
 </a></p>
 

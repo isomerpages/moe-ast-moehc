@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZSYoxzqPtiMdQk4kfUZ0WPvgrmA9XnpOxxNeJbH9I4TblGDTWw52Db9IL6z0GHjOKi8fw_8XqVkaV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri2.jpg">  
+<p><a href="/images/bedoknorthpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri3.jpg">  
+<p><a href="/images/bedoknorthpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri4.jpg">  
+<p><a href="/images/bedoknorthpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri5.jpg">  
+<p><a href="/images/bedoknorthpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthpri6.jpg">  
+<p><a href="/images/bedoknorthpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthpri6.jpg">
 </a></p>
 
@@ -46,7 +46,7 @@ In 2001, Bedok North Primary School merged with East Coast Primary School. To co
 Last Serving Principal:<br>
 * Mrs Angela Tan (1985–1996)
 
-**Related School:** **[East Coast Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/east-coast-pri/)**
+**Related School:** **[East Coast Primary School](/school-histories/east-coast-pri/)**
 
 #### **Key Milestones**
 

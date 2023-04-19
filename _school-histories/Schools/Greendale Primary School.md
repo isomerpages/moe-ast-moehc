@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri2.jpg">  
+<p><a href="/images/greendalepri2.jpg">  
 <img src="/images/greendalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri3.jpg">  
+<p><a href="/images/greendalepri3.jpg">  
 <img src="/images/greendalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri4.jpg">  
+<p><a href="/images/greendalepri4.jpg">  
 <img src="/images/greendalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri5.jpg">  
+<p><a href="/images/greendalepri5.jpg">  
 <img src="/images/greendalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri6.jpg">  
+<p><a href="/images/greendalepri6.jpg">  
 <img src="/images/greendalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri7.jpg">  
+<p><a href="/images/greendalepri7.jpg">  
 <img src="/images/greendalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri8.jpg">  
+<p><a href="/images/greendalepri8.jpg">  
 <img src="/images/greendalepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalepri9.jpg">  
+<p><a href="/images/greendalepri9.jpg">  
 <img src="/images/greendalepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -14,43 +14,43 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK3bligmBR3R7RBeF6LUuupuPjmijHefKSA7h15aQovb7d8SxHwvFfH5qSL0pcqMFLqnNZFr_T6K6v/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri2.jpg">  
+<p><a href="/images/tanjongkatongpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri2.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri3.jpg">  
+<p><a href="/images/tanjongkatongpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri3.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri4.jpg">  
+<p><a href="/images/tanjongkatongpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri5.jpg">  
+<p><a href="/images/tanjongkatongpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri5.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri6.jpg">  
+<p><a href="/images/tanjongkatongpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri6.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri7.jpg">  
+<p><a href="/images/tanjongkatongpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri8.jpg">  
+<p><a href="/images/tanjongkatongpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri8.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri9.jpg">  
+<p><a href="/images/tanjongkatongpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri9.jpg">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongpri10.jpg">  
+<p><a href="/images/tanjongkatongpri10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongpri10.jpg">
 </a></p>
 
@@ -75,7 +75,7 @@ Principals:<br>
 \- Mrs Caroline Wu (2014–2019)<br>
 \- Mrs Seah Lay Tin (2020–present)
 
-**Related Schools: [Fowlie Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) | [Haig Boys' School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) | [Mountbatten Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/mountbatten-pri/)**
+**Related Schools: [Fowlie Primary School](/school-histories/fowlie-pri/) | [Haig Boys' School](/school-histories/haig-boys-sch/) | [Mountbatten Primary School](/school-histories/mountbatten-pri/)**
 
 #### **Key Milestones**
 

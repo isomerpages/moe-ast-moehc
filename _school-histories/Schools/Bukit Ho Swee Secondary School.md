@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukithosweesec2.jpg">  
+<p><a href="/images/bukithosweesec2.jpg">  
 <img src="/images/bukithosweesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukithosweesec3.jpg">  
+<p><a href="/images/bukithosweesec3.jpg">  
 <img src="/images/bukithosweesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukithosweesec4.jpg">  
+<p><a href="/images/bukithosweesec4.jpg">  
 <img src="/images/bukithosweesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukithosweesec5.jpg">  
+<p><a href="/images/bukithosweesec5.jpg">  
 <img src="/images/bukithosweesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
