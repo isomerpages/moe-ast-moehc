@@ -13,11 +13,11 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRzr9KAw2ck-JVRbnjrYAg94BZ3JJy21sJekm7TDDWqvzxWPubO_xT0DM6TTY4GB_gP58Q0np9skyGn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tuanmonghighsch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tuanmonghighsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tuanmonghighsch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tuanmonghighsch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tuanmonghighsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tuanmonghighsch3.jpg">
 </a></p>
 

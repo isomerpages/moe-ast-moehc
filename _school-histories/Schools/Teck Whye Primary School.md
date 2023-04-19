@@ -14,43 +14,43 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVAP5w_wQmJG-6fxpK5rulttj_I5ZC15LXd4IntOPKy_mY6uR5DjqKMN1sw-9jLLpBiUoZfztcs9dF/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/teckwhyepri10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/teckwhyepri10.jpg">
 </a></p>
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri2.jpg">  
 <img src="/images/endeavourpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri3.jpg">  
 <img src="/images/endeavourpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri4.jpg">  
 <img src="/images/endeavourpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri5.jpg">  
 <img src="/images/endeavourpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri6.jpg">  
 <img src="/images/endeavourpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri7.jpeg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri7.jpeg">  
 <img src="/images/endeavourpri7.jpeg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri8.jpg">  
 <img src="/images/endeavourpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/endeavourpri9.jpg">  
 <img src="/images/endeavourpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,31 +13,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch2.jpg">  
 <img src="/images/sgsportssch2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch3.jpg">  
 <img src="/images/sgsportssch3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch4.jpg">  
 <img src="/images/sgsportssch4.jpg" style="width:22.5%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch5.jpg">  
 <img src="/images/sgsportssch5.jpg" style="width:22%;margin-right:40px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch6.jpg">  
 <img src="/images/sgsportssch6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch7.jpg">  
 <img src="/images/sgsportssch7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sgsportssch8.jpg">  
 <img src="/images/sgsportssch8.jpg" style="width:22.5%;margin-right:15px;" align = "left">
 </a></p>
 

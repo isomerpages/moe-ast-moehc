@@ -12,43 +12,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQf6t4k-enVif8S_lp2KmW7C098gxSgt5G9CcA62dqBowpuRUakBopo_dKrCXekh0m2McdnvV4snySq/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amksec10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/amksec10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amksec10.jpg">
 </a></p>
 

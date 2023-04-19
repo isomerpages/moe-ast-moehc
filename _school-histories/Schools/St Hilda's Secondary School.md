@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHqPkT9Pw-Z66W-ttMx0ScMw8Cn0sWMjKWJJdf_w7TXy6GnUYkxnYUkI98HzI8-shXruEwy2nux8e1/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec7.jpg">  
 <img align="right" style="width:24%;margin-right:75px;" src="/images/sthildasec7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sthildasec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sthildasec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/sthildasec9.jpg">
 </a></p>
 

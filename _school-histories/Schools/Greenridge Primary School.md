@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri2.jpg">  
 <img src="/images/greenridgepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri3.jpg">  
 <img src="/images/greenridgepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri4.jpg">  
 <img src="/images/greenridgepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri5.jpg">  
 <img src="/images/greenridgepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri6.jpg">  
 <img src="/images/greenridgepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri7.jpg">  
 <img src="/images/greenridgepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri8.jpg">  
 <img src="/images/greenridgepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greenridgepri9.jpg">  
 <img src="/images/greenridgepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

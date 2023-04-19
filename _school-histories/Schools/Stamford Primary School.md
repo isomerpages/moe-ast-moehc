@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_gGthYngQyAQUUhaELprDOhgNAlPd8uE3Uj4r9bbbOTP4ry7czlRgi4MTR-XyaPlndZ6dHpFbSXFj/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri4.jpg">  
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri6.jpg">  
 <img align="left" style="width:25%;margin-right:25px;margin-left:25px;" src="/images/stamfordpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri9.jpg">
 </a></p>
 

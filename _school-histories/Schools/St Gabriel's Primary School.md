@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri2.jpg">  
 <img src="/images/stgabrielspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri3.jpg">  
 <img src="/images/stgabrielspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri4.jpg">  
 <img src="/images/stgabrielspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri5.jpg">  
 <img src="/images/stgabrielspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri6.jpg">  
 <img src="/images/stgabrielspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri7.jpg">  
 <img src="/images/stgabrielspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri8.jpg">  
 <img src="/images/stgabrielspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stgabrielspri9.jpg">  
 <img src="/images/stgabrielspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/regentsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/regentsec2.jpg">  
 <img src="/images/regentsec2.jpg" style="width:25%;margin-right:45px;margin-left:15px" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/regentsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/regentsec3.jpg">  
 <img src="/images/regentsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/regentsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/regentsec4.jpg">  
 <img src="/images/regentsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/regentsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/regentsec5.jpg">  
 <img src="/images/regentsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/regentsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/regentsec6.jpg">  
 <img src="/images/regentsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
 <img src="/images/regentsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
 <img src="/images/regentsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
 <img src="/images/regentsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

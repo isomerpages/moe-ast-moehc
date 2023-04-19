@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri2.jpg">  
 <img src="/images/marsilingpri2.jpg" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri3.jpg">  
 <img src="/images/marsilingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri4.jpg">  
 <img src="/images/marsilingpri4.jpg" style="width:30%;margin-right:60px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri5.jpg">  
 <img src="/images/marsilingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri6.jpg">  
 <img src="/images/marsilingpri6.jpg" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri8.jpg">  
 <img src="/images/marsilingpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri9.jpg">  
 <img src="/images/marsilingpri9.jpg" style="width:30%;margin-right:60px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/marsilingpri10.jpg">  
 <img src="/images/marsilingpri10.jpg" style="width:30%;margin-right:60px;" align = "right">
 </a></p>
 

@@ -15,35 +15,35 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSonA--DJic10mtVvMzcTvE2x8SwleQSPzVaLMBpGVboFUXzsF-QM1SHpf7BDnWNZzKwREqKf1aJS_e/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuanchingsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuanchingsec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec3.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/yuanchingsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuanchingsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuanchingsec7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec6.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/yuanchingsec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec9.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/yuanchingsec9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuanchingsec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuanchingsec8.jpg">
 </a></p>
 

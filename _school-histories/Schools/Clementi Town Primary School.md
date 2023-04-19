@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri2.jpg">  
 <img src="/images/clementitownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri3.jpg">  
 <img src="/images/clementitownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri4.jpg">  
 <img src="/images/clementitownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri5.jpg">  
 <img src="/images/clementitownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/clementitownpri6.jpg">  
 <img src="/images/clementitownpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -45,7 +45,7 @@ The school was also actively involved in community events, with organised visits
   
 In 2001, Clementi Town Primary School merged with Clementi North Primary School to become Clementi Primary School.
 
-**Related Schools: [Clementi North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-north-pri/) \| [Clementi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-pri/)**
+**Related Schools: [Clementi North Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-north-pri/) \| [Clementi Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-pri/)**
 
 #### **Key Milestones**
 

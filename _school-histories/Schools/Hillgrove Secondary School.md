@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec2.jpg">  
 <img src="/images/hillgrovesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec3.jpg">  
 <img src="/images/hillgrovesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec4.jpg">  
 <img src="/images/hillgrovesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec5.jpg">  
 <img src="/images/hillgrovesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec6.jpg">  
 <img src="/images/hillgrovesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec7.jpg">  
 <img src="/images/hillgrovesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec8.jpg">  
 <img src="/images/hillgrovesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hillgrovesec9.jpg">  
 <img src="/images/hillgrovesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

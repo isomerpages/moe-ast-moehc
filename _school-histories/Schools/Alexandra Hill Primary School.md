@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR83WPvKHDJDQ9tcuqZqsc2WRjm6euMx0LElrvjNYYw_3IKhFg0e2bV9YWCBbjFg9uCPz1SAibDZpuH/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrahillpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrahillpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrahillpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrahillpri4.jpg">
 </a></p>
 
@@ -42,7 +42,7 @@ In January 2002, the school merged with Bukit Ho Swee Primary School, Henderson 
 Last Serving Principal:<br>
 * Mrs Goh Chin Neo Eileen (1997–2001) 
 
-**Related Schools:**&nbsp;**[Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/)**&nbsp;\|&nbsp;**[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)**&nbsp;\|&nbsp;**[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)**&nbsp;\|&nbsp;**[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
+**Related Schools:**&nbsp;**[Bukit Ho Swee Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/)**&nbsp;\|&nbsp;**[Henderson Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)**&nbsp;\|&nbsp;**[Keng Seng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)**&nbsp;\|&nbsp;**[Gan Eng Seng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
 
 #### **Key Milestones**
 

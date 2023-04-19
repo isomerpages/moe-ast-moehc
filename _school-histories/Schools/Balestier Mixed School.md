@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyRFutncUnxmlWnNXWiVuYhwwvNDZ1q66x0RSWJWeomM_eyA9SDZunET6-gFstSgJtZPD1GfWNJzVk/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestiermixedsch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestiermixedsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestiermixedsch2.jpg">
 </a></p>
 

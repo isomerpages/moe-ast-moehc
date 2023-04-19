@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri2.jpg">  
 <img src="/images/lianhuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri3.jpg">  
 <img src="/images/lianhuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri4.jpg">  
 <img src="/images/lianhuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri5.jpg">  
 <img src="/images/lianhuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri6.jpg">  
 <img src="/images/lianhuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri7.jpg">  
 <img src="/images/lianhuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/lianhuapri8.jpg">  
 <img src="/images/lianhuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -67,7 +67,7 @@ Principals:<br>
 \- Mrs Lynda Soh (2009–2014)<br>
 \- Mr Willy Tan (2015–present)
 
-**Related school: [Hong Kah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/)**
+**Related school: [Hong Kah Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/hong-kah-pri/)**
 
 #### **Key Milestones**
 

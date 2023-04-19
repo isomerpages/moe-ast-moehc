@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGhG67mVPqNdNFWORilRe5t9_MvWPaBbqnBOiyVv-v39M4RSZAorHWAESVG4SmI0ZAfESL6wBxHFrO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yuminpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yuminpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri9.jpg">
 </a></p>
 

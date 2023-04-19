@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb90sTL9P8BXAbJRSA2NTfFcavAPLF0ZSQVka7lqWtJXU2pEjLqblXXwMJGo-iyGolNKh3Ik1ELJZg/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/waterwaypri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri9.jpg">
 </a></p>
 

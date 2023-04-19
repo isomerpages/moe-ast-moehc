@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec2.jpg">  
 <img src="/images/pingyisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec3.jpg">  
 <img src="/images/pingyisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec4.jpg">  
 <img src="/images/pingyisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec5.jpg">  
 <img src="/images/pingyisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec6.jpg">  
 <img src="/images/pingyisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec7.jpg">  
 <img src="/images/pingyisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec8.jpg">  
 <img src="/images/pingyisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pingyisec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pingyisec9.jpg">  
 <img src="/images/pingyisec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mdm Shanti Devi (2009–2015)<br>
 \- Mr Ang Chee Seng (2016–present) 
 
-**Related School: [Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/)**
+**Related School: [Bedok Town Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/)**
 
 #### **Key Milestones**
 

@@ -12,19 +12,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jubileepri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jubileepri2.jpg">  
 <img src="/images/jubileepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jubileepri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jubileepri3.jpg">  
 <img src="/images/jubileepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jubileepri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jubileepri4.jpg">  
 <img src="/images/jubileepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jubileepri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jubileepri5.jpg">  
 <img src="/images/jubileepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

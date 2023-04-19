@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEaxYQXzJ4Sj_iwprXGlvlnPvDyJy9LvCU83OU0q6_fOKe331vzDmnKBz5ANMuKuE8otxhbH_MuwIP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc2.jpg">  
 <img src="/images/victoriajc2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc3.jpg">  
 <img src="/images/victoriajc3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc4.jpg">  
 <img src="/images/victoriajc4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc5.jpg">  
 <img src="/images/victoriajc5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc6.jpg">  
 <img src="/images/victoriajc6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc7.jpg">  
 <img src="/images/victoriajc7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc8.jpg">  
 <img src="/images/victoriajc8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriajc9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/victoriajc9.jpg">  
 <img src="/images/victoriajc9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 

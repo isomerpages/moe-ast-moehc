@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc2.jpg">  
 <img src="/images/pioneerjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc3.jpg">  
 <img src="/images/pioneerjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc4.jpg">  
 <img src="/images/pioneerjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc5.jpg">  
 <img src="/images/pioneerjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc6.jpg">  
 <img src="/images/pioneerjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc7.jpg">  
 <img src="/images/pioneerjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc8.jpg">  
 <img src="/images/pioneerjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerjc9.jpg">  
 <img src="/images/pioneerjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -63,7 +63,7 @@ Principals:<br>
 \- Mr Kwek Hiok Chuang (2000–2004)<br>
 \- Mrs Tan-Kek Lee Yong (2005–2018)
 
-**Related Schools: [Jurong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/)**
+**Related Schools: [Jurong Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/)**
 
 #### **Key Milestones**
 

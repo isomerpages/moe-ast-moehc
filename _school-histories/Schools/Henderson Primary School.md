@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hendersonpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonpri2.jpg">  
 <img src="/images/hendersonpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hendersonpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonpri3.jpg">  
 <img src="/images/hendersonpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hendersonpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hendersonpri4.jpg">  
 <img src="/images/hendersonpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -33,7 +33,7 @@ In January 1980, the monolingual stream was introduced at Henderson Primary Scho
 
 In 2002, Henderson Primary School merged with Alexandra Hill Primary School, Bukit Ho Swee Primary School and Keng Seng Primary School to become Gan Eng Seng Primary School.
 
-**Related Schools: [Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) \| [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) \| [Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/) \| [Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
+**Related Schools: [Alexandra Hill Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) \| [Bukit Ho Swee Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) \| [Keng Seng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/) \| [Gan Eng Seng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
 
 #### **Key Milestones**
 

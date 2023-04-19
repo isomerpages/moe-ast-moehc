@@ -11,21 +11,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedokgirlssch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch5.jpg">
 </a></p>
 

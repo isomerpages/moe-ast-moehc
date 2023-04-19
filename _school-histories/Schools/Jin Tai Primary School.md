@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jintai2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintai2.jpg">  
 <img src="/images/jintai2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jintai3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintai3.jpg">  
 <img src="/images/jintai3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jintai4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintai4.jpg">  
 <img src="/images/jintai4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jintai5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintai5.jpg">  
 <img src="/images/jintai5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jintai6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintai6.jpg">  
 <img src="/images/jintai6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jintai7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jintai7.jpg">  
 <img src="/images/jintai7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -54,7 +54,7 @@ In 2008, Jin Tai Primary School merged with Qifa Primary School.
 Last Serving Principal:<br>
 \- Miss Low Kiat Ming (1997 - 2002)
 
-Related School: [Qifa Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qifa-pri/)
+Related School: [Qifa Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/qifa-pri/)
 
 #### **Key Milestones**
 

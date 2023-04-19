@@ -12,31 +12,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri2.jpg">  
 <img src="/images/mountbattenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri3.jpg">  
 <img src="/images/mountbattenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri4.jpg">  
 <img src="/images/mountbattenpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri5.jpg">  
 <img src="/images/mountbattenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri6.jpg">  
 <img src="/images/mountbattenpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri7.jpg">  
 <img src="/images/mountbattenpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/mountbattenpri8.jpg">  
 <img src="/images/mountbattenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -51,7 +51,7 @@ The school published a regular newsletter, _MPS Update_.
 
 In January 2001, Mountbatten Primary School merged with Haig Boys’ Primary School and Fowlie Primary School to become Tanjong Katong Primary School.
 
-**Related Schools: [Fowlie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) | [Haig Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) | [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/)**
+**Related Schools: [Fowlie Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) | [Haig Boys' School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) | [Tanjong Katong Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/)**
 
 #### **Key Milestones**
 

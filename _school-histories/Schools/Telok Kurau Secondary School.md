@@ -13,37 +13,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSctQjJJUA-DyrDKObpgQJvNDVwIcn1x-vp9CITy9o4mB0IjnJLg-ezRTsvLMbbjBketyITs_hp9cfn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec7.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/telokkurausec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/telokkurausec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkurausec9.jpg">
 </a></p>
 
@@ -69,7 +69,7 @@ Principals:<br>
 \- Mr Teo Song Khuang (2001–2005)<br>
 \- Mr Harphal Singh (2006–2010)
 
-**Related School: [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/)**
+**Related School: [Broadrick Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/)**
 
 #### **Key Milestones**
 

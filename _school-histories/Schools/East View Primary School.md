@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri2.jpg">  
 <img src="/images/eastviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri3.jpg">  
 <img src="/images/eastviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri4.jpg">  
 <img src="/images/eastviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri5.jpg">  
 <img src="/images/eastviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri8.jpg">  
 <img src="/images/eastviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri6.jpg">  
 <img src="/images/eastviewpri6.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri7.jpg">  
 <img src="/images/eastviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewpri9.jpg">  
 <img src="/images/eastviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -69,7 +69,7 @@ Principals:<br>
 \- Mrs Yao-Lee Seow Foong (2011–2016)<br>
 \- Ms Ong Lee Choo (2017–2018)
 
-**Related School: [Junyuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-pri/)**
+**Related School: [Junyuan Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-pri/)**
 
 #### **Key Milestones**
 

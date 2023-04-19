@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch2.jpg">  
 <img src="/images/charltonsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch5.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch5.png">  
 <img src="/images/charltonsch5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch7.jpg">  
 <img src="/images/charltonsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch3.jpg">  
 <img src="/images/charltonsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch4.jpg">  
 <img src="/images/charltonsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch6.jpg">  
 <img src="/images/charltonsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/charltonsch8.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/charltonsch8.png">  
 <img src="/images/charltonsch8.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -58,7 +58,7 @@ In 2003, Charlton School merged with Xinghua Primary School.
 Last Serving Principal:<br>
 \- Mr Abdul Rahman Ibrahim (1997–2002)
 
-**Related School:** **[Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/)**
+**Related School:** **[Xinghua Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/)**
 
 #### **Key Milestones**
 

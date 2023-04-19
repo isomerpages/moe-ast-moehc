@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri2.jpg">  
 <img src="/images/fengshanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri3.jpg">  
 <img src="/images/fengshanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri4.jpg">  
 <img src="/images/fengshanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri5.jpg">  
 <img src="/images/fengshanpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri6.jpg">  
 <img src="/images/fengshanpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri7.jpg">  
 <img src="/images/fengshanpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri8.jpg">  
 <img src="/images/fengshanpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fengshanpri9.jpg">  
 <img src="/images/fengshanpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

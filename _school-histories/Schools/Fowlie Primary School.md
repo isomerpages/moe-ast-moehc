@@ -13,19 +13,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fowliepri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fowliepri2.jpg">  
 <img src="/images/fowliepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fowliepri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fowliepri3.jpg">  
 <img src="/images/fowliepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fowliepri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fowliepri4.jpg">  
 <img src="/images/fowliepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fowliepri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fowliepri5.jpg">  
 <img src="/images/fowliepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -47,7 +47,7 @@ In January 2001, Fowlie Primary School merged with Haig Boys’ Primary School a
 Last Serving Principal:<br>
 \- Mr Lu Peng Hoong Stephen (1998–2000)
 
-**Related Schools: [Haig Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) \| [Mountbatten Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mountbatten-pri/) \| [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/)**
+**Related Schools: [Haig Boys' School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) \| [Mountbatten Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/mountbatten-pri/) \| [Tanjong Katong Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/)**
 
 #### **Key Milestones**
 

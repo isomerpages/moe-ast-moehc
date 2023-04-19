@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec2.jpg">  
 <img src="/images/eastviewsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec3.jpg">  
 <img src="/images/eastviewsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec4.jpg">  
 <img src="/images/eastviewsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec5.jpg">  
 <img src="/images/eastviewsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec6.jpg">  
 <img src="/images/eastviewsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec7.jpg">  
 <img src="/images/eastviewsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec8.jpg">  
 <img src="/images/eastviewsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/eastviewsec9.jpg">  
 <img src="/images/eastviewsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -69,7 +69,7 @@ Principals:<br>
 \- Mr Ee Chye Heng (2001–2010)<br>
 \- Ms Lau Wan Sze (2011–2018)
 
-Related School: [East Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-sec/)
+Related School: [East Spring Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-sec/)
 
 #### **Key Milestones**
 

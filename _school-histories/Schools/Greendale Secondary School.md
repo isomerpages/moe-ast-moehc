@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec2.jpg">  
 <img src="/images/greendalesec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec3.jpg">  
 <img src="/images/greendalesec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec4.jpg">  
 <img src="/images/greendalesec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec5.jpg">  
 <img src="/images/greendalesec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec6.jpg">  
 <img src="/images/greendalesec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec7.jpg">  
 <img src="/images/greendalesec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec8.jpg">  
 <img src="/images/greendalesec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greendalesec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/greendalesec9.jpg">  
 <img src="/images/greendalesec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 

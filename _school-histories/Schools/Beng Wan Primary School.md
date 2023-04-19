@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7pz2mulm1yNCv0XSFKIYSDqt1WDO6fpItY3q3UhK1f9fvnYsze4JdQvhIVCX9qDeAa7fpGjv1i-f6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri9.jpeg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bengwanpri9.jpeg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bengwanpri9.jpeg">
 </a></p>
 
@@ -62,7 +62,7 @@ Principals:<br>
 * Mr Stephen Lu (1993 - 1998)<br>
 * Miss Lim Kuek Heng (1999 - 2002)
 
-**Related School:** **[Bendemeer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/)**
+**Related School:** **[Bendemeer Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/)**
 
 #### **Key Milestones**
 

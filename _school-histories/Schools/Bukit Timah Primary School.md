@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri2.jpg">  
 <img src="/images/bukittimahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri3.jpg">  
 <img src="/images/bukittimahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri4.jpg">  
 <img src="/images/bukittimahpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri7.jpg">  
 <img src="/images/bukittimahpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri6.jpg">  
 <img src="/images/bukittimahpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri5.jpg">  
 <img src="/images/bukittimahpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri8.jpg">  
 <img src="/images/bukittimahpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bukittimahpri9.jpg">  
 <img src="/images/bukittimahpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

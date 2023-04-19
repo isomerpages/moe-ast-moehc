@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRly5rFGKSGumGI6icGzacmXGcouDJQOWE-QKWsj2FrzCddCPMnIxNMp66gSkhjqmeDq9TUScTb4qQA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bendemeerpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bendemeerpri9.jpg">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 * Mr Tan Siew Tiong (2016–2018)<br>
 * Mrs Tan-Lim Kim Gek (2019–present)
 
-**Related Schools:** **[Beng Wan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beng-wan-pri/)** \| **[Balestier Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/)**
+**Related Schools:** **[Beng Wan Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/beng-wan-pri/)** \| **[Balestier Hill Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/)**
 
 #### **Key Milestones**
 

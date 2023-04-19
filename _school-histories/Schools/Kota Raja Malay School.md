@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kotarajamalaysch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kotarajamalaysch2.jpg">  
 <img src="/images/kotarajamalaysch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kotarajamalaysch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kotarajamalaysch4.jpg">  
 <img src="/images/kotarajamalaysch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kotarajamalaysch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kotarajamalaysch3.jpg">  
 <img src="/images/kotarajamalaysch3.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 

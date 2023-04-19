@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri2.jpg">  
 <img src="/images/parkviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri3.jpg">  
 <img src="/images/parkviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri4.jpg">  
 <img src="/images/parkviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri5.jpg">  
 <img src="/images/parkviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri6.jpg">  
 <img src="/images/parkviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri7.jpg">  
 <img src="/images/parkviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri8.jpg">  
 <img src="/images/parkviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parkviewpri9.jpg">  
 <img src="/images/parkviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

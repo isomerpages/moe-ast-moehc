@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec2.jpg">  
 <img src="/images/fajarsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec3.jpg">  
 <img src="/images/fajarsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec4.jpg">  
 <img src="/images/fajarsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec5.jpg">  
 <img src="/images/fajarsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec6.jpg">  
 <img src="/images/fajarsec6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec7.jpg">  
 <img src="/images/fajarsec7.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec8.jpg">  
 <img src="/images/fajarsec8.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fajarsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fajarsec9.jpg">  
 <img src="/images/fajarsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -64,7 +64,7 @@ Principals:<br>
 \- Mrs Sng Siew Hong (2014–2015)<br>
 \- Ms Doris Ho (2016–present)
 
-Related School: [Chestnut Drive Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chestnut-drive-sec/)
+Related School: [Chestnut Drive Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/chestnut-drive-sec/)
 
 #### **Key Milestones**
 

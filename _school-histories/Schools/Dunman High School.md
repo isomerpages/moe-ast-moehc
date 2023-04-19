@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh2.jpg">  
 <img src="/images/dunmanhigh2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh3.jpg">  
 <img src="/images/dunmanhigh3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh4.jpg">  
 <img src="/images/dunmanhigh4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh5.jpg">  
 <img src="/images/dunmanhigh5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh6.jpg">  
 <img src="/images/dunmanhigh6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh7.jpg">  
 <img src="/images/dunmanhigh7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh8.jpg">  
 <img src="/images/dunmanhigh8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/dunmanhigh9.jpg">  
 <img src="/images/dunmanhigh9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

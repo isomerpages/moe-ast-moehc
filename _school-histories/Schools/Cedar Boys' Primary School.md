@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedarboyspri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/cedarboyspri2.jpg">  
 <img src="/images/cedarboyspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

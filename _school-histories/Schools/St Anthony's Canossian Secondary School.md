@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec2.jpg">  
 <img src="/images/stanthonycanossiansec2.jpg" style="width:29%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec3.jpg">  
 <img src="/images/stanthonycanossiansec3.jpg" style="width:31%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec4.jpg">  
 <img src="/images/stanthonycanossiansec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec5.jpg">  
 <img src="/images/stanthonycanossiansec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec6.jpg">  
 <img src="/images/stanthonycanossiansec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec7.jpg">  
 <img src="/images/stanthonycanossiansec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec8.jpg">  
 <img src="/images/stanthonycanossiansec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stanthonycanossiansec9.jpg">  
 <img src="/images/stanthonycanossiansec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

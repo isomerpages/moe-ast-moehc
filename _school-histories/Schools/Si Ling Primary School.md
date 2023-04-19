@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri2.jpg">  
 <img src="/images/silingpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri3.jpg">  
 <img src="/images/silingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri4.jpg">  
 <img src="/images/silingpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri5.jpg">  
 <img src="/images/silingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri6.jpg">  
 <img src="/images/silingpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri7.jpg">  
 <img src="/images/silingpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri8.jpg">  
 <img src="/images/silingpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingpri9.jpg">  
 <img src="/images/silingpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

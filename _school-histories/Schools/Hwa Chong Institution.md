@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution2.jpg">  
 <img src="/images/hwachonginstitution2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution4.jpg">  
 <img src="/images/hwachonginstitution4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution3.jpg">  
 <img src="/images/hwachonginstitution3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution6.jpg">  
 <img src="/images/hwachonginstitution6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution5.jpg">  
 <img src="/images/hwachonginstitution5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution8.jpg">  
 <img src="/images/hwachonginstitution8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution7.jpg">  
 <img src="/images/hwachonginstitution7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/hwachonginstitution9.jpg">  
 <img src="/images/hwachonginstitution9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -69,7 +69,7 @@ Principals:<br>
 \- Dr Hon Chiew Weng 潘兆荣 (2010–2017)<br>
 \- Mr Pang Choon How 彭俊豪 (2018–present)
 
-**Related Schools: [The Chinese High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) \| [Hwa Chong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/)**
+**Related Schools: [The Chinese High School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) \| [Hwa Chong Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/)**
 
 #### **Key Milestones**
 

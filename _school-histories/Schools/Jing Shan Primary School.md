@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan2.jpg">  
 <img src="/images/jingshan2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan3.jpg">  
 <img src="/images/jingshan3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan4.jpg">  
 <img src="/images/jingshan4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan5.jpg">  
 <img src="/images/jingshan5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan6.jpg">  
 <img src="/images/jingshan6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan7.jpg">  
 <img src="/images/jingshan7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan8.jpg">  
 <img src="/images/jingshan8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jingshan9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jingshan9.jpg">  
 <img src="/images/jingshan9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -72,7 +72,7 @@ Principals:<br>
 \- Mrs Melinder Goh (2019)<br>
 \- Mrs Sharon Siew (2020–present)
 
-**Related School: [Da Qiao Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-qiao-pri/)**
+**Related School: [Da Qiao Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/da-qiao-pri/)**
 
 #### **Key Milestones**
 

@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec2.jpg">  
 <img src="/images/peihwasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec3.jpg">  
 <img src="/images/peihwasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec4.jpg">  
 <img src="/images/peihwasec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec5.jpg">  
 <img src="/images/peihwasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec6.jpg">  
 <img src="/images/peihwasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec7.jpg">  
 <img src="/images/peihwasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec8.jpg">  
 <img src="/images/peihwasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwasec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/peihwasec9.jpg">  
 <img src="/images/peihwasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc2.jpg">  
 <img src="/images/jurongjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc3.jpg">  
 <img src="/images/jurongjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc4.jpg">  
 <img src="/images/jurongjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc5.jpg">  
 <img src="/images/jurongjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc6.jpg">  
 <img src="/images/jurongjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc9.jpg">  
 <img src="/images/jurongjc9.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc7.jpg">  
 <img src="/images/jurongjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongjc8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongjc8.jpg">  
 <img src="/images/jurongjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -73,7 +73,7 @@ Principals:<br>
 \- Ms Tay Lai Ling (2010–2015)<br>
 \- Dr Hang Kim Hoo (2016–2018)
 
-**Related Schools: [Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-jc/) | [Junior Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/)**
+**Related Schools: [Pioneer Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-jc/) | [Junior Pioneer Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/)**
 
 #### **Key Milestones**
 

@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chongshanpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongshanpri2.jpg">  
 <img src="/images/chongshanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chongshanpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongshanpri3.jpg">  
 <img src="/images/chongshanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chongshanpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chongshanpri4.jpg">  
 <img src="/images/chongshanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -33,7 +33,7 @@ In 1988, primary one pupils were taught the Reading and English Acquisition Prog
 
 In January 2001, Chong Shan Primary School merged with Townsville Primary School to become Townsville Primary School.
 
-**Related School: [Townsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-pri/)**
+**Related School: [Townsville Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-pri/)**
 
 #### **Key Milestones**
 

@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec2.jpg">  
 <img src="/images/silingsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec4.jpg">  
 <img src="/images/silingsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec5.jpg">  
 <img src="/images/silingsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec3.jpg">  
 <img src="/images/silingsec3.jpg" style="width:22%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec6.jpg">  
 <img src="/images/silingsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec7.jpg">  
 <img src="/images/silingsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec8.jpg">  
 <img src="/images/silingsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec10.jpg">  
 <img src="/images/silingsec10.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/silingsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/silingsec9.jpg">  
 <img src="/images/silingsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -72,7 +72,7 @@ Principals:<br>
 \- Mr Wong Lok Oon (2010–2015)<br>
 \- Mr Goh Aik Choon (2016)
 
-**Related School: [Marsiling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-sec/)**
+**Related School: [Marsiling Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-sec/)**
 
 #### **Key Milestones**
 

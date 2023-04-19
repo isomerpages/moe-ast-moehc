@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri2.jpg">  
 <img src="/images/northvistapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri3.jpg">  
 <img src="/images/northvistapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri4.jpg">  
 <img src="/images/northvistapri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri5.jpg">  
 <img src="/images/northvistapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri6.jpg">  
 <img src="/images/northvistapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri7.jpg">  
 <img src="/images/northvistapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistapri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistapri8.jpg">  
 <img src="/images/northvistapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQoF0NKQ2SfxPBqr309NVHDCLQJTmB5j2uSbNv7VYsIHyG5zxDhWaiHAbKpgtsMj8sk0JRhAQGM9Uz/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri2.jpg">  
 <img align="left" style="width:33%;margin-right:15px;" src="/images/alexandrapri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrapri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrapri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrapri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrapri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri9.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/alexandrapri9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrapri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/alexandrapri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandrapri8.jpg">
 </a></p>
 

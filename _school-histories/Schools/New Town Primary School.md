@@ -13,25 +13,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/newtownpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/newtownpri2.jpg">  
 <img src="/images/newtownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/newtownpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/newtownpri3.jpg">  
 <img src="/images/newtownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/newtownpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/newtownpri4.jpg">  
 <img src="/images/newtownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/newtownpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/newtownpri5.jpg">  
 <img src="/images/newtownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/newtownpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/newtownpri6.jpg">  
 <img src="/images/newtownpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -55,7 +55,7 @@ Principals:<br>
 \- Dr Irene Ng (2011–2018)<br>
 \- Tan-Ng Wie Pin (2019 – present) 
 
-**Related School: [Ghim Moh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-pri/)**
+**Related School: [Ghim Moh Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-pri/)**
 
 #### **Key Milestones**
 

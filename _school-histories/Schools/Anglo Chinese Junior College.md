@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFm8830go-FyWeSffNwgVODn36yN36fErBLPbUHD557E37ygnxWAz3fIufUYtwe4yyETQM5VAbASCE/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acjc2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acjc3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc4.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/acjc4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acjc5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acjc6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acjc7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acjc8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acjc8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acjc8.jpg">
 </a></p>
 

@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srtechnical2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/srtechnical2.jpg">  
 <img src="/images/srtechnical2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srtechnical3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/srtechnical3.jpg">  
 <img src="/images/srtechnical3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srtechnical4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/srtechnical4.jpg">  
 <img src="/images/srtechnical4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -38,7 +38,7 @@ In 2003, Serangoon Garden Technical School merged with Serangoon Garden Secondar
 Last Serving Principal:<br>
 \- Mr Syed Mohamed Ashraf Shah (1998 - 2002)
 
-**Related School: [Serangoon Garden Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-sec/)**
+**Related School: [Serangoon Garden Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-sec/)**
 
 #### **Key Milestones**
 

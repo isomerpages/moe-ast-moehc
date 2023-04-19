@@ -14,7 +14,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSu9l1-gjAf6u7_-Op_Nmhp_MKUU5zk_dKxrJPpptL1AE_sjsPYipllYqR4cxV9_73Cr9dw2ZCzS32x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/usss.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/usss.png">  
 <img src="/images/usss.png" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
@@ -30,7 +30,7 @@ In January 2004, Upper Serangoon Secondary School merged with First Toa Payoh Se
 Last Serving Principal:<br>
 \- Mr Ng Chee Keong (1998 -2003)
 
-**Related School: [First Toa Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/)**
+**Related School: [First Toa Payoh Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/)**
 
 #### **Key Milestones**
 

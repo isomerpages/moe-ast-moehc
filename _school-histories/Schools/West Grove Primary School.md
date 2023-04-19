@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xtplnE-lzFszmyxpa9ZB_nPv3yZDb5-WVyNUZu2ivnkmrVwdOqbkzCP60YUPnGnBFwKCEkcBWgQ0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri9.jpg">
 </a></p>
 

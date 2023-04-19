@@ -15,37 +15,37 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRyr4WkgcqyTWHgKsD-DhS7WBq8qhAO_1rPZeocV1TO4VH2GEUaWJlX-bePMxCOf4yhj_pNpFIoEPWZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec4.jpg">  
 <img align="left" style="width:18%;margin-right:15px;" src="/images/whitleysec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec7.jpg">  
 <img align="left" style="width:20%;margin-right:15px;" src="/images/whitleysec7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitleysec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/whitleysec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whitleysec9.jpg">
 </a></p>
 

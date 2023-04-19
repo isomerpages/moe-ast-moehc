@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec2.jpg">  
 <img src="/images/chestnutdrivesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec3.jpg">  
 <img src="/images/chestnutdrivesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec4.jpg">  
 <img src="/images/chestnutdrivesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec5.jpg">  
 <img src="/images/chestnutdrivesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec6.jpg">  
 <img src="/images/chestnutdrivesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec7.jpg">  
 <img src="/images/chestnutdrivesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec8.jpg">  
 <img src="/images/chestnutdrivesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chestnutdrivesec9.jpg">  
 <img src="/images/chestnutdrivesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -74,7 +74,7 @@ Principals:<br>
 \- Mr Toh Teik Hoe (2007–2012)<br>
 \- Mdm Tan Miao Ling (2013–2015)
 
-**Related School:** **[Fajar Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fajar-sec/)**
+**Related School:** **[Fajar Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/fajar-sec/)**
 
 #### **Key Milestones**
 

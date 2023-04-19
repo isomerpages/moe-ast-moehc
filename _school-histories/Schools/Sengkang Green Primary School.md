@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri2.jpg">  
 <img src="/images/sengkanggreenpri2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri3.jpg">  
 <img src="/images/sengkanggreenpri3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri4.jpg">  
 <img src="/images/sengkanggreenpri4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri5.jpg">  
 <img src="/images/sengkanggreenpri5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri6.jpg">  
 <img src="/images/sengkanggreenpri6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri7.jpg">  
 <img src="/images/sengkanggreenpri7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri8.jpg">  
 <img src="/images/sengkanggreenpri8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/sengkanggreenpri9.jpg">  
 <img src="/images/sengkanggreenpri9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 

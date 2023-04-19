@@ -14,23 +14,23 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZAvmFDxtHw_j54whmYT2cqWeyk1-Rz6Sn9TgmE95jc3KgQJfvQSMKSR8mtqn5dY0yiD77BvtYDfyH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec6.jpg">
 </a></p>
 

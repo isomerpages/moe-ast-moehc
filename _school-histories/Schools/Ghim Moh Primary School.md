@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri2.jpg">  
 <img src="/images/ghimmohpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri3.jpg">  
 <img src="/images/ghimmohpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri4.jpg">  
 <img src="/images/ghimmohpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri5.jpg">  
 <img src="/images/ghimmohpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri6.jpg">  
 <img src="/images/ghimmohpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri7.jpg">  
 <img src="/images/ghimmohpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ghimmohpri8.jpg">  
 <img src="/images/ghimmohpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -58,7 +58,7 @@ In 2009, Ghim Moh Primary School merged with New Town Primary School.
 Last Serving Principal:<br>
 \- Ms Pang Ong Choo (2001-2008)
 
-**Related School: [New Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/)**
+**Related School: [New Town Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/)**
 
 #### **Key Milestones**
 

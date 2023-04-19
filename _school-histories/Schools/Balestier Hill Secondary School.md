@@ -11,37 +11,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQJEKtsmcfkjkpDPx-Y7Gbo4wI_U4sUWLf3ymz1Df4XcaTb7KvCr7QygvsV621Et_GgFWfqW6dV1uNo/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierhillsec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/balestierhillsec9.jpg">
 </a></p>
 

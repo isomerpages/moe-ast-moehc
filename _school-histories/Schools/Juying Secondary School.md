@@ -13,33 +13,33 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec2.jpg">  
 <img src="/images/juyingsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec4.jpg">  
 <img src="/images/juyingsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec3.jpg">  
 <img src="/images/juyingsec3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec5.jpg">  
 <img src="/images/juyingsec5.jpg" style="width:27%;margin-left:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec6.jpg">  
 <img src="/images/juyingsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec7.jpg">  
 <img src="/images/juyingsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juyingsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/juyingsec8.jpg">  
 <img src="/images/juyingsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

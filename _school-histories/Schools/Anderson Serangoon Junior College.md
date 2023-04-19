@@ -11,7 +11,7 @@ third_nav_title: Schools
 <br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4Z5jATaiUp4mjN8kFMnUNxY0alPJvbzcWMcLv7C59fVYxYq2qJgyAqePx8Q9xGULekNDjtiF3RXDk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsrjc2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/andersonsrjc2.jpg">  
 <img align="left" style="width:50%;margin-right:15px;" src="/images/andersonsrjc2.jpg">
 </a></p>
 
@@ -27,7 +27,7 @@ Under the leadership of its founding principal, Mr Manogaran Suppiah, the colleg
 Principal:<br>
 * Manogaran Suppiah (2019–present)
 
-**Related Schools:** **[Anderson Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-jc/)** \| **[Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-jc/)** 
+**Related Schools:** **[Anderson Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-jc/)** \| **[Serangoon Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-jc/)** 
 
 
 #### **Key Milestones**

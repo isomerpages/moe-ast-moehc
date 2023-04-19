@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7nN5ftf9HNv4pRXxQap0g15aWAbbKzcvcj_3dSrh_iISubhD1_fib6xXjHB8FxXaRIKvnLixbeA-n/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bedoknorthsec10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoknorthsec10.jpg">
 </a></p>
 
@@ -69,7 +69,7 @@ Principals:
 * Ms Susie Ho (2007–2012)<br>
 * Mr Chua Lek Hong (2013–2017)
 
-**Related School:** **[Damai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-sec/)**
+**Related School:** **[Damai Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-sec/)**
 
 #### **Key Milestones**
 

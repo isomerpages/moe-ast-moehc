@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNzguc02s1TP-HfAjErGg1Buz_rKX7uu7niOnvT6m4_iShndVS5BbY0YG-URFkO4H9wK1agRf4rs2o/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonlaysec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec8.jpg">
 </a></p>
 
@@ -66,7 +66,7 @@ Principals:<br>
 * Mr Tan Chor Pang (2015–2019)<br>
 * Mr Inderjit Singh (2019–present)
 
-**Related School:** **[Pioneer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-sec/)**
+**Related School:** **[Pioneer Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-sec/)**
 
 #### **Key Milestones**
 

@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri2.jpg">  
 <img src="/images/ri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri3.jpg">  
 <img src="/images/ri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri4.jpg">  
 <img src="/images/ri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri5.jpg">  
 <img src="/images/ri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri6.jpg">  
 <img src="/images/ri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri7.jpg">  
 <img src="/images/ri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri8.jpg">  
 <img src="/images/ri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri9.jpg">  
 <img src="/images/ri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ri10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ri10.jpg">  
 <img src="/images/ri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -100,7 +100,7 @@ Principals (Raffles Institution):<br>
 \- Mr Chan Poh Meng (2014–2017)<br>
 \- Mr Frederick Yeo (2018–present)
 
-**Related School: [Raffles Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-jc/)**
+**Related School: [Raffles Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-jc/)**
 
 #### **Key Milestones**
 

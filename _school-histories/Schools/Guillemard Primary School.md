@@ -13,15 +13,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guillemardpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guillemardpri2.jpg">  
 <img src="/images/guillemardpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guillemardpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guillemardpri3.jpg">  
 <img src="/images/guillemardpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guillemardpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/guillemardpri4.jpg">  
 <img src="/images/guillemardpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

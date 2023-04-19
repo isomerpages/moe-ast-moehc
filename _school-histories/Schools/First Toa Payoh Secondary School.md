@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec2.jpg">  
 <img src="/images/firsttpysec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec3.jpg">  
 <img src="/images/firsttpysec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec4.jpg">  
 <img src="/images/firsttpysec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec5.jpg">  
 <img src="/images/firsttpysec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec6.jpg">  
 <img src="/images/firsttpysec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec7.jpg">  
 <img src="/images/firsttpysec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec8.jpg">  
 <img src="/images/firsttpysec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/firsttpysec9.jpg">  
 <img src="/images/firsttpysec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -80,7 +80,7 @@ Principals:<br>
 \- Mdm Aini Maarof (2004–2009)<br>
 \- Mr Lim Kok Hwa (2010–2015)
 
-**Related School: [Upper Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-serangoon-sec/) \| [Bartley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-sec/)**
+**Related School: [Upper Serangoon Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-serangoon-sec/) \| [Bartley Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-sec/)**
 
 #### **Key Milestones**
 

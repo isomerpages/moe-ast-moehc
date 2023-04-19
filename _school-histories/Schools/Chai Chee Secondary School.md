@@ -12,19 +12,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec2.jpg">  
 <img src="/images/chaicheesec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec3.jpg">  
 <img src="/images/chaicheesec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec4.jpg">  
 <img src="/images/chaicheesec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/chaicheesec5.jpg">  
 <img src="/images/chaicheesec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -52,7 +52,7 @@ Principals:<br>
 \- Mr Loke Kay Khee (2003–2008)<br>
 \- Mr Ang Hwee Khoon (2009–2010)
 
-**Related School:** **[Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/)**
+**Related School:** **[Bedok Town Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/)**
 
 #### **Key Milestones**
 

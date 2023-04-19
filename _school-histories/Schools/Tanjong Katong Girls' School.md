@@ -14,46 +14,46 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNob7nGC_6dkozpAuLDBlvSDgQyShwIqL-YH34uL_F9dLfvbuHO9PCSt_qAfyf_hrOLLqpBgzHNUHd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch3.jpg">  
 <img align="right" style="width:22%;margin-right:45px;" src="/images/tanjongkatonggirlssch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch5.jpg">
 </a></p>
 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch9.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch10.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch10.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch11.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch11.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch11.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch12.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch12.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch12.jpg">
 </a></p>
 

@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN3pwtEzIevpYLDSfUy4-dJIWqKDYPxT0SJQ6pgZJzFNP_RRg-4-r8PcwgnStXu_kCdBjxa_izXXoP/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior2.jpg">  
 <img align="left" style="width:38%;margin-right:15px;" src="/images/acsjunior2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior3.jpg">  
 <img align="left" style="width:26%;margin-right:15px;" src="/images/acsjunior3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior4.jpg">  
 <img align="left" style="width:26%;margin-right:15px;" src="/images/acsjunior4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior5.jpg"> 
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior5.jpg"> 
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acsjunior5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior6.jpg"> 
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior6.jpg"> 
 <img align="left" style="width:27%;margin-right:15px;" src="/images/acsjunior6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior7.jpg"> 
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior7.jpg"> 
 <img align="left" style="width:35.5%;margin-right:15px;" src="/images/acsjunior7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acsjunior8.jpg"> 
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/acsjunior8.jpg"> 
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acsjunior8.jpg">
 </a></p>
 

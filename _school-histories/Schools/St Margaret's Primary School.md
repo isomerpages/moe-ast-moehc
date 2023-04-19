@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFhzHWRA-oCfahtUZCkXqV6AvFhoycv_Cmin5MrWwgNVuk9BBqIPsxxtAC8XZ1G00GeVn-v-UH6lUX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri8.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/stmargaretpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri7.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/stmargaretpri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/stmargaretpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/stmargaretpri9.jpg">
 </a></p>
 

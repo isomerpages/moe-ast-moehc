@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch2.jpg">  
 <img src="/images/redswastikasch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch3.jpg">  
 <img src="/images/redswastikasch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch4.jpg">  
 <img src="/images/redswastikasch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch5.jpg">  
 <img src="/images/redswastikasch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch6.jpg">  
 <img src="/images/redswastikasch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch7.jpg">  
 <img src="/images/redswastikasch7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch8.jpg">  
 <img src="/images/redswastikasch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/redswastikasch9.jpg">  
 <img src="/images/redswastikasch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

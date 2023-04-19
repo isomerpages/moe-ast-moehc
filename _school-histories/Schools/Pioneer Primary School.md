@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri2.jpg">  
 <img src="/images/pioneerpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri3.jpg">  
 <img src="/images/pioneerpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri4.jpg">  
 <img src="/images/pioneerpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri5.jpg">  
 <img src="/images/pioneerpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri6.jpg">  
 <img src="/images/pioneerpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri7.jpg">  
 <img src="/images/pioneerpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/pioneerpri8.jpg">  
 <img src="/images/pioneerpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

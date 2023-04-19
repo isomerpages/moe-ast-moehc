@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyQF4xyiGe9WjlXdFZuI45aQL_P6i-XOvjD7hkrCqfm3Af4JZuWsb5SHYfnNh-Qjk9SUi_CwKsKeIr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/braddellpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/braddellpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/braddellpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/braddellpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/braddellpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellpri6.jpg">
 </a></p>
 
@@ -48,7 +48,7 @@ In 2002, Braddell Primary School merged with Westlake Primary School and San Sha
 Last Serving Principal:<br>
 * Mdm Lim Ngern Boey (1996–2001)
 
-**Related Schools:** **[Westlake Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/)** \| **[San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/)** \| **[First Toa Payoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/)**
+**Related Schools:** **[Westlake Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/)** \| **[San Shan Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/)** \| **[First Toa Payoh Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/)**
 
 #### **Key Milestones**
 

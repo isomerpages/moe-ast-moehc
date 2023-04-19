@@ -13,15 +13,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rangoonroadpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rangoonroadpri2.jpg">  
 <img src="/images/rangoonroadpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rangoonroadpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rangoonroadpri3.jpg">  
 <img src="/images/rangoonroadpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rangoonroadpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/rangoonroadpri4.jpg">  
 <img src="/images/rangoonroadpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

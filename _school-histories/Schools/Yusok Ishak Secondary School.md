@@ -15,37 +15,37 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZrj8Et9h8mGT-Ghsz61QCWV3THGest0phyzWdBvd7JqnZiCa0qs3TLpQxJIYT3e2h63yKMQzKQ7nu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/yusokishaksec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yusokishaksec9.jpg">
 </a></p>
 

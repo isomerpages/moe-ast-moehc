@@ -14,31 +14,31 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSynI-BiS9I1SFDBg1XVMAUP2OmzQb_h5Coq2O20p7ADLvRbwlZeUV7sscoexRosch894IkQXgHoRHb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ststephensch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ststephensch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch5.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/ststephensch5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ststephensch7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ststephensch8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch9.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/ststephensch9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ststephensch10.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ststephensch10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ststephensch10.jpg">
 </a></p>
 

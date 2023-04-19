@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwdH1gPWbKIN7jbo9b2cy5eoUUOsPCqaJs_GZS3cEdWYNv6EENHG7x4hQJ6S03YJoelslY64RGsLRL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri2.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri2.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri2.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri3.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri3.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri3.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri4.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri4.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri4.png">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri5.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri5.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri5.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri6.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/boonkengpri6.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/boonkengpri6.png">
 </a></p>
 
@@ -46,7 +46,7 @@ On 2 January 2002, Boon Keng Primary School and May Primary School merged to bec
 Last Serving Principal:<br>
 * Mr Mohd Mansor Bin Shaik A Kadir (1999 - 2001)
 
-**Related Schools:** **[May Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/)** \| **[Farrer Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/)**
+**Related Schools:** **[May Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/)** \| **[Farrer Park Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/)**
 
 #### **Key Milestones**
 

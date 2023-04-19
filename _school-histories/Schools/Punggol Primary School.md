@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri2.jpg">  
 <img src="/images/punggolpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri3.jpg">  
 <img src="/images/punggolpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri4.jpg">  
 <img src="/images/punggolpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri5.jpg">  
 <img src="/images/punggolpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri6.jpg">  
 <img src="/images/punggolpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri7.jpg">  
 <img src="/images/punggolpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri8.jpg">  
 <img src="/images/punggolpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/punggolpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/punggolpri9.jpg">  
 <img src="/images/punggolpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -11,7 +11,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcDdgbcurH-IMehfR5f-M_KP2e7Vuo4y0RVqzIztSGOoNBm1PCfHDRu2Ao5u43IZNjQUDtkdppD-dk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/balestierboy2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/balestierboy2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/balestierboy2.jpg">
 </a></p>
 

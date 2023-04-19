@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZZiB71oAKTW768jjj3Uep9ToSlg4Ah-Q6_Arttg2rVk5U4yOQTbfSis2TtwQt8dOm39zsASTcyTNz/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bartleysec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/bartleysec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bartleysec9.jpg">
 </a></p>
 
@@ -72,7 +72,7 @@ Principals:<br>
 * Mdm Mary Bay (2008–2014)<br>
 * Mr Mohd Azhar Bin Terimo (2015–present)
 
-**Related School:** **[First Toa Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/)**
+**Related School:** **[First Toa Payoh Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/)**
 
 #### **Key Milestones**
 

@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec2.jpg">  
 <img src="/images/northvistasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec3.jpg">  
 <img src="/images/northvistasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec4.jpg">  
 <img src="/images/northvistasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec5.jpg">  
 <img src="/images/northvistasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec6.jpg">  
 <img src="/images/northvistasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec7.jpg">  
 <img src="/images/northvistasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec8.jpg">  
 <img src="/images/northvistasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northvistasec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/northvistasec9.jpg">  
 <img src="/images/northvistasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

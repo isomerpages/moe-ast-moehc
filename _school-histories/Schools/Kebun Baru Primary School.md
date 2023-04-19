@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kebunbarupri.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kebunbarupri.png">  
 <img src="/images/kebunbarupri.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -23,7 +23,7 @@ In 1985, Kebun Baru Primary School was established. The school was located at 6 
 
 On 2 January 2002, Kebun Baru Primary School merged with Ang Mo Kio Primary School.
 
-**Related School: [Ang Mo Kio Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-pri/)**
+**Related School: [Ang Mo Kio Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-pri/)**
 
 #### **Key Milestones**
 

@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jinshan2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jinshan2.jpg">  
 <img src="/images/jinshan2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jinshan3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jinshan3.jpg">  
 <img src="/images/jinshan3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jinshan4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jinshan4.jpg">  
 <img src="/images/jinshan4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jinshan5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jinshan5.jpg">  
 <img src="/images/jinshan5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jinshan6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jinshan6.jpg">  
 <img src="/images/jinshan6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jinshan7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jinshan7.jpg">  
 <img src="/images/jinshan7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

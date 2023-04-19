@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyQfJGGZrATTXlvT5Ne1_WCw7ViV35rMvYg6fo5C1RO0qrwivMj6XEVl6nLzwGfX2D-kfZQb2m2iOa/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/xinghuapri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/xinghuapri9.jpg">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mrs Loh Meng Har (2007–2014)<br>
 \- Mrs Chandrika Mano (2014–present)
 
-**Related Schools: [Charlton School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/charlton-sch/) | [Parry Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/parry-pri)**
+**Related Schools: [Charlton School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/charlton-sch/) | [Parry Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/parry-pri)**
 
 #### **Key Milestones**
 

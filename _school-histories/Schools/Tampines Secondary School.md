@@ -13,29 +13,29 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzxdfXq_dxgmGnSXc8hyW3WjRUlm74QBZMe5Jzk11leCWXAIStztNee3qaYWBfNeSEgNpaDlfwcfDK/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinessec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinessec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinessec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinessec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinessec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinessec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinessec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinessec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinessec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinessec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinessec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinessec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinessec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinessec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinessec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinessec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinessec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinessec7.jpg">
 </a></p>
 

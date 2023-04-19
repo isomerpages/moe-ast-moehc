@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parrypri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parrypri2.jpg">  
 <img src="/images/parrypri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/parrypri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/parrypri3.jpg">  
 <img src="/images/parrypri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
@@ -31,7 +31,7 @@ The school published a regular newsletter,&nbsp;_The Parryscope_.
 
 In 2007, Parry Primary School merged with Xinghua Primary School.
 
-**Related School: [Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/)**
+**Related School: [Xinghua Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/)**
 
 #### **Key Milestones**
 

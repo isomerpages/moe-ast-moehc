@@ -13,39 +13,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTecIEsbkuKiwId2n6JVffoJYynyC29jgvK2JPR6Xo2vgPjcJMGbl6a5NK_sew9is5GSzNyko-0S-Y4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tampinesjc9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesjc9.jpg">
 </a></p>
 
@@ -72,7 +72,7 @@ Mrs Goh Hwee Choo (2003–2006)<br>
 Ms Helen Choo Chieh Chen (2007–2014)<br>
 Ms Pamela Yoong Nyok Ke (2015–present)
 
-**Related Schools: [Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-jc/) | [Tampines Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-meridian-jc/)**
+**Related Schools: [Meridian Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-jc/) | [Tampines Meridian Junior College](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-meridian-jc/)**
 
 #### **Key Milestones**
 

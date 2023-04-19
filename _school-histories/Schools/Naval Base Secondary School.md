@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec2.jpg">  
 <img src="/images/navalbasesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec3.jpg">  
 <img src="/images/navalbasesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec4.jpg">  
 <img src="/images/navalbasesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec5.jpg">  
 <img src="/images/navalbasesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec6.jpg">  
 <img src="/images/navalbasesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec7.jpg">  
 <img src="/images/navalbasesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec8.jpg">  
 <img src="/images/navalbasesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/navalbasesec9.jpg">  
 <img src="/images/navalbasesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

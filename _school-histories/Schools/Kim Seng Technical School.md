@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch2.jpg">  
 <img src="/images/kimsengtechnicalsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch3.jpg">  
 <img src="/images/kimsengtechnicalsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch4.jpg">  
 <img src="/images/kimsengtechnicalsch4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/kimsengtechnicalsch5.jpg">  
 <img src="/images/kimsengtechnicalsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

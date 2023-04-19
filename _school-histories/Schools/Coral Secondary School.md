@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec2.jpg">  
 <img src="/images/coralsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec3.jpg">  
 <img src="/images/coralsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec4.jpg">  
 <img src="/images/coralsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec5.jpg">  
 <img src="/images/coralsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec6.jpg">  
 <img src="/images/coralsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec7.jpg">  
 <img src="/images/coralsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec8.jpg">  
 <img src="/images/coralsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/coralsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/coralsec9.jpg">  
 <img src="/images/coralsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -71,7 +71,7 @@ Principals:<br>
 \- Mdm Veronica Ng (2005–2010)<br>
 \- Mr Arivazhagan Manickam (2011–2016)
 
-**Related Schools: [Siglap Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-sec/) \| [Meridian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-sec/)**
+**Related Schools: [Siglap Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-sec/) \| [Meridian Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-sec/)**
 
 #### **Key Milestones**
 

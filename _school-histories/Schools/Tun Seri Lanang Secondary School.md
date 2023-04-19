@@ -14,11 +14,11 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfyZT7GKV66cO5Or2yytPA4j1ISgTEWkQyhVh_76lGgbyWtZs0qyyGRAiweApcazfgsBSDCRpYzDHq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tunserilanangsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tunserilanangsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tunserilanangsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tunserilanangsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/tunserilanangsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tunserilanangsec3.jpg">
 </a></p>
 

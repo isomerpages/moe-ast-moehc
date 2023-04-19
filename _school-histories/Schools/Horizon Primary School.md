@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri2.jpg">  
 <img src="/images/horizonpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri3.jpg">  
 <img src="/images/horizonpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri4.jpg">  
 <img src="/images/horizonpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri5.jpg">  
 <img src="/images/horizonpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri6.jpg">  
 <img src="/images/horizonpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri7.jpg">  
 <img src="/images/horizonpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri8.jpg">  
 <img src="/images/horizonpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/horizonpri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/horizonpri9.jpg">  
 <img src="/images/horizonpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

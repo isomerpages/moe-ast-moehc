@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri2.jpg">  
 <img src="/images/norfolkpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri3.jpg">  
 <img src="/images/norfolkpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri4.jpg">  
 <img src="/images/norfolkpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri5.png">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/norfolkpri5.png">  
 <img src="/images/norfolkpri5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

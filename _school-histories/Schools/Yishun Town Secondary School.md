@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSe5PpjqK3CLQvYClxYkNYH-j8CdBLgJWzTNLoJ86WPoU-k9oGrHNFFdQjCjHRT3mRo5DNXTZmrfVr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ytss9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/ytss9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ytss9.jpg">
 </a></p>
 

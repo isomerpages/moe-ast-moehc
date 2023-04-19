@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTgseKZebyoTX1EYGdkZtYFoWLfrVfNDoexWoar2KGmtsOtz28642AEjr0yg1YbW_lZwUlulXuszx_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri2.jpg">  
 <img src="/images/woodlandspri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri3.jpg">  
 <img src="/images/woodlandspri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri4.jpg">  
 <img src="/images/woodlandspri4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri5.jpg">  
 <img src="/images/woodlandspri5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri6.jpg">  
 <img src="/images/woodlandspri6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri7.jpg">  
 <img src="/images/woodlandspri7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri8.jpg">  
 <img src="/images/woodlandspri8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/woodlandspri9.jpg">  
 <img src="/images/woodlandspri9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 

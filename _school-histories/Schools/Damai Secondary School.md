@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec2.jpg">  
 <img src="/images/damaisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec3.jpg">  
 <img src="/images/damaisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec4.jpg">  
 <img src="/images/damaisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec5.jpg">  
 <img src="/images/damaisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec6.jpg">  
 <img src="/images/damaisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec7.jpg">  
 <img src="/images/damaisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec8.jpg">  
 <img src="/images/damaisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/damaisec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/damaisec9.jpg">  
 <img src="/images/damaisec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -72,7 +72,7 @@ Principals:<br>
 \- Mr Chow Weisi (2014–2017)<br>
 \- Mdm Chan Wan Siong (2018–present)
 
-Related School: [Bedok North Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-sec/)
+Related School: [Bedok North Secondary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-sec/)
 
 #### **Key Milestones**
 

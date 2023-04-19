@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec2.jpg">  
 <img src="/images/jurongsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec3.jpg">  
 <img src="/images/jurongsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec4.jpg">  
 <img src="/images/jurongsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec5.jpg">  
 <img src="/images/jurongsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec6.jpg">  
 <img src="/images/jurongsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec7.jpg">  
 <img src="/images/jurongsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec8.jpg">  
 <img src="/images/jurongsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongsec9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/jurongsec9.jpg">  
 <img src="/images/jurongsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

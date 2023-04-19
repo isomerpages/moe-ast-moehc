@@ -13,31 +13,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri2.jpg">  
 <img src="/images/fuhuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri3.jpg">  
 <img src="/images/fuhuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri4.jpg">  
 <img src="/images/fuhuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri5.jpg">  
 <img src="/images/fuhuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri6.jpg">  
 <img src="/images/fuhuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri7.jpg">  
 <img src="/images/fuhuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/fuhuapri8.jpg">  
 <img src="/images/fuhuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch2.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch2.jpg">  
 <img src="/images/delasallesch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch3.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch3.jpg">  
 <img src="/images/delasallesch3.jpg" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch4.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch4.jpg">  
 <img src="/images/delasallesch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch5.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch5.jpg">  
 <img src="/images/delasallesch5.jpg" style="width:28%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch6.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch6.jpg">  
 <img src="/images/delasallesch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch7.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch7.jpg">  
 <img src="/images/delasallesch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch9.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch9.jpg">  
 <img src="/images/delasallesch9.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/delasallesch8.jpg">  
+<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/delasallesch8.jpg">  
 <img src="/images/delasallesch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
