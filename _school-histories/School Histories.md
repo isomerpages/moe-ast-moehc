@@ -1141,7 +1141,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [National Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/national-jc/) | [Naval Base Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-pri/) | [Naval Base Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-sec/) |
+| [National Junior College](/school-histories/national-jc/) | [Naval Base Primary School](/school-histories/naval-base-pri/) | [Naval Base Secondary School](/school-histories/naval-base-sec/) |
 
 <img src="/images/crestN13.png" style="width:17%;margin-left:55px;" align="left">
 <img src="/images/crestN14.png" style="width:20%;margin-left:115px;" align="left">
@@ -1151,7 +1151,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nee Soon School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nee-soon-sch/) | [New Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/) | [New Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-sec/) |
+| [Nee Soon School](/school-histories/nee-soon-sch/) | [New Town Primary School](/school-histories/new-town-pri/) | [New Town Secondary School](/school-histories/new-town-sec/) |
 
 <img src="/images/crestN16.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestN17.jpg" style="width:18%;margin-left:105px;" align="left">
@@ -1161,7 +1161,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ngee Ann Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-sec/) | [Norfolk Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/norfolk-pri/) |
+| [Ngee Ann Primary School](/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](/school-histories/ngee-ann-sec/) | [Norfolk Primary School](/school-histories/norfolk-pri/) |
 
 <img src="/images/crestN19.png" style="width:18%;margin-left:55px;" align="left">
 <img src="/images/crestN20.jpg" style="width:22%;margin-left:105px;" align="left">
@@ -1171,7 +1171,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [North Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-spring-pri/) | [North View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-pri/) | [North View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-view-sec/) |
+| [North Spring Primary School](/school-histories/north-spring-pri/) | [North View Primary School](/school-histories/north-view-pri/) | [North View Secondary School](/school-histories/north-view-sec/) |
 
 <img src="/images/crestN22.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestN23.png" style="width:20%;margin-left:105px;" align="left">
@@ -1181,7 +1181,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [North Vista Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-vista-pri/) | [North Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/north-vista-sec/) | [Northbrooks Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northbrooks-sec/) |
+| [North Vista Primary School](/school-histories/north-vista-pri/) | [North Vista Secondary School](/school-histories/north-vista-sec/) | [Northbrooks Secondary School](/school-histories/northbrooks-sec/) |
 
 <img src="/images/crestN25.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestN26.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1191,7 +1191,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northland Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-pri/) | [Northland Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-sec/) | [Northlight School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northlight-sch/) |
+| [Northland Primary School](/school-histories/northland-pri/) | [Northland Secondary School](/school-histories/northland-sec/) | [Northlight School](/school-histories/northlight-sch/) |
 
 <img src="/images/crestN28.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestN29.jpg" style="width:25%;margin-left:105px;" align="left">
@@ -1201,7 +1201,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northoaks Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/oasis-pri/) |
+| [Northoaks Primary School](/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](/school-histories/oasis-pri/) |
 
 <img src="/images/crestO2.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestO3.png" style="width:20%;margin-left:105px;" align="left">
@@ -1211,7 +1211,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Opera Estate Boys' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/opera-estate-pri/) |
+| [Opera Estate Boys' Primary School](/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](/school-histories/opera-estate-pri/) |
 
 <img src="/images/crestO5.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestO6.png" style="width:18%;margin-left:125px;" align="left">
@@ -1221,7 +1221,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Orchid Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/orchid-park-sec/) | [Outram Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-institute/) | [Outram Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-pri/) |
+| [Orchid Park Secondary School](/school-histories/orchid-park-sec/) | [Outram Institute](/school-histories/outram-institute/) | [Outram Primary School](/school-histories/outram-pri/) |
 
 <img src="/images/crestO8.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestO9.png" style="width:18%;margin-left:105px;" align="left">
@@ -1231,7 +1231,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Outram Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-sec/) | [Owen School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/owen-sch/) | [Palm View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/palm-view-pri/) |
+| [Outram Secondary School](/school-histories/outram-sec/) | [Owen School](/school-histories/owen-sch/) | [Palm View Primary School](/school-histories/palm-view-pri/) |
 
 <img src="/images/crestP2.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestP3.png" style="width:20%;margin-left:105px;" align="left">
@@ -1241,7 +1241,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pandan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pandan-pri/) | [Park Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/park-road-sch/) | [Park View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/park-view-pri/) |
+| [Pandan Primary School](/school-histories/pandan-pri/) | [Park Road School](/school-histories/park-road-sch/) | [Park View Primary School](/school-histories/park-view-pri/) |
 
 <img src="/images/crestP5.png" style="width:25%;margin-left:35px;" align="left">
 <img src="/images/crestP6.jpg" style="width:20%;margin-left:95px;" align="left">
@@ -1251,7 +1251,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Paya Lebar Methodist Girls'<br> School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist<br> Girls' School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/paya-lebar-sch/) |
+| [Paya Lebar Methodist Girls'<br> School (Primary)](/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist<br> Girls' School (Secondary)](/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](/school-histories/paya-lebar-sch/) |
 
 <img src="/images/crestP8.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP9.png" style="width:18%;margin-left:115px;" align="left">
@@ -1261,7 +1261,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pearl Bank School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearl-bank-sch/) | [Pearl Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearl-park-pri-sch/) | [Pearl's Hill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pearls-hill-sch/) |
+| [Pearl Bank School](/school-histories/pearl-bank-sch/) | [Pearl Park Primary School](/school-histories/pearl-park-pri-sch/) | [Pearl's Hill School](/school-histories/pearls-hill-sch/) |
 
 <img src="/images/crestP11.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP12.png" style="width:20%;margin-left:125px;" align="left">
@@ -1271,7 +1271,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peck Seah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peck-seah-pri/) | [Pei Chun Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-chun-public-sch/) | [Pei Hwa Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-hwa-presbyterian-pri/) |
+| [Peck Seah Primary School](/school-histories/peck-seah-pri/) | [Pei Chun Public School](/school-histories/pei-chun-public-sch/) | [Pei Hwa Presbyterian Primary School](/school-histories/pei-hwa-presbyterian-pri/) |
 
 <img src="/images/crestP14.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP15.png" style="width:20%;margin-left:105px;" align="left">
@@ -1281,7 +1281,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pei Hwa Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-hwa-sec/) | [Pei Tek Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-tek-public-sch/) | [Pei Tong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pei-tong-pri/) |
+| [Pei Hwa Secondary School](/school-histories/pei-hwa-sec/) | [Pei Tek Public School](/school-histories/pei-tek-public-sch/) | [Pei Tong Primary School](/school-histories/pei-tong-pri/) |
 
 <img src="/images/crestP17.jpg" style="width:18%;margin-left:55px;" align="left">
 <img src="/images/crestP18.png" style="width:16%;margin-left:135px;" align="left">
@@ -1291,7 +1291,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peicai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peicai-sec/) | [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peirce-sec/) | [Peixin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peixin-pri/) |
+| [Peicai Secondary School](/school-histories/peicai-sec/) | [Peirce Secondary School](/school-histories/peirce-sec/) | [Peixin Primary School](/school-histories/peixin-pri/) |
 
 <img src="/images/crestP20.png" style="width:17%;margin-left:75px;" align="left">
 <img src="/images/crestP21.png" style="width:16%;margin-left:125px;" align="left">
@@ -1301,7 +1301,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peiying Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peiying-pri/) | [Permaisura Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/permaisura-pri/) | [Ping Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ping-yi-pri/) |
+| [Peiying Primary School](/school-histories/peiying-pri/) | [Permaisura Primary School](/school-histories/permaisura-pri/) | [Ping Yi Primary School](/school-histories/ping-yi-pri/) |
 
 <img src="/images/crestP23.jpg" style="width:15%;margin-left:85px;" align="left">
 <img src="/images/crestP24.jpg" style="width:20%;margin-left:125px;" align="left">
@@ -1311,7 +1311,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ping Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pingyi-sec/) | [Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-jc/) | [Pioneer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-pri/) |
+| [Ping Yi Secondary School](/school-histories/pingyi-sec/) | [Pioneer Junior College](/school-histories/pioneer-jc/) | [Pioneer Primary School](/school-histories/pioneer-pri/) |
 
 <img src="/images/crestP26.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP27.png" style="width:20%;margin-left:105px;" align="left">
@@ -1321,7 +1321,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pioneer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pioneer-sec/) | [Playfair School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/playfair-sch/) | [Poi Ching School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/poi-ching-sch/) |
+| [Pioneer Secondary School](/school-histories/pioneer-sec/) | [Playfair School](/school-histories/playfair-sch/) | [Poi Ching School](/school-histories/poi-ching-sch/) |
 
 <img src="/images/crestP29.jpg" style="width:15%;margin-left:85px;" align="left">
 <img src="/images/crestP30.png" style="width:17%;margin-left:135px;" align="left">
@@ -1331,7 +1331,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Presbyterian High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pulau-tekong-pri/) |
+| [Presbyterian High School](/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](/school-histories/pulau-tekong-pri/) |
 
 <img src="/images/crestP32.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP33.png" style="width:34%;margin-left:75px;" align="left">
@@ -1341,7 +1341,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Cove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-green-pri/) | [Punggol Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-pri/) |
+| [Punggol Cove Primary School](/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](/school-histories/punggol-green-pri/) | [Punggol Primary School](/school-histories/punggol-pri/) |
 
 <img src="/images/crestP35.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP36.jpg" style="width:22%;margin-left:105px;" align="left">
@@ -1351,7 +1351,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-sec/) | [Punggol View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-view-pri/) | [Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/) |
+| [Punggol Secondary School](/school-histories/punggol-sec/) | [Punggol View Primary School](/school-histories/punggol-view-pri/) | [Qiaonan Primary School](/school-histories/qiaonan-pri/) |
 
 <img src="/images/crestQ2.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestQ3.png" style="width:20%;margin-left:105px;" align="left">
@@ -1361,7 +1361,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Qifa Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qifa-pri/) | [Qihua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qihua-pri/) | [Queenstown Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-pri/) |
+| [Qifa Primary School](/school-histories/qifa-pri/) | [Qihua Primary School](/school-histories/qihua-pri/) | [Queenstown Primary School](/school-histories/queenstown-pri/) |
 
 <img src="/images/crestQ5.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestQ6.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1371,7 +1371,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Queenstown Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-sec/) | [Queensway Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queensway-sec/) | [Radin Mas Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/radin-mas-pri/) |
+| [Queenstown Secondary School](/school-histories/queenstown-sec/) | [Queensway Secondary School](/school-histories/queensway-sec/) | [Radin Mas Primary School](/school-histories/radin-mas-pri/) |
 
 <img src="/images/crestR2.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR3.jpg" style="width:22%;margin-left:105px;" align="left">
@@ -1381,7 +1381,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-pri/) | [Raffles Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-sch/) | [Raffles Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-institution/) |
+| [Raffles Girls' Primary School](/school-histories/raffles-girls-pri/) | [Raffles Girls' School](/school-histories/raffles-girls-sch/) | [Raffles Institution](/school-histories/raffles-institution/) |
 
 <img src="/images/crestR5.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR6.png" style="width:20%;margin-left:105px;" align="left">
@@ -1391,7 +1391,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-sec/) |
+| [Raffles Junior College](/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](/school-histories/rangoon-sec/) |
 
 <img src="/images/crestR8.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR9.png" style="width:20%;margin-left:115px;" align="left">
@@ -1401,7 +1401,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rayman School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rayman-sch/) | [Red Swastika School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/red-swastika-sch/) | [Redhill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/redhill-sch/) |
+| [Rayman School](/school-histories/rayman-sch/) | [Red Swastika School](/school-histories/red-swastika-sch/) | [Redhill School](/school-histories/redhill-sch/) |
 
 <img src="/images/crestR11.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR12.png" style="width:18%;margin-left:125px;" align="left">
@@ -1411,7 +1411,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Regent Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/regent-sec/) | [River Valley English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-government-chi-sch/) |
+| [Regent Secondary School](/school-histories/regent-sec/) | [River Valley English School](/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](/school-histories/river-valley-government-chi-sch/) |
 
 <img src="/images/crestR14.jpg" style="width:19%;margin-left:55px;" align="left">
 <img src="/images/crestR15.jpg" style="width:16%;margin-left:135px;" align="left">
@@ -1421,7 +1421,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [River Valley High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-high-sch/) | [River Valley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-pri/) | [Riverside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-pri/) |
+| [River Valley High School](/school-histories/river-valley-high-sch/) | [River Valley Primary School](/school-histories/river-valley-pri/) | [Riverside Primary School](/school-histories/riverside-pri/) |
 
 <img src="/images/crestR17.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR18.png" style="width:20%;margin-left:95px;" align="left">
@@ -1431,7 +1431,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Riverside Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-sec/) | [Rivervale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-vale-pri-sch/) | [Rosyth School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rosyth-sch/) |
+| [Riverside Secondary School](/school-histories/riverside-sec/) | [Rivervale Primary School](/school-histories/river-vale-pri-sch/) | [Rosyth School](/school-histories/rosyth-sch/) |
 
 <img src="/images/crestR20.png" style="width:25%;margin-left:55px;" align="left">
 <img src="/images/crestS1.png" style="width:20%;margin-left:105px;" align="left">
@@ -1441,7 +1441,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rulang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rulang-pri/) | [San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sang-nila-utama-sec/) |
+| [Rulang Primary School](/school-histories/rulang-pri/) | [San Shan Primary School](/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](/school-histories/sang-nila-utama-sec/) |
 
 <img src="/images/crestS3.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestS4.png" style="width:22%;margin-left:105px;" align="left">
@@ -1451,7 +1451,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Selegie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/selegie-pri/) | [Seletar Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seletar-institute/) | [Sembawang Hills Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-hills-estate-sch/) |
+| [Selegie Primary School](/school-histories/selegie-pri/) | [Seletar Institute](/school-histories/seletar-institute/) | [Sembawang Hills Estate School](/school-histories/sembawang-hills-estate-sch/) |
 
 <img src="/images/crestS6.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestS7.png" style="width:20%;margin-left:125px;" align="left">
@@ -1461,7 +1461,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Sembawang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-pri/) | [Sembawang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-sec/) | [Seng Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-pri/) |
+| [Sembawang Primary School](/school-histories/sembawang-pri/) | [Sembawang Secondary School](/school-histories/sembawang-sec/) | [Seng Kang Primary School](/school-histories/seng-kang-pri/) |
 
 <img src="/images/crestS9.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS10.png" style="width:20%;margin-left:125px;" align="left">
@@ -1471,7 +1471,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seng Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sengkang-green-pri/) | [Sennett Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sennett-estate-sch/) |
+| [Seng Kang Secondary School](/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](/school-histories/sengkang-green-pri/) | [Sennett Estate School](/school-histories/sennett-estate-sch/) |
 
 <img src="/images/crestS12.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS13.png" style="width:16%;margin-left:145px;" align="left">
@@ -1481,7 +1481,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Serangoon Garden North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-north-sch/) | [Serangoon Garden Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-sec/) | [Serangoon Garden South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-south-sch/) |
+| [Serangoon Garden North School](/school-histories/serangoon-garden-north-sch/) | [Serangoon Garden Secondary School](/school-histories/serangoon-garden-sec/) | [Serangoon Garden South School](/school-histories/serangoon-garden-south-sch/) |
 
 <img src="/images/crestS15.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS16.png" style="width:20%;margin-left:125px;" align="left">
@@ -1491,7 +1491,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Serangoon Garden Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-garden-technical-sch/) | [Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-jc/) | [Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/serangoon-sec/) |
+| [Serangoon Garden Technical School](/school-histories/serangoon-garden-technical-sch/) | [Serangoon Junior College](/school-histories/serangoon-jc/) | [Serangoon Secondary School](/school-histories/serangoon-sec/) |
 
 <img src="/images/crestS18.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS19.png" style="width:24%;margin-left:105px;" align="left">
@@ -1501,7 +1501,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seraya Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seraya-pri/) | [Shuqun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-pri/) | [Shuqun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/shuqun-sec/) |
+| [Seraya Primary School](/school-histories/seraya-pri/) | [Shuqun Primary School](/school-histories/shuqun-pri/) | [Shuqun Secondary School](/school-histories/shuqun-sec/) |
 
 <img src="/images/crestS21.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS22.jpg" style="width:18%;margin-left:125px;" align="left">
@@ -1511,7 +1511,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Si Ling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-pri/) | [Si Ling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-sec/) | [Siglap Indah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-indah-pri/) |
+| [Si Ling Primary School](/school-histories/si-ling-pri/) | [Si Ling Secondary School](/school-histories/si-ling-sec/) | [Siglap Indah Primary School](/school-histories/siglap-indah-pri/) |
 
 <img src="/images/crestS24.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS25.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1521,7 +1521,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Siglap Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-pri/) | [Siglap Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/siglap-sec/) | [Silat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/silat-pri-sch/) |
+| [Siglap Primary School](/school-histories/siglap-pri/) | [Siglap Secondary School](/school-histories/siglap-sec/) | [Silat Primary School](/school-histories/silat-pri-sch/) |
 
 <img src="/images/crestS27.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS28.png" style="width:20%;margin-left:105px;" align="left">
@@ -1531,7 +1531,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Singapore Chinese Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/singapore-chinese-girls-sch/) | [Singapore Sports School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/singapore-sports-school/) | [South View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/south-view-pri/) |
+| [Singapore Chinese Girls' School](/school-histories/singapore-chinese-girls-sch/) | [Singapore Sports School](/school-histories/singapore-sports-school/) | [South View Primary School](/school-histories/south-view-pri/) |
 
 <img src="/images/crestS30.jpg" style="width:30%;margin-left:55px;" align="left">
 <img src="/images/crestS31.png" style="width:20%;margin-left:35px;" align="left">
@@ -1541,7 +1541,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Spectra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/spectra-sec/) | [Springdale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/springdale-pri/) | [Springfield Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/springfield-sec/) |
+| [Spectra Secondary School](/school-histories/spectra-sec/) | [Springdale Primary School](/school-histories/springdale-pri/) | [Springfield Secondary School](/school-histories/springfield-sec/) |
 
 <img src="/images/crestS33.png" style="width:24%;margin-left:55px;" align="left">
 <img src="/images/crestS34.png" style="width:20%;margin-left:85px;" align="left">
@@ -1551,7 +1551,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Andrew's Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-jc/) | [St Andrew's Junior School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-sec/) |
+| [St Andrew's Junior College](/school-histories/st-andrew-jc/) | [St Andrew's Junior School](/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](/school-histories/st-andrew-sec/) |
 
 <img src="/images/crestS36.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS37.jpg" style="width:18%;margin-left:125px;" align="left">
@@ -1561,7 +1561,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Anthony's Canossian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-george-road-tamil-sch/) |
+| [St Anthony's Canossian Primary School](/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](/school-histories/st-george-road-tamil-sch/) |
 
 <img src="/images/crestS39.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS40.jpg" style="width:16%;margin-left:125px;" align="left">
@@ -1571,7 +1571,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Joseph's Institution Junior](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution-junior/) | [St Patrick's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-patrick-sch/) | [St Thomas Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-thomas-sec/) |
+| [St Joseph's Institution Junior](/school-histories/st-joseph-institution-junior/) | [St Patrick's School](/school-histories/st-patrick-sch/) | [St Thomas Secondary School](/school-histories/st-thomas-sec/) |
 
 <img src="/images/crestS42.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS43.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1581,7 +1581,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Anthony's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-sec/) |
+| [St. Anthony's Primary School](/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](/school-histories/st-gabriel-sec/) |
 
 <img src="/images/crestS45.png" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestss1.jpg" style="width:23%;margin-left:105px;" align="left">
@@ -1591,7 +1591,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Hilda's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-sec/) | [St. Joseph's Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution/) |
+| [St. Hilda's Primary School](/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](/school-histories/st-hilda-sec/) | [St. Joseph's Institution](/school-histories/st-joseph-institution/) |
 
 <img src="/images/crestss3.jpg" style="width:17%;margin-left:95px;" align="left">
 <img src="/images/crestS46.png" style="width:17%;margin-left:125px;" align="left">
@@ -1601,7 +1601,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Margaret's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-sec/) | [St. Stephen's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-stephen-sch/) |
+| [St. Margaret's Primary School](/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](/school-histories/st-margaret-sec/) | [St. Stephen's School](/school-histories/st-stephen-sch/) |
 
 <img src="/images/crestss4.jpg" style="width:16%;margin-left:95px;" align="left">
 <img src="/images/crestss5.jpg" style="width:20%;margin-left:125px;" align="left">
@@ -1611,7 +1611,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Theresa's High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-girls-sch/) | [Stamford Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-pri/) |
+| [St. Theresa's High School](/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](/school-histories/stamford-girls-sch/) | [Stamford Primary School](/school-histories/stamford-pri/) |
 
 <img src="/images/crestss6.jpg" style="width:23%;margin-left:75px;" align="left">
 <img src="/images/crestS52.png" style="width:18%;margin-left:95px;" align="left">
@@ -1621,7 +1621,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Swiss Cottage Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-sec/) | [Tampines Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-jc/) |
+| [Swiss Cottage Primary School](/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](/school-histories/swiss-cottage-sec/) | [Tampines Junior College](/school-histories/tampines-jc/) |
 
 <img src="/images/crestT2.png" style="width:20%;margin-left:85px;" align="left">
 <img src="/images/crestT3.png" style="width:20%;margin-left:105px;" align="left">
@@ -1631,7 +1631,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-north-pri/) | [Tampines Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-pri/) |
+| [Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](/school-histories/tampines-north-pri/) | [Tampines Primary School](/school-histories/tampines-pri/) |
 
 <img src="/images/crestT5.jpg" style="width:20%;margin-left:85px;" align="left">
 <img src="/images/crestT6.png" style="width:20%;margin-left:105px;" align="left">
@@ -1641,7 +1641,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-sec/) | [Tanglin Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-pri/) |
+| [Tampines Secondary School](/school-histories/tampines-sec/) | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
 
 <img src="/images/crestT8.jpg" style="width:20%;margin-left:85px;" align="left">
 <img src="/images/crestT9.png" style="width:16%;margin-left:105px;" align="left">
@@ -1651,7 +1651,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanglin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/) |
+| [Tanglin Secondary School](/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/) |
 
 <img src="/images/crestT11.png" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestT12.png" style="width:25%;margin-left:85px;" align="left">
@@ -1661,7 +1661,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Katong Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-girls-sch/) |
+| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
 
 <img src="/images/crestT14.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestT15.png" style="width:18%;margin-left:135px;" align="left">
@@ -1671,7 +1671,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Rhu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-pri/) | [Tao Nan School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-ghee-pri/) |
+| [Tanjong Rhu Primary School](/school-histories/tanjong-rhu-pri/) | [Tao Nan School](/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](/school-histories/teck-ghee-pri/) |
 
 <img src="/images/crestT17.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestT18.png" style="width:15%;margin-left:145px;" align="left">
@@ -1681,7 +1681,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Teck Whye Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-ayer-pri/) |
+| [Teck Whye Primary School](/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](/school-histories/telok-ayer-pri/) |
 
 <img src="/images/crestT20.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestT21.png" style="width:20%;margin-left:115px;" align="left">
@@ -1691,7 +1691,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/) |
+| [Telok Kurau East Primary School](/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](/school-histories/telok-kurau-pri/) |
 
 <img src="/images/crestT23.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestT24.png" style="width:20%;margin-left:105px;" align="left">
@@ -1701,7 +1701,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-jc/) |
+| [Telok Kurau Secondary School](/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](/school-histories/temasek-jc/) |
 
 <img src="/images/crestT26.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestT27.jpg" style="width:20%;margin-left:115px;" align="left">
@@ -1711,7 +1711,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Temasek Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-pri/) | [Temasek Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-sec/) | [The Chinese High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) |
+| [Temasek Primary School](/school-histories/temasek-pri/) | [Temasek Secondary School](/school-histories/temasek-sec/) | [The Chinese High School](/school-histories/the-chinese-high-sch/) |
 
 <img src="/images/crestT29.png" style="width:25%;margin-left:35px;" align="left">
 <img src="/images/crestT30.png" style="width:22%;margin-left:85px;" align="left">
@@ -1721,7 +1721,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [The Happy School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-happy-sch/) | [Thong Kheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-pri/) |
+| [The Happy School](/school-histories/the-happy-sch/) | [Thong Kheng School](/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](/school-histories/tiong-bahru-pri/) |
 
 <img src="/images/crestT32.png" style="width:25%;margin-left:55px;" align="left">
 <img src="/images/crestT33.png" style="width:20%;margin-left:75px;" align="left">
@@ -1731,7 +1731,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tiong Bahru Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-sec/) |
+| [Tiong Bahru Secondary School](/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](/school-histories/toh-tuck-sec/) |
 
 <img src="/images/crestT35.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestT36.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1741,7 +1741,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Towner Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/towner-pri/) | [Townsville Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-institute/) | [Townsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-pri/) |
+| [Towner Primary School](/school-histories/towner-pri/) | [Townsville Institute](/school-histories/townsville-institute/) | [Townsville Primary School](/school-histories/townsville-pri/) |
 
 <img src="/images/crestT38.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestT39.jpg" style="width:25%;margin-left:85px;" align="left">
@@ -1751,7 +1751,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Trafalgar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/trafalgar-sch/) | [Tuan Mong High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tun-seri-lanang-sec/) |
+| [Trafalgar School](/school-histories/trafalgar-sch/) | [Tuan Mong High School](/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](/school-histories/tun-seri-lanang-sec/) |
 
 <img src="/images/crestU1.png" style="width:25%;margin-left:35px;" align="left">
 <img src="/images/crestU2.png" style="width:20%;margin-left:85px;" align="left">
@@ -1761,7 +1761,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Umar Pulavar Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-pri/) | [Unity Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-sec/) |
+| [Umar Pulavar Tamil School](/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](/school-histories/unity-pri/) | [Unity Secondary School](/school-histories/unity-sec/) |
 
 <img src="/images/crestU4.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestU5.png" style="width:18%;margin-left:95px;" align="left">
@@ -1771,7 +1771,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Upper Aljunied Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-aljunied-technical/) | [Upper Serangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/upper-serangoon-sec/) | [Victoria Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/victoria-jc/) |
+| [Upper Aljunied Technical School](/school-histories/upper-aljunied-technical/) | [Upper Serangoon Secondary School](/school-histories/upper-serangoon-sec/) | [Victoria Junior College](/school-histories/victoria-jc/) |
 
 <img src="/images/crestV2.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestW1.png" style="width:22%;margin-left:85px;" align="left">
@@ -1781,7 +1781,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Victoria School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/victoria-school/) | [Waterloo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/waterloo-school/) | [Waterway Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/waterway-pri/) |
+| [Victoria School](/school-histories/victoria-school/) | [Waterloo School](/school-histories/waterloo-school/) | [Waterway Primary School](/school-histories/waterway-pri/) |
 
 <img src="/images/crestW2.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestW3.png" style="width:18%;margin-left:105px;" align="left">
@@ -1791,7 +1791,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Wellington Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/wellington-pri/) | [West Grove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-grove-pri/) | [West Hill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-hill-sch/) |
+| [Wellington Primary School](/school-histories/wellington-pri/) | [West Grove Primary School](/school-histories/west-grove-pri/) | [West Hill School](/school-histories/west-hill-sch/) |
 
 <img src="/images/crestW5.png" style="width:16%;margin-left:85px;" align="left">
 <img src="/images/crestW6.png" style="width:23%;margin-left:95px;" align="left">
@@ -1801,7 +1801,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [West Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-spring-pri/) | [West Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-spring-sec/) | [West View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/west-view-pri/) |
+| [West Spring Primary School](/school-histories/west-spring-pri/) | [West Spring Secondary School](/school-histories/west-spring-sec/) | [West View Primary School](/school-histories/west-view-pri/) |
 
 <img src="/images/crestW8.png" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestW9.png" style="width:17%;margin-left:105px;" align="left">
@@ -1811,7 +1811,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Westlake Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/) | [Westwood Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westwood-pri/) | [Westwood Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westwood-sec/) |
+| [Westlake Primary School](/school-histories/westlake-pri/) | [Westwood Primary School](/school-histories/westwood-pri/) | [Westwood Secondary School](/school-histories/westwood-sec/) |
 
 <img src="/images/crestW11.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestW12.png" style="width:20%;margin-left:105px;" align="left">
@@ -1821,7 +1821,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Whampoa Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/whampoa-sec/) | [White Sands Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/white-sands-pri/) | [Whitley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/whitley-sec/) |
+| [Whampoa Secondary School](/school-histories/whampoa-sec/) | [White Sands Primary School](/school-histories/white-sands-pri/) | [Whitley Secondary School](/school-histories/whitley-sec/) |
 
 <img src="/images/crestW14.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestW15.png" style="width:16%;margin-left:125px;" align="left">
@@ -1831,7 +1831,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Willow Avenue Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodgrove-sec/) |
+| [Willow Avenue Secondary School](/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](/school-histories/woodgrove-sec/) |
 
 <img src="/images/crestW17.jpg" style="width:16%;margin-left:75px;" align="left">
 <img src="/images/crestW18.png" style="width:17%;margin-left:135px;" align="left">
@@ -1841,7 +1841,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Woodlands Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-ring-sec/) |
+| [Woodlands Primary School](/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](/school-histories/woodlands-ring-sec/) |
 
 <img src="/images/crestW20.jpg" style="width:22%;margin-left:45px;" align="left">
 <img src="/images/crestW21.png" style="width:16%;margin-left:125px;" align="left">
@@ -1851,7 +1851,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Woodlands Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodlands-sec/) | [Woodsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodsville-pri/) | [Woodsville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/woodsville-sec/) |
+| [Woodlands Secondary School](/school-histories/woodlands-sec/) | [Woodsville Primary School](/school-histories/woodsville-pri/) | [Woodsville Secondary School](/school-histories/woodsville-sec/) |
 
 <img src="/images/crestX1.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestX2.png" style="width:16%;margin-left:115px;" align="left">
@@ -1861,7 +1861,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Xianglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xianglin-pri/) | [Xinghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinghua-pri/) | [Xingnan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xingnan-pri/) |
+| [Xianglin Primary School](/school-histories/xianglin-pri/) | [Xinghua Primary School](/school-histories/xinghua-pri/) | [Xingnan Primary School](/school-histories/xingnan-pri/) |
 
 <img src="/images/crestX4.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestX5.png" style="width:18%;margin-left:115px;" align="left">
@@ -1871,7 +1871,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Xinmin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinmin-pri/) | [Xinmin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xinmin-sec/) | [Xishan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/xi-shan-pri/) |
+| [Xinmin Primary School](/school-histories/xinmin-pri/) | [Xinmin Secondary School](/school-histories/xinmin-sec/) | [Xishan Primary School](/school-histories/xi-shan-pri/) |
 
 <img src="/images/crestY1.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestY2.png" style="width:20%;margin-left:105px;" align="left">
