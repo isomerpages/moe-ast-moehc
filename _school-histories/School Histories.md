@@ -180,7 +180,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-pri/) | [Bedok South Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-south-pri/) | [Bedok South Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-south-sec/) |
+| [Bedok Primary School](/school-histories/bedok-pri/) | [Bedok South Primary School](/school-histories/bedok-south-pri/) | [Bedok South Secondary School](/school-histories/bedok-south-sec/) |
 
 <img src="/images/crest52.png" style="width:20%;margin-left:45px;" align="left">
 <img src="/images/crest53.png" style="width:20%;margin-left:115px;" align="left">
@@ -190,7 +190,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-town-sec/) | [Bedok View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-pri/) |
+| [Bedok Town Primary School](/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](/school-histories/bedok-town-sec/) | [Bedok View Primary School](/school-histories/bedok-view-pri/) |
 
 <img src="/images/crest55.jpg" style="width:20%;margin-left:45px;" align="left">
 <img src="/images/crest56.png" style="width:22%;margin-left:115px;" align="left">
@@ -200,7 +200,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-sec/) | [Bedok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-west-pri/) | [Belvedere Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-pri/) |
+| [Bedok View Secondary School](/school-histories/bedok-view-sec/) | [Bedok West Primary School](/school-histories/bedok-west-pri/) | [Belvedere Primary School](/school-histories/belvedere-pri/) |
 
 <img src="/images/crest58.png" style="width:22%;margin-left:35px;" align="left">
 <img src="/images/crest59.png" style="width:20%;margin-left:125px;" align="left">
@@ -210,7 +210,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Belvedere School (Bukit Merah)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bendemeer-sec/) |
+| [Belvedere School (Bukit Merah)](/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](/school-histories/bendemeer-sec/) |
 
 <img src="/images/crest61.png" style="width:22%;margin-left:45px;" align="left">
 <img src="/images/crest62.png" style="width:20%;margin-left:115px;" align="left">
