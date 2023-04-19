@@ -1141,7 +1141,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [National Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/national-jc/) | [Naval Base Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-pri/) | [Naval Base Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/naval-base-sec/) |
+| [National Junior College](/school-histories/national-jc/) | [Naval Base Primary School](/school-histories/naval-base-pri/) | [Naval Base Secondary School](/school-histories/naval-base-sec/) |
 
 <img src="/images/crestN13.png" style="width:17%;margin-left:55px;" align="left">
 <img src="/images/crestN14.png" style="width:20%;margin-left:115px;" align="left">
@@ -1151,7 +1151,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nee Soon School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nee-soon-sch/) | [New Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-pri/) | [New Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/new-town-sec/) |
+| [Nee Soon School](/school-histories/nee-soon-sch/) | [New Town Primary School](/school-histories/new-town-pri/) | [New Town Secondary School](/school-histories/new-town-sec/) |
 
 <img src="/images/crestN16.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestN17.jpg" style="width:18%;margin-left:105px;" align="left">
