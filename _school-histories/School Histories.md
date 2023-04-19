@@ -290,7 +290,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/) | [Bukit Merah South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-govt-high-sch/) |
+| [Bukit Merah Secondary School](/school-histories/bukit-merah-sec/) | [Bukit Merah South School](/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](/school-histories/bukit-panjang-govt-high-sch/) |
 
 <img src="/images/crest85.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crest86.png" style="width:18%;margin-left:125px;" align="left">
@@ -300,7 +300,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Panjang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-panjang-pri/) | [Bukit Timah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-timah-pri/) | [Bukit View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-pri/) |
+| [Bukit Panjang Primary School](/school-histories/bukit-panjang-pri/) | [Bukit Timah Primary School](/school-histories/bukit-timah-pri/) | [Bukit View Primary School](/school-histories/bukit-view-pri/) |
 
 <img src="/images/crest88.jpg" style="width:23%;margin-left:45px;" align="left">
 <img src="/images/crest89.png" style="width:25%;margin-left:95px;" align="left">
@@ -311,7 +311,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/buona-vista-sec/) | [Cairnhill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cairnhill-pri/) |
+| [Bukit View Secondary School](/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](/school-histories/buona-vista-sec/) | [Cairnhill Primary School](/school-histories/cairnhill-pri/) |
 
 <img src="/images/crestC2.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestC3.png" style="width:30%;margin-left:95px;" align="left">
