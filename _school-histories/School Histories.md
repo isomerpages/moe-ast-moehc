@@ -1441,7 +1441,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rulang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rulang-pri/) | [San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sang-nila-utama-sec/) |
+| [Rulang Primary School](/school-histories/rulang-pri/) | [San Shan Primary School](/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](/school-histories/sang-nila-utama-sec/) |
 
 <img src="/images/crestS3.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestS4.png" style="width:22%;margin-left:105px;" align="left">
@@ -1451,7 +1451,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Selegie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/selegie-pri/) | [Seletar Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seletar-institute/) | [Sembawang Hills Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-hills-estate-sch/) |
+| [Selegie Primary School](/school-histories/selegie-pri/) | [Seletar Institute](/school-histories/seletar-institute/) | [Sembawang Hills Estate School](/school-histories/sembawang-hills-estate-sch/) |
 
 <img src="/images/crestS6.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestS7.png" style="width:20%;margin-left:125px;" align="left">
@@ -1461,7 +1461,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Sembawang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-pri/) | [Sembawang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sembawang-sec/) | [Seng Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-pri/) |
+| [Sembawang Primary School](/school-histories/sembawang-pri/) | [Sembawang Secondary School](/school-histories/sembawang-sec/) | [Seng Kang Primary School](/school-histories/seng-kang-pri/) |
 
 <img src="/images/crestS9.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS10.png" style="width:20%;margin-left:125px;" align="left">
@@ -1471,7 +1471,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seng Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sengkang-green-pri/) | [Sennett Estate School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/sennett-estate-sch/) |
+| [Seng Kang Secondary School](/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](/school-histories/sengkang-green-pri/) | [Sennett Estate School](/school-histories/sennett-estate-sch/) |
 
 <img src="/images/crestS12.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestS13.png" style="width:16%;margin-left:145px;" align="left">
