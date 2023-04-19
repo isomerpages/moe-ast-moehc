@@ -1691,7 +1691,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-pri/) |
+| [Telok Kurau East Primary School](/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](/school-histories/telok-kurau-pri/) |
 
 <img src="/images/crestT23.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestT24.png" style="width:20%;margin-left:105px;" align="left">
@@ -1701,7 +1701,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-jc/) |
+| [Telok Kurau Secondary School](/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](/school-histories/temasek-jc/) |
 
 <img src="/images/crestT26.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestT27.jpg" style="width:20%;margin-left:115px;" align="left">
@@ -1711,7 +1711,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Temasek Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-pri/) | [Temasek Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/temasek-sec/) | [The Chinese High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) |
+| [Temasek Primary School](/school-histories/temasek-pri/) | [Temasek Secondary School](/school-histories/temasek-sec/) | [The Chinese High School](/school-histories/the-chinese-high-sch/) |
 
 <img src="/images/crestT29.png" style="width:25%;margin-left:35px;" align="left">
 <img src="/images/crestT30.png" style="width:22%;margin-left:85px;" align="left">
@@ -1721,7 +1721,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [The Happy School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-happy-sch/) | [Thong Kheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-pri/) |
+| [The Happy School](/school-histories/the-happy-sch/) | [Thong Kheng School](/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](/school-histories/tiong-bahru-pri/) |
 
 <img src="/images/crestT32.png" style="width:25%;margin-left:55px;" align="left">
 <img src="/images/crestT33.png" style="width:20%;margin-left:75px;" align="left">
@@ -1731,7 +1731,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tiong Bahru Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/toh-tuck-sec/) |
+| [Tiong Bahru Secondary School](/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](/school-histories/toh-tuck-sec/) |
 
 <img src="/images/crestT35.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestT36.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1741,7 +1741,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Towner Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/towner-pri/) | [Townsville Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-institute/) | [Townsville Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/townsville-pri/) |
+| [Towner Primary School](/school-histories/towner-pri/) | [Townsville Institute](/school-histories/townsville-institute/) | [Townsville Primary School](/school-histories/townsville-pri/) |
 
 <img src="/images/crestT38.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestT39.jpg" style="width:25%;margin-left:85px;" align="left">
@@ -1751,7 +1751,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Trafalgar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/trafalgar-sch/) | [Tuan Mong High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tun-seri-lanang-sec/) |
+| [Trafalgar School](/school-histories/trafalgar-sch/) | [Tuan Mong High School](/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](/school-histories/tun-seri-lanang-sec/) |
 
 <img src="/images/crestU1.png" style="width:25%;margin-left:35px;" align="left">
 <img src="/images/crestU2.png" style="width:20%;margin-left:85px;" align="left">
@@ -1761,7 +1761,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Umar Pulavar Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-pri/) | [Unity Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/unity-sec/) |
+| [Umar Pulavar Tamil School](/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](/school-histories/unity-pri/) | [Unity Secondary School](/school-histories/unity-sec/) |
 
 <img src="/images/crestU4.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestU5.png" style="width:18%;margin-left:95px;" align="left">
