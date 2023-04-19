@@ -831,7 +831,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jalan Kayu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jalan-kayu-pri/) | [Jaya Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jaya-pri/) | [Jervois East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-east-pri/) |
+| [Jalan Kayu Primary School](/school-histories/jalan-kayu-pri/) | [Jaya Primary School](/school-histories/jaya-pri/) | [Jervois East Primary School](/school-histories/jervois-east-pri/) |
 
 <img src="/images/crestJ6.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestJ7.png" style="width:20%;margin-left:105px;" align="left">
@@ -841,7 +841,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jervois Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-pri/) | [Jervois West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jervois-west-pri/) | [Jiemin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jiemin-pri/) |
+| [Jervois Primary School](/school-histories/jervois-pri/) | [Jervois West Primary School](/school-histories/jervois-west-pri/) | [Jiemin Primary School](/school-histories/jiemin-pri/) |
 
 <img src="/images/crestJ9.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestJ10.png" style="width:20%;margin-left:105px;" align="left">
@@ -851,7 +851,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jin Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-shan-pri/) | [Jin Tai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-pri/) | [Jin Tai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-sec/) |
+| [Jin Shan Primary School](/school-histories/jin-shan-pri/) | [Jin Tai Primary School](/school-histories/jin-tai-pri/) | [Jin Tai Secondary School](/school-histories/jin-tai-sec/) |
 
 <img src="/images/crestJ12.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestJ13.png" style="width:20%;margin-left:105px;" align="left">
@@ -861,7 +861,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jing Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jing-shan-pri/) | [Joo Avenue School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/joo-avenue-sch/) | [Jubilee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jubilee-pri/) |
+| [Jing Shan Primary School](/school-histories/jing-shan-pri/) | [Joo Avenue School](/school-histories/joo-avenue-sch/) | [Jubilee Primary School](/school-histories/jubilee-pri/) |
 
 <img src="/images/crestJ15.png" style="width:22%;margin-left:65px;" align="left">
 <img src="/images/crestJ16.jpg" style="width:18%;margin-left:105px;" align="left">
