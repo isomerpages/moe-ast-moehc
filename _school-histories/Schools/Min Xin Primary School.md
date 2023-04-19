@@ -11,7 +11,7 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-<p><a href="https://d1yxymztqoj7qn.amplifyapp.com/images/minxinpri.png">  
+<p><a href="/images/minxinpri.png">  
 <img src="/images/minxinpri.png" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
@@ -24,7 +24,7 @@ In 1992, Min Xin Primary School participated in the Sing Singapore Competition a
 
 In 2003, Min Xin Primary School merged with Yu Neng Primary School.
 
-**Related School: [Yu Neng Primary School](https://d1yxymztqoj7qn.amplifyapp.com/school-histories/yu-neng-pri/)**
+**Related School: [Yu Neng Primary School](/school-histories/yu-neng-pri/)**
 
 #### **Key Milestones**
 
