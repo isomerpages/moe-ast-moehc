@@ -230,7 +230,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Blangah Rise Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/blangah-rise-pri/) | [Boo Teck School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boo-teck-sch/) | [Boon Keng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-keng-pri/) |
+| [Blangah Rise Primary School](/school-histories/blangah-rise-pri/) | [Boo Teck School (Farrer Park)](/school-histories/boo-teck-sch/) | [Boon Keng Primary School](/school-histories/boon-keng-pri/) |
 
 <img src="/images/crest67.png" style="width:30%;margin-left:45px;" align="left">
 <img src="/images/crest68.png" style="width:20%;margin-left:65px;" align="left">
@@ -240,7 +240,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Boon Lay Garden Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-garden-pri/) | [Boon Lay Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-pri/) | [Boon Lay Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-sec/) |
+| [Boon Lay Garden Primary School](/school-histories/boon-lay-garden-pri/) | [Boon Lay Primary School](/school-histories/boon-lay-pri/) | [Boon Lay Secondary School](/school-histories/boon-lay-sec/) |
 
 <img src="/images/crest70.jpg" style="width:25%;margin-left:65px;" align="left">
 <img src="/images/crest71.png" style="width:25%;margin-left:75px;" align="left">
@@ -250,7 +250,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bowen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bowen-sec/) | [Braddell Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddel-westlake-sec/) |
+| [Bowen Secondary School](/school-histories/bowen-sec/) | [Braddell Primary School](/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](/school-histories/braddel-westlake-sec/) |
 
 <img src="/images/crest73.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crest74.jpg" style="width:25%;margin-left:75px;" align="left">
@@ -260,7 +260,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Broadrick Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-pri/) | [Broadrick Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-east-pri/) |
+| [Broadrick Primary School](/school-histories/broadrick-pri/) | [Broadrick Secondary School](/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](/school-histories/bukit-batok-east-pri/) |
 
 <img src="/images/crest76.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crest77.png" style="width:20%;margin-left:115px;" align="left">
@@ -270,7 +270,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Batok Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-pri/) |
+| [Bukit Batok Secondary School](/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](/school-histories/bukit-ho-swee-pri/) |
 
 <img src="/images/crest79.png" style="width:17%;margin-left:75px;" align="left">
 <img src="/images/crest80.png" style="width:20%;margin-left:115px;" align="left">
@@ -280,7 +280,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Ho Swee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-pri/) |
+| [Bukit Ho Swee Secondary School](/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](/school-histories/bukit-merah-pri/) |
 
 <img src="/images/crest82.jpg" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crest83.jpg" style="width:20%;margin-left:85px;" align="left">
