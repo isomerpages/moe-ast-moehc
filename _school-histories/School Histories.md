@@ -411,7 +411,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Secondary](/school-histories/chij-sec/) | [Chij St Nicholas Girls' School](/school-histories/chij-nicholas-girls-sch/) | [Chij St. Joseph's Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-joseph/) |
+| [Chij Secondary](/school-histories/chij-sec/) | [Chij St Nicholas Girls' School](/school-histories/chij-nicholas-girls-sch/) | [Chij St. Joseph's Convent](/school-histories/chij-joseph/) |
 
 <img src="/images/crestC32.jpg" style="width:23%;margin-left:65px;" align="left">
 <img src="/images/crestC33.png" style="width:20%;margin-left:95px;" align="left">
@@ -421,7 +421,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij St. Theresa's Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-st-theresa-convent/) | [Chong Boon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-boon-sec/) | [Chong De Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-de-pri/) |
+| [Chij St. Theresa's Convent](/school-histories/chij-st-theresa-convent/) | [Chong Boon Secondary School](/school-histories/chong-boon-sec/) | [Chong De Primary School](/school-histories/chong-de-pri/) |
 
 <img src="/images/crestC35.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC36.png" style="width:23%;margin-left:115px;" align="left">
