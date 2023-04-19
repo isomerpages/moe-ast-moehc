@@ -791,7 +791,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hougang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hougang-sec/) | [Hua Kiau School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-pri/) |
+| [Hougang Secondary School](/school-histories/hougang-sec/) | [Hua Kiau School](/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](/school-histories/hua-yi-pri/) |
 
 <img src="/images/crestH21.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestH22.jpg" style="width:17%;margin-left:125px;" align="left">
@@ -801,7 +801,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hua Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hua-yi-sec/) | [Huamin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/huamin-pri/) | [Hwa Chong Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-institution/) |
+| [Hua Yi Secondary School](/school-histories/hua-yi-sec/) | [Huamin Primary School](/school-histories/huamin-pri/) | [Hwa Chong Institution](/school-histories/hwa-chong-institution/) |
 
 <img src="/images/crestH24.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestH25.png" style="width:15%;margin-left:125px;" align="left">
