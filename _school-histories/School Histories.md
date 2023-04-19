@@ -110,7 +110,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Assumption Pathway School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-east-pri/) |
+| [Assumption Pathway School](/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](/school-histories/balestier-hill-east-pri/) |
 
 <img src="/images/crest31.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crest32.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -120,7 +120,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/school-histories/balestier-hill-pri-1986-1988/) | [Balestier Hill Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-sec/) |
+| [Balestier Hill Primary School](/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](/school-histories/school-histories/balestier-hill-pri-1986-1988/) | [Balestier Hill Secondary School](/school-histories/balestier-hill-sec/) |
 
 <img src="/images/crest34.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest35.png" style="width:20%;margin-left:145px;" align="left">
@@ -130,7 +130,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-west-pri/) | [Balestier Mixed School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-mixed-sch/) | [Balestier Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-pri/) |
+| [Balestier Hill West Primary School](/school-histories/balestier-hill-west-pri/) | [Balestier Mixed School](/school-histories/balestier-mixed-sch/) | [Balestier Primary School](/school-histories/balestier-pri/) |
 
 <img src="/images/crest37.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest38.jpg" style="width:25%;margin-left:95px;" align="left">
