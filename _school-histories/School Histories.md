@@ -571,7 +571,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-payoh-sec/) | [East Spring Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-pri/) | [East Spring Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-spring-sec/) |
+| [East Payoh Secondary School](/school-histories/east-payoh-sec/) | [East Spring Primary School](/school-histories/east-spring-pri/) | [East Spring Secondary School](/school-histories/east-spring-sec/) |
 
 <img src="/images/crestE5a.jpg" style="width:17%;margin-left:85px;" align="left">
 <img src="/images/crestE5.jpg" style="width:23%;margin-left:105px;" align="left">
@@ -581,7 +581,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-pri/) | [East View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-view-sec/) | [Edgefield Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/edgefield-pri/) |
+| [East View Primary School](/school-histories/east-view-pri/) | [East View Secondary School](/school-histories/east-view-sec/) | [Edgefield Primary School](/school-histories/edgefield-pri/) |
 
 <img src="/images/crestE7.png" style="width:23%;margin-left:55px;" align="left">
 <img src="/images/crestE8.jpg" style="width:23%;margin-left:105px;" align="left">
@@ -591,7 +591,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Edgefield Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/edgefield-sec/) | [Elias Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elias-park-pri/) | [Elling North School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-north-sch/) |
+| [Edgefield Secondary School](/school-histories/edgefield-sec/) | [Elias Park Primary School](/school-histories/elias-park-pri/) | [Elling North School](/school-histories/elling-north-sch/) |
 
 <img src="/images/crestE10.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestE11.png" style="width:20%;margin-left:115px;" align="left">
@@ -601,7 +601,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Elling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-pri/) | [Elling South School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/elling-south-sch/) | [Endeavour Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/endeavour-pri/) |
+| [Elling Primary School](/school-histories/elling-pri/) | [Elling South School](/school-histories/elling-south-sch/) | [Endeavour Primary School](/school-histories/endeavour-pri/) |
 
 <img src="/images/crestE13.jpg" style="width:22%;margin-left:65px;" align="left">
 <img src="/images/crestE14.png" style="width:25%;margin-left:95px;" align="left">
