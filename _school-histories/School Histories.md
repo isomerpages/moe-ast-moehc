@@ -40,7 +40,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/) | [Alexandra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-pri/) | [Aljunied Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aljunied-pri/) |
+| [Alexandra Hill Primary School](/school-histories/alexandra-hill-pri/) | [Alexandra Primary School](/school-histories/alexandra-pri/) | [Aljunied Primary School](/school-histories/aljunied-pri/) |
 
 <img src="/images/crest10.png" style="width:15%;margin-left:65px;" align="left">
 <img src="/images/crest11.png" style="width:30%;margin-left:105px;" align="left">
