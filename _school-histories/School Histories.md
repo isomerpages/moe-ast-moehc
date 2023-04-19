@@ -511,7 +511,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Crest Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crest-sec/) | [Da Qiao Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-qiao-pri/) | [Damai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-pri/) |
+| [Crest Secondary School](/school-histories/crest-sec/) | [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) |
 
 <img src="/images/crestD3.jpg" style="width:13%;margin-left:75px;" align="left">
 <img src="/images/crestD4.png" style="width:22%;margin-left:165px;" align="left">
@@ -521,7 +521,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Damai Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-sec/) | [Dazhong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/da-zhong-pri/) | [De La Salle School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/de-la-salle-sch/) |
+| [Damai Secondary School](/school-histories/damai-sec/) | [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) |
 
 <img src="/images/crestD6.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestD7.png" style="width:18%;margin-left:145px;" align="left">
@@ -531,7 +531,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Circus Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-circus-pri/) | [Delta East Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-east-pri/) | [Delta Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-pri/) |
+| [Delta Circus Primary School](/school-histories/delta-circus-pri/) | [Delta East Primary School](/school-histories/delta-east-pri/) | [Delta Primary School](/school-histories/delta-pri/) |
 
 <img src="/images/crestD9.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestD10.png" style="width:20%;margin-left:145px;" align="left">
