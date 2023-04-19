@@ -1551,7 +1551,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Andrew's Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-jc/) | [St Andrew's Junior School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-andrew-sec/) |
+| [St Andrew's Junior College](/school-histories/st-andrew-jc/) | [St Andrew's Junior School](/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](/school-histories/st-andrew-sec/) |
 
 <img src="/images/crestS36.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS37.jpg" style="width:18%;margin-left:125px;" align="left">
@@ -1561,7 +1561,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Anthony's Canossian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-george-road-tamil-sch/) |
+| [St Anthony's Canossian Primary School](/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](/school-histories/st-george-road-tamil-sch/) |
 
 <img src="/images/crestS39.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS40.jpg" style="width:16%;margin-left:125px;" align="left">
@@ -1571,7 +1571,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Joseph's Institution Junior](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution-junior/) | [St Patrick's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-patrick-sch/) | [St Thomas Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-thomas-sec/) |
+| [St Joseph's Institution Junior](/school-histories/st-joseph-institution-junior/) | [St Patrick's School](/school-histories/st-patrick-sch/) | [St Thomas Secondary School](/school-histories/st-thomas-sec/) |
 
 <img src="/images/crestS42.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestS43.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1581,7 +1581,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Anthony's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-gabriel-sec/) |
+| [St. Anthony's Primary School](/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](/school-histories/st-gabriel-sec/) |
 
 <img src="/images/crestS45.png" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestss1.jpg" style="width:23%;margin-left:105px;" align="left">
@@ -1591,7 +1591,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Hilda's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-hilda-sec/) | [St. Joseph's Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-joseph-institution/) |
+| [St. Hilda's Primary School](/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](/school-histories/st-hilda-sec/) | [St. Joseph's Institution](/school-histories/st-joseph-institution/) |
 
 <img src="/images/crestss3.jpg" style="width:17%;margin-left:95px;" align="left">
 <img src="/images/crestS46.png" style="width:17%;margin-left:125px;" align="left">
@@ -1601,7 +1601,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Margaret's Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-margaret-sec/) | [St. Stephen's School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-stephen-sch/) |
+| [St. Margaret's Primary School](/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](/school-histories/st-margaret-sec/) | [St. Stephen's School](/school-histories/st-stephen-sch/) |
 
 <img src="/images/crestss4.jpg" style="width:16%;margin-left:95px;" align="left">
 <img src="/images/crestss5.jpg" style="width:20%;margin-left:125px;" align="left">
@@ -1611,7 +1611,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Theresa's High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-girls-sch/) | [Stamford Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/stamford-pri/) |
+| [St. Theresa's High School](/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](/school-histories/stamford-girls-sch/) | [Stamford Primary School](/school-histories/stamford-pri/) |
 
 <img src="/images/crestss6.jpg" style="width:23%;margin-left:75px;" align="left">
 <img src="/images/crestS52.png" style="width:18%;margin-left:95px;" align="left">
@@ -1621,7 +1621,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Swiss Cottage Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/swiss-cottage-sec/) | [Tampines Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-jc/) |
+| [Swiss Cottage Primary School](/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](/school-histories/swiss-cottage-sec/) | [Tampines Junior College](/school-histories/tampines-jc/) |
 
 <img src="/images/crestT2.png" style="width:20%;margin-left:85px;" align="left">
 <img src="/images/crestT3.png" style="width:20%;margin-left:105px;" align="left">
@@ -1631,7 +1631,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-north-pri/) | [Tampines Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-pri/) |
+| [Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](/school-histories/tampines-north-pri/) | [Tampines Primary School](/school-histories/tampines-pri/) |
 
 <img src="/images/crestT5.jpg" style="width:20%;margin-left:85px;" align="left">
 <img src="/images/crestT6.png" style="width:20%;margin-left:105px;" align="left">
