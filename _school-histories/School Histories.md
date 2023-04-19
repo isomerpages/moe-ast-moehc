@@ -80,7 +80,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anglo Chinese School (Barker Road)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acjc/) | [Anglo Chinese School (Independent)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-i/) |
+| [Anglo Chinese School (Barker Road)](/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](/school-histories/acjc/) | [Anglo Chinese School (Independent)](/school-histories/acs-i/) |
 
 <img src="/images/crest22.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest23.jpg" style="width:18%;margin-left:125px;" align="left">
