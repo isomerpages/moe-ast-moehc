@@ -1161,7 +1161,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ngee Ann Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ngee-ann-sec/) | [Norfolk Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/norfolk-pri/) |
+| [Ngee Ann Primary School](/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](/school-histories/ngee-ann-sec/) | [Norfolk Primary School](/school-histories/norfolk-pri/) |
 
 <img src="/images/crestN19.png" style="width:18%;margin-left:55px;" align="left">
 <img src="/images/crestN20.jpg" style="width:22%;margin-left:105px;" align="left">
