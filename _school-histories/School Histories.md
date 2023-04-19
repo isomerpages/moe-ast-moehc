@@ -50,7 +50,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Ama Keng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ama-keng-sch/) | [Anchor Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anchor-green-pri/) | [Anderson Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-jc/) |
+| [Ama Keng School](/school-histories/ama-keng-sch/) | [Anchor Green Primary School](/school-histories/anchor-green-pri/) | [Anderson Junior College](/school-histories/anderson-jc/) |
 
 <img src="/images/crest13.png" style="width:15%;margin-left:65px;" align="left">
 <img src="/images/crest14.jpg" style="width:16%;margin-left:155px;" align="left">
@@ -60,7 +60,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Anderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-pri/) | [Anderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-sec/) | [Anderson Serangoon Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anderson-serangoon-jc/) |
+| [Anderson Primary School](/school-histories/anderson-pri/) | [Anderson Secondary School](/school-histories/anderson-sec/) | [Anderson Serangoon Junior College](/school-histories/anderson-serangoon-jc/) |
 
 <img src="/images/crest16.png" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crest17.jpg" style="width:16%;margin-left:105px;" align="left">
