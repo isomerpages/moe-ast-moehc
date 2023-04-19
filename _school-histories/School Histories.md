@@ -70,7 +70,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Ang Mo Kio Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/amk-sec/) | [Anglican High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anglican-high-sch/) |
+| [Ang Mo Kio Primary School](/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](/school-histories/amk-sec/) | [Anglican High School](/school-histories/anglican-high-sch/) |
 
 <img src="/images/crest19.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest20.png" style="width:18%;margin-left:125px;" align="left">
