@@ -661,7 +661,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Frontier Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/frontier-pri/) | [Fuchun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuchun-pri/) | [Fuchun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuchun-sec/) |
+| [Frontier Primary School](/school-histories/frontier-pri/) | [Fuchun Primary School](/school-histories/fuchun-pri/) | [Fuchun Secondary School](/school-histories/fuchun-sec/) |
 
 <img src="/images/crestF15.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestF16.png" style="width:18%;margin-left:125px;" align="left">
@@ -671,7 +671,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fuhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-pri/) | [Fuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fuhua-sec/) | [Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/) |
+| [Fuhua Primary School](/school-histories/fuhua-pri/) | [Fuhua Secondary School](/school-histories/fuhua-sec/) | [Gan Eng Seng Primary School](/school-histories/gan-eng-seng-pri/) |
 
 <img src="/images/crestG2.jpg" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestG3.png" style="width:22%;margin-left:125px;" align="left">
@@ -681,7 +681,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Gan Eng Seng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-sch/) | [Geylang Methodist School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-methodist-pri/) | [Geylang Methodist School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-methodist-sec/) |
+| [Gan Eng Seng School](/school-histories/gan-eng-seng-sch/) | [Geylang Methodist School (Primary)](/school-histories/geylang-methodist-pri/) | [Geylang Methodist School (Secondary)](/school-histories/geylang-methodist-sec/) |
 
 <img src="/images/crestG5.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestG6.png" style="width:17%;margin-left:135px;" align="left">
@@ -691,7 +691,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Geylang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/geylang-pri/) | [Ghim Moh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-pri/) | [Ghim Moh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ghim-moh-sec/) |
+| [Geylang Primary School](/school-histories/geylang-pri/) | [Ghim Moh Primary School](/school-histories/ghim-moh-pri/) | [Ghim Moh Secondary School](/school-histories/ghim-moh-sec/) |
 
 <img src="/images/crestG8.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestG9.png" style="width:25%;margin-left:95px;" align="left">
@@ -701,7 +701,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Gongshang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gongshang-pri/) | [Greendale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greendale-pri/) | [Greendale Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greendale-sec/) |
+| [Gongshang Primary School](/school-histories/gongshang-pri/) | [Greendale Primary School](/school-histories/greendale-pri/) | [Greendale Secondary School](/school-histories/greendale-sec/) |
 
 <img src="/images/crestG11.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestG12.jpg" style="width:20%;margin-left:115px;" align="left">
@@ -711,7 +711,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Greenridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenridge-pri/) | [Greenridge Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenridge-sec/) | [Greenwood Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/greenwood-pri/) |
+| [Greenridge Primary School](/school-histories/greenridge-pri/) | [Greenridge Secondary School](/school-histories/greenridge-sec/) | [Greenwood Primary School](/school-histories/greenwood-pri/) |
 
 <img src="/images/crestG14.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestG15.png" style="width:20%;margin-left:125px;" align="left">
