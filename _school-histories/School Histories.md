@@ -461,7 +461,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chung Cheng High School (Main)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-north-pri/) |
+| [Chung Cheng High School (Main)](/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](/school-histories/clementi-north-pri/) |
 
 <img src="/images/crestC47.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC48.png" style="width:21%;margin-left:145px;" align="left">
@@ -471,7 +471,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Clementi Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-pri/) | [Clementi Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-town-pri/) | [Clementi Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-town-sec/) |
+| [Clementi Primary School](/school-histories/clementi-pri/) | [Clementi Town Primary School](/school-histories/clementi-town-pri/) | [Clementi Town Secondary School](/school-histories/clementi-town-sec/) |
 
 <img src="/images/crestC50.png" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crestC51.jpg" style="width:23%;margin-left:105px;" align="left">
@@ -481,7 +481,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Clementi Woods Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/clementi-woods-sec/) | [Commonwealth Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/commonwealth-sec/) | [Compassvale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/compassvale-pri/) |
+| [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/) | [Commonwealth Secondary School](/school-histories/commonwealth-sec/) | [Compassvale Primary School](/school-histories/compassvale-pri/) |
 
 <img src="/images/crestC53.jpg" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crestC54.png" style="width:23%;margin-left:105px;" align="left">
@@ -491,7 +491,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Compassvale Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/compassvale-sec/) | [Concord Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/concord-pri/) | [Coral Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-pri/) |
+| [Compassvale Secondary School](/school-histories/compassvale-sec/) | [Concord Primary School](/school-histories/concord-pri/) | [Coral Primary School](/school-histories/coral-pri/) |
 
 <img src="/images/crestC56.png" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crestC57.png" style="width:20%;margin-left:105px;" align="left">
@@ -501,7 +501,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Coral Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-sec/) | [Corporation Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/corporation-pri/) | [Crescent Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/crescent-girls-sch/) |
+| [Coral Secondary School](/school-histories/coral-sec/) | [Corporation Primary School](/school-histories/corporation-pri/) | [Crescent Girls' School](/school-histories/crescent-girls-sch/) |
 
 <img src="/images/crestC59.png" style="width:17%;margin-left:75px;" align="left">
 <img src="/images/crestD1.jpg" style="width:27%;margin-left:105px;" align="left">
