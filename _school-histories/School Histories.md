@@ -921,7 +921,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kay Siang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kay-siang-pri/) | [Kebun Baru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kebun-baru-pri/) | [Kembangan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kembangan-pri/) |
+| [Kay Siang Primary School](/school-histories/kay-siang-pri/) | [Kebun Baru Primary School](/school-histories/kebun-baru-pri/) | [Kembangan Primary School](/school-histories/kembangan-pri/) |
 
 <img src="/images/crestK5.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestK6.png" style="width:22%;margin-left:85px;" align="left">
@@ -931,7 +931,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Keming Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keming-pri/) | [Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/) | [Kent Ridge Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kent-ridge-sec/) |
+| [Keming Primary School](/school-histories/keming-pri/) | [Keng Seng Primary School](/school-histories/keng-seng-pri/) | [Kent Ridge Secondary School](/school-histories/kent-ridge-sec/) |
 
 <img src="/images/crestK8.png" style="width:19%;margin-left:55px;" align="left">
 <img src="/images/crestK9.png" style="width:19%;margin-left:105px;" align="left">
