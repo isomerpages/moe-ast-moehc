@@ -6,7 +6,7 @@ third_nav_title: Beginnings of Education
 ---
 <img src="/images/beginningsofeducation2.gif" style="width:100%">
 
-<img src="/images/japoccupation.png" style="width:40%;margin-left:15px;" align = "right">
+<img src="/images/japoccupation.png" style="width:40%;margin-left:15px;" align="right">
 
 Education came to a near-complete standstill, during the years of the Japanese Occupation from 1942 to 1945. The war interrupted schooling for most, as schools were destroyed or seized for military use. The Japanese Military Administration required all students to speak Japanese, and to take instruction in the Japanese language. They had hoped that people would acquire the Japanese spirit and an undying loyalty to the Emperor.
 
@@ -40,7 +40,7 @@ In schools, students were taught how to recognise bombs and how to administer fi
 <p>
 To enforce the learning of the Japanese language, dedicated language schools like Syonan Nippon Gakuen were set up in 1942, taking in students of different ages and occupations. Students had to undergo a three-month course of study during which they learned the Japanese language and were taught the Japanese spirit and way of life.<br><br>
 
-<figure>
+</p><figure>
 <img src="/images/japaneseoccupation1.png" style="width:65%">
 <figcaption><strong>A Japanese language class during the Japanese Occupation (c. 1942).</strong><br>
 	<small>Soh Chuan Lam Collection, courtesy of National Archives of Singapore.</small>
@@ -50,16 +50,16 @@ To enforce the learning of the Japanese language, dedicated language schools lik
 The teaching of Japanese in schools was also made compulsory in 1942. Teachers had to undergo Japanese language instruction and were banned from using the English language in schools. Teachers who struggled to learn the language or who were unwilling to learn were dismissed.	<br>
 	
 <figure>	
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation2.png">  
-<img src="/images/japaneseoccupation2.png" style="width:30%;margin-right:15px;" align = "left"> 
+<p><a href="/images/japaneseoccupation2.png">  
+<img src="/images/japaneseoccupation2.png" style="width:30%;margin-right:15px;" align="left"> 
 </a></p>	
 	
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation3.png">  
-<img src="/images/japaneseoccupation3.png" style="width:30%;margin-right:15px;" align = "left"> 
+<p><a href="/images/japaneseoccupation3.png">  
+<img src="/images/japaneseoccupation3.png" style="width:30%;margin-right:15px;" align="left"> 
 </a></p>	
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/japaneseoccupation4.png">  
-<img src="/images/japaneseoccupation4.png" style="width:30%;margin-right:15px;" align = "left"> 
+<p><a href="/images/japaneseoccupation4.png">  
+<img src="/images/japaneseoccupation4.png" style="width:30%;margin-right:15px;" align="left"> 
 </a></p>		
 
 <br clear="left">	
@@ -68,7 +68,7 @@ The teaching of Japanese in schools was also made compulsory in 1942. Teachers h
 </figcaption>  
 </figure>		
 
-</p>  
+<p></p>  
   
 </div>  
   
@@ -85,7 +85,7 @@ The teaching of Japanese in schools was also made compulsory in 1942. Teachers h
 <p>
 Every morning, students and teachers had to assemble, face the direction of the Imperial Palace, and bow deeply. The Japanese flag would be raised as they sang Kimigayo, the Japanese national anthem.<br><br>
 
-<figure>	
+</p><figure>	
 <img src="/images/japaneseoccupation5.png" style="width:65%">
 <figcaption><strong>People bowing to the Japanese troops (1945).</strong><br>
 	<small>Argus newspaper collection of war photographs, State Library of Victoria.</small>
@@ -108,7 +108,7 @@ Courtesy of the National Museum of Singapore, National Heritage Board.
 </figcaption>
 </figure>	
   
-</p>  
+<p></p>  
   
 </div>  
   
@@ -117,18 +117,18 @@ Courtesy of the National Museum of Singapore, National Heritage Board.
 </ul>
 
 #### **Educational Materials** 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/nipponese-self-taught/">  
-<img src="/images/edumat1.png" style="width:20%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/nipponese-self-taught/">  
+<img src="/images/edumat1.png" style="width:20%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-conversation-textbook/">  
-<img src="/images/edumat2.png" style="width:21%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/japanese-conversation-textbook/">  
+<img src="/images/edumat2.png" style="width:21%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-language-textbook-with-malay-translation/">  
-<img src="/images/edumat3.png" style="width:20%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/japanese-language-textbook-with-malay-translation/">  
+<img src="/images/edumat3.png" style="width:20%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/japanese-textbooks-for-teachers/">  
-<img src="/images/edumat4.png" style="width:21%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/japanese-textbooks-for-teachers/">  
+<img src="/images/edumat4.png" style="width:21%;margin-right:15px;" align="left">
 </a></p>
