@@ -961,7 +961,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Seng Technical School](/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-west-sch/) | [Kong Chow School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-chow-sch/) |
+| [Kim Seng Technical School](/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](/school-histories/kim-seng-west-sch/) | [Kong Chow School](/school-histories/kong-chow-sch/) |
 
 <img src="/images/crestK17.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestK18.png" style="width:20%;margin-left:95px;" align="left">
@@ -971,7 +971,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kong Hwa School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-pri/) |
+| [Kong Hwa School](/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](/school-histories/kranji-pri/) |
 
 <img src="/images/crestK20.png" style="width:25%;margin-left:55px;" align="left">
 <img src="/images/crestK21.png" style="width:23%;margin-left:75px;" align="left">
@@ -981,7 +981,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kranji Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kuo-chuan-presbyterian-sec/) |
+| [Kranji Secondary School](/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](/school-histories/kuo-chuan-presbyterian-sec/) |
 
 <img src="/images/crestK23.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestL1.png" style="width:25%;margin-left:95px;" align="left">
@@ -991,7 +991,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kwong Wai Shiu Peck Shan Ting School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/labrador-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/) |
+| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](/school-histories/labrador-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/) |
 
 <img src="/images/crestL3.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestL4.png" style="width:23%;margin-left:105px;" align="left">
@@ -1001,7 +1001,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Lee Kuo Chuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lianhua-pri/) | [Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/) |
+| [Lee Kuo Chuan Primary School](/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](/school-histories/lianhua-pri/) | [Loyang Primary School](/school-histories/loyang-pri/) |
 
 <img src="/images/crestL6.jpg" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crestM1.png" style="width:23%;margin-left:65px;" align="left">
@@ -1011,7 +1011,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Loyang View Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-view-sec/) | [Macpherson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-pri/) | [Macpherson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/) |
+| [Loyang View Secondary School](/school-histories/loyang-view-sec/) | [Macpherson Primary School](/school-histories/macpherson-pri/) | [Macpherson Secondary School](/school-histories/macpherson-sec/) |
 
 <img src="/images/crestM3.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestM4.png" style="width:23%;margin-left:85px;" align="left">
