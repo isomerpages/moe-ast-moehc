@@ -90,7 +90,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anglo Chinese School (Junior)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/acs-pri/) | [Angsana Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/angsana-pri/) |
+| [Anglo Chinese School (Junior)](/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](/school-histories/acs-pri/) | [Angsana Primary School](/school-histories/angsana-pri/) |
 
 <img src="/images/crest25.jpg" style="width:18%;margin-left:85px;" align="left">
 <img src="/images/crest26.png" style="width:15%;margin-left:115px;" align="left">
