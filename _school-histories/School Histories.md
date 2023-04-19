@@ -30,7 +30,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ahmad Ibrahim Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-sec/) | [Ai Tong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ai-tong-sch/) | [Alexandra Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-estate-pri-sch/) |
+| [Ahmad Ibrahim Secondary School](/school-histories/ahmad-ibrahim-sec/) | [Ai Tong School](/school-histories/ai-tong-sch/) | [Alexandra Estate Primary School](/school-histories/alexandra-estate-pri-sch/) |
 
 <img src="/images/crest7.png" style="width:15%;margin-left:65px;" align="left">
 <img src="/images/crest8.png" style="width:16%;margin-left:155px;" align="left">
