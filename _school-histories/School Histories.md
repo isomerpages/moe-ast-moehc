@@ -721,7 +721,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Griffiths Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/) | [Guangyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-pri/) | [Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/) |
+| [Griffiths Primary School](/school-histories/griffiths-pri/) | [Guangyang Primary School](/school-histories/guangyang-pri/) | [Guangyang Secondary School](/school-histories/guangyang-sec/) |
 
 <img src="/images/crestG17.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestH1.jpg" style="width:22%;margin-left:125px;" align="left">
@@ -731,7 +731,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Guillemard Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guillemard-pri/) | [Hai Sing Catholic School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hai-sing-catholic-sch/) | [Haig Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-boys-sch/) |
+| [Guillemard Primary School](/school-histories/guillemard-pri/) | [Hai Sing Catholic School](/school-histories/hai-sing-catholic-sch/) | [Haig Boys' School](/school-histories/haig-boys-sch/) |
 
 <img src="/images/crestH3.png" style="width:22%;margin-left:65px;" align="left">
 <img src="/images/crestH4.jpg" style="width:20%;margin-left:125px;" align="left">
@@ -741,7 +741,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Haig Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/haig-girls-sch/) | [Havelock Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/havelock-pri/) | [Havelock School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/havelock-sch/) |
+| [Haig Girls' School](/school-histories/haig-girls-sch/) | [Havelock Primary School](/school-histories/havelock-pri/) | [Havelock School](/school-histories/havelock-sch/) |
 
 <img src="/images/crestH6.png" style="width:23%;margin-left:65px;" align="left">
 <img src="/images/crestH7.png" style="width:18%;margin-left:125px;" align="left">
@@ -751,7 +751,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/) | [Henderson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-sec/) | [Heng A Khe Bong School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/heng-a-khe-bong-sch/) |
+| [Henderson Primary School](/school-histories/henderson-pri/) | [Henderson Secondary School](/school-histories/henderson-sec/) | [Heng A Khe Bong School](/school-histories/heng-a-khe-bong-sch/) |
 
 <img src="/images/crestH9.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestH10.jpg" style="width:30%;margin-left:65px;" align="left">
