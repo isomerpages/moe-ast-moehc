@@ -381,7 +381,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chestnut Drive Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-pri/) | [Chij Katong Convent](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-katong-convent/) |
+| [Chestnut Drive Secondary School](/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](/school-histories/chij-katong-pri/) | [Chij Katong Convent](/school-histories/chij-katong-convent/) |
 
 <img src="/images/crestC23.jpg" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestC24.png" style="width:18%;margin-left:125px;" align="left">
@@ -391,7 +391,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Kellock](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-kellock/) | [Chij Opera Estate Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-opera-estate-pri/) | [Chij Our Lady Of Good Counsel](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-of-good-counsel/) |
+| [Chij Kellock](/school-histories/chij-kellock/) | [Chij Opera Estate Primary School](/school-histories/chij-opera-estate-pri/) | [Chij Our Lady Of Good Counsel](/school-histories/chij-our-lady-of-good-counsel/) |
 
 <img src="/images/crestC26.jpg" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestC27.jpg" style="width:20%;margin-left:125px;" align="left">
@@ -401,7 +401,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Our Lady Of The Nativity](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-of-nativity/) | [Chij Our Lady Queen Of Peace](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-our-lady-queen-of-peace/) | [Chij Primary (Toa Payoh)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chij-pri-tpy/) |
+| [Chij Our Lady Of The Nativity](/school-histories/chij-our-lady-of-nativity/) | [Chij Our Lady Queen Of Peace](/school-histories/chij-our-lady-queen-of-peace/) | [Chij Primary (Toa Payoh)](/school-histories/chij-pri-tpy/) |
 
 <img src="/images/crestC29.jpg" style="width:25%;margin-left:65px;" align="left">
 <img src="/images/crestC30.jpg" style="width:18%;margin-left:105px;" align="left">
