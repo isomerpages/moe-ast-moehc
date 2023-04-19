@@ -20,7 +20,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Admiralty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admps/) | [Admiralty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/ahmad-ibrahim-pri/) |
+| [Admiralty Primary School](/school-histories/admps/) | [Admiralty Secondary School](/school-histories/admiralty-sec/) | [Ahmad Ibrahim Primary School](/school-histories/ahmad-ibrahim-pri/) |
 
 <img src="/images/crest4.jpg" style="width:15%;margin-left:65px;" align="left">
 <img src="/images/crest5.png" style="width:20%;margin-left:135px;" align="left">
