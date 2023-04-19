@@ -611,7 +611,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Eunoia Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/eunoia-jc/) | [Eunos Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/eunos-pri/) | [Evergreen Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/evergreen-pri/) |
+| [Eunoia Junior College](/school-histories/eunoia-jc/) | [Eunos Primary School](/school-histories/eunos-pri/) | [Evergreen Primary School](/school-histories/evergreen-pri/) |
 
 <img src="/images/crestE16.png" style="width:25%;margin-left:35px;" align="left">
 <img src="/images/crestF1.png" style="width:20%;margin-left:115px;" align="left">
@@ -621,7 +621,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Evergreen Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/evergren-sec/) | [Fairfield Methodist School (Primary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fairfield-methodist-pri/) | [Fairfield Methodist School (Secondary)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fairfield-methodist-sec/) |
+| [Evergreen Secondary School](/school-histories/evergren-sec/) | [Fairfield Methodist School (Primary)](/school-histories/fairfield-methodist-pri/) | [Fairfield Methodist School (Secondary)](/school-histories/fairfield-methodist-sec/) |
 
 <img src="/images/crestF3.jpg" style="width:24%;margin-left:55px;" align="left">
 <img src="/images/crestF4.png" style="width:18%;margin-left:115px;" align="left">
