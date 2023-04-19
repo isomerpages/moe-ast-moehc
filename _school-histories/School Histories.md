@@ -1041,7 +1041,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Marsiling Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-pri/) | [Marsiling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marsiling-sec/) | [Marymount Convent School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/marymount-convent/) |
+| [Marsiling Primary School](/school-histories/marsiling-pri/) | [Marsiling Secondary School](/school-histories/marsiling-sec/) | [Marymount Convent School](/school-histories/marymount-convent/) |
 
 <img src="/images/crestM12.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestM13.png" style="width:20%;margin-left:95px;" align="left">
@@ -1051,7 +1051,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mattar East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mattar-east-sch/) | [Mattar Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mattar-pri/) | [May Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/may-pri/) |
+| [Mattar East School](/school-histories/mattar-east-sch/) | [Mattar Primary School](/school-histories/mattar-pri/) | [May Primary School](/school-histories/may-pri/) |
 
 <img src="/images/crestM15.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestM16.png" style="width:22%;margin-left:85px;" align="left">
@@ -1061,7 +1061,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mayflower Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mayflower-pri/) | [Mayflower Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mayflower-sec/) | [Mee Toh School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mee-toh-sch/) |
+| [Mayflower Primary School](/school-histories/mayflower-pri/) | [Mayflower Secondary School](/school-histories/mayflower-sec/) | [Mee Toh School](/school-histories/mee-toh-sch/) |
 
 <img src="/images/crestM18.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestM19.png" style="width:20%;margin-left:85px;" align="left">
