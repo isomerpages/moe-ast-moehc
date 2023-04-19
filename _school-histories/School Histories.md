@@ -140,7 +140,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bartley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-pri/) | [Bartley Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bartley-sec/) | [Batu Berlayar School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/batu-berlayar-sch/) |
+| [Bartley Primary School](/school-histories/bartley-pri/) | [Bartley Secondary School](/school-histories/bartley-sec/) | [Batu Berlayar School](/school-histories/batu-berlayar-sch/) |
 
 <img src="/images/crest40.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest41.png" style="width:20%;margin-left:115px;" align="left">
@@ -150,7 +150,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Beacon Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beacon-pri/) | [Beatty Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beatty-pri/) | [Beatty Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beatty-sec/) |
+| [Beacon Primary School](/school-histories/beacon-pri/) | [Beatty Primary School](/school-histories/beatty-pri/) | [Beatty Secondary School](/school-histories/beatty-sec/) |
 
 <img src="/images/crest43.png" style="width:20%;margin-left:45px;" align="left">
 <img src="/images/crest44.png" style="width:20%;margin-left:125px;" align="left">
@@ -160,7 +160,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-boys-sch/) | [Bedok Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-girls-sch/) | [Bedok Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-green-pri/) |
+| [Bedok Boys' School](/school-histories/bedok-boys-sch/) | [Bedok Girls' School](/school-histories/bedok-girls-sch/) | [Bedok Green Primary School](/school-histories/bedok-green-pri/) |
 
 <img src="/images/crest46.jpg" style="width:18%;margin-left:45px;" align="left">
 <img src="/images/crest47.png" style="width:20%;margin-left:125px;" align="left">
