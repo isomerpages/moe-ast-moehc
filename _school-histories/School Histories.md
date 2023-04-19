@@ -321,7 +321,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cambridge Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cambridge-pri/) | [Canberra Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-pri/) | [Canberra Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canberra-sec/) |
+| [Cambridge Primary School](/school-histories/cambridge-pri/) | [Canberra Primary School](/school-histories/canberra-pri/) | [Canberra Secondary School](/school-histories/canberra-sec/) |
 
 <img src="/images/crestC5.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestC6.png" style="width:22%;margin-left:135px;" align="left">
@@ -331,7 +331,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Canossa Catholic Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/canossa-catholic-pri/) | [Cantonment Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cantonment-pri/) | [Cantonment School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cantonment-sch/) |
+| [Canossa Catholic Primary School](/school-histories/canossa-catholic-pri/) | [Cantonment Primary School](/school-histories/cantonment-pri/) | [Cantonment School](/school-histories/cantonment-sch/) |
 
 <img src="/images/crestC8.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC9.jpg" style="width:35%;margin-left:75px;" align="left">
@@ -341,7 +341,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Casuarina Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/casuarina-pri/) | [Catholic High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-high-sch/) | [Catholic Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/catholic-jc/) |
+| [Casuarina Primary School](/school-histories/casuarina-pri/) | [Catholic High School](/school-histories/catholic-high-sch/) | [Catholic Junior College](/school-histories/catholic-jc/) |
 
 <img src="/images/crestC11.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC12.png" style="width:20%;margin-left:125px;" align="left">
@@ -351,7 +351,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cedar Boys' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-boys-pri/) | [Cedar Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-girls-pri/) | [Cedar Girls' Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-girls-sec/) |
+| [Cedar Boys' Primary School](/school-histories/cedar-boys-pri/) | [Cedar Girls' Primary School](/school-histories/cedar-girls-pri/) | [Cedar Girls' Secondary School](/school-histories/cedar-girls-sec/) |
 
 <img src="/images/crestC14.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestC15.png" style="width:18%;margin-left:145px;" align="left">
@@ -361,7 +361,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cedar Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cedar-pri/) | [Chai Chee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chai-chee-sec/) | [Changkat Changi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/changkat-changi-sec/) |
+| [Cedar Primary School](/school-histories/cedar-pri/) | [Chai Chee Secondary School](/school-histories/chai-chee-sec/) | [Changkat Changi Secondary School](/school-histories/changkat-changi-sec/) |
 
 <img src="/images/crestC17.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crestC18.png" style="width:15%;margin-left:155px;" align="left">
@@ -371,7 +371,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Changkat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/changkat-pri/) | [Chao Yang School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chao-yang-sch/) | [Charlton School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/charlton-sch/) |
+| [Changkat Primary School](/school-histories/changkat-pri/) | [Chao Yang School](/school-histories/chao-yang-sch/) | [Charlton School](/school-histories/charlton-sch/) |
 
 <img src="/images/crestC20.png" style="width:22%;margin-left:65px;" align="left">
 <img src="/images/crestC21.png" style="width:20%;margin-left:135px;" align="left">
