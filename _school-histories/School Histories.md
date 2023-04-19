@@ -541,7 +541,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-sec/) | [Delta West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/delta-west-pri/) | [Deyi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/deyi-sec/) |
+| [Delta Secondary School](/school-histories/delta-sec/) | [Delta West Primary School](/school-histories/delta-west-pri/) | [Deyi Secondary School](/school-histories/deyi-sec/) |
 
 <img src="/images/crestD12.png" style="width:23%;margin-left:45px;" align="left">
 <img src="/images/crestD13.png" style="width:20%;margin-left:125px;" align="left">
@@ -551,7 +551,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dorset Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dorset-pri/) | [Duchess School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/duchess-sch/) | [Dunearn Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunearn-sec/) |
+| [Dorset Primary School](/school-histories/dorset-pri/) | [Duchess School](/school-histories/duchess-sch/) | [Dunearn Secondary School](/school-histories/dunearn-sec/) |
 
 <img src="/images/crestD15.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestD16.jpg" style="width:20%;margin-left:125px;" align="left">
@@ -561,7 +561,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dunman High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunman-high/) | [Dunman Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/dunman-sec/) | [East Coast Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/east-coast-pri/) |
+| [Dunman High School](/school-histories/dunman-high/) | [Dunman Secondary School](/school-histories/dunman-sec/) | [East Coast Primary School](/school-histories/east-coast-pri/) |
 
 <img src="/images/crestE2.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestE3.jpg" style="width:22%;margin-left:115px;" align="left">
