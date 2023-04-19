@@ -941,7 +941,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Keppel Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keppel-pri/) | [Keppel School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keppel-sch/) | [Kheng Cheng School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kheng-cheng-sch/) |
+| [Keppel Primary School](/school-histories/keppel-pri/) | [Keppel School](/school-histories/keppel-sch/) | [Kheng Cheng School](/school-histories/kheng-cheng-sch/) |
 
 <img src="/images/crestK11.png" style="width:19%;margin-left:55px;" align="left">
 <img src="/images/crestK12.png" style="width:20%;margin-left:105px;" align="left">
@@ -951,7 +951,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Keat Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-keat-pri/) | [Kim Seng East School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-pri/) |
+| [Kim Keat Primary School](/school-histories/kim-keat-pri/) | [Kim Seng East School](/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](/school-histories/kim-seng-pri/) |
 
 <img src="/images/crestK14.png" style="width:19%;margin-left:55px;" align="left">
 <img src="/images/crestK15.png" style="width:20%;margin-left:105px;" align="left">
@@ -961,7 +961,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Seng Technical School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-west-sch/) | [Kong Chow School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-chow-sch/) |
+| [Kim Seng Technical School](/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kim-seng-west-sch/) | [Kong Chow School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kong-chow-sch/) |
 
 <img src="/images/crestK17.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestK18.png" style="width:20%;margin-left:95px;" align="left">
