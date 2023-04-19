@@ -170,7 +170,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Green Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-green-sec/) | [Bedok North Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-pri/) | [Bedok North Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-north-sec/) |
+| [Bedok Green Secondary School](/school-histories/bedok-green-sec/) | [Bedok North Primary School](/school-histories/bedok-north-pri/) | [Bedok North Secondary School](/school-histories/bedok-north-sec/) |
 
 <img src="/images/crest49.png" style="width:20%;margin-left:45px;" align="left">
 <img src="/images/crest50.png" style="width:20%;margin-left:115px;" align="left">
