@@ -1331,7 +1331,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Presbyterian High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pulau-tekong-pri/) |
+| [Presbyterian High School](/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](/school-histories/pulau-tekong-pri/) |
 
 <img src="/images/crestP32.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP33.png" style="width:34%;margin-left:75px;" align="left">
@@ -1341,7 +1341,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Cove Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-green-pri/) | [Punggol Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-pri/) |
+| [Punggol Cove Primary School](/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](/school-histories/punggol-green-pri/) | [Punggol Primary School](/school-histories/punggol-pri/) |
 
 <img src="/images/crestP35.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestP36.jpg" style="width:22%;margin-left:105px;" align="left">
@@ -1351,7 +1351,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-sec/) | [Punggol View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/punggol-view-pri/) | [Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/) |
+| [Punggol Secondary School](/school-histories/punggol-sec/) | [Punggol View Primary School](/school-histories/punggol-view-pri/) | [Qiaonan Primary School](/school-histories/qiaonan-pri/) |
 
 <img src="/images/crestQ2.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestQ3.png" style="width:20%;margin-left:105px;" align="left">
