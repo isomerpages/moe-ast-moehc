@@ -220,7 +220,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Beng Wan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/beng-wan-pri/) | [Birkhall Road School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bishan-park-sec/) |
+| [Beng Wan Primary School](/school-histories/beng-wan-pri/) | [Birkhall Road School](/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](/school-histories/bishan-park-sec/) |
 
 <img src="/images/crest64.png" style="width:15%;margin-left:65px;" align="left">
 <img src="/images/crest65.png" style="width:25%;margin-left:115px;" align="left">
