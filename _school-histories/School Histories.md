@@ -1361,7 +1361,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Qifa Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qifa-pri/) | [Qihua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qihua-pri/) | [Queenstown Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-pri/) |
+| [Qifa Primary School](/school-histories/qifa-pri/) | [Qihua Primary School](/school-histories/qihua-pri/) | [Queenstown Primary School](/school-histories/queenstown-pri/) |
 
 <img src="/images/crestQ5.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestQ6.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1371,7 +1371,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Queenstown Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-sec/) | [Queensway Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queensway-sec/) | [Radin Mas Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/radin-mas-pri/) |
+| [Queenstown Secondary School](/school-histories/queenstown-sec/) | [Queensway Secondary School](/school-histories/queensway-sec/) | [Radin Mas Primary School](/school-histories/radin-mas-pri/) |
 
 <img src="/images/crestR2.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR3.jpg" style="width:22%;margin-left:105px;" align="left">
@@ -1381,7 +1381,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Girls' Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-pri/) | [Raffles Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-girls-sch/) | [Raffles Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-institution/) |
+| [Raffles Girls' Primary School](/school-histories/raffles-girls-pri/) | [Raffles Girls' School](/school-histories/raffles-girls-sch/) | [Raffles Institution](/school-histories/raffles-institution/) |
 
 <img src="/images/crestR5.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR6.png" style="width:20%;margin-left:105px;" align="left">
@@ -1391,7 +1391,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rangoon-sec/) |
+| [Raffles Junior College](/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](/school-histories/rangoon-sec/) |
 
 <img src="/images/crestR8.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR9.png" style="width:20%;margin-left:115px;" align="left">
@@ -1401,7 +1401,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rayman School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rayman-sch/) | [Red Swastika School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/red-swastika-sch/) | [Redhill School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/redhill-sch/) |
+| [Rayman School](/school-histories/rayman-sch/) | [Red Swastika School](/school-histories/red-swastika-sch/) | [Redhill School](/school-histories/redhill-sch/) |
 
 <img src="/images/crestR11.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR12.png" style="width:18%;margin-left:125px;" align="left">
@@ -1411,7 +1411,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Regent Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/regent-sec/) | [River Valley English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-government-chi-sch/) |
+| [Regent Secondary School](/school-histories/regent-sec/) | [River Valley English School](/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](/school-histories/river-valley-government-chi-sch/) |
 
 <img src="/images/crestR14.jpg" style="width:19%;margin-left:55px;" align="left">
 <img src="/images/crestR15.jpg" style="width:16%;margin-left:135px;" align="left">
@@ -1421,7 +1421,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [River Valley High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-high-sch/) | [River Valley Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-valley-pri/) | [Riverside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-pri/) |
+| [River Valley High School](/school-histories/river-valley-high-sch/) | [River Valley Primary School](/school-histories/river-valley-pri/) | [Riverside Primary School](/school-histories/riverside-pri/) |
 
 <img src="/images/crestR17.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestR18.png" style="width:20%;margin-left:95px;" align="left">
@@ -1431,7 +1431,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Riverside Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/riverside-sec/) | [Rivervale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/river-vale-pri-sch/) | [Rosyth School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/rosyth-sch/) |
+| [Riverside Secondary School](/school-histories/riverside-sec/) | [Rivervale Primary School](/school-histories/river-vale-pri-sch/) | [Rosyth School](/school-histories/rosyth-sch/) |
 
 <img src="/images/crestR20.png" style="width:25%;margin-left:55px;" align="left">
 <img src="/images/crestS1.png" style="width:20%;margin-left:105px;" align="left">
