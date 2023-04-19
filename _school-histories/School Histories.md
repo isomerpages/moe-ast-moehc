@@ -431,7 +431,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chong Li Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-li-pri/) | [Chong Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-shan-pri/) | [Chongfu School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongfu-sch/) |
+| [Chong Li Primary School](/school-histories/chong-li-pri/) | [Chong Shan Primary School](/school-histories/chong-shan-pri/) | [Chongfu School](/school-histories/chongfu-sch/) |
 
 <img src="/images/crestC38.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC39.jpg" style="width:18%;margin-left:145px;" align="left">
@@ -441,7 +441,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chongzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chongzheng-pri/) | [Christ Church Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/christ-church-sec/) | [Chua Chu Kang<br> Government Chinese<br> Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-government-chi-pri/) |
+| [Chongzheng Primary School](/school-histories/chongzheng-pri/) | [Christ Church Secondary School](/school-histories/christ-church-sec/) | [Chua Chu Kang<br> Government Chinese<br> Primary School](/school-histories/cck-government-chi-pri/) |
 
 <img src="/images/crestC41.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC42.png" style="width:18%;margin-left:145px;" align="left">
