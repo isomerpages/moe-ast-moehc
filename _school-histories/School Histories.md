@@ -871,7 +871,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Junyuan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-pri/) | [Junyuan Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/junyuan-sec/) | [Jurong Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-intitute/) |
+| [Junyuan Primary School](/school-histories/junyuan-pri/) | [Junyuan Secondary School](/school-histories/junyuan-sec/) | [Jurong Institute](/school-histories/jurong-intitute/) |
 
 <img src="/images/crestJ18.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestJ19.png" style="width:20%;margin-left:105px;" align="left">
