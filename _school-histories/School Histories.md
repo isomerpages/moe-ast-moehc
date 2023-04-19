@@ -1071,7 +1071,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mei Chin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mei-chin-pri/) | [Mei Chin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mei-chin-sec/) | [Membina Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/membina-pri/) |
+| [Mei Chin Primary School](/school-histories/mei-chin-pri/) | [Mei Chin Secondary School](/school-histories/mei-chin-sec/) | [Membina Primary School](/school-histories/membina-pri/) |
 
 <img src="/images/crestM21.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestM22.png" style="width:20%;margin-left:85px;" align="left">
@@ -1081,7 +1081,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Meng Teck School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meng-teck-sch/) | [Meridian Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-jc/) | [Meridian Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-pri/) |
+| [Meng Teck School](/school-histories/meng-teck-sch/) | [Meridian Junior College](/school-histories/meridian-jc/) | [Meridian Primary School](/school-histories/meridian-pri/) |
 
 <img src="/images/crestM24.jpg" style="width:25%;margin-left:45px;" align="left">
 <img src="/images/crestM25.png" style="width:15%;margin-left:85px;" align="left">
@@ -1091,7 +1091,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Meridian Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/meridian-sec/) | [Merlimau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/merlimau-pri/) | [Methodist Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/methodist-girls-sch/) |
+| [Meridian Secondary School](/school-histories/meridian-sec/) | [Merlimau Primary School](/school-histories/merlimau-pri/) | [Methodist Girls' School](/school-histories/methodist-girls-sch/) |
 
 <img src="/images/crestM27.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestM28.png" style="width:20%;margin-left:85px;" align="left">
@@ -1101,7 +1101,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Moulmein Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/moulmein-pri/) | [Mount Vernon Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mount-vernon-sec/) | [Mountbatten Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mountbatten-pri/) |
+| [Moulmein Primary School](/school-histories/moulmein-pri/) | [Mount Vernon Secondary School](/school-histories/mount-vernon-sec/) | [Mountbatten Primary School](/school-histories/mountbatten-pri/) |
 
 <img src="/images/crestN1.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestN2.png" style="width:16%;margin-left:105px;" align="left">
@@ -1111,7 +1111,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nam San School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nam-san-sch/) | [Nan Chiau High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiau-high-sch/) | [Nan Chiau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiau-pri/) |
+| [Nam San School](/school-histories/nam-san-sch/) | [Nan Chiau High School](/school-histories/nan-chiau-high-sch/) | [Nan Chiau Primary School](/school-histories/nan-chiau-pri/) |
 
 <img src="/images/crestN4.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestN5.jpg" style="width:18%;margin-left:105px;" align="left">
@@ -1121,7 +1121,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nan Chiow Public School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-chiow-public-sch/) | [Nan Hua High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-hua-high-sch/) | [Nan Hua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nan-hua-pri/) |
+| [Nan Chiow Public School](/school-histories/nan-chiow-public-sch/) | [Nan Hua High School](/school-histories/nan-hua-high-sch/) | [Nan Hua Primary School](/school-histories/nan-hua-pri/) |
 
 <img src="/images/crestN7.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestN8.jpg" style="width:18%;margin-left:105px;" align="left">
@@ -1131,7 +1131,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nanyang Girls' High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-girls-high-sch/) | [Nanyang Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-jc/) | [Nanyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/nanyang-pri/) |
+| [Nanyang Girls' High School](/school-histories/nanyang-girls-high-sch/) | [Nanyang Junior College](/school-histories/nanyang-jc/) | [Nanyang Primary School](/school-histories/nanyang-pri/) |
 
 <img src="/images/crestN10.jpg" style="width:18%;margin-left:55px;" align="left">
 <img src="/images/crestN11.png" style="width:22%;margin-left:105px;" align="left">
