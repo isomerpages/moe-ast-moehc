@@ -1881,7 +1881,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yangzheng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yang-zheng-pri/) | [Yew Tee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yew-tee-pri/) | [Yio Chu Kang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-pri/) |
+| [Yangzheng Primary School](/school-histories/yang-zheng-pri/) | [Yew Tee Primary School](/school-histories/yew-tee-pri/) | [Yio Chu Kang Primary School](/school-histories/yck-pri/) |
 
 <img src="/images/crestY4.png" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestY5.png" style="width:10%;margin-left:135px;" align="left">
@@ -1891,7 +1891,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yio Chu Kang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yck-sec/) | [Yishun Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-innova-jc/) | [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) |
+| [Yio Chu Kang Secondary School](/school-histories/yck-sec/) | [Yishun Innova Junior College](/school-histories/yishun-innova-jc/) | [Yishun Junior College](/school-histories/yishun-jc/) |
 
 <img src="/images/crestY7.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestY8.png" style="width:16%;margin-left:125px;" align="left">
@@ -1901,7 +1901,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yishun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-pri/) | [Yishun Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-sec/) | [Yishun Town Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-town-sec/) |
+| [Yishun Primary School](/school-histories/yishun-pri/) | [Yishun Secondary School](/school-histories/yishun-sec/) | [Yishun Town Secondary School](/school-histories/yishun-town-sec/) |
 
 <img src="/images/crestY10.png" style="width:22%;margin-left:55px;" align="left">
 <img src="/images/crestY11.jpg" style="width:20%;margin-left:105px;" align="left">
@@ -1911,7 +1911,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yu Neng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuan-ching-sec/) | [Yuhua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-pri/) |
+| [Yu Neng Primary School](/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](/school-histories/yuan-ching-sec/) | [Yuhua Primary School](/school-histories/yuhua-pri/) |
 
 <img src="/images/crestY13.jpg" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestY14.png" style="width:28%;margin-left:95px;" align="left">
@@ -1921,7 +1921,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-sec/) | [Yumin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yumin-pri/) | [Yung An Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) |
+| [Yuhua Secondary School](/school-histories/yuhua-sec/) | [Yumin Primary School](/school-histories/yumin-pri/) | [Yung An Primary School](/school-histories/yung-an-pri/) |
 
 <img src="/images/crestY16.png" style="width:27%;margin-left:35px;" align="left">
 <img src="/images/crestY17.jpg" style="width:20%;margin-left:75px;" align="left">
@@ -1931,7 +1931,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuqun Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuqun-pri/) | [Yusok Ishak Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuying-sec/) |
+| [Yuqun Primary School](/school-histories/yuqun-pri/) | [Yusok Ishak Secondary School](/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](/school-histories/yuying-sec/) |
 
 <img src="/images/crestZ1.png" style="width:16%;margin-left:75px;" align="left">
 <img src="/images/crestZ2.png" style="width:16%;margin-left:135px;" align="left">
@@ -1941,7 +1941,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Zhangde Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhangde-pri/) | [Zhenghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhenghua-pri/) | [Zhenghua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhenghua-sec/) |
+| [Zhangde Primary School](/school-histories/zhangde-pri/) | [Zhenghua Primary School](/school-histories/zhenghua-pri/) | [Zhenghua Secondary School](/school-histories/zhenghua-sec/) |
 
 <img src="/images/crestZ4.png" style="width:18%;margin-left:105px;" align="left">
 <img src="/images/crestZ5.jpg" style="width:24%;margin-right:105px;" align="right">
@@ -1950,4 +1950,4 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |
 |:---:|:---:|
-| [Zhonghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhonghua-pri/) | [Zhonghua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhonghua-sec/) |
+| [Zhonghua Primary School](/school-histories/zhonghua-pri/) | [Zhonghua Secondary School](/school-histories/zhonghua-sec/) |
