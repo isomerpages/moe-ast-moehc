@@ -1021,7 +1021,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [MacRitchie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macritchie-pri/) | [Maha Bodhi School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maha-bodhi-sch/) | [Maju Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maju-sec/) |
+| [MacRitchie Primary School](/school-histories/macritchie-pri/) | [Maha Bodhi School](/school-histories/maha-bodhi-sch/) | [Maju Secondary School](/school-histories/maju-sec/) |
 
 <img src="/images/crestM6.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestM7.jpg" style="width:18%;margin-left:85px;" align="left">
@@ -1031,7 +1031,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Manjusri Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/manjusri-sec/) | [Margaret Drive Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/margaret-drive-pri/) | [Maris Stella High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/maris-stella-high-sch/) |
+| [Manjusri Secondary School](/school-histories/manjusri-sec/) | [Margaret Drive Primary School](/school-histories/margaret-drive-pri/) | [Maris Stella High School](/school-histories/maris-stella-high-sch/) |
 
 <img src="/images/crestM9.jpg" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestM10.jpg" style="width:20%;margin-left:85px;" align="left">
