@@ -100,7 +100,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anthony Road Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/anthony-road-girls-sch/) | [Aroozoo School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/aroozoo-sch/) | [Assumption English School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/assumption-eng-sch/) |
+| [Anthony Road Girls' School](/school-histories/anthony-road-girls-sch/) | [Aroozoo School](/school-histories/aroozoo-sch/) | [Assumption English School](/school-histories/assumption-eng-sch/) |
 
 <img src="/images/crest28.png" style="width:30%;margin-left:45px;" align="left">
 <img src="/images/crest29.png" style="width:20%;margin-left:55px;" align="left">
