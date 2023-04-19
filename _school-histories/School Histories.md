@@ -1641,7 +1641,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tampines-sec/) | [Tanglin Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-pri/) |
+| [Tampines Secondary School](/school-histories/tampines-sec/) | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
 
 <img src="/images/crestT8.jpg" style="width:20%;margin-left:85px;" align="left">
 <img src="/images/crestT9.png" style="width:16%;margin-left:105px;" align="left">
@@ -1651,7 +1651,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanglin Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/) |
+| [Tanglin Secondary School](/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/) |
 
 <img src="/images/crestT11.png" style="width:20%;margin-left:75px;" align="left">
 <img src="/images/crestT12.png" style="width:25%;margin-left:85px;" align="left">
@@ -1661,7 +1661,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Katong Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-girls-sch/) |
+| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
 
 <img src="/images/crestT14.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestT15.png" style="width:18%;margin-left:135px;" align="left">
@@ -1671,7 +1671,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Rhu Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-rhu-pri/) | [Tao Nan School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-ghee-pri/) |
+| [Tanjong Rhu Primary School](/school-histories/tanjong-rhu-pri/) | [Tao Nan School](/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](/school-histories/teck-ghee-pri/) |
 
 <img src="/images/crestT17.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestT18.png" style="width:15%;margin-left:145px;" align="left">
@@ -1681,7 +1681,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Teck Whye Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/telok-ayer-pri/) |
+| [Teck Whye Primary School](/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](/school-histories/telok-ayer-pri/) |
 
 <img src="/images/crestT20.png" style="width:18%;margin-left:75px;" align="left">
 <img src="/images/crestT21.png" style="width:20%;margin-left:115px;" align="left">
