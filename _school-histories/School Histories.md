@@ -641,7 +641,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fengshan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fengshan-pri/) | [Fern Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fern-green-pri/) | [Fernvale Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fernvale-pri/) |
+| [Fengshan Primary School](/school-histories/fengshan-pri/) | [Fern Green Primary School](/school-histories/fern-green-pri/) | [Fernvale Primary School](/school-histories/fernvale-pri/) |
 
 <img src="/images/crestF9.png" style="width:23%;margin-left:75px;" align="left">
 <img src="/images/crestF10.png" style="width:22%;margin-left:75px;" align="left">
@@ -651,7 +651,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [First Toa Payoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/) | [First Toa Payoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-sec/) | [Fowlie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) |
+| [First Toa Payoh Primary School](/school-histories/first-tpy-pri/) | [First Toa Payoh Secondary School](/school-histories/first-tpy-sec/) | [Fowlie Primary School](/school-histories/fowlie-pri/) |
 
 <img src="/images/crestF12.png" style="width:25%;margin-left:65px;" align="left">
 <img src="/images/crestF13.png" style="width:18%;margin-left:85px;" align="left">
