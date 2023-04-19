@@ -631,7 +631,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fajar Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fajar-sec/) | [Farrer Park Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-park-pri/) | [Farrer Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/farrer-pri/) |
+| [Fajar Secondary School](/school-histories/fajar-sec/) | [Farrer Park Primary School](/school-histories/farrer-park-pri/) | [Farrer Primary School](/school-histories/farrer-pri/) |
 
 <img src="/images/crestF6.png" style="width:12%;margin-left:95px;" align="left">
 <img src="/images/crestF7.png" style="width:25%;margin-left:125px;" align="left">
