@@ -901,7 +901,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong West Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-pri/) | [Jurong West Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-west-sec/) | [Jurongville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurongville-sec/) |
+| [Jurong West Primary School](/school-histories/jurong-west-pri/) | [Jurong West Secondary School](/school-histories/jurong-west-sec/) | [Jurongville Secondary School](/school-histories/jurongville-sec/) |
 
 <img src="/images/crestJ27.png" style="width:25%;margin-left:55px;" align="left">
 <img src="/images/crestJ28.png" style="width:24%;margin-left:65px;" align="left">
@@ -911,7 +911,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Juying Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/juying-pri/) | [Juying Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/juying-sec/) | [Kallang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kallang-pri/) |
+| [Juying Primary School](/school-histories/juying-pri/) | [Juying Secondary School](/school-histories/juying-sec/) | [Kallang Primary School](/school-histories/kallang-pri/) |
 
 <img src="/images/crestK2.png" style="width:20%;margin-left:55px;" align="left">
 <img src="/images/crestK3.png" style="width:22%;margin-left:95px;" align="left">
