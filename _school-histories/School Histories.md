@@ -451,7 +451,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chua Chu Kang<br> Malay School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-malay-sch/) | [Chua Chu Kang<br> Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-pri/) | [Chua Chu Kang<br> Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/cck-sec/) |
+| [Chua Chu Kang<br> Malay School](/school-histories/cck-malay-sch/) | [Chua Chu Kang<br> Primary School](/school-histories/cck-pri/) | [Chua Chu Kang<br> Secondary School](/school-histories/cck-sec/) |
 
 <img src="/images/crestC44.jpg" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestC45.jpg" style="width:20%;margin-left:145px;" align="left">
