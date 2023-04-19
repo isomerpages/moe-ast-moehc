@@ -811,7 +811,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hwa Chong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwi-yoh-sec/) | [Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-jc/) |
+| [Hwa Chong Junior College](/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](/school-histories/hwi-yoh-sec/) | [Innova Junior College](/school-histories/innova-jc/) |
 
 <img src="/images/crestI2.png" style="width:22%;margin-left:65px;" align="left">
 <img src="/images/crestJ1.jpg" style="width:18%;margin-left:105px;" align="left">
@@ -821,7 +821,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Innova Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-pri/) | [Jagoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jagoh-pri/) | [Jalan Daud School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jalan-daud-sch/) |
+| [Innova Primary School](/school-histories/innova-pri/) | [Jagoh Primary School](/school-histories/jagoh-pri/) | [Jalan Daud School](/school-histories/jalan-daud-sch/) |
 
 <img src="/images/crestJ3.png" style="width:20%;margin-left:65px;" align="left">
 <img src="/images/crestJ4.jpg" style="width:20%;margin-left:105px;" align="left">
