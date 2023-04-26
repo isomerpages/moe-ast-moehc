@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri2.jpg">  
+<p><a href="/images/operaestatepri2.jpg">  
 <img src="/images/operaestatepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri3.jpg">  
+<p><a href="/images/operaestatepri3.jpg">  
 <img src="/images/operaestatepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri4.jpg">  
+<p><a href="/images/operaestatepri4.jpg">  
 <img src="/images/operaestatepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri5.jpg">  
+<p><a href="/images/operaestatepri5.jpg">  
 <img src="/images/operaestatepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri6.jpg">  
+<p><a href="/images/operaestatepri6.jpg">  
 <img src="/images/operaestatepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri7.jpg">  
+<p><a href="/images/operaestatepri7.jpg">  
 <img src="/images/operaestatepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri8.jpg">  
+<p><a href="/images/operaestatepri8.jpg">  
 <img src="/images/operaestatepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/operaestatepri9.jpg">  
+<p><a href="/images/operaestatepri9.jpg">  
 <img src="/images/operaestatepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

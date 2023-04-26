@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pearlshillsch2.jpg">  
+<p><a href="/images/pearlshillsch2.jpg">  
 <img src="/images/pearlshillsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pearlshillsch3.jpg">  
+<p><a href="/images/pearlshillsch3.jpg">  
 <img src="/images/pearlshillsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pearlshillsch4.jpg">  
+<p><a href="/images/pearlshillsch4.jpg">  
 <img src="/images/pearlshillsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

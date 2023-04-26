@@ -13,7 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jpjc2.jpg">  
+<p><a href="/images/jpjc2.jpg">  
 <img src="/images/jpjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -27,7 +27,7 @@ Since its inception in 2019, JPJC has embarked on its mission to nurture active 
 Principal:<br>
 \- Dr Hang Kim Hoo (2019–present)
 
-**Related Schools: [Jurong Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-jc/) | [Pioneer Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jpjc/)**
+**Related Schools: [Jurong Junior College](/school-histories/jurong-jc/) | [Pioneer Junior College](/school-histories/jpjc/)**
 
 #### **Key Milestones**
 

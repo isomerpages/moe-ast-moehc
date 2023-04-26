@@ -13,7 +13,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQm2fyEJ59YNG945oiBuaHrrJ4HqgdDcS7-ZEnjI3srjyTOXIRUso8mnDo9yZuap8okd7nH8BZK07C/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraumalaygirls2.jpg">  
+<p><a href="/images/telokkuraumalaygirls2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraumalaygirls2.jpg">
 </a></p>
 

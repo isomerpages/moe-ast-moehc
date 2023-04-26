@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri2.jpg">  
+<p><a href="/images/rivervalepri2.jpg">  
 <img src="/images/rivervalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri3.jpg">  
+<p><a href="/images/rivervalepri3.jpg">  
 <img src="/images/rivervalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri4.jpg">  
+<p><a href="/images/rivervalepri4.jpg">  
 <img src="/images/rivervalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri5.jpg">  
+<p><a href="/images/rivervalepri5.jpg">  
 <img src="/images/rivervalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri6.jpg">  
+<p><a href="/images/rivervalepri6.jpg">  
 <img src="/images/rivervalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri7.jpg">  
+<p><a href="/images/rivervalepri7.jpg">  
 <img src="/images/rivervalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri8.jpg">  
+<p><a href="/images/rivervalepri8.jpg">  
 <img src="/images/rivervalepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalepri9.jpg">  
+<p><a href="/images/rivervalepri9.jpg">  
 <img src="/images/rivervalepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

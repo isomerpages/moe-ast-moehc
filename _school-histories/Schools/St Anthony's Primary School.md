@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri2.jpg">  
+<p><a href="/images/stanthonypri2.jpg">  
 <img src="/images/stanthonypri2.jpg" style="width:22%;margin-right:40px;margin-left:35px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri3.jpg">  
+<p><a href="/images/stanthonypri3.jpg">  
 <img src="/images/stanthonypri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri4.jpg">  
+<p><a href="/images/stanthonypri4.jpg">  
 <img src="/images/stanthonypri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri5.jpg">  
+<p><a href="/images/stanthonypri5.jpg">  
 <img src="/images/stanthonypri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri6.jpg">  
+<p><a href="/images/stanthonypri6.jpg">  
 <img src="/images/stanthonypri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri7.jpg">  
+<p><a href="/images/stanthonypri7.jpg">  
 <img src="/images/stanthonypri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri8.jpg">  
+<p><a href="/images/stanthonypri8.jpg">  
 <img src="/images/stanthonypri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stanthonypri9.jpg">  
+<p><a href="/images/stanthonypri9.jpg">  
 <img src="/images/stanthonypri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVSe_aCKiGrp73ICJ0jxTodbikDlAOXo750XdpWgBL2BAGmKTPnUQf8N1SAoyOuR_PV_SY-UmmHRN0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri2.jpg">  
+<p><a href="/images/bedokwestpri2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri3.jpg">  
+<p><a href="/images/bedokwestpri3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri4.jpg">  
+<p><a href="/images/bedokwestpri4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri5.jpg">  
+<p><a href="/images/bedokwestpri5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri6.jpg">  
+<p><a href="/images/bedokwestpri6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri7.jpg">  
+<p><a href="/images/bedokwestpri7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri8.jpg">  
+<p><a href="/images/bedokwestpri8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokwestpri9.jpg">  
+<p><a href="/images/bedokwestpri9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedokwestpri9.jpg">
 </a></p>
 
@@ -62,7 +62,7 @@ Principals:<br>
 * Mdm Lee Lay Keok (2000–2006)<br>
 * Ms Windersalam Shyamala Devi (2007–2014)
 
-**Related School:** **[Damai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/damai-pri/)**
+**Related School:** **[Damai Primary School](/school-histories/damai-pri/)**
 
 #### **Key Milestones**
 

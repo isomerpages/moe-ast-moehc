@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ellingnorthsch2.png">  
+<p><a href="/images/ellingnorthsch2.png">  
 <img src="/images/ellingnorthsch2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ellingnorthsch3.png">  
+<p><a href="/images/ellingnorthsch3.png">  
 <img src="/images/ellingnorthsch3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ellingnorthsch4.png">  
+<p><a href="/images/ellingnorthsch4.png">  
 <img src="/images/ellingnorthsch4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

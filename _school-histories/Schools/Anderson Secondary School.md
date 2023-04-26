@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRidHUE-oyv9o2E4GnXKJ1KD5d4O7xx-UI0pR6sob2lRF1f-ZkdUU82MyToIEvlqD9dKnMCMB7T8JzW/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec2.jpg">  
+<p><a href="/images/andersonsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec3.jpg">  
+<p><a href="/images/andersonsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec4.jpg">  
+<p><a href="/images/andersonsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonsec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec5.jpg">  
+<p><a href="/images/andersonsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonsec6.jpg">  
+<p><a href="/images/andersonsec6.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/andersonsec6.jpg">
 </a></p>
 

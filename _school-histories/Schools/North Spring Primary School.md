@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri2.jpg">  
+<p><a href="/images/northspringpri2.jpg">  
 <img src="/images/northspringpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri3.jpg">  
+<p><a href="/images/northspringpri3.jpg">  
 <img src="/images/northspringpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri4.jpg">  
+<p><a href="/images/northspringpri4.jpg">  
 <img src="/images/northspringpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri5.jpg">  
+<p><a href="/images/northspringpri5.jpg">  
 <img src="/images/northspringpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri6.jpg">  
+<p><a href="/images/northspringpri6.jpg">  
 <img src="/images/northspringpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri7.jpg">  
+<p><a href="/images/northspringpri7.jpg">  
 <img src="/images/northspringpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri8.jpg">  
+<p><a href="/images/northspringpri8.jpg">  
 <img src="/images/northspringpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northspringpri9.jpg">  
+<p><a href="/images/northspringpri9.jpg">  
 <img src="/images/northspringpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

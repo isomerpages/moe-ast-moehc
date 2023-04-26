@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec2.jpg">  
+<p><a href="/images/peicaisec2.jpg">  
 <img src="/images/peicaisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec3.jpg">  
+<p><a href="/images/peicaisec3.jpg">  
 <img src="/images/peicaisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec4.jpg">  
+<p><a href="/images/peicaisec4.jpg">  
 <img src="/images/peicaisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec5.jpg">  
+<p><a href="/images/peicaisec5.jpg">  
 <img src="/images/peicaisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec6.jpg">  
+<p><a href="/images/peicaisec6.jpg">  
 <img src="/images/peicaisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec7.jpg">  
+<p><a href="/images/peicaisec7.jpg">  
 <img src="/images/peicaisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peicaisec8.jpg">  
+<p><a href="/images/peicaisec8.jpg">  
 <img src="/images/peicaisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

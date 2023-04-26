@@ -12,19 +12,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxs346kM_BiCjmAz2OrIhHBc2G5FiOUt-JJoZ3QkoPwMlcK9s_5adQEq4_TLLurDNhU-bPnswO6_5I/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoktownsec2.jpg">  
+<p><a href="/images/bedoktownsec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedoktownsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoktownsec3.jpg">  
+<p><a href="/images/bedoktownsec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedoktownsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoktownsec4.jpg">  
+<p><a href="/images/bedoktownsec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedoktownsec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoktownsec5.jpg">  
+<p><a href="/images/bedoktownsec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bedoktownsec5.jpg">
 </a></p>
 
@@ -47,7 +47,7 @@ Principals:<br>
 * Mdm Tan Siew Woon Jennifer (2008–2010)<br>
 * Mr Chia Chor Yann (2011–2016)
 
-**Related School:** **[Chai Chee Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chai-chee-sec/)** \| **[Ping Yi Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/pingyi-sec/)**
+**Related School:** **[Chai Chee Secondary School](/school-histories/chai-chee-sec/)** \| **[Ping Yi Secondary School](/school-histories/pingyi-sec/)**
 
 #### **Key Milestones**
 

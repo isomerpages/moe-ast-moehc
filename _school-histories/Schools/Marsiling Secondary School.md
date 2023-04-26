@@ -13,31 +13,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec2.jpg">  
+<p><a href="/images/marsilingsec2.jpg">  
 <img src="/images/marsilingsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec3.jpg">  
+<p><a href="/images/marsilingsec3.jpg">  
 <img src="/images/marsilingsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec4.jpg">  
+<p><a href="/images/marsilingsec4.jpg">  
 <img src="/images/marsilingsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec5.jpg">  
+<p><a href="/images/marsilingsec5.jpg">  
 <img src="/images/marsilingsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec6.jpg">  
+<p><a href="/images/marsilingsec6.jpg">  
 <img src="/images/marsilingsec6.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec7.jpg">  
+<p><a href="/images/marsilingsec7.jpg">  
 <img src="/images/marsilingsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/marsilingsec8.jpg">  
+<p><a href="/images/marsilingsec8.jpg">  
 <img src="/images/marsilingsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -56,7 +56,7 @@ Principals:<br>
 \- Ms Foong Lai Leong (2011–2016)<br>
 \- Mr Goh Aik Choon (2017–present)
 
-**Related School: [Si Ling Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/si-ling-sec/)**
+**Related School: [Si Ling Secondary School](/school-histories/si-ling-sec/)**
 
 #### **Key Milestones**
 

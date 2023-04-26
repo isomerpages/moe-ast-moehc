@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri2.jpg">  
+<p><a href="/images/canossacatholicpri2.jpg">  
 <img src="/images/canossacatholicpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri3.jpg">  
+<p><a href="/images/canossacatholicpri3.jpg">  
 <img src="/images/canossacatholicpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri4.jpg">  
+<p><a href="/images/canossacatholicpri4.jpg">  
 <img src="/images/canossacatholicpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri5.jpg">  
+<p><a href="/images/canossacatholicpri5.jpg">  
 <img src="/images/canossacatholicpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri6.jpg">  
+<p><a href="/images/canossacatholicpri6.jpg">  
 <img src="/images/canossacatholicpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri7.jpg">  
+<p><a href="/images/canossacatholicpri7.jpg">  
 <img src="/images/canossacatholicpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri8.jpg">  
+<p><a href="/images/canossacatholicpri8.jpg">  
 <img src="/images/canossacatholicpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/canossacatholicpri9.jpg">  
+<p><a href="/images/canossacatholicpri9.jpg">  
 <img src="/images/canossacatholicpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

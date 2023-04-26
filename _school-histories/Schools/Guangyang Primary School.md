@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri2.jpg">  
+<p><a href="/images/guangyangpri2.jpg">  
 <img src="/images/guangyangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri4.jpg">  
+<p><a href="/images/guangyangpri4.jpg">  
 <img src="/images/guangyangpri4.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri3.jpg">  
+<p><a href="/images/guangyangpri3.jpg">  
 <img src="/images/guangyangpri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri5.jpg">  
+<p><a href="/images/guangyangpri5.jpg">  
 <img src="/images/guangyangpri5.jpg" style="width:30%;margin-right:45px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri6.jpg">  
+<p><a href="/images/guangyangpri6.jpg">  
 <img src="/images/guangyangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri7.jpg">  
+<p><a href="/images/guangyangpri7.jpg">  
 <img src="/images/guangyangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/guangyangpri8.jpg">  
+<p><a href="/images/guangyangpri8.jpg">  
 <img src="/images/guangyangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/greenwoodpri9.jpg">  
+<p><a href="/images/greenwoodpri9.jpg">  
 <img src="/images/greenwoodpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

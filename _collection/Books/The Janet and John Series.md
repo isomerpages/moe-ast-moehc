@@ -4,7 +4,7 @@ permalink: /explore/collection/books/the-janet-and-john-series/
 description: ""
 third_nav_title: Books
 ---
-<img src="/images/jnj1.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/jnj1.png" style="width:30%;margin-right:15px;" align="left">
 
 ### **The Janet And John Series**
 
@@ -12,14 +12,14 @@ third_nav_title: Books
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jnj2.png">  
-<img src="/images/jnj2.png" style="width:29%;margin-right:15px;" align = "left">
+<p><a href="/images/jnj2.png">  
+<img src="/images/jnj2.png" style="width:29%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jnj3.png">  
-<img src="/images/jnj3.png" style="width:29%;margin-right:15px;" align = "left">
+<p><a href="/images/jnj3.png">  
+<img src="/images/jnj3.png" style="width:29%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jnj4.png">  
-<img src="/images/jnj4.png" style="width:29%;margin-right:15px;" align = "left">
+<p><a href="/images/jnj4.png">  
+<img src="/images/jnj4.png" style="width:29%;margin-right:15px;" align="left">
 </a></p>

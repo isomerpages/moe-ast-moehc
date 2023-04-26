@@ -15,35 +15,35 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9xBDS0I6cvadxm_63yWDFK4tEyMtCxo2wjoAvt8od8XSSc0wufio7uG94asLDSDVElMptHBMJb7Bu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc2.jpg">  
+<p><a href="/images/yijc2.jpg">  
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yijc2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc3.jpg">  
+<p><a href="/images/yijc3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc4.jpg">  
+<p><a href="/images/yijc4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc5.jpg">  
+<p><a href="/images/yijc5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc6.jpg">  
+<p><a href="/images/yijc6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc7.jpg">  
+<p><a href="/images/yijc7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc8.jpg">  
+<p><a href="/images/yijc8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yijc9.jpg">  
+<p><a href="/images/yijc9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yijc9.jpg">
 </a></p>
 
@@ -63,7 +63,7 @@ Currently located at 3 Yishun Ring Road, the college will move to 21 Champions W
 Principal:<br>
 \- Mr Michael de Silva (2019–present)
 
-**Related Schools: [Yishun Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yishun-jc/) | [Innova Junior College](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/innova-jc/)**
+**Related Schools: [Yishun Junior College](/school-histories/yishun-jc/) | [Innova Junior College](/school-histories/innova-jc/)**
 
 #### **Key Milestones**
 

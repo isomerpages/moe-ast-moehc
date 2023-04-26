@@ -22,17 +22,17 @@ Life in Singapore remained difficult even after the war. People faced severe sho
 
 A key step in rebuilding education was the formulation of the Ten-Year Programme. Drawn up for the years 1947 to 1957, the Ten-Year Programme aimed to provide equal opportunities for education and make primary education free for all children. Under the plan, it also set out to meet the demand for trained teachers which led to the establishment of the Teachers Training College in 1950.<br><br>
 	
-<figure>	
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/restoringeducation1.png">  
-<img src="/images/restoringeducation1.png" style="width:30%;margin-right:15px;" align = "left"> 
+</p><figure>	
+<p><a href="/images/restoringeducation1.png">  
+<img src="/images/restoringeducation1.png" style="width:30%;margin-right:15px;" align="left"> 
 </a></p>	
 	
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/restoringeducation2.png">  
-<img src="/images/restoringeducation2.png" style="width:30%;margin-right:15px;" align = "left"> 
+<p><a href="/images/restoringeducation2.png">  
+<img src="/images/restoringeducation2.png" style="width:30%;margin-right:15px;" align="left"> 
 </a></p>	
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/restoringeducation3.png">  
-<img src="/images/restoringeducation3.png" style="width:30%;margin-right:15px;" align = "left"> 
+<p><a href="/images/restoringeducation3.png">  
+<img src="/images/restoringeducation3.png" style="width:30%;margin-right:15px;" align="left"> 
 </a></p>		
 
 <br clear="left">	
@@ -47,7 +47,7 @@ The government continued to push through its efforts for a centralised education
 	
 <br clear="left">		
 	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -63,14 +63,14 @@ The government continued to push through its efforts for a centralised education
 <p>
 The post-war period saw shortages of food, medicine and other basic supplies. Many schools had also been damaged or destroyed, which led to limited places in school and a lack of proper facilities. Teaching materials were inadequate and there were not enough teachers.<br><br>
 
-<figure>	
+</p><figure>	
 <img src="/images/restoringeducation5.png" style="width:65%">
 <figcaption><strong>Mobile rationing units distributing supplies to residents (1949).</strong><br>
 <small>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</small>
 </figcaption>	
 </figure>
 	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -87,7 +87,7 @@ The post-war period saw shortages of food, medicine and other basic supplies. Ma
 <p>
 Many returning students were overaged and had their education disrupted due to the war. To alleviate the problem of limited spaces in schools, double-session schooling (morning and afternoon) was introduced to take in more students. Night schools were also set up for students to continue their lessons after hours.<br><br>
 
-<figure>	
+</p><figure>	
 <img src="/images/restoringeducation6.png" style="width:65%">
 <figcaption><strong>
 A night class at Thomson Shin Min Public School catering to youths whose education was disrupted during the Japanese Occupation (1949).</strong><br>
@@ -95,7 +95,7 @@ A night class at Thomson Shin Min Public School catering to youths whose educati
 </figcaption>	
 </figure>
 	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -112,7 +112,7 @@ A night class at Thomson Shin Min Public School catering to youths whose educati
 <p>
 In 1950, the Teachers’ Training College was established to address the acute shortage of teachers after the war. Housed in the old premises of Anglo-Chinese School at Cairnhill Road, its role was to centralise teacher training and meet the demand for locally trained teachers. The curriculum comprised studies in education theories and psychology, language, civics as well as art, music and physical education.<br><br>
 	
-<figure>	
+</p><figure>	
 <img src="/images/restoringeducation7.png" style="width:65%">
 <figcaption><strong>
 Teachers' Training College at Cairnhill Road (1950).</strong>
@@ -149,7 +149,7 @@ Teachers' Training College at Paterson Road, between 1956 and 1965.</strong><br>
 </figcaption>
 </figure>	
 	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -158,18 +158,18 @@ Teachers' Training College at Paterson Road, between 1956 and 1965.</strong><br>
 </ul>
 
 #### **Educational Materials**
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/civics/">  
-<img src="/images/edumaterials1.png" style="width:21.5%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/civics/">  
+<img src="/images/edumaterials1.png" style="width:21.5%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/teaching-of-arithmetics/">  
-<img src="/images/edumaterials2.png" style="width:20%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/teaching-of-arithmetics/">  
+<img src="/images/edumaterials2.png" style="width:20%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/teaching-of-speech/">  
-<img src="/images/edumaterials3.png" style="width:21%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/teaching-of-speech/">  
+<img src="/images/edumaterials3.png" style="width:21%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/teaching-of-music/">  
-<img src="/images/edumaterials4.png" style="width:21%;margin-right:15px;" align = "left">
+<p><a href="/explore/collection/books/teaching-of-music/">  
+<img src="/images/edumaterials4.png" style="width:21%;margin-right:15px;" align="left">
 </a></p>

@@ -12,31 +12,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc2.jpg">  
+<p><a href="/images/rafflesjc2.jpg">  
 <img src="/images/rafflesjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc4.jpg">  
+<p><a href="/images/rafflesjc4.jpg">  
 <img src="/images/rafflesjc4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc3.jpg">  
+<p><a href="/images/rafflesjc3.jpg">  
 <img src="/images/rafflesjc3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc5.jpg">  
+<p><a href="/images/rafflesjc5.jpg">  
 <img src="/images/rafflesjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc7.jpg">  
+<p><a href="/images/rafflesjc7.jpg">  
 <img src="/images/rafflesjc7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc6.jpg">  
+<p><a href="/images/rafflesjc6.jpg">  
 <img src="/images/rafflesjc6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesjc8.jpg">  
+<p><a href="/images/rafflesjc8.jpg">  
 <img src="/images/rafflesjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -63,7 +63,7 @@ Principals:<br>
 \- Mr Chan Poh Meng (2014–2017)<br>
 \- Mr Frederick Yeo (2018–present)
 
-**Related School: [Raffles Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/raffles-institution/)**
+**Related School: [Raffles Institution](/school-histories/raffles-institution/)**
 
 #### **Key Milestones**
 

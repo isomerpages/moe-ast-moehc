@@ -14,21 +14,21 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_gUslHLTwUpY_xCUCIu9ZNvLgKzo2V4fHoraLj0IiRb-uEGpQnI9Ov7kso1aa-84j9zsXj-QrGFzX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri2.jpg">  
+<p><a href="/images/townsvillepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri3.jpg">  
+<p><a href="/images/townsvillepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri4.jpg">  
+<p><a href="/images/townsvillepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/townsvillepri5.jpg">  
+<p><a href="/images/townsvillepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri5.jpg">
 </a></p>
 
@@ -53,7 +53,7 @@ Principals:<br>
 \- Mrs Liu-Loh Wee Cheng (2012–2016)<br>
 \- Mr Victor Tan (2017–present)
 
-**Related School: [Chong Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/chong-shan-pri/)**
+**Related School: [Chong Shan Primary School](/school-histories/chong-shan-pri/)**
 
 #### **Key Milestones**
 

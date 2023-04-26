@@ -14,21 +14,21 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS1W38Zq1EVCoKrDJVIhyEh6XbBDF2chs4vu6MmSglTRPwC-ChnI40G5-xKSpajepKz-n88kcHYp9mX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec2.jpg">  
+<p><a href="/images/woodsvillesec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec3.jpg">  
+<p><a href="/images/woodsvillesec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec4.jpg">  
+<p><a href="/images/woodsvillesec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodsvillesec5.jpg">  
+<p><a href="/images/woodsvillesec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodsvillesec5.jpg">
 </a></p>
 
@@ -43,7 +43,7 @@ In 1991, Woodsville Secondary School became a single-session school.
 
 In 2004, Woodsville Secondary School merged with MacPherson Secondary School.
 
-**Related School: [MacPherson Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/macpherson-sec/)**
+**Related School: [MacPherson Secondary School](/school-histories/macpherson-sec/)**
 
 #### **Key Milestones**
 

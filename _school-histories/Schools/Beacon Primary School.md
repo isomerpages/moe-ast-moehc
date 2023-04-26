@@ -12,43 +12,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9ymvmZ1snW1WOXRqDdsEABGDJ-9CrtqoA6OP5KLFBBxuTaqmUkcVXit-fzXvwR8zYkZg4BHR9th2U/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri2.jpg">  
+<p><a href="/images/beaconpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri3.jpg">  
+<p><a href="/images/beaconpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri4.jpg">  
+<p><a href="/images/beaconpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri5.jpg">  
+<p><a href="/images/beaconpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri6.jpg">  
+<p><a href="/images/beaconpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri7.jpg">  
+<p><a href="/images/beaconpri7.jpg">  
 <img align="left" style="width:25%;margin-right:15px;" src="/images/beaconpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri8.jpg">  
+<p><a href="/images/beaconpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri9.jpg">  
+<p><a href="/images/beaconpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beaconpri10.jpg">  
+<p><a href="/images/beaconpri10.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri10.jpg">
 </a></p>
 

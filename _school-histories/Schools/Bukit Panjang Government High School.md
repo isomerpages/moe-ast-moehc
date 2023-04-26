@@ -13,38 +13,38 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh2.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh2.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh3.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh3.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh4.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh4.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh5.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh5.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh6.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh6.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh7.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh7.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh8.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh8.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjanggovernmenthigh9.jpg">  
+<p><a href="/images/bukitpanjanggovernmenthigh9.jpg">  
 <img src="/images/bukitpanjanggovernmenthigh9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

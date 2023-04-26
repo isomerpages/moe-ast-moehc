@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAix4sAvIQT9uBEQ9EUqRJQhveAl5gnu1xCmxo0AKEHe9CtwjYM2oMi7PBFMdrKj5eLEjSjGuEXGqc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec2.jpg">  
+<p><a href="/images/woodlandsringsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec3.jpg">  
+<p><a href="/images/woodlandsringsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec4.jpg">  
+<p><a href="/images/woodlandsringsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec5.jpg">  
+<p><a href="/images/woodlandsringsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec6.jpg">  
+<p><a href="/images/woodlandsringsec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec7.jpg">  
+<p><a href="/images/woodlandsringsec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec8.jpg">  
+<p><a href="/images/woodlandsringsec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/woodlandsringsec9.jpg">  
+<p><a href="/images/woodlandsringsec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec9.jpg">
 </a></p>
 

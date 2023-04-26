@@ -14,11 +14,11 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQds-Jn96Y-uWgWxI0ZElL5-95Or44IQTOPmG06wMSzE7zVFrdeBOf_9cyjas4jpGKT05WDl_G1QP8W/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunganpri2.jpg">  
+<p><a href="/images/yunganpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunganpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yunganpri3.jpg">  
+<p><a href="/images/yunganpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yunganpri3.jpg">
 </a></p>
 
@@ -36,7 +36,7 @@ In 2003, Yung An Primary School, Merlimau Primary School and Jurong Town Primary
 Last Serving Principal:<br>
 \- Mrs Jasmail Singh Gill (1997–2002)
 
-**Related Schools: [Merlimau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/merlimau-pri/) | [Jurong Town Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-town-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/)**
+**Related Schools: [Merlimau Primary School](/school-histories/merlimau-pri/) | [Jurong Town Primary School](/school-histories/jurong-town-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/)**
 
 #### **Key Milestones**
 

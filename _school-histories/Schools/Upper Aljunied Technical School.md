@@ -14,21 +14,21 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBsh9F-6LQjliSdnw4Jo_T9J0ACZWtvpVXWjYQVMOhqaMzUBqkq-3DLX7JJzMv4IRBnihle58KoP89/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch2.jpg">  
+<p><a href="/images/upperaljuniedtechnicalsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch3.jpg">  
+<p><a href="/images/upperaljuniedtechnicalsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch4.jpg">  
+<p><a href="/images/upperaljuniedtechnicalsch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/upperaljuniedtechnicalsch5.jpg">  
+<p><a href="/images/upperaljuniedtechnicalsch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/upperaljuniedtechnicalsch5.jpg">
 </a></p>
 

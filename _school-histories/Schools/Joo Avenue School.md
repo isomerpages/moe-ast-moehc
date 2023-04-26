@@ -13,19 +13,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jooavenue2.jpg">  
+<p><a href="/images/jooavenue2.jpg">  
 <img src="/images/jooavenue2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jooavenue3.jpg">  
+<p><a href="/images/jooavenue3.jpg">  
 <img src="/images/jooavenue3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jooavenue4.jpg">  
+<p><a href="/images/jooavenue4.jpg">  
 <img src="/images/jooavenue4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jooavenue5.jpg">  
+<p><a href="/images/jooavenue5.jpg">  
 <img src="/images/jooavenue5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

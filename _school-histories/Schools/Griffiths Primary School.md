@@ -12,31 +12,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri2.jpg">  
+<p><a href="/images/griffithspri2.jpg">  
 <img src="/images/griffithspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri4.jpg">  
+<p><a href="/images/griffithspri4.jpg">  
 <img src="/images/griffithspri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri3.jpg">  
+<p><a href="/images/griffithspri3.jpg">  
 <img src="/images/griffithspri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri5.jpg">  
+<p><a href="/images/griffithspri5.jpg">  
 <img src="/images/griffithspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri6.jpg">  
+<p><a href="/images/griffithspri6.jpg">  
 <img src="/images/griffithspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri7.jpg">  
+<p><a href="/images/griffithspri7.jpg">  
 <img src="/images/griffithspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/griffithspri8.jpg">  
+<p><a href="/images/griffithspri8.jpg">  
 <img src="/images/griffithspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -74,7 +74,7 @@ Principals (1988–2014)<br>
 \- Mrs Yap Weng Har (2007–2012)<br>
 \- Mdm Mae Quah Li Ling (2013–2014)
 
-**Related Schools: [Qiaonan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/qiaonan-pri/) \| [Angsana Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/angsana-pri/)**
+**Related Schools: [Qiaonan Primary School](/school-histories/qiaonan-pri/) \| [Angsana Primary School](/school-histories/angsana-pri/)**
 
 #### **Key Milestones**
 

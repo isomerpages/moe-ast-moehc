@@ -4,59 +4,60 @@ permalink: /school-histories/tampines-north-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tampinesnorthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tampinesnorthpri1.png">
 
 ### **Tampines North Primary School**
-[URL to website](https://tampinesnorthpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://tampinesnorthpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdFRE7uv3UaaOauVg7ldr771GNHuWoe6rY22ikfPFYdivN2hmp4Drwvn1l0tztka4MH4mkiIUsH9-x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri2.jpg">  
-<img src="/images/tampinesnorthpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri3.jpg">  
-<img src="/images/tampinesnorthpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri4.jpg">  
-<img src="/images/tampinesnorthpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri5.jpg">  
-<img src="/images/tampinesnorthpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri6.jpg">  
-<img src="/images/tampinesnorthpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri7.jpg">  
-<img src="/images/tampinesnorthpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri4.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri8.jpg">  
-<img src="/images/tampinesnorthpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri9.jpg">  
-<img src="/images/tampinesnorthpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri6.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri10.jpg">  
-<img src="/images/tampinesnorthpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri7.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tampinesnorthpri11.jpg">  
-<img src="/images/tampinesnorthpri11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tampinesnorthpri8.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri8.jpg">
+</a></p>
+
+<p><a href="/images/tampinesnorthpri9.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri9.jpg">
+</a></p>
+
+<p><a href="/images/tampinesnorthpri10.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri10.jpg">
+</a></p>
+
+<br clear="left">
+
+<p><a href="/images/tampinesnorthpri11.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri11.jpg">
 </a></p>
 
 <br clear="left">
@@ -90,14 +91,14 @@ True and Noble<br>
 (To be Honest and To Serve for the Greater Good)
 
 #### **School Crest**
-<img src="/images/tampinesnorthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tampinesnorthpri1.png">
 
 The shape of the shield depicts a strong protection for the student holding it. It shows a strong person with a true and noble character depicted by the bold colours of dark and light blue.
 
 The ‘T’ and ‘N’ combination insignia on the shield stands for ‘Tampines North Primary School’ and also represents the ‘true and noble’ quality of the student standing on the solid foundation of a good education from Tampines North Primary School.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/16i2o7mdjm-bhJfMFY5uwjlOiojAwHIfr/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 At Tampines North Primary School<br>
 Our aim is to be Noble and True<br>

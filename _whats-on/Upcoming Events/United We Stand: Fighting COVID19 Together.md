@@ -8,8 +8,8 @@ third_nav_title: Upcoming Events
 
 This first special exhibition at the MOE Heritage Centre showcases inspiring stories of teachers, students and schools during the COVID-19 pandemic.
 
-**Duration:** 30 August 2022 - 30 June 2023
+**Duration:**&nbsp;30 August 2022 - 30 June 2023
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/unitedwestand.jpg">  
+<p><a href="/images/unitedwestand.jpg">  
 <img style="width:65%" src="/images/unitedwestand.jpg">  
 </a></p>

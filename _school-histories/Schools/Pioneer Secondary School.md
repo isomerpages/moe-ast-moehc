@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec2.jpg">  
+<p><a href="/images/pioneersec2.jpg">  
 <img src="/images/pioneersec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec3.jpg">  
+<p><a href="/images/pioneersec3.jpg">  
 <img src="/images/pioneersec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec4.jpg">  
+<p><a href="/images/pioneersec4.jpg">  
 <img src="/images/pioneersec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec5.jpg">  
+<p><a href="/images/pioneersec5.jpg">  
 <img src="/images/pioneersec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec6.jpg">  
+<p><a href="/images/pioneersec6.jpg">  
 <img src="/images/pioneersec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec7.jpg">  
+<p><a href="/images/pioneersec7.jpg">  
 <img src="/images/pioneersec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pioneersec8.jpg">  
+<p><a href="/images/pioneersec8.jpg">  
 <img src="/images/pioneersec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -62,7 +62,7 @@ Principals:<br>
 \- Mr Satianathan s/o K. Nadarajah (2005–2011)<br>
 \- Mr Chan Weng Kit Mark (2012–2016)
 
-**Related School: [Boon Lay Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-sec/)**
+**Related School: [Boon Lay Secondary School](/school-histories/boon-lay-sec/)**
 
 #### **Key Milestones**
 

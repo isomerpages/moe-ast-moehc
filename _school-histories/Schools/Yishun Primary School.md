@@ -14,31 +14,31 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEOz-coIo2pF-TiJxsbDegXh71K4nHmfJYtQQ1h2xYr7imz7HfImC6NThFdqKx1xSjI5R9-oTqEJaT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri2.jpg">  
+<p><a href="/images/yishunpri2.jpg">  
 <img align="left" style="width:24%;margin-right:15px;" src="/images/yishunpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri3.jpg">  
+<p><a href="/images/yishunpri3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri4.jpg">  
+<p><a href="/images/yishunpri4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri5.jpg">  
+<p><a href="/images/yishunpri5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri6.jpg">  
+<p><a href="/images/yishunpri6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri7.jpg">  
+<p><a href="/images/yishunpri7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yishunpri8.jpg">  
+<p><a href="/images/yishunpri8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/yishunpri8.jpg">
 </a></p>
 
@@ -60,7 +60,7 @@ Principals:<br>
 \- Mrs Yee-Toh Gek Khiaw (2014–2019)<br>
 \- Mr Chan Weng Yew Marvin (2020 – present)
 
-**Related School: [Peixin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peixin-pri/)**
+**Related School: [Peixin Primary School](/school-histories/peixin-pri/)**
 
 #### **Key Milestones**
 

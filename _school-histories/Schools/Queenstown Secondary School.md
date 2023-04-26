@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec2.jpg">  
+<p><a href="/images/queenstownsec2.jpg">  
 <img src="/images/queenstownsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec3.jpg">  
+<p><a href="/images/queenstownsec3.jpg">  
 <img src="/images/queenstownsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec4.jpg">  
+<p><a href="/images/queenstownsec4.jpg">  
 <img src="/images/queenstownsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec5.jpg">  
+<p><a href="/images/queenstownsec5.jpg">  
 <img src="/images/queenstownsec5.jpg" style="width:22%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec6.jpg">  
+<p><a href="/images/queenstownsec6.jpg">  
 <img src="/images/queenstownsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec7.jpg">  
+<p><a href="/images/queenstownsec7.jpg">  
 <img src="/images/queenstownsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec8.jpg">  
+<p><a href="/images/queenstownsec8.jpg">  
 <img src="/images/queenstownsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownsec9.jpg">  
+<p><a href="/images/queenstownsec9.jpg">  
 <img src="/images/queenstownsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -431,30 +431,30 @@ Raffles College Collection, courtesy of National Archives of Singapore.
 </ul>
 
 #### **Educational Materials**
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/the-new-method-readers/">  
+<p><a href="/explore/collection/books/the-new-method-readers/">  
 <img align="left" style="width:28%;margin-right:15px;" src="/images/educationalmaterials1.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/the-janet-and-john-series/">  
+<p><a href="/explore/collection/books/the-janet-and-john-series/">  
 <img align="left" style="width:29%;margin-right:15px;" src="/images/educationalmaterials2.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/readable-school-physics/">  
+<p><a href="/explore/collection/books/readable-school-physics/">  
 <img align="left" style="width:28%;margin-right:15px;" src="/images/educationalmaterials3.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/malayan-arithmetic-for-english-schools-in-malaya/">  
+<p><a href="/explore/collection/books/malayan-arithmetic-for-english-schools-in-malaya/">  
 <img align="left" style="width:28%;margin-right:15px;" src="/images/educationalmaterials4.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/tropical-hygiene-part-1/">  
+<p><a href="/explore/collection/books/tropical-hygiene-part-1/">  
 <img align="left" style="width:29%;margin-right:15px;" src="/images/educationalmaterials5.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/outlines-of-geography/">  
+<p><a href="/explore/collection/books/outlines-of-geography/">  
 <img align="left" style="width:28%;margin-right:15px;" src="/images/educationalmaterials6.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/explore/collection/books/history-through-the-ages/">  
+<p><a href="/explore/collection/books/history-through-the-ages/">  
 <img align="left" style="width:28%; margin-right:15px;" src="/images/educationalmaterials7.png">
 </a></p>

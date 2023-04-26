@@ -11,39 +11,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPcP7xonYG_JD17H_U2U2bCOcgHiT87Neh110OzOH7OfyufpeUiUP8qyEkaFrNkXhprTIkKdeT0etc/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc2.jpg">  
+<p><a href="/images/andersonjc2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc3.jpg">  
+<p><a href="/images/andersonjc3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc4.jpg">  
+<p><a href="/images/andersonjc4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc5.jpg">  
+<p><a href="/images/andersonjc5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc6.jpg">  
+<p><a href="/images/andersonjc6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc7.jpg">  
+<p><a href="/images/andersonjc7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc8.jpg">  
+<p><a href="/images/andersonjc8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/andersonjc9.jpg">  
+<p><a href="/images/andersonjc9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/andersonjc9.jpg">
 </a></p>
 

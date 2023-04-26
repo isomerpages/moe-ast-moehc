@@ -13,47 +13,47 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri2.jpg">  
+<p><a href="/images/holyinnocentpri2.jpg">  
 <img src="/images/holyinnocentpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri4.jpg">  
+<p><a href="/images/holyinnocentpri4.jpg">  
 <img src="/images/holyinnocentpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri3.jpg">  
+<p><a href="/images/holyinnocentpri3.jpg">  
 <img src="/images/holyinnocentpri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri5.jpg">  
+<p><a href="/images/holyinnocentpri5.jpg">  
 <img src="/images/holyinnocentpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri6.jpg">  
+<p><a href="/images/holyinnocentpri6.jpg">  
 <img src="/images/holyinnocentpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri7.jpg">  
+<p><a href="/images/holyinnocentpri7.jpg">  
 <img src="/images/holyinnocentpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri8.jpg">  
+<p><a href="/images/holyinnocentpri8.jpg">  
 <img src="/images/holyinnocentpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri9.jpg">  
+<p><a href="/images/holyinnocentpri9.jpg">  
 <img src="/images/holyinnocentpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri10.jpg">  
+<p><a href="/images/holyinnocentpri10.jpg">  
 <img src="/images/holyinnocentpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/holyinnocentpri11.jpg">  
+<p><a href="/images/holyinnocentpri11.jpg">  
 <img src="/images/holyinnocentpri11.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

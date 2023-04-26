@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/namsansch2.jpg">  
+<p><a href="/images/namsansch2.jpg">  
 <img src="/images/namsansch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/namsansch3.jpg">  
+<p><a href="/images/namsansch3.jpg">  
 <img src="/images/namsansch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/namsansch4.jpg">  
+<p><a href="/images/namsansch4.jpg">  
 <img src="/images/namsansch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/namsansch5.jpg">  
+<p><a href="/images/namsansch5.jpg">  
 <img src="/images/namsansch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/namsansch6.jpg">  
+<p><a href="/images/namsansch6.jpg">  
 <img src="/images/namsansch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

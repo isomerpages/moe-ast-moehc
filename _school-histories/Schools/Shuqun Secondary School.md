@@ -12,37 +12,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec2.jpg">  
+<p><a href="/images/shuqunsec2.jpg">  
 <img src="/images/shuqunsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec3.jpg">  
+<p><a href="/images/shuqunsec3.jpg">  
 <img src="/images/shuqunsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec4.jpg">  
+<p><a href="/images/shuqunsec4.jpg">  
 <img src="/images/shuqunsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec5.jpg">  
+<p><a href="/images/shuqunsec5.jpg">  
 <img src="/images/shuqunsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec6.jpg">  
+<p><a href="/images/shuqunsec6.jpg">  
 <img src="/images/shuqunsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec7.jpg">  
+<p><a href="/images/shuqunsec7.jpg">  
 <img src="/images/shuqunsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec8.jpg">  
+<p><a href="/images/shuqunsec8.jpg">  
 <img src="/images/shuqunsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/shuqunsec9.jpg">  
+<p><a href="/images/shuqunsec9.jpg">  
 <img src="/images/shuqunsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -89,7 +89,7 @@ Principals:<br>
 \- Mr Chia Hai Siang (2012–2015)<br>
 \- Mr N. Sivarajan (2016–2018)
 
-**Related School: [Yuhua Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yuhua-sec/)**
+**Related School: [Yuhua Secondary School](/school-histories/yuhua-sec/)**
 
 #### **Key Milestones**
 

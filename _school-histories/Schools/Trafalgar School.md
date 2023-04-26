@@ -14,7 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQIjmDDZoxb8V9uxIWMH6TEZPqAWM4EbBHl4NlONqCGuLpezTpLthBBN0Lrt9tWOxy949gO2NHaHp6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/trafalgarsch2.jpg">  
+<p><a href="/images/trafalgarsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/trafalgarsch2.jpg">
 </a></p>
 

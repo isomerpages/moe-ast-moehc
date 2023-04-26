@@ -13,29 +13,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haisingcatholic2.jpg">  
+<p><a href="/images/haisingcatholic2.jpg">  
 <img src="/images/haisingcatholic2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haisingcatholic3.jpg">  
+<p><a href="/images/haisingcatholic3.jpg">  
 <img src="/images/haisingcatholic3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haisingcatholic4.jpg">  
+<p><a href="/images/haisingcatholic4.jpg">  
 <img src="/images/haisingcatholic4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haisingcatholic5.jpg">  
+<p><a href="/images/haisingcatholic5.jpg">  
 <img src="/images/haisingcatholic5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haisingcatholic6.jpg">  
+<p><a href="/images/haisingcatholic6.jpg">  
 <img src="/images/haisingcatholic6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haisingcatholic7.jpg">  
+<p><a href="/images/haisingcatholic7.jpg">  
 <img src="/images/haisingcatholic7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

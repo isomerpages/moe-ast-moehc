@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnMuZ9K0Sivcnf9ejfyDoqZC3JUMCH3rx6NOiKY8Fi7XOPOqi4k5RbwhOFdr2NHO-zCRbBOJgOQcK5/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec2.jpg">  
+<p><a href="/images/beattysec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec3.jpg">  
+<p><a href="/images/beattysec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec4.jpg">  
+<p><a href="/images/beattysec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec5.jpg">  
+<p><a href="/images/beattysec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec6.jpg">  
+<p><a href="/images/beattysec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec7.jpg">  
+<p><a href="/images/beattysec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec8.jpg">  
+<p><a href="/images/beattysec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/beattysec9.jpg">  
+<p><a href="/images/beattysec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec9.jpg">
 </a></p>
 

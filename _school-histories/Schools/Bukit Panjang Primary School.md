@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri2.jpg">  
+<p><a href="/images/bukitpanjangpri2.jpg">  
 <img src="/images/bukitpanjangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri3.jpg">  
+<p><a href="/images/bukitpanjangpri3.jpg">  
 <img src="/images/bukitpanjangpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri4.jpg">  
+<p><a href="/images/bukitpanjangpri4.jpg">  
 <img src="/images/bukitpanjangpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri5.jpg">  
+<p><a href="/images/bukitpanjangpri5.jpg">  
 <img src="/images/bukitpanjangpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri6.jpg">  
+<p><a href="/images/bukitpanjangpri6.jpg">  
 <img src="/images/bukitpanjangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri7.jpg">  
+<p><a href="/images/bukitpanjangpri7.jpg">  
 <img src="/images/bukitpanjangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri8.jpg">  
+<p><a href="/images/bukitpanjangpri8.jpg">  
 <img src="/images/bukitpanjangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitpanjangpri9.jpg">  
+<p><a href="/images/bukitpanjangpri9.jpg">  
 <img src="/images/bukitpanjangpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

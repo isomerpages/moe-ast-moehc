@@ -13,37 +13,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzCyhuVXrN5fGT2wRYgY7GjxAsIxUeYkS-21iVbNgPObxThaUXwppLWM3QFzbHSElYY1UbZ-cRXds8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri2.jpg">  
+<p><a href="/images/whitesandspri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri3.jpg">  
+<p><a href="/images/whitesandspri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri4.jpg">  
+<p><a href="/images/whitesandspri4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/whitesandspri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri5.jpg">  
+<p><a href="/images/whitesandspri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri6.jpg">  
+<p><a href="/images/whitesandspri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri7.jpg">  
+<p><a href="/images/whitesandspri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri8.jpg">  
+<p><a href="/images/whitesandspri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whitesandspri9.jpg">  
+<p><a href="/images/whitesandspri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/whitesandspri9.jpg">
 </a></p>
 
@@ -63,7 +63,7 @@ Principals:<br>
 \- Mr Ng Teng Joo (2012-2018)<br>
 \- Ms Audrey Wong (2018–present)
 
-**Related School: [Coral Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/coral-pri/)**
+**Related School: [Coral Primary School](/school-histories/coral-pri/)**
 
 #### **Key Milestones**
 
@@ -96,6 +96,7 @@ There are four colours in the school crest, each with significant meaning. Blue 
 The school motto of “Learn Grow and Excel Together” represents the rallying together of students, staff and stakeholders to learn and grow to bring out the best in everyone’s potential.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1pRgQytWYiF6yvklSDhJXcQ9yiWrn7pTm/view?usp=share_link">**♫ Listen**</a>
 
 While caring for each other as a sister or brother<br>
 We’ll strive to achieve<br>

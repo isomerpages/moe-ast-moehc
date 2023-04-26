@@ -13,33 +13,33 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri2.jpg">  
+<p><a href="/images/casuarinapri2.jpg">  
 <img src="/images/casuarinapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri3.jpg">  
+<p><a href="/images/casuarinapri3.jpg">  
 <img src="/images/casuarinapri3.jpg" style="width:33%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri4.jpg">  
+<p><a href="/images/casuarinapri4.jpg">  
 <img src="/images/casuarinapri4.jpg" style="width:30%;margin-right:20px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri5.jpg">  
+<p><a href="/images/casuarinapri5.jpg">  
 <img src="/images/casuarinapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri6.jpg">  
+<p><a href="/images/casuarinapri6.jpg">  
 <img src="/images/casuarinapri6.jpg" style="width:32%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri7.jpg">  
+<p><a href="/images/casuarinapri7.jpg">  
 <img src="/images/casuarinapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/casuarinapri8.jpg">  
+<p><a href="/images/casuarinapri8.jpg">  
 <img src="/images/casuarinapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -62,7 +62,7 @@ Principals:<br>
 \- Ms Albuquerque Karen Anne (2015–2018)<br>
 \- Mrs Pek Kwee Lan (2019–present)
 
-**Related School:** **[Loyang Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/loyang-pri/)** 
+**Related School:** **[Loyang Primary School](/school-histories/loyang-pri/)** 
 
 #### **Key Milestones**
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi4.jpg" style="width:30%;margin-right:45px;" align="right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/pic.jpg">  
+<p><a href="/images/pic.jpg">  
 <img src="/images/mi9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mr Tan Chor Pang (2006–2013)<br>
 \- Mrs Tan Wan Yu (2014–present)
 
-**Related Schools: [Jurong Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurong-intitute/) | [Outram Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-institute/)**
+**Related Schools: [Jurong Institute](/school-histories/jurong-intitute/) | [Outram Institute](/school-histories/outram-institute/)**
 
 #### **Key Milestones**
 

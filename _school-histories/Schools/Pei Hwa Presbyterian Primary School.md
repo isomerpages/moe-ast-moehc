@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri2.jpg">  
+<p><a href="/images/peihwaprespri2.jpg">  
 <img src="/images/peihwaprespri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri3.jpg">  
+<p><a href="/images/peihwaprespri3.jpg">  
 <img src="/images/peihwaprespri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri4.jpg">  
+<p><a href="/images/peihwaprespri4.jpg">  
 <img src="/images/peihwaprespri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri5.jpg">  
+<p><a href="/images/peihwaprespri5.jpg">  
 <img src="/images/peihwaprespri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri6.jpg">  
+<p><a href="/images/peihwaprespri6.jpg">  
 <img src="/images/peihwaprespri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri7.jpg">  
+<p><a href="/images/peihwaprespri7.jpg">  
 <img src="/images/peihwaprespri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri8.jpg">  
+<p><a href="/images/peihwaprespri8.jpg">  
 <img src="/images/peihwaprespri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri9.jpg">  
+<p><a href="/images/peihwaprespri9.jpg">  
 <img src="/images/peihwaprespri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peihwaprespri10.jpg">  
+<p><a href="/images/peihwaprespri10.jpg">  
 <img src="/images/peihwaprespri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

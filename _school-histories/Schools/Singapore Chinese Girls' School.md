@@ -13,27 +13,27 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgchigirls2.jpg">  
+<p><a href="/images/sgchigirls2.jpg">  
 <img src="/images/sgchigirls2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgchigirls3.jpg">  
+<p><a href="/images/sgchigirls3.jpg">  
 <img src="/images/sgchigirls3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgchigirls4.jpg">  
+<p><a href="/images/sgchigirls4.jpg">  
 <img src="/images/sgchigirls4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgchigirls5.jpg">  
+<p><a href="/images/sgchigirls5.jpg">  
 <img src="/images/sgchigirls5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgchigirls6.jpg">  
+<p><a href="/images/sgchigirls6.jpg">  
 <img src="/images/sgchigirls6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sgchigirls7.jpg">  
+<p><a href="/images/sgchigirls7.jpg">  
 <img src="/images/sgchigirls7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

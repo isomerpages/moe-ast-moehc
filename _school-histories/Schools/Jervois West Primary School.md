@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jervoiswest2.jpg">  
+<p><a href="/images/jervoiswest2.jpg">  
 <img src="/images/jervoiswest2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jervoiswest3.jpg">  
+<p><a href="/images/jervoiswest3.jpg">  
 <img src="/images/jervoiswest3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -11,35 +11,35 @@ third_nav_title: Schools
 <br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX62L2Up9iYPpyXJGbBhipv0E1t8hzXuFVqXXNMnucm4l94AwJ8aHYmJiZhNtGrBPxo6ykJcNyyWBC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri2.jpeg">  
+<p><a href="/images/amkpri2.jpeg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri2.jpeg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri3.jpg">  
+<p><a href="/images/amkpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri4.jpg">  
+<p><a href="/images/amkpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri5.jpg">  
+<p><a href="/images/amkpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri7.jpg">  
+<p><a href="/images/amkpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri8.jpg">  
+<p><a href="/images/amkpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri8.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/amkpri6.jpg">  
+<p><a href="/images/amkpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri6.jpg">
 </a></p>
 
@@ -67,7 +67,7 @@ Principals:<br>
 * Mdm Chua Lay Tin (2006–2012)<br>
 * Mr Chew Mun Wai (2012–present)
 
-**Related School:** [Kebun Baru Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/kebun-baru-pri/)
+**Related School:** [Kebun Baru Primary School](/school-histories/kebun-baru-pri/)
 
 #### **Key Milestones**
 

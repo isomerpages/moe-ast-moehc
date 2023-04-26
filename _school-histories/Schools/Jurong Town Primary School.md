@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongtownpri2.jpg">  
+<p><a href="/images/jurongtownpri2.jpg">  
 <img src="/images/jurongtownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongtownpri3.jpg">  
+<p><a href="/images/jurongtownpri3.jpg">  
 <img src="/images/jurongtownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongtownpri4.jpg">  
+<p><a href="/images/jurongtownpri4.jpg">  
 <img src="/images/jurongtownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongtownpri5.jpg">  
+<p><a href="/images/jurongtownpri5.jpg">  
 <img src="/images/jurongtownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -43,7 +43,7 @@ In the 1980s, Malay stream students were transferred to Merlimau Primary School.
 
 In 2003, Jurong Town Primary School merged with Merlimau Primary School and Yung An Primary School to become Lakeside Primary School.
 
-**Related Schools: [Merlimau Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/merlimau-pri/) | [Yung An Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/yung-an-pri/) | [Lakeside Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/lakeside-pri/)**
+**Related Schools: [Merlimau Primary School](/school-histories/merlimau-pri/) | [Yung An Primary School](/school-histories/yung-an-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/)**
 
 #### **Key Milestones**
 

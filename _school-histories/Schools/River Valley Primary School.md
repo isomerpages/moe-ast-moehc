@@ -13,31 +13,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri2.jpg">  
+<p><a href="/images/rivervalleypri2.jpg">  
 <img src="/images/rivervalleypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri4.jpg">  
+<p><a href="/images/rivervalleypri4.jpg">  
 <img src="/images/rivervalleypri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri3.jpg">  
+<p><a href="/images/rivervalleypri3.jpg">  
 <img src="/images/rivervalleypri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri5.jpg">  
+<p><a href="/images/rivervalleypri5.jpg">  
 <img src="/images/rivervalleypri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri7.jpg">  
+<p><a href="/images/rivervalleypri7.jpg">  
 <img src="/images/rivervalleypri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri6.jpg">  
+<p><a href="/images/rivervalleypri6.jpg">  
 <img src="/images/rivervalleypri6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rivervalleypri8.jpg">  
+<p><a href="/images/rivervalleypri8.jpg">  
 <img src="/images/rivervalleypri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

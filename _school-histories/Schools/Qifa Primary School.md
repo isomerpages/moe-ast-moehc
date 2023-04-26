@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri2.jpg">  
+<p><a href="/images/qifapri2.jpg">  
 <img src="/images/qifapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri3.jpg">  
+<p><a href="/images/qifapri3.jpg">  
 <img src="/images/qifapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri4.jpg">  
+<p><a href="/images/qifapri4.jpg">  
 <img src="/images/qifapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri5.jpg">  
+<p><a href="/images/qifapri5.jpg">  
 <img src="/images/qifapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri6.jpg">  
+<p><a href="/images/qifapri6.jpg">  
 <img src="/images/qifapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri7.jpg">  
+<p><a href="/images/qifapri7.jpg">  
 <img src="/images/qifapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri8.jpg">  
+<p><a href="/images/qifapri8.jpg">  
 <img src="/images/qifapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qifapri9.jpg">  
+<p><a href="/images/qifapri9.jpg">  
 <img src="/images/qifapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mdm May Tan Mui Gee (2013–2018)<br>
 \- Mrs Catherine Chiang (2018-present)
 
-**Related School: [Jin Tai Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jin-tai-pri/)**
+**Related School: [Jin Tai Primary School](/school-histories/jin-tai-pri/)**
 
 #### **Key Milestones**
 

@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec2.jpg">  
+<p><a href="/images/fuchunsec2.jpg">  
 <img src="/images/fuchunsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec3.jpg">  
+<p><a href="/images/fuchunsec3.jpg">  
 <img src="/images/fuchunsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec4.jpg">  
+<p><a href="/images/fuchunsec4.jpg">  
 <img src="/images/fuchunsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec5.jpg">  
+<p><a href="/images/fuchunsec5.jpg">  
 <img src="/images/fuchunsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec6.jpg">  
+<p><a href="/images/fuchunsec6.jpg">  
 <img src="/images/fuchunsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec7.jpg">  
+<p><a href="/images/fuchunsec7.jpg">  
 <img src="/images/fuchunsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/fuchunsec8.jpg">  
+<p><a href="/images/fuchunsec8.jpg">  
 <img src="/images/fuchunsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,47 +13,47 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri2.jpg">  
+<p><a href="/images/firsttpypri2.jpg">  
 <img src="/images/firsttpypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri4.jpg">  
+<p><a href="/images/firsttpypri4.jpg">  
 <img src="/images/firsttpypri4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri3.jpg">  
+<p><a href="/images/firsttpypri3.jpg">  
 <img src="/images/firsttpypri3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri5.jpg">  
+<p><a href="/images/firsttpypri5.jpg">  
 <img src="/images/firsttpypri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri6.jpg">  
+<p><a href="/images/firsttpypri6.jpg">  
 <img src="/images/firsttpypri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri7.jpg">  
+<p><a href="/images/firsttpypri7.jpg">  
 <img src="/images/firsttpypri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri8.jpg">  
+<p><a href="/images/firsttpypri8.jpg">  
 <img src="/images/firsttpypri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri9.jpg">  
+<p><a href="/images/firsttpypri9.jpg">  
 <img src="/images/firsttpypri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri10.jpg">  
+<p><a href="/images/firsttpypri10.jpg">  
 <img src="/images/firsttpypri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/firsttpypri11.jpg">  
+<p><a href="/images/firsttpypri11.jpg">  
 <img src="/images/firsttpypri11.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -74,7 +74,7 @@ Principals:<br>
 \- Ms Pearly Ng Por Joo (2008–2016)<br>
 \- Mr Chua Choon Guan (2016–present)
 
-**Related Schools: [Braddell Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/braddell-pri/) \| [Westlake Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/westlake-pri/) \| [San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/)**
+**Related Schools: [Braddell Primary School](/school-histories/braddell-pri/) \| [Westlake Primary School](/school-histories/westlake-pri/) \| [San Shan Primary School](/school-histories/san-shan-pri/)**
 
 #### **Key Milestones**
 

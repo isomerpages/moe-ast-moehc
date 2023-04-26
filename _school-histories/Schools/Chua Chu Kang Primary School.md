@@ -13,50 +13,50 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri2.jpg">  
+<p><a href="/images/cckpri2.jpg">  
 <img src="/images/cckpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri3.jpg">  
+<p><a href="/images/cckpri3.jpg">  
 <img src="/images/cckpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri4.jpg">  
+<p><a href="/images/cckpri4.jpg">  
 <img src="/images/cckpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri5.jpg">  
+<p><a href="/images/cckpri5.jpg">  
 <img src="/images/cckpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri6.jpg">  
+<p><a href="/images/cckpri6.jpg">  
 <img src="/images/cckpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri7.jpg">  
+<p><a href="/images/cckpri7.jpg">  
 <img src="/images/cckpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri8.jpg">  
+<p><a href="/images/cckpri8.jpg">  
 <img src="/images/cckpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri9.jpg">  
+<p><a href="/images/cckpri9.jpg">  
 <img src="/images/cckpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri10.jpg">  
+<p><a href="/images/cckpri10.jpg">  
 <img src="/images/cckpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cckpri11.jpg">  
+<p><a href="/images/cckpri11.jpg">  
 <img src="/images/cckpri11.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/payalebarsch2.jpg">  
+<p><a href="/images/payalebarsch2.jpg">  
 <img src="/images/payalebarsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/payalebarsch3.jpg">  
+<p><a href="/images/payalebarsch3.jpg">  
 <img src="/images/payalebarsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

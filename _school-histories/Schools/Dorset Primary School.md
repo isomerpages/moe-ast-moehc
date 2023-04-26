@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri2.jpg">  
+<p><a href="/images/dorsetpri2.jpg">  
 <img src="/images/dorsetpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri3.jpg">  
+<p><a href="/images/dorsetpri3.jpg">  
 <img src="/images/dorsetpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri4.jpg">  
+<p><a href="/images/dorsetpri4.jpg">  
 <img src="/images/dorsetpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri5.jpg">  
+<p><a href="/images/dorsetpri5.jpg">  
 <img src="/images/dorsetpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri6.jpg">  
+<p><a href="/images/dorsetpri6.jpg">  
 <img src="/images/dorsetpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri7.jpg">  
+<p><a href="/images/dorsetpri7.jpg">  
 <img src="/images/dorsetpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/dorsetpri8.jpg">  
+<p><a href="/images/dorsetpri8.jpg">  
 <img src="/images/dorsetpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

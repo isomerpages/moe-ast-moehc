@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRRaaDoYr2P_ohxI5KtjYO54vfbGae3Dx4eSzwOUeWBE-m1c9BprNZrB8X16uMqKkNyitLAq8HZIeQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri2.jpg">  
+<p><a href="/images/zhenghuapri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri3.jpg">  
+<p><a href="/images/zhenghuapri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri4.jpg">  
+<p><a href="/images/zhenghuapri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri5.jpg">  
+<p><a href="/images/zhenghuapri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri6.jpg">  
+<p><a href="/images/zhenghuapri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri7.jpg">  
+<p><a href="/images/zhenghuapri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri8.jpg">  
+<p><a href="/images/zhenghuapri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/zhenghuapri9.jpg">  
+<p><a href="/images/zhenghuapri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri9.jpg">
 </a></p>
 

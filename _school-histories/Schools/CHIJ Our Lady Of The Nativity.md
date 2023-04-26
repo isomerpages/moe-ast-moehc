@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity2.jpg">  
+<p><a href="/images/chijnativity2.jpg">  
 <img src="/images/chijnativity2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity3.jpg">  
+<p><a href="/images/chijnativity3.jpg">  
 <img src="/images/chijnativity3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity4.jpg">  
+<p><a href="/images/chijnativity4.jpg">  
 <img src="/images/chijnativity4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity5.jpg">  
+<p><a href="/images/chijnativity5.jpg">  
 <img src="/images/chijnativity5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity6.jpg">  
+<p><a href="/images/chijnativity6.jpg">  
 <img src="/images/chijnativity6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity7.jpg">  
+<p><a href="/images/chijnativity7.jpg">  
 <img src="/images/chijnativity7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity8.jpg">  
+<p><a href="/images/chijnativity8.jpg">  
 <img src="/images/chijnativity8.png" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijnativity9.jpg">  
+<p><a href="/images/chijnativity9.jpg">  
 <img src="/images/chijnativity9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 

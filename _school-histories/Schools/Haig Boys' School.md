@@ -12,43 +12,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch2.jpg">  
+<p><a href="/images/haigboyssch2.jpg">  
 <img src="/images/haigboyssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch3.jpg">  
+<p><a href="/images/haigboyssch3.jpg">  
 <img src="/images/haigboyssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch4.jpg">  
+<p><a href="/images/haigboyssch4.jpg">  
 <img src="/images/haigboyssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch5.jpg">  
+<p><a href="/images/haigboyssch5.jpg">  
 <img src="/images/haigboyssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch6.jpg">  
+<p><a href="/images/haigboyssch6.jpg">  
 <img src="/images/haigboyssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch7.jpg">  
+<p><a href="/images/haigboyssch7.jpg">  
 <img src="/images/haigboyssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch10.jpg">  
+<p><a href="/images/haigboyssch10.jpg">  
 <img src="/images/haigboyssch10.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch11.jpg">  
+<p><a href="/images/haigboyssch11.jpg">  
 <img src="/images/haigboyssch11.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/haigboyssch12.jpg">  
+<p><a href="/images/haigboyssch12.jpg">  
 <img src="/images/haigboyssch12.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -61,7 +61,7 @@ In 1988, the school was relocated to 231 Mountbatten Road and became a single-se
 
 On 2 January 2001, Haig Boys’ School merged with Fowlie Primary School and Mountbatten Primary School to become Tanjong Katong Primary School.
 
-**Related Schools: [Fowlie Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/fowlie-pri/) \| [Mountbatten Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mountbatten-pri/) \| [Tanjong Katong Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanjong-katong-pri/)**
+**Related Schools: [Fowlie Primary School](/school-histories/fowlie-pri/) \| [Mountbatten Primary School](/school-histories/mountbatten-pri/) \| [Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/)**
 
 #### **Key Milestones**
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri2.jpg">  
+<p><a href="/images/jurongpri2.jpg">  
 <img src="/images/jurongpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri3.jpg">  
+<p><a href="/images/jurongpri3.jpg">  
 <img src="/images/jurongpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri4.jpg">  
+<p><a href="/images/jurongpri4.jpg">  
 <img src="/images/jurongpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri5.jpg">  
+<p><a href="/images/jurongpri5.jpg">  
 <img src="/images/jurongpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri6.jpg">  
+<p><a href="/images/jurongpri6.jpg">  
 <img src="/images/jurongpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri7.jpg">  
+<p><a href="/images/jurongpri7.jpg">  
 <img src="/images/jurongpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri8.jpg">  
+<p><a href="/images/jurongpri8.jpg">  
 <img src="/images/jurongpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/jurongpri9.jpg">  
+<p><a href="/images/jurongpri9.jpg">  
 <img src="/images/jurongpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -77,7 +77,7 @@ Principals:<br>
 \- Mrs Manokara S. (2012–2017)<br>
 \- Mr Robin Ong (2018–present)
 
-**Related School: [Boon Lay Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/boon-lay-pri/)**
+**Related School: [Boon Lay Primary School](/school-histories/boon-lay-pri/)**
 
 #### **Key Milestones**
 

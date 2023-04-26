@@ -4,7 +4,7 @@ permalink: /school-histories/tanglin-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tanglinpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinpri1.png">
 
 ### **Tanglin Primary School**
 
@@ -12,30 +12,32 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinpri2.jpg">  
-<img src="/images/tanglinpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTayN10uXxq4xQmhBeV4CY2tyrHTsa-JyfqpG65C8Vo6_WYbaya-UUED3HgaR05RNcsGLLo2PnWT7Ey/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
+<p><a href="/images/tanglinpri2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanglinpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinpri3.jpg">  
-<img src="/images/tanglinpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tanglinpri3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanglinpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinpri4.jpg">  
-<img src="/images/tanglinpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tanglinpri4.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanglinpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinpri5.jpg">  
-<img src="/images/tanglinpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tanglinpri5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanglinpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinpri6.jpg">  
-<img src="/images/tanglinpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tanglinpri6.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanglinpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanglinpri7.jpg">  
-<img src="/images/tanglinpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/tanglinpri7.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/tanglinpri7.jpg">
 </a></p>
 
 <br clear="left">
@@ -47,7 +49,7 @@ In 1984, the new school extension, comprising a two-storey hall and canteen, was
 
 In January 2002, Tanglin Primary School merged with Mei Chin Primary School to become Queenstown Primary School.
 
-**Related Schools: [Mei Chin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mei-chin-pri/) | [Queenstown Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queenstown-pri/)**
+**Related Schools: [Mei Chin Primary School](/school-histories/mei-chin-pri/) | [Queenstown Primary School](/school-histories/queenstown-pri/)**
 
 #### **Key Milestones**
 
@@ -64,13 +66,15 @@ In January 2002, Tanglin Primary School merged with Mei Chin Primary School to b
 Think, Improve, Progress, Succeed
 
 #### **School Crest**
-<img src="/images/tanglinpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinpri1.png">
 
-The **burning torch** symbolises the eternal search for knowledge. The **school motto** “Think, Improve, Progress, Succeed” underscores the crest.
+The&nbsp;**burning torch**&nbsp;symbolises the eternal search for knowledge. The&nbsp;**school motto**&nbsp;“Think, Improve, Progress, Succeed” underscores the crest.
 
 <br clear="left">
 
 #### **School Song**
+ <small>*School song unavailable*</small>
+
 To play and work in harmony<br>
 Where many races meet<br>
 We help each other think, improve<br>

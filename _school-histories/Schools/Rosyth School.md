@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch2.jpg">  
+<p><a href="/images/rosythsch2.jpg">  
 <img src="/images/rosythsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch3.jpg">  
+<p><a href="/images/rosythsch3.jpg">  
 <img src="/images/rosythsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch4.jpg">  
+<p><a href="/images/rosythsch4.jpg">  
 <img src="/images/rosythsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch5.jpg">  
+<p><a href="/images/rosythsch5.jpg">  
 <img src="/images/rosythsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch6.jpg">  
+<p><a href="/images/rosythsch6.jpg">  
 <img src="/images/rosythsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch7.jpg">  
+<p><a href="/images/rosythsch7.jpg">  
 <img src="/images/rosythsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch8.jpg">  
+<p><a href="/images/rosythsch8.jpg">  
 <img src="/images/rosythsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch9.jpg">  
+<p><a href="/images/rosythsch9.jpg">  
 <img src="/images/rosythsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rosythsch10.jpg">  
+<p><a href="/images/rosythsch10.jpg">  
 <img src="/images/rosythsch10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

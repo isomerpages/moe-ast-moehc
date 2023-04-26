@@ -13,31 +13,31 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch2.jpg">  
+<p><a href="/images/northlightsch2.jpg">  
 <img src="/images/northlightsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch3.jpg">  
+<p><a href="/images/northlightsch3.jpg">  
 <img src="/images/northlightsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch4.jpg">  
+<p><a href="/images/northlightsch4.jpg">  
 <img src="/images/northlightsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch7.jpg">  
+<p><a href="/images/northlightsch7.jpg">  
 <img src="/images/northlightsch7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch6.jpg">  
+<p><a href="/images/northlightsch6.jpg">  
 <img src="/images/northlightsch6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch5.jpg">  
+<p><a href="/images/northlightsch5.jpg">  
 <img src="/images/northlightsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northlightsch8.jpg">  
+<p><a href="/images/northlightsch8.jpg">  
 <img src="/images/northlightsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

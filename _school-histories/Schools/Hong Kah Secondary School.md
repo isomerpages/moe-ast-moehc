@@ -12,43 +12,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec2.jpg">  
+<p><a href="/images/hongkahsec2.jpg">  
 <img src="/images/hongkahsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec4.jpg">  
+<p><a href="/images/hongkahsec4.jpg">  
 <img src="/images/hongkahsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec3.jpg">  
+<p><a href="/images/hongkahsec3.jpg">  
 <img src="/images/hongkahsec3.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec6.jpg">  
+<p><a href="/images/hongkahsec6.jpg">  
 <img src="/images/hongkahsec6.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec5.jpg">  
+<p><a href="/images/hongkahsec5.jpg">  
 <img src="/images/hongkahsec5.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec7.jpg">  
+<p><a href="/images/hongkahsec7.jpg">  
 <img src="/images/hongkahsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec8.jpg">  
+<p><a href="/images/hongkahsec8.jpg">  
 <img src="/images/hongkahsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec9.jpg">  
+<p><a href="/images/hongkahsec9.jpg">  
 <img src="/images/hongkahsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hongkahsec10.jpg">  
+<p><a href="/images/hongkahsec10.jpg">  
 <img src="/images/hongkahsec10.jpg" style="width:60%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mrs Tan Wan Yu (2008–2013)<br>
 \- Mdm Sung Mee Har (2013–2018)
 
-**Related School: [Jurongville Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/jurongville-sec/)**
+**Related School: [Jurongville Secondary School](/school-histories/jurongville-sec/)**
 
 #### **Key Milestones**
 

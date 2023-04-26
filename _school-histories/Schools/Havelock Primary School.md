@@ -13,7 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/havelockpri2.jpg">  
+<p><a href="/images/havelockpri2.jpg">  
 <img src="/images/havelockpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

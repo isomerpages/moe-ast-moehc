@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfBWcXJlK69akOLWm0uxLOKnTFK6t9H-7TGkBL3yVYTYUZvbQ6wS9l528Ty25ihmFV0eVXqAf6rIYm/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec2.jpg">  
+<p><a href="/images/ahmadibrahimsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec3.jpg">  
+<p><a href="/images/ahmadibrahimsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
+<p><a href="/images/ahmadibrahimsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec5.jpg">  
+<p><a href="/images/ahmadibrahimsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec6.jpg">  
+<p><a href="/images/ahmadibrahimsec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec7.jpg">  
+<p><a href="/images/ahmadibrahimsec7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec8.jpg">  
+<p><a href="/images/ahmadibrahimsec8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec9.jpg">  
+<p><a href="/images/ahmadibrahimsec9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec9.jpg">
 </a></p>
 

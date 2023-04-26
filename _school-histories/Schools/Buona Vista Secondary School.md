@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/buonavistasec2.jpg">  
+<p><a href="/images/buonavistasec2.jpg">  
 <img src="/images/buonavistasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/buonavistasec3.jpg">  
+<p><a href="/images/buonavistasec3.jpg">  
 <img src="/images/buonavistasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/buonavistasec4.jpg">  
+<p><a href="/images/buonavistasec4.jpg">  
 <img src="/images/buonavistasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/buonavistasec5.jpg">  
+<p><a href="/images/buonavistasec5.jpg">  
 <img src="/images/buonavistasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/buonavistasec6.jpg">  
+<p><a href="/images/buonavistasec6.jpg">  
 <img src="/images/buonavistasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/buonavistasec7.jpg">  
+<p><a href="/images/buonavistasec7.jpg">  
 <img src="/images/buonavistasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -52,7 +52,7 @@ Buona Vista Secondary School merged with Queensway Secondary School in 2001.
 Last Serving Principal:<br>
 \- Mrs Feng Moh Cheng (1996 - 1999)
 
-**Related Schools:** [Queensway Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/queensway-sec/)
+**Related Schools:** [Queensway Secondary School](/school-histories/queensway-sec/)
 
 #### **Key Milestones**
 

@@ -14,39 +14,39 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3xtplnE-lzFszmyxpa9ZB_nPv3yZDb5-WVyNUZu2ivnkmrVwdOqbkzCP60YUPnGnBFwKCEkcBWgQ0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri2.jpg">  
+<p><a href="/images/westgrovepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri3.jpg">  
+<p><a href="/images/westgrovepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri4.jpg">  
+<p><a href="/images/westgrovepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri5.jpg">  
+<p><a href="/images/westgrovepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri6.jpg">  
+<p><a href="/images/westgrovepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri7.jpg">  
+<p><a href="/images/westgrovepri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri8.jpg">  
+<p><a href="/images/westgrovepri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westgrovepri9.jpg">  
+<p><a href="/images/westgrovepri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westgrovepri9.jpg">
 </a></p>
 
@@ -80,6 +80,7 @@ Wisdom and Grace
 Shaped like a shield, the badge represents honour and loyalty to uphold for the school. The black outline demonstrates boldness in taking on challenges. The colour green signifies freshness of mind and body towards learning. Like pages of an open book, the colour blue shows learning with an open mind.
 
 #### **School Song**
+<a target="_blank" href="https://drive.google.com/file/d/1vsOcogrG5-dI2LVBJAWALnp3l1iUEkj0/view?usp=share_link">**♫ Listen**</a>
 
 At West Grove we march on with our peers<br>
 Together we achieve through the years<br>

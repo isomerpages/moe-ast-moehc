@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec2.jpg">  
+<p><a href="/images/stgabrielsec2.jpg">  
 <img src="/images/stgabrielsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec3.jpg">  
+<p><a href="/images/stgabrielsec3.jpg">  
 <img src="/images/stgabrielsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec4.jpg">  
+<p><a href="/images/stgabrielsec4.jpg">  
 <img src="/images/stgabrielsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec5.jpg">  
+<p><a href="/images/stgabrielsec5.jpg">  
 <img src="/images/stgabrielsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec6.jpg">  
+<p><a href="/images/stgabrielsec6.jpg">  
 <img src="/images/stgabrielsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec7.jpg">  
+<p><a href="/images/stgabrielsec7.jpg">  
 <img src="/images/stgabrielsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec8.jpg">  
+<p><a href="/images/stgabrielsec8.jpg">  
 <img src="/images/stgabrielsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec9.jpg">  
+<p><a href="/images/stgabrielsec9.jpg">  
 <img src="/images/stgabrielsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stgabrielsec10.jpg">  
+<p><a href="/images/stgabrielsec10.jpg">  
 <img src="/images/stgabrielsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

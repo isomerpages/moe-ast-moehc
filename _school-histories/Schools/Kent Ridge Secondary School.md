@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec2.jpg">  
+<p><a href="/images/kentridgesec2.jpg">  
 <img src="/images/kentridgesec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec3.jpg">  
+<p><a href="/images/kentridgesec3.jpg">  
 <img src="/images/kentridgesec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec5.jpg">  
+<p><a href="/images/kentridgesec5.jpg">  
 <img src="/images/kentridgesec5.jpg" style="width:22%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec4.jpg">  
+<p><a href="/images/kentridgesec4.jpg">  
 <img src="/images/kentridgesec4.jpg" style="width:20%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec6.jpg">  
+<p><a href="/images/kentridgesec6.jpg">  
 <img src="/images/kentridgesec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec7.jpg">  
+<p><a href="/images/kentridgesec7.jpg">  
 <img src="/images/kentridgesec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec9.jpg">  
+<p><a href="/images/kentridgesec9.jpg">  
 <img src="/images/kentridgesec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kentridgesec8.jpg">  
+<p><a href="/images/kentridgesec8.jpg">  
 <img src="/images/kentridgesec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 

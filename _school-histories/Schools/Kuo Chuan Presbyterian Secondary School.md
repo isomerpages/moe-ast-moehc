@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec2.jpg">  
+<p><a href="/images/kuochuanpressec2.jpg">  
 <img src="/images/kuochuanpressec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec3.jpg">  
+<p><a href="/images/kuochuanpressec3.jpg">  
 <img src="/images/kuochuanpressec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec4.jpg">  
+<p><a href="/images/kuochuanpressec4.jpg">  
 <img src="/images/kuochuanpressec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec5.jpg">  
+<p><a href="/images/kuochuanpressec5.jpg">  
 <img src="/images/kuochuanpressec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec6.jpg">  
+<p><a href="/images/kuochuanpressec6.jpg">  
 <img src="/images/kuochuanpressec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec7.jpg">  
+<p><a href="/images/kuochuanpressec7.jpg">  
 <img src="/images/kuochuanpressec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec8.jpg">  
+<p><a href="/images/kuochuanpressec8.jpg">  
 <img src="/images/kuochuanpressec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kuochuanpressec9.jpg">  
+<p><a href="/images/kuochuanpressec9.jpg">  
 <img src="/images/kuochuanpressec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

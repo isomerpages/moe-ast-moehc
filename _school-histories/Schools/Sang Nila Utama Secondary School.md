@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec2.jpg">  
+<p><a href="/images/sangnilautamasec2.jpg">  
 <img src="/images/sangnilautamasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec3.jpg">  
+<p><a href="/images/sangnilautamasec3.jpg">  
 <img src="/images/sangnilautamasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec4.jpg">  
+<p><a href="/images/sangnilautamasec4.jpg">  
 <img src="/images/sangnilautamasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec5.jpg">  
+<p><a href="/images/sangnilautamasec5.jpg">  
 <img src="/images/sangnilautamasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec6.png">  
+<p><a href="/images/sangnilautamasec6.png">  
 <img src="/images/sangnilautamasec6.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec7.jpg">  
+<p><a href="/images/sangnilautamasec7.jpg">  
 <img src="/images/sangnilautamasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec8.jpg">  
+<p><a href="/images/sangnilautamasec8.jpg">  
 <img src="/images/sangnilautamasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sangnilautamasec9.jpg">  
+<p><a href="/images/sangnilautamasec9.jpg">  
 <img src="/images/sangnilautamasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

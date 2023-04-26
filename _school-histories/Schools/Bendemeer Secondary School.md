@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWhIJcwZiNJbMMr6O1wiZi8U7n7uog_-QJHOVmgWdbkD_azAVxK20VRvk_UBspSrmL0WjGvxm9GCA_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec2.jpg">  
+<p><a href="/images/bendemeersec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec3.jpg">  
+<p><a href="/images/bendemeersec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec4.jpg">  
+<p><a href="/images/bendemeersec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec5.jpg">  
+<p><a href="/images/bendemeersec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec6.jpg">  
+<p><a href="/images/bendemeersec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec7.jpg">  
+<p><a href="/images/bendemeersec7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec8.jpg">  
+<p><a href="/images/bendemeersec8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bendemeersec9.jpg">  
+<p><a href="/images/bendemeersec9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec9.jpg">
 </a></p>
 

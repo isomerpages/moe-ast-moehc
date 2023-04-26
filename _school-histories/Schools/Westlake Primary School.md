@@ -13,23 +13,23 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaOfabmhto6w5qr64GHBmZ38V3_hOBclmOsboConIJNQF6GFZvMewKmgHmP9XMhqagpfs1y_4IoD6U/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri2.jpg">  
+<p><a href="/images/westlakepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri3.jpg">  
+<p><a href="/images/westlakepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri4.jpg">  
+<p><a href="/images/westlakepri4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/westlakepri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri5.jpg">  
+<p><a href="/images/westlakepri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westlakepri6.jpg">  
+<p><a href="/images/westlakepri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westlakepri6.jpg">
 </a></p>
 
@@ -45,7 +45,7 @@ In 2002, Westlake Primary School merged with San Shan Primary School to become F
 Principals:<br>
 \- Mdm Teo Woo Mee (1996 - 2001)
 
-**Related School: [San Shan Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/san-shan-pri/) | [First Toa Payoh Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/first-tpy-pri/)**
+**Related School: [San Shan Primary School](/school-histories/san-shan-pri/) | [First Toa Payoh Primary School](/school-histories/first-tpy-pri/)**
 
 #### **Key Milestones**
 

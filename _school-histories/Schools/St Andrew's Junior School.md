@@ -13,36 +13,36 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch2.jpg">  
+<p><a href="/images/standrewjuniorsch2.jpg">  
 <img src="/images/standrewjuniorsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch3.jpg">  
+<p><a href="/images/standrewjuniorsch3.jpg">  
 <img src="/images/standrewjuniorsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch4.jpg">  
+<p><a href="/images/standrewjuniorsch4.jpg">  
 <img src="/images/standrewjuniorsch4.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch7.jpg">  
+<p><a href="/images/standrewjuniorsch7.jpg">  
 <img src="/images/standrewjuniorsch7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch5.jpg">  
+<p><a href="/images/standrewjuniorsch5.jpg">  
 <img src="/images/standrewjuniorsch5.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch6.jpg">  
+<p><a href="/images/standrewjuniorsch6.jpg">  
 <img src="/images/standrewjuniorsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch8.jpg">  
+<p><a href="/images/standrewjuniorsch8.jpg">  
 <img src="/images/standrewjuniorsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/standrewjuniorsch9.jpg">  
+<p><a href="/images/standrewjuniorsch9.jpg">  
 <img src="/images/standrewjuniorsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

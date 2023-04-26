@@ -15,39 +15,39 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnpNS-p027hGJ_CXxMmZ5vTxMboMWMwsHZAiCHSoVLd-jAsEGwa4N_NEYSqDKV41XoIaduTUR3m34p/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri2.jpg">  
+<p><a href="/images/yangzhengpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri3.jpg">  
+<p><a href="/images/yangzhengpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri4.jpg">  
+<p><a href="/images/yangzhengpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri5.jpg">  
+<p><a href="/images/yangzhengpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri6.jpg">  
+<p><a href="/images/yangzhengpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri7.jpg">  
+<p><a href="/images/yangzhengpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri8.jpg">  
+<p><a href="/images/yangzhengpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/yangzhengpri9.jpg">  
+<p><a href="/images/yangzhengpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/yangzhengpri9.jpg">
 </a></p>
 

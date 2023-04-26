@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch2.jpg">  
+<p><a href="/images/poichingsch2.jpg">  
 <img src="/images/poichingsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch3.jpg">  
+<p><a href="/images/poichingsch3.jpg">  
 <img src="/images/poichingsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch4.jpg">  
+<p><a href="/images/poichingsch4.jpg">  
 <img src="/images/poichingsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch5.jpg">  
+<p><a href="/images/poichingsch5.jpg">  
 <img src="/images/poichingsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch6.jpg">  
+<p><a href="/images/poichingsch6.jpg">  
 <img src="/images/poichingsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch7.jpg">  
+<p><a href="/images/poichingsch7.jpg">  
 <img src="/images/poichingsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch8.jpg">  
+<p><a href="/images/poichingsch8.jpg">  
 <img src="/images/poichingsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/poichingsch9.jpg">  
+<p><a href="/images/poichingsch9.jpg">  
 <img src="/images/poichingsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

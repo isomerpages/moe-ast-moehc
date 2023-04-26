@@ -13,21 +13,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7uDqFCAf1N_AvugT75XSg-UDGfScwOcHLwabQsgPenJclinhp04RrD-T08Lw1grsL_3A2HFSwz0Wi/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bowensec2.jpg">  
+<p><a href="/images/bowensec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bowensec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bowensec3.jpg">  
+<p><a href="/images/bowensec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bowensec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bowensec4.jpg">  
+<p><a href="/images/bowensec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bowensec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bowensec5.jpg">  
+<p><a href="/images/bowensec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bowensec5.jpg">
 </a></p>
 

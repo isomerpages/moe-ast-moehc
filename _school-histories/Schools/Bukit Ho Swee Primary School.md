@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5dZITO-FAToEUNtXxEhrUlLypNQ8mgpbELoDrBRN9AEU3XImVsrMhW\_TsRYE-5fEzOIaBu86-PouU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukithosweepri2.png">  
+<p><a href="/images/bukithosweepri2.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri2.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukithosweepri3.png">  
+<p><a href="/images/bukithosweepri3.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri3.png">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukithosweepri4.png">  
+<p><a href="/images/bukithosweepri4.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri4.png">
 </a></p>
 
@@ -34,7 +34,7 @@ In January 2002, Bukit Ho Swee Primary merged with Alexandra Hill Primary School
 Last Serving Principal:<br>
 * Mrs Koe Poh Tee (1998–2001)
 
-**Related Schools:** **[Alexandra Hill Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/alexandra-hill-pri/)** \| **[Henderson Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/henderson-pri/)** \| **[Keng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/keng-seng-pri/)** \| **[Gan Eng Seng Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/gan-eng-seng-pri/)**
+**Related Schools:** **[Alexandra Hill Primary School](/school-histories/alexandra-hill-pri/)** \| **[Henderson Primary School](/school-histories/henderson-pri/)** \| **[Keng Seng Primary School](/school-histories/keng-seng-pri/)** \| **[Gan Eng Seng Primary School](/school-histories/gan-eng-seng-pri/)**
 
 
 #### **Key Milestones**

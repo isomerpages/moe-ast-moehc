@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northviewsec2.jpg">  
+<p><a href="/images/northviewsec2.jpg">  
 <img src="/images/northviewsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northviewsec3.jpg">  
+<p><a href="/images/northviewsec3.jpg">  
 <img src="/images/northviewsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northviewsec4.jpg">  
+<p><a href="/images/northviewsec4.jpg">  
 <img src="/images/northviewsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northviewsec5.jpg">  
+<p><a href="/images/northviewsec5.jpg">  
 <img src="/images/northviewsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northviewsec6.jpg">  
+<p><a href="/images/northviewsec6.jpg">  
 <img src="/images/northviewsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -53,7 +53,7 @@ Principals:<br>
 \- Mr Ang Hwee Khoon (2011–2012)<br>
 \- Mr Remington Chen Fook Pang (2013–2016)
 
-**Related School: [Northland Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/northland-sec/)**
+**Related School: [Northland Secondary School](/school-histories/northland-sec/)**
 
 #### **Key Milestones**
 

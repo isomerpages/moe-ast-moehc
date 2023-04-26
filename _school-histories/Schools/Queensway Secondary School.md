@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec2.jpg">  
+<p><a href="/images/queenswaysec2.jpg">  
 <img src="/images/queenswaysec2.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec3.jpg">  
+<p><a href="/images/queenswaysec3.jpg">  
 <img src="/images/queenswaysec3.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec4.jpg">  
+<p><a href="/images/queenswaysec4.jpg">  
 <img src="/images/queenswaysec4.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec5.jpg">  
+<p><a href="/images/queenswaysec5.jpg">  
 <img src="/images/queenswaysec5.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec6.jpg">  
+<p><a href="/images/queenswaysec6.jpg">  
 <img src="/images/queenswaysec6.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec7.jpg">  
+<p><a href="/images/queenswaysec7.jpg">  
 <img src="/images/queenswaysec7.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec8.jpg">  
+<p><a href="/images/queenswaysec8.jpg">  
 <img src="/images/queenswaysec8.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenswaysec9.jpg">  
+<p><a href="/images/queenswaysec9.jpg">  
 <img src="/images/queenswaysec9.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -74,7 +74,7 @@ Principals:<br>
 \- Mr Benjamin Lui Seng Cheong (2009–2017)<br>
 \- Mr Peter Tan Chong Tze (2017–present)
 
-**Related School: [Buona Vista Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/buona-vista-sec/)**
+**Related School: [Buona Vista Secondary School](/school-histories/buona-vista-sec/)**
 
 #### **Key Milestones**
 

@@ -4,49 +4,50 @@ permalink: /school-histories/st-patrick-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stpatrickssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stpatrickssch1.jpg">
 
-### **St Patrick's School**
+### **St. Patrick's School**
 [URL to website](https://stpatricks.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpE8SDw7RwACVL8jZ9awHu3Aqo1MXePGmOMh0WKrwMrmjo9ESUf7rgDSS4AHzTdYZTVToT1ugZu-rV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch2.jpg">  
-<img src="/images/stpatrickssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stpatrickssch2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch3.jpg">  
-<img src="/images/stpatrickssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stpatrickssch3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch4.jpg">  
-<img src="/images/stpatrickssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch5.jpg">  
-<img src="/images/stpatrickssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch6.jpg">  
-<img src="/images/stpatrickssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch7.jpg">  
-<img src="/images/stpatrickssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stpatrickssch4.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch8.jpg">  
-<img src="/images/stpatrickssch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stpatrickssch5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stpatrickssch9.jpg">  
-<img src="/images/stpatrickssch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stpatrickssch6.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch6.jpg">
+</a></p>
+
+<p><a href="/images/stpatrickssch7.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch7.jpg">
+</a></p>
+
+<br clear="left">
+
+<p><a href="/images/stpatrickssch8.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch8.jpg">
+</a></p>
+
+<p><a href="/images/stpatrickssch9.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -109,14 +110,14 @@ Potest Qui Vult
 The motto is a reminder that, despite human limitations, one can still achieve his ideals if he tries. The Patrician has his feet firmly on the ground as he reaches for the unreachable star.
 
 #### **School Crest**
-<img src="/images/stpatrickssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stpatrickssch1.jpg">
 
 Three symbols are depicted in the school badge. The green shamrock is a powerful sign of unity in diversity. It was used by St Patrick as a humble image of God. It also represents the earth and the environment. Set against a blue background is the Christian Brothers’ symbol – the radiant star – which conveys the ideals that can be achieved by each student.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/19DrHy8FioouIZPn79H01ZQYRxVRSliBJ/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 All through our college, a voice is resounding,<br>
 Promptly respond to your duty's sweet call;<br>

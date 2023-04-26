@@ -12,35 +12,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri2.jpg">  
+<p><a href="/images/chonglipri2.jpg">  
 <img src="/images/chonglipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri3.jpg">  
+<p><a href="/images/chonglipri3.jpg">  
 <img src="/images/chonglipri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri4.jpg">  
+<p><a href="/images/chonglipri4.jpg">  
 <img src="/images/chonglipri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri5.jpg">  
+<p><a href="/images/chonglipri5.jpg">  
 <img src="/images/chonglipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri6.jpg">  
+<p><a href="/images/chonglipri6.jpg">  
 <img src="/images/chonglipri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri7.jpg">  
+<p><a href="/images/chonglipri7.jpg">  
 <img src="/images/chonglipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chonglipri8.jpg">  
+<p><a href="/images/chonglipri8.jpg">  
 <img src="/images/chonglipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -58,7 +58,7 @@ Principals:<br>
 \- Mr Lee Keng Gnan (1986–1998)<br>
 \- Mr Ng Cher Song (1998–2002)
 
-**Related School: [Teck Ghee Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/teck-ghee-pri/)**
+**Related School: [Teck Ghee Primary School](/school-histories/teck-ghee-pri/)**
 
 #### **Key Milestones**
 

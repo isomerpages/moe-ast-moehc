@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec2.jpg">  
+<p><a href="/images/serangoongardensec2.jpg">  
 <img src="/images/serangoongardensec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec3.jpg">  
+<p><a href="/images/serangoongardensec3.jpg">  
 <img src="/images/serangoongardensec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec4.jpg">  
+<p><a href="/images/serangoongardensec4.jpg">  
 <img src="/images/serangoongardensec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec5.jpg">  
+<p><a href="/images/serangoongardensec5.jpg">  
 <img src="/images/serangoongardensec5.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec7.jpg">  
+<p><a href="/images/serangoongardensec7.jpg">  
 <img src="/images/serangoongardensec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec8.jpg">  
+<p><a href="/images/serangoongardensec8.jpg">  
 <img src="/images/serangoongardensec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec9.jpg">  
+<p><a href="/images/serangoongardensec9.jpg">  
 <img src="/images/serangoongardensec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/serangoongardensec10.jpg">  
+<p><a href="/images/serangoongardensec10.jpg">  
 <img src="/images/serangoongardensec10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

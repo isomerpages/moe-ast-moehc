@@ -4,7 +4,7 @@ permalink: /school-histories/stamford-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stamfordpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri1.jpg">
 
 ### **Stamford Primary School**
 [URL to website](https://stamfordpri.moe.edu.sg/) - may require to change in future when original website is removed
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_gGthYngQyAQUUhaELprDOhgNAlPd8uE3Uj4r9bbbOTP4ry7czlRgi4MTR-XyaPlndZ6dHpFbSXFj/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri2.jpg">  
-<img src="/images/stamfordpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stamfordpri2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri3.jpg">  
-<img src="/images/stamfordpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stamfordpri3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri4.jpg">  
-<img src="/images/stamfordpri4.jpg" style="width:20%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri5.jpg">  
-<img src="/images/stamfordpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri6.jpg">  
-<img src="/images/stamfordpri6.jpg" style="width:25%;margin-right:25px;margin-left:25px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri7.jpg">  
-<img src="/images/stamfordpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stamfordpri4.jpg">  
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri8.jpg">  
-<img src="/images/stamfordpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stamfordpri5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stamfordpri9.jpg">  
-<img src="/images/stamfordpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stamfordpri6.jpg">  
+<img align="left" style="width:25%;margin-right:25px;margin-left:25px;" src="/images/stamfordpri6.jpg">
+</a></p>
+
+<p><a href="/images/stamfordpri7.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri7.jpg">
+</a></p>
+
+<br clear="left">
+
+<p><a href="/images/stamfordpri8.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri8.jpg">
+</a></p>
+
+<p><a href="/images/stamfordpri9.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -88,14 +89,14 @@ Principals:<br>
 Strength in Wisdom
 
 #### **School Crest**
-<img src="/images/stamfordpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri1.jpg">
 
 The book symbolises the acquisition of knowledge. The bees are a symbol for students to strive to be diligent and industrious. The lion represents virtue and strength in wisdom. The colour blue depicts the vast potentiality of the individual to develop, grow, achieve and fulfil. The colour gold represents pride and loyalty to the school.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/13My9GtVnKou-uJTtOopXOGlbgXlQ2kQk/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 School of our youth we sing,<br>
 Our praises loud and clear,<br>

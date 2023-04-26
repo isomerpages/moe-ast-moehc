@@ -13,27 +13,27 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ngeeannpri2.jpg">  
+<p><a href="/images/ngeeannpri2.jpg">  
 <img src="/images/ngeeannpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ngeeannpri3.jpg">  
+<p><a href="/images/ngeeannpri3.jpg">  
 <img src="/images/ngeeannpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ngeeannpri4.jpg">  
+<p><a href="/images/ngeeannpri4.jpg">  
 <img src="/images/ngeeannpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ngeeannpri5.jpg">  
+<p><a href="/images/ngeeannpri5.jpg">  
 <img src="/images/ngeeannpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ngeeannpri6.jpg">  
+<p><a href="/images/ngeeannpri6.jpg">  
 <img src="/images/ngeeannpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ngeeannpri7.jpg">  
+<p><a href="/images/ngeeannpri7.jpg">  
 <img src="/images/ngeeannpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,21 +13,21 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRU2mWHCr1W0Dr0srGZnHmHF6N8yDXfYCotFcFI5s9B37zjR8aAOZwDzWo7bNIP2jnomPpFE11skZhw/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraueastpri2.jpg">  
+<p><a href="/images/telokkuraueastpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraueastpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraueastpri3.jpg">  
+<p><a href="/images/telokkuraueastpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraueastpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraueastpri4.jpg">  
+<p><a href="/images/telokkuraueastpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraueastpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/telokkuraueastpri5.jpg">  
+<p><a href="/images/telokkuraueastpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraueastpri5.jpg">
 </a></p>
 

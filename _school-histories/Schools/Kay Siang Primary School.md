@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kaysiangpri2.jpg">  
+<p><a href="/images/kaysiangpri2.jpg">  
 <img src="/images/kaysiangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kaysiangpri3.png">  
+<p><a href="/images/kaysiangpri3.png">  
 <img src="/images/kaysiangpri3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

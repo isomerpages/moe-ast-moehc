@@ -14,23 +14,23 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZAvmFDxtHw_j54whmYT2cqWeyk1-Rz6Sn9TgmE95jc3KgQJfvQSMKSR8mtqn5dY0yiD77BvtYDfyH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec2.jpg">  
+<p><a href="/images/tanjongkatongsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec3.jpg">  
+<p><a href="/images/tanjongkatongsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec4.jpg">  
+<p><a href="/images/tanjongkatongsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec5.jpg">  
+<p><a href="/images/tanjongkatongsec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatongsec6.jpg">  
+<p><a href="/images/tanjongkatongsec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongkatongsec6.jpg">
 </a></p>
 
@@ -82,7 +82,7 @@ The school badge features an image of Leonardo da Vinci, one of the most versati
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="_blank" href="https://drive.google.com/file/d/1nhIgmfazKD-YwiivfXB9N-hIoNisDRHN/view?usp=share_link">**♫ Listen**</a>
 
 On the sea-shore of endless worlds,<br>
 With the mind and with the body,<br>

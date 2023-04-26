@@ -4,56 +4,57 @@ permalink: /school-histories/tanjong-katong-girls-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/tanjongkatonggirlssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongkatonggirlssch1.png">
 
 ### **Tanjong Katong Girls' School**
-[URL to website](https://tkgs.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://tkgs.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQNob7nGC_6dkozpAuLDBlvSDgQyShwIqL-YH34uL_F9dLfvbuHO9PCSt_qAfyf_hrOLLqpBgzHNUHd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch2.jpg">  
-<img src="/images/tanjongkatonggirlssch2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch2.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch3.jpg">  
-<img src="/images/tanjongkatonggirlssch3.jpg" style="width:22%;margin-right:45px;" align = "right">
+<p><a href="/images/tanjongkatonggirlssch3.jpg">  
+<img align="right" style="width:22%;margin-right:45px;" src="/images/tanjongkatonggirlssch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch4.jpg">  
-<img src="/images/tanjongkatonggirlssch4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch4.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch5.jpg">  
-<img src="/images/tanjongkatonggirlssch5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch5.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch5.jpg">
 </a></p>
 
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch6.jpg">  
-<img src="/images/tanjongkatonggirlssch6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch6.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch8.jpg">  
-<img src="/images/tanjongkatonggirlssch8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch8.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch9.jpg">  
-<img src="/images/tanjongkatonggirlssch9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch9.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch9.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch10.jpg">  
-<img src="/images/tanjongkatonggirlssch10.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch10.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch10.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch11.jpg">  
-<img src="/images/tanjongkatonggirlssch11.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch11.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch11.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongkatonggirlssch12.jpg">  
-<img src="/images/tanjongkatonggirlssch12.jpg" style="width:22%;margin-right:15px;" align = "left">
+<p><a href="/images/tanjongkatonggirlssch12.jpg">  
+<img align="left" style="width:22%;margin-right:15px;" src="/images/tanjongkatonggirlssch12.jpg">
 </a></p>
 
 <br clear="left">
@@ -61,11 +62,11 @@ third_nav_title: Schools
 #### **School History**
 Tanjong Katong Girls' School was established in 1953 as the first post-war government English-medium girls' school in colonial Singapore.
 
-In 1983, Tanjong Katong Girls’ School was selected to start the Music Elective Programme. In 1995, the school gained autonomous status and moved to 20 Dunman Lane. The official opening of the school’s new campus was held on 11 July 1997. In 2003, the school celebrated its 50th anniversary.
+In 1983, Tanjong Katong Girls’ School was selected to start the Music Elective Programme. In 1995, the school gained autonomous status and moved to 20 Dunman Lane. The official opening of the school’s new campus was held on 11 July 1997. In 2003, the school celebrated its 50th&nbsp;anniversary.
 
 In 2001, the school developed CCA niches in the Symphonic Band, String Ensemble and Choir. The school further pursued excellence in holistic development through the introduction of the Integrated Character Development Programme known as Leading, Empowering, Guiding, Affirming and Challenging Youth (LEGACY). Soon after, in 2005, the school developed new CCAs in Tennis, Badminton, Sailing and Netball. In 2006, the school was identified as a Centre of Excellence for English Language.
 
-In 2013, the school celebrated its 60th Anniversary. The school encouraged the spirit of paying it forward through the TKGS+ Programme which emphasized stewardship of knowledge and skills with students applying their deep understanding in subject disciplines to benefit communities and the environment. In 2016, the school underwent PRIME and relocated to its holding site at 2, Bedok South Road. In 2018, the school celebrated its 65th Anniversary. 2019 marked a new beginning as the school returned to the newly upgraded campus at 20 Dunman Lane. 
+In 2013, the school celebrated its 60th&nbsp;Anniversary. The school encouraged the spirit of paying it forward through the TKGS+ Programme which emphasized stewardship of knowledge and skills with students applying their deep understanding in subject disciplines to benefit communities and the environment. In 2016, the school underwent PRIME and relocated to its holding site at 2, Bedok South Road. In 2018, the school celebrated its 65th&nbsp;Anniversary. 2019 marked a new beginning as the school returned to the newly upgraded campus at 20 Dunman Lane.&nbsp;
 
 Principals:<br>
 \- Mrs Maude Scott (1953 to 1960)<br>
@@ -90,17 +91,17 @@ Principals:<br>
 | 1983 | Selected to offer Music Elective Programme. |
 | 1995 | Accorded Autonomous status and relocation of school to 20 Dunman Lane with official opening of the school premise held in 1997. |
 | 2003 | Celebration of 50th anniversary. |
-| 2005 | One of the first few schools to offer the Chinese Special Programme & Malay Special Programme. |
+| 2005 | One of the first few schools to offer the Chinese Special Programme &amp; Malay Special Programme. |
 | 2013 | Celebration of 60th Anniversary. |
 | 2018 | Completion of PRIME upgrading, and celebration of 65th anniversary. |
 | 2019 | A new beginning for the school as the school returned to the newly upgraded campus at 20 Dunman Lane. |
 |
 
 #### **School Motto**
-_Moribus Modestus_ (Demure and Resolute)
+_Moribus Modestus_&nbsp;(Demure and Resolute)
 
 #### **School Crest**
-<img src="/images/tanjongkatonggirlssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongkatonggirlssch1.png">
 
 The school crest consists of six symbols. At the tip of the crest, a majestic LION stands on top of a TOWER. Adorned with the colours of gold and maroon in four separate panels are the symbols of TURTLE, WHEEL, LAMP, and WINGED SHOE.
 
@@ -115,7 +116,7 @@ The school crest consists of six symbols. At the tip of the crest, a majestic LI
 |
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1C2UyvPzQQCD3wBB-LFEAQZdPBma2-CmO/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 We cannot all be heroes and thrill a hemisphere<br>
 With some great daring venture, some deed that mocks at fear<br>

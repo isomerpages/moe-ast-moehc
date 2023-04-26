@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec2.jpg">  
+<p><a href="/images/hougangsec2.jpg">  
 <img src="/images/hougangsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec3.jpg">  
+<p><a href="/images/hougangsec3.jpg">  
 <img src="/images/hougangsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec4.jpg">  
+<p><a href="/images/hougangsec4.jpg">  
 <img src="/images/hougangsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec5.jpg">  
+<p><a href="/images/hougangsec5.jpg">  
 <img src="/images/hougangsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec6.jpg">  
+<p><a href="/images/hougangsec6.jpg">  
 <img src="/images/hougangsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec7.jpg">  
+<p><a href="/images/hougangsec7.jpg">  
 <img src="/images/hougangsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec8.jpg">  
+<p><a href="/images/hougangsec8.jpg">  
 <img src="/images/hougangsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hougangsec9.jpg">  
+<p><a href="/images/hougangsec9.jpg">  
 <img src="/images/hougangsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

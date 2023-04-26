@@ -14,29 +14,29 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS80bRmYiozN26d3SoKLdgHd6Pwpcb8cqVlBgABZjQr4nnal_x9ZUVEtl0WMG-UuLIyPItCdlON7MDz/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhupri2.jpg">  
+<p><a href="/images/tanjongrhupri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhupri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhupri3.jpg">  
+<p><a href="/images/tanjongrhupri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhupri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhupri4.jpg">  
+<p><a href="/images/tanjongrhupri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhupri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhupri5.jpg">  
+<p><a href="/images/tanjongrhupri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhupri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhupri6.jpg">  
+<p><a href="/images/tanjongrhupri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhupri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tanjongrhupri7.jpg">  
+<p><a href="/images/tanjongrhupri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tanjongrhupri7.jpg">
 </a></p>
 

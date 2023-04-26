@@ -11,15 +11,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStE_SMO-XkZNmO0JX47tMA80TTL23zm35_sfIzeZLVvScRKJhz6-UnyXtNN991PCMmy8z3wMBmT1Zh/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri2.jpg">  
+<p><a href="/images/alexandraestatepri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri3.jpg">  
+<p><a href="/images/alexandraestatepri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/alexandraestatepri4.jpg">  
+<p><a href="/images/alexandraestatepri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri4.jpg">
 </a></p>
 

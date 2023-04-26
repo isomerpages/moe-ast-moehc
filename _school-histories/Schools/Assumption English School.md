@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSj2TfaIhy4Q7SQYwAe3vN46cSRMqs8UfnVTE0Jw6XTZaDuaUqJEq2hwcUhch7OtYbZxclb_vAtQBvI/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch2.jpg">  
+<p><a href="/images/assumptionengsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch3.jpg">  
+<p><a href="/images/assumptionengsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch4.jpg">  
+<p><a href="/images/assumptionengsch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch5.jpg">  
+<p><a href="/images/assumptionengsch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch6.jpg">  
+<p><a href="/images/assumptionengsch6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch7.jpg">  
+<p><a href="/images/assumptionengsch7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch8.jpg">  
+<p><a href="/images/assumptionengsch8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/assumptionengsch9.jpg">  
+<p><a href="/images/assumptionengsch9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch9.jpg">
 </a></p>
 

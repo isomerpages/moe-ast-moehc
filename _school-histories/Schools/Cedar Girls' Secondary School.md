@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec2.jpg">  
+<p><a href="/images/cedargirlssec2.jpg">  
 <img src="/images/cedargirlssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec3.jpg">  
+<p><a href="/images/cedargirlssec3.jpg">  
 <img src="/images/cedargirlssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec4.jpg">  
+<p><a href="/images/cedargirlssec4.jpg">  
 <img src="/images/cedargirlssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec5.jpg">  
+<p><a href="/images/cedargirlssec5.jpg">  
 <img src="/images/cedargirlssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec6.jpg">  
+<p><a href="/images/cedargirlssec6.jpg">  
 <img src="/images/cedargirlssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec7.jpg">  
+<p><a href="/images/cedargirlssec7.jpg">  
 <img src="/images/cedargirlssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec8.jpg">  
+<p><a href="/images/cedargirlssec8.jpg">  
 <img src="/images/cedargirlssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cedargirlssec9.jpg">  
+<p><a href="/images/cedargirlssec9.jpg">  
 <img src="/images/cedargirlssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

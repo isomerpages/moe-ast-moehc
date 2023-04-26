@@ -4,34 +4,35 @@ permalink: /school-histories/st-theresa-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sttheresahigh1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sttheresahigh1.png">
 
-### **St Theresa's High School**
+### **St. Theresa's High School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTIpkRF8YciIn4UdFypKxHZ_Ue3K74cqvrMZtqBp7jvqmTAX3YbuyGidhuBYPeLRxm_n_18jiW6PD2Q/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sttheresahigh2.jpg">  
-<img src="/images/sttheresahigh2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/sttheresahigh2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sttheresahigh2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sttheresahigh3.jpg">  
-<img src="/images/sttheresahigh3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/sttheresahigh3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sttheresahigh3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sttheresahigh4.jpg">  
-<img src="/images/sttheresahigh4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/sttheresahigh4.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sttheresahigh4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sttheresahigh5.jpg">  
-<img src="/images/sttheresahigh5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/sttheresahigh5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sttheresahigh5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/sttheresahigh6.jpg">  
-<img src="/images/sttheresahigh6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/sttheresahigh6.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sttheresahigh6.jpg">
 </a></p>
 
 <br clear="left">
@@ -62,16 +63,11 @@ Principals:<br>
 |
 
 #### **School Motto**
-<img src="/images/sttheresamotto.png" style="width:45%" align=left>
+<img align="left" style="width:45%" src="/images/sttheresamotto.png">
 
 <br clear="left">
 
 #### **School Crest**
-<img src="/images/sttheresahigh1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sttheresahigh1.png">
 
 <br clear="left">
-
-#### **School Song**
-\-

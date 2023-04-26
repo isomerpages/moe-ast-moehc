@@ -14,11 +14,11 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT5FVkuYCAtTnDshQCHbTvkiiw5Jd3jZn7lqtAYOddJl1qg0ELu9C3DDVcwZWLMS5F6ijGBOQI1FhL0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/willowavenuesec2.jpg">  
+<p><a href="/images/willowavenuesec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/willowavenuesec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/willowavenuesec3.jpg">  
+<p><a href="/images/willowavenuesec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/willowavenuesec3.jpg">
 </a></p>
 

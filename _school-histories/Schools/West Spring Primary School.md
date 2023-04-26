@@ -14,35 +14,35 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRHXuQ4g7KF1mkg5GwUC0ScoloBXHDPXp04gG_2kMBJ5X_yKfbzJ7KML64RXjIynm_A13DV5fNwZe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri2.jpg">  
+<p><a href="/images/westspringpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri3.jpg">  
+<p><a href="/images/westspringpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri4.jpg">  
+<p><a href="/images/westspringpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri5.jpg">  
+<p><a href="/images/westspringpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri6.jpg">  
+<p><a href="/images/westspringpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri7.jpg">  
+<p><a href="/images/westspringpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westspringpri8.jpg">  
+<p><a href="/images/westspringpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westspringpri8.jpg">
 </a></p>
 
@@ -71,6 +71,8 @@ The school crest shows the image of a jumping human figure that is full of joy a
 The flow of turquoise hues throughout the logo carries with it the imagery of flowing spring water, and brings to life the Chinese idiom 饮水思源 (yǐn shuǐ sī yuán), which literally means that we should remember the source as we take our drink. This spirit of remembering our origins and appreciating what we have is the hallmark of all students at the school. It is a spirit of gratitude that will always prevail even as students graduate and move on to scale higher peaks in life.
 
 #### **School Song**
+
+<a target="_blank" href="https://drive.google.com/file/d/14I3dATRmNLRBz7iBbKnRLAJz3AsXQncF/view?usp=share_link">**♫ Listen**</a>
 
 Every day that I wake<br>
 I’m thankful for this day<br>

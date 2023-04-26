@@ -4,39 +4,40 @@ permalink: /school-histories/swiss-cottage-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/swisscottagepri7.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/swisscottagepri7.png">
 
 ### **Swiss Cottage Secondary School**
-[URL to website](https://swisscottagesec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://swisscottagesec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRa39HZ2_pweUrLryOo1NRiwkDDQoqwFSYherrdBEWniLhGdkRg6wvJDTbv3Tbs8c0Fb83x-8ga3sUN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec1.jpg">  
-<img src="/images/swisscottagesec1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/swisscottagesec1.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec1.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec2.jpg">  
-<img src="/images/swisscottagesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/swisscottagesec2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec3.jpg">  
-<img src="/images/swisscottagesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/swisscottagesec3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec4.jpg">  
-<img src="/images/swisscottagesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/swisscottagesec4.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec5.jpg">  
-<img src="/images/swisscottagesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/swisscottagesec5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/swisscottagesec6.jpg">  
-<img src="/images/swisscottagesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/swisscottagesec6.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -75,12 +76,12 @@ Scientiae Patriaeque Gratia<br>
 Latin for ‘For the Sake of Learning and for the State’
 
 #### **School Crest**
-<img src="/images/swisscottagepri7.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/swisscottagepri7.png">
 
 The crest is headed by five stars symbolising equality, peace, progress, justice and democracy. These are ideals on which a brotherhood of people can be built. Below is a torch signifying the light of knowledge and the love of learning. Encompassing it are five rings symbolising sports and how they connect people. The five horizontal bands denote the five houses as rivals in competition but steadfast in fraternity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/17l-CY6yWfU7HDhWkNqkZj7OdNuSxf7gN/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 A school standing high in our esteem,<br>
 She soars aloft and reigns supreme,<br>

@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rangoonsec2.jpg">  
+<p><a href="/images/rangoonsec2.jpg">  
 <img src="/images/rangoonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rangoonsec3.jpg">  
+<p><a href="/images/rangoonsec3.jpg">  
 <img src="/images/rangoonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -31,7 +31,7 @@ The school did well in various sports, including hockey and volleyball. In the 1
 
 Rangoon Secondary School merged with Balestier Hill Secondary School in January 2001.
 
-**Related School: [Balestier Hill Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/balestier-hill-sec/)**
+**Related School: [Balestier Hill Secondary School](/school-histories/balestier-hill-sec/)**
 
 #### **Key Milestones**
 

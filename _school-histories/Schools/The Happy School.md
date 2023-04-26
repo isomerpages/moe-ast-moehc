@@ -13,7 +13,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk37fKCj7vGBxoJgGOV857FTdiCJMoXP5youpYzZNn6KYoetxo_SSbMEXvw8OE8aZf2jr6pmXcHiFQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/thehappysch2.jpg">  
+<p><a href="/images/thehappysch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/thehappysch2.jpg">
 </a></p>
 

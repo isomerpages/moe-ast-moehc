@@ -13,19 +13,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kembanganpri2.png">  
+<p><a href="/images/kembanganpri2.png">  
 <img src="/images/kembanganpri2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kembanganpri3.png">  
+<p><a href="/images/kembanganpri3.png">  
 <img src="/images/kembanganpri3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kembanganpri4.png">  
+<p><a href="/images/kembanganpri4.png">  
 <img src="/images/kembanganpri4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/kembanganpri5.png">  
+<p><a href="/images/kembanganpri5.png">  
 <img src="/images/kembanganpri5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

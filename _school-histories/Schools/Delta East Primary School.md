@@ -12,7 +12,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/deltaeastpri2.jpg">  
+<p><a href="/images/deltaeastpri2.jpg">  
 <img src="/images/deltaeastpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSOt7YLlObeSy1A9OA7xQhyTJCnKoOP-x47S7uDaQYit67rhdMy5wFhwhNBaeAsEBgROZIoTlokGjjV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec1.jpg">  
+<p><a href="/images/bishanparksec1.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec1.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec2.jpg">  
+<p><a href="/images/bishanparksec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec3.jpg">  
+<p><a href="/images/bishanparksec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec3.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec4.jpg">  
+<p><a href="/images/bishanparksec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec5.jpg">  
+<p><a href="/images/bishanparksec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bishanparksec6.jpg">  
+<p><a href="/images/bishanparksec6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bishanparksec6.jpg">
 </a></p>
 
@@ -53,7 +53,7 @@ Principals:<br>
 * Mr Vasuthevan (2004–2010)<br>
 * Mdm Valerie Goh (2011–2017)
 
-Related School: [Peirce Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/peirce-sec/)
+Related School: [Peirce Secondary School](/school-histories/peirce-sec/)
 
 #### **Key Milestones**
 

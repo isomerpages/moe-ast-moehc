@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri2.jpg">  
+<p><a href="/images/peiyingpri2.jpg">  
 <img src="/images/peiyingpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri3.jpg">  
+<p><a href="/images/peiyingpri3.jpg">  
 <img src="/images/peiyingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri4.jpg">  
+<p><a href="/images/peiyingpri4.jpg">  
 <img src="/images/peiyingpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri7.jpg">  
+<p><a href="/images/peiyingpri7.jpg">  
 <img src="/images/peiyingpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri6.jpg">  
+<p><a href="/images/peiyingpri6.jpg">  
 <img src="/images/peiyingpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri5.jpg">  
+<p><a href="/images/peiyingpri5.jpg">  
 <img src="/images/peiyingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri8.jpg">  
+<p><a href="/images/peiyingpri8.jpg">  
 <img src="/images/peiyingpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/peiyingpri9.jpg">  
+<p><a href="/images/peiyingpri9.jpg">  
 <img src="/images/peiyingpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

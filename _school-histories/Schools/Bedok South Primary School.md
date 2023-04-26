@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqfhaiCazHMjKbERDStJRs91qMVHRIq2sw6HxgK8FODgpQdBYEhY3mmuj5VGJh10ehBm20KXbCCc1k/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri2.jpg">  
+<p><a href="/images/bedoksouthpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri3.jpg">  
+<p><a href="/images/bedoksouthpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri4.jpg">  
+<p><a href="/images/bedoksouthpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri5.jpg">  
+<p><a href="/images/bedoksouthpri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedoksouthpri6.jpg">  
+<p><a href="/images/bedoksouthpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedoksouthpri6.jpg">
 </a></p>
 
@@ -45,7 +45,7 @@ Bedok South Primary School also actively fostered ties with Bedok South Secondar
 
 In January 2002, it merged with Bedok View Primary School to become Bedok Green Primary School.
 
-**Related School:** **[Bedok View Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-view-pri/)** \| **[Bedok Green Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bedok-green-pri/)**
+**Related School:** **[Bedok View Primary School](/school-histories/bedok-view-pri/)** \| **[Bedok Green Primary School](/school-histories/bedok-green-pri/)**
 
 #### **Key Milestones**
 

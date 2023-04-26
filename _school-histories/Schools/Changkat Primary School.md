@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri2.png">  
+<p><a href="/images/changkatpri2.png">  
 <img src="/images/changkatpri2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri3.png">  
+<p><a href="/images/changkatpri3.png">  
 <img src="/images/changkatpri3.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri4.png">  
+<p><a href="/images/changkatpri4.png">  
 <img src="/images/changkatpri4.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri5.png">  
+<p><a href="/images/changkatpri5.png">  
 <img src="/images/changkatpri5.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri6.png">  
+<p><a href="/images/changkatpri6.png">  
 <img src="/images/changkatpri6.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri7.png">  
+<p><a href="/images/changkatpri7.png">  
 <img src="/images/changkatpri7.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri8.png">  
+<p><a href="/images/changkatpri8.png">  
 <img src="/images/changkatpri8.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/changkatpri9.png">  
+<p><a href="/images/changkatpri9.png">  
 <img src="/images/changkatpri9.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -12,11 +12,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCfUIHeRzVoc_HxpsVdsJu7tx3yAWjzUqfPFXikATDNOQ-KTGXRWP5NJRAwHX-MDi9K0_pYsjIU-SY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokpri2.jpg">  
+<p><a href="/images/bedokpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bedokpri3.jpg">  
+<p><a href="/images/bedokpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokpri3.jpg">
 </a></p>
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri2.jpg">  
+<p><a href="/images/queenstownpri2.jpg">  
 <img src="/images/queenstownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri3.jpg">  
+<p><a href="/images/queenstownpri3.jpg">  
 <img src="/images/queenstownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri4.jpg">  
+<p><a href="/images/queenstownpri4.jpg">  
 <img src="/images/queenstownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri5.jpg">  
+<p><a href="/images/queenstownpri5.jpg">  
 <img src="/images/queenstownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri6.jpg">  
+<p><a href="/images/queenstownpri6.jpg">  
 <img src="/images/queenstownpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri7.jpg">  
+<p><a href="/images/queenstownpri7.jpg">  
 <img src="/images/queenstownpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri8.jpg">  
+<p><a href="/images/queenstownpri8.jpg">  
 <img src="/images/queenstownpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/queenstownpri9.jpg">  
+<p><a href="/images/queenstownpri9.jpg">  
 <img src="/images/queenstownpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Mrs Grace Chua (2010–2016)<br>
 \- Ms Pearly Ng (2017–present)
 
-**Related Schools: [Mei Chin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/mei-chin-pri/) | [Tanglin Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/tanglin-pri/)**
+**Related Schools: [Mei Chin Primary School](/school-histories/mei-chin-pri/) | [Tanglin Primary School](/school-histories/tanglin-pri/)**
 
 #### **Key Milestones**
 

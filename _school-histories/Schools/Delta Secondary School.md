@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/deltasec2.jpg">  
+<p><a href="/images/deltasec2.jpg">  
 <img src="/images/deltasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/deltasec3.jpg">  
+<p><a href="/images/deltasec3.jpg">  
 <img src="/images/deltasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/deltasec4.jpg">  
+<p><a href="/images/deltasec4.jpg">  
 <img src="/images/deltasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -31,7 +31,7 @@ Delta Secondary School was established in 1991 from a merger between Tiong Bahru
 
 In 2004, Delta Secondary School merged with Bukit Merah Secondary School.
 
-**Related School: [Bukit Merah Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/bukit-merah-sec/)**
+**Related School: [Bukit Merah Secondary School](/school-histories/bukit-merah-sec/)**
 
 #### **Key Milestones**
 

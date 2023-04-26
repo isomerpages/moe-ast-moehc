@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch2.jpg">  
+<p><a href="/images/mahabodhisch2.jpg">  
 <img src="/images/mahabodhisch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch3.jpg">  
+<p><a href="/images/mahabodhisch3.jpg">  
 <img src="/images/mahabodhisch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch4.jpg">  
+<p><a href="/images/mahabodhisch4.jpg">  
 <img src="/images/mahabodhisch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch7.jpg">  
+<p><a href="/images/mahabodhisch7.jpg">  
 <img src="/images/mahabodhisch7.jpg" style="width:30%;margin-right:35px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch5.jpg">  
+<p><a href="/images/mahabodhisch5.jpg">  
 <img src="/images/mahabodhisch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch6.jpg">  
+<p><a href="/images/mahabodhisch6.jpg">  
 <img src="/images/mahabodhisch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch9.jpg">  
+<p><a href="/images/mahabodhisch9.jpg">  
 <img src="/images/mahabodhisch9.jpg" style="width:30%;margin-right:35px;" align = "right">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/mahabodhisch8.jpg">  
+<p><a href="/images/mahabodhisch8.jpg">  
 <img src="/images/mahabodhisch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

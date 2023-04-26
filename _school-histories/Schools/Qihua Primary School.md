@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri2.jpg">  
+<p><a href="/images/qihuapri2.jpg">  
 <img src="/images/qihuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri3.jpg">  
+<p><a href="/images/qihuapri3.jpg">  
 <img src="/images/qihuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri4.jpg">  
+<p><a href="/images/qihuapri4.jpg">  
 <img src="/images/qihuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri5.jpg">  
+<p><a href="/images/qihuapri5.jpg">  
 <img src="/images/qihuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri6.jpg">  
+<p><a href="/images/qihuapri6.jpg">  
 <img src="/images/qihuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri7.jpg">  
+<p><a href="/images/qihuapri7.jpg">  
 <img src="/images/qihuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri8.jpg">  
+<p><a href="/images/qihuapri8.jpg">  
 <img src="/images/qihuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qihuapri9.jpg">  
+<p><a href="/images/qihuapri9.jpg">  
 <img src="/images/qihuapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

@@ -13,35 +13,35 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec2.jpg">  
+<p><a href="/images/northbrookssec2.jpg">  
 <img src="/images/northbrookssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec3.jpg">  
+<p><a href="/images/northbrookssec3.jpg">  
 <img src="/images/northbrookssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec4.jpg">  
+<p><a href="/images/northbrookssec4.jpg">  
 <img src="/images/northbrookssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec5.jpg">  
+<p><a href="/images/northbrookssec5.jpg">  
 <img src="/images/northbrookssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec6.jpg">  
+<p><a href="/images/northbrookssec6.jpg">  
 <img src="/images/northbrookssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec7.jpg">  
+<p><a href="/images/northbrookssec7.jpg">  
 <img src="/images/northbrookssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec8.jpg">  
+<p><a href="/images/northbrookssec8.jpg">  
 <img src="/images/northbrookssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/northbrookssec9.jpg">  
+<p><a href="/images/northbrookssec9.jpg">  
 <img src="/images/northbrookssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

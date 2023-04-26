@@ -14,35 +14,35 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTq0g6IAhZg2jM2tqF1NjT2gh4FSBczQT7Hn7GvJEw1NDBFhaqPeAjOXiVQ10oF5tW5oaHSz4Eruqci/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="400" height="254" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri8.jpg">  
+<p><a href="/images/westviewpri8.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/westviewpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri10.jpg">  
+<p><a href="/images/westviewpri10.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/westviewpri10.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri2.jpg">  
+<p><a href="/images/westviewpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri3.jpg">  
+<p><a href="/images/westviewpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri4.jpg">  
+<p><a href="/images/westviewpri4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri5.jpg">  
+<p><a href="/images/westviewpri5.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/westviewpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri6.jpg">  
+<p><a href="/images/westviewpri6.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/westviewpri6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westviewpri7.jpg">  
+<p><a href="/images/westviewpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri7.jpg">
 </a></p>
 

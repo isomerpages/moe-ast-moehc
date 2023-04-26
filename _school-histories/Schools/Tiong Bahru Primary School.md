@@ -14,7 +14,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLzsYSxXrCEkEoKRg0jA_6yruAy_S0gO5JJC_qO2RtVZAwxdkWW6TNqPx1nuJI-oUD-9sc6IfXoqQY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrupri2.jpg">  
+<p><a href="/images/tiongbahrupri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/tiongbahrupri2.jpg">
 </a></p>
 

@@ -12,15 +12,15 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cantonmentsch2.png">  
+<p><a href="/images/cantonmentsch2.png">  
 <img src="/images/cantonmentsch2.png" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cantonmentsch3.jpg">  
+<p><a href="/images/cantonmentsch3.jpg">  
 <img src="/images/cantonmentsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/cantonmentsch4.jpg">  
+<p><a href="/images/cantonmentsch4.jpg">  
 <img src="/images/cantonmentsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

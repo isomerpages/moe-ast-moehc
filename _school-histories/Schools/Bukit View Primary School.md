@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri2.jpg">  
+<p><a href="/images/bukitviewpri2.jpg">  
 <img src="/images/bukitviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri3.jpg">  
+<p><a href="/images/bukitviewpri3.jpg">  
 <img src="/images/bukitviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri4.jpg">  
+<p><a href="/images/bukitviewpri4.jpg">  
 <img src="/images/bukitviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri5.jpg">  
+<p><a href="/images/bukitviewpri5.jpg">  
 <img src="/images/bukitviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri6.jpg">  
+<p><a href="/images/bukitviewpri6.jpg">  
 <img src="/images/bukitviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri7.jpg">  
+<p><a href="/images/bukitviewpri7.jpg">  
 <img src="/images/bukitviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri8.jpg">  
+<p><a href="/images/bukitviewpri8.jpg">  
 <img src="/images/bukitviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri9.jpg">  
+<p><a href="/images/bukitviewpri9.jpg">  
 <img src="/images/bukitviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewpri4.jpg">  
+<p><a href="/images/bukitviewpri4.jpg">  
 <img src="/images/bukitviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

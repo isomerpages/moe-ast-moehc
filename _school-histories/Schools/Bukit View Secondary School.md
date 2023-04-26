@@ -13,37 +13,37 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec2.jpg">  
+<p><a href="/images/bukitviewsec2.jpg">  
 <img src="/images/bukitviewsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec3.jpg">  
+<p><a href="/images/bukitviewsec3.jpg">  
 <img src="/images/bukitviewsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec4.jpg">  
+<p><a href="/images/bukitviewsec4.jpg">  
 <img src="/images/bukitviewsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec5.jpg">  
+<p><a href="/images/bukitviewsec5.jpg">  
 <img src="/images/bukitviewsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec6.jpg">  
+<p><a href="/images/bukitviewsec6.jpg">  
 <img src="/images/bukitviewsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec7.jpg">  
+<p><a href="/images/bukitviewsec7.jpg">  
 <img src="/images/bukitviewsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec8.jpg">  
+<p><a href="/images/bukitviewsec8.jpg">  
 <img src="/images/bukitviewsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bukitviewsec9.jpg">  
+<p><a href="/images/bukitviewsec9.jpg">  
 <img src="/images/bukitviewsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

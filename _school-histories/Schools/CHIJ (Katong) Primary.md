@@ -13,25 +13,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijkatongpri2.jpg">  
+<p><a href="/images/chijkatongpri2.jpg">  
 <img src="/images/chijkatongpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijkatongpri3.jpg">  
+<p><a href="/images/chijkatongpri3.jpg">  
 <img src="/images/chijkatongpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijkatongpri4.jpg">  
+<p><a href="/images/chijkatongpri4.jpg">  
 <img src="/images/chijkatongpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijkatongpri5.jpg">  
+<p><a href="/images/chijkatongpri5.jpg">  
 <img src="/images/chijkatongpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chijkatongpri6.jpg">  
+<p><a href="/images/chijkatongpri6.jpg">  
 <img src="/images/chijkatongpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

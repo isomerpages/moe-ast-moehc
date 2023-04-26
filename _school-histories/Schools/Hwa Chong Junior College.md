@@ -12,29 +12,29 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachongjc2.jpg">  
+<p><a href="/images/hwachongjc2.jpg">  
 <img src="/images/hwachongjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachongjc3.jpg">  
+<p><a href="/images/hwachongjc3.jpg">  
 <img src="/images/hwachongjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachongjc4.jpg">  
+<p><a href="/images/hwachongjc4.jpg">  
 <img src="/images/hwachongjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachongjc5.jpg">  
+<p><a href="/images/hwachongjc5.jpg">  
 <img src="/images/hwachongjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachongjc6.jpg">  
+<p><a href="/images/hwachongjc6.jpg">  
 <img src="/images/hwachongjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/hwachongjc7.jpg">  
+<p><a href="/images/hwachongjc7.jpg">  
 <img src="/images/hwachongjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -60,7 +60,7 @@ Principals:<br>
 \- Mdm Leong Fan Chin 梁环清 (1993–1998)<br>
 \- Mr Ang Wee Hiong 洪伟雄 (1999–2004)
 
-**Related Schools: [The Chinese High School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/the-chinese-high-sch/) \| [Hwa Chong Institution](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/hwa-chong-institution/)**
+**Related Schools: [The Chinese High School](/school-histories/the-chinese-high-sch/) \| [Hwa Chong Institution](/school-histories/hwa-chong-institution/)**
 
 #### **Key Milestones**
 

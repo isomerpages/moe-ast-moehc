@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec2.jpg">  
+<p><a href="/images/spectrasec2.jpg">  
 <img src="/images/spectrasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec3.jpg">  
+<p><a href="/images/spectrasec3.jpg">  
 <img src="/images/spectrasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec4.jpg">  
+<p><a href="/images/spectrasec4.jpg">  
 <img src="/images/spectrasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec5.jpg">  
+<p><a href="/images/spectrasec5.jpg">  
 <img src="/images/spectrasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec6.jpg">  
+<p><a href="/images/spectrasec6.jpg">  
 <img src="/images/spectrasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec7.jpg">  
+<p><a href="/images/spectrasec7.jpg">  
 <img src="/images/spectrasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec8.jpg">  
+<p><a href="/images/spectrasec8.jpg">  
 <img src="/images/spectrasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/spectrasec9.jpg">  
+<p><a href="/images/spectrasec9.jpg">  
 <img src="/images/spectrasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

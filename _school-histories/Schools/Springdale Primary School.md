@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri2.jpg">  
+<p><a href="/images/springdalepri2.jpg">  
 <img src="/images/springdalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri3.jpg">  
+<p><a href="/images/springdalepri3.jpg">  
 <img src="/images/springdalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri4.jpg">  
+<p><a href="/images/springdalepri4.jpg">  
 <img src="/images/springdalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri5.jpg">  
+<p><a href="/images/springdalepri5.jpg">  
 <img src="/images/springdalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri6.jpg">  
+<p><a href="/images/springdalepri6.jpg">  
 <img src="/images/springdalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri7.jpg">  
+<p><a href="/images/springdalepri7.jpg">  
 <img src="/images/springdalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri8.jpg">  
+<p><a href="/images/springdalepri8.jpg">  
 <img src="/images/springdalepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/springdalepri9.jpg">  
+<p><a href="/images/springdalepri9.jpg">  
 <img src="/images/springdalepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

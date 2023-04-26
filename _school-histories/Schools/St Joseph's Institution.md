@@ -4,41 +4,42 @@ permalink: /school-histories/st-joseph-institution/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stjosephinstitution1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stjosephinstitution1.png">
 
 ### **St Joseph's Institution**
-[URL to website](https://www.sji.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.sji.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6I3BMOCvOr3uGQr7pU-DEWIkNRE_r0f3pj7HOVEfFNs5695Y6K56_6-o8Kb6RNDOLUuv4aRa0UmN4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution2.jpg">  
-<img src="/images/stjosephinstitution2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stjosephinstitution2.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution3.jpg">  
-<img src="/images/stjosephinstitution3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stjosephinstitution3.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution4.jpg">  
-<img src="/images/stjosephinstitution4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<p><a href="/images/stjosephinstitution4.jpg">  
+<img align="right" style="width:30%;margin-right:45px;" src="/images/stjosephinstitution4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution5.jpg">  
-<img src="/images/stjosephinstitution5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stjosephinstitution5.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution6.jpg">  
-<img src="/images/stjosephinstitution6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stjosephinstitution6.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution7.jpg">  
-<img src="/images/stjosephinstitution7.jpg" style="width:30%;margin-right:15px;" align = "right">
+<p><a href="/images/stjosephinstitution7.jpg">  
+<img align="right" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/stjosephinstitution8.jpg">  
-<img src="/images/stjosephinstitution8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<p><a href="/images/stjosephinstitution8.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stjosephinstitution8.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,9 +61,9 @@ In 2013, SJI began a dual-track education for secondary school boys with the fou
 
 The SJI secondary education programme comprises three levels of learning: Academic Foundations, Academic Extensions and Academic Application. The institution has also developed a Religious and Moral Education programme and a robust Student Development Programme to nurture students in values, character and servant leadership.
 
-In 2017, SJI returned to the redeveloped Malcolm Road campus from its temporary premises in Bishan after a three-year upgrading programme, and held a celebration dinner to commemorate its 165th anniversary on 22 July that year. The following year**,** SJI marked its 30th year as an independent school at Malcolm Road.  
+In 2017, SJI returned&nbsp;to the redeveloped Malcolm Road campus&nbsp;from&nbsp;its&nbsp;temporary premises&nbsp;in Bishan&nbsp;after a three-year&nbsp;upgrading&nbsp;programme, and held a celebration dinner&nbsp;to commemorate&nbsp;its 165th anniversary on 22 July that year. The following year**,**&nbsp;SJI&nbsp;marked&nbsp;its&nbsp;30th year&nbsp;as an independent school&nbsp;at&nbsp;Malcolm Road.  
   
-In 2019, Lasallian schools worldwide celebrated the Tercentenary death anniversary of our Founder St John Baptist de La Salle. SJI commemorated this anniversary with the official opening of _Missio 1852_ on 7 August, an archive gallery that showcases the journey of SJI's humble beginnings as the first Catholic school in Singapore since 1852.  
+In 2019, Lasallian schools worldwide celebrated the Tercentenary death anniversary&nbsp;of our Founder St John Baptist de La Salle. SJI commemorated this anniversary with the official opening of&nbsp;_Missio 1852_&nbsp;on 7 August, an archive gallery that showcases the journey of SJI's humble beginnings as the first Catholic school in Singapore since 1852.  
 
 Principals:<br>
 \- Bro Liefroy (Antoine Bajon)* (1852–1862)<br>
@@ -125,22 +126,22 @@ Principals:<br>
 Ora et Labora (Pray and Work)
 
 #### **School Crest**
-<img src="/images/stjosephinstitution1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stjosephinstitution1.png">
 
-The school crest is very important in reflecting the school’s common identity, as well as its underlying spirit of prayer and work (‘Ora et Labora’)'.
+The school&nbsp;crest&nbsp;is very important in reflecting the school’s common identity, as well as its underlying spirit of&nbsp;prayer and work&nbsp;(‘Ora et Labora’)'.
 
 The current school crest was introduced in 1950 to replace an older version. It was designed by Mr Richard Walker, Art Supervisor of the Education Department.
 
-The green field of the crest is divided into four quadrants by a white cross, the symbol of the Christian faith. In the centre of the cross lies the logo of the Brothers – a five-pointed star, the Signum Fidei (Sign of Faith). It has its origin as the Star of Bethlehem that led the Magi (wise men of the East) to the birth of Christ. In fact, ‘Signum Fidei’ is the motto of the Brothers of the Christian Schools founded by St John Baptist de La Salle. It reminds all students to centre their lives on faith and to always aspire towards the reachable star of their convictions and ideals.
+The green field of the crest is divided into four quadrants by a white cross, the symbol of the Christian faith. In the centre of the cross lies the logo of the Brothers – a five-pointed star, the&nbsp;Signum Fidei (Sign of Faith). It has its origin as the Star of Bethlehem that led the Magi&nbsp;(wise men of the East) to the birth of Christ. In fact,&nbsp;‘Signum Fidei’&nbsp;is the motto of the Brothers of the Christian Schools founded by St John Baptist de La Salle. It reminds all students to centre their lives on faith and to always aspire towards the reachable star of their convictions and ideals.
 
 In the top-left quadrant are three interlocking circles, symbolising games and the sporting spirit of all students. The top-right quadrant features the lamp of knowledge on a book, which symbolises learning. The lion in the bottom-left quadrant represents the courage and determination that students should embrace when they face the many challenges of life. It also reminds students that the flagship of the Lasallian enterprise in Asia was established in Singapura, or Lion City, in 1852. The bottom-right quadrant of the crest carries the monogram of the school.
 
-The crown surmounting the crest symbolises the victory of faith over the forces of evil. It is also a reminder that the institution was founded in the days when Singapore was still a British colony. The Latin motto of the school, ‘Ora et Labora’ (Pray and Work), is inscribed on the scroll at the bottom of the crest.
+The crown surmounting the crest symbolises the victory of faith over the forces of evil. It is also a reminder that the institution was founded in the days when Singapore was still a British colony. The Latin motto of the school,&nbsp;‘Ora et Labora’&nbsp;(Pray and Work), is inscribed on the scroll at the bottom of the crest.
 
 The star, the lamp, the lion and the three interlocking circles also symbolise the four fraternities united as one community in the school.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a href="https://drive.google.com/file/d/1KMTNttBUeEeFtEvHo3Jo4Is9iNKU4uoi/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 **The School Rally**
 

@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri2.jpg">  
+<p><a href="/images/meridianpri2.jpg">  
 <img src="/images/meridianpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri3.jpg">  
+<p><a href="/images/meridianpri3.jpg">  
 <img src="/images/meridianpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri4.jpg">  
+<p><a href="/images/meridianpri4.jpg">  
 <img src="/images/meridianpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri5.jpg">  
+<p><a href="/images/meridianpri5.jpg">  
 <img src="/images/meridianpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri6.jpg">  
+<p><a href="/images/meridianpri6.jpg">  
 <img src="/images/meridianpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri7.jpg">  
+<p><a href="/images/meridianpri7.jpg">  
 <img src="/images/meridianpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri8.jpg">  
+<p><a href="/images/meridianpri8.jpg">  
 <img src="/images/meridianpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/meridianpri9.jpg">  
+<p><a href="/images/meridianpri9.jpg">  
 <img src="/images/meridianpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

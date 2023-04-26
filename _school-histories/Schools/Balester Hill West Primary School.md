@@ -11,19 +11,19 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTtCQ9IUwR3igL8ouw-nkcg_psrvI2A9vaxQG14LJQ9hcYgRdUTNpUSx4OgTYLSmkDZD8NFMRqnsR2J/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bhwps2.jpg">  
+<p><a href="/images/bhwps2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bhwps2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bhwps3.jpg">  
+<p><a href="/images/bhwps3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bhwps3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bhwps4.jpg">  
+<p><a href="/images/bhwps4.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/bhwps4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/bhwps5.png">  
+<p><a href="/images/bhwps5.png">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bhwps5.png">
 </a></p>
 

@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srgardensouth2.jpg">  
+<p><a href="/images/srgardensouth2.jpg">  
 <img src="/images/srgardensouth2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srgardensouth3.jpg">  
+<p><a href="/images/srgardensouth3.jpg">  
 <img src="/images/srgardensouth3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srgardensouth4.jpg">  
+<p><a href="/images/srgardensouth4.jpg">  
 <img src="/images/srgardensouth4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/srgardensouth5.jpg">  
+<p><a href="/images/srgardensouth5.jpg">  
 <img src="/images/srgardensouth5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -50,7 +50,7 @@ In January 2007, Serangoon Garden South School merged with Zhonghua Primary Scho
 Last Serving Principal:<br>
 \- Mr Cher Keng Wah (1997 - 2006)
 
-**Related School: [Zhonghua Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/zhonghua-pri/)**
+**Related School: [Zhonghua Primary School](/school-histories/zhonghua-pri/)**
 
 #### **Key Milestones**
 

@@ -15,37 +15,37 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcBDSietgFEHbsnGDplQNfn4LnCPc8zFcKbGp05jNmshyH426icDiIGaz4uk332P1JxRS2fnhJI0pc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch2.jpg">  
+<p><a href="/images/victoriasch2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch3.jpg">  
+<p><a href="/images/victoriasch3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch4.jpg">  
+<p><a href="/images/victoriasch4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch5.jpg">  
+<p><a href="/images/victoriasch5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch5.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch6.jpg">  
+<p><a href="/images/victoriasch6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch7.jpg">  
+<p><a href="/images/victoriasch7.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch8.jpg">  
+<p><a href="/images/victoriasch8.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/victoriasch9.jpg">  
+<p><a href="/images/victoriasch9.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch9.jpg">
 </a></p>
 

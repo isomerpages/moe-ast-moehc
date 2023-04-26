@@ -14,11 +14,11 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmkA2mQwESlm9S17on9DzHpznvL05FyV8QZWF5tIRvU64OfbyldJ1qNYaCP_gf_tJOq2blCMxB54Zo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrusec2.jpg">  
+<p><a href="/images/tiongbahrusec2.jpg">  
 <img src="/images/tiongbahrusec2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/tiongbahrusec3.jpg">  
+<p><a href="/images/tiongbahrusec3.jpg">  
 <img src="/images/tiongbahrusec3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 

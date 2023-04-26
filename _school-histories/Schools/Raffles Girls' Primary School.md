@@ -13,39 +13,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri2.jpg">  
+<p><a href="/images/rafflesgirlspri2.jpg">  
 <img src="/images/rafflesgirlspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri3.jpg">  
+<p><a href="/images/rafflesgirlspri3.jpg">  
 <img src="/images/rafflesgirlspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri4.jpg">  
+<p><a href="/images/rafflesgirlspri4.jpg">  
 <img src="/images/rafflesgirlspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri5.jpg">  
+<p><a href="/images/rafflesgirlspri5.jpg">  
 <img src="/images/rafflesgirlspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri6.jpg">  
+<p><a href="/images/rafflesgirlspri6.jpg">  
 <img src="/images/rafflesgirlspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri7.jpg">  
+<p><a href="/images/rafflesgirlspri7.jpg">  
 <img src="/images/rafflesgirlspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri8.jpg">  
+<p><a href="/images/rafflesgirlspri8.jpg">  
 <img src="/images/rafflesgirlspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/rafflesgirlspri9.jpg">  
+<p><a href="/images/rafflesgirlspri9.jpg">  
 <img src="/images/rafflesgirlspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

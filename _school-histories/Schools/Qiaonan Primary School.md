@@ -12,27 +12,27 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qiaonanpri2.jpg">  
+<p><a href="/images/qiaonanpri2.jpg">  
 <img src="/images/qiaonanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qiaonanpri3.jpg">  
+<p><a href="/images/qiaonanpri3.jpg">  
 <img src="/images/qiaonanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qiaonanpri4.jpg">  
+<p><a href="/images/qiaonanpri4.jpg">  
 <img src="/images/qiaonanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qiaonanpri5.jpg">  
+<p><a href="/images/qiaonanpri5.jpg">  
 <img src="/images/qiaonanpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qiaonanpri6.jpg">  
+<p><a href="/images/qiaonanpri6.jpg">  
 <img src="/images/qiaonanpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/qiaonanpri7.jpg">  
+<p><a href="/images/qiaonanpri7.jpg">  
 <img src="/images/qiaonanpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -70,7 +70,7 @@ Principals:<br>
 \- Ms Khor Kim Heng Violet (1998–2008)<br>
 \- Mr Tan Boon Hong Victor (2009–2014)
 
-**Related Schools: [Griffiths Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/griffiths-pri/) | [Angsana Primary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/angsana-pri/)**
+**Related Schools: [Griffiths Primary School](/school-histories/griffiths-pri/) | [Angsana Primary School](/school-histories/angsana-pri/)**
 
 #### **Key Milestones**
 

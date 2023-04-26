@@ -12,25 +12,25 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juronginstitute2.jpg">  
+<p><a href="/images/juronginstitute2.jpg">  
 <img src="/images/juronginstitute2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juronginstitute3.jpg">  
+<p><a href="/images/juronginstitute3.jpg">  
 <img src="/images/juronginstitute3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juronginstitute4.jpg">  
+<p><a href="/images/juronginstitute4.jpg">  
 <img src="/images/juronginstitute4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juronginstitute5.jpg">  
+<p><a href="/images/juronginstitute5.jpg">  
 <img src="/images/juronginstitute5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/juronginstitute6.jpg">  
+<p><a href="/images/juronginstitute6.jpg">  
 <img src="/images/juronginstitute6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
@@ -52,7 +52,7 @@ Principals:<br>
 \- Mdm Mak Lai Ying (1998–1999)<br>
 \- Mrs Ong-Ooi Giok Tin (2000–2003)
 
-**Related School: [Outram Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/outram-institute/) | [Millennia Institute](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/millenia-institute/)**
+**Related School: [Outram Institute](/school-histories/outram-institute/) | [Millennia Institute](/school-histories/millenia-institute/)**
 
 #### **Key Milestones**
 

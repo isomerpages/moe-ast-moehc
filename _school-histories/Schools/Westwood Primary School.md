@@ -14,37 +14,37 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ3qwO6-S8jEtzuQrkyo29F0ft_bU0nyC7w1JT7NcTzSP2bO6LNj1FY53epCGkumjx2hHyvffcG0Bni/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri2.jpg">  
+<p><a href="/images/westwoodpri2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri3.jpg">  
+<p><a href="/images/westwoodpri3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri4.jpg">  
+<p><a href="/images/westwoodpri4.jpg">  
 <img align="right" style="width:30%;margin-right:47px;" src="/images/westwoodpri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri5.jpg">  
+<p><a href="/images/westwoodpri5.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/westwoodpri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri6.jpg">  
+<p><a href="/images/westwoodpri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri7.jpg">  
+<p><a href="/images/westwoodpri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri7.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri8.jpg">  
+<p><a href="/images/westwoodpri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/westwoodpri9.jpg">  
+<p><a href="/images/westwoodpri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/westwoodpri9.jpg">
 </a></p>
 

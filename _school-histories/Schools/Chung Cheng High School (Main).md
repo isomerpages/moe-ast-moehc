@@ -13,43 +13,43 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch2.jpg">  
+<p><a href="/images/chungchengmainhighsch2.jpg">  
 <img src="/images/chungchengmainhighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch3.jpg">  
+<p><a href="/images/chungchengmainhighsch3.jpg">  
 <img src="/images/chungchengmainhighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch4.jpg">  
+<p><a href="/images/chungchengmainhighsch4.jpg">  
 <img src="/images/chungchengmainhighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch5.jpg">  
+<p><a href="/images/chungchengmainhighsch5.jpg">  
 <img src="/images/chungchengmainhighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch6.jpg">  
+<p><a href="/images/chungchengmainhighsch6.jpg">  
 <img src="/images/chungchengmainhighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch7.jpg">  
+<p><a href="/images/chungchengmainhighsch7.jpg">  
 <img src="/images/chungchengmainhighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch8.jpg">  
+<p><a href="/images/chungchengmainhighsch8.jpg">  
 <img src="/images/chungchengmainhighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch9.jpg">  
+<p><a href="/images/chungchengmainhighsch9.jpg">  
 <img src="/images/chungchengmainhighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/chungchengmainhighsch10.jpg">  
+<p><a href="/images/chungchengmainhighsch10.jpg">  
 <img src="/images/chungchengmainhighsch10.jpg" style="width:30%;margin-right:15px;" align = "left">
 </a></p>
 

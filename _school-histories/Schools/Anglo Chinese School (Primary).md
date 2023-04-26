@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS7oaDjYMBu6y4bP-nKwBXnI6Q2hkWQpxyRmf176h9PN8jw8GUCe51zuNtnAtkbDc4UxUW_8JUd-u4N/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec2.jpg">  
+<p><a href="/images/ahmadibrahimsec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec4.jpg">  
+<p><a href="/images/ahmadibrahimsec4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acspri6.jpg">  
+<p><a href="/images/acspri6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri6.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acspri5.jpg">  
+<p><a href="/images/acspri5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acspri8.jpg">  
+<p><a href="/images/acspri8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri8.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acspri9.jpg">  
+<p><a href="/images/acspri9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri9.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/ahmadibrahimsec3.jpg">  
+<p><a href="/images/ahmadibrahimsec3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/acspri7.jpg">  
+<p><a href="/images/acspri7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/acspri7.jpg">
 </a></p>
 

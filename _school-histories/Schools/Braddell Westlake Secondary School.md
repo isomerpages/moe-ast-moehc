@@ -12,21 +12,21 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQql7icQiv_TCRz07aoaID6pks_Z0RZ8lz9Ax272br-8Gg_mEbKk3O3huMSJtNqYiuY3Mybp-rI-VT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec2.jpg">  
+<p><a href="/images/braddellwestlakesec2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellwestlakesec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec4.jpg">  
+<p><a href="/images/braddellwestlakesec4.jpg">  
 <img align="right" style="width:30%;margin-right:45px;" src="/images/braddellwestlakesec4.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec3.jpg">  
+<p><a href="/images/braddellwestlakesec3.jpg">  
 <img align="right" style="width:30%;margin-right:15px;" src="/images/braddellwestlakesec3.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/braddellwestlakesec5.jpg">  
+<p><a href="/images/braddellwestlakesec5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/braddellwestlakesec5.jpg">
 </a></p>
 
@@ -44,7 +44,7 @@ The school merged with Guangyang Secondary School in 2006.
 Last Serving Principal:<br>
 * Mdm Woon Meen Faye Catherine (Mrs Catherine Seah) (2003 - 2005)
 
-**Related School:** **[Guangyang Secondary School](https://staging.d1yxymztqoj7qn.amplifyapp.com/school-histories/guangyang-sec/)**
+**Related School:** **[Guangyang Secondary School](/school-histories/guangyang-sec/)**
 
 #### **Key Milestones**
 

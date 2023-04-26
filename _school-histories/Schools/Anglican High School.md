@@ -12,39 +12,39 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9A7ZyQeVw5lN2xjgmednHk0xFmzPisHi_WJDO5UR3KvTv8h6QPOGeTix0mV3wZ0Jwy9kejFXsanHZ/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch2.jpg">  
+<p><a href="/images/anglicanhighsch2.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch3.jpg">  
+<p><a href="/images/anglicanhighsch3.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch4.jpg">  
+<p><a href="/images/anglicanhighsch4.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch5.jpg">  
+<p><a href="/images/anglicanhighsch5.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch6.jpg">  
+<p><a href="/images/anglicanhighsch6.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch7.jpg">  
+<p><a href="/images/anglicanhighsch7.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch8.jpg">  
+<p><a href="/images/anglicanhighsch8.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch8.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/anglicanhighsch9.jpg">  
+<p><a href="/images/anglicanhighsch9.jpg">  
 <img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch9.jpg">
 </a></p>
 

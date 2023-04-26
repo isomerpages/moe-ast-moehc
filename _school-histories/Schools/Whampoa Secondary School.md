@@ -14,23 +14,23 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQC01oB1PZbbdc4U83vKWiRgxro26y9j9lZXbHUXqU30pMbRhtI0RWaXq-Vyu_B8IDBmLTnaHOcJ8xr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec6.jpg">  
+<p><a href="/images/whampoasec6.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec6.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec2.jpg">  
+<p><a href="/images/whampoasec2.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec2.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec5.jpg">  
+<p><a href="/images/whampoasec5.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec5.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec3.jpg">  
+<p><a href="/images/whampoasec3.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec3.jpg">
 </a></p>
 
-<p><a href="https://staging.d1yxymztqoj7qn.amplifyapp.com/images/whampoasec4.jpg">  
+<p><a href="/images/whampoasec4.jpg">  
 <img align="left" style="width:22%;margin-right:15px;" src="/images/whampoasec4.jpg">
 </a></p>
 
