@@ -4,7 +4,7 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: We are closed on 12 May 2023. See you again on 16  May 2023!
+notification: We are closed on 4 May 2023. See you again on 5 May 2023!
 sections:
   - hero:
       title: Welcome!
