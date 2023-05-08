@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sgsportssch1.png">
 
 ### **Singapore Sports School**
-
+[URL to website](https://www.sportsschool.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
