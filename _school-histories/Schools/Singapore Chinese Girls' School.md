@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sgchigirls1.png">
 
 ### **Singapore Chinese Girls' School**
-
+[URL to website](https://www.scgs.moe.edu.sg/)
 
 <br clear="left">
 
