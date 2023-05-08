@@ -4,49 +4,49 @@ permalink: /school-histories/springdale-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/springdalepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/springdalepri1.png">
 
 ### **Springdale Primary School**
-[URL to website](https://www.springdalepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFzmd3EBHZyKOvQWn8zlpe-UA3rXBZ1etbRRpTN_bkliq3htCuXihFZzNwAeMm800ODyGg-7fGGhdy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/springdalepri2.jpg">  
-<img src="/images/springdalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri2.jpg">
 </a></p>
 
 <p><a href="/images/springdalepri3.jpg">  
-<img src="/images/springdalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri3.jpg">
 </a></p>
 
 <p><a href="/images/springdalepri4.jpg">  
-<img src="/images/springdalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/springdalepri5.jpg">  
-<img src="/images/springdalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri5.jpg">
 </a></p>
 
 <p><a href="/images/springdalepri6.jpg">  
-<img src="/images/springdalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri6.jpg">
 </a></p>
 
 <p><a href="/images/springdalepri7.jpg">  
-<img src="/images/springdalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/springdalepri8.jpg">  
-<img src="/images/springdalepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri8.jpg">
 </a></p>
 
 <p><a href="/images/springdalepri9.jpg">  
-<img src="/images/springdalepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springdalepri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -71,16 +71,16 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/springdalepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/springdalepri1.png">
 
 The school crest features a dignified eagle shaped like the letter ‘S’, representing Springdale Primary School (康德小学). Through opportunities and challenges, the school remains steadfast and true to its purpose. The eagle signifies Springdalites soaring high with a relentless drive.
 
 The wavy blue strokes resemble a river gushing forth in spring, the season when a new lease of life begins. As the river meanders, it brings renewal and growth to the surrounding area. This exemplifies the potential of Springdalites as they journey through the various terrains in life, carving out valleys and canyons, leaving their mark wherever they tread.
 
-The three-leaf shamrock represents the shared responsibility of the **home-school-community** collaboration in nurturing the whole child.
+The three-leaf shamrock represents the shared responsibility of the&nbsp;**home-school-community**&nbsp;collaboration in nurturing the whole child.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Tcbh3QSuX-B6Th9b-_4W1--ZGux8rV-q/view?usp=share_link">**♫ Listen**</a>
 
 Springdale the love you sow<br>
 Moulding our lives<br>
