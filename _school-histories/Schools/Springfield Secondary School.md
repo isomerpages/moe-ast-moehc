@@ -4,49 +4,49 @@ permalink: /school-histories/springfield-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/springfieldsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/springfieldsec1.jpg">
 
 ### **Springfield Secondary School**
-[URL to website](https://springfieldsec.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQBBsDq9U_Eg5hZc9q3_x5aOPbauIOuF3s7gH2d7sqqqn2whmyUKvNlrnMrnKUSr0SPQIwkfSX7oKs/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/springfieldsec4.jpg">  
-<img src="/images/springfieldsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec4.jpg">
 </a></p>
 
 <p><a href="/images/springfieldsec2.jpg">  
-<img src="/images/springfieldsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec2.jpg">
 </a></p>
 
 <p><a href="/images/springfieldsec3.jpg">  
-<img src="/images/springfieldsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec3.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/springfieldsec7.jpg">  
-<img src="/images/springfieldsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec7.jpg">
 </a></p>
 
 <p><a href="/images/springfieldsec5.jpg">  
-<img src="/images/springfieldsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec5.jpg">
 </a></p>
 
 <p><a href="/images/springfieldsec6.jpg">  
-<img src="/images/springfieldsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/springfieldsec8.jpg">  
-<img src="/images/springfieldsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec8.jpg">
 </a></p>
 
 <p><a href="/images/springfieldsec9.jpg">  
-<img src="/images/springfieldsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -91,14 +91,14 @@ Principals:<br>
 Better Self for Better Tomorrow
 
 #### **School Crest**
-<img src="/images/springfieldsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/springfieldsec1.jpg">
 
 The blade of green grass forms the letter ‘S’, while the glowing sun, together with the green grass, forms the letter ‘f’. The three rows of rich, golden earth provide the foundation; together, they represent Springfield Secondary School. The grass is also shaped like a hand, which symbolises the tender care by which the school nurtures students to become wholesome adults.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Z8o1fqkQe3rh_zcPLNgaLcBN92uqsP2z/view?usp=share_link">**♫ Listen**</a>
 
 Springfield, oh Springfield,<br>
 To you our loyalty we pledge,<br>
