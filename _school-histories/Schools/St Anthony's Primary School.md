@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonypri1.jpg">
 
 ### **St Anthony's Primary School**
-
+[URL to website](https://www.stanthonyspri.moe.edu.sg/)
 
 <br clear="left">
 
