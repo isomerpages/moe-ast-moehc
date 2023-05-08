@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonycanossiansec1.jpg">
 
 ### **St Anthony's Canossian Secondary School**
-
+[URL to website](https://www.stanthonyscanossiansec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
