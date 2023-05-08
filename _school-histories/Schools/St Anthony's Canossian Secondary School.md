@@ -4,55 +4,55 @@ permalink: /school-histories/st-anthony-canossian-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stanthonycanossiansec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonycanossiansec1.jpg">
 
 ### **St Anthony's Canossian Secondary School**
-[URL to website](https://stanthonyscanossiansec.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrAFd88GkGEsOtWdzrxEIbwIapxn66cvqw3XT9xFN-3o6wVYpmvsIbtonvKGQUzCrnbA4fMpfQL0ZH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/stanthonycanossiansec2.jpg">  
-<img src="/images/stanthonycanossiansec2.jpg" style="width:29%;margin-right:15px;" align = "left">
+<img align="left" style="width:29%;margin-right:15px;" src="/images/stanthonycanossiansec2.jpg">
 </a></p>
 
 <p><a href="/images/stanthonycanossiansec3.jpg">  
-<img src="/images/stanthonycanossiansec3.jpg" style="width:31%;margin-right:15px;" align = "left">
+<img align="left" style="width:31%;margin-right:15px;" src="/images/stanthonycanossiansec3.jpg">
 </a></p>
 
 <p><a href="/images/stanthonycanossiansec4.jpg">  
-<img src="/images/stanthonycanossiansec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/stanthonycanossiansec4.jpg">
 </a></p>
 
 <p><a href="/images/stanthonycanossiansec5.jpg">  
-<img src="/images/stanthonycanossiansec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonycanossiansec5.jpg">
 </a></p>
 
 <p><a href="/images/stanthonycanossiansec6.jpg">  
-<img src="/images/stanthonycanossiansec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonycanossiansec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/stanthonycanossiansec7.jpg">  
-<img src="/images/stanthonycanossiansec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonycanossiansec7.jpg">
 </a></p>
 
 <p><a href="/images/stanthonycanossiansec8.jpg">  
-<img src="/images/stanthonycanossiansec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonycanossiansec8.jpg">
 </a></p>
 
 <p><a href="/images/stanthonycanossiansec9.jpg">  
-<img src="/images/stanthonycanossiansec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonycanossiansec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-In 1879, Father Jose Pedro Santa Anna de Cunha of St Joseph’s Church started a Portuguese Mission parish school on Middle Road. Known as St Anna’s School, it provided education for six children of poor parishioners. In 1886, the school was renamed St Anthony’s Boys’ and Girls’ School. In 1894, the girls’ school, with 73 students, was separated from the boys’ school. Four Canossian sisters arrived in Singapore to run the girls’ school. The younger girls received a formal education, while the older ones learned sewing and embroidery.
+In 1879, Father Jose Pedro Santa Anna de Cunha of St. Joseph’s Church started a Portuguese Mission parish school on Middle Road. Known as St. Anna’s School, it provided education for six children of poor parishioners. In 1886, the school was renamed St. Anthony’s Boys’ and Girls’ School. In 1894, the girls’ school, with 73 students, was separated from the boys’ school. Four Canossian sisters arrived in Singapore to run the girls’ school. The younger girls received a formal education, while the older ones learned sewing and embroidery.
 
-In 1895, a boarding school and an orphanage were established in a new, adjoining building with Miss Mary Lemon as the head teacher. They became known as St Anthony’s Convent in 1906. A new wing was added in 1912, and a chapel and new quarters for the nuns were completed in 1933. The school started its first Junior Cambridge class in 1935 and set up a kindergarten two years later.
+In 1895, a boarding school and an orphanage were established in a new, adjoining building with Miss Mary Lemon as the head teacher. They became known as St. Anthony’s Convent in 1906. A new wing was added in 1912, and a chapel and new quarters for the nuns were completed in 1933. The school started its first Junior Cambridge class in 1935 and set up a kindergarten two years later.
 
 During the Japanese occupation, the school became a refuge for the homeless and the sick. In 1943, the Japanese military police took over the school and the sisters were placed under house arrest. At the end of the war in 1945, the flat roof of the convent was converted into a dormitory for war orphans. In 1947, the school’s afternoon session became a charity school for poor, over-aged students.
 
@@ -62,7 +62,7 @@ In 1970, the primary and secondary schools were separated administratively and p
 
 In 1995, the school moved to new adjoining premises as separate primary and secondary schools at Bedok North Avenue 4. The secondary school gained autonomous status in 2002.
 
-St Anthony’s Canossian Secondary clinched the Ministry of Education’s Innergy Gold Award in 2018 for its project, ‘Igniting the Joy of Learning with Chinese GO!’. The following year, the St Anthony’s Canossian Schools celebrated their 140th anniversary and commemorated Singapore’s bicentennial with two publications and a video.
+St. Anthony’s Canossian Secondary clinched the Ministry of Education’s Innergy Gold Award in 2018 for its project, ‘Igniting the Joy of Learning with Chinese GO!’. The following year, the St. Anthony’s Canossian Schools celebrated their 140th anniversary and commemorated Singapore’s bicentennial with two publications and a video.
 
 **Principals:**
 
@@ -125,12 +125,12 @@ Via, Veritas, Vita – The Way, the Truth and the Life
 |
 
 #### **School Crest**
-<img src="/images/stanthonycanossiansec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonycanossiansec1.jpg">
 
 The school badge incorporates the crown, shield, star, book and the school motto – ‘Via, Veritas, Vita’. The shield depicts the Canossian schools’ responsibility to protect and equip the young for life. God’s crown placed above the shield demonstrates His protection of and Lordship over the school. The motto below demonstrates the foundational truth upon which the school is built. Within the shield, the rays from the Star of Wisdom are cast upon the Book of Knowledge. This symbolises the pre-eminence of wisdom over knowledge and the need for knowledge to be directed towards attaining higher ideals.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1lZiQ6gJ3xnAWZGK3v9_J0KZMAD3KbDFb/view?usp=share_link">**♫ Listen**</a>
 
 United in common endeavour<br>
 At work and play, life's lessons we learn<br>
