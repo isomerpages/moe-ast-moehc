@@ -4,65 +4,66 @@ permalink: /school-histories/st-gabriel-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stgabrielsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stgabrielsec1.png">
 
 ### **St Gabriel's Secondary School**
-[URL to website](https://stgabrielssec.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQAxRVPxcGH6s2fImitzUxkE9LsvWsMaNdFnIcx8ItYuDnD2DWuAAPl0uZmsGY8CJ71J7-jSB-dEts2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/stgabrielsec2.jpg">  
-<img src="/images/stgabrielsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec2.jpg">
 </a></p>
 
 <p><a href="/images/stgabrielsec3.jpg">  
-<img src="/images/stgabrielsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec3.jpg">
 </a></p>
 
 <p><a href="/images/stgabrielsec4.jpg">  
-<img src="/images/stgabrielsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/stgabrielsec5.jpg">  
-<img src="/images/stgabrielsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec5.jpg">
 </a></p>
 
 <p><a href="/images/stgabrielsec6.jpg">  
-<img src="/images/stgabrielsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec6.jpg">
 </a></p>
 
 <p><a href="/images/stgabrielsec7.jpg">  
-<img src="/images/stgabrielsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/stgabrielsec8.jpg">  
-<img src="/images/stgabrielsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec8.jpg">
 </a></p>
 
 <p><a href="/images/stgabrielsec9.jpg">  
-<img src="/images/stgabrielsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec9.jpg">
 </a></p>
 
 <p><a href="/images/stgabrielsec10.jpg">  
-<img src="/images/stgabrielsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgabrielsec10.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-St Gabriel’s School was established on 1 June 1953 with 212 students in five classes from Primary One to Standard Two. The students were taught by eight teachers including the acting director of the school, Reverend Brother Louis Gonzaga.
+St. Gabriel’s School was established on 1 June 1953 with 212 students in five classes from Primary One to Standard Two. The students were taught by eight teachers including the acting director of the school, Reverend Brother Louis Gonzaga.
 
 Reverend Brother Elzear became the first director of the school on 3 May 1954. In 1958, the enrolment increased to 970, with 640 students in the morning session and 330 students in the afternoon session. In the same year, the school became a full school with the first Secondary Four class. In 1969, St Gabriel’s split into primary and secondary schools. The primary school moved into new premises at 2 Highland Road with an enrolment of 1,350 boys. The secondary school became single-session, located on Upper Serangoon Road.
 
-In 1984, Mr John Teo became the school’s first lay principal, ending a line of clerics who have led the school honourably. In 1990, the school had its first and only female principal, Mrs Ng Peng Hock. With the increasing enrolment, the school soon needed larger premises. A piece of land at Serangoon Avenue 1 was subsequently identified for the location of the new campus. The school moved into the new building at the end of 1992. 
+In 1984, Mr John Teo became the school’s first lay principal, ending a line of clerics who have led the school honourably. In 1990, the school had its first and only female principal, Mrs Ng Peng Hock. With the increasing enrolment, the school soon needed larger premises. A piece of land at Serangoon Avenue 1 was subsequently identified for the location of the new campus. The school moved into the new building at the end of 1992.&nbsp;
 
-St Gabriel’s celebrated its golden jubilee in 2003. The year also marked a physical change in the school: A big portion of the Tien (天) building was demolished, and the school moved into a new wing.
+St. Gabriel’s celebrated its golden jubilee in 2003. The year also marked a physical change in the school: A big portion of the Tien (天) building was demolished, and the school moved into a new wing.
 
 Principals:<br>
 \- Rev Bro Louis Gonzaga (1953, 1956–1957)<br>
@@ -103,7 +104,7 @@ Latin for ‘Labour Conquers All Things’<br>
 Hard work embodied in diligence and perseverance leads one to achieve greater things in life. It can thus be said that in whatever you do, do your best.
 
 #### **School Crest**
-<img src="/images/stgabrielsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stgabrielsec1.png">
 
 The centrepiece of the school crest is the coat of arms, which has four quadrants. The top-left quadrant has the letters ‘A.M.’, which stands for ‘Ave Maria’, with a lily flower. This was the greeting of the Angel Gabriel to Mary, the mother of Jesus, and the beginning of the ‘Hail Mary’ prayer. According to St Louis Marie de Montfort, wisdom can be attained through living a life of gentleness and authenticity, modelled after Mary the mother of God.
 
@@ -118,7 +119,8 @@ The crest is adorned with green olive branches, which is derived from Ancient Gr
 At the bottom of the crest is the Latin motto, ‘Labor Omnia Vincit’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a target="\_blank" href="https://drive.google.com/file/d/1DAC9-jSyA6slDQ-7uuIETLaXCv83Y5yP/view?usp=share_link">**♫ Listen**</a>
 
 In white and blue, boys full of mirth and life<br>
 From early morn, we flood the green playground<br>
