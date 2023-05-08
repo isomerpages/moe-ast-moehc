@@ -4,45 +4,45 @@ permalink: /school-histories/st-hilda-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sthildapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sthildapri1.png">
 
 ### **St Hilda's Primary School**
-[URL to website](https://www.shps.moe.edu.sg/) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_l05WoUXJbYNs7ROGlxKBCW7BfI5LXlcSwf3S5t9UHVScghChUGK9wnr1daoSy_5bttqgbLG9qz9r/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="/images/sthildapri2.jpg">  
-<img src="/images/sthildapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri2.jpg">
 </a></p>
 
 <p><a href="/images/sthildapri3.jpg">  
-<img src="/images/sthildapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri3.jpg">
 </a></p>
 
 <p><a href="/images/sthildapri4.jpg">  
-<img src="/images/sthildapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sthildapri5.jpg">  
-<img src="/images/sthildapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri5.jpg">
 </a></p>
 
 <p><a href="/images/sthildapri6.jpg">  
-<img src="/images/sthildapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri6.jpg">
 </a></p>
 
 <p><a href="/images/sthildapri7.jpg">  
-<img src="/images/sthildapri7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/sthildapri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sthildapri8.jpg">  
-<img src="/images/sthildapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -90,7 +90,7 @@ Principals:<br>
 Go Forward
 
 #### **School Crest**
-<img src="/images/sthildapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sthildapri1.png">
 
 The crest embodies the aims and aspirations of St Hilda’s Primary School. Its circular shape symbolises unity of its members in the midst of the diversity of people, creeds and cultures in Singapore.
 
@@ -99,7 +99,8 @@ The crest embodies the aims and aspirations of St Hilda’s Primary School. Its 
 At the centre of the badge is a cross mounted on a blue shield, which represents the teaching of Christ – to be of loving service to fellow men. The blue colour on the shield represents a forward movement through waters of uncertainty. The shield represents the perseverance of its members in their heavenly aspirations, which are grounded on earthly realism through education.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a target="\_blank" href="https://drive.google.com/file/d/1-M23XwFSQvu3ePoOJkkuST3GBnEifLQd/view?usp=share_link">**♫ Listen**</a>
 
 Go forward together one and all<br>
 Forward, onward, whatever may befall,<br>
