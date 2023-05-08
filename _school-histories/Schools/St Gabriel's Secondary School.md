@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stgabrielsec1.png">
 
 ### **St Gabriel's Secondary School**
-
+[URL to website](https://www.stgabrielssec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
