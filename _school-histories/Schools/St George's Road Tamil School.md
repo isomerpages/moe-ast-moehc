@@ -4,7 +4,7 @@ permalink: /school-histories/st-george-road-tamil-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/stgeorgeroadtamil1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/stgeorgeroadtamil1.png">
 
 ### **St George's Road Tamil School**
 
@@ -12,8 +12,10 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ__vYAFF2Fjr_s6MdMOyRpK4jNqb7Adsaeo42BFDvawFSdC60U966bFcIxKjYONMsMaOU-WkAVVkYL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/stgeorgeroadtamil2.jpg">  
-<img src="/images/stgeorgeroadtamil2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/stgeorgeroadtamil2.jpg">
 </a></p>
 
 <br clear="left">
@@ -33,16 +35,3 @@ Upon the closure of the Umar Pulavar Tamil High School in 1982, St George’s Ro
 | 1960 | St George’s Road Tamil School became a government Tamil school. |
 | 1983 | St George’s Road Tamil School was renamed as the Umar Pulavar Tamil Language Centre. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/stgeorgeroadtamil1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
