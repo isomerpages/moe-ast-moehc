@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/southviewpri1.jpg">
 
 ### **South View Primary School**
-
+[URL to website](https://www.southviewpri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
