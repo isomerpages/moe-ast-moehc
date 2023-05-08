@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sthildapri1.png">
 
 ### **St Hilda's Primary School**
-
+[URL to website](https://www.shps.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
