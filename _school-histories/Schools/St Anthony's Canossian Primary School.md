@@ -7,6 +7,12 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonycanossianpri1.png">
 
 ### **St Anthony's Canossian Primary School**
+
+[URL to website](https://www.stanthonyscanossianpri.moe.edu.sg/)
+
+<br clear="left">
+
+#### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTClWTix5_hO0czuDvYvKbjRRtQ3LzEDeiFnXoDlpVpFE6O-hzeLG1LlXRXWaYqiPp8cvN6Vxvgy2Lf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <br clear="left">
