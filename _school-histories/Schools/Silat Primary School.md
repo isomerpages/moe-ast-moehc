@@ -4,21 +4,23 @@ permalink: /school-histories/silat-pri-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/silatpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/silatpri1.jpg">
 
 ### **Silat Primary School**
-[URL to website]() - may require to change in future when original website is removed
+
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDDELHktxzkV0SVY8WsNunixyQkDVPeBQteaIetIHGwdlGzaPuPZ2xpSr5eJ9Q-FyvGWcZJNgLE07d/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/silatpri2.jpg">  
-<img src="/images/silatpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silatpri2.jpg">
 </a></p>
 
 <p><a href="/images/silatpri3.jpg">  
-<img src="/images/silatpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silatpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -40,11 +42,8 @@ In 1992, Silat Primary School closed.
 Pelajaran Asas Kemajuan
 
 #### **School Crest**
-<img src="/images/silatpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/silatpri1.jpg">
 
-\-
+
 
 <br clear="left">
-
-#### **School Song**
-\-
