@@ -4,60 +4,61 @@ permalink: /school-histories/st-andrew-junior-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/standrewjuniorsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/standrewjuniorsch1.png">
 
 ### **St Andrew's Junior School**
-[URL to website](https://www.saintandrewsjunior.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://www.saintandrewsjunior.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyMMep5sdsa5tCfFPiwvFNwOEIYRlwY1uAN5tYnl9rCN0cPr5vtHx3HUeFCN4-kJeNBjWEPBZ3Ywud/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/standrewjuniorsch2.jpg">  
-<img src="/images/standrewjuniorsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch2.jpg">
 </a></p>
 
 <p><a href="/images/standrewjuniorsch3.jpg">  
-<img src="/images/standrewjuniorsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch3.jpg">
 </a></p>
 
 <p><a href="/images/standrewjuniorsch4.jpg">  
-<img src="/images/standrewjuniorsch4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/standrewjuniorsch4.jpg">
 </a></p>
 
 <p><a href="/images/standrewjuniorsch7.jpg">  
-<img src="/images/standrewjuniorsch7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/standrewjuniorsch7.jpg">
 </a></p>
 
 <p><a href="/images/standrewjuniorsch5.jpg">  
-<img src="/images/standrewjuniorsch5.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch5.jpg">
 </a></p>
 
 
 <p><a href="/images/standrewjuniorsch6.jpg">  
-<img src="/images/standrewjuniorsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch6.jpg">
 </a></p>
 
 <p><a href="/images/standrewjuniorsch8.jpg">  
-<img src="/images/standrewjuniorsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch8.jpg">
 </a></p>
 
 <p><a href="/images/standrewjuniorsch9.jpg">  
-<img src="/images/standrewjuniorsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-St Andrew’s School was founded on 8 September 1862. It was then located at Chin Chew Street. The following year, on 10 September 1863, the school moved to Upper Hokkien Street because it needed a better building and more space for the growing school population. Later, the continually expanding school moved yet again to Victoria Street. In the 1870s, the British government gave the school a four-acre plot of land on the then Government Hill (present-day Fort Canning) with a frontage on Stamford Road. Here, the Chapel was constructed in 1875; later that year, the school shifted to the Stamford Road site. In 1940, the school moved to a new two-storey building with a sprawling campus in Woodsville.
+St. Andrew’s School was founded on 8 September 1862. It was then located at Chin Chew Street. The following year, on 10 September 1863, the school moved to Upper Hokkien Street because it needed a better building and more space for the growing school population. Later, the continually expanding school moved yet again to Victoria Street. In the 1870s, the British government gave the school a four-acre plot of land on the then Government Hill (present-day Fort Canning) with a frontage on Stamford Road. Here, the Chapel was constructed in 1875; later that year, the school shifted to the Stamford Road site. In 1940, the school moved to a new two-storey building with a sprawling campus in Woodsville.
 
-St Andrew’s School was the first school to reopen after the war. As the enrolment grew, there was a pressing need for more classrooms. Another floor was added in 1952. That year, the Lim Teck Kin Tower was also added to the school premises.
+St. Andrew’s School was the first school to reopen after the war. As the enrolment grew, there was a pressing need for more classrooms. Another floor was added in 1952. That year, the Lim Teck Kin Tower was also added to the school premises.
 
-St Andrew's Junior School relocated to Potong Pasir in 1996. It was officially opened on 6 September 1997. The concept of St Andrew’s Village (SAV) was soon mooted in 1999: All three institutions – (St Andrew’s Junior College, St Andrew’s Secondary School and St Andrew’s Junior School) – were to come under one roof as ‘One Family Unbroken’ (as sung in the school hymn). SAV was officially opened on 26 August 2006.
+St. Andrew's Junior School relocated to Potong Pasir in 1996. It was officially opened on 6 September 1997. The concept of St. Andrew’s Village (SAV) was soon mooted in 1999: All three institutions – (St. Andrew’s Junior College, St. Andrew’s Secondary School and St. Andrew’s Junior School) – were to come under one roof as ‘One Family Unbroken’ (as sung in the school hymn). SAV was officially opened on 26 August 2006.
 
 To celebrate its 150th anniversary, the school gathered over 500 participants for an envisioning exercise in 2012. Participants included the school’s board of governors, alumni, staff, students, parents and other stakeholders.
 
-After months of strategic dialogue, the new and shared school vision, mission and values for St Andrew’s Village were formalised.
+After months of strategic dialogue, the new and shared school vision, mission and values for St. Andrew’s Village were formalised.
 
 Principals:<br>
 \- Mr Dong Chui Seng (1946–1962)<br>
@@ -76,13 +77,13 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1862 | Founding of St Andrew’s School, which was located at Chin Chew Street. |
+| 1862 | Founding of St. Andrew’s School, which was located at Chin Chew Street. |
 | 1863 | The school moved to Hokkien Street. |
 | 1875 | The school shifted to a larger site at Stamford Road. |
 | 1940 | The school relocated to Woodsville. |
-| 1996 | St Andrew's Junior School relocated to Potong Pasir. |
-| 1997 | Official opening of St Andrew’s Junior School on 6 September. |
-| 2006 | Official opening of St Andrew’s Village after PRIME upgrading. |
+| 1996 | St. Andrew's Junior School relocated to Potong Pasir. |
+| 1997 | Official opening of St. Andrew’s Junior School on 6 September. |
+| 2006 | Official opening of St. Andrew’s Village after PRIME upgrading. |
 | 2012 | Celebration of 150th anniversary. |
 | 2018 | Completion of PERI upgrading. |
 |
@@ -91,7 +92,7 @@ Principals:<br>
 Up and On
 
 #### **School Crest**
-<img src="/images/standrewjuniorsch1.png" style="width:25%;margin-right:35px;" align = "left">
+<img align="left" style="width:25%;margin-right:35px;" src="/images/standrewjuniorsch1.png">
 
 Culture – Synergise to Serve and Soar<br>
 \-   **Keys to knowledge**<br>Constantly seeking to learn Curiosity<br>
@@ -99,7 +100,7 @@ Culture – Synergise to Serve and Soar<br>
 \-   **Up and On!**<br>Spirit of Continuous Improvement
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1RuoJVaOzc9EwHaOs6yo9I1VC-EAB-uIT/view?usp=share_link">**♫ Listen**</a>
 
 Lives are in the making here,<br>
 Hearts are in the waking here,<br>

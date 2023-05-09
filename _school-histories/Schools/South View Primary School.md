@@ -4,49 +4,50 @@ permalink: /school-histories/south-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/southviewpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/southviewpri1.jpg">
 
 ### **South View Primary School**
-[URL to website](https://www.southviewpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://www.southviewpri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSEhc5BwQZerup5ZNPO8uw8fmGkdn_rO8WYaJ8NybuztHSxvbU18bd4XmQ4atIPELzgQgOW70V7ZrC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/southviewpri2.jpg">  
-<img src="/images/southviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri2.jpg">
 </a></p>
 
 <p><a href="/images/southviewpri3.jpg">  
-<img src="/images/southviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri3.jpg">
 </a></p>
 
 <p><a href="/images/southviewpri4.jpg">  
-<img src="/images/southviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/southviewpri5.jpg">  
-<img src="/images/southviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri5.jpg">
 </a></p>
 
 <p><a href="/images/southviewpri6.jpg">  
-<img src="/images/southviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri6.jpg">
 </a></p>
 
 <p><a href="/images/southviewpri7.jpg">  
-<img src="/images/southviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/southviewpri9.jpg">  
-<img src="/images/southviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri9.jpg">
 </a></p>
 
 <p><a href="/images/southviewpri8.jpg">  
-<img src="/images/southviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/southviewpri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,9 +55,9 @@ third_nav_title: Schools
 #### **School History**
 South View Primary School was formed from the merger of Nam San School and Ama Keng School in March 1990.
 
-Nam San School was established after the Second World War on 2 February 1946. Students had lessons in three separate locations: a temple, a _wayang_ (opera) stage and a warehouse. The initial student population was a mere 157.
+Nam San School was established after the Second World War on 2&nbsp;February 1946. Students had lessons in three separate locations: a temple, a&nbsp;_wayang_&nbsp;(opera) stage and a warehouse. The initial student population was a mere 157.
 
-In June 1946, Mr Ong Koh Bee, a community leader, initiated a fundraising project to build a proper school building. Villagers contributed generously towards the fund. Eventually $13,000 was raised, together with a donation of 1.75 acres of land. By 27 March 1947, the school building with five classrooms was completed at 12 milestone Choa Chu Kang Road.
+In June 1946, Mr Ong Koh Bee, a community leader, initiated a fundraising project to build a proper school building. Villagers contributed generously towards the fund. Eventually $13,000 was raised, together with a donation of 1.75 acres of land. By 27&nbsp;March 1947, the school building with five classrooms was completed at 12 milestone Choa Chu Kang Road.
 
 The first batch of 12 students completed their primary school education in 1948. The School Management Committee was formed in 1954, with Mr Ong Koh Bee as its first chairman. Over the next four years, the school building expanded and facilities were upgraded to cater to a growing enrolment. By the late 1960s, Nam San Branch School was founded and the total student population for the main and branch schools had grown to 1,087.
 
@@ -88,12 +89,12 @@ Strive for Victory (1992–2015)<br>
 With Heart and Mind (2016–present)
 
 #### **School Crest**
-<img src="/images/southviewpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/southviewpri1.jpg">
 
 A diamond formed by the initials ‘S’ and ‘V’, which stand for ‘South View’, the crest is a symbol of quality education. Blue symbolises an unpolished diamond. Yellow represents the shine and glitter of a polished diamond. A child who first enters school is like an unpolished diamond, but by the time he/she leaves school, learning has polished the child that he/she shines with aspiration and knowledge.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/12iPs0FVE75ojJNmuJLodhPyboUzvwzR_/view?usp=share_link">**♫ Listen**</a>
 
 March forward, South View Primary<br>
 In strength and unity<br>

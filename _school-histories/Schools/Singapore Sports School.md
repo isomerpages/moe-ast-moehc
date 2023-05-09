@@ -4,63 +4,63 @@ permalink: /school-histories/singapore-sports-school/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sgsportssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sgsportssch1.png">
 
 ### **Singapore Sports School**
-[URL to website](https://www.sportsschool.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://www.sportsschool.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSn2s4iY93ttdwbwa6Av7oubBPJ-GZnj9QhDlbmmtxfIEdNTtxu8dxJ-jTxeE8gUs9K0PQscaR_4X9Z/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/sgsportssch2.jpg">  
-<img src="/images/sgsportssch2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/sgsportssch2.jpg">
 </a></p>
 
 <p><a href="/images/sgsportssch3.jpg">  
-<img src="/images/sgsportssch3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/sgsportssch3.jpg">
 </a></p>
 
 <p><a href="/images/sgsportssch4.jpg">  
-<img src="/images/sgsportssch4.jpg" style="width:22.5%;margin-right:15px;" align = "left">
+<img align="left" style="width:22.5%;margin-right:15px;" src="/images/sgsportssch4.jpg">
 </a></p>
 
 <p><a href="/images/sgsportssch5.jpg">  
-<img src="/images/sgsportssch5.jpg" style="width:22%;margin-right:40px;" align = "right">
+<img align="right" style="width:22%;margin-right:40px;" src="/images/sgsportssch5.jpg">
 </a></p>
 
 <p><a href="/images/sgsportssch6.jpg">  
-<img src="/images/sgsportssch6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/sgsportssch6.jpg">
 </a></p>
 
 <p><a href="/images/sgsportssch7.jpg">  
-<img src="/images/sgsportssch7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/sgsportssch7.jpg">
 </a></p>
 
 <p><a href="/images/sgsportssch8.jpg">  
-<img src="/images/sgsportssch8.jpg" style="width:22.5%;margin-right:15px;" align = "left">
+<img align="left" style="width:22.5%;margin-right:15px;" src="/images/sgsportssch8.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-In 2001, the Committee on Sporting Singapore, under the purview of the then Ministry of Community Development and Sports (present-day Ministry of Culture, Community and Youth), made a recommendation to set up a sports school to enable student-athletes to excel in both sports and academics.  
+In 2001, the Committee on Sporting Singapore, under the purview of the then Ministry of Community Development and Sports (present-day Ministry of Culture, Community and Youth), made a recommendation to set up a sports school to enable student-athletes to excel in both sports and academics.&nbsp;&nbsp;
 
 Construction of the Singapore Sports School began in November 2002 on a seven-hectare site in Woodlands. In January 2004, the school began as a secondary school admitting its first intake of student-athletes. It was officially opened by then Prime Minister Mr Goh Chok Tong on 2 April 2004.
 
-Since then, athlete-friendly through-train academic pathways – where student-athletes bypass the General Certificate of Education O- and N-Level examinations – have been introduced to allow them to attain rigorous and widely accepted post-secondary qualifications for entry into local and overseas universities.  
+Since then, athlete-friendly through-train academic pathways – where student-athletes bypass the General Certificate of Education O- and N-Level examinations – have been introduced to allow them to attain rigorous and widely accepted post-secondary qualifications for entry into local and overseas universities.&nbsp;&nbsp;
 
-The school’s post-secondary programmes include the customised Diploma in Sports and Leisure Management (now known as Diploma in Business) by Republic Polytechnic offered since 2011; the International Baccalaureate Diploma Programme (IBDP) offered since 2014; the Extended IBDP offered since 2016; and the customised Diploma in Business Studies by Ngee Ann Polytechnic offered since 2017.  
+The school’s post-secondary programmes include the customised Diploma in Sports and Leisure Management (now known as Diploma in Business) by Republic Polytechnic offered since 2011; the International Baccalaureate Diploma Programme (IBDP) offered since 2014; the Extended IBDP offered since 2016; and the customised Diploma in Business Studies by Ngee Ann Polytechnic offered since 2017.&nbsp;&nbsp;
 
 The Sports Academy Programmes support student-athletes in badminton, bowling, fencing, football, netball, shooting, swimming, table tennis, and track and field. In addition, through the Individual Programme, the school supports talented student-athletes in artistic swimming, diving, golf, gymnastics, ice skating, obstacle course racing, pencak silat, sport climbing, squash, taekwondo, triathlon, water polo, wushu and other sports.
 
-On 16 November 2015, following recommendations from the Sports School Review Committee, the National Youth Sports Institute was launched to provide the Sports School with sport science support as well as expertise in talent identification and development.  
+On 16 November 2015, following recommendations from the Sports School Review Committee, the National Youth Sports Institute was launched to provide the Sports School with sport science support as well as expertise in talent identification and development.&nbsp;&nbsp;
 
-Student-athletes and staff participate actively in Project Champions Way, a school-wide values-in-action and corporate social responsibility initiative, through which the school helps the less fortunate in Singapore.  
+Student-athletes and staff participate actively in Project Champions Way, a school-wide values-in-action and corporate social responsibility initiative, through which the school helps the less fortunate in Singapore.&nbsp;&nbsp;
 
 The Sports School’s international-standard sport facilities have been used to host numerous international competitions and events, such as the inaugural Youth Olympic Games in 2010.
 
-In its first 16 years, the Sports School produced eight Olympians, 16 world champions and 493 national open representatives for Singapore. The school’s student-athletes have taken part in three editions of the Olympic Games, four editions of the Asian Games, four editions of the Commonwealth Games and eight editions of the Southeast Asian Games.  
+In its first 16 years, the Sports School produced eight Olympians, 16 world champions and 493 national open representatives for Singapore. The school’s student-athletes have taken part in three editions of the Olympic Games, four editions of the Asian Games, four editions of the Commonwealth Games and eight editions&nbsp;of the Southeast Asian Games.&nbsp;&nbsp;
 
 Principals:<br>
 \- Mr Moo Soon Chong (2004–2007)<br>
@@ -85,17 +85,17 @@ Principals:<br>
 |
 
 #### **School Motto**
-Learned Champions With Character
+Learned Champions&nbsp;With&nbsp;Character
 
 #### **School Crest**
-<img src="/images/sgsportssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sgsportssch1.png">
 
 The Singapore Sports School’s logo features a pair of red and orange wings. The pair of wings is a universal symbol of flight, embodying the soaring aspirations of the student-athletes. The symmetry of the wings denotes the striking balance between academic finesse and sport excellence. The colour red signifies the passion and pride of the student-athletes and staff, while orange represents youthfulness and vigour.
 
 Outlined amidst the pair of wings is a trophy, which symbolises the Sports School’s commitment to providing its student-athletes with the environment and opportunities to help them fulfil their sport potential and let their dreams take flight.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1rLkS_Zc8jcABPyXTYW-JfNCoGHLgy2Sp/view?usp=share_link">**♫ Listen**</a>
 
 We will rise to the challenge – the Sports School as one<br>
 With pride and with passion, in the journey we run<br>
