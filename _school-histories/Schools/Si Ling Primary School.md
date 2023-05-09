@@ -4,49 +4,51 @@ permalink: /school-histories/si-ling-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/silingpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/silingpri1.png">
 
 ### **Si Ling Primary School**
-[URL to website](https://silingpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://silingpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR-CrLfpMcN4YDk0DNxvhnsCOCt8ctmSd1bSJpUq4in1K8cxjBivcl2WRj4tA-XDRbIPoUzbb7iZ4Kp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/silingpri2.jpg">  
-<img src="/images/silingpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri2.jpg">
 </a></p>
 
 <p><a href="/images/silingpri3.jpg">  
-<img src="/images/silingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri3.jpg">
 </a></p>
 
 <p><a href="/images/silingpri4.jpg">  
-<img src="/images/silingpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/silingpri5.jpg">  
-<img src="/images/silingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri5.jpg">
 </a></p>
 
 <p><a href="/images/silingpri6.jpg">  
-<img src="/images/silingpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri6.jpg">
 </a></p>
 
 <p><a href="/images/silingpri7.jpg">  
-<img src="/images/silingpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/silingpri8.jpg">  
-<img src="/images/silingpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri8.jpg">
 </a></p>
 
 <p><a href="/images/silingpri9.jpg">  
-<img src="/images/silingpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/silingpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -80,21 +82,21 @@ Principals:<br>
 | 2001 | Relocated to Woodlands Avenue 1. |
 | 2004 | Official opening of the current campus by Parliamentary Secretary, Ministry of Education and Ministry of Manpower, Member of Parliament for Sembawang GRC, Mr Hawazi Daipi. |
 | 2015 | Began its Applied Learning Programme in environmental science. |
-| 2019 | Began its Learning for Life Programme in Community & Youth Leadership. |
+| 2019 | Began its Learning for Life Programme in Community &amp; Youth Leadership. |
 |
 
 #### **School Motto**
 Strive For Progress
 
 #### **School Crest**
-<img src="/images/silingpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/silingpri1.png">
 
 The flame represents its students’ and staff’s aspiration to excel in academic performance as well as in sports and games.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1arzSOUOZ-MycFK8E5cMEY6uGh4YKRgW6/view?usp=share_link">**♫ Listen**</a> 
 
 S stands for Si Ling<br>
 Circle and the flame<br>
