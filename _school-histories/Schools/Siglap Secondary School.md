@@ -4,48 +4,49 @@ permalink: /school-histories/siglap-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/siglapsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/siglapsec1.jpg">
 
 ### **Siglap Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ80ammOpfdG_Bkuir8aCHJdpJFmtUM_ZzedxetuxwbiZnytRQHJHGXVK6b7ovo25cx0X6at_rn03Iq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/siglapsec2.jpg">  
-<img src="/images/siglapsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec2.jpg">
 </a></p>
 
 <p><a href="/images/siglapsec3.jpg">  
-<img src="/images/siglapsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec3.jpg">
 </a></p>
 
 <p><a href="/images/siglapsec4.jpg">  
-<img src="/images/siglapsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/siglapsec5.jpg">  
-<img src="/images/siglapsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec5.jpg">
 </a></p>
 
 <p><a href="/images/siglapsec6.jpg">  
-<img src="/images/siglapsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec6.jpg">
 </a></p>
 
 <p><a href="/images/siglapsec7.jpg">  
-<img src="/images/siglapsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/siglapsec8.jpg">  
-<img src="/images/siglapsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec8.jpg">
 </a></p>
 
 <p><a href="/images/siglapsec9.jpg">  
-<img src="/images/siglapsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglapsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -92,12 +93,12 @@ Sagax et Audax<br>
 Meaning ‘Wisdom and Courage’.
 
 #### **School Crest**
-<img src="/images/siglapsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/siglapsec1.jpg">
 
 The open book symbolises the quest for knowledge. The colours green and blue, also reflected in the school uniform, represent the sky and the sea, which were part of the Siglap horizon when it was founded. The meeting of the land and the sea signifies the broadening of the mental horizon, which students should strive for. The lion on the castle is part of the state emblem, representing courage.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/16E8BocyNAurSKlF-8UeebAu7VcNyfKMP/view?usp=share_link">**♫ Listen**</a> 
 
 We typify progressive Singapore<br>
 Imbued with courage, love and loyalty.<br>
