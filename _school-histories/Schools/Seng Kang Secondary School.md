@@ -4,7 +4,7 @@ permalink: /school-histories/seng-kang-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sengkangsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sengkangsec1.png">
 
 ### **Seng Kang Secondary School**
 [URL to website](https://www.sengkangsec.moe.edu.sg/) 
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6tBj4reD1j7V-dm9YQnpNuzvZYcbSdKdWkjPU2o66Vqc4cPX8PNPM7h_aBrpFhqe_ORVwluzx6fAp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/sengkangsec2.jpg">  
-<img src="/images/sengkangsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec2.jpg">
 </a></p>
 
 <p><a href="/images/sengkangsec3.jpg">  
-<img src="/images/sengkangsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec3.jpg">
 </a></p>
 
 <p><a href="/images/sengkangsec4.jpg">  
-<img src="/images/sengkangsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sengkangsec5.jpg">  
-<img src="/images/sengkangsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec5.jpg">
 </a></p>
 
 <p><a href="/images/sengkangsec6.jpg">  
-<img src="/images/sengkangsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec6.jpg">
 </a></p>
 
 <p><a href="/images/sengkangsec7.jpg">  
-<img src="/images/sengkangsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sengkangsec8.jpg">  
-<img src="/images/sengkangsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec8.jpg">
 </a></p>
 
 <p><a href="/images/sengkangsec9.jpg">  
-<img src="/images/sengkangsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,9 +59,9 @@ The school was first located at the former premises of Hai Sing Girls’ High at
 
 In 2002, the school’s Red Cross Unit achieved its first Unit Silver Award. In the following year, the school attained the Ministry of Education Value-Added Academic Award.
 
-The school’s Hockey ‘C’ Division boys’ team made headlines when they emerged as the national champions at the 2005 Hockey National ‘C’ Division Championships, garnering the school’s first national sports title. In the same year, one of the school’s Girl Guides also became the school’s first to attain the President's Guide Award, the highest honour for Girl Guides. This set a precedent for the school’s Girl Guides’ outstanding achievements, which have continued today. 
+The school’s Hockey ‘C’ Division boys’ team made headlines when they emerged as the national champions at the 2005 Hockey National ‘C’ Division Championships, garnering the school’s first national sports title. In the same year, one of the school’s Girl Guides also became the school’s first to attain the President's Guide Award, the highest honour for Girl Guides. This set a precedent for the school’s Girl Guides’ outstanding achievements, which have continued today.&nbsp;
 
-In 2009, SKSS gained niche status in hockey. Besides achieving success at the school level, some of the players have gone on to represent Singapore at the international games. In 2011, SKSS also became one of the few schools to offer Physical Education as an O-Level subject. 
+In 2009, SKSS gained niche status in hockey. Besides achieving success at the school level, some of the players have gone on to represent Singapore at the international games. In 2011, SKSS also became one of the few schools to offer Physical Education as an O-Level subject.&nbsp;
 
 In 2015, the school launched its Learning for Life Programme, ‘Building Character through Physical Education and Sports’, and its Applied Learning Programme in health science and technology in the following year.
 
@@ -92,12 +93,12 @@ Principals:<br>
 Breakthrough
 
 #### **School Crest**
-<img src="/images/sengkangsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sengkangsec1.png">
 
 The anchor represents the Sengkang district, which was once a harbour. It also signifies the school’s determination to anchor to its beliefs. The rope symbolises teamwork and continuous learning. The anchor and rope combine to form the initials of the school, ‘SKSS’. The school motto, ‘Breakthrough’, reflects the school’s undaunting and tireless spirit in its continuous search for new ideas and improvement.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/11_rGxOZTdIeSntu-r-PaqVoJf3PwD2v7/view?usp=share_link">**♫ Listen**</a>
 
 Verse:<br>
 In this school we share one vision to which we all aspire.<br>
