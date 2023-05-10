@@ -4,7 +4,7 @@ permalink: /school-histories/seng-kang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sengkangpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sengkangpri1.jpg">
 
 ### **Seng Kang Primary School**
 [URL to website](https://www.sengkangpri.moe.edu.sg/)
@@ -12,39 +12,40 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxFlwqWR7zoFBV-Qq_P8SCu6eMa80-qk9KiVKZi1opiEM7_YmL_rCdIoLHhhQGKdktPyu8R2qQiLS9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/sengkangpri2.jpg">  
-<img src="/images/sengkangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri2.jpg">
 </a></p>
 
 <p><a href="/images/sengkangpri3.jpg">  
-<img src="/images/sengkangpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri3.jpg">
 </a></p>
 
 <p><a href="/images/sengkangpri4.jpg">  
-<img src="/images/sengkangpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri4.jpg">
 </a></p>
 
 <p><a href="/images/sengkangpri5.jpg">  
-<img src="/images/sengkangpri5.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/sengkangpri5.jpg">
 </a></p>
 
 <p><a href="/images/sengkangpri6.jpg">  
-<img src="/images/sengkangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sengkangpri7.jpg">  
-<img src="/images/sengkangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri7.jpg">
 </a></p>
 
 <p><a href="/images/sengkangpri8.jpg">  
-<img src="/images/sengkangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri8.jpg">
 </a></p>
 
 <p><a href="/images/sengkangpri9.jpg">  
-<img src="/images/sengkangpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -81,12 +82,12 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/sengkangpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sengkangpri1.jpg">
 
 The school crest has a diamond shape, which symbolises that every student is a gem to be treasured and nurtured. The colour white symbolises purity. The circle enclosing the letters ‘SK’ symbolises harmony, unity and continuous progress. The letters ‘SK’ written in the logo resembles the Chinese character, ‘水’, or water. Water is fluid and soft, yet it can wear away rock, which is rigid. The background colour of vibrant yellow symbolises the ‘attainment of excellence and victory’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1wK8oahmbk-PhlUlWua5s0DMBB3LJETIr/view?usp=share_link">**♫ Listen**</a>
 
 We are happy students always on the go<br>
 Try to do the best we can<br>
