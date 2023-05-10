@@ -4,24 +4,25 @@ permalink: /school-histories/serangoon-garden-technical-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/srtechnical1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srtechnical1.png">
 
 ### **Serangoon Garden Technical School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1Pbz9J5IeBtUkcMQS6sMbgt1HiFbIul0s-JNx275atCOxV7RD4H98iK6jFyYvW3JHmGk34w0PgV7T/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/srtechnical2.jpg">  
-<img src="/images/srtechnical2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srtechnical2.jpg">
 </a></p>
 
 <p><a href="/images/srtechnical3.jpg">  
-<img src="/images/srtechnical3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srtechnical3.jpg">
 </a></p>
 
 <p><a href="/images/srtechnical4.jpg">  
-<img src="/images/srtechnical4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srtechnical4.jpg">
 </a></p>
 
 <br clear="left">
@@ -53,14 +54,14 @@ Last Serving Principal:<br>
 Sagacity, Glory, Triumph
 
 #### **School Crest**
-<img src="/images/srtechnical1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srtechnical1.png">
 
-The **gear wheel** symbol and the letter **T** represent technical education. Underlining the crest image are the words of the school motto: “Sagacity, Glory, Triumph”.
+The&nbsp;**gear wheel**&nbsp;symbol and the letter&nbsp;**T**&nbsp;represent technical education. Underlining the crest image are the words of the school motto: “Sagacity, Glory, Triumph”.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>
 
 With gratitude and loyalty<br>
 We sing to S.G.T.<br>
