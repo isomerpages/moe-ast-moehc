@@ -4,40 +4,41 @@ permalink: /school-histories/serangoon-garden-north-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/srgardennorth1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srgardennorth1.png">
 
 ### **Serangoon Garden North School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3aqtqWQ-DBEcOIr5LsxfZs0k7Kq9BhMcXCLjSjRnPns_mtCgYhRcN-DXK6xSL4NWz1jnJkpUsj8PW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/srgardennorth2.jpg">  
-<img src="/images/srgardennorth2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardennorth2.jpg">
 </a></p>
 
 <p><a href="/images/srgardennorth3.jpg">  
-<img src="/images/srgardennorth3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardennorth3.jpg">
 </a></p>
 
 <p><a href="/images/srgardennorth4.jpg">  
-<img src="/images/srgardennorth4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/srgardennorth4.jpg">
 </a></p>
 
 <p><a href="/images/srgardennorth5.jpg">  
-<img src="/images/srgardennorth5.jpg" style="width:30%;margin-right:16px;" align = "right">
+<img align="right" style="width:30%;margin-right:16px;" src="/images/srgardennorth5.jpg">
 </a></p>
 
 <p><a href="/images/srgardennorth6.jpg">  
-<img src="/images/srgardennorth6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardennorth6.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Established in 1956, Serangoon Garden North School was located at Kensington Park Road.   
+Established in 1956, Serangoon Garden North School was located at Kensington Park Road.&nbsp;  
   
-It moved into its own premises in 1957 and functioned as a two-session school.   
+It moved into its own premises in 1957 and functioned as a two-session school.&nbsp;  
   
 In 1988, Serangoon Garden North School merged with neighbouring Serangoon Garden South School. In 2007, the amalgamated Serangoon Garden South School merged with Zhonghua Primary School. Serangoon Garden North School building has been left vacant since its closure in 1988.  
   
@@ -60,14 +61,13 @@ Principals:<br>
 Work to succeed
 
 #### **School Crest**
-<img src="/images/srgardennorth1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srgardennorth1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small> 
 
 We come to school to learn the way,<br>
 As citizens each his role to play.<br>
