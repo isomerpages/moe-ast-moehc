@@ -4,53 +4,54 @@ permalink: /school-histories/regent-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/regentsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/regentsec1.jpg">
 
 ### **Regent Secondary School**
-[URL to website](https://regentsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://regentsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpFbVQMJWcNxx5vWEx9D15_YMe_AT_8GGzlNByZcB3vOim7LVVmy1cbddC5KsSZZmw8upaPzB72lPb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/regentsec2.jpg">  
-<img src="/images/regentsec2.jpg" style="width:25%;margin-right:45px;margin-left:15px" align = "left">
+<img align="left" style="width:25%;margin-right:45px;margin-left:15px" src="/images/regentsec2.jpg">
 </a></p>
 
 <p><a href="/images/regentsec3.jpg">  
-<img src="/images/regentsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec3.jpg">
 </a></p>
 
 <p><a href="/images/regentsec4.jpg">  
-<img src="/images/regentsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec4.jpg">
 </a></p>
 
 <p><a href="/images/regentsec5.jpg">  
-<img src="/images/regentsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec5.jpg">
 </a></p>
 
 <p><a href="/images/regentsec6.jpg">  
-<img src="/images/regentsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/regentsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec7.jpg">
 </a></p>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/regentsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec8.jpg">
 </a></p>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/regentsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Established in 2000, Regent Secondary School began operations at the premises of Unity Secondary School. In the following year, the school relocated to its present premises at 50 Choa Chu Kang North 5. 
+Established in 2000, Regent Secondary School began operations at the premises of Unity Secondary School. In the following year, the school relocated to its present premises at 50 Choa Chu Kang North 5.&nbsp;
 
 In 2013, Regent Secondary School gained niche status in music knowledge and skills for concert band. In 2014, the school was accorded the Applied Learning Programme (ALP) in underwater robotics and, in 2016, the Learning for Life Programme (LLP) in community and youth leadership. The ALP develops students’ skills in thinking, self-directing, problem-solving and decision-making. The LLP develops students’ character, leadership and spirit for volunteering through activities that students can lead and effect positive changes.
 
@@ -79,14 +80,14 @@ Principals:<br>
 Blaze Forth to Glory
 
 #### **School Crest**
-<img src="/images/regentsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/regentsec1.jpg">
 
 The crest takes the shape of a blazing torch. The red flame signifies the blazing spirit of Regenites in pursuit of learning and excellence. The blue torch signifies the foundation of a student-centric and values-driven education.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1cD-cpTEENrS_0eQptMu65OAZ3DfYNDOD/view?usp=share_link">**♫ Listen**</a>	
 
 Hear the echoes of Regent,<br>
 Reaching far and wide.<br>
