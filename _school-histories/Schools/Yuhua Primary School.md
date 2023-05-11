@@ -54,9 +54,9 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Yuhua Primary School was established in 1930 as Joo Hwa Public School. In 1981, Joo Hwa Public School was renamed Joo Hwa Primary School. In 1983, the school moved to its present premises at Jurong East Street 24 and assumed the name Yuhua Primary School.
+Yuhua Primary School was established in 1930 as Joo Hwa Public School. In 1981, Joo Hwa Public School was renamed Joo Hwa Primary School. In 1983, the school moved to its present premises at Jurong East Street 24 and assumed the name Yuhua Primary School. 
 
-In 2002, the school merged with Yuqun Primary School. In 2014, the school completed its PERI upgrading. In 2015, the school transited to single session.
+In 2002, the school merged with Yuqun Primary School. In 2014, the school completed its PERI upgrading. In 2015, the school transited to operate her curriculum hours in a single session.
 
 Principals:<br>
 \- Mr Poh Yew Beng (1981–1984)<br>
@@ -67,7 +67,8 @@ Principals:<br>
 \- Ms Yip Moh Ching (1997–2001)<br>
 \- Mr Robin Ong Thiam Huat (2002–2007)<br>
 \- Mrs Lee-Lai Lee Kien (2008–2015)<br>
-\- Mrs See Lai Kwan (2016–present)
+\- Mrs See Lai Kwan (2016–2021)<br>
+\- Mrs Ruth Tai Mei Fen (2022 - present)
 
 **Related Schools: [Yuqun Primary School](/school-histories/yuqun-pri/)**
 
@@ -87,9 +88,17 @@ Principals:<br>
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuapri1.png">
 
-The school crest shows a light bulb with its filament in the shape of a heart embedded in an arrangement puzzle. The light bulb represents the mind and the work of the school to nurture the students to be learners, thinkers and innovators. The filament of the bulb signifies the heart, depicting the school vision for the students to be people who care, share and contribute. These key aspects of the school crest symbolise the school’s mission, ‘Growing Our Hearts and Minds’.
+The school crest shows a light bulb with its filament in the shape of a heart embedded in an arrangement puzzle. 
 
-The arrangement puzzle symbolises a challenging and interesting school life, one that is full of potential.&nbsp;It speaks of the school’s belief that every child can learn.&nbsp;Each student enters the school with his or her unique strengths, talents and hopes. The school provides the nurturing and conducive learning environment to support each child in his or her self-discovery and growth. The arrangement is not complete until the final piece of the puzzle is put down at the end of a student’s six meaningful and purposeful years in the school.
+The light bulb represents the mind and the work of the school to nurture the students to be learners, thinkers and innovators. 
+
+The filament of the bulb signifies the heart, depicting the school's vision for the students to be people who care, share and contribute. 
+
+These key aspects of the school crest symbolise the school’s mission, ‘Growing Our Hearts and Minds’. 
+
+The arrangement puzzle symbolises a challenging and interesting school life, one that is full of potential. It speaks of the school’s belief that every child can learn. Each student enters the school with his or her unique strengths, talents and hopes. 
+
+The school provides the nurturing and conducive learning environment to support each child in his or her self-discovery and growth. The arrangement is not complete until the final piece of the puzzle is added at the end of a student’s six meaningful and purposeful years in the school. 
 
 The school crest uses the colours blue and red. Blue signifies depth, breadth and stability of mind. Red signifies passion, affection and emotions of heart.
 
@@ -99,26 +108,12 @@ The school crest uses the colours blue and red. Blue signifies depth, breadth an
 
 Here is where we grow and serve<br>
 With a strong passion for life<br>
-With strength in character that takes us far
-
-Creative in our thoughts<br>
-Innovative in our ways<br>
-Yuhua is where we grow our heart and mind
-
-Rise above all<br>
-Illuminate and dazzle<br>
-Yuhualites stand tall<br>
-With love and light to lead us
-
-Rise above all<br>
-Yuhua is where we grow our heart and mind<br>
-Yuhua our home it’s here that we belong
-
-United as one Yuhua<br>
-Life-long learners we’ll be<br>
-Hand in hand, we can achieve our goals
-
+With strength in character that takes us far<br>
+Creative in our thoughts Innovative in our ways<br>
+Yuhua is where we grow our hearts and minds<br> Rise above all Illuminate and dazzle<br>
+Yuhualites stand tall With love and light to lead us<br> Rise above all Yuhua is where we grow our hearts and minds Yuhua our home it’s here that we belong <br>
+United as one Yuhua <br>
+Life-long learners we’ll be Hand in hand, we can achieve our goals<br>
 Together we will strive<br>
 Forever do our best!<br>
-Yuhua is where we grow our heart and mind<br>
-Yuhua our home it’s here that we belong
+Yuhua is where we grow our hearts and minds<br> Yuhua our home it’s here that we belong
