@@ -4,53 +4,54 @@ permalink: /school-histories/punggol-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/punggolviewpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolviewpri1.jpg">
 
 ### **Punggol View Primary School**
-[URL to website](https://punggolviewpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://punggolviewpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS0eOEUaFgnBDo0JTb6NRI6i3ZTK5KAaEKNUtYOERLwL5A3OBpqI1X5jkqbdDl7vRdyywPtmCBysiUQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/punggolviewpri2.jpg">  
-<img src="/images/punggolviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri2.jpg">
 </a></p>
 
 <p><a href="/images/punggolviewpri3.jpg">  
-<img src="/images/punggolviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri3.jpg">
 </a></p>
 
 <p><a href="/images/punggolviewpri4.jpg">  
-<img src="/images/punggolviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolviewpri5.jpg">  
-<img src="/images/punggolviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri5.jpg">
 </a></p>
 
 <p><a href="/images/punggolviewpri6.jpg">  
-<img src="/images/punggolviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri6.jpg">
 </a></p>
 
 <p><a href="/images/punggolviewpri7.jpg">  
-<img src="/images/punggolviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolviewpri8.jpg">  
-<img src="/images/punggolviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri8.jpg">
 </a></p>
 
 <p><a href="/images/punggolviewpri9.jpg">  
-<img src="/images/punggolviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri9.jpg">
 </a></p>
 
 <p><a href="/images/punggolviewpri10.jpg">  
-<img src="/images/punggolviewpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolviewpri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -80,7 +81,7 @@ Grow and Glow
 “Grow and Glow” is an aspiration that as the school grows, it will glow in the community as a school of distinction.
 
 #### **School Crest**
-<img src="/images/punggolviewpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolviewpri1.jpg">
 
 The abbreviation ‘PV’ represent the school’s name, Punggol View. The school emblem depicts an eye representing the school as a student-centric institution. Our students are at the heart of what we do and the centre of every teacher’s work, and the school wants to make a difference in the life of each and every student and to guide them to develop their abilities and talents to the fullest. With the “Starfish Story” as our guiding philosophy, we want to touch our students’ lives and help them along as they look upwards with hope and aspirations to be the best that he or she can be.
 
@@ -89,7 +90,7 @@ The blue globe represents the school’s belief in wanting to provide a values-b
 The green ‘V’ resembles an open book, representing academic progress as well as a guiding hand to grow the students through a culture of care. The yellow flame as part of the ‘P’ depicts the passion and joy of learning. Manifested by the white background is the emphasis that the school places on the moral upbringing of its students.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1mthzX7pRF16Uwv9o6MgMvaf_A_L1WY8h/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1<br>
 I am a starfish<br>
