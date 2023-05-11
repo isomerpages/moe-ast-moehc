@@ -4,7 +4,7 @@ permalink: /school-histories/queensway-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/queenswaysec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/queenswaysec1.jpg">
 
 ### **Queensway Secondary School**
 [URL to website](https://www.queenswaysec.moe.edu.sg/)
@@ -12,45 +12,46 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0M2aTUrYPsWn5FqWsU04dKoepvPgQnYGNNTgs3WB0XnrdA8ZyhxOK04712aldJmEEqbJhODYSbDaZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/queenswaysec2.jpg">  
-<img src="/images/queenswaysec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec2.jpg">
 </a></p>
 
 <p><a href="/images/queenswaysec3.jpg">  
-<img src="/images/queenswaysec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec3.jpg">
 </a></p>
 
 <p><a href="/images/queenswaysec4.jpg">  
-<img src="/images/queenswaysec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec4.jpg">
 </a></p>
 
 <p><a href="/images/queenswaysec5.jpg">  
-<img src="/images/queenswaysec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/queenswaysec6.jpg">  
-<img src="/images/queenswaysec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec6.jpg">
 </a></p>
 
 <p><a href="/images/queenswaysec7.jpg">  
-<img src="/images/queenswaysec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec7.jpg">
 </a></p>
 
 <p><a href="/images/queenswaysec8.jpg">  
-<img src="/images/queenswaysec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec8.jpg">
 </a></p>
 
 <p><a href="/images/queenswaysec9.jpg">  
-<img src="/images/queenswaysec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Queensway Secondary School was established in 1961 at 2A Margaret Drive and was officially opened on 2 September 1961. In 1967, Mrs K.S. Quah, a senior assistant of the school penned the lyrics to the school song, while the music was composed by Mr H.S. Chuang, the music teacher. 
+Queensway Secondary School was established in 1961 at 2A Margaret Drive and was officially opened on 2 September 1961. In 1967, Mrs K.S. Quah, a senior assistant of the school penned the lyrics to the school song, while the music was composed by Mr H.S. Chuang, the music teacher.&nbsp;
 
 The development of the school was closely linked to the growth of Queenstown. By 1963, the school had 1,418 students and a teaching staff of 50. The school had morning and afternoon sessions. To cope with the increasing student enrolment, two new classroom blocks and an audiovisual theatre were constructed. By then, the school population had increased to 2,000.
 
@@ -93,14 +94,14 @@ Principals:<br>
 Success through Diligence
 
 #### **School Crest**
-<img src="/images/queenswaysec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/queenswaysec1.jpg">
 
 The school emblem consists of three sub-designs against a purple background, which represents royalty. The upper part of the emblem depicts a torch encircled by a laurel. The torch represents learning and knowledge while the laurel is the resultant success. The left design originates from the basic emblem of the City of Singapore – a lion on a castle. The lion represents courage and excellence while the castle on which it stands represents strength and stability. The spiderweb on the right represents due diligence, which is a prerequisite for success.
 
 The main quality that all Queenswayans should strive to attain is diligence, which will ensure success, hence the school motto, ‘Success through Diligence’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1cDk9n7eI23jF_OxxXd2z1LgKUnrt62Vq/view?usp=share_link">**♫ Listen**</a>
 
 We are proud to proclaim<br>
 We are Queenswayans in name<br>
