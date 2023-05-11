@@ -4,43 +4,44 @@ permalink: /school-histories/punggol-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/punggolsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolsec1.png">
 
 ### **Punggol Secondary School**
-[URL to website](https://punggolsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://punggolsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_Cy295lBSXSL_VujG3ES06SUGglstP6qO6W17FfkK7Zq1c1Kh6U20nk0jTyO3OxTwz-zzw1iwD9h2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/punggolsec2.jpg">  
-<img src="/images/punggolsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec2.jpg">
 </a></p>
 
 <p><a href="/images/punggolsec3.jpg">  
-<img src="/images/punggolsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec3.jpg">
 </a></p>
 
 <p><a href="/images/punggolsec4.jpg">  
-<img src="/images/punggolsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolsec5.jpg">  
-<img src="/images/punggolsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec5.jpg">
 </a></p>
 
 <p><a href="/images/punggolsec6.jpg">  
-<img src="/images/punggolsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec6.jpg">
 </a></p>
 
 <p><a href="/images/punggolsec7.jpg">  
-<img src="/images/punggolsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec7.jpg">
 </a></p>
 
 <p><a href="/images/punggolsec8.jpg">  
-<img src="/images/punggolsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -50,7 +51,7 @@ Punggol Secondary School was established in 1957 as the Chinese-medium Singapore
 
 In 2001, Pei Dao moved to Punggol and was renamed Punggol Secondary School. The school retained its Chinese name because of its strong emphasis on the character development of students.
 
-The school’s Applied Learning Programme is in science, technology, engineering and mathematics, focusing on environment education. Its Learning For Life Programme is in community and youth leadership, which aims to develop confident learners and leaders guided by values, motivated to excel. 
+The school’s Applied Learning Programme is in science, technology, engineering and mathematics, focusing on environment education. Its Learning For Life Programme is in community and youth leadership, which aims to develop confident learners and leaders guided by values, motivated to excel.&nbsp;
 
 Principals:<br>
 \- Mdm Wang Yu Chong (1957–1969)<br>
@@ -81,14 +82,14 @@ Principals:<br>
 Achievers With Character
 
 #### **School Crest**
-<img src="/images/punggolsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolsec1.png">
 
 The torch symbolises a beacon of truth and wisdom as students constantly seek to increase their knowledge and capacity for learning. The three stripes on the torch depict the unity and cooperation from staff, parents and the community as they support the students’ learning to achieve excellence and success in their endeavours.
 
-The colour red represents enthusiasm and passion for lifelong learning. The colour yellow symbolises the bright future that is attainable when students strive for academic excellence, self-discipline and sound values in life. The colour brown symbolises loyalty to the school and deep roots to the community and nation. The colour turquoise indicates the proximity of the sea in Punggol and the limitless opportunities for learning. The turquoise ring represents the well-balanced, value-added education provided at Punggol Secondary School.
+The colour red represents enthusiasm and passion for lifelong learning. The colour yellow symbolises the bright future that is attainable when students strive for academic excellence, self-discipline and sound values in life. The colour brown symbolises loyalty to the school and deep roots to the community and nation.&nbsp;The colour turquoise indicates the proximity of the sea in Punggol and the limitless opportunities for learning. The turquoise ring represents the well-balanced, value-added education provided at Punggol Secondary School.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/13zGh9kl9y8jK2Le3EvjUDkjQQc0wftge/view?usp=share_link">**♫ Listen**</a>
 
 Chorus<br>
 Forward, Forward, Punggolites!<br>
