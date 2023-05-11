@@ -4,7 +4,7 @@ permalink: /school-histories/qihua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/qihuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/qihuapri1.png">
 
 ### **Qihua Primary School**
 [URL to website](https://www.qihuapri.moe.edu.sg/) 
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6HPRyTjAKCDkshRI1XNK_HuqL5LZRIsSmX7-T9kzyWncDqEPTpBCVQZJCeuqz7EUC6jMK7g43F-oV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/qihuapri2.jpg">  
-<img src="/images/qihuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri2.jpg">
 </a></p>
 
 <p><a href="/images/qihuapri3.jpg">  
-<img src="/images/qihuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri3.jpg">
 </a></p>
 
 <p><a href="/images/qihuapri4.jpg">  
-<img src="/images/qihuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/qihuapri5.jpg">  
-<img src="/images/qihuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri5.jpg">
 </a></p>
 
 <p><a href="/images/qihuapri6.jpg">  
-<img src="/images/qihuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/qihuapri7.jpg">  
-<img src="/images/qihuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri7.jpg">
 </a></p>
 
 <p><a href="/images/qihuapri8.jpg">  
-<img src="/images/qihuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri8.jpg">
 </a></p>
 
 <p><a href="/images/qihuapri9.jpg">  
-<img src="/images/qihuapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qihuapri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -99,7 +100,7 @@ Principals of Qihua Primary School:<br>
 Persevere to Succeed
 
 #### **School Crest**
-<img src="/images/qihuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/qihuapri1.png">
 
 Qihua is a school where students persevere to succeed and aspire for knowledge and lifelong learning in the context of the national education goals. The Chinese name ‘启化’ means to inspire and educate.
 
@@ -108,7 +109,7 @@ Qihua is a school where students persevere to succeed and aspire for knowledge a
 The laurels symbolise aspiration for success. The book symbolises the quest for knowledge. The torch symbolises the search for lifelong learning. The globe symbolises the global outlook of the students of Qihua.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/18dOP2xm3Bic8FDtFC42eS1dACcUwhzCY/view?usp=share_link">**♫ Listen**</a>
 
 Green luxuriant trees by the shoreline,<br>
 stands our school steadfast on the ground of freedom and equality.<br>
