@@ -4,20 +4,21 @@ permalink: /school-histories/redhill-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/redhillsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/redhillsch1.png">
 
 ### **Redhill School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTouTMlohr-Vp30la3NVNMPjpcy_xWnTzyIba2YWeGs5uuSugdDix4MJ_3r97W9ng_gBrCj_xxf5qLJ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/redhillsch2.jpg">  
-<img src="/images/redhillsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redhillsch2.jpg">
 </a></p>
 
 <p><a href="/images/redhillsch3.jpg">  
-<img src="/images/redhillsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redhillsch3.jpg">
 </a></p>
 
 <br clear="left">
@@ -39,14 +40,10 @@ Principals:<br>
 |
 
 #### **School Motto**
-Knowledge, Courage & True Endeavour
+Knowledge, Courage &amp; True Endeavour
 
 #### **School Crest**
-<img src="/images/redhillsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/redhillsch1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-
