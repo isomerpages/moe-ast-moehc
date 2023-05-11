@@ -4,7 +4,7 @@ permalink: /school-histories/rosyth-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rosythsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rosythsch1.jpg">
 
 ### **Rosyth School**
 [URL to website](https://rosyth.moe.edu.sg/)
@@ -12,45 +12,46 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNpw7upNzaWxs4qeNTfdP291gE0HwvuCcn7sEuFOUaEJ7ZHNYmBQICb67On7yZnV0uhwPmfLQMdRAW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rosythsch2.jpg">  
-<img src="/images/rosythsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch2.jpg">
 </a></p>
 
 <p><a href="/images/rosythsch3.jpg">  
-<img src="/images/rosythsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch3.jpg">
 </a></p>
 
 <p><a href="/images/rosythsch4.jpg">  
-<img src="/images/rosythsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rosythsch5.jpg">  
-<img src="/images/rosythsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch5.jpg">
 </a></p>
 
 <p><a href="/images/rosythsch6.jpg">  
-<img src="/images/rosythsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch6.jpg">
 </a></p>
 
 <p><a href="/images/rosythsch7.jpg">  
-<img src="/images/rosythsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rosythsch8.jpg">  
-<img src="/images/rosythsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch8.jpg">
 </a></p>
 
 <p><a href="/images/rosythsch9.jpg">  
-<img src="/images/rosythsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch9.jpg">
 </a></p>
 
 <p><a href="/images/rosythsch10.jpg">  
-<img src="/images/rosythsch10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch10.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ Rosyth School was established in 1956 at Rosyth Road. In 1983, the school was se
 
 In 2001, the school relocated to its present premises at Serangoon North Avenue 4. Rosyth’s new building was officially opened the following year.
 
-In 2005, the school celebrated its 50th anniversary. In 2016, the school celebrated its 60th anniversary.        
+In 2005, the school celebrated its 50th anniversary. In 2016, the school celebrated its 60th anniversary.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Rosyth School was accorded the Applied Learning Programme, ‘Augmenting Science Learning through Innovation’, and the Learning for Life Programme, ‘Aesthetics Integration@Rosyth’.
 
@@ -85,7 +86,7 @@ Principals:<br>
 | 1984 | Relocated to the nearby former Parry Secondary School building at 30 Parry Avenue. |
 | 1992 | Implementation of Day School Programme. |
 | 1995 | Selected as a pilot-school in the Accelerating the Use of Information Technology Programme (AITP). |
-| 2001 | Relocated to its current premises at Serangoon North Avenue 4; Official launch of the school’s core values, I-CARE (Integrity First, Care & Share, Adventurous Spirit, Respect & Responsibility, Excellence in All We Do). |
+| 2001 | Relocated to its current premises at Serangoon North Avenue 4; Official launch of the school’s core values, I-CARE (Integrity First, Care &amp; Share, Adventurous Spirit, Respect &amp; Responsibility, Excellence in All We Do). |
 | 2002 | Official opening of Rosyth’s building at 21 Serangoon Avenue 4. |
 | 2005 | Celebration of 50th anniversary. |
 | 2016 | Celebration of 60th anniversary with the theme ‘Appreciate. Affirm. Aspire.’ |
@@ -95,7 +96,7 @@ Principals:<br>
 Ready to Serve
 
 #### **School Crest**
-<img src="/images/rosythsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rosythsch1.jpg">
 
 The original version of the crest was an etched metal. The elements comprise a candle, stripes, white and blue colours and the school motto, ‘Ready to Serve’. Chinese scholars and clergymen of medieval times depended on the candlelight for the long hours of learned reading and writing, as electricity had not been invented then.
 
@@ -104,7 +105,7 @@ Knowledge has long been documented in the form of pictograms, symbols and the wr
 The motto aims to inculcate in the students a sense of civic consciousness and be ‘Ready to Serve’ the country, community and family to whom they belong.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1LVGUzb4jgTv6Lsr8AeV1zeAqlUCRaNvQ/view?usp=share_link">**♫ Listen**</a>
 
 The boys and girls of Rosyth School<br>
 We love our work, we love our play<br>
@@ -114,7 +115,7 @@ Grows stronger day by day<br>
 We take a stand the growing band<br>
 And fight the glorious way
 
-\<Chorus><br>
+\<br>
 For Rosyth School, our Rosyth School<br>
 To serve we will endeavour<br>
 A leading light and shining bright<br>
@@ -129,4 +130,4 @@ And ruggedness another<br>
 To meet the challenge of the day<br>
 For Rosyth School forever
 
-\<Chorus>
+\
