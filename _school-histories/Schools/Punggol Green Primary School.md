@@ -4,49 +4,50 @@ permalink: /school-histories/punggol-green-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/punggolgreenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolgreenpri1.png">
 
 ### **Punggol Green Primary School**
-[URL to website](https://punggolgreenpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://punggolgreenpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4oqxNA8fP6I9d4zx_fEfZjc8R1beGSL132g73VqJqgr4-jB_fJajSZUUYxKJY1AsFy0440geG0Hx5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/punggolgreenpri2.jpg">  
-<img src="/images/punggolgreenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri2.jpg">
 </a></p>
 
 <p><a href="/images/punggolgreenpri3.jpg">  
-<img src="/images/punggolgreenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri3.jpg">
 </a></p>
 
 <p><a href="/images/punggolgreenpri4.jpg">  
-<img src="/images/punggolgreenpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolgreenpri5.jpg">  
-<img src="/images/punggolgreenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri5.jpg">
 </a></p>
 
 <p><a href="/images/punggolgreenpri6.jpg">  
-<img src="/images/punggolgreenpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri6.jpg">
 </a></p>
 
 <p><a href="/images/punggolgreenpri7.jpg">  
-<img src="/images/punggolgreenpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolgreenpri8.jpg">  
-<img src="/images/punggolgreenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri8.jpg">
 </a></p>
 
 <p><a href="/images/punggolgreenpri9.jpg">  
-<img src="/images/punggolgreenpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -66,12 +67,13 @@ Principal:<br>
 |
 
 #### **School Crest**
-<img src="/images/punggolgreenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolgreenpri1.png">
 
 The school crest embodies the school’s aspirations. The orange rising Sun symbolises the bright and vibrant future the students strive for. They are guided by the six rays of the Sun which represent the school’s six core values: respect, responsibility, resilience, integrity, care and harmony. The blue globe underscores the school’s mission to nurture students holistically, urging them to be innovative, forward-looking, and global in their outlook. The figurine reaching for the star serves as a reminder to students to set their targets high, persevere and excel in life. The colour green signifies the school’s desire to contribute to the betterment of the environment.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+
+<a target="\_blank" href="https://drive.google.com/file/d/13jb9oa_izhKOm-IpfEp_DXeSR0ncg247/view?usp=share_link">**♫ Listen**</a>
 
 I look towards the East and I see a shining star;<br>
 It’s beckoning to me saying there you are.<br>
