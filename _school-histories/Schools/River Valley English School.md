@@ -4,17 +4,18 @@ permalink: /school-histories/river-valley-english-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rivervalleyengsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleyengsch1.png">
 
 ### **River Valley English School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSTbZ1-QqrIt3sf2Kg0MPZEMKDWms_4WiUIYIE41QaYKSFLVkVzlkUwQGh5tStgIbCuDsWD2H9IrEKf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/rivervalleyengsch2.jpg">  
-<img src="/images/rivervalleyengsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyengsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -24,7 +25,7 @@ Established in 1959, River Valley English School was located along River Valley 
 
 In 1961, River Valley English School served as one of several emergency relief centres during the Bukit Ho Swee fire.
 
-River Valley English School’s enrolment numbers fell over time. In 1985, River Valley English School merged with River Valley Government Chinese School and Kim Seng Primary School to form River Valley Primary School. River Valley Primary School occupied the former site of the three merged schools until 2004. The land remained unoccupied until 2012, after which, it has been used for the Great World City MRT Station.
+River Valley English School’s enrolment numbers fell over time. In 1985, River Valley English School merged with River Valley Government Chinese School and Kim Seng Primary School to form River Valley Primary School. River Valley Primary School occupied the former site of the three merged schools until 2004. The land remained unoccupied until 2012, after which, it&nbsp;has been used for the Great World City MRT Station.
 
 #### **Key Milestones**
 
@@ -38,11 +39,8 @@ River Valley English School’s enrolment numbers fell over time. In 1985, River
 Ready, Valiant, Enthusiastic, Steadfast.
 
 #### **School Crest**
-<img src="/images/rivervalleyengsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleyengsch1.png">
 
-\-
 
 <br clear="left">
 
-#### **School Song**
-\-
