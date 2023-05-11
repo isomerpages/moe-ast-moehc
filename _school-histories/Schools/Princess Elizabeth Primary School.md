@@ -4,7 +4,7 @@ permalink: /school-histories/princess-elizabeth-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/princesselizabethpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/princesselizabethpri1.png">
 
 ### **Princess Elizabeth Primary School**
 [URL to website](https://www.princesselizabethpri.moe.edu.sg/)
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCY38Tqoezv3wqPbFOb8H90rkW9f4JKNjvnqye7S0eVbQetxugylLmgmNTsCuKxWJPFiA-8bGL_0b_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/princesselizabethpri2.jpg">  
-<img src="/images/princesselizabethpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri2.jpg">
 </a></p>
 
 <p><a href="/images/princesselizabethpri3.jpg">  
-<img src="/images/princesselizabethpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri3.jpg">
 </a></p>
 
 <p><a href="/images/princesselizabethpri4.jpg">  
-<img src="/images/princesselizabethpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/princesselizabethpri5.jpg">  
-<img src="/images/princesselizabethpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri5.jpg">
 </a></p>
 
 <p><a href="/images/princesselizabethpri6.jpg">  
-<img src="/images/princesselizabethpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri6.jpg">
 </a></p>
 
 <p><a href="/images/princesselizabethpri7.jpg">  
-<img src="/images/princesselizabethpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/princesselizabethpri8.jpg">  
-<img src="/images/princesselizabethpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri8.jpg">
 </a></p>
 
 <p><a href="/images/princesselizabethpri9.jpg">  
-<img src="/images/princesselizabethpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -86,12 +87,12 @@ Principals:<br>
 Each His Best
 
 #### **School Crest**
-<img src="/images/princesselizabethpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/princesselizabethpri1.png">
 
 Our school crest is the symbol of the school’s aspiration. The torch represents knowledge. The white and green background represents progression from ignorance to knowledge. The white background represents purity of thought, word and deed. The semicircle represents the school’s aim to provide its students with an all-round education. The three interlocking rings symbolise diligence, endurance and team spirit. The motto ‘Each His Best’ signifies every member of the school giving his or her best to achieve excellence.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1eFBn7yMk39HYUUILOHxbCqAS81DZUcYX/view?usp=share_link">**♫ Listen**</a>
 
 Princess Elizabeth Primary School<br>
 Now we hear you call<br>
