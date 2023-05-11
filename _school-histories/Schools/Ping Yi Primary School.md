@@ -4,36 +4,37 @@ permalink: /school-histories/ping-yi-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/pingyipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pingyipri1.png">
 
 ### **Ping Yi Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQo01GERbiXuoseW8lijX40Gj21sKTTDdeXdHTyfZExokbNUkvM_RrfHh0Ku6CTw_CPk9H9kUmb0avc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/pingyipri2.jpg">  
-<img src="/images/pingyipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pingyipri2.jpg">
 </a></p>
 
 <p><a href="/images/pingyipri4.jpg">  
-<img src="/images/pingyipri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/pingyipri4.jpg">
 </a></p>
 
 <p><a href="/images/pingyipri3.jpg">  
-<img src="/images/pingyipri3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/pingyipri3.jpg">
 </a></p>
 
 <p><a href="/images/pingyipri5.jpg">  
-<img src="/images/pingyipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pingyipri5.jpg">
 </a></p>
 
 <p><a href="/images/pingyipri7.jpg">  
-<img src="/images/pingyipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pingyipri7.jpg">
 </a></p>
 
 <p><a href="/images/pingyipri8.jpg">  
-<img src="/images/pingyipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pingyipri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -64,21 +65,21 @@ Last Serving Principal:<br>
 Together We Strive
 
 #### **School Crest**
-<img src="/images/pingyipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pingyipri1.png">
 
-The initials **PY** stand for the name of the school, Ping Yi. <br>
-The **dark green** and **yellow** are the school colours. <br>
-The colour **red** symbolises universal brotherhood.
+The initials&nbsp;**PY**&nbsp;stand for the name of the school, Ping Yi. <br>
+The&nbsp;**dark green**&nbsp;and&nbsp;**yellow**&nbsp;are the school colours. <br>
+The colour&nbsp;**red**&nbsp;symbolises universal brotherhood.
 
 <br clear="left">
 
-The **torch** reflects the burning desire to acquire knowledge and skills. <br>
-The **four lines** indicate the four languages taught in the school.
+The&nbsp;**torch**&nbsp;reflects the burning desire to acquire knowledge and skills. <br>
+The&nbsp;**four lines**&nbsp;indicate the four languages taught in the school.
 
-The **school motto**, “Together We Strive”, reminds us of our commitment to persevere for progress and excellence in all aspects of school life.
+The&nbsp;**school motto**, “Together We Strive”, reminds us of our commitment to persevere for progress and excellence in all aspects of school life.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>
 
 Forward we march toward our motto<br>
 Striving to be true<br>
