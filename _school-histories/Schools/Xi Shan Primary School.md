@@ -6,7 +6,7 @@ third_nav_title: Schools
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/xishanpri1.png">
 
-### **Xi Shan Primary School**
+### **Xishan Primary School**
 [URL to website](https://xishanpri.moe.edu.sg/)
 <br clear="left">
 
