@@ -4,7 +4,7 @@ permalink: /school-histories/poi-ching-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/poichingsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/poichingsch1.png">
 
 ### **Poi Ching School**
 [URL to website](https://www.poiching.moe.edu.sg/)
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCXlWSS_oDRb1h0q5DsU-DidfcMWl5YRRKxMbSF8vn0vyrZyH2RUOKEtew7kUCl9H8Kfq9vftIW0JB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/poichingsch2.jpg">  
-<img src="/images/poichingsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch2.jpg">
 </a></p>
 
 <p><a href="/images/poichingsch3.jpg">  
-<img src="/images/poichingsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch3.jpg">
 </a></p>
 
 <p><a href="/images/poichingsch4.jpg">  
-<img src="/images/poichingsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/poichingsch5.jpg">  
-<img src="/images/poichingsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch5.jpg">
 </a></p>
 
 <p><a href="/images/poichingsch6.jpg">  
-<img src="/images/poichingsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch6.jpg">
 </a></p>
 
 <p><a href="/images/poichingsch7.jpg">  
-<img src="/images/poichingsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/poichingsch8.jpg">  
-<img src="/images/poichingsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch8.jpg">
 </a></p>
 
 <p><a href="/images/poichingsch9.jpg">  
-<img src="/images/poichingsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/poichingsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ In 2000, Poi Ching School moved from Toa Payoh to its present premises at Tampin
 
 In 2016, Poi Ching School was accorded the Learning for Life Programme, ‘D’ARTS@PCS’.  
   
-In 2020, the school was accorded the Applied Learning Programme – BEST Programme (Developing a Bilingual, Effective Speaker and WriTer in every PCS Student). The school celebrates its 100th anniversary in 2020.
+In 2020, the school was accorded the Applied Learning Programme – BEST Programme (Developing a Bilingual, Effective Speaker and WriTer in every PCS Student). The school celebrates its 100th&nbsp;anniversary in 2020.
 
 Principals:<br>
 \- 郭可模 (1919–unknown)<br>
@@ -100,7 +101,7 @@ Principals:<br>
 Towards Excellence
 
 #### **School Crest**
-<img src="/images/poichingsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/poichingsch1.png">
 
 OUR SCHOOL CREST<br>
 校徽的浅解  
@@ -121,7 +122,7 @@ Pen - One who seeks and finds knowledge will have the world under one's feet.
 Rising sun emerging from the sea - The resolution of a child to diligently seek knowledge and learn will lead to contributing and concerned citizen.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1VrX4IpDEZyygbLx9Vb_6tMBwyNHCc4t7/view?usp=share_link">**♫ Listen**</a>
 
 O how lovely is our country<br>
 山明水秀景物齐新
