@@ -4,7 +4,7 @@ permalink: /school-histories/sembawang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sbwpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sbwpri1.png">
 
 ### **Sembawang Primary School**
 [URL to website](https://www.sembawangpri.moe.edu.sg/)
@@ -13,40 +13,42 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSew2h0Eq-NvlzP9z8jv-H7TlyjGb97AVJbz2rFkw_j2RSZeGiunBPwE5R8g02Ny-fUjSsAS3m1-aCy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/sbwpri2.jpg">  
-<img src="/images/sbwpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri2.jpg">
 </a></p>
 
 <p><a href="/images/sbwpri3.jpg">  
-<img src="/images/sbwpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri3.jpg">
 </a></p>
 
 <p><a href="/images/sbwpri4.jpg">  
-<img src="/images/sbwpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sbwpri5.jpg">  
-<img src="/images/sbwpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri5.jpg">
 </a></p>
 
 <p><a href="/images/sbwpri6.jpg">  
-<img src="/images/sbwpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri6.jpg">
 </a></p>
 
 <p><a href="/images/sbwpri7.jpg">  
-<img src="/images/sbwpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/sbwpri8.jpg">  
-<img src="/images/sbwpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri8.jpg">
 </a></p>
 
 <p><a href="/images/sbwpri9.jpg">  
-<img src="/images/sbwpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +56,7 @@ third_nav_title: Schools
 #### **School History**
 Sembawang Primary School started as a single-session school with 925 students in 28 classes on 4 January 1999. It was the first school in the new residential town of Sembawang. The first principal, Mr Han Mok Puek, started the school with four heads of department (English, Math/Science, Mother Tongue and Discipline), a teaching staff of 35 teachers and a non-teaching staff of six. Ms Sugadha Anandan joined the school as its first vice-principal on 21 June 1999.
 
-The school was officially opened on 20 April 2002. By then, the, school’s enrolment had grown beyond 1,700. Guided by the school’s philosophy, ‘Every child, a winner’, since its inception, the school has provided students with a vast range of activities and programmes to help students realise and develop their talents and abilities to the fullest. 
+The school was officially opened on 20 April 2002. By then, the, school’s enrolment had grown beyond 1,700. Guided by the school’s philosophy, ‘Every child, a winner’, since its inception, the school has provided students with a vast range of activities and programmes to help students realise and develop their talents and abilities to the fullest.&nbsp;
 
 The school motto, ‘The Best From Me’, articulates the staff’s and students’ strive towards excellence and high quality in every endeavour. Underlying this achievement orientation is self-efficacy, tempered with a culture of care and sense of responsibility towards self, community, nation and environment.
 
@@ -79,14 +81,14 @@ Principals:<br>
 The Best from Me
 
 #### **School Crest**
-<img src="/images/sbwpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sbwpri1.png">
 
 The school crest embodies the commitment and aspirations of Sembawang Primary School. It comprises three colours – white, yellow and blue. The colour white represents the pure spirit of children; yellow reflects the vibrancy of school life; and blue symbolises the school’s steadfastness in enriching lives through education.
 
 The crest’s circular shape signifies unity and partnership among the diverse members of the school community. The star in the centre depicts the school’s belief that every child can achieve success, and the eight arms of the star represent the desired outcomes of primary education. The two concentric circles reflect the school’s emphasis on an all-rounded education, equipping students with ‘roots’ and ‘wings’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1gts-iXSBS_rzjVX7Ge5npchbuY3HQbD4/view?usp=share_link">**♫ Listen**</a>
 
 Learning is an adventure<br>
 Learning is fun<br>
