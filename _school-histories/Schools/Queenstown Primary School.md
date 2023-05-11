@@ -4,7 +4,7 @@ permalink: /school-histories/queenstown-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/queenstownpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/queenstownpri1.png">
 
 ### **Queenstown Primary School**
 [URL to website](https://www.queenstownpri.moe.edu.sg/)
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSJhMITiD5e46gZ2g7AfbTMwU1EeHSk2JfYAj2bbBcLC_jUwRL6W6J8Sy5zvl2tH-R9dZriowfE3e5v/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/queenstownpri2.jpg">  
-<img src="/images/queenstownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri2.jpg">
 </a></p>
 
 <p><a href="/images/queenstownpri3.jpg">  
-<img src="/images/queenstownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri3.jpg">
 </a></p>
 
 <p><a href="/images/queenstownpri4.jpg">  
-<img src="/images/queenstownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/queenstownpri5.jpg">  
-<img src="/images/queenstownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri5.jpg">
 </a></p>
 
 <p><a href="/images/queenstownpri6.jpg">  
-<img src="/images/queenstownpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/queenstownpri7.jpg">  
-<img src="/images/queenstownpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri7.jpg">
 </a></p>
 
 <p><a href="/images/queenstownpri8.jpg">  
-<img src="/images/queenstownpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri8.jpg">
 </a></p>
 
 <p><a href="/images/queenstownpri9.jpg">  
-<img src="/images/queenstownpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/queenstownpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -91,7 +92,7 @@ Principals:<br>
 Onward to Success
 
 #### **School Crest**
-<img src="/images/queenstownpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/queenstownpri1.png">
 
 The school crest comprises three jewels on a crown. It symbolises the fresh new dynamism of Queenstown Primary School. The three jewels represent the three primary schools – Mei Chin, Queenstown and Tanglin – that merged to form the crown, Queenstown Primary School.
 
@@ -100,7 +101,7 @@ The school colours are blue, green and red. Blue signifies peace and tranquillit
 The initials ‘QtPS’ represent the school’s three aspirations: quest for knowledge, progress, and strength of character.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1botV_J0bqVlqD6x4C3loGD5qEMp0GvpE/view?usp=share_link">**♫ Listen**</a>
 
 Queenstown Primary, onward to success,<br>
 Together, let's all do our best.<br>
