@@ -4,53 +4,54 @@ permalink: /school-histories/pei-tong-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/peitongpri1.png">
+<img src="/images/peitongpri1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Pei Tong Primary School**
-[URL to website](https://peitongpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://peitongpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCuLEhw1f5qLS4dOAb5OR_NcaWcAHkU9ZcNyzROfbQfydKADhquD2JfElDnAlhOQiYk3kZGHOp90IM/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/peitongpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri2.jpg">
+<img src="/images/peitongpri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/peitongpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri3.jpg">
+<img src="/images/peitongpri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/peitongpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri4.jpg">
+<img src="/images/peitongpri4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/peitongpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri5.jpg">
+<img src="/images/peitongpri5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/peitongpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri6.jpg">
+<img src="/images/peitongpri6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/peitongpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri7.jpg">
+<img src="/images/peitongpri7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/peitongpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri8.jpg">
+<img src="/images/peitongpri8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/peitongpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri9.jpg">
+<img src="/images/peitongpri9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/peitongpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peitongpri10.jpg">
+<img src="/images/peitongpri10.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -96,12 +97,12 @@ Principals:
 We look ahead
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/peitongpri1.png">
+<img src="/images/peitongpri1.png" style="width:20%;margin-right:15px;" align="left">
 
 The letters ‘PT’ stand for Pei Tong (培童), which means ‘nurturing the young’. The proximity of the letters represents the close rapport between students and teachers. It also signifies the close relationship between parents and teachers. The crest is an emblem of the importance of these intricate relationships in our endeavour to develop each child to his/her fullest potential. The motto of the school, ‘We look ahead’, reiterates the vision of the school’s founders – to nurture the young and prepare them for their roles in the future.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1RDCK90L9Bev-yc_vu1oQqRDnoWDNVKRE/view?usp=share_link">**♫ Listen**</a>
 
 Let us grow in strength and wisdom<br>
 With heart and soul, we do our best<br>
