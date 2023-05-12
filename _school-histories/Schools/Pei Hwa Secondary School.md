@@ -4,47 +4,48 @@ permalink: /school-histories/pei-hwa-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/peihwasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peihwasec1.jpg">
 
 ### **Pei Hwa Secondary School**
-[URL to website](https://peihwasec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://peihwasec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQ_1A3_b7idz4wyPIJrd0k9NKJmLVo92RXQAo3H-_ZYnncE5ylwuNGKkaWr0JKo7RDpc_J-hx4Di3B/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/peihwasec2.jpg">  
-<img src="/images/peihwasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec2.jpg">
 </a></p>
 
 <p><a href="/images/peihwasec3.jpg">  
-<img src="/images/peihwasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec3.jpg">
 </a></p>
 
 <p><a href="/images/peihwasec4.jpg">  
-<img src="/images/peihwasec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/peihwasec4.jpg">
 </a></p>
 
 <p><a href="/images/peihwasec5.jpg">  
-<img src="/images/peihwasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec5.jpg">
 </a></p>
 
 <p><a href="/images/peihwasec6.jpg">  
-<img src="/images/peihwasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/peihwasec7.jpg">  
-<img src="/images/peihwasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec7.jpg">
 </a></p>
 
 <p><a href="/images/peihwasec8.jpg">  
-<img src="/images/peihwasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec8.jpg">
 </a></p>
 
 <p><a href="/images/peihwasec9.jpg">  
-<img src="/images/peihwasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwasec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -81,12 +82,12 @@ Principals:<br>
 Nurturing Talents
 
 #### **School Crest**
-<img src="/images/peihwasec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peihwasec1.jpg">
 
 The logo comprises the Chinese characters of the school name, 培 (Pei) and 华 (Hwa), which means ‘nurturing talents’. Central to the logo is the figure representing a resilient Pei Hwa student who is happy and confident as he or she overcomes each obstacle. The figure is upright (as shown by the 立 character at the top of the figure’s head) and grounded (as shown by the 土 character) in values. An education in Pei Hwa has enabled the individual to embrace the world of knowledge with open arms and to push beyond current boundaries.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/17okDE0Bk0-qoJPvRFNXgx3uw3tKC1Njb/view?usp=share_link">**♫ Listen**</a>
 
 In Pei Hwa Secondary School<br>
 We are the pride of the community<br>
