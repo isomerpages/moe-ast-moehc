@@ -4,17 +4,17 @@ permalink: /school-histories/owen-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/owensch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/owensch1.png">
 
 ### **Owen School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKxvbuohmP3vkk38R5mvoiAJAf6ZpvEJQv1ya00RqhYBKGUu-Qm7lCZWberz-9X3_oJV5ERhC1luff/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/owensch2.jpg">  
-<img src="/images/owensch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/owensch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -36,13 +36,14 @@ In 1988, Owen School closed. Its remaining students were absorbed by Cambridge P
 _Bekerja_
 
 #### **School Crest**
-<img src="/images/owensch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/owensch1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>	
+
 We the pupils of Owen<br>
 Owen the exemplary<br>
 Our school is like a family<br>
@@ -55,4 +56,4 @@ As years go by the memories remain<br>
 As you pass by this Owen road<br>
 The happy school day’s memories pop up in our minds
 
-**Source:** Mr Hassan Masod (OM, Owen School \[1960-1965\])
+**Source:**&nbsp;Mr Hassan Masod (OM, Owen School \[1960-1965\])
