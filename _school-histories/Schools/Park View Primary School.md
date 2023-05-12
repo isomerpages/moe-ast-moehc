@@ -4,47 +4,48 @@ permalink: /school-histories/park-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/parkviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/parkviewpri1.png">
 
 ### **Park View Primary School**
-[URL to website](https://parkviewpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://parkviewpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYCiy99qxa3EZ4duVEvZRqvPZsQtLlPzarz1OSpfDB1TyrJtZCyIXMwBHZrXWnZ9OVyNRZevCOo9dm/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/parkviewpri2.jpg">  
-<img src="/images/parkviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri2.jpg">
 </a></p>
 
 <p><a href="/images/parkviewpri3.jpg">  
-<img src="/images/parkviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri3.jpg">
 </a></p>
 
 <p><a href="/images/parkviewpri4.jpg">  
-<img src="/images/parkviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/parkviewpri5.jpg">  
-<img src="/images/parkviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri5.jpg">
 </a></p>
 
 <p><a href="/images/parkviewpri6.jpg">  
-<img src="/images/parkviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri6.jpg">
 </a></p>
 
 <p><a href="/images/parkviewpri7.jpg">  
-<img src="/images/parkviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri7.jpg">
 </a></p>
 
 <p><a href="/images/parkviewpri8.jpg">  
-<img src="/images/parkviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri8.jpg">
 </a></p>
 
 <p><a href="/images/parkviewpri9.jpg">  
-<img src="/images/parkviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parkviewpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -82,13 +83,13 @@ Principals:<br>
 Ambitio Via Virtus (Ambition Through All the Excellent Qualities of Man)
 
 #### **School Crest**
-<img src="/images/parkviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
-<img src="/images/parkviewpricrest.jpg" style="width:60%;margin-left:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/parkviewpri1.png">
+<img align="left" style="width:60%;margin-left:15px;" src="/images/parkviewpricrest.jpg">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1ljSRIOBA2IRQFATNhFNZJ2c3DvZP85GB/view?usp=share_link">**♫ Listen**</a>
 
 Park View you are special,<br>
 You are one of the best.<br>
