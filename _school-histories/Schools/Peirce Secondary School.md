@@ -4,33 +4,34 @@ permalink: /school-histories/peirce-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/peircesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peircesec1.png">
 
 ### **Peirce Secondary School**
-[URL to website](https://peircesec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://peircesec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLBIJN6JZzhAaR1iYZZdHtp5gOxCGWK7zhT3TfQbTxscnjlAyoXWkitkqFJCgKq-gdBFnQf3pZ2abn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/peircesec2.jpg">  
-<img src="/images/peircesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec2.jpg">
 </a></p>
 
 <p><a href="/images/peircesec3.jpg">  
-<img src="/images/peircesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec3.jpg">
 </a></p>
 
 <p><a href="/images/peircesec4.jpg">  
-<img src="/images/peircesec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/peircesec4.jpg">
 </a></p>
 
 <p><a href="/images/peircesec5.jpg">  
-<img src="/images/peircesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec5.jpg">
 </a></p>
 
 <p><a href="/images/peircesec6.jpg">  
-<img src="/images/peircesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -67,12 +68,12 @@ Principals:<br>
 Fax Mentis Incendium Gloriae – The Passion for Glory is a Torch to the Mind
 
 #### **School Crest**
-<img src="/images/peircesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peircesec1.png">
 
 The school crest is shaped like a torch. The flame ignites the minds of students – a reference to the school motto, ‘Fax Mentis Incendium Gloriae’, which is Latin for ‘The Passion for Glory is a Torch to the Mind’. Students of Peirce strive for glory and excellence, which will spur them to be innovative, creative and courageous. Within the triangle are the school initials, ‘PS’. The triangle also symbolises the tripartite efforts of parents, students and teachers to help students succeed.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1wP4t6rJohGwsRJ7-ZFTqPHmZLbXQqilE/view?usp=share_link">**♫ Listen**</a>
 
 Fax Mentis Incendium Gloriae<br>
 The passion for glory is the torch to the mind<br>
