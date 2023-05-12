@@ -4,47 +4,48 @@ permalink: /school-histories/pei-chun-public-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/peichunpublicsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peichunpublicsch1.png">
 
 ### **Pei Chun Public School**
-[URL to website](https://peichunpublic.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://peichunpublic.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh_byJ2cyA3e7SRrka-BNhwEBTbtw7JXQ_EHAWgV3_1OK85yKyc7riOdvkfLFmr03M544Fa-GwENED/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/peichunpublicsch2.jpg">  
-<img src="/images/peichunpublicsch2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch2.jpg">
 </a></p>
 
 <p><a href="/images/peichunpublicsch3.jpg">  
-<img src="/images/peichunpublicsch3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch3.jpg">
 </a></p>
 
 <p><a href="/images/peichunpublicsch4.jpg">  
-<img src="/images/peichunpublicsch4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch4.jpg">
 </a></p>
 
 <p><a href="/images/peichunpublicsch5.jpg">  
-<img src="/images/peichunpublicsch5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/peichunpublicsch6.jpg">  
-<img src="/images/peichunpublicsch6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch6.jpg">
 </a></p>
 
 <p><a href="/images/peichunpublicsch7.jpg">  
-<img src="/images/peichunpublicsch7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch7.jpg">
 </a></p>
 
 <p><a href="/images/peichunpublicsch8.jpg">  
-<img src="/images/peichunpublicsch8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch8.jpg">
 </a></p>
 
 <p><a href="/images/peichunpublicsch9.jpg">  
-<img src="/images/peichunpublicsch9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ With its unique Chinese culture and rich tradition as a Chinese-medium school in
 
 After the completion of PRIME upgrading in 2001, the school moved to its present location at Toa Payoh Lorong 7. The school was selected to be the South Zone Centre of Excellence for Chinese Language in 2005 and the South Zone Centre of Excellence for Sports in 2007.
 
-From 2017 to 2019, the school undergone the PERI upgrading so as to better support the holistic development of its students. In 2018, the school celebrated its 85th anniversary at the holding site, at 580 Toa Payoh East. The school returned to Toa Payoh Lorong 7 in 2019 and became a single-session school in 2020.  
+From 2017 to 2019,&nbsp;the school&nbsp;undergone the PERI upgrading so as to better support the holistic development of its students. In 2018, the school celebrated its 85th anniversary&nbsp;at the holding site, at 580 Toa Payoh East. The school&nbsp;returned&nbsp;to Toa Payoh Lorong 7 in 2019 and became a single-session school in 2020.  
   
 Principals:<br>
 \- 林明卿 (1933–1934)<br>
@@ -96,30 +97,30 @@ Gratitude<br>
 饮水思源
 
 #### **School Crest**
-<img src="/images/peichunpublicsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peichunpublicsch1.png">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1_GUCMJ4sFZb2AdSVm8Qpdc9nie_dC9gg/view?usp=share_link">**♫ Listen**</a>	
 
-我     们    培    群    是     文     化       的     先      锋，<br>
-wo   men   pei   qun   shi   wen    hua      de    xian   feng ,<br>
-我     们     有     建    国      兴    家   的     重      任。<br>
-wo   men  you   jian  guo   xing  jia   de  zhong  ren.<br>
-发    奋     建    设，    努  力  前     进。<br>
-fa   fen   jian   she,     nu  li  qian   jin.<br>
-为       正     义   和   平，    四 大   民   族，<br>
-wei   zheng  yi   he  ping ,   si  da  min  zu,<br>
-要     不   惜   我    们   的       生      命。<br>
-yao   bu   xi   wo  men  de   sheng  ming.<br>
-为     学    是   为  己，   同    时    也   为   人。<br>
-wei   xue   shi  wei  ji ,   tong  shi   ye  wei  ren.<br>
-礼 义   廉   耻    是    待   人    持   己  的   四  大   纲 领。<br>
-li   yi  lian  chi   shi   dai  ren  chi   ji   de   si   da   gang  ling.<br>
-为      始     为        终，<br>
-wei    shi    wei    zhong,<br>
-我     们       要        刻   苦   坚    忍，<br>
-wo   men    yao      ke   ku  jian   ren,<br>
-大   家    携     手       向      前    进。<br>
-da   jia   xie   shou  xiang  qian  jin.
+我&nbsp; &nbsp; &nbsp;们&nbsp; &nbsp; 培&nbsp; &nbsp; 群&nbsp; &nbsp; 是&nbsp; &nbsp; &nbsp;文&nbsp; &nbsp; &nbsp;化&nbsp; &nbsp; &nbsp; &nbsp;的&nbsp; &nbsp; &nbsp;先&nbsp; &nbsp; &nbsp; 锋，<br>
+wo&nbsp; &nbsp;men&nbsp; &nbsp;pei&nbsp; &nbsp;qun&nbsp; &nbsp;shi&nbsp; &nbsp;wen&nbsp; &nbsp; hua&nbsp; &nbsp; &nbsp; de&nbsp; &nbsp; xian&nbsp; &nbsp;feng ,<br>
+我&nbsp; &nbsp; &nbsp;们&nbsp; &nbsp; &nbsp;有&nbsp; &nbsp; &nbsp;建&nbsp; &nbsp; 国&nbsp; &nbsp; &nbsp; 兴&nbsp; &nbsp; 家&nbsp; &nbsp;的&nbsp; &nbsp; &nbsp;重&nbsp; &nbsp; &nbsp; 任。<br>
+wo&nbsp; &nbsp;men&nbsp; you&nbsp; &nbsp;jian&nbsp; guo&nbsp; &nbsp;xing&nbsp; jia&nbsp; &nbsp;de&nbsp; zhong&nbsp; ren.<br>
+发&nbsp; &nbsp; 奋&nbsp; &nbsp; &nbsp;建&nbsp; &nbsp; 设，&nbsp; &nbsp; 努&nbsp; 力&nbsp; 前&nbsp; &nbsp; &nbsp;进。<br>
+fa&nbsp; &nbsp;fen&nbsp; &nbsp;jian&nbsp; &nbsp;she,&nbsp; &nbsp; &nbsp;nu&nbsp; li&nbsp; qian&nbsp; &nbsp;jin.<br>
+为&nbsp; &nbsp; &nbsp; &nbsp;正&nbsp; &nbsp; &nbsp;义&nbsp; &nbsp;和&nbsp; &nbsp;平，&nbsp; &nbsp; 四 大&nbsp; &nbsp;民&nbsp; &nbsp;族，<br>
+wei&nbsp; &nbsp;zheng&nbsp; yi&nbsp; &nbsp;he&nbsp; ping ,&nbsp; &nbsp;si&nbsp; da&nbsp; min&nbsp; zu,<br>
+要&nbsp; &nbsp; &nbsp;不&nbsp; &nbsp;惜&nbsp; &nbsp;我&nbsp; &nbsp; 们&nbsp; &nbsp;的&nbsp; &nbsp; &nbsp; &nbsp;生&nbsp; &nbsp; &nbsp; 命。<br>
+yao&nbsp; &nbsp;bu&nbsp; &nbsp;xi&nbsp; &nbsp;wo&nbsp; men&nbsp; de&nbsp; &nbsp;sheng&nbsp; ming.<br>
+为&nbsp; &nbsp; &nbsp;学&nbsp; &nbsp; 是&nbsp; &nbsp;为&nbsp; 己，&nbsp; &nbsp;同&nbsp; &nbsp; 时&nbsp; &nbsp; 也&nbsp; &nbsp;为&nbsp; &nbsp;人。<br>
+wei&nbsp; &nbsp;xue&nbsp; &nbsp;shi&nbsp; wei&nbsp; ji ,&nbsp; &nbsp;tong&nbsp; shi&nbsp; &nbsp;ye&nbsp; wei&nbsp; ren.<br>
+礼 义&nbsp; &nbsp;廉&nbsp; &nbsp;耻&nbsp; &nbsp; 是&nbsp; &nbsp; 待&nbsp; &nbsp;人&nbsp; &nbsp; 持&nbsp; &nbsp;己&nbsp; 的&nbsp; &nbsp;四&nbsp; 大&nbsp; &nbsp;纲 领。<br>
+li&nbsp; &nbsp;yi&nbsp; lian&nbsp; chi&nbsp; &nbsp;shi&nbsp; &nbsp;dai&nbsp; ren&nbsp; chi&nbsp; &nbsp;ji&nbsp; &nbsp;de&nbsp; &nbsp;si&nbsp; &nbsp;da&nbsp; &nbsp;gang&nbsp; ling.<br>
+为&nbsp; &nbsp; &nbsp; 始&nbsp; &nbsp; &nbsp;为&nbsp; &nbsp; &nbsp; &nbsp; 终，<br>
+wei&nbsp; &nbsp; shi&nbsp; &nbsp; wei&nbsp; &nbsp; zhong,<br>
+我&nbsp; &nbsp; &nbsp;们&nbsp; &nbsp; &nbsp; &nbsp;要&nbsp; &nbsp; &nbsp; &nbsp; 刻&nbsp; &nbsp;苦&nbsp; &nbsp;坚&nbsp; &nbsp; 忍，<br>
+wo&nbsp; &nbsp;men&nbsp; &nbsp; yao&nbsp; &nbsp; &nbsp; ke&nbsp; &nbsp;ku&nbsp; jian&nbsp; &nbsp;ren,<br>
+大&nbsp; &nbsp;家&nbsp; &nbsp; 携&nbsp; &nbsp; &nbsp;手&nbsp; &nbsp; &nbsp; &nbsp;向&nbsp; &nbsp; &nbsp; 前&nbsp; &nbsp; 进。<br>
+da&nbsp; &nbsp;jia&nbsp; &nbsp;xie&nbsp; &nbsp;shou&nbsp; xiang&nbsp; qian&nbsp; jin.
