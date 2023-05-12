@@ -4,20 +4,21 @@ permalink: /school-histories/parry-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/parrypri1.png" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/parrypri1.png">
 
 ### **Parry Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRMCKib8Rhc58OreGxc82nHlaogt9ztz3CF-qT29BON6MRQbSCDag36zaOP_F8YgIwg3f8x4gyo6iZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/parrypri2.jpg">  
-<img src="/images/parrypri2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parrypri2.jpg">
 </a></p>
 
 <p><a href="/images/parrypri3.jpg">  
-<img src="/images/parrypri3.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/parrypri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -47,13 +48,15 @@ In 2007, Parry Primary School merged with Xinghua Primary School.
 Perpetuate, Progress And Success
 
 #### **School Crest**
-<img src="/images/parrypri1.png" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/parrypri1.png">
 
 The crest consisted of a simple stylised design of the school name, “Parry”.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We,&nbsp;to Parry belong,<br>
 Blessed with a spirit strong<br>
 Committed, let us be<br>
