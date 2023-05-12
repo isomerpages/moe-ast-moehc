@@ -4,47 +4,48 @@ permalink: /school-histories/outram-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/outramsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/outramsec1.jpg">
 
 ### **Outram Secondary School**
-[URL to website](http://outramsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://outramsec.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSv1e-nRv4xk9ijGqnjFKP9R8_6wAhehIOiUqXTv5Jd2e0ZB3GNiRMZw9jvzwnzippL1KFoRy0evzOd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/outramsec2.jpg">  
-<img src="/images/outramsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec2.jpg">
 </a></p>
 
 <p><a href="/images/outramsec3.jpg">  
-<img src="/images/outramsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec3.jpg">
 </a></p>
 
 <p><a href="/images/outramsec4.jpg">  
-<img src="/images/outramsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec4.jpg">
 </a></p>
 
 <p><a href="/images/outramsec5.jpg">  
-<img src="/images/outramsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/outramsec6.jpg">  
-<img src="/images/outramsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec6.jpg">
 </a></p>
 
 <p><a href="/images/outramsec7.jpg">  
-<img src="/images/outramsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec7.jpg">
 </a></p>
 
 <p><a href="/images/outramsec8.jpg">  
-<img src="/images/outramsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec8.jpg">
 </a></p>
 
 <p><a href="/images/outramsec9.jpg">  
-<img src="/images/outramsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,9 +55,9 @@ Outram Road School was established on 26 February 1906. In 1939, the school was 
 
 On 1 January 1954, Outram School became a secondary school with a four-year Commerce course leading to the School Certificate of Commercial Education of the London Chamber of Commerce. In 1958, Outram School started admitting girls and became a co-educational school. In 1961, the school was renamed Outram Secondary School. In 1968, the school relocated to its current premises at York Hill, off Chin Swee Road. In 1969, the school began focusing on commercial education for its upper secondary levels.
 
-The school’s swimming pool complex was completed and officially opened in 1977. In 1982, the school celebrated its 75th anniversary and commemorated it with the book, _75 Years Today: Outram Secondary School_. Outram Secondary School moved to a temporary site at 10 Winstedt Road in June 1994 to make way for the redevelopment of new premises at York Hill.
+The school’s swimming pool complex was completed and officially opened in 1977. In 1982, the school celebrated its 75th anniversary and commemorated it with the book,&nbsp;_75 Years Today: Outram Secondary School_. Outram Secondary School moved to a temporary site at 10 Winstedt Road in June 1994 to make way for the redevelopment of new premises at York Hill.
 
-In 1996, Outram Secondary School celebrated its 90th anniversary. In June 1998, the school returned to its present premises. In 2006, the school celebrated its centennial anniversary and launched the commemorative book, _Labor Conquers All – 100 years of Outram Secondary School_. In 2016, Outram Secondary School celebrated its 110th anniversary.
+In 1996, Outram Secondary School celebrated its 90th anniversary. In June 1998, the school returned to its present premises. In 2006, the school celebrated its centennial anniversary and launched the commemorative&nbsp;book,&nbsp;_Labor&nbsp;Conquers All – 100 years of Outram Secondary School_. In 2016, Outram Secondary School celebrated its 110th anniversary.
 
 The school’s Applied Learning Programme focuses on business and enterprise, while its Learning for Life Programme is in sports and outdoor education. The latter aims to imbue the value of ‘sports for life’ in its students.
 
@@ -128,12 +129,12 @@ Labor Omnia Vincit<br>
 Latin for ‘Labour Conquers All’
 
 #### **School Crest**
-<img src="/images/outramsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/outramsec1.jpg">
 
-The book symbolises academic learning – to instruct, impart knowledge, teach and learn. The lion represents the school’s association with Singapore, the Lion City. The castle signifies a tower of learning; a place where all can study; a self-contained unit; and a place where unity, cooperation and teamwork produce a community (tower) of strength. The lion and the castle together symbolise Outram as one of the centres of learning in Singapore.
+The book symbolises academic learning – to instruct, impart knowledge, teach and learn.&nbsp;The lion represents the school’s association with Singapore, the Lion City.&nbsp;The castle signifies a tower of learning; a place where all can study; a self-contained unit; and a place where unity, cooperation and teamwork produce a community (tower) of strength. The lion and the castle together symbolise Outram as one of the centres of learning in Singapore.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1dxF-ywLKqbBt8US3XTfAWqV37f4k6i57/view?usp=share_link">**♫ Listen**</a>
 
 We will go marching on together<br>
 True to our Alma Mater,<br>
