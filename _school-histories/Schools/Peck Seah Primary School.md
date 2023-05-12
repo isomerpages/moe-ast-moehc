@@ -4,33 +4,33 @@ permalink: /school-histories/peck-seah-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/peckseahpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peckseahpri1.jpg">
 
 ### **Peck Seah Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSeJ__cqWS7T65rqisVK9R2rHirhSgH4RH5X0pZES8gfmox_6XjHPBQnh42MPSyyYAp1p-bDYuFRaAl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/peckseahpri2.jpg">  
-<img src="/images/peckseahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peckseahpri2.jpg">
 </a></p>
 
 <p><a href="/images/peckseahpri3.jpg">  
-<img src="/images/peckseahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peckseahpri3.jpg">
 </a></p>
 
 <p><a href="/images/peckseahpri4.jpg">  
-<img src="/images/peckseahpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peckseahpri4.jpg">
 </a></p>
 
 <p><a href="/images/peckseahpri5.jpg">  
-<img src="/images/peckseahpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peckseahpri5.jpg">
 </a></p>
 
 <p><a href="/images/peckseahpri6.jpg">  
-<img src="/images/peckseahpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/peckseahpri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -53,14 +53,9 @@ Principals:<br>
 |
 
 #### **School Motto**
-_Teras Maju_ / Press on
+_Teras Maju_&nbsp;/ _Press on_&nbsp;
 
 #### **School Crest**
-<img src="/images/peckseahpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
-
-\-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/peckseahpri1.jpg">
 
 <br clear="left">
-
-#### **School Song**
-\-
