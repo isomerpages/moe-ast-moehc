@@ -4,16 +4,17 @@ permalink: /school-histories/sembawang-hills-estate-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/sembawanghillsestatesch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sembawanghillsestatesch1.jpg">
 
 ### **Sembawang Hills Estate School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWSLIeoRyAY5HwVpoMYWD00c6c0dR0PXEjB8RqRukYqt1yYdA_5tPfs5kdmpVBCMTfIhM5WuP-4fLQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/sembawanghillsestatesch2.jpg">  
-<img src="/images/sembawanghillsestatesch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/sembawanghillsestatesch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,11 +36,6 @@ The school was closed in 1992 to make way for residential housing estates.
 Work for Success
 
 #### **School Crest**
-<img src="/images/sembawanghillsestatesch1.jpg" style="width:20%;margin-right:15px;" align = "left">
-
-\-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/sembawanghillsestatesch1.jpg">
 
 <br clear="left">
-
-#### **School Song**
-\-

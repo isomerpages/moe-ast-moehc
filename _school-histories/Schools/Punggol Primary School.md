@@ -4,57 +4,58 @@ permalink: /school-histories/punggol-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/punggolpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolpri1.png">
 
 ### **Punggol Primary School**
-[URL to website](https://punggolpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://punggolpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMNzpXPuGz33kBq60yqfFOznw7QUmB4ktVD_tYpSpgOWAlgo9vXDxDvhGfHINhT2Ozcm-4zr2AfJeH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/punggolpri2.jpg">  
-<img src="/images/punggolpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri2.jpg">
 </a></p>
 
 <p><a href="/images/punggolpri3.jpg">  
-<img src="/images/punggolpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri3.jpg">
 </a></p>
 
 <p><a href="/images/punggolpri4.jpg">  
-<img src="/images/punggolpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolpri5.jpg">  
-<img src="/images/punggolpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri5.jpg">
 </a></p>
 
 <p><a href="/images/punggolpri6.jpg">  
-<img src="/images/punggolpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri6.jpg">
 </a></p>
 
 <p><a href="/images/punggolpri7.jpg">  
-<img src="/images/punggolpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolpri8.jpg">  
-<img src="/images/punggolpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri8.jpg">
 </a></p>
 
 <p><a href="/images/punggolpri9.jpg">  
-<img src="/images/punggolpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Punggol Primary School was established in January 1995, sited at the former Hai Sing Girls’ High School. In March 1995, the school moved to its present location at Hougang Avenue 8. The school completed its PRIME upgrading in 2004 and PERI upgrading in 2018. 
+Punggol Primary School was established in January 1995, sited at the former Hai Sing Girls’ High School. In March 1995, the school moved to its present location at Hougang Avenue 8. The school completed its PRIME upgrading in 2004 and PERI upgrading in 2018.&nbsp;
 
-In 2005, Punggol Primary School was accorded the North 3 Centre of Excellence in Science. In 2015, the school transited to single-session, and was accorded the Learning for Life Programme in ‘Social Emotional Learning and Character Development Through Active Participation in Sports’, or STARS. In 2016, the school was accorded the Applied Learning Programme, ‘GreeNovation @ PPS’. The main aim of ALP is to develop the students to think collaboratively and implement innovative solutions for a sustainable future. 
+In 2005, Punggol Primary School was accorded the North 3 Centre of Excellence in Science. In 2015, the school transited to single-session, and was accorded the Learning for Life Programme in ‘Social Emotional Learning and Character Development Through Active Participation in Sports’, or STARS. In 2016, the school was accorded the Applied Learning Programme, ‘GreeNovation @ PPS’. The main aim of ALP is to develop the students to think collaboratively and implement innovative solutions for a sustainable future.&nbsp;
 
 Principals:<br>
 \- Ms Elizabeth Chan (1995–1999)<br>
@@ -79,7 +80,7 @@ Principals:<br>
 Pride in Performance
 
 #### **School Crest**
-<img src="/images/punggolpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolpri1.png">
 
 The rectangular shape of the crest symbolises a well-balanced education built on a firm foundation.<br>
 The two blue triangles symbolise unity in harmony and sincerity.<br>
@@ -87,7 +88,7 @@ The colour yellow represents integrity and moral courage in the fulfilment of du
 The colour green in the initials ‘PPS’ signifies growth and vitality.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1p0qrofr_ckUdj7MVJtDnhTEYJ9f1TTFd/view?usp=share_link">**♫ Listen**</a>
 
 Here we are in Punggol Primary<br>
 Always with a smile<br>

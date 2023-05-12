@@ -4,41 +4,42 @@ permalink: /school-histories/river-valley-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rivervalleypri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleypri1.jpg">
 
 ### **River Valley Primary School**
-[URL to website](https://rivervalleypri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://rivervalleypri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY0mTd00woI2AJZKjNRv1OUt1mwx2lhlCyyYOjGi7wN5UuZF5VukER9nH1MjOtTD7iCQr_3l9U3KlA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rivervalleypri2.jpg">  
-<img src="/images/rivervalleypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleypri2.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleypri4.jpg">  
-<img src="/images/rivervalleypri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/rivervalleypri4.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleypri3.jpg">  
-<img src="/images/rivervalleypri3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/rivervalleypri3.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleypri5.jpg">  
-<img src="/images/rivervalleypri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleypri5.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleypri7.jpg">  
-<img src="/images/rivervalleypri7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/rivervalleypri7.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleypri6.jpg">  
-<img src="/images/rivervalleypri6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/rivervalleypri6.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleypri8.jpg">  
-<img src="/images/rivervalleypri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleypri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -70,7 +71,7 @@ Principals:<br>
 Strive for the Best
 
 #### **School Crest**
-<img src="/images/rivervalleypri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleypri1.jpg">
 
 The red, green and gold colours give a vivid identity of the school. Red depicts ambition and strength. Green stands for peace and harmony. Gold, on which the other colours rest, reflects richness and boldness. The brightness of the gold resembles the rays of the sun.
 
@@ -83,7 +84,7 @@ The flame signifies the everlasting thirst for knowledge and the unceasing desir
 The letters ‘R.V.P.S.’ stand for River Valley Primary School.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1xbFAvguOAG3AXGf1WREd5rbdcIaQfE-q/view?usp=share_link">**♫ Listen**</a>	
 
 Here we are at school to study and to play<br>
 To meet our friends and work and do our part<br>

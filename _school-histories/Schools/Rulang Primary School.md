@@ -4,49 +4,50 @@ permalink: /school-histories/rulang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rulangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rulangpri1.png">
 
 ### **Rulang Primary School**
-[URL to website](https://www.rulangpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.rulangpri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2_2UMC0JAWtIeKbWDTkykLtDuIqpgfsgyyyg_vFz9uYlr44KPK091H9ugsQ6zUhem7T_p_hteSKhT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rulangpri2.jpg">  
-<img src="/images/rulangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri2.jpg">
 </a></p>
 
 <p><a href="/images/rulangpri3.jpg">  
-<img src="/images/rulangpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri3.jpg">
 </a></p>
 
 <p><a href="/images/rulangpri4.jpg">  
-<img src="/images/rulangpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rulangpri5.jpg">  
-<img src="/images/rulangpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri5.jpg">
 </a></p>
 
 <p><a href="/images/rulangpri6.jpg">  
-<img src="/images/rulangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri6.jpg">
 </a></p>
 
 <p><a href="/images/rulangpri7.jpg">  
-<img src="/images/rulangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rulangpri8.jpg">  
-<img src="/images/rulangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri8.jpg">
 </a></p>
 
 <p><a href="/images/rulangpri9.jpg">  
-<img src="/images/rulangpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +55,7 @@ third_nav_title: Schools
 #### **School History**
 Rulang Primary School started in 1930 as the Chinese-medium Joo Long Public School, located in a shophouse at 13½th milestone Jurong Road. It began as a small school to provide basic education for children from a village. In 1934, Joo Long Public School moved to Kee San Estate in Jalan Bahar to meet the need for bigger premises. Students were taught English as a second language. The school was closed during the Japanese Occupation from 1941 to 1945 and left in ruins. In 1950, the school celebrated its 21st anniversary by moving into a newly built spacious school on Upper Jurong Road.
 
-In 1957, Joo Long Public School became a government-aided school. In 1959, the school expanded to cater to the rise in population in Jurong. In 1979, pre-primary classes started in the school. In 1981, the school celebrated its 50th anniversary with a grand concert and dinner attended by over a thousand guests. 
+In 1957, Joo Long Public School became a government-aided school. In 1959, the school expanded to cater to the rise in population in Jurong. In 1979, pre-primary classes started in the school. In 1981, the school celebrated its 50th anniversary with a grand concert and dinner attended by over a thousand guests.&nbsp;
 
 In 1984, Joo Long Public School was renamed Rulang Primary School when it became a government school. In the following year, Rulang Primary relocated to its present premises at 6 Jurong West Street 52. The school was officially opened on 21 November 1986.
 
@@ -103,14 +104,14 @@ Principals:<br>
 Morally Upright
 
 #### **School Crest**
-<img src="/images/rulangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rulangpri1.png">
 
 The school colours are red, blue and yellow. The colour red symbolises enthusiasm, blue for gentleness and yellow for brilliance. The rising sun on the horizon symbolises progress. The school crest symbolises the school’s rise with enthusiasm towards a brilliant future.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1MqR8aLNXxFsXk8TwfcAasoLbJToXk8Gz/view?usp=share_link">**♫ Listen**</a>
 
 Hail, Alma mater Rulang School<br>
 May you stand like an evergreen<br>

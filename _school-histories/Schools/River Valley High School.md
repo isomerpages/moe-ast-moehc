@@ -4,49 +4,50 @@ permalink: /school-histories/river-valley-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rivervalleyhigh1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleyhigh1.jpg">
 
 ### **River Valley High School**
-[URL to website](https://rivervalleyhigh.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://rivervalleyhigh.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqhU7CvbqjKNIZuAmF-KzsvwsBlo6SvSfylWP33K9JQTaBYYx4vDhwBbapInEv67eO0Oiy5L9QskYS/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rivervalleyhigh2.jpg">  
-<img src="/images/rivervalleyhigh2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh2.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleyhigh3.jpg">  
-<img src="/images/rivervalleyhigh3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh3.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleyhigh4.jpg">  
-<img src="/images/rivervalleyhigh4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rivervalleyhigh5.jpg">  
-<img src="/images/rivervalleyhigh5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh5.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleyhigh6.jpg">  
-<img src="/images/rivervalleyhigh6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh6.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleyhigh7.jpg">  
-<img src="/images/rivervalleyhigh7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rivervalleyhigh8.jpg">  
-<img src="/images/rivervalleyhigh8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh8.jpg">
 </a></p>
 
 <p><a href="/images/rivervalleyhigh9.jpg">  
-<img src="/images/rivervalleyhigh9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleyhigh9.jpg">
 </a></p>
 
 <br clear="left">
@@ -91,13 +92,15 @@ Principals:<br>
 The school upholds virtues and contributes to society. Through personal growth, it guides others in the quest for knowledge and wisdom.
 
 #### **School Crest**
-<img src="/images/rivervalleyhigh1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleyhigh1.jpg">
 
 The colour red symbolises radiance, progress and vitality. Blue symbolises steadfastness, graciousness and serenity, while white symbolises purity and receptiveness to innovation.
 
 <br clear="left">
 
 #### **School Song**
+<a target="\_blank" href="https://drive.google.com/file/d/1uzZFwbfNMZczcCBuIfGiqq33VlKIIXqX/view?usp=share_link">**♫ Listen**</a>	
+
 海云缦缦 碧波荡荡<br>
 赤道绿洲 有我学堂<br>
 春风化雨 桃李成行<br>

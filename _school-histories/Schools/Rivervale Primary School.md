@@ -4,45 +4,46 @@ permalink: /school-histories/river-vale-pri-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rivervalepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalepri1.png">
 
 ### **Rivervale Primary School**
-[URL to website](https://rivervalepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://rivervalepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPH-lHMR3ppYLCljHTEOe7o0F-yzzVPHzliOk7yyBvcBcDMfT50Su6NofpNkY4rfk7RWIty9J-X93Q/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rivervalepri2.jpg">  
-<img src="/images/rivervalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri2.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri3.jpg">  
-<img src="/images/rivervalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri3.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri4.jpg">  
-<img src="/images/rivervalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri4.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri5.jpg">  
-<img src="/images/rivervalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri5.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri6.jpg">  
-<img src="/images/rivervalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri6.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri7.jpg">  
-<img src="/images/rivervalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri7.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri8.jpg">  
-<img src="/images/rivervalepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri8.jpg">
 </a></p>
 
 <p><a href="/images/rivervalepri9.jpg">  
-<img src="/images/rivervalepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalepri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -75,17 +76,17 @@ Principals:<br>
 |
 
 #### **School Motto**
-Succeed & Excel
+Succeed &amp; Excel
 
 #### **School Crest**
-<img src="/images/rivervalepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalepri1.png">
 
 Book: knowledge and wisdom<br>
 Chinese characters: greatness through learning<br>
 Five rings: positive attitude, hardworking, caring, loyalty and teamwork
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1lppwrjWAoDXKX6bkWYmXWZKJcYAnuNqT/view?usp=share_link">**♫ Listen**</a>	
 
 Teachers leading us at Rivervale<br>
 Guiding us to succeed and excel<br>

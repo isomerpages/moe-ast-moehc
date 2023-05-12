@@ -4,7 +4,7 @@ permalink: /school-histories/siglap-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/siglappri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/siglappri1.png">
 
 ### **Siglap Primary School**
 
@@ -12,8 +12,9 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhEESDoV0nsrd5Vv7BK2BmSDZX_ZnBiWJV4Zs7ohCTkjyJ5qoO8Cnb3b88fzBfrCOqoWnX-auNn2JR/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="/images/siglappri2.jpg">  
-<img src="/images/siglappri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/siglappri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -23,11 +24,11 @@ Established in 1956 and located at 10 La Salle Street, Siglap Primary School was
 
 Started with 11 classes, seven more classes were added to the afternoon session in 1957 as the student population grew. Over time, the school stabilised with 28 classes with 1200 students. Siglap Primary School had 40 teachers and seven non-teaching staff.
 
-Over the years, the school was known for sporting activities and track & field events such as softball, where students competed at the division, zonal and national levels. Students also participated in various extra-curricular activities, including art and craft competitions.
+Over the years, the school was known for sporting activities and track &amp; field events such as softball, where students competed at the division, zonal and national levels. Students also participated in various extra-curricular activities, including art and craft competitions.
 
 In 1958, the Cub and Brownie movements were carried out in school and the students were able to conduct school camps during the holidays on a regular basis.
 
-The school had 36 teachers and six non-teaching staff in 1981. In 1990, Siglap Primary School closed and most of the remaining students were transferred to Opera Estate Primary School. From 1990 to 2009, the school’s building was used by the Associations for Persons with Special Needs as the Katong Special School. Between 2010 and 2020, the site hosted other private companies. Since 2021, the building has been used by the Kampung Siglap Lifeskills Training & Retreat Centre.  
+The school had 36 teachers and six non-teaching staff in 1981. In 1990, Siglap Primary School closed and most of the remaining students were transferred to Opera Estate Primary School. From 1990 to 2009, the school’s building was used by the Associations for Persons with Special Needs as the Katong Special School. Between 2010 and 2020, the site hosted other private companies. Since 2021, the building has been used by the Kampung Siglap Lifeskills Training &amp; Retreat Centre.&nbsp;&nbsp;
 
 Principals:<br>
 \- Mrs Szto Sim Chuan (1956-1964)<br>
@@ -50,9 +51,8 @@ Principals:<br>
 Strive and Persevere to Succeed
 
 #### **School Crest**
-<img src="/images/siglappri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/siglappri1.png">
 
-\-
 
 <br clear="left">
 

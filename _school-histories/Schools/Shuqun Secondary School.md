@@ -4,46 +4,47 @@ permalink: /school-histories/shuqun-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/shuqunsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/shuqunsec1.png">
 
 ### **Shuqun Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS70OzfyuQx2zrfqZto8ZzIWC8tRr-B951hhaM8rb8dpb9AgwSGlrQvFSqC31yLMTxTt2bC1XRJ3IVR/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/shuqunsec2.jpg">  
-<img src="/images/shuqunsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec2.jpg">
 </a></p>
 
 <p><a href="/images/shuqunsec3.jpg">  
-<img src="/images/shuqunsec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec3.jpg">
 </a></p>
 
 <p><a href="/images/shuqunsec4.jpg">  
-<img src="/images/shuqunsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec4.jpg">
 </a></p>
 
 <p><a href="/images/shuqunsec5.jpg">  
-<img src="/images/shuqunsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/shuqunsec6.jpg">  
-<img src="/images/shuqunsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec6.jpg">
 </a></p>
 
 <p><a href="/images/shuqunsec7.jpg">  
-<img src="/images/shuqunsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec7.jpg">
 </a></p>
 
 <p><a href="/images/shuqunsec8.jpg">  
-<img src="/images/shuqunsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec8.jpg">
 </a></p>
 
 <p><a href="/images/shuqunsec9.jpg">  
-<img src="/images/shuqunsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/shuqunsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -111,14 +112,14 @@ Principals:<br>
 Dare to Soar to Greater Heights
 
 #### **School Crest**
-<img src="/images/shuqunsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/shuqunsec1.png">
 
 Shuqun’ literally means ‘a gathering of trees’ in Chinese. The colour green dominates the crest and signifies the school’s focus on nurturing the physical, intellectual, emotional and social development of its students and nurturing them into men and women of character.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1szlab-bkUIiX4JMXyhg8imKVoIVerBVE/view?usp=share_link">**♫ Listen**</a> 
 
 Shuqun, Shuqun, famed in Jurong.<br>
 Loyal, true and beloved by all.<br>

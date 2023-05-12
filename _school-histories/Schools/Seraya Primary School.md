@@ -4,16 +4,17 @@ permalink: /school-histories/seraya-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/serayapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/serayapri1.png">
 
 ### **Seraya Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYA9u-4wFDO-40kNdzbeoiD96UD0egfJc8wE3NZrNP5AamSajOtCVWSGEnR9orzw2SY6Uyz6y_3HIp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/serayapri2.jpg">  
-<img src="/images/serayapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serayapri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -33,15 +34,9 @@ In 2001, Fowlie Primary School merged with Haig Boys’ Primary School and Mount
 | 1986 | Merger of Seraya Primary School with Fowlie School to form Fowlie Primary School. |
 |
 
-#### **School Motto**
-\-
 
 #### **School Crest**
-<img src="/images/serayapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/serayapri1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-

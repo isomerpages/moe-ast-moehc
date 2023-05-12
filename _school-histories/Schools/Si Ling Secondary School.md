@@ -4,48 +4,49 @@ permalink: /school-histories/si-ling-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/silingsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/silingsec1.jpg">
 
 ### **Si Ling Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGkVlK5Ok-gyseysR0GVjIKMvG2PBvvcflKj_Q0NHJM2qjbiry5h788bZBjP8c8Mufg4Jl0onNwM9f/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/silingsec2.jpg">  
-<img src="/images/silingsec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec2.jpg">
 </a></p>
 
 <p><a href="/images/silingsec4.jpg">  
-<img src="/images/silingsec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec4.jpg">
 </a></p>
 
 <p><a href="/images/silingsec5.jpg">  
-<img src="/images/silingsec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec5.jpg">
 </a></p>
 
 <p><a href="/images/silingsec3.jpg">  
-<img src="/images/silingsec3.jpg" style="width:22%;margin-right:45px;" align = "right">
+<img align="right" style="width:22%;margin-right:45px;" src="/images/silingsec3.jpg">
 </a></p>
 
 <p><a href="/images/silingsec6.jpg">  
-<img src="/images/silingsec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec6.jpg">
 </a></p>
 
 <p><a href="/images/silingsec7.jpg">  
-<img src="/images/silingsec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec7.jpg">
 </a></p>
 
 <p><a href="/images/silingsec8.jpg">  
-<img src="/images/silingsec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec8.jpg">
 </a></p>
 
 <p><a href="/images/silingsec10.jpg">  
-<img src="/images/silingsec10.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec10.jpg">
 </a></p>
 
 <p><a href="/images/silingsec9.jpg">  
-<img src="/images/silingsec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/silingsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -57,7 +58,7 @@ In the early 1990s the school developed its own model of nurturing students know
 
 In 2007, the school was designated by the Ministry of Education as one of the three Normal Technical Mark II schools in Singapore, where Institute of Technical Education (ITE) lecturers were seconded to teach applied learning subjects for students in the Normal Technical stream to better prepare them for the courses at ITE.
 
-These efforts led to the consolidation of its flagship programmes and their respective frameworks. The programme, Res Adventura_,_ was designed to promote leadership, teamwork, self-confidence, love for the outdoors and a spirit of adventure. It would evolve to become the school’s Learning for Life Programme, ‘VALOUR’ (Values and Character-building through Outdoor Curriculum).
+These efforts led to the consolidation of its flagship programmes and their respective frameworks. The programme, Res Adventura_,_&nbsp;was designed to promote leadership, teamwork, self-confidence, love for the outdoors and a spirit of adventure. It would evolve to become the school’s Learning for Life Programme, ‘VALOUR’ (Values and Character-building through Outdoor Curriculum).
 
 In the later years, as most of the students were kinesthetic learners and aesthetically inclined, SilcARTS – Cornucopia of the Arts Framework, was formed, targeted at the aesthetic development of the students. From 2010 to 2015, the school staged a musical every year.
 
@@ -92,14 +93,14 @@ Principals:<br>
 Excel
 
 #### **School Crest**
-<img src="/images/silingsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/silingsec1.jpg">
 
-The colour red stands for courage, brotherhood, tolerance, perseverance and equality, while white represents everlasting purity, virtue and scholarship. The circle with radiating spikes symbolises an all-round education, and the five red stripes represent democracy, peace, progress, justice and equality.
+The colour red&nbsp;stands for courage, brotherhood, tolerance, perseverance and equality, while white&nbsp;represents everlasting purity, virtue and scholarship. The circle with radiating spikes symbolises an all-round education, and the five red stripes represent democracy, peace, progress, justice and equality.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Y_ScZmEnV7HFgbuiixy00dFka1TKeC8u/view?usp=share_link">**♫ Listen**</a> 
 
 Si Ling our school, we pledge to thee<br>
 Our love and utmost loyalty.<br>

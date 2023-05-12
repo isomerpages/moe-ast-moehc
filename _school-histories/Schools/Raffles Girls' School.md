@@ -4,49 +4,50 @@ permalink: /school-histories/raffles-girls-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rafflesgirlssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rafflesgirlssch1.jpg">
 
 ### **Raffles Girls' School**
-[URL to website](https://www.rgs.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.rgs.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLDDesBiZ_oC6ORCXcDd3KB1V7kfnIksguOxVwodCmC_CfhcO9DerLjPkuzU96DXP5JS4fmUy-Ecjq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rafflesgirlssch2.jpg">  
-<img src="/images/rafflesgirlssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch2.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlssch3.jpg">  
-<img src="/images/rafflesgirlssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch3.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlssch4.jpg">  
-<img src="/images/rafflesgirlssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rafflesgirlssch5.jpg">  
-<img src="/images/rafflesgirlssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch5.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlssch6.jpg">  
-<img src="/images/rafflesgirlssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch6.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlssch7.jpg">  
-<img src="/images/rafflesgirlssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rafflesgirlssch8.jpg">  
-<img src="/images/rafflesgirlssch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch8.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlssch9.jpg">  
-<img src="/images/rafflesgirlssch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -108,14 +109,14 @@ Principals:<br>
 Filiae Melioris Aevi – Daughters of a Better Age
 
 #### **School Crest**
-<img src="/images/rafflesgirlssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rafflesgirlssch1.jpg">
 
 The colours of the school crest are the standard colours of the House of Sir Stamford Raffles: green, white and black. The open book symbolises knowledge, and the burning torch represents the commitment to forge character and develop life skills.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1-58RyRe5OxjeUiiz1a1FLG6nyNPjt8aj/view?usp=share_link">**♫ Listen**</a>
 
 From High Olympus  
   

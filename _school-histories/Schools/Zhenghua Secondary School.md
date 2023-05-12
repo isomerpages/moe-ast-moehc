@@ -54,21 +54,21 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Zhenghua Secondary School was established in December 1999, temporarily operating from Greenridge Secondary School. In 2001, the school moved to 91 Senja Road.
+Zhenghua Secondary School was established in December 1999, temporarily operating from Greenridge Secondary School. 
 
-In 2004, Zhenghua clinched the Ministry of Education’s Sustained Achievement Award for Uniformed Groups. In the following year, the school constructed its first-ever outdoor adventure facility, and has since added new features. The school’s Physical Education programme goes beyond instilling awareness for sports and physical activity among students, but inculcates a lifelong passion to maintain a healthy lifestyle. In 2014, the school began offering the Learning for Life Programme in outdoor education.
+In 2001, the school moved to 91 Senja Road. In 2004, Zhenghua clinched the Ministry of Education’s Sustained Achievement Award for Uniformed Groups. In the following year, the school constructed its first-ever outdoor adventure facility, and has since added new features. 
+The school’s Physical Education programme goes beyond instilling awareness for sports and physical activity among students, but inculcates a lifelong passion to maintain a healthy lifestyle. In 2014, the school began offering the Learning for Life Programme in outdoor education.
 
-Since 2008, the school has developed several signature programmes to cultivate 21st-century skills amongst students. The interdisciplinary ‘E3: Explore, Experience, Engage’, started in 2017, is an inquiry-based learning approach to spark students’ curiosity, guide them in gathering data, and develop their reasoning and reflective thinking in authentic settings. &nbsp;
+Since 2008, the school has developed several signature programmes to cultivate 21st-century skills amongst students. The interdisciplinary ‘E3: Explore, Experience, Engage’, started in 2017, is an inquiry-based learning approach to spark students’ curiosity, guide them in gathering data, and develop their reasoning and reflective thinking in authentic settings. In 2012, Zhenghua introduced a level-based signature programme, ‘The Sabbatical Week’, in which three days of curriculum time are set aside at the end of Term One for students to develop life skills, character traits and positive values. In 2014, the Applied Learning Programme in game design and simulation and robotics was introduced to help students develop STEM(science, technology, engineering and mathematics)-related skills through authentic and practice-oriented learning experiences. On 6 July 2019, the school celebrated its 20th anniversary with a special edition of their arts festival named ZEST Arts Festival &amp; Carnival. In 2021, the school started Full Subject-Based Banding. For the first time, the school organized form classes that included secondary one students from all three streams. 
 
-In 2012, Zhenghua introduced a level-based signature programme, ‘The Sabbatical Week’, in which three days of curriculum time are set aside at the end of Term One for students to develop life skills, character traits and positive values.
-
-In 2014, the Applied Learning Programme in game design and simulation and robotics was introduced to help students develop STEM(science, technology, engineering and mathematics)-related skills through authentic and practice-oriented learning experiences.
+In the 2nd half of 2022, the school’s address was amended to better reflect the current placement of the school’s entrance. The current address is 62 Bukit Panjang Ring Road.
 
 Principals:<br>
 \- Ms Cynthia Goh (1999–2002)<br>
 \- Mr Lim Kuan Min (2002–2010)<br>
 \- Mrs Fiona Tan (2010–2014)<br>
-\- Mr Eugene Lin (2015–present)
+\- Mr Eugene Lin (2015–2021) <br>
+\- Ng Hock Soon (2021-present)
 
 #### **Key Milestones**
 

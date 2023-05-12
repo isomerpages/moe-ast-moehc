@@ -4,49 +4,50 @@ permalink: /school-histories/radin-mas-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/radinmaspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/radinmaspri1.png">
 
 ### **Radin Mas Primary School**
-[URL to website](http://www.radinmasps.moe.edu.sg/) **broken link**
+[URL to website](https://www.radinmaspri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQstQlAxobrvmrN7785XsYwUDGoKunUCtzq0oC1mK3PZQSpvO4U_CkfQTrYpKR1E7cOBQ4uJnFJ7PSn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/radinmaspri2.jpg">  
-<img src="/images/radinmaspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri2.jpg">
 </a></p>
 
 <p><a href="/images/radinmaspri3.jpg">  
-<img src="/images/radinmaspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri3.jpg">
 </a></p>
 
 <p><a href="/images/radinmaspri4.jpg">  
-<img src="/images/radinmaspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/radinmaspri5.jpg">  
-<img src="/images/radinmaspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri5.jpg">
 </a></p>
 
 <p><a href="/images/radinmaspri6.jpg">  
-<img src="/images/radinmaspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri6.jpg">
 </a></p>
 
 <p><a href="/images/radinmaspri7.jpg">  
-<img src="/images/radinmaspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/radinmaspri8.jpg">  
-<img src="/images/radinmaspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri8.jpg">
 </a></p>
 
 <p><a href="/images/radinmaspri9.jpg">  
-<img src="/images/radinmaspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/radinmaspri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ In 1995, Radin Mas Primary School was identified as a pilot school for ‘Accele
 
 In 2002, Radin Mas Primary School completed PRIME upgrading, and in 2013, PERI upgrading. Radin Mas Primary School was accorded the Applied Learning Programme, ‘Nurturing 21st-century Competencies through Computational Thinking with Design Thinking’.
 
-In 2019, the school’s “**G**rowth Mindset, **R**esilience, **I**ndependence and **T**eamwork programme” or _G.R.I.T_ Programme was recognised as the school’s Learning for Life Programme.
+In 2019, the school’s “**G**rowth Mindset,&nbsp;**R**esilience,&nbsp;**I**ndependence and&nbsp;**T**eamwork programme” or&nbsp;_G.R.I.T_&nbsp;Programme was recognised as the school’s Learning for Life Programme.
 
 Principals:<br>
 \- Mrs Susie Toh (1964–1983)<br>
@@ -89,12 +90,12 @@ Principals:<br>
 Work and Play
 
 #### **School Crest**
-<img src="/images/radinmaspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/radinmaspri1.png">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/19DyB1qO3PBtkkV73nzp_-zzvs5w1vQJC/view?usp=share_link">**♫ Listen**</a>
 
 Proudly we stand and sing with voices loud and clear<br>
 In praise of Radin Mas the school we love so dear

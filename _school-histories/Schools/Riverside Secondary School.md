@@ -4,49 +4,50 @@ permalink: /school-histories/riverside-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rsssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rsssec1.jpg">
 
 ### **Riverside Secondary School**
-[URL to website](https://riversidesec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://riversidesec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpSr7zmupe_wnUIs6NNioBxwpl28Hj0eI9oxpGmfYhCH8yQwiu7WovT7hAgasid2haO5T5snsKhQH9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rsssec2.jpg">  
-<img src="/images/rsssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec2.jpg">
 </a></p>
 
 <p><a href="/images/rsssec3.jpg">  
-<img src="/images/rsssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec3.jpg">
 </a></p>
 
 <p><a href="/images/rsssec4.jpg">  
-<img src="/images/rsssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rsssec5.jpg">  
-<img src="/images/rsssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec5.jpg">
 </a></p>
 
 <p><a href="/images/rsssec6.jpg">  
-<img src="/images/rsssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec6.jpg">
 </a></p>
 
 <p><a href="/images/rsssec7.jpg">  
-<img src="/images/rsssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rsssec8.jpg">  
-<img src="/images/rsssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec8.jpg">
 </a></p>
 
 <p><a href="/images/rsssec9.jpg">  
-<img src="/images/rsssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsssec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -88,12 +89,12 @@ Principals:<br>
 My Best and More
 
 #### **School Crest**
-<img src="/images/rsssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rsssec1.jpg">
 
 The blue letter ‘C’ stands for the school as a ‘Caring Community in a Challenging Learning Environment’ nurturing the total development of the Riversidian. The red circle represents the focal point of the school, which is the all-rounded development of the Riversidian in leadership, aesthetics, meta-cognitive, physical, social and moral aspects. As the Riversidian journeys through the years in Riverside Secondary, he/she will imbibe values and life skills that impel him/her to leap forward and embrace the global challenges of tomorrow.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1JtzoAAi2-o459bijieC5MIdfMh1T1NjB/view?usp=share_link">**♫ Listen**</a>	
 
 In the North where the waters ride high<br>
 Stands a school where spirits never die<br>

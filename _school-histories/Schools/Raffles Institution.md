@@ -4,53 +4,54 @@ permalink: /school-histories/raffles-institution/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ri1.png">
 
 ### **Raffles Institution**
-[URL to website](http://www.ri.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.ri.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP-VC1-TCM0o3cbsneh27DZ_45al0qNnx1Rg2wTf8Il9kTrcpzlwMXXIj-T0zKWImwlFVFPQPZ2ayX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ri2.jpg">  
-<img src="/images/ri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri2.jpg">
 </a></p>
 
 <p><a href="/images/ri3.jpg">  
-<img src="/images/ri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri3.jpg">
 </a></p>
 
 <p><a href="/images/ri4.jpg">  
-<img src="/images/ri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/ri5.jpg">  
-<img src="/images/ri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri5.jpg">
 </a></p>
 
 <p><a href="/images/ri6.jpg">  
-<img src="/images/ri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri6.jpg">
 </a></p>
 
 <p><a href="/images/ri7.jpg">  
-<img src="/images/ri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/ri8.jpg">  
-<img src="/images/ri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri8.jpg">
 </a></p>
 
 <p><a href="/images/ri9.jpg">  
-<img src="/images/ri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri9.jpg">
 </a></p>
 
 <p><a href="/images/ri10.jpg">  
-<img src="/images/ri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ Raffles Institution (RI), formerly known as Singapore Institution, was founded b
 
 Progressive since the beginning, the school welcomed female students in 1844 and began offering pre-university classes in 1886. In 1879, the girls’ wing was established as its sister school, Raffles Girls’ School (Secondary). Raffles Junior College (RJC) was established in 1982 to take over RI’s pre-university enrolment. RJC operated for two years (1982–83) on Paterson Road and relocated to Mount Sinai Road in 1984. That same year, RI became one of the first schools to offer the school-based Gifted Education Programme.
 
-Raffles Institution was originally on Bras Basah Road. In 1972, the school moved to Grange Road and then relocated to the Bishan campus in 1990, the year when the school attained independent status. The Bishan campus was officially declared open during the 169th Founder’s Day on 18 July 1992 by then Prime Minister Goh Chok Tong. On 15 March 1994, then Senior Minister Lee Kuan Yew laid the RI Boarding Complex foundation stone and officially opened the Raffles Institution Archives and Museum.
+Raffles Institution was originally on Bras Basah Road. In 1972, the school moved to Grange Road and then relocated to the Bishan campus in 1990, the year when the school attained independent status. The Bishan campus was officially declared open during the 169th Founder’s Day on 18&nbsp;July 1992 by then Prime Minister Goh Chok Tong. On 15 March 1994, then Senior Minister Lee Kuan Yew laid the RI Boarding Complex foundation stone and officially opened the Raffles Institution Archives and Museum.
 
 In 2004, the Raffles Programme, also known as the ‘through train’ programme, was introduced as a six-year Integrated Programme leading to the General Certificate of Education A-Level examinations. At the end of 2004, RJC moved from Mount Sinai Road to the Bishan campus and took up residence next to RI. On 1 January 2005, RJC acquired independent status. In 2007, RI established the Raffles Academy, which is part of the Raffles Programme, with the merger of the Gifted Education and the Special/ Express streams into a single stream. In 2009, RI and RJC reintegrated under the name Raffles Institution to offer a six-year programme together with RGS.
 
@@ -121,7 +122,7 @@ Principals (Raffles Institution):<br>
 Auspicium Melioris Aevi – Hope of a Better Age
 
 #### **School Crest**
-<img src="/images/ri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ri1.png">
 
 The school crest has many elements based on Sir Stamford Raffles’s coat-of-arms, such as the gryphon, a twin-headed eagle and a double medallion. The school motto, ‘Auspicium Melioris Aevi (Hope of a Better Age)’, is also adopted from Raffles’s coat-of-arms, which came into use in October 1817 by a grant of the Royal College of Arms.
 
@@ -139,7 +140,7 @@ For more about the RI crest, please go to:
 [https://rafflesiantimes.wordpress.com/2016/05/27/ri-school-crests-over-time/](https://rafflesiantimes.wordpress.com/2016/05/27/ri-school-crests-over-time/)
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1MDSN0lOZVb3eZrsSRuEY1wKLu9xVUw-s/view?usp=share_link">**♫ Listen**</a>
 
 _The school song or the Institution Anthem, was written by Principal E.W. Jesudason (1963 to 1966) in 1963._
 

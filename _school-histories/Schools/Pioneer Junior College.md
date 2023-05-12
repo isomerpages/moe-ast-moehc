@@ -4,48 +4,49 @@ permalink: /school-histories/pioneer-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/pioneerjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pioneerjc1.jpg">
 
 ### **Pioneer Junior College**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdoJwbyK83a5RHr83SK7F8OevAY5i2LD9FXEYUt1g4--5zj-_Dl1ElzOpfqmPmyTjiFaAKQKQYKrU0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/pioneerjc2.jpg">  
-<img src="/images/pioneerjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc2.jpg">
 </a></p>
 
 <p><a href="/images/pioneerjc3.jpg">  
-<img src="/images/pioneerjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc3.jpg">
 </a></p>
 
 <p><a href="/images/pioneerjc4.jpg">  
-<img src="/images/pioneerjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/pioneerjc5.jpg">  
-<img src="/images/pioneerjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc5.jpg">
 </a></p>
 
 <p><a href="/images/pioneerjc6.jpg">  
-<img src="/images/pioneerjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc6.jpg">
 </a></p>
 
 <p><a href="/images/pioneerjc7.jpg">  
-<img src="/images/pioneerjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/pioneerjc8.jpg">  
-<img src="/images/pioneerjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc8.jpg">
 </a></p>
 
 <p><a href="/images/pioneerjc9.jpg">  
-<img src="/images/pioneerjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneerjc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -63,7 +64,7 @@ Principals:<br>
 \- Mr Kwek Hiok Chuang (2000–2004)<br>
 \- Mrs Tan-Kek Lee Yong (2005–2018)
 
-**Related Schools: [Jurong Junior College](/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](/school-histories/jpjc/)**
+**Related Schools: [Jurong Junior College](https://moehc.moe.edu.sg/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](https://moehc.moe.edu.sg/school-histories/jpjc/)**
 
 #### **Key Milestones**
 
@@ -85,16 +86,16 @@ Principals:<br>
 While I Live, I Learn
 
 #### **School Crest**
-<img src="/images/pioneerjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pioneerjc1.jpg">
 
 The PJC logo represents the emergence of a new spirit of creativity and flexibility. The right angles symbolise the virtues of integrity and fortitude, while the obtuse angles, as well as the protruding edge, signify the students’ willingness to expand their thinking beyond the bounds of accepted practices by adopting a spirit of adventure and entrepreneurship.
 
-The upward thrust of the two coloured bands points to the eagerness of the individual to look ahead to the future, while being anchored firmly in the core values of the past. The two bands meet at a 62-degree angle, representing the 62 teaching and non-teaching staff who started the college in 1999. 
+The upward thrust of the two coloured bands points to the eagerness of the individual to look ahead to the future, while being anchored firmly in the core values of the past. The two bands meet at a 62-degree angle, representing the 62 teaching and non-teaching staff who started the college in 1999.&nbsp;
 
 The image of a blank, white canvas epitomises the attitude of openness with which students accept different perspectives. The charcoal colour connotes the ‘fuel of knowledge’. As fuel is burnt, the ‘fires of learning’, as represented by the vermilion colour, are ignited. This fire burns with youthful energy and passion, attributes that students must possess as they forge ahead with a pioneering spirit.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1VaSJPfZzygYCu61rZQ0-aUiASMFM_L3T/view?usp=share_link">**♫ Listen**</a>
 
 Here I stand<br>
 The dawning of a brand new day<br>

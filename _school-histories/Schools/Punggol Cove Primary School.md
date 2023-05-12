@@ -4,35 +4,36 @@ permalink: /school-histories/punggol-cove-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/punggolcovepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolcovepri1.png">
 
 ### **Punggol Cove Primary School**
-[URL to website](https://punggolcovepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://punggolcovepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8WqX_1MbsoeGZWeoboPSk77pK_ybbFYC3IUdJgIO5wd95sf_3RaegopYHk3B1XEMsI6wTIPhXIysL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/punggolcovepri2.jpg">  
-<img src="/images/punggolcovepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri2.jpg">
 </a></p>
 
 <p><a href="/images/punggolcovepri3.jpg">  
-<img src="/images/punggolcovepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri3.jpg">
 </a></p>
 
 <p><a href="/images/punggolcovepri4.jpg">  
-<img src="/images/punggolcovepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/punggolcovepri5.jpg">  
-<img src="/images/punggolcovepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri5.jpg">
 </a></p>
 
 <p><a href="/images/punggolcovepri6.jpg">  
-<img src="/images/punggolcovepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,12 +61,12 @@ Principal:<br>
 To Serve To Lead
 
 #### **School Crest**
-<img src="/images/punggolcovepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/punggolcovepri1.png">
 
 As Punggol Cove Primary School sets sail towards a new horizon, seeking adventures and challenges, the school strives to provide a safe haven amidst a fast-changing environment for all students to play, learn and grow. The green sails represent uprightness in character, and the blue base of the yacht represents stable and strong values upon which the school will be anchored.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1q4Ho4NBokJGRs91ljQ_Y8qAOM2gMCVeG/view?usp=share_link">**♫ Listen**</a>
 
 Set sail on a journey<br>
 Hand in hand with you and me<br>

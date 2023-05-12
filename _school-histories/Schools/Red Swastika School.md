@@ -4,49 +4,50 @@ permalink: /school-histories/red-swastika-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/redswastikasch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/redswastikasch1.png">
 
 ### **Red Swastika School**
-[URL to website](https://redswastika.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://redswastika.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMaBP7lzBCezWxw7JcjrizVafkzL5aZQM9wN1AWcJmklXucH0SLRRyPWqgP7EUh988ESysYXjTwaBX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/redswastikasch2.jpg">  
-<img src="/images/redswastikasch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch2.jpg">
 </a></p>
 
 <p><a href="/images/redswastikasch3.jpg">  
-<img src="/images/redswastikasch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch3.jpg">
 </a></p>
 
 <p><a href="/images/redswastikasch4.jpg">  
-<img src="/images/redswastikasch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/redswastikasch5.jpg">  
-<img src="/images/redswastikasch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch5.jpg">
 </a></p>
 
 <p><a href="/images/redswastikasch6.jpg">  
-<img src="/images/redswastikasch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch6.jpg">
 </a></p>
 
 <p><a href="/images/redswastikasch7.jpg">  
-<img src="/images/redswastikasch7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/redswastikasch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/redswastikasch8.jpg">  
-<img src="/images/redswastikasch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch8.jpg">
 </a></p>
 
 <p><a href="/images/redswastikasch9.jpg">  
-<img src="/images/redswastikasch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,20 +86,20 @@ Principals:<br>
 |
 
 #### **School Motto**
-恭   Graciousness<br>
-宽   Magnanimity<br>
-信   Trustworthiness<br>
-敏   Diligence
+恭&nbsp; &nbsp;Graciousness<br>
+宽&nbsp; &nbsp;Magnanimity<br>
+信&nbsp; &nbsp;Trustworthiness<br>
+敏&nbsp; &nbsp;Diligence
 
 #### **School Crest**
-<img src="/images/redswastikasch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/redswastikasch1.png">
 
 The gears of wheels of history symbolise progressiveness. The swastika sign symbolises prosperity and good luck. The two torches represent light and life.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1V0UDW99DAebXM8gELWRpCbQsjUByvM5v/view?usp=share_link">**♫ Listen**</a>	
 
 卍帜飘扬，星洲之东，<br>
 莘莘学子，洋溢黉宫。<br>

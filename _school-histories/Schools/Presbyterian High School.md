@@ -4,61 +4,62 @@ permalink: /school-histories/presbyterian-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/presbyterianhighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/presbyterianhighsch1.jpg">
 
 ### **Presbyterian High School**
-[URL to website](https://presbyterian.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://presbyterian.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgmJdJtMCW4wG9NaP35m0vb7yqKQ2uKDqQgbGl3YAAYg8ouiNkJjjB3EfcX4-h0RPekLIZlNMkLpN5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/presbyterianhighsch2.jpg">  
-<img src="/images/presbyterianhighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch2.jpg">
 </a></p>
 
 <p><a href="/images/presbyterianhighsch3.jpg">  
-<img src="/images/presbyterianhighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch3.jpg">
 </a></p>
 
 <p><a href="/images/presbyterianhighsch4.jpg">  
-<img src="/images/presbyterianhighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/presbyterianhighsch5.jpg">  
-<img src="/images/presbyterianhighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch5.jpg">
 </a></p>
 
 <p><a href="/images/presbyterianhighsch6.jpg">  
-<img src="/images/presbyterianhighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch6.jpg">
 </a></p>
 
 <p><a href="/images/presbyterianhighsch7.jpg">  
-<img src="/images/presbyterianhighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/presbyterianhighsch8.jpg">  
-<img src="/images/presbyterianhighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch8.jpg">
 </a></p>
 
 <p><a href="/images/presbyterianhighsch9.jpg">  
-<img src="/images/presbyterianhighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Presbyterian High School was founded as Li Sun High School in 1965, a Chinese mission secondary school. Set up by the Presbyterian Synod, it was located on the premises of Ming Sin Primary School, a subsidiary school on loan from Bethel Presbyterian Church. The name ‘Li Sun’ was derived from the Mandarin translation of Reverend Alan S. Moore Anderson’s name, An Li Sun_._ A missionary and champion of education, Anderson dedicated his life to building churches and schools in China and Malaya. 
+Presbyterian High School was founded as Li Sun High School in 1965, a Chinese mission secondary school. Set up by the Presbyterian Synod, it was located on the premises of Ming Sin Primary School, a subsidiary school on loan from Bethel Presbyterian Church. The name ‘Li Sun’ was derived from the Mandarin translation of Reverend Alan S. Moore Anderson’s name, An Li Sun_._&nbsp;A missionary and champion of education, Anderson dedicated his life to building churches and schools in China and Malaya.&nbsp;
 
 In 1981, the Synod endorsed the new site for the school at Ang Mo Kio Avenue 6. It was renamed Presbyterian High School in 1983. The name reflects the school’s Christian mission and is aligned with Singapore’s move to use English as the medium of instruction. Presbyterian High School was officially opened in 1984.
 
 The school was redeveloped under PRIME in 2000. It was transformed into a sprawling campus spanning three hectares of land in Ang Mo Kio and home to over 1,350 students and staff. The new school boasts of infrastructure comprising a hall that can accommodate the entire school population, well-equipped computer laboratories and information technology-enabled classrooms. It also features the National Education Stairwell, an art gallery, an indoor sports hall, a street soccer court and an artificial turf. The new premises were officially opened in 2004.
 
-Over the years, Presbyterian High School has put in place a series of customised programmes to cater to students’ needs and interests. In 2015, the Programme for Holistic Development was initiated to provide age-appropriate as well as ability- and interest-driven activities to nurture learners. In 2016, the school transited from its niche programme to roll out its Lifelong Learning Programme in community and youth leadership and the Applied Learning Programme in forensic and pharmaceutical science. Through these programmes, the school aims to ignite in students the passion for lifelong learning and service to others. From 2020, instead of forensic and pharmaceutical Science being offered under ALP, the new component will be Health Science.
+Over the years, Presbyterian High School has put in place a series of customised programmes to cater to students’ needs and interests. In 2015, the Programme for Holistic Development was initiated to provide age-appropriate as well as ability- and interest-driven activities to nurture learners.&nbsp;In 2016, the school transited from its niche programme to roll out its Lifelong Learning Programme in community and youth leadership and the Applied Learning Programme in forensic and pharmaceutical science. Through these programmes, the school aims to ignite in students the passion for lifelong learning and service to others.&nbsp;From 2020, instead of forensic and pharmaceutical Science being offered under ALP, the new component will be Health Science.
 
 The school holds steadfastly to its intent to instill values and equip students with skills through its infusion of character and citizenship education and 21st-century competencies across its curriculum. Presbyterian High School’s vision is for every graduate to become a ‘Promise Keeper, Hope Builder and Servant Leader’ beyond its gates.
 
@@ -92,7 +93,7 @@ Principals:<br>
 Aflame for Truth
 
 #### **School Crest**
-<img src="/images/presbyterianhighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/presbyterianhighsch1.jpg">
 
 The school crest is topped with two waves signifying the continuous growth and development of the school, from its founding as Li Sun High School to the present Presbyterian High School.
 
@@ -101,11 +102,11 @@ The Burning Bush is the symbol of the Presbyterian Churches around the world and
 The Cross represents faith in God. The dove with a stalk of olive leaves depicts the development of the spiritual and moral life in the school and guides education, which is represented by the book. The school colours of white and blue feature in the background; white symbolises the quest for truth, while blue symbolises the pursuit of excellence.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1aB0lp-Xh0Hbjd5wYJAN52axMgIcTSfLL/view?usp=share_link">**♫ Listen**</a>
 
 Behold the burning bush,<br>
 看 荆 棘 焚 而 不 毁<br>
-kan  jing  ji  fen  er  bu  hui
+kan&nbsp; jing&nbsp; ji&nbsp; fen&nbsp; er&nbsp; bu&nbsp; hui
 
 Presbyterian glorious sign.<br>
 吾 长 老 会 的 异 象<br>
@@ -113,7 +114,7 @@ wu zhang lao hui de yi xiang
 
 From Bethel we have built Li Sun High,<br>
 在 伯 特 利 创 礼 逊<br>
-zai  bo  te  li chuang  li  xun
+zai&nbsp; bo&nbsp; te&nbsp; li chuang&nbsp; li&nbsp; xun
 
 And our school by God's design.<br>
 达 宏 茂 桥 建 长 中<br>
@@ -121,7 +122,7 @@ da hong mao qiao jian zhang zhong
 
 Firm in hope with fortitude,<br>
 立 定 信 心 加 毅 力<br>
-li  ding  xin  xin  jia  yi  li
+li&nbsp; ding&nbsp; xin&nbsp; xin&nbsp; jia&nbsp; yi&nbsp; li
 
 we will strengthen our resolve.<br>
 刚 强 奋 志 向 前 进<br>
@@ -141,7 +142,7 @@ fa yang dong fang wen hua dao tong
 
 We make western advance as our own.<br>
 探 求 西 欧 科 技 知 识<br>
-tan  qiu  xi  ou  ke  ji  zhi  shi
+tan&nbsp; qiu&nbsp; xi&nbsp; ou&nbsp; ke&nbsp; ji&nbsp; zhi&nbsp; shi
 
 Follow Jesus in every way,<br>
 效 法 基 督 完 全 样 式<br>
@@ -149,7 +150,7 @@ xiao fa ji du wan quan yang shi
 
 Let us all as pioneers be known!<br>
 立 己 立 人 为 民 前 锋<br>
-li  ji  li  ren wei min qian feng
+li&nbsp; ji&nbsp; li&nbsp; ren wei min qian feng
 
 Follow Jesus in every way,<br>
 效 法 基 督 完 全 样 式<br>
@@ -157,4 +158,4 @@ xiao fa ji du wan quan yang shi
 
 Let us all as pioneers be known!<br>
 立 己 立 人 为 民 前 锋<br>
-li  ji  li  ren wei min qian feng
+li&nbsp; ji&nbsp; li&nbsp; ren wei min qian feng

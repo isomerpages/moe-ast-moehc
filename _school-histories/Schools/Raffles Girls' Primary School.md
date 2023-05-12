@@ -4,49 +4,50 @@ permalink: /school-histories/raffles-girls-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rafflesgirlspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rafflesgirlspri1.png">
 
 ### **Raffles Girls' Primary School**
-[URL to website](https://rafflesgirlspri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://rafflesgirlspri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQK42JzxYpHha9SZO3agJGUhOzGXEvonIIR85J0lUp3wthMUlFFRqqwDvxMY7x8ckB5HtcVDnXbWrBi/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rafflesgirlspri2.jpg">  
-<img src="/images/rafflesgirlspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri2.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlspri3.jpg">  
-<img src="/images/rafflesgirlspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri3.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlspri4.jpg">  
-<img src="/images/rafflesgirlspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rafflesgirlspri5.jpg">  
-<img src="/images/rafflesgirlspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri5.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlspri6.jpg">  
-<img src="/images/rafflesgirlspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri6.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlspri7.jpg">  
-<img src="/images/rafflesgirlspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/rafflesgirlspri8.jpg">  
-<img src="/images/rafflesgirlspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri8.jpg">
 </a></p>
 
 <p><a href="/images/rafflesgirlspri9.jpg">  
-<img src="/images/rafflesgirlspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -94,7 +95,7 @@ Principals:<br>
 Knowledge begets success
 
 #### **School Crest**
-<img src="/images/rafflesgirlspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rafflesgirlspri1.png">
 
 **Knowledge, Progress and Success**
 
@@ -103,7 +104,7 @@ White for sincerity and purity in the young<br>
 Black for perseverance to strive with diligence
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1A2XuX0lBk3yk2ztWLSFCsWmwA_tPJY_H/view?usp=share_link">**♫ Listen**</a>
 
 We shall try to do our best<br>
 Never stopping for a rest<br>

@@ -4,49 +4,50 @@ permalink: /school-histories/qifa-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/qifapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/qifapri1.png">
 
 ### **Qifa Primary School**
-[URL to website](https://qifapri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://qifapri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQ0aBjG2WlzYh3SvgKHwLyX18BVfF6b8G9PHFccfauY26U8jBvk5nkdyKobkvpb9Q9Kyf5bsWjIOnR/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/qifapri2.jpg">  
-<img src="/images/qifapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri2.jpg">
 </a></p>
 
 <p><a href="/images/qifapri3.jpg">  
-<img src="/images/qifapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri3.jpg">
 </a></p>
 
 <p><a href="/images/qifapri4.jpg">  
-<img src="/images/qifapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/qifapri5.jpg">  
-<img src="/images/qifapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri5.jpg">
 </a></p>
 
 <p><a href="/images/qifapri6.jpg">  
-<img src="/images/qifapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri6.jpg">
 </a></p>
 
 <p><a href="/images/qifapri7.jpg">  
-<img src="/images/qifapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/qifapri8.jpg">  
-<img src="/images/qifapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri8.jpg">
 </a></p>
 
 <p><a href="/images/qifapri9.jpg">  
-<img src="/images/qifapri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -91,12 +92,12 @@ Principals:<br>
 Strive to Excel
 
 #### **School Crest**
-<img src="/images/qifapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/qifapri1.png">
 
-The emblem of the tree, which forms the central motif of the school crest, represents enduring strength and growth. The tree provides shelter and sustenance, signifying the school’s desire to provide a safe environment where all can thrive as they seek to realise the school vision: ‘An Achieving School with a Caring Environment’. The roots that spread out symbolise stability and the laying of a strong foundation to equip students with the necessary knowledge, skills and values to blossom and bear fruit as the school name ‘启发’  suggests.
+The emblem of the tree, which forms the central motif of the school crest, represents enduring strength and growth. The tree provides shelter and sustenance, signifying the school’s desire to provide a safe environment where all can thrive as they seek to realise the school vision: ‘An Achieving School with a Caring Environment’. The roots that spread out symbolise stability and the laying of a strong foundation to equip students with the necessary knowledge, skills and values to blossom and bear fruit as the school name ‘启发’ &nbsp;suggests.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1APYjqYb7Jo3XOuiOQ-jPBL64_XOdtRKs/view?usp=share_link">**♫ Listen**</a>
 
 As we come together<br>
 United we do our best!<br>

@@ -4,53 +4,54 @@ permalink: /school-histories/serangoon-garden-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/serangoongardensec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/serangoongardensec1.png">
 
 ### **Serangoon Garden Secondary School**
-[URL to website](https://www.sgs.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.sgs.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_Eb1Ko5JsIq4EJUhEFo7Rv8euR-RyQokaEV5S8vjJ_weqeYrVdHUOKj6QoG-cZ52-pi47mgtFnd3I/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/serangoongardensec2.jpg">  
-<img src="/images/serangoongardensec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec2.jpg">
 </a></p>
 
 <p><a href="/images/serangoongardensec3.jpg">  
-<img src="/images/serangoongardensec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec3.jpg">
 </a></p>
 
 <p><a href="/images/serangoongardensec4.jpg">  
-<img src="/images/serangoongardensec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec4.jpg">
 </a></p>
 
 <p><a href="/images/serangoongardensec5.jpg">  
-<img src="/images/serangoongardensec5.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/serangoongardensec5.jpg">
 </a></p>
 
 <p><a href="/images/serangoongardensec7.jpg">  
-<img src="/images/serangoongardensec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/serangoongardensec8.jpg">  
-<img src="/images/serangoongardensec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec8.jpg">
 </a></p>
 
 <p><a href="/images/serangoongardensec9.jpg">  
-<img src="/images/serangoongardensec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec9.jpg">
 </a></p>
 
 <p><a href="/images/serangoongardensec10.jpg">  
-<img src="/images/serangoongardensec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec10.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Serangoon Garden Secondary School began as Lichfield Secondary School, an English-medium school started in 1959. In the following year, the school was renamed Serangoon Garden Government High School, which offered both English and Chinese streams. Serangoon Garden Secondary School was established in 1969 when it absorbed the neighbouring school, Hwi Yoh Vocational School, and effectively became a bilingual school. 
+Serangoon Garden Secondary School began as Lichfield Secondary School, an English-medium school started in 1959. In the following year, the school was renamed Serangoon Garden Government High School, which offered both English and Chinese streams. Serangoon Garden Secondary School was established in 1969 when it absorbed the neighbouring school, Hwi Yoh Vocational School, and effectively became a bilingual school.&nbsp;
 
 Between 1965 and 1974, the school also offered two-year pre-university arts and science courses. In 1984, it became an English-medium school with the last batch of Chinese-stream students graduating in the same year. The pre-university programme ended in 1991. The school operated as single-session in 2000.
 
@@ -93,12 +94,12 @@ Principals:<br>
 Integrity and Diligence
 
 #### **School Crest**
-<img src="/images/serangoongardensec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/serangoongardensec1.png">
 
-The book symbolises the school’s aim to enable its students to achieve the highest level of academic achievement. The wheels represent the hope that students will be able to learn the diverse inter-related skills for lifelong learning in order to stay relevant in the face of constant change. The torch symbolises the bright future of students if they work hard and strive to do their best. The bird represents the Seranggong – a bird that is said to have been peculiar to the area where the school is located.
+The book symbolises the school’s aim to enable its students to achieve the highest level of academic achievement. The wheels&nbsp;represent the hope that students will be able to learn the diverse inter-related skills for lifelong learning in order to stay relevant in the face of constant change. The torch symbolises the bright future of students if they work hard and strive to do their best. The bird represents the Seranggong – a bird that is said to have been peculiar to the area where the school is located.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1hI84CkEAcPtFJNwdLwNmYKVMhTQ-di1m/view?usp=share_link">**♫ Listen**</a>
 
 Go forth! Our Blazing torch uphold<br>
 With friendships true and hearts of gold.<br>

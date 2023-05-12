@@ -4,45 +4,46 @@ permalink: /school-histories/riverside-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rsspri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rsspri1.jpg">
 
 ### **school name**
-[URL to website](https://riversidepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://riversidepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXHtAWoqN_3k0GkOtC1W9V86UU-hGIEwbAtS0-u_oJanMwQIoftsBuLpS-HzCX-iS56vFa9SSA34RP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rsspri2.jpg">  
-<img src="/images/rsspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri2.jpg">
 </a></p>
 
 <p><a href="/images/rsspri4.jpg">  
-<img src="/images/rsspri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/rsspri4.jpg">
 </a></p>
 
 <p><a href="/images/rsspri3.jpg">  
-<img src="/images/rsspri3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/rsspri3.jpg">
 </a></p>
 
 <p><a href="/images/rsspri5.jpg">  
-<img src="/images/rsspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri5.jpg">
 </a></p>
 
 <p><a href="/images/rsspri6.jpg">  
-<img src="/images/rsspri6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/rsspri6.jpg">
 </a></p>
 
 <p><a href="/images/rsspri7.jpg">  
-<img src="/images/rsspri7.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/rsspri7.jpg">
 </a></p>
 
 <p><a href="/images/rsspri8.jpg">  
-<img src="/images/rsspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri8.jpg">
 </a></p>
 
 <p><a href="/images/rsspri9.jpg">  
-<img src="/images/rsspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,7 +53,7 @@ Riverside Primary School was established in 2013 as a government co-educational 
 
 In 2015, Riverside Primary School was accorded the Applied Learning Programme, PlayWorks, a school-based curriculum innovation to nurture students as critical and inventive thinkers and collaborative problem-solvers.
 
-In 2016, the Ministry of Education Kindergarten @ Riverside started operations at Riverside Primary School.  
+In 2016, the Ministry of Education Kindergarten @ Riverside started operations at Riverside Primary School.&nbsp;&nbsp;
 
 Principal:<br>
 \- Mrs Sharon Siew (2013–2019)<br>
@@ -73,12 +74,12 @@ Principal:<br>
 Learning Together, Growing Together, Sparkling Together
 
 #### **School Crest**
-<img src="/images/rsspri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rsspri1.jpg">
 
 The river, with its life-giving characteristics and continuous flow, provides the inspiration for the school logo. The flow of the river is depicted by the three blue lines. The first blue line represents the school’s purpose in terms of its philosophy and directions, approaches, environment and culture. The second blue line represents the school’s people – including the school leaders, teachers, school staff, parents and community partners – who synergistically come together as one to provide a high quality of education for students. The third blue line represents the school’s programmes and pedagogies, which enable students’ holistic development. The colour blue is chosen as it is associated with stability and depth as well as confidence and intelligence.  
-   
+&nbsp;  
 Emerging from the flow of the river water is a rising star that symbolises our students soaring from the care and nourishment provided by the school, constant flow of learning and quest for knowledge and excellence to achieve their aspirations.  
-   
+&nbsp;  
 The effect of the sun’s rays on the river produces an interplay of colours that sparkle. With the holistic school and curriculum experience at Riverside Primary School, its students will sparkle as confident persons, self-directed learners, active contributors and concerned citizens. The sparkle is depicted by the seven bright yellow stars and one blue rising star, which represent the eight SPARKLE values and dispositions of students of Riverside Primary School.
 
 **S**trength of Character<br>
@@ -91,7 +92,7 @@ The effect of the sun’s rays on the river produces an interplay of colours tha
 **S**incerity
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Q2KHCqZHxw9-DGGrvAMyuQ5pjkzke8OA/view?usp=share_link">**♫ Listen**</a>	
 
 Riverside is where we learn<br>
 and grow with one another<br>

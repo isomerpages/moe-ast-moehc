@@ -4,32 +4,33 @@ permalink: /school-histories/selegie-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/selegiepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/selegiepri1.png">
 
 ### **Selegie Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmAdcc6D1kp7di7LM_k_WdhJrhqUq9xzAJ-YYV4xJgdj0CJCivhvSk01yxkgOWMdOw6IHSsGTOFjbL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/selegiepri2.jpg">  
-<img src="/images/selegiepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/selegiepri2.jpg">
 </a></p>
 
 <p><a href="/images/selegiepri3.jpg">  
-<img src="/images/selegiepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/selegiepri3.jpg">
 </a></p>
 
 <p><a href="/images/selegiepri4.jpg">  
-<img src="/images/selegiepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/selegiepri4.jpg">
 </a></p>
 
 <p><a href="/images/selegiepri5.jpg">  
-<img src="/images/selegiepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/selegiepri5.jpg">
 </a></p>
 
 <p><a href="/images/selegiepri6.jpg">  
-<img src="/images/selegiepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/selegiepri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -51,15 +52,6 @@ Principals:<br>
 | 1987 | Merger with Stamford Primary School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/selegiepri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
 
 <br clear="left">
 
-#### **School Song**
-\-

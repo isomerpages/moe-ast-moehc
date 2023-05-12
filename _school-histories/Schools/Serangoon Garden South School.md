@@ -4,30 +4,31 @@ permalink: /school-histories/serangoon-garden-south-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/srgardensouth1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srgardensouth1.png">
 
 ### **Serangoon Garden South School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCWtVlOV-LythSxlc2SA72eqgPicjwGKX6-P166mcXh8OB03XhCcCekwqlmbPw8XLEfnDUhY9P0VBK/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/srgardensouth2.jpg">  
-<img src="/images/srgardensouth2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardensouth2.jpg">
 </a></p>
 
 <p><a href="/images/srgardensouth3.jpg">  
-<img src="/images/srgardensouth3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardensouth3.jpg">
 </a></p>
 
 <p><a href="/images/srgardensouth4.jpg">  
-<img src="/images/srgardensouth4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardensouth4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/srgardensouth5.jpg">  
-<img src="/images/srgardensouth5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srgardensouth5.jpg">
 </a></p>
 
 <br clear="left">
@@ -68,13 +69,15 @@ Last Serving Principal:<br>
 Strive For Excellence
 
 #### **School Crest**
-<img src="/images/srgardensouth1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srgardensouth1.png">
 
-The crest shows the Lion Head Symbol, which represents Singapore. **Red** is used to signify the passion with which the school goes about achieving its objectives. **Blue** connotes love and compassion for one another.
+The crest shows the Lion Head Symbol, which represents Singapore.&nbsp;**Red**&nbsp;is used to signify the passion with which the school goes about achieving its objectives.&nbsp;**Blue**&nbsp;connotes love and compassion for one another.
 
 The school motto, “Strive For Excellence”, symbolises the keynote aim for the school policy, which is to educate the child to bring out his greatest potential, so that he will grow into a good man and useful citizen.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We are children young and bright<br>
 True and honest as the light<br>
 Resolute in all we do<br>

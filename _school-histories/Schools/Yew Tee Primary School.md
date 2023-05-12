@@ -62,7 +62,8 @@ Principals:<br>
 \- Ms Jessie Tan Seoh Hong (2000–2003)<br>
 \- Mrs Brenda Tan (2004–2008)<br>
 \- Mrs Janis Kok (2009–2013)<br>
-\- Ms Ang Mui Khoong (2014–present)
+\- Ms Ang Mui Khoong (2014–2021)<br>
+\- Ms Nur Sabariah Mohd Ibrahim (2022-Present)
 
 #### **Key Milestones**
 

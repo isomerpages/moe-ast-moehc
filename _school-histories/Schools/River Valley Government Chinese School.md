@@ -4,16 +4,17 @@ permalink: /school-histories/river-valley-government-chi-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rivervallygovtsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervallygovtsch1.png">
 
 ### **River Valley Government Chinese School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgT8PfHShyF_0WCsgTvEzplurgPpcwAnSteYjWALPaov163yOb0xIXY0NpmFuX84uOa5292jP5WThR/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rivervallygovtsch2.jpg">  
-<img src="/images/rivervallygovtsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervallygovtsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,15 +36,8 @@ Principals:<br>
 | 1985 | Merger with Kim Seng Primary School and River Valley English School to become River Valley Primary School. |
 |
 
-#### **School Motto**
-\-
-
 #### **School Crest**
-<img src="/images/rivervallygovtsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rivervallygovtsch1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-

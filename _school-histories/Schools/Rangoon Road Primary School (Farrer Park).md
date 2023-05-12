@@ -4,25 +4,25 @@ permalink: /school-histories/rangoon-road-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/rangoonroadpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rangoonroadpri1.png">
 
 ### **Rangoon Road Primary School (Farrer Park)**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUlO_Es79Z1c1gTaL8ary040lDTIQYvFCoWXw_WybbJiWnb_L5s_PdPAzx6_2uAdLytUjyUvKPKtJ6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/rangoonroadpri2.jpg">  
-<img src="/images/rangoonroadpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rangoonroadpri2.jpg">
 </a></p>
 
 <p><a href="/images/rangoonroadpri3.jpg">  
-<img src="/images/rangoonroadpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rangoonroadpri3.jpg">
 </a></p>
 
 <p><a href="/images/rangoonroadpri4.jpg">  
-<img src="/images/rangoonroadpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/rangoonroadpri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,13 +56,14 @@ Principals:<br>
 Live and Learn
 
 #### **School Crest**
-<img src="/images/rangoonroadpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/rangoonroadpri1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 In this school of ours in unity, we’ll strive to<br>
 Bring her high honour in work and<br>
 Play, cheering each others’ endeavour.<br>

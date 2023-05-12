@@ -4,49 +4,50 @@ permalink: /school-histories/shuqun-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/shuqunpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/shuqunpri1.png">
 
 ### **Shuqun Primary School**
-[URL to website](https://shuqunpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://shuqunpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVxBJ952OnVvfpHqQkJQbxG-VW2s9oxvBDYnU7J01a_gtkcICkcsxPy5XnFfLnO7UQDibXZYTPqfKk/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/shuqunpri2.jpg">  
-<img src="/images/shuqunpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri2.jpg">
 </a></p>
 
 <p><a href="/images/shuqunpri3.jpg">  
-<img src="/images/shuqunpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri3.jpg">
 </a></p>
 
 <p><a href="/images/shuqunpri4.jpg">  
-<img src="/images/shuqunpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/shuqunpri5.jpg">  
-<img src="/images/shuqunpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri5.jpg">
 </a></p>
 
 <p><a href="/images/shuqunpri6.jpg">  
-<img src="/images/shuqunpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri6.jpg">
 </a></p>
 
 <p><a href="/images/shuqunpri7.jpg">  
-<img src="/images/shuqunpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/shuqunpri8.jpg">  
-<img src="/images/shuqunpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri8.jpg">
 </a></p>
 
 <p><a href="/images/shuqunpri9.jpg">  
-<img src="/images/shuqunpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,11 +57,11 @@ Shuqun Primary School has a long history. It was originally established in 1925 
 
 In 1958, it was renamed Seh Chuan High School, and later became a full school with primary and secondary classes to meet the increasing demand for schooling in the community. Additional classrooms and facilities were provided through several extension projects. A six-storey building – with a hall, a central library, laboratories and special rooms – was completed in September 1976.
 
-The enrolment continued to rise, but there was no room for further expansion. The Ministry of Education then offered to take over the school as a government school. In April 1984, Seh Chuan High School ceased to be a full school, and split into Shuqun Primary and Shuqun Secondary. In March 1985, both schools moved to new premises in Jurong East. 
+The enrolment continued to rise, but there was no room for further expansion. The Ministry of Education then offered to take over the school as a government school. In April 1984, Seh Chuan High School ceased to be a full school, and split into Shuqun Primary and Shuqun Secondary. In March 1985, both schools moved to new premises in Jurong East.&nbsp;
 
 In January 1986, Shuqun Primary School relocated to Jurong West Street 51. On 30 June 1986, a new school song was sung, and the school flag bearing the new school crest was raised for the first time. It marked the beginning of many opportunities and milestones to come.
 
-The school’s PRIME upgrading project was completed in 2002. Shuqun Primary School’s vision and mission were refined, and the school strengthened its focus on holistic education and subsequently established its Learning for Life Programme in Outdoor Education in 2014 as well as Applied Learning Programme in Environmental Education, in 2019.
+The school’s PRIME upgrading project was completed in 2002. Shuqun Primary School’s vision and mission were refined, and the school strengthened its focus on holistic education and subsequently established its Learning for Life Programme in Outdoor Education in 2014&nbsp;as well as Applied Learning Programme in Environmental Education, in 2019.
 
 Principals:<br>
 \- Mr Boey Yim Thim (1964–1985)<br>
@@ -93,14 +94,14 @@ Principals:<br>
 To Serve with Quality
 
 #### **School Crest**
-<img src="/images/shuqunpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/shuqunpri1.png">
 
 The letters ‘SQ’ represent the school’s initials and school motto. The circle depicts unity and harmony among its multiracial students.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1KYzntHPLC8WaLf9Y_Hh7oqspX6Xzk1sD/view?usp=share_link">**♫ Listen**</a>
 
 Let us strive for perfection, let us do our best,<br>
 As we honour our nation and honour our crest.<br>

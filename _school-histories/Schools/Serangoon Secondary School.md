@@ -4,7 +4,7 @@ permalink: /school-histories/serangoon-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/srsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srsec1.png">
 
 ### **Serangoon Secondary School**
 [URL to website](https://www.serangoonsec.moe.edu.sg/) 
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQukGLG9M7jkxVus88jCX-2VsWfNWnbtyDDJUaGfBxEEXUqq7d1ZC9LOh5PITsFEoyL1dMfRwST01Ep/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/srsec2.jpg">  
-<img src="/images/srsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec2.jpg">
 </a></p>
 
 <p><a href="/images/srsec3.jpg">  
-<img src="/images/srsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec3.jpg">
 </a></p>
 
 <p><a href="/images/srsec4.jpg">  
-<img src="/images/srsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/srsec5.jpg">  
-<img src="/images/srsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec5.jpg">
 </a></p>
 
 <p><a href="/images/srsec6.jpg">  
-<img src="/images/srsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec6.jpg">
 </a></p>
 
 <p><a href="/images/srsec7.jpg">  
-<img src="/images/srsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/srsec8.jpg">  
-<img src="/images/srsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec8.jpg">
 </a></p>
 
 <p><a href="/images/srsec9.jpg">  
-<img src="/images/srsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -111,14 +112,14 @@ Principals:<br>
 Seek to Grow, Strive to Excel, Serve with Honour
 
 #### **School Crest**
-<img src="/images/srsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/srsec1.png">
 
 The eagle depicted is the German eagle, which symbolises self-discipline, dignity, esteem and power. The lamp with its radiant and glowing flame symbolises knowledge acquired through studying and a student’s all-round development, well-being and balanced personality. Together, they symbolise the determination with which they seek to achieve their goals.
 
 The colour blue signifies the two important and essential qualities of a good character: piety and sincerity. White embodies everything that is pure and wholesome, particularly purity in thought, word and deed. Orange represents strength – both in character and physique – as well as firmness of character and endurance, the spirit of determination and the ability to persevere to the very end.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/17j5N7Lgq8BpWwr6Nxm6Xwhhb_d7jEwob/view?usp=share_link">**♫ Listen**</a>
 
 We proudly sing about our school<br>
 That shines among the rest.<br>

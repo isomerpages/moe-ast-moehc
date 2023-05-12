@@ -4,44 +4,45 @@ permalink: /school-histories/pioneer-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/pioneersec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pioneersec1.jpg">
 
 ### **Pioneer Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQoahZ8G77_5PQpUHRvEd8zfEjaLvj0XFXJ9H69WvmhkA6Iss69MXn7VLTj5roHb1piFaSSwNUKrFSd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/pioneersec2.jpg">  
-<img src="/images/pioneersec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec2.jpg">
 </a></p>
 
 <p><a href="/images/pioneersec3.jpg">  
-<img src="/images/pioneersec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec3.jpg">
 </a></p>
 
 <p><a href="/images/pioneersec4.jpg">  
-<img src="/images/pioneersec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/pioneersec5.jpg">  
-<img src="/images/pioneersec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec5.jpg">
 </a></p>
 
 <p><a href="/images/pioneersec6.jpg">  
-<img src="/images/pioneersec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec6.jpg">
 </a></p>
 
 <p><a href="/images/pioneersec7.jpg">  
-<img src="/images/pioneersec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/pioneersec8.jpg">  
-<img src="/images/pioneersec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pioneersec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -53,7 +54,7 @@ In 2014, the school was accorded the Applied Learning Programme, ‘Creating Pos
 
 In the following year, the school’s Learning for Life Programme, ‘The Pioneer-STAR! (Shine Through the Arts) Programme’, provided students with the opportunities to shine in the arts through the progressive development of their artistic skills in different art forms. This was also achieved with an aesthetic curriculum that would develop the students’ values, socio-emotional competencies and life skills, as well as encourage community service.
 
-In 2017, Pioneer Secondary merged with Boon Lay Secondary School, taking on the latter’s name and moving to its premises.
+In 2017, Pioneer&nbsp;Secondary merged with Boon Lay&nbsp;Secondary School, taking on the latter’s name and moving to its premises.
 
 Principals:<br>
 \- Mrs Yeo Chin Nam (1994)<br>
@@ -62,7 +63,7 @@ Principals:<br>
 \- Mr Satianathan s/o K. Nadarajah (2005–2011)<br>
 \- Mr Chan Weng Kit Mark (2012–2016)
 
-**Related School: [Boon Lay Secondary School](/school-histories/boon-lay-sec/)**
+**Related School: [Boon Lay Secondary School](https://www.boonlaysec.moe.edu.sg/)**
 
 #### **Key Milestones**
 
@@ -84,7 +85,7 @@ Principals:<br>
 To Persevere, Seek and Serve
 
 #### **School Crest**
-<img src="/images/pioneersec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pioneersec1.jpg">
 
 The three lines on the torch symbolise family, community and the nation. Upholding these institutions are the individual/student and the school, represented by the two vertical posts. The right, stronger post stands for the school, which helps students to grow, developing their potential and equipping them with skills to serve the community and nation.  
   
@@ -93,7 +94,7 @@ The flame of the torch burns bright and strong, depicting the desire to shine fo
 The open book stands for wisdom and knowledge, and a love for learning that all students should aspire towards.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1_XLRv0MrqV4m-C2zsVj5aei69Qj_QszV/view?usp=share_link">**♫ Listen**</a>
 
 Rise Pioneers young and old<br>
 Take up our torch of gold<br>
