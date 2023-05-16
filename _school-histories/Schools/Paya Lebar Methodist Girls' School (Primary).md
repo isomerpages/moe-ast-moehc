@@ -4,53 +4,54 @@ permalink: /school-histories/paya-lebar-methodist-girls-sch-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/plmgspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/plmgspri1.png">
 
 ### **Paya Lebar Methodist Girls' School (Primary)**
-[URL to website](https://payalebarmethodistgirlspri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://payalebarmethodistgirlspri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHn55WHNEmruWLFupjncUB3ujDaRLKxwqqcc_WbUbghi2OsVxk-eI96r4RVCdWhjtlws2H0Kjq_RgV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/plmgspri2.jpg">  
-<img src="/images/plmgspri2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri2.jpg">
 </a></p>
 
 <p><a href="/images/plmgspri3.jpg">  
-<img src="/images/plmgspri3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri3.jpg">
 </a></p>
 
 <p><a href="/images/plmgspri4.jpg">  
-<img src="/images/plmgspri4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri4.jpg">
 </a></p>
 
 <p><a href="/images/plmgspri5.jpg">  
-<img src="/images/plmgspri5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/plmgspri6.jpg">  
-<img src="/images/plmgspri6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri6.jpg">
 </a></p>
 
 <p><a href="/images/plmgspri7.jpg">  
-<img src="/images/plmgspri7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri7.jpg">
 </a></p>
 
 <p><a href="/images/plmgspri8.jpg">  
-<img src="/images/plmgspri8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri8.jpg">
 </a></p>
 
 <p><a href="/images/plmgspri9.jpg">  
-<img src="/images/plmgspri9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/plmgspri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Paya Lebar Methodist Girls’ School (PLMGS) began on 31 October 1916 as a branch school of Anglo-Chinese School and was known as Paya Lebar English School.  It started functioning as an elementary school in 1917, with a staff of three and a pupil enrolment of 24 boys. In 1918, the school began taking in girls.
+Paya Lebar Methodist Girls’ School (PLMGS) began on 31 October 1916 as a branch school of Anglo-Chinese School and was known as Paya Lebar English School. &nbsp;It started functioning as an elementary school in 1917, with a staff of three and a pupil enrolment of 24 boys. In 1918, the school began taking in girls.
 
 In 1935, Mrs Chew Hock Hin became the principal. Mrs Chew is regarded as the founder of the school because she reorganised the school with the help of the American Crusade Fund after the school building was razed to the ground during the Second World War. She enrolled girls into the school, believing that girls have to be educated as well as boys. As a result, the morning school, Paya Lebar Methodist Girls’ School, and the afternoon school, Paya Lebar Methodist Boys’ School, were established.
 
@@ -87,16 +88,16 @@ Principals:<br>
 
 #### **School Motto**
 Look Up, Lift Up<br>
-We **look up** to God for help and guidance as we aim for greater heights of achievement.<br>
-We **lift up** our eyes to the Lord from whom we receive help to face life’s trials and tribulations.
+We&nbsp;**look up**&nbsp;to God for help and guidance as we aim for greater heights of achievement.<br>
+We&nbsp;**lift up**&nbsp;our eyes to the Lord from whom we receive help to face life’s trials and tribulations.
 
 #### **School Crest**
-<img src="/images/plmgspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/plmgspri1.png">
 
 The school crest has a cross above the words ‘Paya Lebar MGS’ signifying that Christ is above all. The lines radiating from the cross suggest that the light of God will shine through the school. The background is yellow, which stands for brightness and light, for the school is to be like a beacon to the community.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/18JkC-zIUlQ_S9Zr25-LspJBoj2-UjYME/view?usp=share_link">**♫ Listen**</a>	
 
 O let our youthful voices ring<br>
 With all their joyfulness<br>

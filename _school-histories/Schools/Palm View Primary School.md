@@ -4,49 +4,50 @@ permalink: /school-histories/palm-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/palmviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/palmviewpri1.png">
 
 ### **Palm View Primary School**
-[URL to website](https://palmviewpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://palmviewpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQ6_Pwn1ei2CVjk8uwD_cWyhVFXqJouVrFsKg34rlMxwtVh8_GO7Ko0o-ANHWc9VqH8yzUUKwgKfZP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/palmviewpri2.jpg">  
-<img src="/images/palmviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri2.jpg">
 </a></p>
 
 <p><a href="/images/palmviewpri3.jpg">  
-<img src="/images/palmviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri3.jpg">
 </a></p>
 
 <p><a href="/images/palmviewpri4.jpg">  
-<img src="/images/palmviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/palmviewpri5.jpg">  
-<img src="/images/palmviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri5.jpg">
 </a></p>
 
 <p><a href="/images/palmviewpri6.jpg">  
-<img src="/images/palmviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri6.jpg">
 </a></p>
 
 <p><a href="/images/palmviewpri7.jpg">  
-<img src="/images/palmviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/palmviewpri8.jpg">  
-<img src="/images/palmviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri8.jpg">
 </a></p>
 
 <p><a href="/images/palmviewpri9.jpg">  
-<img src="/images/palmviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/palmviewpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -70,7 +71,7 @@ Principals:<br>
 Inspiring Excellence
 
 #### **School Crest**
-<img src="/images/palmviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/palmviewpri1.png">
 
 The emblem expresses the aspirations that school leaders of Palm View Primary School bear for the school, and consists of a central torch, an open book and a victory laurel crowned with a burning flame.
 
@@ -79,7 +80,7 @@ The torch is a bearer of light and symbolises the school’s belief in the poten
 Orange and green colours are chosen for the emblem to signify youthfulness, courage and vitality – qualities that the school hopes its students will exude.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/14x2iw8XrYU4nxU_tMn0OmcPSbLMmC4vf/view?usp=share_link">**♫ Listen**</a>
 
 Rise up Palm View let your voice be heard,<br>
 the siren beckons our flag unfurled.<br>

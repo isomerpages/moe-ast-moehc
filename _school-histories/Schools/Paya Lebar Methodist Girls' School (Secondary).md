@@ -4,49 +4,50 @@ permalink: /school-histories/paya-lebar-methodist-girls-sch-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/plmgssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/plmgssec1.jpg">
 
 ### **Paya Lebar Methodist Girls' School (Secondary)**
-[URL to website](https://www.plmgss.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.plmgss.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6yRDVlgHLNQBCK-UnnvQ5j0xBeZKQMpyF853qv5qm6t0nD0B5K7vSetknTl9DgcM_zQsAvXMYiL2X/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/plmgssec2.jpg">  
-<img src="/images/plmgssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec2.jpg">
 </a></p>
 
 <p><a href="/images/plmgssec3.jpg">  
-<img src="/images/plmgssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec3.jpg">
 </a></p>
 
 <p><a href="/images/plmgssec4.jpg">  
-<img src="/images/plmgssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/plmgssec5.jpg">  
-<img src="/images/plmgssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec5.jpg">
 </a></p>
 
 <p><a href="/images/plmgssec6.jpg">  
-<img src="/images/plmgssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec6.jpg">
 </a></p>
 
 <p><a href="/images/plmgssec7.jpg">  
-<img src="/images/plmgssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/plmgssec8.jpg">  
-<img src="/images/plmgssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec8.jpg">
 </a></p>
 
 <p><a href="/images/plmgssec9.jpg">  
-<img src="/images/plmgssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/plmgssec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ In 1935, Mrs Chew Hock Hin became the principal. She reorganised the school afte
 
 Rooted in Christian values, Paya Lebar Methodist Girls’ Secondary School is an iconic part of the Kovan community. It is a ‘home’ for girls of different social backgrounds, races and religions. Families from the surrounding communities entrust their daughters to the values-driven education with which the mission school is synonymous. Now an established institution, the school’s growth and transformation have been in tandem with nation-building. The school’s mission is to educate girls with different strengths to realise their full potential and find their place in society.
 
-The holistic education builds character and talent in aesthetics, sports or uniformed groups. The school’s Board of Management, parents, alumni and staff invest time and effort by actively participation in the school’s programmes. In strengthening the vibrant arts culture, which is a niche area, PLMGS (Sec) together with PLMGS (Pri) have been the East Zone Centre of Excellence for Creative Arts since 2008.  This has resulted in collaborative work with schools in the east zone in developing arts education in schools at the national level.
+The holistic education builds character and talent in aesthetics, sports or uniformed groups. The school’s Board of Management, parents, alumni and staff invest time and effort by actively participation in the school’s programmes. In strengthening the vibrant arts culture, which is a niche area, PLMGS (Sec) together with PLMGS (Pri) have been the East Zone Centre of Excellence for Creative Arts since 2008.&nbsp; This has resulted in collaborative work with schools in the east zone in developing arts education in schools at the national level.
 
 An autonomous school since 2002, PLMGS (Sec) has attained Best Practice Awards in Staff Well-Being, Teaching and Learning, and Student All-round Development. In 2012, during the Ministry of Education’s external validation exercise, the school was accorded the School Excellence Award, the pinnacle award in the Ministry’s Masterplan of Awards.
 
@@ -92,21 +93,21 @@ Principals:<br>
 Look Up, Lift Up
 
 **Explanation:**<br>
-We _look up_ to God for help and guidance,<br>
+We&nbsp;_look up_&nbsp;to God for help and guidance,<br>
 as well as for directions in our lives,<br>
 as we aim for greater heights of achievements.
   
-We _lift up_ our eyes unto the Lord<br>
+We&nbsp;_lift up_&nbsp;our eyes unto the Lord<br>
 from whom we receive help<br>
 to face life's trials and tribulations
 
 #### **School Crest**
-<img src="/images/plmgssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/plmgssec1.jpg">
 
 The school crest has a cross above the words ‘Paya Lebar MGS’, signifying that Christ is above all. The lines radiating from the cross suggest that the light of God will shine through the school. The background is yellow, which stands for brightness and light, for the school is to be like a beacon to the community.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1WzKS68U2mOLDTTYPLbSwWGQCaR6RMVw2/view?usp=share_link">**♫ Listen**</a>	
 
 O let our youthful voices ring<br>
 With all their joyfulness<br>

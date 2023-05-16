@@ -4,32 +4,33 @@ permalink: /school-histories/outram-institute/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/outraminstitute1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/outraminstitute1.png">
 
 ### **Outram Institute**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTrhvQFbK8lboITdJU1BkwC5zpoIQoKx5PXD987yZz9Uu3nkdfB9wPqNG2go7Qq7pEXTH_0CXahGrHg/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/outraminstitute2.jpg">  
-<img src="/images/outraminstitute2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/outraminstitute2.jpg">
 </a></p>
 
 <p><a href="/images/outraminstitute3.jpg">  
-<img src="/images/outraminstitute3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/outraminstitute3.jpg">
 </a></p>
 
 <p><a href="/images/outraminstitute4.jpg">  
-<img src="/images/outraminstitute4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/outraminstitute4.jpg">
 </a></p>
 
 <p><a href="/images/outraminstitute5.jpg">  
-<img src="/images/outraminstitute5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/outraminstitute5.jpg">
 </a></p>
 
 <p><a href="/images/outraminstitute6.jpg">  
-<img src="/images/outraminstitute6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/outraminstitute6.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,15 +59,15 @@ Last Serving Principal<br>
 | 2004 | Merger with Jurong Institute to become Millennia Institute. |
 |
 
-#### **School Motto**
-\-
 
 #### **School Crest**
-<img src="/images/outraminstitute1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/outraminstitute1.png">
 
 The school crest consists of a simple graphic design, consisting of the letter “O” for “Outram” and “I” below it, for “Institute”, which together make up a lower-case letter “i”, for “institute”.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We are all one family<br>
 We care for one another<br>
 Whatever happens to our Institute<br>
@@ -87,4 +88,4 @@ When we work, play and serve.
 We are all one family<br>
 We care for one another<br>
 These will help us all excel<br>
- When we work, play and serve.
+&nbsp;When we work, play and serve.

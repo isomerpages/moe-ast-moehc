@@ -4,40 +4,41 @@ permalink: /school-histories/pearls-hill-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/pearlshillsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pearlshillsch1.png">
 
 ### **Pearl's Hill School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBWVrpyN5dxo0DIFKAfH3o6Erw13Rb3KFZ74VsTUX6kqw1KnFaAxM3S90gnj8qYH8ycM7LRPlPev1-/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/pearlshillsch2.jpg">  
-<img src="/images/pearlshillsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pearlshillsch2.jpg">
 </a></p>
 
 <p><a href="/images/pearlshillsch3.jpg">  
-<img src="/images/pearlshillsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pearlshillsch3.jpg">
 </a></p>
 
 <p><a href="/images/pearlshillsch4.jpg">  
-<img src="/images/pearlshillsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/pearlshillsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Pearl’s Hill School was established in 1881 at Cross Street. Formerly known as the Singapore Chinese Branch School, Pearl’s Hill Primary School was among the pioneer batch of Government Schools set up by the colonial government. The school served as a feeder school for Raffles Institution. By 1885, the school had become known as Cross Street School. 
+Pearl’s Hill School was established in 1881 at Cross Street. Formerly known as the Singapore Chinese Branch School, Pearl’s Hill Primary School was among the pioneer batch of Government Schools set up by the colonial government. The school served as a feeder school for Raffles Institution. By 1885, the school had become known as Cross Street School.&nbsp;
 
-In 1906, it was converted into a preparatory school and was affiliated with Outram Road School. With this development, the school was renamed Cross Street Infants’ School. 
+In 1906, it was converted into a preparatory school and was affiliated with Outram Road School. With this development, the school was renamed Cross Street Infants’ School.&nbsp;
 
-In 1914, Cross Street Infants’ School was closed and replaced with a new school on Pearl’s Hill Road known as Pearl’s Hill School. 
+In 1914, Cross Street Infants’ School was closed and replaced with a new school on Pearl’s Hill Road known as Pearl’s Hill School.&nbsp;
 
-In 1972, Pearl’s Hill School shifted to a new site at Chin Swee Road. This school building was known for being 12 storeys high, which made it the tallest school building in Singapore at that time. 
+In 1972, Pearl’s Hill School shifted to a new site at Chin Swee Road. This school building was known for being 12 storeys high, which made it the tallest school building in Singapore at that time.&nbsp;
 
-In 1995, Pearl’s Hill School merged with Pearl Park Primary School, retaining the name of the former.  
+In 1995, Pearl’s Hill School merged with Pearl Park Primary School, retaining the name of the former.&nbsp;&nbsp;
 
-On 31 December 2001, Pearl’s Hill School closed and the former building of the school at Chin Swee Road has since housed Hotel Re!.   
+On 31 December 2001, Pearl’s Hill School closed and the former building of the school at Chin Swee Road has since housed Hotel Re!.&nbsp;  
   
 Principals:<br>
 Mr E T Yzelman (1881 – 1884)<br>
@@ -82,20 +83,21 @@ Mr Cheok Yeow Chong (1976 – 1981)
 Perseverance, Honour, Success
 
 #### **School Crest**
-<img src="/images/pearlshillsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pearlshillsch1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We're here to learn right from the start<br>
 Let’s work in unity.<br>
 Let's sing this song with all our hearts and pledge our loyalty.<br>
 Let not our motto be forgotten.<br>
 As Pearl’s Hill we like best<br>
 So, sing the song with our hearts.<br>
-And shine above the rest. 
+And shine above the rest.&nbsp;
 
 With pride we work in PHS<br>
 We show our dignity<br>

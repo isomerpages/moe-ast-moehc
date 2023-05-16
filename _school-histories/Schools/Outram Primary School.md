@@ -4,16 +4,17 @@ permalink: /school-histories/outram-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/outrampri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/outrampri1.png">
 
 ### **Outram Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRbCf44I8yM7OTxmTGcB9CG4z_MDVzf0WLB4l35gvE69lH_sHe4DH3l9HfQLIhzWTAqx3e2gZ4xTHC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/outrampri2.jpg">  
-<img src="/images/outrampri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/outrampri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -38,11 +39,7 @@ Principals:<br>
 Strive and Persevere
 
 #### **School Crest**
-<img src="/images/outrampri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/outrampri1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-
