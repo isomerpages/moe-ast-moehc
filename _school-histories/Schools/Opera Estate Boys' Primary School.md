@@ -47,4 +47,3 @@ Principals:<br>
 | 1959 | Establishment of Opera Estate Boys’ School |
 | 1985 | Merger with Opera Estate Girls’ School to form Opera Estate Primary school. |
 |
-
