@@ -4,17 +4,18 @@ permalink: /school-histories/opera-estate-girls-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/operaestategirls1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/operaestategirls1.png">
 
 ### **Opera Estate Girls' Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
+
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvGo5yDgT8_MdNCsTObA7ecnQJk6RiByb_XSPBRwpjNELt7d4fixb-lGtlgcXPsG7oiCFH4PLOJM8r/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/operaestategirls2.jpg">  
-<img src="/images/operaestategirls2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/operaestategirls2.jpg">
 </a></p>
 
 <br clear="left">
@@ -34,15 +35,3 @@ The school also organised a funfair in 1979 to raise funds for the development o
 | Late 1950s | Establishment of Opera Estate Girls’ Primary School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/operaestategirls1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
