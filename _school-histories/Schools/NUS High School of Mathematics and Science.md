@@ -4,49 +4,51 @@ permalink: /school-histories/nus-high-sch-of-math-and-sci/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nushighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nushighsch1.jpg">
 
 ### **NUS High School of Mathematics and Science**
-[URL to website](https://www.nushigh.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.nushigh.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTSCVXSx3EjiqERJSFUh1lBnfkAPY9tPDk8QW19TFBWhG3CcGwHTmkhuuJv2It8fVeIbx_hAvnxINm8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/nushighsch2.jpg">  
-<img src="/images/nushighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch2.jpg">
 </a></p>
 
 <p><a href="/images/nushighsch3.jpg">  
-<img src="/images/nushighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch3.jpg">
 </a></p>
 
 <p><a href="/images/nushighsch4.jpg">  
-<img src="/images/nushighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nushighsch5.jpg">  
-<img src="/images/nushighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch5.jpg">
 </a></p>
 
 <p><a href="/images/nushighsch6.jpg">  
-<img src="/images/nushighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch6.jpg">
 </a></p>
 
 <p><a href="/images/nushighsch7.jpg">  
-<img src="/images/nushighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nushighsch8.jpg">  
-<img src="/images/nushighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch8.jpg">
 </a></p>
 
 <p><a href="/images/nushighsch9.jpg">  
-<img src="/images/nushighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nushighsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -66,7 +68,7 @@ Since 2008, NUS High’s network of international partner schools has grown sign
 
 Over the years, NUS High School has established itself as the forerunner in mathematics and science education in Singapore and beyond, and strives to exemplify the passion and joy of learning.
 
-The school was officially declared open in 2007 and is currently located at 20 Clementi Avenue 1.
+The school was officially declared open in 2007 and&nbsp;is currently located at 20 Clementi Avenue 1.
 
 Principals:<br>
 \- Dr Lai Yee Hing (2005–2007)<br>
@@ -93,14 +95,14 @@ Principals:<br>
 Experiment. Explore. Excel.
 
 #### **School Crest**
-<img src="/images/nushighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nushighsch1.jpg">
 
 The school logo underscores the importance placed on mathematics and the sciences. The test tube represents the sciences and the π symbol stands for the field of mathematics.
 
 The third element, the sparkle, is emblematic of the dynamism and creativity arising from the synergy between these two disciplines. The colour green represents the nurturing environment that is instrumental for students’ development. The colour grey is symbolic of the solid base upon which the school is built.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/15QUf4D3MolchiYgQwW234TiZp7X1plkn/view?usp=share_link">**♫ Listen**</a> 
 
 As the school flag flies up high<br>
 Rising up toward the sky<br>
