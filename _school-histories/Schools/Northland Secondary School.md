@@ -4,33 +4,34 @@ permalink: /school-histories/northland-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northlandsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northlandsec1.jpg">
 
 ### **Northland Secondary School**
-[URL to website](https://northlandsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://northlandsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRE94RQyBgk5Hf7EgduRgeb-7ErJc8PhtXiY34FbbdGedKYpu5ajA5aHfSj6lcrJZQnnbkSPTClM53N/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northlandsec2.jpg">  
-<img src="/images/northlandsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlandsec2.jpg">
 </a></p>
 
 <p><a href="/images/northlandsec4.jpg">  
-<img src="/images/northlandsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/northlandsec4.jpg">
 </a></p>
 
 <p><a href="/images/northlandsec3.jpg">  
-<img src="/images/northlandsec3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/northlandsec3.jpg">
 </a></p>
 
 <p><a href="/images/northlandsec5.jpg">  
-<img src="/images/northlandsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlandsec5.jpg">
 </a></p>
 
 <p><a href="/images/northlandsec6.jpg">  
-<img src="/images/northlandsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlandsec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -38,7 +39,7 @@ third_nav_title: Schools
 #### **School History**
 Established in 1994, Northland Secondary School is a government co-educational secondary school located at 3 Yishun Street 22.
 
-In 2014, Northland Secondary School was accorded the Learning for Life Programme, ‘Game for Life’, which uses sports and physical activities to prepare students for life as they develop strong social-emotional competencies. In 2016, the school was accorded the Applied Learning Programme, ‘Gerontology and Geriatrics – Health Care for the Elderly’. It introduces students to biological, cognitive and social aspects of aging, and how best to support the elderly in the management of diseases and disabilities, starting with those in their immediate families and the community. 
+In 2014, Northland Secondary School was accorded the Learning for Life Programme, ‘Game for Life’, which uses sports and physical activities to prepare students for life as they develop strong social-emotional competencies.&nbsp;In 2016, the school was accorded the Applied Learning Programme, ‘Gerontology and Geriatrics – Health Care for the Elderly’. It introduces students to biological, cognitive and social aspects of aging, and how best to support the elderly in the management of diseases and disabilities, starting with those in their immediate families and the community.&nbsp;
 
 In 2017, Northland Secondary School and North View Secondary School merged to form the current Northland Secondary School, which is located at its current premises. The merged school adopted the Chinese name of North View Secondary School, 德贤中学.
 
@@ -67,16 +68,16 @@ Principals:<br>
 With Responsibility and Resolution
 
 #### **School Crest**
-<img src="/images/northlandsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northlandsec1.jpg">
 
-The colour red symbolises dynamism, while green represents growth and development. With a red centre encircled by green, the crest signifies that dynamism and strength are at the heart of growth and development. The circle symbolises the continuous nature of growth and development. Gold is a metal of great value and purity, and its colour signifies nobility of character, which students should strive to achieve so that they may become worthy individuals and valued citizens.
+The colour&nbsp;red&nbsp;symbolises dynamism, while&nbsp;green represents growth and development. With a red centre encircled by green, the crest signifies that dynamism and strength are at the heart of growth and development. The circle&nbsp;symbolises the continuous nature of growth and development.&nbsp;Gold&nbsp;is a metal of great value and purity, and its colour signifies nobility of character, which students should strive to achieve so that they may become worthy individuals and valued citizens.
 
-Every building is constructed for a specific purpose. The school building in the Northland school crest reminds students of the importance of identifying goals and what one ought to be ‘building’ in life. Just like how a building can endure only if it has a strong foundation, in order for students to succeed in their endeavours, they would need to ensure they establish a strong foundation in whatever they do.   
+Every building is constructed for a specific purpose. The school building in the Northland school crest reminds students of the importance of identifying goals and what one ought to be ‘building’ in life. Just like how a building can endure only if it has a strong foundation, in order for students to succeed in their endeavours, they would need to ensure they establish a strong foundation in whatever they do.&nbsp;  
   
-The clock tower depicted in the crest is the most distinctive feature of our school building.  It is at once a symbol of time, timeliness and timelessness.  It is a daily reminder to us of the passing of time and the need to cherish life’s opportunities and experiences.  It summons us to take timely actions in the pursuit of our goals and our response to challenges in life.  It also extols us to be anchored by timeless values and truths throughout the course of life’s journey.
+The clock tower depicted in the crest is the most distinctive feature of our school building.&nbsp; It is at once a symbol of time, timeliness and timelessness.&nbsp; It is a daily reminder to us of the passing of time and the need to cherish life’s opportunities and experiences.&nbsp; It summons us to take timely actions in the pursuit of our goals and our response to challenges in life.&nbsp; It also extols us to be anchored by timeless values and truths throughout the course of life’s journey.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1-ObvoAyCubydFuNXgCWcmPmQlGDOGq3Y/view?usp=share_link">**♫ Listen**</a>
 
 We have a dream to be upright and strong,<br>
 in our Nation proudly stand,<br>
