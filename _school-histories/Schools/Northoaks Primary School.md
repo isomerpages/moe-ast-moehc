@@ -4,49 +4,50 @@ permalink: /school-histories/northoaks-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northoakspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northoakspri1.png">
 
 ### **Northoaks Primary School**
-[URL to website](https://northoakspri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://northoakspri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vStjRwD2FNrX24k6t7Vs_UM65ah1CnxlY_h6VtiWtwLp4cs6ReeRcdtEMVy6zdVK0QKBlS98f0ycnJO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northoakspri2.jpg">  
-<img src="/images/northoakspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri2.jpg">
 </a></p>
 
 <p><a href="/images/northoakspri3.jpg">  
-<img src="/images/northoakspri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri3.jpg">
 </a></p>
 
 <p><a href="/images/northoakspri4.jpg">  
-<img src="/images/northoakspri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northoakspri5.jpg">  
-<img src="/images/northoakspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri5.jpg">
 </a></p>
 
 <p><a href="/images/northoakspri6.jpg">  
-<img src="/images/northoakspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri6.jpg">
 </a></p>
 
 <p><a href="/images/northoakspri7.jpg">  
-<img src="/images/northoakspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northoakspri8.jpg">  
-<img src="/images/northoakspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri8.jpg">
 </a></p>
 
 <p><a href="/images/northoakspri9.jpg">  
-<img src="/images/northoakspri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northoakspri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -67,15 +68,15 @@ Principal:<br>
 |
 
 #### **School Motto**
-Grow & Glow
+Grow &amp; Glow
 
 #### **School Crest**
-<img src="/images/northoakspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northoakspri1.png">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1A61o_vHl46qpk43ixmUtNzNi7wld9_nM/view?usp=share_link">**♫ Listen**</a>
 
 We, at Northoaks, hand in hand<br>
 Our passion ignited<br>
