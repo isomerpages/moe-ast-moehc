@@ -4,34 +4,35 @@ permalink: /school-histories/north-view-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northviewsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northviewsec1.png">
 
 ### **North View Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTw-6QcCUSFuhRA1-MmLIWCX0bvLX0Z980HQ_Ir0T2iUWLo32W3J-vZkKVzYcYsZ_HTjWkmMRdYwYQc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northviewsec2.jpg">  
-<img src="/images/northviewsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewsec2.jpg">
 </a></p>
 
 <p><a href="/images/northviewsec3.jpg">  
-<img src="/images/northviewsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewsec3.jpg">
 </a></p>
 
 <p><a href="/images/northviewsec4.jpg">  
-<img src="/images/northviewsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northviewsec5.jpg">  
-<img src="/images/northviewsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewsec5.jpg">
 </a></p>
 
 <p><a href="/images/northviewsec6.jpg">  
-<img src="/images/northviewsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewsec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -43,7 +44,7 @@ In 2014, the school was accorded the Learning for Life Programme in Student Lead
 
 In the following year, North View was accorded the Applied Learning Programme in Robotic Engineering Design. The programme capitalised on the blended and interactive approach of robotic engineering and design to solve real-world problems using design thinking, with broad-based opportunities in science, technology, engineering and mathematics.
 
-In 2017, North View Secondary School merged with Northland Secondary School, taking on the latter’s name. The merged school currently operates at the site of Northland Secondary.
+In 2017, North View&nbsp;Secondary School merged with Northland&nbsp;Secondary School, taking on the latter’s name. The merged school currently operates at the&nbsp;site of Northland&nbsp;Secondary.
 
 Principals:<br>
 \- Mr Kwek Hiok Chuang (1988–1992)<br>
@@ -72,12 +73,12 @@ Principals:<br>
 A Vision to Service
 
 #### **School Crest**
-<img src="/images/northviewsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northviewsec1.png">
 
 The badge consists of the letters ‘N’ and ‘V’ enclosed in an outline of a leaf in white. The letters are slanted. The leaf depicts a new shoot that will grow into a strong plant as the years go by, symbolising the physical and mental development of the students. The slanting manner of the badge represents progress in all areas of school life. The letter ‘V’ in red symbolises the bright vision that the students have ahead, while the silver lines symbolise the students’ growth as they move ahead with technology.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/13N8ao0qEl2YKCfnR3vuYSjNyARyscsyf/view?usp=share_link">**♫ Listen**</a>
 
 It is our desire to achieve loyalty,<br>
 Team spirit and sound character,<br>
