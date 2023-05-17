@@ -4,45 +4,46 @@ permalink: /school-histories/north-vista-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northvistasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northvistasec1.png">
 
 ### **North Vista Secondary School**
-[URL to website](https://northvistasec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://northvistasec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvGzv3Vpzqs73KmLENrpRNNV--nFuX-uZEbSAH-IUkDUWOlK51GQea7-nWuctULD_AHS3fFCCOu10k/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northvistasec2.jpg">  
-<img src="/images/northvistasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec2.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec3.jpg">  
-<img src="/images/northvistasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec3.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec4.jpg">  
-<img src="/images/northvistasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec4.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec5.jpg">  
-<img src="/images/northvistasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec5.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec6.jpg">  
-<img src="/images/northvistasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec6.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec7.jpg">  
-<img src="/images/northvistasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec7.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec8.jpg">  
-<img src="/images/northvistasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec8.jpg">
 </a></p>
 
 <p><a href="/images/northvistasec9.jpg">  
-<img src="/images/northvistasec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,12 +90,12 @@ Principals:<br>
 Viva La Vista
 
 #### **School Crest**
-<img src="/images/northvistasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northvistasec1.png">
 
 The school logo is shaped like a globe with two hands supporting it. The globe represents the desire to develop a global outlook, while its golden glow signifies a new beginning. The two supporting hands symbolise the support for the students’ quest for knowledge, innovation and enterprise. The stylised and bold ‘NV’ symbol signifies a vibrant school. The school motto, ‘Viva La Vista’, is set beneath the initials. The ring around the globe represents an all-round development to achieve the desired outcomes of education.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1pUoADo-R13x3ZvPcppvqc5y_VWvfw7My/view?usp=share_link">**♫ Listen**</a>
 
 We will stand up for North Vista<br>
 With pride and commitment<br>
