@@ -4,45 +4,45 @@ permalink: /school-histories/northbrooks-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northbrookssec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northbrookssec1.png">
 
 ### **Northbrooks Secondary School**
-[URL to website](https://northbrookssec.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://northbrookssec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0F_h2JxoI3mJiJPsdEHCWWagvRbD68-BgIkdy_PzHoLxrWL7N2Bf1jqI4Xeh3hQO4Qd1QM4r4UeQy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northbrookssec2.jpg">  
-<img src="/images/northbrookssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec2.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec3.jpg">  
-<img src="/images/northbrookssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec3.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec4.jpg">  
-<img src="/images/northbrookssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec4.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec5.jpg">  
-<img src="/images/northbrookssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec5.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec6.jpg">  
-<img src="/images/northbrookssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec6.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec7.jpg">  
-<img src="/images/northbrookssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec7.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec8.jpg">  
-<img src="/images/northbrookssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec8.jpg">
 </a></p>
 
 <p><a href="/images/northbrookssec9.jpg">  
-<img src="/images/northbrookssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northbrookssec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -83,14 +83,14 @@ Principals:<br>
 Soaring Yet Rooted
 
 #### **School Crest**
-<img src="/images/northbrookssec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northbrookssec1.png">
 
 Just as water is the basis of life, the school provides a nurturing and challenging environment to inspire all students to learn and grow. Just as trees, like aspens and giant redwoods that grow in groves supporting each other with their roots intertwined, people are also connected by a system of roots comprising family and friends. When pounded by the storms of life, the school community needs to hold each other up. Just like the oak, with its deep penetrating roots, withstands strong winds and violent storms, the school builds a strong foundation of moral values so that its students have the moral courage to make the right choices in life. Just as the spreading branches of the oak provides shelter against the sun and nesting places for birds, the school provides opportunities for students to develop their talents and abilities to the fullest, so that they in turn can reach out to touch the lives of others and make a positive difference to their community and the nation.
 
 The gold background represents a firm foundation of sound moral values to guide their thinking, so that the students will have the confidence to meet the challenges of a rapidly changing world. They will be well-balanced individuals, anchored by strong roots and equipped with the wings to soar to great heights to achieve their dreams with integrity. They will become people with values, and be of value to their community and their country.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/19wFIlPFW6mq58sKyltICxF3h3Kf-KlzV/view?usp=share_link">**♫ Listen**</a>
 
 With Brooksian fervour<br>
 Lift up our voices<br>
