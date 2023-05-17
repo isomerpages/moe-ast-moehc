@@ -4,49 +4,50 @@ permalink: /school-histories/north-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northviewpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northviewpri1.jpg">
 
 ### **North View Primary School**
-[URL to website](https://northviewpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://northviewpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh9VLLecdrVoPDnOpVMpDr5MHPy_I4suChO9CQjkl5hrUuUdVXa8-pSfR0bW9ctvvMlXSspRJkgPbf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northviewpri2.jpg">  
-<img src="/images/northviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri2.jpg">
 </a></p>
 
 <p><a href="/images/northviewpri3.jpg">  
-<img src="/images/northviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri3.jpg">
 </a></p>
 
 <p><a href="/images/northviewpri4.jpg">  
-<img src="/images/northviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northviewpri5.jpg">  
-<img src="/images/northviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri5.jpg">
 </a></p>
 
 <p><a href="/images/northviewpri6.jpg">  
-<img src="/images/northviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri6.jpg">
 </a></p>
 
 <p><a href="/images/northviewpri7.jpg">  
-<img src="/images/northviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northviewpri8.jpg">  
-<img src="/images/northviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri8.jpg">
 </a></p>
 
 <p><a href="/images/northviewpri9.jpg">  
-<img src="/images/northviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -78,10 +79,10 @@ Principals:<br>
 |
 
 #### **School Motto**
-Nobility & Valour
+Nobility &amp; Valour
 
 #### **School Crest**
-<img src="/images/northviewpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northviewpri1.jpg">
 
 ‘Nobility’: depicts the quality of elevation of mind and exaltation of character, ideal or conduct of its students; displaying magnanimity, nobleness, grandeur and honour.<br>
 ‘Valour’: depicts the exceptional courage of its students when facing challenges or difficulties.<br>
@@ -90,7 +91,7 @@ White star: symbolises the high moral standards that the school will instil in i
 Blue triangle: symbolises the importance of the partnership between the school, home and students in the students’ development.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1d_J1HSCQU_kz6u9ssPtypL5HsWmnbrB4/view?usp=share_link">**♫ Listen**</a>
 
 We are pupils of North View Primary<br>
 Where we learn to love and share.<br>
