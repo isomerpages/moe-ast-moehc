@@ -4,47 +4,48 @@ permalink: /school-histories/ngee-ann-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ngeeannsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ngeeannsec1.jpg">
 
 ### **Ngee Ann Secondary School**
-[URL to website](https://ngeeannsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://ngeeannsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_jf4QVFjoAfAB29KAZ8zBUW9YG9eCWMm1-JR7G7fk4WP74JH8zPsSeQxs6cExU2ekKIx4t2sPkA2f/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ngeeannsec2.jpg">  
-<img src="/images/ngeeannsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec2.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannsec3.jpg">  
-<img src="/images/ngeeannsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec3.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannsec4.jpg">  
-<img src="/images/ngeeannsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/ngeeannsec4.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannsec5.jpg">  
-<img src="/images/ngeeannsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec5.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannsec6.jpg">  
-<img src="/images/ngeeannsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/ngeeannsec7.jpg">  
-<img src="/images/ngeeannsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec7.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannsec8.jpg">  
-<img src="/images/ngeeannsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec8.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannsec9.jpg">  
-<img src="/images/ngeeannsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -90,12 +91,12 @@ Principals:<br>
 Righteousness and Courtesy
 
 #### **School Crest**
-<img src="/images/ngeeannsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ngeeannsec1.jpg">
 
 The emblem forms the Chinese character ‘义’, which means righteousness. The two hands signify the close cooperation between the school, the management board and the staff. The hexagon held by the two hands is a bee hive. It symbolises the excellent and industrious learning environment of the school. The book and rays symbolise that students studying under such a perfect environment will certainly attain a wealth of knowledge and develop an excellent moral character that will lead them to a bright future.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1hrbqKXr7v3iFkORU_XRnJkl54gG-IYcq/view?usp=share_link">**♫ Listen**</a>
 
 We’ll walk hand in hand through the years<br>
 With brotherly love and care<br>
