@@ -4,49 +4,50 @@ permalink: /school-histories/new-town-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/newtownsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/newtownsec1.jpg">
 
 ### **New Town Secondary School**
-[URL to website](https://newtownsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://newtownsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9CCQu1K_LxCK55ga3hqvsmqFE-JJTD--dUoiIBALssQWhvbOiX-JMJwqdAqXmfIFrGePwB6-D7YO6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/newtownsec2.jpg">  
-<img src="/images/newtownsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec2.jpg">
 </a></p>
 
 <p><a href="/images/newtownsec3.jpg">  
-<img src="/images/newtownsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec3.jpg">
 </a></p>
 
 <p><a href="/images/newtownsec4.jpg">  
-<img src="/images/newtownsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/newtownsec5.jpg">  
-<img src="/images/newtownsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec5.jpg">
 </a></p>
 
 <p><a href="/images/newtownsec6.jpg">  
-<img src="/images/newtownsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec6.jpg">
 </a></p>
 
 <p><a href="/images/newtownsec7.jpg">  
-<img src="/images/newtownsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/newtownsec8.jpg">  
-<img src="/images/newtownsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec8.jpg">
 </a></p>
 
 <p><a href="/images/newtownsec9.jpg">  
-<img src="/images/newtownsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -95,14 +96,14 @@ Principals:<br>
 To Forge a Better Life
 
 #### **School Crest**
-<img src="/images/newtownsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/newtownsec1.jpg">
 
 The badge features the name of the school in both English and Chinese. It is in three colours – white, black and red. White represents purity, sincerity and honesty. Black represents perseverance and steadfastness. Red represents aspirations, warmth and unity.
 
 At the centre of the badge is a flower made up of many petals encircling a cogwheel. The flower stands for scholastic achievement, while the cogwheel signifies the nation’s progress and development. Education is the inculcation of all the above attributes. It is hoped that, with these qualities, a Newtowner will be able to forge a better future for him/herself and the community, contributing to the nation’s progress and development.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1NK30WXSA23xpHb0hhRw3W3KkYGZ86Wiq/view?usp=share_link">**♫ Listen**</a>
 
 By Dover in Clementi is a school that we grow<br>
 Her motto ‘To Forge Better Lives’<br>
