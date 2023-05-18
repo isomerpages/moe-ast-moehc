@@ -4,35 +4,36 @@ permalink: /school-histories/new-town-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/newtownpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/newtownpri1.png">
 
 ### **New Town Primary School**
-[URL to website](https://newtownpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://newtownpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMitCdbEv8adsBKR8byRenIMtEbdhtnbKpMn7G0Q8PEnLapt3HurSCtdn5OC4NGGA9cS46iFsuTo7v/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/newtownpri2.jpg">  
-<img src="/images/newtownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri2.jpg">
 </a></p>
 
 <p><a href="/images/newtownpri3.jpg">  
-<img src="/images/newtownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri3.jpg">
 </a></p>
 
 <p><a href="/images/newtownpri4.jpg">  
-<img src="/images/newtownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/newtownpri5.jpg">  
-<img src="/images/newtownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri5.jpg">
 </a></p>
 
 <p><a href="/images/newtownpri6.jpg">  
-<img src="/images/newtownpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -75,14 +76,14 @@ Principals:<br>
 Be Ready To Serve
 
 #### **School Crest**
-<img src="/images/newtownpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/newtownpri1.png">
 
 The lion represents Singapore, which the school, as citizens, continually serve. The flame in front of the lion signifies the philosophy of the school in inculcating sound moral values. The open book stands for knowledge and the spirit of learning.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/17IKQscEfa5gIcm1Xi6AsiuhSB6FihTSU/view?usp=share_link">**♫ Listen**</a>
 
 In New Town Primary, where we start<br>
 Together we step forth with our hearts<br>
