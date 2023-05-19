@@ -4,49 +4,50 @@ permalink: /school-histories/nan-hua-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nanhuahighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanhuahighsch1.jpg">
 
 ### **Nan Hua High School**
-[URL to website](https://nanhuahigh.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://nanhuahigh.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6i6LJs15odbxLL0l6bKb5p7B69zDsfnzG70uqe78wpzjF76ExYbKv7gvO_9X2bPVUS6qTz-Hlntxo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/nanhuahighsch2.jpg">  
-<img src="/images/nanhuahighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch2.jpg">
 </a></p>
 
 <p><a href="/images/nanhuahighsch3.jpg">  
-<img src="/images/nanhuahighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch3.jpg">
 </a></p>
 
 <p><a href="/images/nanhuahighsch4.jpg">  
-<img src="/images/nanhuahighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanhuahighsch5.jpg">  
-<img src="/images/nanhuahighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch5.jpg">
 </a></p>
 
 <p><a href="/images/nanhuahighsch6.jpg">  
-<img src="/images/nanhuahighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch6.jpg">
 </a></p>
 
 <p><a href="/images/nanhuahighsch7.jpg">  
-<img src="/images/nanhuahighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanhuahighsch8.jpg">  
-<img src="/images/nanhuahighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch8.jpg">
 </a></p>
 
 <p><a href="/images/nanhuahighsch9.jpg">  
-<img src="/images/nanhuahighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ In 1957, the school was renamed Nan Hwa Girls’ High School with secondary clas
 
 In the 1970s, student enrolment declined due to urban redevelopment in the city. In 1982, the school relocated to 330 Clementi Avenue 1. In 1984, the school became a co-educational English-medium school and was renamed Nan Hua Secondary School. Two years later, it became a government school.
 
-In 2000, Nan Hua became a Special Assistance Plan (SAP) school. It began operating from the current premises at 41 Clementi Avenue 1 from January 2004. In 2006, the school was renamed Nan Hua High School and was accorded autonomous status. In 2009, the school introduced its Bicultural Programme to groom students to be effectively bilingual and to embrace both the wisdom of the modern world and traditional Chinese philosophy. The school has continued to excel in the performing arts, environment education and the Bicultural Programme. 
+In 2000, Nan Hua became a Special Assistance Plan (SAP) school. It began operating from the current premises at 41 Clementi Avenue 1 from January 2004. In 2006, the school was renamed Nan Hua High School and was accorded autonomous status. In 2009, the school introduced its Bicultural Programme to groom students to be effectively bilingual and to embrace both the wisdom of the modern world and traditional Chinese philosophy. The school has continued to excel in the performing arts, environment education and the Bicultural Programme.&nbsp;
 
 In 2017, Nan Hua High School celebrated its 100th anniversary. The school brought together many groups of people who have contributed to the school over the years. The theme ‘Centennial Excellence, Pioneering Tomorrow’ celebrated past traditions that have defined the 100-year-old school.
 
@@ -114,12 +115,12 @@ Principals:<br>
 耻: Sense of shame
 
 #### **School Crest**
-<img src="/images/nanhuahighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanhuahighsch1.jpg">
 
-The colour white signifies the embodiment of everything that is pure and wholesome, particularly purity in thought, word and deed. Blue signifies the essential qualities of good character – sincerity and integrity. The three corners of the triangle represent the three aspects of school education – moral, intellectual and physical education. The widely opened book symbolises the importance of reading. Students must acquire the desire to read in the course of their development into educated adults.
+The colour&nbsp;white signifies the embodiment of everything that is pure and wholesome, particularly purity in thought, word and deed. Blue signifies the essential qualities of good character – sincerity and integrity.&nbsp;The three corners of the triangle represent the three aspects of school education – moral, intellectual and physical education. The widely opened book symbolises the importance of reading. Students must acquire the desire to read in the course of their development into educated adults.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1i2FA7-tIhgeVE6U3SI5VtcF7Ueq3hv0n/view?usp=share_link">**♫ Listen**</a>
 
 Years it takes to build a nation<br>
 Strive we to this end with valour always<br>
