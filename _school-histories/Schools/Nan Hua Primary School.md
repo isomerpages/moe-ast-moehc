@@ -4,53 +4,54 @@ permalink: /school-histories/nan-hua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nanhuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanhuapri1.png">
 
 ### **Nan Hua Primary School**
-[URL to website](https://www.nanhuapri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.nanhuapri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWwDxpY3O1QVa8qIX0vOSeDbqviUyiDRduu3zBnW9TEXqMwzT8K5Kq15RDqdaYBTT0LMhEtyeo-ABq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/nanhuapri2.jpg">  
-<img src="/images/nanhuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri2.jpg">
 </a></p>
 
 <p><a href="/images/nanhuapri3.jpg">  
-<img src="/images/nanhuapri3.jpg" style="width:29%;margin-right:15px;" align = "left">
+<img align="left" style="width:29%;margin-right:15px;" src="/images/nanhuapri3.jpg">
 </a></p>
 
 <p><a href="/images/nanhuapri4.jpg">  
-<img src="/images/nanhuapri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/nanhuapri4.jpg">
 </a></p>
 
 <p><a href="/images/nanhuapri5.jpg">  
-<img src="/images/nanhuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri5.jpg">
 </a></p>
 
 <p><a href="/images/nanhuapri6.jpg">  
-<img src="/images/nanhuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanhuapri7.jpg">  
-<img src="/images/nanhuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri7.jpg">
 </a></p>
 
 <p><a href="/images/nanhuapri9.jpg">  
-<img src="/images/nanhuapri9.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/nanhuapri9.jpg">
 </a></p>
 
 <p><a href="/images/nanhuapri8.jpg">  
-<img src="/images/nanhuapri8.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/nanhuapri8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanhuapri10.jpg">  
-<img src="/images/nanhuapri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -96,35 +97,35 @@ Loyalty (忠), Filial Piety (孝), Humanity (仁), Love (爱),  <br>
 Courtesy (礼), Righteousness (义), Integrity (廉), Sense of Shame (耻)
 
 #### **School Crest**
-<img src="/images/nanhuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanhuapri1.png">
 
 The school crest is made up of three eccentric circles, with the circles’ arcs almost meeting one another at the top. The white English initials of the school name are placed in the innermost circle, while the red Chinese characters are placed in the second circle.
 
 The crest has three colours: blue representing decorum, white for integrity and red for love. The innermost circle represents righteousness and sense of shame. The second circle represents loyalty and filial piety. The third circle, which encompasses the first and second circles, symbolises the eight qualities – loyalty, filial piety, humanity, love, courtesy, righteousness, integrity and sense of shame – which the school hopes to inculcate in its students.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1-sxJuDdRdR5byGg3WpSJlWueyzjybTN6/view?usp=share_link">**♫ Listen**</a>
 
 立国大计须百年树人<br>
-Years it takes to build a nation    
+Years it takes to build a nation &nbsp;  
 
 我校同人以此自克励<br>
 Strive we to this end with valour always  
 
 小学教育与中学教育<br>
-Nurtured we from childhood through our youth    
+Nurtured we from childhood through our youth &nbsp;  
 
 五育平均发展相砥砺<br>
-Finest essence spread we all our days    
+Finest essence spread we all our days &nbsp;  
 
 礼义廉耻忠孝仁爱好校训<br>
-Loving, loyal, filial, upright, courteous be    
+Loving, loyal, filial, upright, courteous be &nbsp;  
 
 容忍谦让热诚负责相勉励<br>
-Patient, tolerant and humble we shall be    
+Patient, tolerant and humble we shall be &nbsp;  
 
 分工合作奋向万里路<br>
-Work together each dutifully    
+Work together each dutifully &nbsp;  
 
 他日学成为国家效力<br>
 Forward to the future eagerly
