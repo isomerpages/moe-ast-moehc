@@ -4,49 +4,50 @@ permalink: /school-histories/nan-chiau-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nanchiauhighsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiauhighsch1.png">
 
 ### **Nan Chiau High School**
-[URL to website](https://nchs.edu.sg/) **broken link**
+[URL to website](https://www.nanchiauhigh.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpFKsEG7q8GxiYUFSutpT9k87XNYo5VpQSn4XLbwxOAgMhUebfcXeYniMQEJFwl_R9p_Vs4MOt1ZFG/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/nanchiauhighsch2.jpg">  
-<img src="/images/nanchiauhighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch2.jpg">
 </a></p>
 
 <p><a href="/images/nanchiauhighsch3.jpg">  
-<img src="/images/nanchiauhighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch3.jpg">
 </a></p>
 
 <p><a href="/images/nanchiauhighsch4.jpg">  
-<img src="/images/nanchiauhighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanchiauhighsch5.jpg">  
-<img src="/images/nanchiauhighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch5.jpg">
 </a></p>
 
 <p><a href="/images/nanchiauhighsch6.jpg">  
-<img src="/images/nanchiauhighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch6.jpg">
 </a></p>
 
 <p><a href="/images/nanchiauhighsch7.jpg">  
-<img src="/images/nanchiauhighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanchiauhighsch8.jpg">  
-<img src="/images/nanchiauhighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch8.jpg">
 </a></p>
 
 <p><a href="/images/nanchiauhighsch9.jpg">  
-<img src="/images/nanchiauhighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,13 +57,13 @@ Mr Tan Kah Kee founded Nan Chiau Teachers’ Training School in 1941. The school
 
 The school resumed operations after the war; in 1947, the Singapore Hokkien Huay Kuan (SHHK) converted Nan Chiau Teachers’ Training School into Nan Chiau Girls’ High School, with an ancillary primary school. The mission was to promote girls’ education in Singapore. To cope with the expanding enrolment, the SHHK contributed to the school’s expansion and rebuilding over the years.
 
-On 8 March 1969, the opening of new premises was officiated by Mr Ong Pang Boon, then Minister for Education. In 1979, Nan Chiau Girls’ High School began functioning as a full school, with the primary and secondary sections sharing the same premises.
+On 8 March 1969, the opening of new premises was officiated by Mr Ong Pang Boon, then Minister for Education.&nbsp;In 1979, Nan Chiau Girls’ High School began functioning as a full school, with the primary and secondary sections sharing the same premises.
 
 In 1980, like many other Chinese-medium schools, the school adopted English as its main medium of instruction. Keeping up with the times, a decision was made for the school to become co-educational. The first intake of boys was in 1984, and the school was accordingly renamed Nan Chiau High School.
 
 Over the years, the school grew from strength to strength and the old premises became inadequate. In 2001, the primary and secondary sections were relocated to Sengkang as two separate schools. Nan Chiau High School has continued to develop students holistically and it was recognised as a Special Assistance Plan school in 2012.  
   
-In 2013, the school received the pinnacle School Distinction Award, which is a testimony to the school’s excellence in providing students an all-round educational experience. 2020 was another milestone year for Nan Chiau High school as the school was selected as a Chinese Language Elective Programme (CLEP-Sec) school to further support our school’s bilingual and bicultural education. We also added a new talent area, Bilingualism, for our Direct School Admission, as we continue to provide growth for promising students who demonstrate talent and ability towards performing arts, sports, visual arts and bilingualism.
+In 2013, the school received the pinnacle School Distinction Award, which is a testimony to the school’s excellence in providing students an all-round educational experience.&nbsp;2020 was another milestone year for Nan Chiau High school as the school was selected as a Chinese Language Elective Programme (CLEP-Sec) school to further support our school’s bilingual and bicultural education. We also added a new talent area, Bilingualism, for our Direct School Admission, as we continue to provide growth for promising students who demonstrate talent and ability towards&nbsp;performing arts, sports, visual arts and bilingualism.
 
 Principals:<br>
 \- Mr Yang Zhenli (1947–1950)<br>
@@ -95,16 +96,16 @@ Principals:<br>
 
 #### **School Motto**
 诚毅<br>
-Sincerity and Perseverance<br>
+Sincerity&nbsp;and&nbsp;Perseverance<br>
 Sincerity (诚) means honesty to self and others. Perseverance (毅) implies determination and tenacity in the pursuit of personal growth and academic success.
 
 #### **School Crest**
-<img src="/images/nanchiauhighsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiauhighsch1.png">
 
 The crest is represented by three interlocking rings, which symbolise the moral, physical and intellectual development of students. These are intrinsic to the quest for excellence in education. The red colour of the rings signifies a persevering spirit in the pursuit of a bright and promising future, as represented by the golden background. The heart shape in the centre of the overlapping rings symbolises care and concern for the total welfare of the students.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/17ikRWAvF3hNgBl6lfVMcYxnevxe-yEVP/view?usp=share_link">**♫ Listen**</a>
 
 热情在燃烧<br>
 歌声上云霄<br>
@@ -137,7 +138,7 @@ The crest is represented by three interlocking rings, which symbolise the moral,
 向着那共同的目标
 
 Our passion is burning,<br>
-Our songs  are soaring,<br>
+Our songs&nbsp; are soaring,<br>
 Let us praise in a single voice,<br>
 Beloved Nan Chiau.<br>
 Reinvent ourselves,<br>
@@ -155,7 +156,7 @@ Uphold our school motto,<br>
 Sincerity and perseverance.<br>
 Reinvent ourselves,<br>
 Thrive in the dynamic era,<br>
-Promote  the Chinese culture,<br>
+Promote&nbsp; the Chinese culture,<br>
 Seek glory for our nation.<br>
 Beloved teachers and friends,<br>
 Beloved schoolmates,<br>
