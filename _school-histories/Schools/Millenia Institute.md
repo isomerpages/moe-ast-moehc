@@ -4,49 +4,50 @@ permalink: /school-histories/millenia-institute/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/mi1.jpg" style="width:35%;margin-right:15px;" align="left">
+<img align="left" style="width:35%;margin-right:15px;" src="/images/mi1.jpg">
 
 <br clear="left">
 
 ### **Millenia Institute**
-[URL to website](https://www.millenniainstitute.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.millenniainstitute.moe.edu.sg/)
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6L54orvYaLO0ErrbF0EjGACR1Iwyq5C4zEtiNwvFyQ_AQ8k0U62FFzIG8C07_hlsY3xbiOGiNkc1Q/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/mi2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi2.jpg">
 </a></p>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/mi3.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi3.jpg">
 </a></p>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/mi4.jpg" style="width:30%;margin-right:45px;" align="right">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/pic.jpg">  
-<img src="/images/mi5.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img src="/images/mi6.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/mi4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/mi7.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi5.jpg">
 </a></p>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/mi8.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi6.jpg">
+</a></p>
+
+<br clear="left">
+
+<p><a href="/images/pic.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi7.jpg">
 </a></p>
 
 <p><a href="/images/pic.jpg">  
-<img src="/images/mi9.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi8.jpg">
+</a></p>
+
+<p><a href="/images/pic.jpg">  
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi9.jpg">
 </a></p>
 
 
@@ -89,7 +90,7 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/mi1.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mi1.jpg">
 
 The logo is made up of four arcs, which resemble the vertical lines of the letters 'm' and ‘I’, the initials of the school name. The blue arc acts as the firm foundation for the other three arcs to pivot or propel themselves forward. It also signifies the strong values of integrity, resilience, respect and responsibility that are cultivated within each individual in Millennia Institute.
 
@@ -98,7 +99,7 @@ The largest red arc sheltering the smallest red arc on the right captures the cl
 As a holistic entity, the logo is a three-dimensional sculpture – each arc is distinctive and unique in design, but together, in synergy, they form a dynamic force that is confident and optimistic.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1k2T_1yG3MJTljAcoTSTeq6nLfU6xgnAH/view?usp=share_link">**♫ Listen**</a>
 
 In our journey<br>
 Our Institute gives us strength<br>
