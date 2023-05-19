@@ -4,30 +4,31 @@ permalink: /school-histories/mount-vernon-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/mountvernonsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/mountvernonsec1.png">
 
 ### **Mount Vernon Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQNSxBAFTRAWxXio_ZQi6BrpyYWalohbxLBy7SaOpo7RaIxN8IoaXBTYYAutWeWcSeZLbzJXWluoSL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/mountvernonsec2.jpg">  
-<img src="/images/mountvernonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountvernonsec2.jpg">
 </a></p>
 
 <p><a href="/images/mountvernonsec3.jpg">  
-<img src="/images/mountvernonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountvernonsec3.jpg">
 </a></p>
 
 <p><a href="/images/mountvernonsec4.jpg">  
-<img src="/images/mountvernonsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountvernonsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/mountvernonsec5.jpg">  
-<img src="/images/mountvernonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountvernonsec5.jpg">
 </a></p>
 
 <br clear="left">
@@ -37,7 +38,7 @@ Established in 1969, Mount Vernon Secondary School was located at Mount Vernon R
   
 In 1985, Mount Vernon Secondary School participated in the United Nations Association’s Flags for Peace project.  
   
-Mount Vernon Secondary School **closed around 1991**. In the mid-1990s, the vacated Mount Vernon Secondary School was briefly used by Maris Stella High when the latter’s school premises underwent upgrading.  The school compound was later used as a foreign workers’ dormitory before it was demolished.
+Mount Vernon Secondary School&nbsp;**closed around 1991**.&nbsp;In the mid-1990s, the vacated Mount Vernon Secondary School was briefly used by Maris Stella High when the latter’s school premises underwent upgrading. &nbsp;The school compound was later used as a foreign workers’ dormitory before it was demolished.
 
 #### **Key Milestones**
 
@@ -47,15 +48,3 @@ Mount Vernon Secondary School **closed around 1991**. In the mid-1990s, the va
 | 1991 | Closure of Mount Vernon Secondary School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/mountvernonsec1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
