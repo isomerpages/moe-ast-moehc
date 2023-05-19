@@ -4,49 +4,50 @@ permalink: /school-histories/meridian-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/meridianpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/meridianpri1.png">
 
 ### **Meridian Primary School**
-[URL to website](https://meridianpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://meridianpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadg1R63i2G1zZg-6ngNAFcr5I9m8Tt8NiiOH7Sua0dyviE8n5lTL2BoZIkIF3KFyEniOmYZEbY1bD/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/meridianpri2.jpg">  
-<img src="/images/meridianpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri2.jpg">
 </a></p>
 
 <p><a href="/images/meridianpri3.jpg">  
-<img src="/images/meridianpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri3.jpg">
 </a></p>
 
 <p><a href="/images/meridianpri4.jpg">  
-<img src="/images/meridianpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/meridianpri5.jpg">  
-<img src="/images/meridianpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri5.jpg">
 </a></p>
 
 <p><a href="/images/meridianpri6.jpg">  
-<img src="/images/meridianpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri6.jpg">
 </a></p>
 
 <p><a href="/images/meridianpri7.jpg">  
-<img src="/images/meridianpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/meridianpri8.jpg">  
-<img src="/images/meridianpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri8.jpg">
 </a></p>
 
 <p><a href="/images/meridianpri9.jpg">  
-<img src="/images/meridianpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ In 2014, Meridian Primary School’s niche area on eco-environment transited int
 
 In 2016, the school was accorded the Learning for Life Programme (LLP) in Student Leadership development. The programme adopts a whole-school approach and leads the students through the learning process using the “Head, Heart and Hand” approach.  
   
-The school will be having her 20th Anniversary Celebrations in 2020.
+The school will be having her 20th&nbsp;Anniversary Celebrations in 2020.
 
 Principals:<br>
 \- Mr Eric Lim (2000–2007)<br>
@@ -85,7 +86,7 @@ Principals:<br>
 To Learn, To Love, To Lead
 
 #### **School Crest**
-<img src="/images/meridianpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/meridianpri1.png">
 
 The Meridian crest embodies the spirit of a dynamic, forward-looking learning organisation that moves ahead with the times. The globe, anchored at the two strategic points, signifies that Meridian has a global outlook, but stays rooted in timeless values. The well-defined strokes of the stylised ‘M’ denote the school’s emphasis on the development of character, body and mind of each individual.
 
@@ -94,7 +95,7 @@ Within the globe, the four Meridian lines flow harmoniously from north to south.
 The colour blue represents the vast expanse of knowledge and skills that its pupils acquire through continuous learning. Silver signifies hope and optimism in the journey of discovery at Meridian. The transformation of colours from blue to silver symbolises the adaptability and flexibility of the school’s environment in meeting new challenges.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1BQeA3MAla5t66c78uDG4MMytgSiHqgTg/view?usp=share_link">**♫ Listen**</a>
 
 To Learn, To Love, To Lead is the motto of our school.<br>
 This is where we start our journey of discovery.<br>
