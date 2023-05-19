@@ -4,16 +4,17 @@ permalink: /school-histories/nan-chiow-public-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nanchiowpublicsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiowpublicsch1.png">
 
 ### **Nan Chiow Public School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIT7PjpA2u-TPWNFi8gBQQdkWVRr7PGmQVCZ07AZJCzyFvywinWNSUthH27hPVi88sRwhisXofXV5i/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/nanchiowpublicsch2.jpg">  
-<img src="/images/nanchiowpublicsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiowpublicsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -27,7 +28,7 @@ In 1957, the school managed to get some funding and renovated the school buildin
   
 When the owner of the school building wanted to sell it in 1966, the School Board gathered donations to buy over the building. The collected funds were also used to give the school compound a major renovation.  
   
-The school gained recognition for accomplishments in inter-school _Ping Pong_ competitions.
+The school gained recognition for accomplishments in inter-school&nbsp;_Ping Pong_&nbsp;competitions.
 
 In 1981, the school closed due to low enrolment.
 
@@ -43,15 +44,13 @@ Principals:<br>
 | 1981 | Closure of Nan Chiow Public School. |
 |
 
-#### **School Motto**
-\-
+
 
 #### **School Crest**
-<img src="/images/nanchiowpublicsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiowpublicsch1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
-<img src="/images/nanchiowschsong.png" style="width:65%" align=left>
+<img align="left" style="width:65%" src="/images/nanchiowschsong.png">
