@@ -4,45 +4,46 @@ permalink: /school-histories/north-vista-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northvistapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northvistapri1.png">
 
 ### **North Vista Primary School**
-[URL to website]() - may require to change in future when original website is removed
+[URL to website](https://www.northvistapri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfBYcbBpMXoptPEh6tyEYVer7-PF8A_S85UHgyTvm8Elas4X9K1_z00_7ennvmf9CW1L2n4JdUPxj8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northvistapri2.jpg">  
-<img src="/images/northvistapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistapri2.jpg">
 </a></p>
 
 <p><a href="/images/northvistapri3.jpg">  
-<img src="/images/northvistapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistapri3.jpg">
 </a></p>
 
 <p><a href="/images/northvistapri4.jpg">  
-<img src="/images/northvistapri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/northvistapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northvistapri5.jpg">  
-<img src="/images/northvistapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistapri5.jpg">
 </a></p>
 
 <p><a href="/images/northvistapri6.jpg">  
-<img src="/images/northvistapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistapri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/northvistapri7.jpg">  
-<img src="/images/northvistapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistapri7.jpg">
 </a></p>
 
 <p><a href="/images/northvistapri8.jpg">  
-<img src="/images/northvistapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistapri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -74,7 +75,7 @@ Principals:<br>
 Utmost, Highest, Noblest
 
 #### **School Crest**
-<img src="/images/northvistapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northvistapri1.png">
 
 The school crest consists of a shield that frames the globe, signifying earth, with the horizon and the sky in the background. The green part of the globe stands for the school’s pride in the land and its care for the environment. The blue emphasises its identity to be rooted in the country, with a global outlook, always searching for new possibilities beyond the shores and the horizons of the future. The students are the sons and daughters of a new generation, creating their own future. It also symbolises its organisation as the school of the future, boldly looking forward, creating new possibilities and opening new doors of opportunities for its students.
 
@@ -89,7 +90,7 @@ The laurels, at both sides of the shield, symbolise the spirit of excellence tha
 The banner that carries its call, ‘UTMOST, HIGHEST, NOBLEST’ symbolises the virtues that the school instills in its students – Utmost in Deeds, Highest in Love, Noblest in Aspirations.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1uLiHigDjYIDD2DQ59QHw4f6o9SambCaw/view?usp=share_link">**♫ Listen**</a>
 
 From far and near we have come<br>
 Our hearts and minds to be inspired<br>

@@ -4,7 +4,7 @@ permalink: /school-histories/naval-base-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/navalbasesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasesec1.png">
 
 ### **Naval Base Secondary School**
 [URL to website](https://www.navalbasesec.moe.edu.sg/)
@@ -12,49 +12,50 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYU1f6gJ-Utr5QuD2cS0bpl5PldLbu1wPDpSHSe_8jQwSfjOYvuEkAlGjK0TMlwlrkJRk5imgTCtgp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/navalbasesec2.jpg">  
-<img src="/images/navalbasesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec2.jpg">
 </a></p>
 
 <p><a href="/images/navalbasesec3.jpg">  
-<img src="/images/navalbasesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec3.jpg">
 </a></p>
 
 <p><a href="/images/navalbasesec4.jpg">  
-<img src="/images/navalbasesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/navalbasesec5.jpg">  
-<img src="/images/navalbasesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec5.jpg">
 </a></p>
 
 <p><a href="/images/navalbasesec6.jpg">  
-<img src="/images/navalbasesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec6.jpg">
 </a></p>
 
 <p><a href="/images/navalbasesec7.jpg">  
-<img src="/images/navalbasesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/navalbasesec8.jpg">  
-<img src="/images/navalbasesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec8.jpg">
 </a></p>
 
 <p><a href="/images/navalbasesec9.jpg">  
-<img src="/images/navalbasesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Established in 1957, Naval Base Secondary School (NBSS) started as a full school known as Naval Base School on Bah Tan Road, offering education to the children of the British naval base employees. Naval Base School was the only full government English-medium school back then. In 1968, Naval Base School became a secondary school when the primary section was transferred to Canberra School. 
+Established in 1957, Naval Base Secondary School (NBSS) started as a full school known as Naval Base School on Bah Tan Road, offering education to the children of the British naval base employees. Naval Base School was the only full government English-medium school back then. In 1968, Naval Base School became a secondary school when the primary section was transferred to Canberra School.&nbsp;
 
-In 1988, NBSS relocated to its present premises on Yishun Ring Road. In 2000, the school became single session. In 2007, the school celebrated its 50th anniversary.  Two years later, Naval Base Secondary School completed its PRIME upgrading.
+In 1988, NBSS relocated to its present premises on Yishun Ring Road. In 2000, the school became single session. In 2007, the school celebrated its 50th anniversary.&nbsp; Two years later, Naval Base Secondary School completed its PRIME upgrading.
 
 In 2012, NBSS gained niche status in visual arts. In 2014, the school was accorded the Applied Learning Programme (ALP) in art. The ALP is rooted in the school’s belief in the transformative power of art and its ability to expand students’ perceptions of the world around them as well as the potential for self-discovery and expression. In 2014, the school was accorded the Learning for Life Programme (LLP) in character education through sports. The LLP is anchored on the belief that sports provide an authentic platform for character development. The LLP promotes active living where students enjoy and engage in movement activities and develop a solid foundation for a balanced lifestyle. In 2015, NBSS began offering the Enhanced Art Programme.
 
@@ -92,12 +93,12 @@ Principals:<br>
 Enitamur In Altiora
 
 #### **School Crest**
-<img src="/images/navalbasesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasesec1.png">
 
 The lion represents Singapore. It exhorts one to take pride in the national identity, have a sense of belonging to Singapore and be committed to nation-building. The lion also symbolises bravery (strength in character) and courage (strength of the mind). The open book symbolises the importance of a good education and the constant pursuit of knowledge to achieve success. The four yellow lines represent the four ethnic groups in Singapore working and living together in harmony. The blue background shows the school’s commitment to integrate new citizens, as it values Singapore’s sociocultural diversity and promotes social cohesion and harmony. The three rings are inspired by the Olympics, and they represent excellence in both performance and moral character.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/16m5BH-91vii8zZsnvZLRg3L6GAQwIiNQ/view?usp=share_link">**♫ Listen**</a>
 
 We are proud to belong to Naval Base School<br>
 We shall always cherish its name<br>

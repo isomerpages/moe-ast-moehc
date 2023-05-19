@@ -4,45 +4,46 @@ permalink: /school-histories/naval-base-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/navalbasepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasepri1.png">
 
 ### **Naval Base Primary School**
-[URL to website](https://navalbasepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://navalbasepri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmnH1fFvVb861M9DNWETSs43BdzgU18EjDG-wPHm5duDb7LX0RxopKRXZB3i-12IzBCUCrjuAqUy81/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/navalbasepri2.jpg">  
-<img src="/images/navalbasepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri2.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri3.jpg">  
-<img src="/images/navalbasepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri3.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri4.jpg">  
-<img src="/images/navalbasepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri4.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri5.jpg">  
-<img src="/images/navalbasepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri5.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri6.jpg">  
-<img src="/images/navalbasepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri6.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri7.jpg">  
-<img src="/images/navalbasepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri7.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri9.jpg">  
-<img src="/images/navalbasepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri9.jpg">
 </a></p>
 
 <p><a href="/images/navalbasepri10.jpg">  
-<img src="/images/navalbasepri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasepri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -81,7 +82,7 @@ Principals:<br>
 Work in Harmony
 
 #### **School Crest**
-<img src="/images/navalbasepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasepri1.png">
 
 The big circle depicts the all-round education that the school aims to provide for the child.<br>
 The anchor denotes strength and depicts the school as a strong base for education.<br>
@@ -92,7 +93,7 @@ Blue: denotes the colour of the sea-the school being the sea of knowledge which 
 Red: the throbbing young blood in the ‘veins’ of the school in the pursuit of knowledge.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/18xHpZQyedzYstGVLUtZvBmRSCBXYZiiN/view?usp=share_link">**♫ Listen**</a>
 
 Up the gangway, we will go<br>
 Ready to achieve our goal<br>

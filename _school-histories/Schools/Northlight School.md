@@ -4,41 +4,42 @@ permalink: /school-histories/northlight-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/northlightsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northlightsch1.png">
 
 ### **Northlight School**
-[URL to website](https://www.nls.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.nls.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9wUsiwYxMXseZirGKXq80F89nzM7lPUfoToBghgSs3T6Yn9caPz-g7Mo1riQnqXlJ-8qUgoL1Ni74/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/northlightsch2.jpg">  
-<img src="/images/northlightsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlightsch2.jpg">
 </a></p>
 
 <p><a href="/images/northlightsch3.jpg">  
-<img src="/images/northlightsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlightsch3.jpg">
 </a></p>
 
 <p><a href="/images/northlightsch4.jpg">  
-<img src="/images/northlightsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlightsch4.jpg">
 </a></p>
 
 <p><a href="/images/northlightsch7.jpg">  
-<img src="/images/northlightsch7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/northlightsch7.jpg">
 </a></p>
 
 <p><a href="/images/northlightsch6.jpg">  
-<img src="/images/northlightsch6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/northlightsch6.jpg">
 </a></p>
 
 <p><a href="/images/northlightsch5.jpg">  
-<img src="/images/northlightsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlightsch5.jpg">
 </a></p>
 
 <p><a href="/images/northlightsch8.jpg">  
-<img src="/images/northlightsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/northlightsch8.jpg">
 </a></p>
 
 <br clear="left">
@@ -72,14 +73,14 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/northlightsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/northlightsch1.png">
 
-The letter ‘N’ is a navigational element borrowed from the compass to represent direction and guidance that the school aims to provide for its students. The five-pointed star is an iconic representation of the five values of Sincerity, Honesty, Innovation, Network and Excellence, or SHINE. Continuous learning and innovation are captured by the dynamic movement of the emerging star.
+The letter ‘N’ is a navigational element borrowed from the compass to represent direction and guidance that the school aims to provide for its students. The five-pointed star is an iconic representation of the five values of&nbsp;Sincerity,&nbsp;Honesty,&nbsp;Innovation,&nbsp;Network and&nbsp;Excellence, or SHINE. Continuous learning and innovation are captured by the dynamic movement of the emerging star.
 
 The white colour signifies the newly equipped student shining in a dark sky. It also conveys the sincerity and humanity of every student to learn at every stage of their life. The colour of ‘nightfall blue’ forms the backdrop and a contrast as the dark sky for the North Star to emerge brightly. The colour gray represents stability and professionalism.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1S6tOeexHPWvW5gqPYWyHJlubwTz7kS8c/view?usp=share_link">**♫ Listen**</a>
 
 Like the stars in the sky<br>
 Shining bright day and night<br>

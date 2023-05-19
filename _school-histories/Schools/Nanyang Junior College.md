@@ -4,55 +4,56 @@ permalink: /school-histories/nanyang-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nanyangjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanyangjc1.jpg">
 
 ### **Nanyang Junior College**
-[URL to website](https://nanyangjc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://nanyangjc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFxBkze_Ea54Fd3slrFPOasWNR4AWJ-gCRq9i1kFmzQWO0N9_3gup_4sXoBLDbo1UoM9Pdb_1c1ng4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/nanyangjc2.jpg">  
-<img src="/images/nanyangjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc2.jpg">
 </a></p>
 
 <p><a href="/images/nanyangjc3.jpg">  
-<img src="/images/nanyangjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc3.jpg">
 </a></p>
 
 <p><a href="/images/nanyangjc4.jpg">  
-<img src="/images/nanyangjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanyangjc5.jpg">  
-<img src="/images/nanyangjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc5.jpg">
 </a></p>
 
 <p><a href="/images/nanyangjc6.jpg">  
-<img src="/images/nanyangjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc6.jpg">
 </a></p>
 
 <p><a href="/images/nanyangjc7.jpg">  
-<img src="/images/nanyangjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanyangjc8.jpg">  
-<img src="/images/nanyangjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc8.jpg">
 </a></p>
 
 <p><a href="/images/nanyangjc9.jpg">  
-<img src="/images/nanyangjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Nanyang Junior College was established in the 1970s to meet the growing demand for junior college education. The Building Committee was formed in 1972 and construction of the college began in October 1976. Mr Chia Khoon Hock was appointed the Principal Designate on 1 August 1977.  The college was initially named Lorong Chuan Junior College because of its location. On 19 November 1977, it was renamed Nanyang Junior College.
+Nanyang Junior College was established in the 1970s to meet the growing demand for junior college education. The Building Committee was formed in 1972 and construction of the college began in October 1976. Mr Chia Khoon Hock was appointed the Principal Designate on 1 August 1977.&nbsp; The college was initially named Lorong Chuan Junior College because of its location. On 19 November 1977, it was renamed Nanyang Junior College.
 
 The first cohort of about 600 students started classes in January 1978 at a temporary school building vacated by Westlake Secondary School. In December that year, the college moved to its new premises at Lorong Chuan. On 26 January 1980, the Building Committee was dissolved and in its place a School Management Committee was formed. The college was officially opened on 19 May 1980.
 
@@ -60,7 +61,7 @@ In its first five years, Nanyang Junior College focused on building its identity
 
 The 1990s also saw the launch of two important academic programmes in Nanyang Junior College. In 1997, the college was selected to be the second junior college to offer the Art Elective Programme. In 1999, it was selected as the third centre to offer the Chinese Language Elective Programme.
 
-At the turn of the century, Nanyang Junior College was rebuilt on site under PRIME. In 2004 a spanking new building, with a modern architecture and up-to-date facilities, was completed. In the same year, the college held a four-in-one celebratory programme comprising the 25th College Day Prize Giving Ceremony, the official opening of the College Alumni Clubhouse, the unveiling of the art mural, _Eblouissant_, and the Homecoming Carnival.
+At the turn of the century, Nanyang Junior College was rebuilt on site under PRIME. In 2004 a spanking new building, with a modern architecture and up-to-date facilities, was completed. In the same year, the college held a four-in-one celebratory programme comprising the 25th College Day Prize Giving Ceremony, the official opening of the College Alumni Clubhouse, the unveiling of the art mural,&nbsp;_Eblouissant_, and the Homecoming Carnival.
 
 Today, Nanyang Junior College is a reputable and popular college. It is recognised for its consistent excellent academic results, niche sports, arts and aesthetic programmes. The college also focuses on the inculcation of values and the nurturing of student leaders, and adopts a whole-of-college approach in engaging students in service learning.
 
@@ -94,12 +95,12 @@ Together We Build<br>
 Nanyang Junior College adopted the motto ‘Together We Build’ for the promise it holds. It is a promise for the future: The college develops socially responsible individuals who will contribute to the unity of the nation. Building is an action with great potential because of its positive outlook. The college intends to imbue students with commitment, conviction, confidence and compassion.
 
 #### **School Crest**
-<img src="/images/nanyangjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanyangjc1.jpg">
 
 The college crest is a red shield with a blue base; the red and blue colours are separated by a row of four yellow crescents. Superimposed on this is a white lion’s head. The red colour of the shield symbolises unity in strength. The blue represents the Southern Ocean, or ‘Nanyang’. The lion’s head stands for Singapore, while the four crescents signify the multiracial nature as well as the growth of the college in tandem with the nation.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1m0jmj0eYCYcIGvM7g1mdk2is091lGLJp/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1<br>
 Like the rising fountain,<br>

@@ -4,37 +4,38 @@ permalink: /school-histories/ngee-ann-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ngeeannpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ngeeannpri1.jpg">
 
 ### **Ngee Ann Primary School**
-[URL to website](https://ngeeannpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://ngeeannpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRRCjeCx3X96la4LOSJmf1IulaXQBhGklH3nm2aPivLkQb3nfGIUF30FNj2A09dbqPSxM0FwFthXKz/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ngeeannpri2.jpg">  
-<img src="/images/ngeeannpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannpri2.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannpri3.jpg">  
-<img src="/images/ngeeannpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannpri3.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannpri4.jpg">  
-<img src="/images/ngeeannpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannpri4.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannpri5.jpg">  
-<img src="/images/ngeeannpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannpri5.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannpri6.jpg">  
-<img src="/images/ngeeannpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannpri6.jpg">
 </a></p>
 
 <p><a href="/images/ngeeannpri7.jpg">  
-<img src="/images/ngeeannpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannpri7.jpg">
 </a></p>
 
 <br clear="left">
@@ -75,12 +76,12 @@ Principals:<br>
 Onward in Unity
 
 #### **School Crest**
-<img src="/images/ngeeannpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ngeeannpri1.jpg">
 
 The school crest is in the shape of a shield. There are three lines on the crest signifying the close relationship of the school, the home and the community. In the middle of the crest are traditional Chinese characters for ‘Ngee Ann’, symbolising the link of the school to its history. Beneath the crest is the name of the school in English and the school motto ‘Onward in Unity’. It is a reminder to its students that they should always persevere and never give up hope.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/13QBrqr4QBRXU0USOWVzSUsvhp81gJ8cI/view?usp=share_link">**♫ Listen**</a>
 
 We're the pupils of Ngee Ann Primary,<br>
 Young though we may be.<br>
