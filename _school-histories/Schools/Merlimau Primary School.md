@@ -4,38 +4,39 @@ permalink: /school-histories/merlimau-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/merlimaupri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/merlimaupri1.png">
 
 ### **Merlimau Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGYGxQu8Ml9h11UvXqpqLwD1Hd1tUoWAE2XZsRy6_u4xnr2FQdd6V511lTgP-8ECM9XnT319WyKY1e/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/merlimaupri2.jpg">  
-<img src="/images/merlimaupri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/merlimaupri2.jpg">
 </a></p>
 
 <p><a href="/images/merlimaupri3.jpg">  
-<img src="/images/merlimaupri3.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/merlimaupri3.jpg">
 </a></p>
 
 <p><a href="/images/merlimaupri4.jpg">  
-<img src="/images/merlimaupri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/merlimaupri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/merlimaupri5.jpg">  
-<img src="/images/merlimaupri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/merlimaupri5.jpg">
 </a></p>
 
 <p><a href="/images/merlimaupri6.jpg">  
-<img src="/images/merlimaupri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/merlimaupri6.jpg">
 </a></p>
 
 <p><a href="/images/merlimaupri7.jpg">  
-<img src="/images/merlimaupri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/merlimaupri7.jpg">
 </a></p>
 
 <br clear="left">
@@ -43,9 +44,9 @@ third_nav_title: Schools
 #### **School History**
 Merlimau Primary School originally derived its name from Pulau Merlimau Malay School, which was established on Pulau Merlimau (now reclaimed as part of Jurong Island) in 1964. In 1971, the Malay school was relocated to new premises in Jurong Town. In 1977, the school had to return its Jurong Town premises to Jurong Town Corporation.
 
-At the beginning of 1978, the school, together with primary two students from Boon Lay Garden Primary School, transferred to a new compound in Taman Jurong. The word “Pulau” was dropped from its name, and the new school – Merlimau Primary School – began operating as a single-session integrated school with English and Malay as the media of instruction. The new school was officially declared open on 31 August 1979.
+At the beginning of 1978, the school, together with primary two students from Boon Lay Garden Primary School, transferred to a new compound in Taman Jurong. The word “Pulau” was dropped from its name, and the new school –&nbsp;Merlimau Primary School – began operating as a single-session integrated school with English and Malay as the media of instruction. The new school was officially declared open on 31 August 1979.
 
-The school published a regular newsletter, known in the earlier years as _Merlimau Primary Newsletter_ and after 1995 as _Merlimau News_.
+The school published a regular newsletter, known in the earlier years as&nbsp;_Merlimau Primary Newsletter_&nbsp;and after 1995 as&nbsp;_Merlimau News_.
 
 In 2003, Merlimau Primary School merged with Yung An Primary School and Jurong Town Primary School to become Lakeside Primary School.
 
@@ -68,13 +69,15 @@ Last Serving Principal:<br>
 Strive For The Best
 
 #### **School Crest**
-<img src="/images/merlimaupri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/merlimaupri1.png">
 
-The theme of the design is “Use hand as well as mind”. The **blue** symbolises knowledge, which is as deep and wide as the ocean and the sky. The **white hand** symbolises purity and diligence both at work and in play. The **red** symbolises brotherhood.
+The theme of the design is “Use hand as well as mind”. The&nbsp;**blue**&nbsp;symbolises knowledge, which is as deep and wide as the ocean and the sky. The&nbsp;**white hand**&nbsp;symbolises purity and diligence both at work and in play. The&nbsp;**red**&nbsp;symbolises brotherhood.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>	
+
 Merlimau, Merlimau, the school we attend<br>
 Merlimau, Merlimau, our nation defend<br>
 From using hands and minds in work and in our play<br>
