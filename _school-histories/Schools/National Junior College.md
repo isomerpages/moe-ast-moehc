@@ -4,48 +4,49 @@ permalink: /school-histories/national-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/njc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/njc1.jpg">
 
 ### **National Junior College**
-[URL to website](https://nationaljc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://nationaljc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFyymA7mcFxcCE2EyPuMPOh_tZtdPeulluqs0yeangTB6qxwflElISwZzM-QCcOK7gZJHc2LdmUmr2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/njc2.jpg">  
-<img src="/images/njc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc2.jpg">
 </a></p>
 
 <p><a href="/images/njc3.jpg">  
-<img src="/images/njc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc3.jpg">
 </a></p>
 
 <p><a href="/images/njc4.jpg">  
-<img src="/images/njc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/njc5.jpg">  
-<img src="/images/njc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc5.jpg">
 </a></p>
 
 <p><a href="/images/njc6.jpg">  
-<img src="/images/njc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc6.jpg">
 </a></p>
 
 <p><a href="/images/njc7.jpg">  
-<img src="/images/njc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc7.jpg">
 </a></p>
 
 
 <p><a href="/images/njc8.jpg">  
-<img src="/images/njc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc8.jpg">
 </a></p>
 
 <p><a href="/images/njc9.jpg">  
-<img src="/images/njc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/njc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -61,7 +62,7 @@ NJC shifted to the current campus on Hillcrest Road in 1995. The move involved s
 
 NJC was the only school that won the inaugural Lee Kuan Yew National Education Award in 2002. In 2004, the college began offering the four-year Integrated Programme, which was expanded to six years in 2009, enrolling students from Secondary One. The college currently offers programmes such as the Enhanced Boarding Programme, in which NJCians stay at the boarding school for a period of time; and Research@NJC Programme, which brings NJCians on a journey of discovery and innovation. NJC also organises the biennial fun fair, Funtasia, to raise funds for various charities in Singapore, in addition to the numerous community service projects carried out by NJCians throughout the year.
 
-In 2018, the NJC kickstarted its year-long 50th anniversary celebration with Funtasia; its first musical, _The National Dream_; and the NJC50 Road Run, culminating in its finale celebration at a gala dinner in May 2019.
+In 2018, the NJC kickstarted its year-long 50th anniversary celebration with Funtasia; its first musical,&nbsp;_The National Dream_; and the NJC50 Road Run, culminating in its finale celebration at a gala dinner in May 2019.
 
 Principals:<br>
 \- Mr Lim Kim Woon (1969–1975)<br>
@@ -95,12 +96,12 @@ Principals:<br>
 Service with Honour
 
 #### **School Crest**
-<img src="/images/njc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/njc1.jpg">
 
 The red and white colours are the state colours of the Republic of Singapore. The red is symbolic of universal brotherhood and equality of man, while the white signifies pervading and everlasting purity and virtue. The five red horizontal bars stand for the five stars of the Singapore flag, which represent the ideals of democracy, peace, progress, justice and equality. The four white horizontal bars represent the four languages used in the Republic, and the golden lion symbolises Singapore.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1em17Cn4PEGnuZcskUe55mndSdl_WgcfF/view?usp=share_link">**♫ Listen**</a>
 
 Inilah maktab banggaan kita<br>
 Tempat pelajar segala bangsa<br>
