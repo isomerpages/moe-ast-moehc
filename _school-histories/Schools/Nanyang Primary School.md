@@ -4,55 +4,56 @@ permalink: /school-histories/nanyang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/nanyangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanyangpri1.png">
 
 ### **Nanyang Primary School**
-[URL to website](https://nyps.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://nyps.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0X9vvG9paeREZ8tOGVSJYGnsxqRbRw6qjrkqPBwewizQP7QQ8pkJR1zNjKwaLYW5Z0ELie6maq6qB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/nanyangpri2.jpg">  
-<img src="/images/nanyangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri2.jpg">
 </a></p>
 
 <p><a href="/images/nanyangpri3.jpg">  
-<img src="/images/nanyangpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri3.jpg">
 </a></p>
 
 <p><a href="/images/nanyangpri4.jpg">  
-<img src="/images/nanyangpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanyangpri5.jpg">  
-<img src="/images/nanyangpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri5.jpg">
 </a></p>
 
 <p><a href="/images/nanyangpri6.jpg">  
-<img src="/images/nanyangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri6.jpg">
 </a></p>
 
 <p><a href="/images/nanyangpri7.jpg">  
-<img src="/images/nanyangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/nanyangpri8.jpg">  
-<img src="/images/nanyangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri8.jpg">
 </a></p>
 
 <p><a href="/images/nanyangpri9.jpg">  
-<img src="/images/nanyangpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Nanyang Primary School was established in 1917 as the primary section of Singapore Nanyang Girls’ School in a shophouse at Dhoby Ghaut.  It was a school to promote Chinese education among local Chinese women. In 1919, the school moved to Mount Sophia, and in 1931, to King’s Road. During the Second World War, the school was closed. In December 1945, the school reopened on Selegie Road, temporarily occupying the former premises of the Japanese Club. The secondary and upper primary sections of the school moved back to King’s Road in July 1946, and were joined by the remaining primary and kindergarten sections in January the following year. In 1975, the primary section had its own school building and facilities. In 1978, the primary section was separated from Nanyang Girls’ School and was named Nanyang Primary School.
+Nanyang Primary School was established in 1917 as the primary section of Singapore Nanyang Girls’ School in a shophouse at Dhoby Ghaut.&nbsp; It was a school to promote Chinese education among local Chinese women. In 1919, the school moved to Mount Sophia, and in 1931, to King’s Road. During the Second World War, the school was closed. In December 1945, the school reopened on Selegie Road, temporarily occupying the former premises of the Japanese Club. The secondary and upper primary sections of the school moved back to King’s Road in July 1946, and were joined by the remaining primary&nbsp;and kindergarten sections in January the following year. In 1975, the primary section had its own school building and facilities. In 1978, the primary section was separated from Nanyang Girls’ School and was named Nanyang Primary School.
 
 In 1983, Nanyang Primary School started having English-stream classes. In 1984, the school was accorded the Special Assistance Plan status. In 1985, Nanyang Primary School moved to Coronation Road. In 1990, Nanyang Primary School started offering the Gifted Education Programme. In 2001, Nanyang Primary School moved into its current premises at King’s Road after Nanyang Girls’ High School was relocated to Linden Drive in 1999. Nanyang Primary School celebrated its 100th anniversary in 2017.
 
@@ -86,15 +87,16 @@ Principals:<br>
 朴 Simplicity
 
 #### **School Crest**
-<img src="/images/nanyangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/nanyangpri1.png">
+<br>
 
-Blue background – Loyalty to home, school and country <br>
+Blue background – Loyalty to home, school and country&nbsp;<br>
 White character – Purity in thought and action
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1_ZlwO3HT-dEOun5J1r5zq0G75B1RRy8w/view?usp=share_link">**♫ Listen**</a>
 
 我们跟时代进行，高唱谐和的歌音，<br>
 五育平均齐发展，堂堂地做个完人。<br>
