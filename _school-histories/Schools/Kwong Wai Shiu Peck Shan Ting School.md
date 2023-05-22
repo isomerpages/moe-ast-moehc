@@ -4,17 +4,17 @@ permalink: /school-histories/kwong-wai-shiu-peck-shan-ting-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kwspstsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kwspstsch1.png">
 
 ### **Kwong Wai Shiu Peck Shan Ting School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrlTwuQY98BhGMRyaGglKaNTWcm2eCbvSS_4vSNAf9FelelKV_ump21E0Okf9DuGBvBODAHM7K3q5d/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kwspstsch2.jpg">  
-<img src="/images/kwspstsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kwspstsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -39,16 +39,3 @@ Principals:
 | 1956 | Shifted to Upper Thomson Road and renamed to Kwong Wai Shiu Peck Shan Ting School. |
 | 1981 | Closure of Kwong Wai Shiu Peck Shan Ting School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/kwspstsch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
