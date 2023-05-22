@@ -4,45 +4,46 @@ permalink: /school-histories/kranji-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kranjipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kranjipri1.png">
 
 ### **Kranji Primary School**
-[URL to website](https://kranjipri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://kranjipri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTPM7cTSdSBm5UJ4YEFyyrQTVr8jwBSYOlBz_JVShFGQviLamrLN1sbGhV1t1mezA19PI3xygw8ljnX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kranjipri2.jpg">  
-<img src="/images/kranjipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjipri2.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri3.jpg">  
-<img src="/images/kranjipri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjipri3.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri4.jpg">  
-<img src="/images/kranjipri4.jpg" style="width:33%;margin-right:15px;" align = "left">
+<img align="left" style="width:33%;margin-right:15px;" src="/images/kranjipri4.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri5.jpg">  
-<img src="/images/kranjipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjipri5.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri6.jpg">  
-<img src="/images/kranjipri6.jpg" style="width:34%;margin-right:15px;" align = "left">
+<img align="left" style="width:34%;margin-right:15px;" src="/images/kranjipri6.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri7.jpg">  
-<img src="/images/kranjipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjipri7.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri8.jpg">  
-<img src="/images/kranjipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjipri8.jpg">
 </a></p>
 
 <p><a href="/images/kranjipri9.jpg">  
-<img src="/images/kranjipri9.jpg" style="width:30%;margin-right:33px;" align = "right">
+<img align="right" style="width:30%;margin-right:33px;" src="/images/kranjipri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -50,22 +51,22 @@ third_nav_title: Schools
 #### **School History**
 Kranji Primary School was established as a Government co-educational school in 1997 to meet the needs of the growing population of young families in Choa Chu Kang New Town. The school was officially declared opened on 3 July 1999 by Mr Yeo Cheow Tong, then Minister for Communications and Information Technology and Member of Parliament for Hong Kah GRC.
 
-The school grew rapidly and soon underwent PRIME in 2002 as part of the Ministry of Education's (MOE) efforts to renew and support schools in Singapore so as to provide a conducive learning environment for students. Through this programme, Kranji Primary had the opportunity to expand and upgrade its facilities, giving it more room to innovate in teaching and learning and better engage the students.  An opening ceremony was held for the redeveloped campus. Then Minister for Transport and MP for Hong Kah GRC, Mr Yeo Cheow Tong, was invited as the Guest of Honour once again to grace the event.
+The school grew rapidly and soon underwent PRIME in 2002 as part of the Ministry of Education's (MOE) efforts to renew and support schools in Singapore so as to provide a conducive learning environment for students. Through this programme, Kranji Primary had the opportunity to expand and upgrade its facilities, giving it more room to innovate in teaching and learning and better engage the students. &nbsp;An opening ceremony was held for the redeveloped campus. Then Minister for Transport and MP for Hong Kah GRC, Mr Yeo Cheow Tong, was invited as the Guest of Honour once again to grace the event.
 
-In 2005, a new house system was developed to bring Kranjians of different levels and streams together to foster team spirit and bonding. The four houses were named after constellations - Delphinus, Monoceros, Taurus & Ursa Major to symbolise the school’s aspirations in reaching for the stars. Students were assigned to the Houses upon their admission to the school and remained as members of their Houses until they graduated from the school. All members of the staff were also assigned to Houses, with an appointed House Master/Mistress leading the House in the various school events and activities held throughout an academic year, assisted by the Assistant House Master/Mistress.
+In 2005, a new house system was developed to bring Kranjians of different levels and streams together to foster team spirit and bonding. The four houses were named after constellations - Delphinus, Monoceros, Taurus &amp; Ursa Major to symbolise the school’s aspirations in reaching for the stars. Students were assigned to the Houses upon their admission to the school and remained as members of their Houses until they graduated from the school. All members of the staff were also assigned to Houses, with an appointed House Master/Mistress leading the House in the various school events and activities held throughout an academic year, assisted by the Assistant House Master/Mistress.
 
-Kranji Primary celebrated its 10th anniversary in 2006 with a carnival – “Fan10sia”. Members of the public were invited to join in the festivities with the staff and students.
+Kranji Primary celebrated its 10th&nbsp;anniversary in 2006 with a carnival – “Fan10sia”. Members of the public were invited to join in the festivities with the staff and students.
 
 2010 was a significant year for Kranji Primary. The school won the West Zone Inter-Primary Schools Basketball Championship in all 4 divisions and  
 was also crowned the National Champions for the Junior and Senior Boys’ Inter-Primary Schools Basketball Championships. Due to the comprehensive programmes and sustained achievements, Kranji Primary was the first and only primary school in Singapore that was awarded the prestigious “Programme for School-Based Excellence” Award by MOE for its excellence in basketball from 2007 to 2011. In 2012, the school was once again honoured with the status of renewal for this award.
 
-Kranji Primary began operating as a single session school in 2013. With access to school resources and facilities for the whole day, the school enjoyed greater flexibility in timetabling and could introduce more after-school enrichment programmes and extra-curricular activities. 
+Kranji Primary began operating as a single session school in 2013. With access to school resources and facilities for the whole day, the school enjoyed greater flexibility in timetabling and could introduce more after-school enrichment programmes and extra-curricular activities.&nbsp;
 
 In 2015, Kranji Primary School was accorded the Learning for Life Programme (LLP) in Developing Champions in Life through Sports, a natural extension from the school’s niche programme in basketball. Our LLP adopts a whole-school approach to develop Kranjian Champions and build their character through sports.
 
 The school incorporated the CCA programmes within school hours in 2018, so as to encourage full participation among the Primary Three to Primary Six students. Primary One and Primary Two students were engaged in sports activities through the PAL programme and the annual Budding Champions Day.
 
-2018 also marked Kranji Primary’s 21st year in education, and this was complemented with the completion of the PERI upgrading. There were new additions such as the Indoor Sports Hall, a Butterfly Garden, and special rooms such as the Life Skills Room and the Teaching Lab. These new facilities and special rooms brought about an enhanced learning experience for the students. In addition, a Student Care Centre was also established for after-school care. The school celebrated this joyous occasion with aplomb, and Mr C. Kunalan was invited as the Guest of Honour to officiate the opening of the Indoor Sports Hall to mark the occasion amidst other celebratory activities.
+2018 also marked Kranji Primary’s 21st&nbsp;year in education, and this was complemented with the completion of the PERI upgrading. There were new additions such as the Indoor Sports Hall, a Butterfly Garden, and special rooms such as the Life Skills Room and the Teaching Lab. These new facilities and special rooms brought about an enhanced learning experience for the students. In addition, a Student Care Centre was also established for after-school care. The school celebrated this joyous occasion with aplomb, and Mr C. Kunalan was invited as the Guest of Honour to officiate the opening of the Indoor Sports Hall to mark the occasion amidst other celebratory activities.
 
 MOE Kindergarten @ Kranji was established in 2019. With a strong team of early childhood educators, 60 K1 students were enrolled as the pioneer batch of MK-Kranji students and assimilated quickly into the school’s learning environment. In addition, K-Care was also established to provide care for the pre-school students before and after school hours.
 
@@ -105,7 +106,7 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/kranjipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kranjipri1.png">
 
 The school logo is formed by the 3 letters K, P and S, a scroll, a rising sun, an open book and a foundation. K, P and S are the initials of the school name, and underpin the school motto.
 
@@ -130,7 +131,7 @@ The school logo is formed by the 3 letters K, P and S, a scroll, a rising sun, a
 |
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Zqrsp2OMW9iLJI7fjPByVwT6m1ZXVGuX/view?usp=share_link">**♫ Listen**</a>
 
 At Kranji we learn to work and play,<br>
 making the most of each new day.<br>
