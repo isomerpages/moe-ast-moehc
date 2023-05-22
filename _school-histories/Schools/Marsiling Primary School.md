@@ -4,55 +4,56 @@ permalink: /school-histories/marsiling-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/marsilingpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/marsilingpri1.jpg">
 
 ### **Marsiling Primary School**
-[URL to website](https://marsilingpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://marsilingpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTHr_wq59FYb2G0QHG0yjAt2dN4YCDaT8CmqowHS2bfVjZTbRLy97KFfV52zyoZaatLqe9cpok6kZkQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/marsilingpri2.jpg">  
-<img src="/images/marsilingpri2.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img align="left" style="width:28%;margin-right:15px;" src="/images/marsilingpri2.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri3.jpg">  
-<img src="/images/marsilingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingpri3.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri4.jpg">  
-<img src="/images/marsilingpri4.jpg" style="width:30%;margin-right:60px;" align = "right">
+<img align="right" style="width:30%;margin-right:60px;" src="/images/marsilingpri4.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri5.jpg">  
-<img src="/images/marsilingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingpri5.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri6.jpg">  
-<img src="/images/marsilingpri6.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img align="left" style="width:28%;margin-right:15px;" src="/images/marsilingpri6.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri8.jpg">  
-<img src="/images/marsilingpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingpri8.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri9.jpg">  
-<img src="/images/marsilingpri9.jpg" style="width:30%;margin-right:60px;" align = "right">
+<img align="right" style="width:30%;margin-right:60px;" src="/images/marsilingpri9.jpg">
 </a></p>
 
 <p><a href="/images/marsilingpri10.jpg">  
-<img src="/images/marsilingpri10.jpg" style="width:30%;margin-right:60px;" align = "right">
+<img align="right" style="width:30%;margin-right:60px;" src="/images/marsilingpri10.jpg">
 </a></p>
 
 <br clear="left"><br clear="left">
 
 #### **School History**
-Established in 1958, Marsiling Primary School is one of the oldest schools in the Marsiling/Woodlands estate. Originally known as Marsiling School, the school provided instruction in English, Chinese and Malay to children in the Marsiling area. Marsiling School was located along Marsiling Avenue, off Lorong Chikar. The school relocated to its current premises along Woodlands Centre Road in June 1986 and was renamed Marsiling Primary School.  
+Established in 1958, Marsiling Primary School&nbsp;is&nbsp;one of the&nbsp;oldest&nbsp;schools in the Marsiling/Woodlands estate.&nbsp;Originally known as&nbsp;Marsiling School, the school provided instruction in English, Chinese and Malay to children in the Marsiling area.&nbsp;Marsiling School was located along Marsiling Avenue, off Lorong Chikar.&nbsp;The school&nbsp;relocated to its current premises along Woodlands Centre Road in June 1986 and&nbsp;was&nbsp;renamed Marsiling Primary School. &nbsp;
 
 In 2016, Marsiling Primary School was recognised for its commitment to environmental education and received the President’s Award for the Environment. In 2017, the school completed its PERI upgrading. In 2018, the school celebrated its 60th anniversary.
 
-Marsiling Primary School was accorded the Learning for Life Programme in ‘LEAD (Learn, Engage, Absorb, Demonstrate) to Serve @ MPS’.
+Marsiling Primary School was accorded&nbsp;the&nbsp;Learning for Life Programme in ‘LEAD (Learn, Engage, Absorb, Demonstrate) to Serve @ MPS’.
 
 Principals:<br>
 \- Mrs Aladad Khan (1960–1977)<br>
@@ -81,17 +82,17 @@ Principals:<br>
 |
 
 #### **School Motto**
-_Ilmu Suluh Hidup_ (Knowledge Lights Up Our Lives)
+_Ilmu Suluh Hidup_&nbsp;(Knowledge Lights Up Our Lives)
 
 #### **School Crest**
-<img src="/images/pic.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/pic.png">
 
-The school motto _Ilmu Suluh Hidup_ (‘Knowledge Lights Up Our Lives’) continues to be of relevance today. The colour white represents virtue and good character, while blue is symbolic of a peaceful and harmonious environment. The four interlocking rings represent our close-knit multicultural school population working together in harmony. The stalk of _padi_ is symbolic of hard work and effort required for success. The star reflects the belief that every student can achieve, and the pen represents education that will blaze the way ahead (as shown by the torch) for its students.
+The school motto&nbsp;_Ilmu Suluh Hidup_&nbsp;(‘Knowledge Lights Up Our Lives’) continues to be of relevance today.&nbsp;The colour white represents virtue and good character, while blue is symbolic of a peaceful and harmonious environment. The four interlocking rings represent our close-knit multicultural school population working together in harmony. The stalk of&nbsp;_padi_&nbsp;is symbolic of hard work and effort required for success. The star reflects the belief that every student can achieve, and the pen represents education&nbsp;that&nbsp;will blaze the way ahead (as shown by the torch) for&nbsp;its&nbsp;students.
 
-The school values are encapsulated in the acronym ‘R3ICE’ (Respect, Responsibility, Resilience, Integrity, Care and Excellence). Infused into both the formal and informal curriculum of the school, R3ICE is the anchor upon which Marsiling Primary’s students build their holistic learning experience – one that prepares them for the complexities and challenges of the future.
+The school values are encapsulated in the acronym ‘R3ICE’ (Respect,&nbsp;Responsibility,&nbsp;Resilience,&nbsp;Integrity,&nbsp;Care&nbsp;and&nbsp;Excellence). Infused into both the formal and informal curriculum of the school, R3ICE is the anchor upon which Marsiling Primary’s&nbsp;students build their holistic learning experience – one that prepares them for the complexities and challenges of the future.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1nFMgRcecXomSybAzUOhF5imajYZKwC0-/view?usp=share_link">**♫ Listen**</a>
 
 Marsiling you are dear to us,<br>
 Oh how we gaze with pride and joy,<br>
