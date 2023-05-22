@@ -4,48 +4,49 @@ permalink: /school-histories/macpherson-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/macphersonpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/macphersonpri1.png">
 
 ### **Macpherson Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRfpAzuq9VA38-kkSbmy49zeUBPGr4FVf6eJxsnrPfvoBUZJqhjfVaaVRDCPouw2tvioO3GzNNUIuwk/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/macphersonpri2.jpg">  
-<img src="/images/macphersonpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri2.jpg">
 </a></p>
 
 <p><a href="/images/macphersonpri3.jpg">  
-<img src="/images/macphersonpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri3.jpg">
 </a></p>
 
 <p><a href="/images/macphersonpri4.jpg">  
-<img src="/images/macphersonpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/macphersonpri5.jpg">  
-<img src="/images/macphersonpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri5.jpg">
 </a></p>
 
 <p><a href="/images/macphersonpri6.jpg">  
-<img src="/images/macphersonpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri6.jpg">
 </a></p>
 
 <p><a href="/images/macphersonpri7.jpg">  
-<img src="/images/macphersonpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/macphersonpri8.jpg">  
-<img src="/images/macphersonpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri8.jpg">
 </a></p>
 
 <p><a href="/images/macphersonpri9.jpg">  
-<img src="/images/macphersonpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -53,7 +54,7 @@ third_nav_title: Schools
 #### **School History**
 MacPherson Primary School was established in 1966 as an integrated school offering both English and Chinese as the medium of instruction. The school was first located at Persiaran Keiling (currently known as Circuit Road). In 1992, MacPherson Primary School celebrated its 25th anniversary. In 1997, MacPherson Primary School merged with Aljunied Primary School and relocated to 6A Mattar Road.
 
-In 1999, MacPherson Primary School underwent PRIME. The Singapore Buddhist Lodge MacPherson Vision Student Care Centre was also officially opened. In 2002, MacPherson Primary School merged with Woodsville Primary School and the merged school relocated to its current premises at 2 Mattar Road. In 2004, the campus, ‘The Learning Place @ MacPherson’, was officially opened. MacPherson Primary continued its journey to make the school an institute of excellence. 
+In 1999, MacPherson Primary School underwent PRIME. The&nbsp;Singapore Buddhist Lodge&nbsp;MacPherson Vision Student Care Centre was also officially opened. In 2002, MacPherson Primary School merged with Woodsville Primary School and the merged school relocated to its current premises at 2 Mattar Road. In 2004, the campus, ‘The Learning Place @ MacPherson’, was officially opened. MacPherson Primary continued its journey to make the school an institute of excellence.&nbsp;
 
 In 2009, the school began its satellite partnership with Canossian School for the Hearing Impaired and fostered a culture of inclusiveness among its students. In 2014, MacPherson Primary School was accorded Learning for Life Programme in ‘Learn, Love, Lead through Sports’. In 2016, the PERI upgrading for the school was completed in time for the school’s 50th anniversary celebrations. MacPherson Primary School was accorded the Learning for Life Programme in Learn, Love, Lead through Sports.
 
@@ -90,7 +91,7 @@ Principals:<br>
 Nobility, Honour, Excellence, Love
 
 #### **School Crest**
-<img src="/images/macphersonpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/macphersonpri1.png">
 
 The school logo incorporates both the traditional and the modern. It consists of the traditional shield to depict the school as one with a history. On the right of the shield is the name of the school in contemporary font. This signifies the school as one that is forward-looking and innovative, with a desire to prepare its students for the future. The school aims to be the choice school of the new millennium.
 
@@ -110,7 +111,7 @@ The golden banner with the school motto ‘NOBILITY, HONOUR, EXCELLENCE’ symbo
 The year 1966 is when the school was established.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1uIyXjLAlowzBi3QBNwVoeDVxQMAHqdfM/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1:<br>
 Hearts are awakening<br>
