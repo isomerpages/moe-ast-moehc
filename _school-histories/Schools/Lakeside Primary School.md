@@ -4,57 +4,58 @@ permalink: /school-histories/lakeside-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/lakesidepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/lakesidepri1.png">
 
 ### **Lakeside Primary School**
-[URL to website](https://lakesidepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://lakesidepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTONddyKcZ5Cx_Fe1IbfTldlme9cJIKf8nTKG5aguaJZrDgygvK2zivdXuX_qEB3NVVXahFJhzTUMtq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/lakesidepri2.jpg">  
-<img src="/images/lakesidepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri2.jpg">
 </a></p>
 
 <p><a href="/images/lakesidepri3.jpg">  
-<img src="/images/lakesidepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri3.jpg">
 </a></p>
 
 <p><a href="/images/lakesidepri4.jpg">  
-<img src="/images/lakesidepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/lakesidepri5.jpg">  
-<img src="/images/lakesidepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri5.jpg">
 </a></p>
 
 <p><a href="/images/lakesidepri6.jpg">  
-<img src="/images/lakesidepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri6.jpg">
 </a></p>
 
 <p><a href="/images/lakesidepri7.jpg">  
-<img src="/images/lakesidepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/lakesidepri8.jpg">  
-<img src="/images/lakesidepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri8.jpg">
 </a></p>
 
 <p><a href="/images/lakesidepri9.jpg">  
-<img src="/images/lakesidepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Lakeside Primary School was formed from the merger of Jurong Town Primary, Merlimau Primary and Yung An Primary. The three schools were situated in Taman Jurong and had relatively long histories. Jurong Primary was officially opened on 28 March 1968, while Merlimau Primary began its humble beginnings in 1964, the oldest of the three schools. Yung An, which means ‘Forever Peaceful’, was named thus as it was located within the beautiful and peaceful Jurong Lake district. 
+Lakeside Primary School was formed from the merger of Jurong Town Primary, Merlimau Primary and Yung An Primary. The three schools were situated in Taman Jurong and had relatively long histories. Jurong Primary was officially opened on 28 March 1968, while Merlimau Primary began its humble beginnings in 1964, the oldest of the three schools. Yung An, which means ‘Forever Peaceful’, was named thus as it was located within the beautiful and peaceful Jurong Lake district.&nbsp;
 
-Situated along Corporation Walk, Lakeside Primary was officially opened in January 2004. In 2014, the school was accorded the Learning for Life Programme in ARTS De La Scène. The following year, the school completed its PERI upgrading. In 2017, Lakeside Primary celebrated its 15th anniversary. 
+Situated along Corporation Walk,&nbsp;Lakeside Primary&nbsp;was officially opened in January 2004. In 2014, the school was accorded the Learning for Life Programme in ARTS De La Scène. The following year, the school completed its PERI upgrading. In 2017, Lakeside Primary celebrated its 15th anniversary.&nbsp;
 
 Principals:<br>
 \- Mr Chew Chong Theng (2003–2010)<br>
@@ -79,14 +80,14 @@ Principals:<br>
 Be Our Best
 
 #### **School Crest**
-<img src="/images/lakesidepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/lakesidepri1.png">
 
 The Lakeside Primary School crest reflects the spirit and aspirations of its students and staff. The school crest depicts a blue falcon against a yellow background soaring towards five orange stars. The stars represent the five domains for development: academic, physical, aesthetics, moral and social. The graceful falcon soaring with her magnificent wingspan above the five stars encapsulates the spirit and aspirations of the students and staff of Lakeside Primary to achieve excellence across these five domains of development.
 
 Blue symbolises creativity and fluidity in the exchange of knowledge and skills among teachers, teachers and stakeholders. Orange epitomises the school’s exuberance and vibrant learning environment. The yellow background represents the noble school values of love, perseverance, responsibility, integrity, diligence and respect.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1zAYBcT1utw8ZpW7PaVwaQ1oYKvKOK7Gt/view?usp=share_link">**♫ Listen**</a>
 
 In Lakeside Primary<br>
 We are one big happy family<br>
