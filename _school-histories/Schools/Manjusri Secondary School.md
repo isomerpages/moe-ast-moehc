@@ -4,53 +4,54 @@ permalink: /school-histories/manjusri-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/manjusrisec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/manjusrisec1.png">
 
 ### **Manjusri Secondary School**
-[URL to website](https://manjusrisec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://manjusrisec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRq6KMUaAs0N4wwXSTFUvcsz6Sx6xRKk7sopylNkAJJXh0RmTQcv9EJAIFkQKeX82ncs625x4zWJWny/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/manjusrisec2.jpg">  
-<img src="/images/manjusrisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec2.jpg">
 </a></p>
 
 <p><a href="/images/manjusrisec3.jpg">  
-<img src="/images/manjusrisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec3.jpg">
 </a></p>
 
 <p><a href="/images/manjusrisec4.jpg">  
-<img src="/images/manjusrisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/manjusrisec5.jpg">  
-<img src="/images/manjusrisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec5.jpg">
 </a></p>
 
 <p><a href="/images/manjusrisec6.jpg">  
-<img src="/images/manjusrisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec6.jpg">
 </a></p>
 
 <p><a href="/images/manjusrisec7.jpg">  
-<img src="/images/manjusrisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/manjusrisec8.jpg">  
-<img src="/images/manjusrisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec8.jpg">
 </a></p>
 
 <p><a href="/images/manjusrisec9.jpg">  
-<img src="/images/manjusrisec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec9.jpg">
 </a></p>
 
 <p><a href="/images/manjusrisec10.jpg">  
-<img src="/images/manjusrisec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec10.jpg">
 </a></p>
 
 <br clear="left">
@@ -99,12 +100,12 @@ Principals:<br>
 愿: ‘Aspirations’, which are like ambitions. Buddhists observe the Four Aspirations: better conduct, self-improvement, pursuit of truth and preservation of all life.
 
 #### **School Crest**
-<img src="/images/manjusrisec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/manjusrisec1.png">
 
-The crest has an oriental design consisting of the letter ‘M’ (‘Manjusri’), which stands out in bold maroon with a graceful lotus resting on it. A thin border of pale red defines the badge, giving it added character and uniqueness. The white lotus is symbolic of the school’s aim and ideal to instil in students the purity of thought and exemplary behaviour through Buddhism. The colour maroon signifies brotherhood, warmth and sincerity, while pale red denotes youthfulness and vitality.
+The crest has an oriental design consisting of the letter ‘M’ (‘Manjusri’), which stands out in bold maroon with a graceful lotus resting on it. A thin border of pale red defines the badge, giving it added character and uniqueness. The white lotus is symbolic of the school’s aim and ideal to instil in students the purity of thought and exemplary behaviour through Buddhism.&nbsp;The colour maroon signifies brotherhood, warmth and sincerity, while pale red denotes youthfulness and vitality.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1JDdnSyMe60huvYBss-onSlTNGZMXx_gc/view?usp=share_link">**♫ Listen**</a>
 
 Bodhisattva Manjusri, the light of wisdom<br>
 Glowing in our hearts and illuminating our minds.<br>
