@@ -4,24 +4,25 @@ permalink: /school-histories/keppel-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/keppelpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/keppelpri1.png">
 
 ### **Keppel Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUmCQqSqXtWYa5LaSTltpMZYleqdxGcJB2JipzkWCXhgJ2V4iQ172hhiwb-wOQCqxhAaIO2Iy_jyen/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/keppelpri2.jpg">  
-<img src="/images/keppelpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/keppelpri2.jpg">
 </a></p>
 
 <p><a href="/images/keppelpri3.jpg">  
-<img src="/images/keppelpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/keppelpri3.jpg">
 </a></p>
 
 <p><a href="/images/keppelpri4.jpg">  
-<img src="/images/keppelpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/keppelpri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -41,13 +42,3 @@ In 1996, Keppel Primary School closed and the remaining students of Keppel Prima
 
 #### **School Motto**
 Knowledge Begets Supremacy
-
-#### **School Crest**
-<img src="/images/keppelpri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
