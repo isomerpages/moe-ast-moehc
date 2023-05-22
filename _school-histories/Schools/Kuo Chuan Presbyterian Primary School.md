@@ -4,49 +4,50 @@ permalink: /school-histories/kuo-chuan-presbyterian-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kuochuanprespri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kuochuanprespri1.png">
 
 ### **Kuo Chuan Presbyterian Primary School**
-[URL to website](https://kuochuanpresbyterianpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://kuochuanpresbyterianpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS42CQFSi0upzyTr4_qaT0VvryjN2w7nAVBT4rezHU1OakxvKTCXyfVzSbDVxFMEcbY3TM_47siqnNs/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kuochuanprespri2.jpg">  
-<img src="/images/kuochuanprespri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri2.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanprespri3.jpg">  
-<img src="/images/kuochuanprespri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri3.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanprespri4.jpg">  
-<img src="/images/kuochuanprespri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kuochuanprespri5.jpg">  
-<img src="/images/kuochuanprespri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri5.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanprespri6.jpg">  
-<img src="/images/kuochuanprespri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri6.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanprespri7.jpg">  
-<img src="/images/kuochuanprespri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kuochuanprespri8.jpg">  
-<img src="/images/kuochuanprespri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri8.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanprespri9.jpg">  
-<img src="/images/kuochuanprespri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanprespri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,14 +86,14 @@ Principals:<br>
 Aflame for Truth
 
 #### **School Crest**
-<img src="/images/kuochuanprespri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kuochuanprespri1.png">
 
-The school crest is circular in shape. In the inner circle, a book, the Bible, rests on top of a shield. The band of light radiating from the shield represents the light of God. In the centre of the shield is the ‘Burning Bush’. The red flames do not destroy the green bush as they are the supernatural flames of God. The dark blue colour represents the stability of the Christian faith, and white symbolises the purity and grace of God. The crest and the motto are drawn from the Book of Exodus, Chapter 3, verses 1 to 12 in the Bible. 
+The school crest is circular in shape. In the inner circle, a book, the Bible, rests on top of a shield. The band of light radiating from the shield represents the light of God. In the centre of the shield is the ‘Burning Bush’. The red flames do not destroy the green bush as they are the supernatural flames of God. The dark blue colour represents the stability of the Christian faith, and white symbolises the purity and grace of God. The crest and the motto are drawn from the Book of Exodus, Chapter 3, verses 1 to 12 in the Bible.&nbsp;
 
 The crest speaks of God’s presence, guiding and inspiring the students to become upright and responsible people. The ‘Burning Bush’ is a befitting emblem to the school’s unfailing quest for Truth, with God as its mentor and guide.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1V3tvaO4k3BUKvk4Wc7_wLiXGtrONrpAI/view?usp=share_link">**♫ Listen**</a>
 
 We pledge to thee our school, our loyalty;<br>
 Our faithful service render we to thee.<br>
