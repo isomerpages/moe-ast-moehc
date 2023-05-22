@@ -4,36 +4,37 @@ permalink: /school-histories/loyang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/loyangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/loyangpri1.png">
 
 ### **Loyang Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5jG5hBtQhwT6DcYclJw9fGhld16Wgw0oOpSyAL-vMxltwJOIKWGFNd__b7JDuK3mIuG6gnvQ_mcS0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/loyangpri2.jpg">  
-<img src="/images/loyangpri2.jpg" style="width:24%;margin-left:25px;" align = "left">
+<img align="left" style="width:24%;margin-left:25px;" src="/images/loyangpri2.jpg">
 </a></p>
 
 <p><a href="/images/loyangpri3.jpg">  
-<img src="/images/loyangpri3.jpg" style="width:30%;margin-left:25px;" align = "left">
+<img align="left" style="width:30%;margin-left:25px;" src="/images/loyangpri3.jpg">
 </a></p>
 
 <p><a href="/images/loyangpri4.jpg">  
-<img src="/images/loyangpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/loyangpri4.jpg">
 </a></p>
 
 <p><a href="/images/loyangpri5.jpg">  
-<img src="/images/loyangpri5.jpg" style="width:30%;margin-left:5px;" align = "left">
+<img align="left" style="width:30%;margin-left:5px;" src="/images/loyangpri5.jpg">
 </a></p>
 
 <p><a href="/images/loyangpri6.jpg">  
-<img src="/images/loyangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/loyangpri6.jpg">
 </a></p>
 
 <p><a href="/images/loyangpri7.jpg">  
-<img src="/images/loyangpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/loyangpri7.jpg">
 </a></p>
 
 <br clear="left">
@@ -65,12 +66,12 @@ Principals:<br>
 The Best is in Me
 
 #### **School Crest**
-<img src="/images/loyangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/loyangpri1.png">
 
 The initials ‘LPS’ are merged to represent unity. The letters form a broad base that symbolises the firm foundation in education provided by the school. The stem of the letter ‘P’ signifies growth and development, while the circular portion reflects a rounded education. The colours navy blue and peach represent the sea of knowledge and the everlasting quest for success.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1ycxPUYrF6epYJup5j1BKGP0XH25oKI_K/view?usp=share_link">**♫ Listen**</a>
 
 Loyang Primary<br>
 To you we give our best<br>
