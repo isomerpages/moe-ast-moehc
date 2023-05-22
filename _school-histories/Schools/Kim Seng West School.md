@@ -4,16 +4,17 @@ permalink: /school-histories/kim-seng-west-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kimsengwestsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kimsengwestsch1.png">
 
 ### **Kim Seng West School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyrwHQpHWjwyEtZuSDbdGztgX-gHuNctbj_VmrlI3MTqsQMsh8XKcPwHNAKlJhytN5YUnfVelJJcaN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kimsengwestsch2.jpg">  
-<img src="/images/kimsengwestsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kimsengwestsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -34,16 +35,3 @@ Kim Seng West School’s building then became the Ministry of Manpower Employmen
 | 1950s | Establishment of Kim Seng West School. |
 | 1982 | Merged with Kim Seng East School to form Kim Seng Primary School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/kimsengwestsch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
