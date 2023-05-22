@@ -4,16 +4,17 @@ permalink: /school-histories/margaret-drive-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/margaretdrivepri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/margaretdrivepri1.jpg">
 
 ### **Margaret Drive Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTEa6Z3kufvGLfg40qQyxQeE4pKrzGRRum0qaevipORIbXl-QOMUGTA2w0i-yO7dZjvnQUEMvjo6XvB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/margaretdrivepri2.jpg">  
-<img src="/images/margaretdrivepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/margaretdrivepri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -43,11 +44,8 @@ Principals:<br>
 Ever Onward
 
 #### **School Crest**
-<img src="/images/margaretdrivepri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/margaretdrivepri1.jpg">
 
 The burning lamp symbolises the knowledge that the students and teachers acquire. The lion symbolises courage and strength.
 
 <br clear="left">
-
-#### **School Song**
-\-
