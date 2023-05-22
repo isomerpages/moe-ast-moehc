@@ -4,57 +4,58 @@ permalink: /school-histories/mee-toh-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/meetohsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/meetohsch1.jpg">
 
 ### **Mee Toh School**
-[URL to website](https://meetoh.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://meetoh.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_DiAMTapg2BA1wzIR-FWcm-Lj3K_nLQR1GJkpNjw2Ls8OOBMh6Fllxf9Idt7xaQvnO-rXA7_UWtvV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/meetohsch2.jpg">  
-<img src="/images/meetohsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch2.jpg">
 </a></p>
 
 <p><a href="/images/meetohsch3.jpg">  
-<img src="/images/meetohsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch3.jpg">
 </a></p>
 
 <p><a href="/images/meetohsch4.jpg">  
-<img src="/images/meetohsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/meetohsch5.jpg">  
-<img src="/images/meetohsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch5.jpg">
 </a></p>
 
 <p><a href="/images/meetohsch6.jpg">  
-<img src="/images/meetohsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch6.jpg">
 </a></p>
 
 <p><a href="/images/meetohsch7.jpg">  
-<img src="/images/meetohsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/meetohsch8.jpg">  
-<img src="/images/meetohsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch8.jpg">
 </a></p>
 
 <p><a href="/images/meetohsch9.jpg">  
-<img src="/images/meetohsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meetohsch9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Mee Toh School was established by Venerable Sek Kong Hiap of Leong San Temple in 1954 along Race Course Road as a Chinese-medium school. Seeing that many children were not able to receive an education, he first started classes in Leong San Temple, and later offered the land originally bought to build Mee Toh Temple to build Mee Toh School instead. ‘Mee Toh’ (弥陀) refers to ‘eternal brightness’. Venerable Kong Hiap adopted the school motto – Compassion, Conscience, Purity and Righteousness – which originated from Master Hongyi, to encourage students to become better persons and seek continual improvement.    
+Mee Toh School was established by Venerable Sek Kong Hiap of Leong San Temple in 1954 along Race Course Road as a Chinese-medium school. Seeing that many children were not able to receive an education, he first started classes in Leong San Temple, and later offered the land originally bought to build Mee Toh Temple to build Mee Toh School instead. ‘Mee Toh’ (弥陀) refers to ‘eternal brightness’. Venerable Kong Hiap adopted the school motto – Compassion, Conscience, Purity and Righteousness – which originated from Master Hongyi, to encourage students to become better persons and seek continual improvement.&nbsp;&nbsp;  
   
-In 1957, Mee Toh School became a government-aided school. Mee Toh saw the first batch of Primary Six students taking the PSLE with English as the first language in 1985. Besides imparting knowledge and skills, the school advocated a curriculum that strengthened students’ character development through holistic experiences.   
+In 1957, Mee Toh School became a government-aided school. Mee Toh saw the first batch of Primary Six students taking the PSLE with English as the first language in 1985. Besides imparting knowledge and skills, the school advocated a curriculum that strengthened students’ character development through holistic experiences.&nbsp;  
   
 In the late 1990s, Mee Toh School faced dwindling enrolment due to an ageing population in the locality of Race Course Road and the outflow of residents to suburban new towns. In 2002, the Primary One enrolment fell to 26. Over those few years, the School Management Committee and stakeholders deliberated and debated over whether to keep the land at Race Course Road or to sustain the school through relocation. Finally, it was decided to accept the Ministry of Education’s proposed site for the new school compound in Punggol New Town. Mee Toh School shifted to 21 Edgedale Plains and started operating at the new premises in 2005. The school was officially opened the following year.  
   
@@ -90,16 +91,16 @@ Purity 清<br>
 Righteousness 直
 
 #### **School Crest**
-<img src="/images/meetohsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/meetohsch1.jpg">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1xHk1upfYGh6uOVrE6r6NO_qxBXk29K3A/view?usp=share_link">**♫ Listen**</a>
 
-南国风光月月春  南国青年日日新<br>
-三宝庄严垂万古  弥陀慧业无等伦<br>
-人人勤修世间法  习劳敬业而乐群<br>
-琢磨道德光祖国  研究学问利群生<br>
-今日门庭桃李花  他年松柏永青青<br>
-南国风光月月春  南国青年日日新
+南国风光月月春&nbsp; 南国青年日日新<br>
+三宝庄严垂万古&nbsp; 弥陀慧业无等伦<br>
+人人勤修世间法&nbsp; 习劳敬业而乐群<br>
+琢磨道德光祖国&nbsp; 研究学问利群生<br>
+今日门庭桃李花&nbsp; 他年松柏永青青<br>
+南国风光月月春&nbsp; 南国青年日日新
