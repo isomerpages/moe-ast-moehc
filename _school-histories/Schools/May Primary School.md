@@ -4,24 +4,25 @@ permalink: /school-histories/may-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/maypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/maypri1.png">
 
 ### **May Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZ-xZMuK16XRoaKGPS4IUoNCgSoBRSiLA-nouQgPcteRQL5TRL1stq1XSE8yIQZYyueEAoIZC10v6T/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/maypri2.jpg">  
-<img src="/images/maypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/maypri2.jpg">
 </a></p>
 
 <p><a href="/images/maypri3.jpg">  
-<img src="/images/maypri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/maypri3.jpg">
 </a></p>
 
 <p><a href="/images/maypri4.jpg">  
-<img src="/images/maypri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/maypri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -33,7 +34,7 @@ In 1987, the school underwent upgrading works for its physical facilities. The s
 
 In 1988, the school attained third place in the Schools’ (Junior) Category of the “Sing Singapore” National Community Singing Competition.
 
-In December 1998, Cambridge Primary School was merged with May Primary School.
+In December 1998, Cambridge Primary&nbsp;School was merged with May Primary School.
 
 In 2002, May Primary School merged with Boon Keng Primary School to become Farrer Park Primary School.
 
@@ -57,13 +58,15 @@ Last Serving Principal:<br>
 Knowledge Lights My Way
 
 #### **School Crest**
-<img src="/images/maypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/maypri1.png">
 
 The crest consists of an upper-case letter “M”, which stands for “May Primary”. Underlining the letter is the school motto, “Knowledge Lights My Way”.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Knowledge lights my way<br>
 As I learn and play from day to day<br>
 And to build in me<br>
