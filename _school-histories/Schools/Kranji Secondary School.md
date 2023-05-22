@@ -4,7 +4,7 @@ permalink: /school-histories/kranji-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kranjisec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kranjisec1.png">
 
 ### **Kranji Secondary School**
 [URL to website](https://www.kranjisec.moe.edu.sg/)
@@ -12,48 +12,49 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgwpHfuh0vHi2xrOwi_pcVhFv8sip_3LzM22vYtnv__Iu-cCGOEbN_yQJGzRLzuYsRXnl-ZVdsy7ip/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kranjisec2.jpg">  
-<img src="/images/kranjisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec2.jpg">
 </a></p>
 
 <p><a href="/images/kranjisec3.jpg">  
-<img src="/images/kranjisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec3.jpg">
 </a></p>
 
 <p><a href="/images/kranjisec4.jpg">  
-<img src="/images/kranjisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec4.jpg">
 </a></p>
 
 <p><a href="/images/kranjisec5.jpg">  
-<img src="/images/kranjisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kranjisec6.jpg">  
-<img src="/images/kranjisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec6.jpg">
 </a></p>
 
 <p><a href="/images/kranjisec7.jpg">  
-<img src="/images/kranjisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec7.jpg">
 </a></p>
 
 <p><a href="/images/kranjisec8.jpg">  
-<img src="/images/kranjisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec8.jpg">
 </a></p>
 
 <br clear="left">
 
 
 <p><a href="/images/kranjisec9.jpg">  
-<img src="/images/kranjisec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Kranji Secondary School was established in 1995 and temporarily sited in Chestnut Drive Secondary School. In 1996, the school relocated to its present premises at 61 Choa Chu Kang Street 51. The school underwent PRIME upgrading from 2016 to 2018. On 11 December 2018, the school shifted to its new premises.
+Kranji Secondary School was established in 1995 and temporarily sited in Chestnut Drive Secondary School.&nbsp;In 1996, the school relocated to its present premises at 61 Choa Chu Kang Street 51. The school underwent PRIME upgrading from 2016 to 2018. On 11 December 2018, the school shifted to its new premises.
 
 Since its inception, the school has emphasised on imbibing in students a sense of pride and ownership in community involvement. The school prides itself in its long-term collaboration with Yew Tee Citizens’ Consultative Committee, which started in 2005. It also collaborated with Limbang Citizens’ Consultative Committee in 2018 to celebrate the annual Mid-Autumn Festival. The event saw students set up innovative booths and cultural performances for residents.
 
@@ -92,16 +93,16 @@ Principals:<br>
 Breakthrough
 
 #### **School Crest**
-<img src="/images/kranjisec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kranjisec1.png">
 
-The school logo is a circle with pillars within it. Two of the pillars break through at the top right edge of the circumference. The colour red represents the youthful dynamism of the students. While green symbolises the students’ sense of responsibility and respectful attitude, it also represents growth and development.
+The school logo is a circle with pillars within it. Two of the pillars break through at the top right edge of the circumference.&nbsp;The colour red represents the youthful dynamism of the students. While green symbolises the students’ sense of responsibility and respectful attitude, it also represents growth and development.
 
 The five pillars represent the five shared national values that the school wishes to inculcate in the students. The breakthrough at the circle’s circumference symbolises determination and perseverance to excel in academic and co-curricular activities through the shared efforts of students, teachers, parents and the community.
 
 The basic circular green shape indicates the school’s emphasis on the all-round development of the students as well as the school’s commitment to create opportunities for their intellectual, moral, physical, social and aesthetics development through its instructional, enrichment programmes and co-curricular activities.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1V6Z_5YJZMqhSMFl-JJ5WW22HH8vqlSUi/view?usp=share_link">**♫ Listen**</a>
 
 Kranjians take on the challenge to excel in knowledge.<br>
 Be creative and uphold integrity,<br>
