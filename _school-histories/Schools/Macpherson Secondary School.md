@@ -4,48 +4,49 @@ permalink: /school-histories/macpherson-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/macphersonsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/macphersonsec1.jpg">
 
 ### **Macpherson Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjK31-Dnk4MOe3pVDhf81nhEqlcgPlR0x5amJA-_8ydqDE51xG55xL_YZH2oB5X0wkepAvH27upJ5r/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/macphersonsec2.jpg">  
-<img src="/images/macphersonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec2.jpg">
 </a></p>
 
 <p><a href="/images/macphersonsec3.jpg">  
-<img src="/images/macphersonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec3.jpg">
 </a></p>
 
 <p><a href="/images/macphersonsec4.jpg">  
-<img src="/images/macphersonsec4.jpg" style="width:31%;margin-right:35px;" align = "right">
+<img align="right" style="width:31%;margin-right:35px;" src="/images/macphersonsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/macphersonsec5.jpg">  
-<img src="/images/macphersonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec5.jpg">
 </a></p>
 
 <p><a href="/images/macphersonsec6.jpg">  
-<img src="/images/macphersonsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec6.jpg">
 </a></p>
 
 <p><a href="/images/macphersonsec7.jpg">  
-<img src="/images/macphersonsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/macphersonsec8.jpg">  
-<img src="/images/macphersonsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec8.jpg">
 </a></p>
 
 <p><a href="/images/macphersonsec9.jpg">  
-<img src="/images/macphersonsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/macphersonsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -55,7 +56,7 @@ MacPherson Secondary School was established in 1967 and officially opened in the
 
 Over the years, the school building underwent upgrading and new facilities were added to meet the needs of the rising standard of education. In 1984, the school became a fully English-medium school.
 
-In 2001, MacPherson Secondary School started its rebuilding programme at 121 Circuit Road.  On the morning of 30 May 2003, students and staff sang the national anthem and the school song for the last time in the old campus. After the lowering of the national and school flags, the staff and students marched to the new school campus together.
+In 2001, MacPherson Secondary School started its rebuilding programme at 121 Circuit Road.&nbsp; On the morning of 30 May 2003, students and staff sang the national anthem and the school song for the last time in the old campus. After the lowering of the national and school flags, the staff and students marched to the new school campus together.
 
 On 2 January 2004, Woodsville Secondary School merged with MacPherson Secondary School, and its campus on Circuit Road was officially opened on 17 April. The school vision, ‘MacPhersonians dare to dream, innovate and lead’, was crafted in the same year.
 
@@ -63,7 +64,7 @@ MacPherson Secondary School was accorded its Applied Learning Programme, ‘ENER
 
 In the same year, the school was also accorded its Learning for Life Programme, ‘CARE3’ (Confidence and Resilience through aesthetics learning Experience, Engagement and Exposure), which comprised activities aimed at developing students’ attitude in learning for life and to widen their aesthetic exposure and appreciation.
 
-In 2017, MacPherson Secondary merged with Broadrick Secondary School, taking on the latter’s name. The merged school now operates at the site of Broadrick Secondary School in Dakota Crescent.
+In 2017, MacPherson&nbsp;Secondary merged with Broadrick&nbsp;Secondary School, taking on the latter’s name. The merged school now operates at the site of Broadrick&nbsp;Secondary School in Dakota Crescent.
 
 Principals:<br>
 \- Mr Koh Beng Thiam (1967–1970)<br>
@@ -101,12 +102,12 @@ Principals:<br>
 Country before Self
 
 #### **School Crest**
-<img src="/images/macphersonsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/macphersonsec1.jpg">
 
-The colour red symbolises universal brotherhood and equality of man. Blue signifies the sea surrounding Singapore – the lifeline of the nation. White signifies virtue and incorruptibility. The book represents knowledge, while the two arrows signify truth and excellence. The steel frame represents one’s strength, stamina and flexibility.
+The colour red symbolises universal brotherhood and equality of man. Blue signifies the sea&nbsp;surrounding Singapore – the lifeline of the nation. White signifies virtue and incorruptibility. The book represents knowledge, while the two arrows signify truth and excellence. The steel frame represents one’s strength, stamina and flexibility.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1UCAYfzEayfKQSsaSKG8b7CwavILSaTX4/view?usp=share_link">**♫ Listen**</a>
 
 We will march to the tune of this heart-felt melody<br>
 We will render the air with infectious gaiety<br>
