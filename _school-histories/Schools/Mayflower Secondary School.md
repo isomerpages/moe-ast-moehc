@@ -4,45 +4,47 @@ permalink: /school-histories/mayflower-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/mayflowersec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/mayflowersec1.png">
 
 ### **Mayflower Secondary School**
-[URL to website](https://mayflowersec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://mayflowersec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyPc-t5XA0C927Zx7gzaKL8O7agtHcdSTPemh7WhFiKVLfaNGtNu-gmZIpY7klBfR0QJ-_DfZQmVc4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/mayflowersec2.jpg">  
-<img src="/images/mayflowersec2.jpg" style="width:25%;margin-left:15px;" align = "left">
+<img align="left" style="width:25%;margin-left:15px;" src="/images/mayflowersec2.jpg">
 </a></p>
 
 <p><a href="/images/mayflowersec3.jpg">  
-<img src="/images/mayflowersec3.jpg" style="width:30%;margin-left:15px;" align = "left">
+<img align="left" style="width:30%;margin-left:15px;" src="/images/mayflowersec3.jpg">
 </a></p>
 
 <p><a href="/images/mayflowersec4.jpg">  
-<img src="/images/mayflowersec4.jpg" style="width:30%;margin-left:15px;" align = "left">
+<img align="left" style="width:30%;margin-left:15px;" src="/images/mayflowersec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/mayflowersec5.jpg">  
-<img src="/images/mayflowersec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowersec5.jpg">
 </a></p>
 
 <p><a href="/images/mayflowersec6.jpg">  
-<img src="/images/mayflowersec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowersec6.jpg">
 </a></p>
 
 <p><a href="/images/mayflowersec7.jpg">  
-<img src="/images/mayflowersec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowersec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/mayflowersec8.jpg">  
-<img src="/images/mayflowersec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowersec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -86,7 +88,7 @@ Principals:<br>
 Mighty in Thought and Deed
 
 #### **School Crest**
-<img src="/images/mayflowersec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/mayflowersec1.png">
 
 The school crest is composed of the letters, ‘M’ and ‘F’, encircled by the school name. ‘MF’, the initials of the school, is depicted as a stalk of flower. The ‘M’ is styled as a flower’s head, while the ‘F’ is designed as a stem with a blade of leaf on either side. This stalk of flower conveys the message, ‘Every Mayflowerian will bloom’.
 
@@ -95,7 +97,7 @@ While the design accentuates the development of the individual, it also emphasis
 The letter ‘M’ is also linked to the concept of might, derived from the school motto, ‘Mighty in Thought and Deed’. The simple and bold lettering of ‘Mayflower Secondary School’, which is arranged in a circle, extols the attribute of might as the school unites in its efforts to be strong and righteous in thought and action.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1iaKAVYTzIIuDht15ef2qjGWgRGTMK1ZV/view?usp=share_link">**♫ Listen**</a>
 
 Mayflower our dearest school<br>
 Together aspire together we strive;<br>
