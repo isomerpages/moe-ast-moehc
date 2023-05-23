@@ -4,47 +4,48 @@ permalink: /school-histories/fajar-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fajarsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fajarsec1.jpg">
 
 ### **Fajar Secondary School**
-[URL to website](https://fajarsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fajarsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZS4H6aB2ALIvW4FOviDsJYX_-OHVhDN8dEiVDISof2iji2k55Xw4eKeMEFn1ezvSARmnwjULBQyp5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fajarsec2.jpg">  
-<img src="/images/fajarsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fajarsec2.jpg">
 </a></p>
 
 <p><a href="/images/fajarsec3.jpg">  
-<img src="/images/fajarsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fajarsec3.jpg">
 </a></p>
 
 <p><a href="/images/fajarsec4.jpg">  
-<img src="/images/fajarsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fajarsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fajarsec5.jpg">  
-<img src="/images/fajarsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fajarsec5.jpg">
 </a></p>
 
 <p><a href="/images/fajarsec6.jpg">  
-<img src="/images/fajarsec6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/fajarsec6.jpg">
 </a></p>
 
 <p><a href="/images/fajarsec7.jpg">  
-<img src="/images/fajarsec7.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/fajarsec7.jpg">
 </a></p>
 
 <p><a href="/images/fajarsec8.jpg">  
-<img src="/images/fajarsec8.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/fajarsec8.jpg">
 </a></p>
 
 <p><a href="/images/fajarsec9.jpg">  
-<img src="/images/fajarsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fajarsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -81,14 +82,14 @@ Related School: [Chestnut Drive Secondary School](/school-histories/chestnut-dri
 Persevere and Achieve
 
 #### **School Crest**
-<img src="/images/fajarsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fajarsec1.jpg">
 
 The school crest bears the English and Chinese (励进中学) names of the school. ’Fajar’ means ‘Dawn’ in Malay. The colour yellow represents dawn, the life-giving rising sun, which signifies achieving success against all odds. The colour orange symbolises the warmth and energy of the sun. Blue represents loyalty, trust and responsibility to friends, family and nation.
 
 The splash of colour encircling the letters ‘FJ’ symbolises the early morning sun rising from the dark night. It expresses the school’s aspiration for its students to find strength during difficulties and emerge victorious despite challenges. It is hoped that the students would become individuals who build healthy relationships and bring warmth to others, working well together in diversity. They persevere to bring about constant improvement, positive outcomes and high achievement in all circumstances.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1PqpMgkskd0LiSApLVfkZ5CjyhHSI2BZ1/view?usp=share_link">**♫ Listen**</a>
 
 VERSE 1<br>
 The dawn is breaking, the light shines through.<br>
