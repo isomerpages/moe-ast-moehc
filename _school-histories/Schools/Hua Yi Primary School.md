@@ -4,31 +4,31 @@ permalink: /school-histories/hua-yi-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/huayipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/huayipri1.png">
 
 ### **Hua Yi Primary School**
-[URL to website]() - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQauHZOGulHjefFkbtI3Y97Igoulpul26rFb2I8kvtWwLUgSLcZn-ElVDYrKug6xufb_GtDi4F48taA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/huayipri2.jpg">  
-<img src="/images/huayipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayipri2.jpg">
 </a></p>
 
 <p><a href="/images/huayipri3.jpg">  
-<img src="/images/huayipri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayipri3.jpg">
 </a></p>
 
 <p><a href="/images/huayipri4.jpg">  
-<img src="/images/huayipri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayipri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/huayipri5.jpg">  
-<img src="/images/huayipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayipri5.jpg">
 </a></p>
 
 <br clear="left">
@@ -47,16 +47,3 @@ In 1991, Hua Yi Primary School merged with Queenstown Primary School. The buildi
 | 1965 | Establishment of Hua Yi Primary School. |
 | 1991 | Merged with Queenstown Primary School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/huayipri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-
