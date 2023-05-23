@@ -4,57 +4,58 @@ permalink: /school-histories/first-tpy-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/firsttpypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/firsttpypri1.png">
 
 ### **First Toa Payoh Primary School**
-[URL to website](https://firsttoapayohpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://firsttoapayohpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDgig6xw27oPPSjLkmmSieKKnplDJ940hCO_F7m3fF3a-1UdvW1szECKD9PiBITjgyXgPLgVdaqXmt/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/firsttpypri2.jpg">  
-<img src="/images/firsttpypri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri2.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri4.jpg">  
-<img src="/images/firsttpypri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/firsttpypri4.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri3.jpg">  
-<img src="/images/firsttpypri3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/firsttpypri3.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri5.jpg">  
-<img src="/images/firsttpypri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/firsttpypri6.jpg">  
-<img src="/images/firsttpypri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri6.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri7.jpg">  
-<img src="/images/firsttpypri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri7.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri8.jpg">  
-<img src="/images/firsttpypri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/firsttpypri9.jpg">  
-<img src="/images/firsttpypri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri9.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri10.jpg">  
-<img src="/images/firsttpypri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri10.jpg">
 </a></p>
 
 <p><a href="/images/firsttpypri11.jpg">  
-<img src="/images/firsttpypri11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri11.jpg">
 </a></p>
 
 <br clear="left">
@@ -95,14 +96,14 @@ Principals:<br>
 Making Impact
 
 #### **School Crest**
-<img src="/images/firsttpypri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/firsttpypri1.png">
 
 The school logo consists of each of the first letters of the school name, FTPP, that converge on a target. The different shading of the letters represents the four schools that have come together to form our school, ‘S’ shown in the centre.
 
 The words of the motto, “MAKING IMPACT” also converge on the target centre to symbolise our focus on achieving success and excellence in our school. From the target centre, the motto and school letters radiate outwards to symbolise our mission to impact on the lives of not only our children but their families, community and beyond.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1t9DmK5SGSD9vhKeAlSfvMjQCL4rJpFQ7/view?usp=share_link">**♫ Listen**</a> 
 
 Here's a place we learn what is right and wrong<br>
 Here's a place where our bodies will grow strong<br>
