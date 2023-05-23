@@ -4,53 +4,54 @@ permalink: /school-histories/jurong-west-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jurongwestsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongwestsec1.png">
 
 ### **Jurong West Secondary School**
-[URL to website](https://jurongwestsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://jurongwestsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQx5LZGR-4-qhwl8ZB7nBzYl2bQGeo6bI-7u_DbxK2Bo5k4FIHQiLFncXyjyxjvXILLn2V1YyQwzyTA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jurongwestsec2.jpg">  
-<img src="/images/jurongwestsec2.jpg" style="width:28%;margin-right:29px;" align = "left">
+<img align="left" style="width:28%;margin-right:29px;" src="/images/jurongwestsec2.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestsec3.jpg">  
-<img src="/images/jurongwestsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec3.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestsec4.jpg">  
-<img src="/images/jurongwestsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/jurongwestsec4.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestsec5.jpg">  
-<img src="/images/jurongwestsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec5.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestsec6.jpg">  
-<img src="/images/jurongwestsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongwestsec7.jpg">  
-<img src="/images/jurongwestsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec7.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestsec8.jpg">  
-<img src="/images/jurongwestsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec8.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestsec9.jpg">  
-<img src="/images/jurongwestsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec9.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongwestsec10.jpg">  
-<img src="/images/jurongwestsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestsec10.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ third_nav_title: Schools
 #### **School History**
 Jurong West Secondary School (JWSS) was established on 2 January 2001 along Jalan Boon Lay. On 18 March 2002, the school moved to the current 3.1-hectare premises, which boast facilities such as computer and science laboratories and special rooms for art, music and dance. The sports facilities included an astro-turf for hockey, an indoor sports hall and an artificial turf as the school field. Further infrastructural enhancements carried out between 2015 and 2019 saw the addition of The Book Room, The Learning Hive, The Loft (a student lounge designed by students for students) and other learning spaces to nurture the joy of learning and enhance student well-being.
 
-In its early years, the school achieved numerous awards including Sustained Achievement Awards (in physical fitness, sports, aesthetics, uniformed groups) as well as attaining niche status in Uniformed Groups. In 2014, the school was selected as one of 12 prototype schools for Subject-Based Banding. 2016 saw the launch of _J_e_W_el, the school’s talent development in English, Mathematics, Science, Art and Sports. In 2017, it began offering the Enhanced Art Programme.
+In its early years, the school achieved numerous awards including Sustained Achievement Awards (in physical fitness, sports, aesthetics, uniformed groups) as well as attaining niche status in Uniformed Groups. In 2014, the school was selected as one of 12 prototype schools for Subject-Based Banding. 2016 saw the launch of&nbsp;_J_e_W_el, the school’s talent development in English, Mathematics, Science, Art and Sports. In 2017, it began offering the Enhanced Art Programme.
 
 In 2015, as a response to the changing global and national landscape, the school underwent a re-envisioning exercise, which set the trajectory for the school to focus on nurturing future-ready learners, thinkers and leaders with the new school vision - ‘A Values-centred Community where Learning Is Ignited by Passion, Thinking Driven by Innovation and Leading Inspired by Service’.
 
@@ -90,14 +91,14 @@ Principals:<br>
 Where Eagles Dare
 
 #### **School Crest**
-<img src="/images/jurongwestsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongwestsec1.png">
 
 The eagle represents strength of character, guarding the virtues of the school which are embodied within the school crest. The contoured shape and design of the crest is reminiscent of the badges of the guardians of society, signifying discipline. Above the eagle’s head and outspread wings are the initials of the school. The school’s virtues are represented by the four symbols in the two halves of the crest.
 
 Two clasped hands forming the shape of a heart symbolise the school’s aspiration to nurture individuals who will serve the needs of the community as a leader. The atomic symbol represents the need to be technologically oriented as mankind explores the realms of the digital age. An unconventional square bulb symbolises innovative thinking. A flaming torch representing the passion for lifelong learning is placed over a scroll, signifying academic excellence, the former taking precedence over the latter. Finally, displayed at the base of the crest is the school motto, reinforcing the courage of the eagle.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1fD7CBTpF8tb9ZzUQqCfNmIBdWQwwDNm6/view?usp=share_link">**♫ Listen**</a> 
 
 **_Verse 1_**<br>
 Dreams can be broken<br>
