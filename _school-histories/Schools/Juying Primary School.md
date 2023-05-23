@@ -4,35 +4,35 @@ permalink: /school-histories/juying-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/juyingpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/juyingpri1.png">
 
 ### **Juying Primary School**
-[URL to website](https://juyingpri.moe.edu.sg/) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSO_HmUdFhTPW2LR7t-6dG2cYxOvBIrWZYfamcFZvQaTblqF6QuXf0lswDYzxc_n72oXWEDbYLvOYyK/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/juyingpri2.jpg">  
-<img src="/images/juyingpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juyingpri2.jpg">
 </a></p>
 
 <p><a href="/images/juyingpri3.jpg">  
-<img src="/images/juyingpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juyingpri3.jpg">
 </a></p>
 
 <p><a href="/images/juyingpri4.jpg">  
-<img src="/images/juyingpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/juyingpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/juyingpri5.jpg">  
-<img src="/images/juyingpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juyingpri5.jpg">
 </a></p>
 
 <p><a href="/images/juyingpri6.jpg">  
-<img src="/images/juyingpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juyingpri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -44,13 +44,13 @@ During the Japanese Occupation, the school was closed, and it opened its doors a
 
 The school started functioning again on 3 January 1995 as a government English school. The Ministry of Education decided to retain its name as the school has a long history and good PSLE results.
 
-The new Juying Primary School was officially declared open on 1 August 1997 by Mr Peter Chen, Senior Minister of State for Education and Member of Parliament for Hong Kah GRC. Since its inception, the staff worked relentlessly to ensure that the students had enriching and rewarding experiences. To equip the school with up-to-date facilities to enhance the learning environment for its pupils, the school underwent Phase 1 of the PRIME project which was completed in 2002. 
+The new Juying Primary School was officially declared open on 1 August 1997 by Mr Peter Chen, Senior Minister of State for Education and Member of Parliament for Hong Kah GRC. Since its inception, the staff worked relentlessly to ensure that the students had enriching and rewarding experiences. To equip the school with up-to-date facilities to enhance the learning environment for its pupils, the school underwent Phase 1 of the PRIME project which was completed in 2002.&nbsp;
 
-The school underwent another face-lift under PERI upgrading in 2015 to provide additional facilities such as a Band Room, Dance Studio, Teaching Lab and an Indoor Sports Hall, to further support holistic development. In 2015, the school also accorded Environmental Education as its Learning for Life Programme (LLP). Through the environmental inquiry, the school nurtures a sense of wonder in the students and instills in them an abiding sense of care and well-being for their environment. The students make connections with knowledge across subject disciplines, and probe deeper into environmental issues.
+The school underwent another face-lift under PERI upgrading in 2015 to provide additional facilities such as a Band Room, Dance Studio, Teaching Lab and an Indoor Sports Hall, to further support holistic development.&nbsp;In 2015, the school also accorded Environmental Education as its Learning for Life Programme (LLP). Through the environmental inquiry, the school nurtures a sense of wonder in the students and instills in them an abiding sense of care and well-being for their environment. The students make connections with knowledge across subject disciplines, and probe deeper into environmental issues.
 
-In 2018, the school conceptualised tHinkABITS, an Applied Learning Programme (ALP), to promote the acquisition of deep learning competencies and dispositions amongst its students. Equipping learners with these skill sets and positive learning attitudes, they are empowered to take charge of their learning, and it gives every child a strong start in their formative school years.
+In 2018, the school conceptualised tHinkABITS,&nbsp;an&nbsp;Applied Learning Programme (ALP), to promote the acquisition of deep learning competencies and dispositions amongst its students. Equipping learners with these skill sets and positive learning attitudes, they are empowered to take charge of their learning, and it gives every child a strong start in their formative school years.
 
-To realise its vision, the school continues to enliven the students’ learning experiences to prepare them to be Values-driven and Future-ready. 
+To realise its vision, the school continues to enliven the students’ learning experiences to prepare them to be Values-driven and Future-ready.&nbsp;
 
 Principals:<br>
 \- Ms Cecilia Ng Kim Choo (1995–1997)<br>
@@ -74,19 +74,19 @@ Principals:<br>
 |
 
 #### **School Motto**
-Acme in Achievement – Attaining the peak in one’s achievement
+Acme in Achievement&nbsp;–&nbsp;Attaining the peak in one’s achievement
 
 #### **School Crest**
-<img src="/images/juyingpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/juyingpri1.png">
 
-**Bright yellow lettering:** Symbolises boldness and vibrancy.<br>
-**Dark green background:** Clean and fresh environment.<br>
-**Light green colour:** Reflects the youthful spirit of our students.<br>
-**Letters ‘J’, ‘Y, ‘P’ and ‘S’:** Linked gracefully, symbolising unity and harmony within the school.<br>
-**Oval shape:** Depicts the integral cohesion of the school, as a harmonious whole. At the same time, the shape is not categorically defined so as to allow flexibility and maneuverability to venture into the horizons and to greater heights, thus consolidating the school’s motto of being at the ‘Acme in Achievement’.
+**Bright yellow lettering:**&nbsp;Symbolises boldness and vibrancy.<br>
+**Dark green background:**&nbsp;Clean and fresh environment.<br>
+**Light green colour:**&nbsp;Reflects the youthful spirit of our students.<br>
+**Letters ‘J’, ‘Y, ‘P’ and ‘S’:**&nbsp;Linked gracefully, symbolising unity and harmony within the school.<br>
+**Oval shape:**&nbsp;Depicts the integral cohesion of the school, as a harmonious whole. At the same time, the shape is not categorically defined so as to allow flexibility and maneuverability to venture into the horizons and to greater heights, thus consolidating the school’s motto of being at the ‘Acme in Achievement’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1qdxFATo05TZwkig5si9FkjzmOnEfs49P/view?usp=share_link">**♫ Listen**</a> 
 
 We are the voices of Juying School<br>
 Gath’ring our talents to do our part<br>
