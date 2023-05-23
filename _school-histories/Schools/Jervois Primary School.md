@@ -7,7 +7,6 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jervoispri1.png">
 
 ### **Jervois Primary School**
-link**
 
 <br clear="left">
 
@@ -32,4 +31,3 @@ Jervois Primary School closed down in 1989. In the same year, the Singapore Scho
 | 1986 | Establishment of Jervois Primary School. |
 | 1989 | Closure of Jervois Primary School. |
 |
-
