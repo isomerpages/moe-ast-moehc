@@ -4,20 +4,21 @@ permalink: /school-histories/jervois-west-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jervoiswest1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jervoiswest1.png">
 
 ### **Jervois West Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpURrqsuo6ZHkKYSyXmHsRh8FQPC5ID5fq6P4Md9L7hgqPkjYGShPow71cSWbDNHrR8oipYO4o26wc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jervoiswest2.jpg">  
-<img src="/images/jervoiswest2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jervoiswest2.jpg">
 </a></p>
 
 <p><a href="/images/jervoiswest3.jpg">  
-<img src="/images/jervoiswest3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jervoiswest3.jpg">
 </a></p>
 
 <br clear="left">
@@ -36,14 +37,3 @@ Jervois Primary School closed down in 1989. The Association for Persons with Spe
 | 1950s | Establishment of Jervois West Primary School. |
 | 1986 | Merger with Jervois East Primary School to form Jervois Primary School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/jervoiswest1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-#### **School Song**
-\-
