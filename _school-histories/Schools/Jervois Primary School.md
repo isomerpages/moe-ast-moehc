@@ -4,17 +4,18 @@ permalink: /school-histories/jervois-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jervoispri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jervoispri1.png">
 
 ### **Jervois Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
+link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR93dl54qBDxVIdVzaUwU39b1ekAxSkjczD_p_IYeI5jJk2TIZBv3sIGJStwDujoyihkZc-yKixu1Ju/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jervoispri2.jpg">  
-<img src="/images/jervoispri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jervoispri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -32,15 +33,3 @@ Jervois Primary School closed down in 1989. In the same year, the Singapore Scho
 | 1989 | Closure of Jervois Primary School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/jervoispri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-\-
-
-#### **School Song**
-\-
