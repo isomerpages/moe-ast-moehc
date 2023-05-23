@@ -4,48 +4,49 @@ permalink: /school-histories/hong-kah-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hongkahpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hongkahpri1.png">
 
 ### **Hong Kah Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8EcrlNOqksxYTu2p84yz_4y4mrdVeIST_GGXM1hcXEZUrkUWJGfZO81tXdHwh3Ry9trCgVybw_w-x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hongkahpri2.jpg">  
-<img src="/images/hongkahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri2.jpg">
 </a></p>
 
 <p><a href="/images/hongkahpri3.jpg">  
-<img src="/images/hongkahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri3.jpg">
 </a></p>
 
 <p><a href="/images/hongkahpri4.jpg">  
-<img src="/images/hongkahpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hongkahpri5.jpg">  
-<img src="/images/hongkahpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri5.jpg">
 </a></p>
 
 <p><a href="/images/hongkahpri6.jpg">  
-<img src="/images/hongkahpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri6.jpg">
 </a></p>
 
 <p><a href="/images/hongkahpri7.jpg">  
-<img src="/images/hongkahpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hongkahpri8.jpg">  
-<img src="/images/hongkahpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri8.jpg">
 </a></p>
 
 <p><a href="/images/hongkahpri9.jpg">  
-<img src="/images/hongkahpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -80,12 +81,12 @@ Principals:<br>
 Wisdom and Courage
 
 #### **School Crest**
-<img src="/images/hongkahpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hongkahpri1.png">
 
 The crest features the school’s initials, ‘H’ and ‘K’. The school motto serves to remind students of the attributes needed to strive for excellence and bring glory to the school. The ribbon represents glory, which students can bring to themselves and the school.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1LtK_3hH-ghhSB8syx65-tbM1s2pDokiY/view?usp=share_link">**♫ Listen**</a> 
 
 We’re children of Hong Kah,<br>
 Singing happily<br>
