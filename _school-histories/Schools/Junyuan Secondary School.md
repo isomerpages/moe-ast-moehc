@@ -4,57 +4,58 @@ permalink: /school-histories/junyuan-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/junyuansec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/junyuansec1.jpg">
 
 ### **Junyuan Secondary School**
-[URL to website](https://junyuansec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://junyuansec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSe6AqyVGr0Ruv3o-Gwi6Yx-dDHaMq4k-Ec9kQUvbgBH01wfkFwYocQEE9TD-2BU6vvWUtbCt6r5GxN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/junyuansec2.jpg">  
-<img src="/images/junyuansec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec2.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec3.jpg">  
-<img src="/images/junyuansec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec3.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec4.jpg">  
-<img src="/images/junyuansec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/junyuansec5.jpg">  
-<img src="/images/junyuansec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec5.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec6.jpg">  
-<img src="/images/junyuansec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec6.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec7.jpg">  
-<img src="/images/junyuansec7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/junyuansec7.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec8.jpg">  
-<img src="/images/junyuansec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec8.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec9.jpg">  
-<img src="/images/junyuansec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec9.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/junyuansec10.jpg">  
-<img src="/images/junyuansec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec10.jpg">
 </a></p>
 
 <p><a href="/images/junyuansec11.jpg">  
-<img src="/images/junyuansec11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuansec11.jpg">
 </a></p>
 
 <br clear="left">
@@ -66,7 +67,7 @@ Character building and the focus on nurturing champions for the community permea
 
 The next stage of growth for Junyuan emphasised quality and excellence through innovation. In 2014, Junyuan Secondary launched its Applied Learning Programme, ‘Developing Application-based Learning through Food Science and Technology’, and the Learning for Life Programme, ‘Cultivating Community Champions through Youth Leadership’. The following year, the school was recognised as a ‘best practice’ school for staff well-being and development, and attained the I-Class for the Business Excellence Award.
 
-Recognising that the next stage of the school’s journey needed an itinerary for sustainable improvement, the school focused on developing staff to become both efficient and effective. For the students, iconic programmes – such as the Junyuan Masterchef Challenge, Sports Fest and community-focused Values-in-Action – were strengthened to provide them with positive school experiences so as to build leadership, resilience and a sense of personal accountability and gratitude.  Restorative practice was enhanced as a common language to build community relationships, and the introduction of the Student Leadership Challenge reinforced the school’s commitment to see a leader in each student. Even as Junyuanites are enabled to obtain the keys to open many doors in life, they will also learn to be champions for the community and become better persons for others.
+Recognising that the next stage of the school’s journey needed an itinerary for sustainable improvement, the school focused on developing staff to become both efficient and effective. For the students, iconic programmes – such as the Junyuan Masterchef Challenge, Sports Fest and community-focused Values-in-Action – were strengthened to provide them with positive school experiences so as to build leadership, resilience and a sense of personal accountability and gratitude. &nbsp;Restorative practice was enhanced as a common language to build community relationships, and the introduction of the Student Leadership Challenge reinforced the school’s commitment to see a leader in each student. Even as Junyuanites are enabled to obtain the keys to open many doors in life, they will also learn to be champions for the community and become better persons for others.
 
 Principals:<br>
 \- Mrs Cecilia Lee (1999–2004)<br>
@@ -94,12 +95,12 @@ Principals:<br>
 Resolute, Righteous, Responsible
 
 #### **School Crest**
-<img src="/images/junyuansec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/junyuansec1.jpg">
 
 The letters ‘J’ and ‘Y’ nestling on a double ‘S’ symbolise the development and growth of the individual child in school, within the context of the community at large and the nation. Junyuan (俊源) – meaning ‘the source of good things’ in Mandarin – is the place where students are taught to be persons of character and to discover, strive and pursue the truth and the ideals of education. It is where students are nurtured by a supportive school community to develop their potential as they challenge themselves to greater heights. Students are constantly reminded that they have a role to play in society. Whilst they are given opportunities to grow to be unique individuals, capable of independent thought and expression, they also have a duty to be responsible citizens of the nation and the world.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/14pPUuXK6Z35kGl7OSGuyBBlLULjJ_0WA/view?usp=share_link">**♫ Listen**</a> 
 
 Junyuan a place we can turn to,<br>
 a place that teaches right from wrong.<br>
