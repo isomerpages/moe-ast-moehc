@@ -4,16 +4,17 @@ permalink: /school-histories/jaya-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jayapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jayapri1.png">
 
 ### **Jaya Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5P43Y1GVgcr4DuITvvnrint4q4H9zT3dxeyW745O6UJeHSh8cMTW1FZK-2SATe3cxoJ7utAtUuUAH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jayapri2.jpg">  
-<img src="/images/jayapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jayapri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,13 +36,14 @@ In 1998, the school closed and its remaining students joined East Coast Primary 
 Discipline, Duty, Devotion
 
 #### **School Crest**
-<img src="/images/jayapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jayapri1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Jaya Primary School, we are proud of you.<br>
 You give us knowledge, rich and true,<br>
 we'll sing your praises far and wide,<br>
