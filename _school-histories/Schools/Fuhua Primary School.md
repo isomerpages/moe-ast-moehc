@@ -4,41 +4,42 @@ permalink: /school-histories/fuhua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fuhuapri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuhuapri1.jpg">
 
 ### **Fuhua Primary School**
-[URL to website](https://fuhuapri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fuhuapri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSuro_3rMciQ7Zp7yU7ybfsZgUu4VEa209MVcIs8UHUkvvyW29ZxkWIrzKIqhgf2DxM3xxdfIHYFHr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fuhuapri2.jpg">  
-<img src="/images/fuhuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri2.jpg">
 </a></p>
 
 <p><a href="/images/fuhuapri3.jpg">  
-<img src="/images/fuhuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri3.jpg">
 </a></p>
 
 <p><a href="/images/fuhuapri4.jpg">  
-<img src="/images/fuhuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri4.jpg">
 </a></p>
 
 <p><a href="/images/fuhuapri5.jpg">  
-<img src="/images/fuhuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri5.jpg">
 </a></p>
 
 <p><a href="/images/fuhuapri6.jpg">  
-<img src="/images/fuhuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri6.jpg">
 </a></p>
 
 <p><a href="/images/fuhuapri7.jpg">  
-<img src="/images/fuhuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri7.jpg">
 </a></p>
 
 <p><a href="/images/fuhuapri8.jpg">  
-<img src="/images/fuhuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -50,7 +51,7 @@ After the Japanese Occupation, in 1947, Mr Tan Ghim Hua, Mr Ng Sei Keong, Mr Goh
 
 Fu Hua Public School became a government-aided school in the late 1960s. Mr Goh Chye Huat, son of Mr Goh Choon Leng, was one of those involved in the rebuilding of the school. The school was largely funded by donations to the school board. In December 1983, it was closed to make way for development.
 
-On 2 January 1984, the school was relocated to its present site at Jurong East Street 13 as a government English school and was renamed Fuhua Primary School. At the time, the school’s mission was ‘Fuhua Primary School – Where Children Start to Grow’. The school was officially opened on 18 July 1986. 
+On 2 January 1984, the school was relocated to its present site at Jurong East Street 13 as a government English school and was renamed Fuhua Primary School. At the time, the school’s mission was ‘Fuhua Primary School – Where Children Start to Grow’. The school was officially opened on 18 July 1986.&nbsp;
 
 The school’s Applied Learning Programme focuses on the integration of two important 21st-century competencies: computational thinking and thinking skills, which are taught in a school-wide project work programme. Students have the opportunity to apply the skills in authentic scenarios or real-world problems. These skills are scoped across all six levels in a progressive manner, moving from basic skills in Primary One and Two to advanced skills development in Primary Five and Six.
 
@@ -89,12 +90,11 @@ Principals:<br>
 Frugality and Honesty
 
 #### **School Crest**
-<img src="/images/fuhuapri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuhuapri1.jpg">
 
-The school badge has two colours: beige and chocolate brown. The earthy colours signify the dignity of labour and the cultivation of the correct attitude in the use of our hands. The badge incorporates the letters F & H, the initials of the school and the school motto: FRUGALITY AND HONESTY. The whole design is enclosed in a ring and it depicts the strong character of the school, working together as a team in unity and harmony, continual growth, and development of the school.
+The school badge has two colours: beige and chocolate brown. The earthy colours signify the dignity of labour and the cultivation of the correct attitude in the use of our hands. The badge incorporates the letters F &amp; H, the initials of the school and the school motto: FRUGALITY AND HONESTY. The whole design is enclosed in a ring and it depicts the strong character of the school, working together as a team in unity and harmony, continual growth, and development of the school.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
 
 Verse 1<br>
 We'll sing in praise of Fuhua<br>
@@ -103,7 +103,7 @@ To teach us to be frugal<br>
 And live in perfect harmony
 
 Chorus:<br>
-Frugality and Honesty <br>
+Frugality and Honesty&nbsp;<br>
 Our motto to endeavour<br>
 Good team spirit and cooperation<br>
 For better productivity
