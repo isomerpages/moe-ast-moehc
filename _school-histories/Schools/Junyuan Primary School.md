@@ -4,49 +4,50 @@ permalink: /school-histories/junyuan-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/junyuanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/junyuanpri1.png">
 
 ### **Junyuan Primary School**
-[URL to website](https://junyuanpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://junyuanpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2TMKt-rBvF8vt1peNUozV5Nv0PH3rLPzfmKWR8VEtLQQ94LPt8r4MLzK_kvUCfPj_eE_dDwmQoiwE/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/junyuanpri2.jpg">  
-<img src="/images/junyuanpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri2.jpg">
 </a></p>
 
 <p><a href="/images/junyuanpri3.jpg">  
-<img src="/images/junyuanpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri3.jpg">
 </a></p>
 
 <p><a href="/images/junyuanpri4.jpg">  
-<img src="/images/junyuanpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/junyuanpri5.jpg">  
-<img src="/images/junyuanpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri5.jpg">
 </a></p>
 
 <p><a href="/images/junyuanpri6.jpg">  
-<img src="/images/junyuanpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri6.jpg">
 </a></p>
 
 <p><a href="/images/junyuanpri7.jpg">  
-<img src="/images/junyuanpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/junyuanpri8.jpg">  
-<img src="/images/junyuanpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri8.jpg">
 </a></p>
 
 <p><a href="/images/junyuanpri9.jpg">  
-<img src="/images/junyuanpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/junyuanpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,9 +55,9 @@ third_nav_title: Schools
 #### **School History**
 Junyuan Primary School (JYPS) adopted her name from the former Choon Guan Primary School. Choon Guan School, a Christian mission co-educational school, was formerly known as Katong Girls’ School. The school was renamed Choon Guan School when it moved to Koon Seng Road in 1925. Choon Guan School was separated into English and Chinese schools in 1936. The English school was named Choon Guan English School. It was later renamed Presbyterian Boys’ School in 1950 whereas the Chinese school remained as Choon Guan Chinese School. The schools, located in close proximity to each other, operated along Koon Seng Road from the pre-war period till the 1980s.
 
-Located at Tampines Street 91, Junyuan Primary School was established in 1988 as a single-session school. ‘Junyuan’ means ‘source of talents’ in Mandarin. It was officially opened on 2 September 1989 with 20 classes, an enrolment of 670 students and a teaching staff of 29. With good academic and non-academic track records, the school has since grown in student enrolment and teaching strength, establishing herself as one of the choice schools in Tampines. 
+Located at Tampines Street 91, Junyuan Primary School was established in 1988 as a single-session school. ‘Junyuan’ means ‘source of talents’ in Mandarin. It was officially opened on 2 September 1989 with 20 classes, an enrolment of 670 students and a teaching staff of 29. With good academic and non-academic track records, the school has since grown in student enrolment and teaching strength, establishing herself as one of the choice schools in Tampines.&nbsp;
 
-With the completion of PRIME (2008-2009), improved facilities have also allowed the school to embark on customised programmes to meet students’ learning needs.  The 'white spaces' around the school are carved out as learning stations with murals, displays and manipulative objects for student participation in experiential learning. With the enlarged classroom spaces, teachers can now use a wider range of creative pedagogies to engage the students. In 2011, the new campus was officially opened.
+With the completion of PRIME (2008-2009),&nbsp;improved facilities have also allowed the school to embark on customised programmes to meet students’ learning needs. &nbsp;The 'white spaces' around the school are carved out as learning stations with murals, displays and manipulative objects for student participation in experiential learning. With the enlarged classroom spaces, teachers can now use a wider range of creative pedagogies to engage the students. In 2011, the new campus was officially opened.
 
 In 2019, the school merged with East View Primary School. The merged school retains the name ‘Junyuan Primary School’ and is located at the JYPS site.
 
@@ -91,7 +92,7 @@ Principals: <br>
 Work to Excel
 
 #### **School Crest**
-<img src="/images/junyuanpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/junyuanpri1.png">
 
 The circular shape symbolises unity.<br>
 The three big Js pointing toward the centre show our common purpose in achieving our school motto, Work To Excel.<br>
@@ -99,7 +100,7 @@ The three small Js represent the three areas for our students to excel in body, 
 The floral design formed by all Js symbolises the blossoming spirit of achievement.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/16GRlgf3dHS_wOQpT_5ang_tstsLDJk2A/view?usp=share_link">**♫ Listen**</a> 
 
 We who are in Junyuan<br>
 Take every task to heart<br>
