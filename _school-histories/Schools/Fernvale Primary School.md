@@ -4,38 +4,39 @@ permalink: /school-histories/fernvale-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fernvalepri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fernvalepri1.jpg">
 
 ### **Fernvale Primary School**
-[URL to website](https://fernvalepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fernvalepri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBrNMBDJC65glDoo3kMsvW-MxBnE0AxMvvLq_gIwT_F2l8O3LGtCjx8ntJMTd4OZk6kfoJn_YhPkag/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fernvalepri2.jpg">  
-<img src="/images/fernvalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri2.jpg">
 </a></p>
 
 <p><a href="/images/fernvalepri3.jpg">  
-<img src="/images/fernvalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri3.jpg">
 </a></p>
 
 <p><a href="/images/fernvalepri4.jpg">  
-<img src="/images/fernvalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri4.jpg">
 </a></p>
 
 <br clear="left">
 <p><a href="/images/fernvalepri5.jpg">  
-<img src="/images/fernvalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri5.jpg">
 </a></p>
 
 <p><a href="/images/fernvalepri6.jpg">  
-<img src="/images/fernvalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri6.jpg">
 </a></p>
 
 <p><a href="/images/fernvalepri7.jpg">  
-<img src="/images/fernvalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri7.jpg">
 </a></p>
 
 <br clear="left">
@@ -43,7 +44,7 @@ third_nav_title: Schools
 #### **School History**
 Fernvale Primary School was established on 3 January 2005 in Sengkang West. The enrolment then was around 230 students with 18 teachers and eight non-teaching staff members. The school was officially opened in July 2007.
 
-The school progressed steadily through the early years, anchored on sound values and a strong culture of care among students and teachers. Fernvale Primary School also established a Satellite Partnership with Fernvale Gardens School to provide opportunities for meaningful interactions between the students of both schools. The school has continually develop Fernvale Primary students into global learners of tomorrow.   
+The school progressed steadily through the early years, anchored on sound values and a strong culture of care among students and teachers. Fernvale Primary School also established a Satellite Partnership with Fernvale Gardens School to provide opportunities for meaningful interactions between the students of both schools. The school has continually develop Fernvale Primary students into global learners of tomorrow.&nbsp; &nbsp;
 
 In 2014, Fernvale Primary School also introduced its Learning for Life Programme, Greenova, which aims to nurture innovative, responsible, young environmentalists who love and care for the environment.
 
@@ -64,7 +65,7 @@ Principals:<br>
 | 2008 | Received the Work-Life Achiever Award from the Ministry of Manpower. |
 | 2011 | Established a Satellite Partnership with Fernvale Gardens School. |
 | 2014 | Accorded Learning for Life Programme, Greenova. |
-| 2015 | Organised My SG50 Exhibition 2015 – Sengkang in the Past, Present & Future, for the general public. |
+| 2015 | Organised My SG50 Exhibition 2015 – Sengkang in the Past, Present &amp; Future, for the general public. |
 | 2016 | Commencement of two-year on-site upgrading of facilities in August. |
 | 2017 | Fernvale Alliance Airport, an extension of the school library was officially opened by Toh Puan Dr Noor Aishah on 21 March 2018. |
 | 2017 | Official opening of the Friendship Gate between Fernvale Primary School and Fernvale Gardens School by Dr Lam Pin Min, Senior Minister of State, Ministry of Transport and Ministry of Health, Member of Parliament for Sengkang West. |
@@ -75,7 +76,7 @@ Principals:<br>
 Dare to Aspire, Courage to Excel
 
 #### **School Crest**
-<img src="/images/fernvalepri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fernvalepri1.jpg">
 
 The stylised letters ‘F’ and ‘V’ that form the integral part of the school’s logo when put together represents the cross section of a fearless head of a lion.
 
@@ -86,9 +87,9 @@ Courageous, bold and strong being the trademarks of a lion, it also symbolises t
 Encircling the stylised letters is a solid ring that signifies an all-round, holistic education that Fernvale Primary offers to every student. Enhancing that holistic feel is the use of the colour green to communicate a “nurturing” feel.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/15G9y40I_S1tzt811DKnyoM4w_GWr6Axh/view?usp=share_link">**♫ Listen**</a> 
 
- With our hearts ever willing to serve<br>
+&nbsp;With our hearts ever willing to serve<br>
 Our vibrant community<br>
 Together as one working hand in hand<br>
 For peace and harmony<br>
