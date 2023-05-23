@@ -4,45 +4,46 @@ permalink: /school-histories/hua-yi-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/huayisec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/huayisec1.jpg">
 
 ### **school name**
-[URL to website](https://huayisec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://huayisec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSQ-Pt8fgqKl-d4xk4Ii3Ez2WL0ULCMMuOU_Q1RX50azFUsRkMLciQ9UNuzGTF3gk8TRaan_HugR5y9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <p><a href="/images/huayisec2.jpg">  
-<img src="/images/huayisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec2.jpg">
 </a></p>
 
 <p><a href="/images/huayisec3.jpg">  
-<img src="/images/huayisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec3.jpg">
 </a></p>
 
 <p><a href="/images/huayisec4.jpg">  
-<img src="/images/huayisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/huayisec5.jpg">  
-<img src="/images/huayisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec5.jpg">
 </a></p>
 
 <p><a href="/images/huayisec6.jpg">  
-<img src="/images/huayisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec6.jpg">
 </a></p>
 
 <p><a href="/images/huayisec7.jpg">  
-<img src="/images/huayisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/huayisec8.jpg">  
-<img src="/images/huayisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huayisec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,7 +59,7 @@ Then-Prime Minister Lee Kuan Yew visited Hua Yi on two occasions, in 1959 and in
 
 Today, Hua Yi aims to be a school for inculcating values, inspiring talents and impacting communities. The school’s core values are the four virtues of benevolence (仁), justice (义), wisdom (智) and togetherness (群). The school aspires to nurture their students to be passionate learners, resilient leaders, empathetic contributors and glocalised citizens, who are grounded in values and ready to make a difference to society.
 
-Hua Yi’s heritage lies in its nurturing of _xinyao_ (a genre of local Mandarin music) talent and bonsai cultivation. Hua Yians composed the award-winning _xinyao_ song ‘亲爱的你’, and the original compositions ‘华义人’ and ‘根在华苑’ have bonded different student cohorts. Hua Yi is the only school in Singapore with a bonsai garden, and many of the plants are between 30 and 50 years old.
+Hua Yi’s heritage lies in its nurturing of&nbsp;_xinyao_&nbsp;(a genre of local Mandarin music) talent and bonsai cultivation. Hua Yians composed the award-winning&nbsp;_xinyao_&nbsp;song ‘亲爱的你’, and the original compositions ‘华义人’ and ‘根在华苑’ have bonded different student cohorts. Hua Yi is the only school in Singapore with a bonsai garden, and many of the plants are between 30 and 50 years old.
 
 Hua Yians participate actively in sports and the performing arts. Girls’ volleyball is recognised as the school’s niche sport. In 2018, Hua Yi organised the Montage Aesthetics Concert to showcase its talents in aesthetics and the performing arts.
 
@@ -95,12 +96,12 @@ Principals:<br>
 |
 
 #### **School Crest**
-<img src="/images/huayisec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/huayisec1.jpg">
 
 The school badge features a lion and the initials of Hua Yi Secondary School, ‘HY’. The lion signifies the sovereignty of Singapore. Cradled under the lion, the initials signifies that the school is a cultivator of talent for the country. The colours of the school badge are red, white and blue. Red depicts equality amongst the races, white represents the pure and virtuous character of the students, and blue symbolises the boundless sea of learning.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1p5YymM4H4SFwiO4ZMgM6nkXBAcO1Txy1/view?usp=share_link">**♫ Listen**</a> 
 
 遵守我校之校训<br>
 Observe the school motto<br>
