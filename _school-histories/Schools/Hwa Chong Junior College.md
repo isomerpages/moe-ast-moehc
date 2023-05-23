@@ -4,38 +4,39 @@ permalink: /school-histories/hwa-chong-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hwachongjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hwachongjc1.png">
 
 ### **Hwa Chong Junior College**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIz3pu1K1k1fbbca3ylnrBJT3M4Kcy00IQGPV9LUPw4aqXqp_p7ShvE6DXuJnYtmtV9ZKm8Jul9dTc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hwachongjc2.jpg">  
-<img src="/images/hwachongjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachongjc2.jpg">
 </a></p>
 
 <p><a href="/images/hwachongjc3.jpg">  
-<img src="/images/hwachongjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachongjc3.jpg">
 </a></p>
 
 <p><a href="/images/hwachongjc4.jpg">  
-<img src="/images/hwachongjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachongjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hwachongjc5.jpg">  
-<img src="/images/hwachongjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachongjc5.jpg">
 </a></p>
 
 <p><a href="/images/hwachongjc6.jpg">  
-<img src="/images/hwachongjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachongjc6.jpg">
 </a></p>
 
 <p><a href="/images/hwachongjc7.jpg">  
-<img src="/images/hwachongjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachongjc7.jpg">
 </a></p>
 
 <br clear="left">
@@ -45,7 +46,7 @@ Hwa Chong Junior College (HCJC) was established in January 1974. It was Singapor
 
 In 1980, Hwa Chong was chosen to be the centre for Oxbridge studies. In 1981, HCJC became the first junior college in Singapore to offer the Humanities programme.
 
-Between June 1987 and December 1991, HCJC moved twice to temporary premises – first to Ngee Ann Polytechnic and Woodlands (June–December 1987), and then to Bukit Batok Street 34 (January 1988–December 1991) respectively. The school moved back to its newly renovated Bukit Timah campus on 29 December 1991.
+Between June 1987 and December 1991, HCJC moved twice to temporary premises –&nbsp;first to Ngee Ann Polytechnic and Woodlands (June–December 1987), and then to Bukit Batok Street 34 (January 1988–December 1991) respectively. The school moved back to its newly renovated Bukit Timah campus on 29 December 1991.
 
 Hwa Chong Junior College was one of the first junior colleges to offer the Chinese Language Elective Programme (C-LEP), when the course was introduced in 1990. In January 2004, it became the first junior college in Singapore to gain independent status.
 
@@ -82,13 +83,13 @@ Towards Progress
 
 #### **School Crest**
 
-<img src="/images/hwachongjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hwachongjc1.png">
 
 
 The four upward arrows represent the intial streams in the college, namely Arts, Science, Technical and Commerce, as well as the educational aims of social, moral, intellectual and physical growth, together with continued advancement as indicated by the soaring arrows. The horizontal bar binding the arrows signifies unity and the upholding of excellence.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>
 
 As part of our glorious land, sharing her spreading fame,<br>
 Hwa Chong will firmly stand, always to maintain her name.<br>
