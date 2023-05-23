@@ -4,16 +4,17 @@ permalink: /school-histories/kebun-baru-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kebunbarupri.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kebunbarupri.png">
 
 ### **Kebun Baru Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZ6FvCaxtlp1a8wH01F6wZz6lB_Rp5f6YYcjVotqkycDO5DSR4Ph6wiMx_EhmLoOcp19VzjR4gW2xF/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kebunbarupri.png">  
-<img src="/images/kebunbarupri.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kebunbarupri.png">
 </a></p>
 
 <br clear="left">
@@ -37,13 +38,15 @@ On 2 January 2002, Kebun Baru Primary School merged with Ang Mo Kio Primary Scho
 Now or Never
 
 #### **School Crest**
-<img src="/images/kebunbarupri.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kebunbarupri.png">
 
 The crest consists of the acronym “k” and “b” in the middle, representing the name of the school: Kebun Baru.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Time waits for no man<br>
 Achieve what we can<br>
 We need to think and act fast<br>
