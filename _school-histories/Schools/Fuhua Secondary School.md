@@ -4,45 +4,46 @@ permalink: /school-histories/fuhua-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fuhuasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuhuasec1.png">
 
 ### **Fuhua Secondary School**
-[URL to website](http://fuhuasec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://fuhuasec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW6Ib-dzEAhVrQIByVRdfAlWNUzXoxzsSJoIV3o4P4FbISUPVAE01UnbvBT7YBQ_MwIh0QroSsGeJg/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fuhuasec2.jpg">  
-<img src="/images/fuhuasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec2.jpg">
 </a></p>
 
 <p><a href="/images/fuhuasec3.jpg">  
-<img src="/images/fuhuasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec3.jpg">
 </a></p>
 
 <p><a href="/images/fuhuasec4.jpg">  
-<img src="/images/fuhuasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fuhuasec5.jpg">  
-<img src="/images/fuhuasec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec5.jpg">
 </a></p>
 
 <p><a href="/images/fuhuasec6.jpg">  
-<img src="/images/fuhuasec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec6.jpg">
 </a></p>
 
 <p><a href="/images/fuhuasec7.jpg">  
-<img src="/images/fuhuasec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fuhuasec8.jpg">  
-<img src="/images/fuhuasec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -84,7 +85,7 @@ Principals:<br>
 Strive for Excellence
 
 #### **School Crest**
-<img src="/images/fuhuasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuhuasec1.png">
 
 The crest is made up of an open book and a rising flame against the background of four diagonal blue stripes. The base of the crest features a running banner with five red stripes at the sides. The book represents the school’s quest for knowledge, while the flame symbolises its commitment to and desire for continuous learning. The four diagonal stripes represent the multiracial composition of students who share the commitment in the quest for knowledge and continuous learning.
 
@@ -93,7 +94,8 @@ The three colours of the crest are red, gold and blue. Red symbolises the passio
 The five stripes on the banner at the base of the crest represent the school’s commitment to develop students in the following areas: morals, intellect, physique, aesthetics and team spirit.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1K24tODiAwUCUhWyO2eqBcqGYBZ3HFfeG/view?usp=share_link">**♫ Listen**</a> 
+
 
 Keen to learn<br>
 Eager to excel<br>
