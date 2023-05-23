@@ -4,49 +4,50 @@ permalink: /school-histories/jurong-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jurongsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongsec1.png">
 
 ### **Jurong Secondary School**
-[URL to website](https://jurongsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://jurongsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpIrhHlWnBXEV4ZZDE7w7x2lYSbclc-Ux_9wKUOLWKpZFrPYTcSw1FqQoN-Fbp5WXAApdei-Qi3Lls/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jurongsec2.jpg">  
-<img src="/images/jurongsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec2.jpg">
 </a></p>
 
 <p><a href="/images/jurongsec3.jpg">  
-<img src="/images/jurongsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec3.jpg">
 </a></p>
 
 <p><a href="/images/jurongsec4.jpg">  
-<img src="/images/jurongsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongsec5.jpg">  
-<img src="/images/jurongsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec5.jpg">
 </a></p>
 
 <p><a href="/images/jurongsec6.jpg">  
-<img src="/images/jurongsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec6.jpg">
 </a></p>
 
 <p><a href="/images/jurongsec7.jpg">  
-<img src="/images/jurongsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongsec8.jpg">  
-<img src="/images/jurongsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec8.jpg">
 </a></p>
 
 <p><a href="/images/jurongsec9.jpg">  
-<img src="/images/jurongsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -99,14 +100,14 @@ Principals:<br>
 Loyalty Industry Sincerity Love
 
 #### **School Crest**
-<img src="/images/jurongsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongsec1.png">
 
 The crest honours the school’s heritage as an integrated school, with the school’s Chinese name placed alongside the initials ‘JSS’.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1iNPAhclaaJp0kutklzsgeYPzVhD--7db/view?usp=share_link">**♫ Listen**</a> 
 
 Radiant as the sunshine JURONG is to us<br>
 Charging all our spirits with hope and trust in you<br>
