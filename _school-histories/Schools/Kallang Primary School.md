@@ -4,20 +4,21 @@ permalink: /school-histories/kallang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kallangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kallangpri1.png">
 
 ### **Kallang Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTlxDMp0qoagltx6hjFifbKedjFUPYMmC75Vr6-FeuquuDV-GFx0gPAQDxcYalHexbMJZuy4uRMUe-S/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kallangpri2.jpg">  
-<img src="/images/kallangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kallangpri2.jpg">
 </a></p>
 
 <p><a href="/images/kallangpri3.jpg">  
-<img src="/images/kallangpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kallangpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -25,7 +26,7 @@ third_nav_title: Schools
 #### **School History**
 Established in the 1960s, Kallang Primary School, originally known as Kallang Integrated Primary School,was located at Mountbatten Road. The school was formed following the merger of Kallang Government Chinese Primary School and Kallang English School.  
   
-In 1987, Kallang Primary School closed and  the school’s remaining students joined Guillemard Primary School in the same year. From 1987 to 2001, Kallang Primary School’s building later housed Haig Boys’ School. Since the closure of Haig Boys’ School in 2001, the Mountbatten business centre and Ascendo Academy have occupied the former site of the school.   
+In 1987, Kallang Primary School closed and &nbsp;the school’s remaining students joined Guillemard Primary School in the same year. From 1987 to 2001, Kallang Primary School’s building later housed Haig Boys’ School. Since the closure of Haig Boys’ School in 2001, the Mountbatten business centre and Ascendo Academy have occupied the former site of the school.&nbsp;  
   
 Principals:<br>
 \- Mrs Molly Chan 
@@ -42,11 +43,7 @@ Principals:<br>
 Bersatu Berjaya
 
 #### **School Crest**
-<img src="/images/kallangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kallangpri1.png">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-
