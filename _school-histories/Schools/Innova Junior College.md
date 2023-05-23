@@ -4,48 +4,49 @@ permalink: /school-histories/innova-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/innovajc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/innovajc1.jpg">
 
 ### **Innova Junior College**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAmEMgxkzHcHrtMNIsFF4zsY7S0KVhJ2Mg-lMVCQ9iKtdHYqftZHpUnrXEAw_6nexcL0kbocUI3Ta4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/innovajc2.jpg">  
-<img src="/images/innovajc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc2.jpg">
 </a></p>
 
 <p><a href="/images/innovajc3.jpg">  
-<img src="/images/innovajc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc3.jpg">
 </a></p>
 
 <p><a href="/images/innovajc4.jpg">  
-<img src="/images/innovajc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/innovajc5.jpg">  
-<img src="/images/innovajc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc5.jpg">
 </a></p>
 
 <p><a href="/images/innovajc6.jpg">  
-<img src="/images/innovajc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc6.jpg">
 </a></p>
 
 <p><a href="/images/innovajc7.jpg">  
-<img src="/images/innovajc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/innovajc8.jpg">  
-<img src="/images/innovajc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc8.jpg">
 </a></p>
 
 <p><a href="/images/innovajc9.jpg">  
-<img src="/images/innovajc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/innovajc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -57,7 +58,7 @@ The college offered an in-house Global Immersion and Exchange Programme that pro
 
 Innova focused on develop leaders with sound values, judgement and foresight. A progressive Leadership Index was used as a guide for each student to develop in the domains of intellectual capacity, teamwork and drive. In 2011, the chaNgE.PACER Council was set up to develop empathetic leaders who would advocate for communities in need. These academic and co-curricular programmes demonstrated the college’s commitment to equipping Innovians with a comprehensive set of skills to be capable leaders, astute thinkers and confident global citizens.
 
-In 2015, Innova celebrated its 10th anniversary with a night festival attended by alumni and students. The highlight of the evening was an original musical by the school’s performing arts groups. 
+In 2015, Innova celebrated its 10th anniversary with a night festival attended by alumni and students. The highlight of the evening was an original musical by the school’s performing arts groups.&nbsp;
 
 In 2019, Innova Junior College merged with Yishun Junior College to form Yishun Innova Junior College.
 
@@ -86,14 +87,14 @@ Ad Astra<br>
 (‘To the Stars’ in Latin)
 
 #### **School Crest**
-<img src="/images/innovajc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/innovajc1.jpg">
 
 The star in the crest signifies that every Innovian is like a star in pursuit of his or her passion, while the wave represents the college’s commitment to be lifelong learners. The sail symbolises the drive towards achieving one’s goals.
 
 Blue is the colour of the sky, symbolising the college’s aim for its students to reach for the sky and aim for the stars. The colour orange represents passion – the college believes that everyone has dreams and should pursue them. The colour maroon represents knowledge and creativity in Innovians.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1wkfAzgAX80tCRXPapgymzWSssvXMw00s/view?usp=share_link">**♫ Listen**</a> 
 
 We stand together<br>
 Championing change, we can succeed<br>
