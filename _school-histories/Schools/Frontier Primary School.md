@@ -4,39 +4,40 @@ permalink: /school-histories/frontier-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/frontierpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/frontierpri1.png">
 
 ### **Frontier Primary School**
-[URL to website](https://frontierpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://frontierpri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgppX2eF0YFRveJOzYH2npir7G6fH1Y8jeZEKkmmeyVhvBHhbqopmCUv5IqBMwT8HgoH7xzxNPD1Eo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/frontierpri2.jpg">  
-<img src="/images/frontierpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri2.jpg">
 </a></p>
 
 <p><a href="/images/frontierpri3.jpg">  
-<img src="/images/frontierpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri3.jpg">
 </a></p>
 
 <p><a href="/images/frontierpri4.jpg">  
-<img src="/images/frontierpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/frontierpri5.jpg">  
-<img src="/images/frontierpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri5.jpg">
 </a></p>
 
 <p><a href="/images/frontierpri6.jpg">  
-<img src="/images/frontierpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri6.jpg">
 </a></p>
 
 <p><a href="/images/frontierpri7.jpg">  
-<img src="/images/frontierpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri7.jpg">
 </a></p>
 
 <br clear="left">
@@ -72,7 +73,7 @@ Principals:<br>
 Make A Difference, Be The Difference
 
 #### **School Crest**
-<img src="/images/frontierpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/frontierpri1.png">
 
 The word ‘Frontier’ urges Frontierers to forge ahead and achieve breakthroughs in new boundaries. The word is placed in the school logo to remind students of their aspirations to evolve and expand beyond the status quo.
 
@@ -81,7 +82,7 @@ The student in the school logo is represented by colour of orange to show that s
 To realise the school vision, a strong foundation in Values, Knowledge and Competencies denoted by the grey spheres has to be built. These three areas will be infused in a dynamic culture of learning. This culture includes a progressive curriculum which is holistic and attuned to the diverse students’ needs. This culture of learning is also enabled by committed and caring staff – captured by the green swerve which propels the child towards excellence.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1ktNxc__94ZoOoimruOqyrXFS4ykAHm49/view?usp=share_link">**♫ Listen**</a> 
 
 With responsibility<br>
 we will serve our community<br>
