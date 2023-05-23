@@ -4,59 +4,60 @@ permalink: /school-histories/fairfield-methodist-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fairfieldmethodistpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fairfieldmethodistpri1.png">
 
 ### **Fairfield Methodist School (Primary)**
-[URL to website](https://fmsp.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fmsp.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2c2idZyEUHp_Yuba0nWHqkdlRokPbXEm0DVPjRmC2aEh7W0NzbeZX_Ypm1DV-wpQNkd4wCGPZqjXo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fairfieldmethodistpri2.jpg">  
-<img src="/images/fairfieldmethodistpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri2.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistpri3.jpg">  
-<img src="/images/fairfieldmethodistpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri3.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistpri4.jpg">  
-<img src="/images/fairfieldmethodistpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fairfieldmethodistpri5.jpg">  
-<img src="/images/fairfieldmethodistpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri5.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistpri6.jpg">  
-<img src="/images/fairfieldmethodistpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri6.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistpri7.jpg">  
-<img src="/images/fairfieldmethodistpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri7.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistpri8.jpg">  
-<img src="/images/fairfieldmethodistpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri8.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistpri9.jpg">  
-<img src="/images/fairfieldmethodistpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Fairfield Methodist School was founded on 4 August 1888 by Ms Sophia Blackmore in a house on Cross Street. It later moved to Telok Ayer Street and became known as Telok Ayer Girls’ School. In 1912, when Ms Mary Olson was the principal, the school moved to 178 Neil Road and was renamed Fairfield Girls’ School, in honour of an American, Mr Fairfield, who had donated a substantial sum to the school. The school was run by expatriate principals until 1941, when Mrs Lim Bock Kee became the first Asian Principal to spearhead Fairfield Girls’ School. It changed its name to Fairfield Methodist Girls’ School in 1958. After the war, the school functioned for a short while at borrowed premises in Pearls’ Hill School. In 1946, the Neil Road premises were returned to the school authorities.
+Fairfield Methodist School was founded on 4 August 1888 by Ms Sophia Blackmore in a house on Cross Street. It later moved to Telok Ayer Street and became known as Telok Ayer Girls’ School. In 1912, when Ms Mary Olson was the principal, the school moved to 178 Neil Road&nbsp;and was renamed Fairfield Girls’ School, in honour of an American, Mr Fairfield, who had donated a substantial sum to the school. The school was run by expatriate principals until 1941, when Mrs Lim Bock Kee became the first Asian Principal to spearhead Fairfield Girls’ School. It changed its name to Fairfield Methodist Girls’ School in 1958. After the war, the school functioned for a short while at borrowed premises in Pearls’ Hill School. In 1946, the Neil Road&nbsp;premises were returned to the school authorities.
 
 The year 1983 marked a new era in the history of Fairfield. It became co-educational with its relocation to Dover Road as two schools: Fairfield Methodist Primary School and Fairfield Methodist Secondary School.
 
 Between 1999 and 2001, the school extended its premises to include a six-storey block to provide more classrooms and special rooms such as dance and music studios.
 
-In 2009, the schools were renamed Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary) to better reflect the common founding, heritage and Methodist ethos of Fairfield Methodist Primary and Secondary schools, as well as the close link between them. This was reinforced with a common badge worn by students of the two schools.
+In 2009, the schools&nbsp;were renamed Fairfield Methodist School (Primary) and&nbsp;Fairfield Methodist School (Secondary)&nbsp;to better reflect the common founding, heritage and&nbsp;Methodist ethos of Fairfield Methodist Primary and Secondary schools, as well as the close link between them. This was reinforced with a common badge worn by students of the two schools.
 
 By the end of 2011, both schools had adopted a common mission statement to achieve greater alignment with the educational mission of the Methodist Church in Singapore, and to embrace the concept of ‘One Fairfield’.
 
@@ -109,19 +110,19 @@ Principals:<br>
 |
 
 #### **School Motto**
-Pure & Honest
+Pure &amp; Honest
 
 #### **School Crest**
-<img src="/images/fairfieldmethodistpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fairfieldmethodistpri1.png">
 
 The emblem of the heart which forms the central motif of the school crest represents the highest of all emotions Love - the love of God for Man and the love of Man for his neighbour.
 
 When the heart is Pure and Honest, the Holy Spirit can dwell within and transform the nature of the individual, ennobling it and refining it.
 
-Surmounting the heart is the torch of Knowledge and Wisdom which can illuminate the mind and broaden the vision of all who seek its light. Emblazoned in a band of burnished gold across the emblem of the heart are the initials of the school; it represents the Loyalty for the Alma Mater. The two stars that are at the base of the crest reflect the school motto, PURE & HONEST, ideals which every student should aspire to attain.
+Surmounting the heart is the torch of Knowledge and Wisdom which can illuminate the mind and broaden the vision of all who seek its light. Emblazoned in a band of burnished gold across the emblem of the heart are the initials of the school; it represents the Loyalty for the Alma Mater. The two stars that are at the base of the crest reflect the school motto, PURE &amp; HONEST, ideals which every student should aspire to attain.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1n5eTUbS8GSaj6gjAHNobjryT6sdDWNR0/view?usp=share_link">**♫ Listen**</a>
 
 A world has opened for us<br>
 A world that's bright and gay<br>
