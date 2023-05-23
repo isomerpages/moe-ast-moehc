@@ -4,40 +4,41 @@ permalink: /school-histories/griffiths-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/griffithspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/griffithspri1.png">
 
 ### **Griffiths Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDFh8ZTli40rklSw8B5Ng1tFCcbQnLq7m7tNT9x9qdYobEVaj-R_XMZg8UtVkSlT9IGB7QTzcSQFlY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/griffithspri2.jpg">  
-<img src="/images/griffithspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/griffithspri2.jpg">
 </a></p>
 
 <p><a href="/images/griffithspri4.jpg">  
-<img src="/images/griffithspri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/griffithspri4.jpg">
 </a></p>
 
 <p><a href="/images/griffithspri3.jpg">  
-<img src="/images/griffithspri3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/griffithspri3.jpg">
 </a></p>
 
 <p><a href="/images/griffithspri5.jpg">  
-<img src="/images/griffithspri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/griffithspri5.jpg">
 </a></p>
 
 <p><a href="/images/griffithspri6.jpg">  
-<img src="/images/griffithspri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/griffithspri6.jpg">
 </a></p>
 
 <p><a href="/images/griffithspri7.jpg">  
-<img src="/images/griffithspri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/griffithspri7.jpg">
 </a></p>
 
 <p><a href="/images/griffithspri8.jpg">  
-<img src="/images/griffithspri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/griffithspri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -55,7 +56,7 @@ In 1988, a new Griffiths Primary school was re-established. Classes were held in
 
 PRIME upgrading for the school facilities was completed in 2002. In the following year, the architect won the Designshare merit award for educational facilities.
 
-In 2007, the school clinched the second prize in the National Education Video Animation Competition with the entry, ‘Singapore Icon’.  It was the only entry from a primary school among others from Institutes of Technical Education and polytechnics.
+In 2007, the school clinched the second prize in the National Education Video Animation Competition with the entry, ‘Singapore Icon’.&nbsp; It was the only entry from a primary school among others from Institutes of Technical Education and polytechnics.
 
 On 19 April 2008, the school held the Celebrating Friendship Carnival to celebrate and strengthen bonds of the Griffiths community and to showcase the school’s strengths. It was a day of many firsts: Griffiths Joy Centre, an after-school care facility for students; Media Production Hub; and Family Life Centre were inaugurated that day.
 
@@ -95,14 +96,14 @@ Principals (1988–2014)<br>
 To Seek, to Strive, to Find
 
 #### **School Crest**
-<img src="/images/griffithspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/griffithspri1.png">
 
-The torch represents the quest for knowledge, while the two arms symbolise joy and wisdom. The colour blue signifies being aspiring yet caring, and green represents the refreshing innocence of children.
+The torch represents the quest for knowledge, while the two arms symbolise joy and wisdom.&nbsp;The colour blue signifies being aspiring yet caring, and green represents the refreshing innocence of children.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1652hMsXJ51vZsRY36wq1GiXb33wTUkMG/view?usp=share_link">**♫ Listen**</a> 
 
 What’er it be, be it work or play<br>
 We’ll strive to do our best always<br>
