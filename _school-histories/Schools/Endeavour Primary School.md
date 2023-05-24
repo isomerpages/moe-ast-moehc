@@ -4,49 +4,50 @@ permalink: /school-histories/endeavour-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/endeavourpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/endeavourpri1.png">
 
 ### **Endeavour Primary School**
-[URL to website](https://endeavourpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://endeavourpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTc3dRRcqr8wIhIZc-9TBC_3bVgtXIl4LqX_pbNqhcyWSWp2qO1Xm4Yec6jl41qcGbGxEDmUyt1-er8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/endeavourpri2.jpg">  
-<img src="/images/endeavourpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri2.jpg">
 </a></p>
 
 <p><a href="/images/endeavourpri3.jpg">  
-<img src="/images/endeavourpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri3.jpg">
 </a></p>
 
 <p><a href="/images/endeavourpri4.jpg">  
-<img src="/images/endeavourpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/endeavourpri5.jpg">  
-<img src="/images/endeavourpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri5.jpg">
 </a></p>
 
 <p><a href="/images/endeavourpri6.jpg">  
-<img src="/images/endeavourpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri6.jpg">
 </a></p>
 
 <p><a href="/images/endeavourpri7.jpeg">  
-<img src="/images/endeavourpri7.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri7.jpeg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/endeavourpri8.jpg">  
-<img src="/images/endeavourpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri8.jpg">
 </a></p>
 
 <p><a href="/images/endeavourpri9.jpg">  
-<img src="/images/endeavourpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -72,11 +73,9 @@ Principals:<br>
 | 2018 | Celebration of 10th anniversary. |
 |
 
-#### **School Motto**
-\-
 
 #### **School Crest**
-<img src="/images/endeavourpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/endeavourpri1.png">
 
 The letters ‘EDP’ stands for EnDeavour Primary.<br>
 To Endeavour requires Diligence and Perseverance.<br>
@@ -84,7 +83,7 @@ Perseverance and Diligence is the Chinese name of the school.<br>
 The colour blue symbolizes the strength of Endeavour staff, students and stakeholders, as they seek to foster an environment that cares about people.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1l3z_o8b1LKJ46KmY4iUsHyU2ESqpS_8p/view?usp=share_link">**♫ Listen**</a>
 
 Endeavour All the Way<br>
 As the days and years go by,<br>
