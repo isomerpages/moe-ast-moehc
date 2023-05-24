@@ -4,37 +4,37 @@ permalink: /school-histories/evergreen-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/evergreenpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/evergreenpri1.jpg">
 
 ### **Evergreen Primary School**
-[URL to website](https://evergreenpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://evergreenpri.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeag53J06-cOJ6RO-Vk7f8cxsf-Df3z4pY7--YLEZOIlyVJR5o7Du19Wh3Mo8s90KcmEEL51xNcuAV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/evergreenpri2.jpg">  
-<img src="/images/evergreenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri2.jpg">
 </a></p>
 
 <p><a href="/images/evergreenpri3.jpg">  
-<img src="/images/evergreenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri3.jpg">
 </a></p>
 
 <p><a href="/images/evergreenpri4.jpg">  
-<img src="/images/evergreenpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/evergreenpri5.jpg">  
-<img src="/images/evergreenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri5.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Evergreen Primary was established in January 1999. The school started functioning with 22 classes of pupils from Primary One to Primary Four. It was temporarily housed in two separate campuses at Woodlands Ring Primary School and Woodlands Ring Secondary School. It then moved to its present premises on 22 March 1999, and was officially opened on 6 July 2002. The school celebrated its 10th and 20th anniversary in 2009 and 2019 respectively.
+Evergreen Primary was established in January 1999. The school started functioning with 22 classes of pupils from Primary One to Primary Four. It was temporarily housed in two separate campuses at Woodlands Ring Primary School and Woodlands Ring Secondary School. It then moved to its present premises on 22 March 1999, and was officially opened on 6 July 2002. The school celebrated its 10th&nbsp;and 20th&nbsp;anniversary in 2009 and 2019 respectively.
 
 The school’s Learning for Life Programme, ‘Learning Through the Arts and Learning in the Arts’, provides every student with authentic learning experiences and develops their 21st-century competencies – particularly the development of socio-emotional competencies. These include the building of self-esteem, confidence and the school’s shared values.
 
@@ -61,7 +61,7 @@ Principals:<br>
 Joy In Learning, Pure In Act
 
 #### **School Crest**
-<img src="/images/evergreenpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/evergreenpri1.jpg">
 
 Our school crest has the shape of a leaf consisting of 5 parts that represent the 5 school values that shape the beliefs, attitudes and actions of our students and staff.
 
@@ -72,7 +72,7 @@ The open book embodies the school’s motto in developing every individual with 
 The colour green depicts youthfulness and constant renewal while yellow depicts optimism and imagination.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1BDbiT4ZAKv4Jb9yLU2YUlmb13rvIu3u8/view?usp=share_link">**♫ Listen**</a>
 
 In 1999, Evergreen was founded<br>
 To nurture youth so fine<br>
