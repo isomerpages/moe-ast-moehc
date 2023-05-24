@@ -4,49 +4,50 @@ permalink: /school-histories/kuo-chuan-presbyterian-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kuochuanpressec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kuochuanpressec1.jpg">
 
 ### **Kuo Chuan Presbyterian Secondary School**
-[URL to website](https://kuochuanpresbyteriansec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://kuochuanpresbyteriansec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSzNJ3P03gMdpRZ62H3A9O_phD8ywZOBMjkzPFbAxQPJuT9S-qvEKFMxOkbEWV0qOMk0psqyLs2nyHx/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kuochuanpressec2.jpg">  
-<img src="/images/kuochuanpressec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec2.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanpressec3.jpg">  
-<img src="/images/kuochuanpressec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec3.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanpressec4.jpg">  
-<img src="/images/kuochuanpressec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kuochuanpressec5.jpg">  
-<img src="/images/kuochuanpressec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec5.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanpressec6.jpg">  
-<img src="/images/kuochuanpressec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec6.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanpressec7.jpg">  
-<img src="/images/kuochuanpressec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kuochuanpressec8.jpg">  
-<img src="/images/kuochuanpressec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec8.jpg">
 </a></p>
 
 <p><a href="/images/kuochuanpressec9.jpg">  
-<img src="/images/kuochuanpressec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kuochuanpressec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -92,7 +93,7 @@ Principals:<br>
 | 1985 | Kuo Chuan Girls' School and Presbyterian Boys' School were amalgamated into a full school called Kuo Chuan Presbyterian School. |
 | 1988 | Kuo Chuan Presbyterian Secondary School moved into its present site at Bishan Street 13 in June 1988. |
 | 2004 | Celebration of 80th anniversary. |
-| 2014 | Adopt new Vision & Mission Establish school's distinctive programmes i.e ALP in Media Literacy and LLP in Community Youth leadership. |
+| 2014 | Adopt new Vision &amp; Mission Establish school's distinctive programmes i.e ALP in Media Literacy and LLP in Community Youth leadership. |
 |
 
 #### **School Motto**
@@ -103,7 +104,7 @@ Book of Exodus, 3: 1–12
 The school is the place where students are taught the truth of God’s Word and the importance of always upholding the truth. The motto reminds students to uphold the truth in action, speech and thought because God is Truth. In this way, the school acknowledges the presence of God in its midst, guiding and inspiring the students to be upright and responsible.
 
 #### **School Crest**
-<img src="/images/kuochuanpressec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kuochuanpressec1.jpg">
 
 The school crest is circular in shape. In the inner circle, a book – the Bible – rests on top of a shield. A band of gold, representing the light of God, runs across the shield. In the centre of the shield are flames and a burning bush. The red flames do not destroy the green bush because these are the supernatural flames of God. At the base of the shield, the sun radiates out in gold, and this, with the gold band on top, signifies the omnipresence and sovereignty of God, the Light. The book and shield are set in a sea of dark blue with streams of white. The dark blue colour represents the stability of the Christian faith, and white signifies purity and the grace of God.
 

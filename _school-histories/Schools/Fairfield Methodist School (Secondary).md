@@ -4,49 +4,50 @@ permalink: /school-histories/fairfield-methodist-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fairfieldmethodistsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fairfieldmethodistsec1.jpg">
 
 ### **Fairfield Methodist School (Secondary)**
-[URL to website](https://fairfieldmethodistsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fairfieldmethodistsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMsx-E-JukT6yXWzVF_Xdx2MIXGxy7baMu5XhLQzAwQXVzRBR0b8EBFrGJkDBXu3uZQLf7atWSLmJe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fairfieldmethodistsec2.jpg">  
-<img src="/images/fairfieldmethodistsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec2.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistsec3.jpg">  
-<img src="/images/fairfieldmethodistsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec3.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistsec4.jpg">  
-<img src="/images/fairfieldmethodistsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fairfieldmethodistsec5.jpg">  
-<img src="/images/fairfieldmethodistsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec5.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistsec6.jpg">  
-<img src="/images/fairfieldmethodistsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec6.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistsec7.jpg">  
-<img src="/images/fairfieldmethodistsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fairfieldmethodistsec8.jpg">  
-<img src="/images/fairfieldmethodistsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec8.jpg">
 </a></p>
 
 <p><a href="/images/fairfieldmethodistsec9.jpg">  
-<img src="/images/fairfieldmethodistsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -112,15 +113,15 @@ Secondary school<br>
 |
 
 #### **School Motto**
-Pure & Honest
+Pure &amp; Honest
 
 #### **School Crest**
-<img src="/images/fairfieldmethodistsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fairfieldmethodistsec1.jpg">
 
-The emblem of the heart, which forms the central motif of the school crest, represents the highest of all emotions – love – the love of God for man and the love of man for his neighbour. Surmounting the heart is the torch of knowledge and wisdom that can illuminate the mind and broaden the vision of all who seek its light. Emblazoned in a band of burnished gold across the emblem of the heart is the name of the school, representing loyalty for the alma mater. The two stars at the base of the crest reflect the school motto, ‘Pure & Honest’, ideals that every student should aspire towards.
+The emblem of the heart, which forms the central motif of the school crest, represents the highest of all emotions – love – the love of God for man and the love of man for his neighbour. Surmounting the heart is the torch of knowledge and wisdom that can illuminate the mind and broaden the vision of all who seek its light. Emblazoned in a band of burnished gold across the emblem of the heart is the name of the school, representing loyalty for the alma mater. The two stars at the base of the crest reflect the school motto, ‘Pure &amp; Honest’, ideals that every student should aspire towards.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1fBLa8QKSMpgdw_WKP1EPQpYHgreMgyFe/view?usp=share_link">**♫ Listen**</a>
 
 A world has opened for us<br>
 A world that's bright and gay<br>

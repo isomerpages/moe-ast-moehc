@@ -4,25 +4,25 @@ permalink: /school-histories/jalan-kayu-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jalankayu1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jalankayu1.png">
 
 ### **Jalan Kayu Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-XfWon-toPhzF3Vp9RQx9JJJULfCxOoeHCgEIdpAuHssD1-xyiS22AwRA5mh6AL9NlJhH4UQEtRj3/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jalankayu2.jpg">  
-<img src="/images/jalankayu2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalankayu2.jpg">
 </a></p>
 
 <p><a href="/images/jalankayu3.jpg">  
-<img src="/images/jalankayu3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalankayu3.jpg">
 </a></p>
 
 <p><a href="/images/jalankayu4.jpg">  
-<img src="/images/jalankayu4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalankayu4.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,13 +56,13 @@ Principals:<br>
 Jalinkan Keharmonian (Work in Harmony)
 
 #### **School Crest**
-<img src="/images/jalankayu1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jalankayu1.png">
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Come, let us sing with one voice,<br>
 Loud and strong<br>
 Of the school that we love,<br>

@@ -4,46 +4,47 @@ permalink: /school-histories/east-coast-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ecppri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ecppri1.png">
 
 ### **East Coast Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjHq-NjDy61O3fvgDvaOMwLlshwUDTegI_GSX0DB6JPY4BONJask4A4MpE7cRw0exQCUXBGOR5c5CG/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ecppri2.jpg">  
-<img src="/images/ecppri2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri2.jpg">
 </a></p>
 
 <p><a href="/images/ecppri3.jpg">  
-<img src="/images/ecppri3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri3.jpg">
 </a></p>
 
 <p><a href="/images/ecppri4.jpg">  
-<img src="/images/ecppri4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri4.jpg">
 </a></p>
 
 <p><a href="/images/ecppri5.jpg">  
-<img src="/images/ecppri5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/ecppri6.jpg">  
-<img src="/images/ecppri6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri6.jpg">
 </a></p>
 
 <p><a href="/images/ecppri7.jpg">  
-<img src="/images/ecppri7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri7.jpg">
 </a></p>
 
 <p><a href="/images/ecppri8.jpg">  
-<img src="/images/ecppri8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri8.jpg">
 </a></p>
 
 <p><a href="/images/ecppri9.jpg">  
-<img src="/images/ecppri9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ecppri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -79,12 +80,12 @@ Principals:<br>
 Live, Love, Learn and Make a difference
 
 #### **School Crest**
-<img src="/images/ecppri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ecppri1.png">
 
 The three full masts in red and turquoise form the acronym of the school name. They are set against the yellow rising sun to symbolise a ship, moving at full steam, appearing in the horizon. The school on its voyage in search of excellence and new frontiers is likened to the explorers of yore who possess great courage and the willingness to take risks.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1MMdP2J3rhG0lO2YvheVt_QFIxiai24bS/view?usp=share_link">**♫ Listen**</a>
 
 We are pupils of East Coast Primary<br>
 We live to love and learn<br>

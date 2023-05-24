@@ -4,49 +4,50 @@ permalink: /school-histories/edgefield-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/edgefieldpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/edgefieldpri1.png">
 
 ### **Edgefield Primary School**
-[URL to website](http://edgefieldpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://edgefieldpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqhHTdr6S8DpQC4pwBd4rRk5lK2PPZMSRcZcd4sCiOUQrIUF5_oUkyVfND60KeRdRqH5gsg3a_wkaS/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/edgefieldpri2.jpg">  
-<img src="/images/edgefieldpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri2.jpg">
 </a></p>
 
 <p><a href="/images/edgefieldpri3.jpg">  
-<img src="/images/edgefieldpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri3.jpg">
 </a></p>
 
 <p><a href="/images/edgefieldpri6.jpg">  
-<img src="/images/edgefieldpri6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/edgefieldpri6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/edgefieldpri5.jpg">  
-<img src="/images/edgefieldpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri5.jpg">
 </a></p>
 
 <p><a href="/images/edgefieldpri4.jpg">  
-<img src="/images/edgefieldpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/edgefieldpri7.jpg">  
-<img src="/images/edgefieldpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri7.jpg">
 </a></p>
 
 <p><a href="/images/edgefieldpri8.jpg">  
-<img src="/images/edgefieldpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri8.jpg">
 </a></p>
 
 <p><a href="/images/edgefieldpri9.jpg">  
-<img src="/images/edgefieldpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,7 +57,7 @@ Edgefield Primary School was established in 2002 in Punggol. The school prides i
 
 The school’s Learning for Life Programmes (LLP) in Dancesport aims to use basic ballroom dancing to nurture students to be gracious, socially competent and collaborative team players. They are imbued with integrity and respect, and ready to give back to community and society. Another of the school’s LLP, ‘Developing 21st-Century Competencies Through Photography’, beckons the dreamers, explorers and adventurers of today to embark on a journey of self-discovery and photo-journalism.  
   
-In 2017, the school started its envisioning exercise to chart future strategic directions for the next five years. 
+In 2017, the school started its envisioning exercise to chart future strategic directions for the next five years.&nbsp;
 
 Principals:<br>
 \- Mrs Sabrina James (2002–2007)<br>
@@ -83,12 +84,12 @@ Principals:<br>
 Endeavour to Excel
 
 #### **School Crest**
-<img src="/images/edgefieldpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/edgefieldpri1.png">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1i7t85mz9KE4aMMhHLMmahEVUQCS6P4QH/view?usp=share_link">**♫ Listen**</a>
 
 Edgefield Primary is our choice<br>
 Let’s pro-claim it in one voice<br>

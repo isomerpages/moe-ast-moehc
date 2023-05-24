@@ -4,38 +4,39 @@ permalink: /school-histories/jin-shan-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jinshan1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jinshan1.jpg">
 
 ### **Jin Shan Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4JSc63grHTZE4i7fuoVj6Rrbov90k06o6oI0sQGRZlGaZ-Y_bN_BoXn3D9NCTcBvLYVUrjeNSBdvD/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jinshan2.jpg">  
-<img src="/images/jinshan2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jinshan2.jpg">
 </a></p>
 
 <p><a href="/images/jinshan3.jpg">  
-<img src="/images/jinshan3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jinshan3.jpg">
 </a></p>
 
 <p><a href="/images/jinshan4.jpg">  
-<img src="/images/jinshan4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jinshan4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jinshan5.jpg">  
-<img src="/images/jinshan5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jinshan5.jpg">
 </a></p>
 
 <p><a href="/images/jinshan6.jpg">  
-<img src="/images/jinshan6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jinshan6.jpg">
 </a></p>
 
 <p><a href="/images/jinshan7.jpg">  
-<img src="/images/jinshan7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jinshan7.jpg">
 </a></p>
 
 <br clear="left">
@@ -63,11 +64,7 @@ Principals:
 Strive for Excellence
 
 #### **School Crest**
-<img src="/images/jinshan1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jinshan1.jpg">
 
-\-
 
 <br clear="left">
-
-#### **School Song**
-\-

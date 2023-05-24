@@ -4,16 +4,17 @@ permalink: /school-histories/kim-seng-east-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kimsengeastsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kimsengeastsch1.png">
 
 ### **Kim Seng East School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSGKJ7PZCXSKv_G5VFN-COfMAuWx3UkYMpuz95D7_4jO5GA2hoOafDqstgrgcBc09n7CdLSl9QCUT52/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kimsengeastsch2.jpg">  
-<img src="/images/kimsengeastsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kimsengeastsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -36,15 +37,3 @@ Principals:<br>
 | 1982 | Merged with Kim Seng West School to form Kim Seng Primary School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/kimsengeastsch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-

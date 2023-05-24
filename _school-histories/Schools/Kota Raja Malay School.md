@@ -4,24 +4,25 @@ permalink: /school-histories/kota-raja-malay-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kotarajamalaysch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kotarajamalaysch1.png">
 
 ### **Kota Raja Malay School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVEjd5JvXyijt7AekqptkBHQ_tQIFr0YqgVsT5SWIAd6aVo0ngUyGNeEX5UFjY25rbdD7oIEMHBU21/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kotarajamalaysch2.jpg">  
-<img src="/images/kotarajamalaysch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kotarajamalaysch2.jpg">
 </a></p>
 
 <p><a href="/images/kotarajamalaysch4.jpg">  
-<img src="/images/kotarajamalaysch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kotarajamalaysch4.jpg">
 </a></p>
 
 <p><a href="/images/kotarajamalaysch3.jpg">  
-<img src="/images/kotarajamalaysch3.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/kotarajamalaysch3.jpg">
 </a></p>
 
 <br clear="left">
@@ -40,16 +41,3 @@ In 1982, due to declining enrolment, Kota Raja Malay School closed. The former s
 | 1933 | Establishment of Kota Raja Malay School. |
 | 1982 | Closure of Kota Raja Malay School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/kotarajamalaysch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-

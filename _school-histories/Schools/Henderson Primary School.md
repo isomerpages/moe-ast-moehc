@@ -4,24 +4,25 @@ permalink: /school-histories/henderson-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hendersonpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hendersonpri1.png">
 
 ### **Henderson Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQqyf5oPSshRIfpZiel-UkKqWcRA2o4mhoyfuhdB0DyPqjwfi_C5QJJESepBvaTDAju5eq0W-kZz1W/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hendersonpri2.jpg">  
-<img src="/images/hendersonpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonpri2.jpg">
 </a></p>
 
 <p><a href="/images/hendersonpri3.jpg">  
-<img src="/images/hendersonpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonpri3.jpg">
 </a></p>
 
 <p><a href="/images/hendersonpri4.jpg">  
-<img src="/images/hendersonpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonpri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -48,7 +49,7 @@ In 2002, Henderson Primary School merged with Alexandra Hill Primary School, Buk
 Honour Pledges Success
 
 #### **School Crest**
-<img src="/images/hendersonpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hendersonpri1.png">
 
 The lion’s head symbolises the “Lion City”, or Singapore.
 
@@ -57,6 +58,8 @@ The words in the open book of learning show the words of the school motto, “Ho
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We have gathered from far and near<br>
 To strive, to seek and to persevere<br>
 In our classrooms must all excel<br>

@@ -4,49 +4,50 @@ permalink: /school-histories/hougang-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hougangsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hougangsec1.jpg">
 
 ### **Hougang Secondary School**
-[URL to website](https://hougangsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://hougangsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxpjC6mZlWrCVKX71u633sQNXSPZSTtR6J_nQoRiDSGyzkuQ9hWKoomU5KxWbxxp0Eb1dofClWrXe4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hougangsec2.jpg">  
-<img src="/images/hougangsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec2.jpg">
 </a></p>
 
 <p><a href="/images/hougangsec3.jpg">  
-<img src="/images/hougangsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec3.jpg">
 </a></p>
 
 <p><a href="/images/hougangsec4.jpg">  
-<img src="/images/hougangsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hougangsec5.jpg">  
-<img src="/images/hougangsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec5.jpg">
 </a></p>
 
 <p><a href="/images/hougangsec6.jpg">  
-<img src="/images/hougangsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec6.jpg">
 </a></p>
 
 <p><a href="/images/hougangsec7.jpg">  
-<img src="/images/hougangsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hougangsec8.jpg">  
-<img src="/images/hougangsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec8.jpg">
 </a></p>
 
 <p><a href="/images/hougangsec9.jpg">  
-<img src="/images/hougangsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,12 +86,12 @@ Principals:<br>
 Make the Difference
 
 #### **School Crest**
-<img src="/images/hougangsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hougangsec1.jpg">
 
 The three white lines represent the acquisition of knowledge, skills and a positive attitude. The gold figure symbolises the nurturing of each Hougean to be a person with good character and other stellar qualities. The school colours of white, yellow and blue, symbolise purity, dignity and excellence, and nobleness respectively.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1rLT9LGuEva0a9CCpFfHvJ6rSFX7CGBAC/view?usp=share_link">**♫ Listen**</a> 
 
 We sing our song with joy and pride<br>
 To tell the world we do things right<br>

@@ -4,44 +4,45 @@ permalink: /school-histories/jurong-intitute/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/juronginstitute1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/juronginstitute1.png">
 
 ### **Jurong Institute**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRP5tL0at7PqVa8ISumxpF_a_mIN5vmJm-2lWUUbdk4MzwNLYImJLJ3fvcxJoKWzTum7KKUHtYbpFVA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/juronginstitute2.jpg">  
-<img src="/images/juronginstitute2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juronginstitute2.jpg">
 </a></p>
 
 <p><a href="/images/juronginstitute3.jpg">  
-<img src="/images/juronginstitute3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juronginstitute3.jpg">
 </a></p>
 
 <p><a href="/images/juronginstitute4.jpg">  
-<img src="/images/juronginstitute4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juronginstitute4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/juronginstitute5.jpg">  
-<img src="/images/juronginstitute5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juronginstitute5.jpg">
 </a></p>
 
 <p><a href="/images/juronginstitute6.jpg">  
-<img src="/images/juronginstitute6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/juronginstitute6.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Jurong Institute was formed in 1989 as Singapore’s third of four centralised institutes offering three-year pre-university courses leading to the Singapore Cambridge General Certificate of Education (GCE) “A” Level examinations. The inaugural campus was located at Jurong West Street 91.
+Jurong Institute&nbsp;was formed in 1989 as Singapore’s third of four centralised institutes offering three-year pre-university courses leading to the Singapore Cambridge General Certificate of Education (GCE) “A” Level examinations. The inaugural campus was located at Jurong West Street 91.
 
 On 18 November 1994, Jurong Institute relocated to 2 Toh Tuck Terrace. The school flag was lowered for the last time at Jurong West and the student councillors set off on a symbolic relay run, carrying a torch to signify that the JI spirit would continue to burn at the new premises. Lion dancers ushered staff and students into their new campus.
 
-Jurong Institute aimed to provide an all-rounded education for its students and to develop them to the fullest by engaging them in a variety of programmes, both academic and non-academic. In 2000, the institute clinched a gold medal at the Singapore Youth Festival Drama Competition with their adaptation of Desmond Sim’s play, _Old Woman’s Dying, Old Woman’s Dead_.
+Jurong Institute aimed to provide an all-rounded education for its students and to develop them to the fullest by engaging them in a variety of programmes, both academic and non-academic. In 2000, the institute clinched a gold medal at the Singapore Youth Festival Drama Competition with their adaptation of Desmond Sim’s play,&nbsp;_Old Woman’s Dying, Old Woman’s Dead_.
 
 In 2004, Jurong Institute merged with Outram Institute to become Millennia Institute.
 
@@ -64,17 +65,17 @@ Principals:<br>
 | 2004 | Merger with Outram Institute to become Millennia Institute. |
 |
 
-#### **School Motto**
-\-
 
 #### **School Crest**
-<img src="/images/juronginstitute1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/juronginstitute1.png">
 
-The Jurong Institute crest is shaped like a **building** with an **open Gothic window** at the top. This signifies the strong foundation upon which the Institute is built and the opening of new windows in the minds of students as they stream forth from the Institute.
+The Jurong Institute crest is shaped like a&nbsp;**building**&nbsp;with an&nbsp;**open Gothic window**&nbsp;at the top. This signifies the strong foundation upon which the Institute is built and the opening of new windows in the minds of students as they stream forth from the Institute.
 
-The **arrow**, formed by the initials J and I, is pointing upwards, and reflects the aspiration of progress through the years.
+The&nbsp;**arrow**, formed by the initials J and I, is pointing upwards, and reflects the aspiration of progress through the years.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 J for Jurong, Justice too<br>
 I for integrity<br>
 Two ideals, two flags salute<br>

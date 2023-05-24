@@ -4,15 +4,17 @@ permalink: /school-histories/min-xin-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/minxinpri.png" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/minxinpri.png">
 
 ### **Min Xin Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTf67_TPwR_BOd-WfK_GjfLNRomO2LTNOJra9-g61wEuRgcCUShBXg8eLmrds-8AHEBgLjbFDY60-QP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/minxinpri.png">  
-<img src="/images/minxinpri.png" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/minxinpri.png">
 </a></p>
 
 <br clear="left">
@@ -39,11 +41,13 @@ In 2003, Min Xin Primary School merged with Yu Neng Primary School.
 Success Through Perseverance
 
 #### **School Crest**
-<img src="/images/minxinpri.png" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/minxinpri.png">
 
 The crest is made up of a stylised design based on the school’s Chinese name, “Min Xin” (民新). Encircling the Chinese name is the Malay name of the school, Sekolah Rendah Min Xin. The school’s English name lies on an&nbsp;**open book,**&nbsp;which represents knowledge.&nbsp;Underscoring the crest is the school motto, “Success Through Perseverance”.
 
 #### **School Song**
+
+<small>*School song unavailable*</small>	
 O Min Xin School to you we sing<br>
 For our young minds you’ve helped to mould<br>
 For you’ve taught us to read and write<br>

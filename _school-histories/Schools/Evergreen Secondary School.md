@@ -4,53 +4,54 @@ permalink: /school-histories/evergren-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/evergreensec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/evergreensec1.png">
 
-### **school name**
-[URL to website](https://evergreensec.moe.edu.sg/) - may require to change in future when original website is removed
+### **Evergreen Secondary School**
+[URL to website](https://evergreensec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmpxDp_QatkeXyb6C_oVrWlD5m2lN6QtEFoIcyepjAaLdaliiJNBVbvwVF2Jqw4dGThrbkHG0Yun5t/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/evergreensec2.jpg">  
-<img src="/images/evergreensec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec2.jpg">
 </a></p>
 
 <p><a href="/images/evergreensec3.jpg">  
-<img src="/images/evergreensec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec3.jpg">
 </a></p>
 
 <p><a href="/images/evergreensec4.jpg">  
-<img src="/images/evergreensec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/evergreensec5.jpg">  
-<img src="/images/evergreensec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec5.jpg">
 </a></p>
 
 <p><a href="/images/evergreensec6.jpg">  
-<img src="/images/evergreensec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec6.jpg">
 </a></p>
 
 <p><a href="/images/evergreensec7.jpg">  
-<img src="/images/evergreensec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/evergreensec8.jpg">  
-<img src="/images/evergreensec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec8.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Evergreen Secondary School was established in 2000 with 320 students and 12 teaching staff. In June that year, Evergreen Secondary School moved into its present premises at 11 Woodlands Street 83.  
+Evergreen Secondary School was established in 2000 with 320 students and 12 teaching staff. In June that year, Evergreen Secondary School moved into its present premises at 11 Woodlands Street 83.&nbsp;&nbsp;
 
-To imbue in its students an indomitable spirit and strength in character, the school has actively cultivated in them an intimate knowledge of the character traits of the founding leaders of modern Singapore. In recognition of the quality of its National Education (NE) programme, Evergreen Secondary School was designated the North Zone Centre of Excellence in NE in 2003. The school also received the Lee Kuan Yew NE Award in 2004 and 2008, and was conferred niche status in NE in 2009.  
+To imbue in its students an indomitable spirit and strength in character, the school has actively cultivated in them an intimate knowledge of the character traits of the founding leaders of modern Singapore. In recognition of the quality of its National Education (NE) programme, Evergreen Secondary School was designated the North Zone Centre of Excellence in NE in 2003. The school also received the Lee Kuan Yew NE Award in 2004 and 2008, and was conferred niche status in NE in 2009.&nbsp;&nbsp;
 
 Over the years, the school has continued to pursue its mission of nurturing students with the passion to contribute and excel. In 2014, teachers adopted the approach of being character coaches to students, guiding them to hone their character and strengths as they go through various schooling experiences. In doing so, teachers seize teaching moments in various contexts, and facilitate deep learning and self-reflection for every student.
 
@@ -60,7 +61,7 @@ Besides school-wide approaches, the school actively supports ground-up and meani
 
 To ensure its students are future-ready, the school launched its Applied Learning Programme in effective communication in 2015. The programme prepares students for the future by leveraging real-world contexts to develop their ability to communicate verbally and in writing, for both conventional and digital platforms. In 2016, the school launched its Learning for Life Programme in sports education to nurture students to take personal responsibility for maintaining an active and healthy lifestyle. In 2018, the school became one of the four schools in Singapore to offer the Enhanced Applied Learning Programme (Languages) in English, Chinese and Malay. The multi-tier programme provides all students the opportunities to hone their language skills in authentic contexts.
 
-With a caring staff, and an innovative culture, the school continues to grow from strength to strength, and will be celebrating its 20th anniversary in 2020. 
+With a caring staff, and an innovative culture, the school continues to grow from strength to strength, and will be celebrating its 20th anniversary in 2020.&nbsp;
 
 Principals:<br>
 \- Mrs Mary Koh (2000–2006)<br>
@@ -88,7 +89,7 @@ Principals:<br>
 Aspire and Achieve
 
 #### **School Crest**
-<img src="/images/evergreensec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/evergreensec1.png">
 
 The school badge incorporates the school initials ‘EVG’, which also stand for ‘enterprise, vision and graciousness’. These are values inculcated in the students which are crucial in a globalised changing environment.
 
@@ -97,7 +98,7 @@ The logo has a progressive and futuristic outlook to depict a pro-active and for
 The colour green depicts vibrancy, vitality and efficiency, while red and orange symbolise independence and strength of character. Yellow conveys care and concern, as well as the community spirit of the school.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1E3I-NBGizsUVxYHF9WjGW5goGJq6_k32/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1:<br>
 This time of youth, our years at Evergreen<br>

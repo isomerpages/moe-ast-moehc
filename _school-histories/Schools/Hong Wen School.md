@@ -4,7 +4,7 @@ permalink: /school-histories/hong-wen-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hongwensch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hongwensch1.png">
 
 ### **Hong Wen School**
 [URL to website](https://www.hongwen.moe.edu.sg/) 
@@ -12,39 +12,40 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe4EbPHpcOELjnKUwEVjXkfC7yGBvIf6GpS-6kLlkT2aTd45HhzND0RQMYXQxJ-RO0JRTjw2shhIKO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hongwensch2.jpg">  
-<img src="/images/hongwensch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongwensch2.jpg">
 </a></p>
 
 <p><a href="/images/hongwensch3.jpg">  
-<img src="/images/hongwensch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongwensch3.jpg">
 </a></p>
 
 <p><a href="/images/hongwensch4.jpg">  
-<img src="/images/hongwensch4.jpg" style="width:25%;margin-right:85px;" align = "right">
+<img align="right" style="width:25%;margin-right:85px;" src="/images/hongwensch4.jpg">
 </a></p>
 
 <p><a href="/images/hongwensch5.jpg">  
-<img src="/images/hongwensch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongwensch5.jpg">
 </a></p>
 
 <p><a href="/images/hongwensch6.jpg">  
-<img src="/images/hongwensch6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hongwensch6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hongwensch7.jpg">  
-<img src="/images/hongwensch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongwensch7.jpg">
 </a></p>
 
 <p><a href="/images/hongwensch8.jpg">  
-<img src="/images/hongwensch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongwensch8.jpg">
 </a></p>
 
 <p><a href="/images/hongwensch9.jpg">  
-<img src="/images/hongwensch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongwensch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -58,17 +59,17 @@ In 1992, Hong Wen School was accorded the Special Assistance Plan status, offeri
 
 The school was awarded the People Developer Standard by SPRING Singapore, and the Ministry of Education’s Sustained Achievement Award (Sports) in 2007. The school established its status as the South 4 Cluster Centre of Excellence for Chinese Cultural Arts in 2008. In that same year, the school attained its Programme for School-Based Excellence status in rope-skipping.
 
-The school relocated to its present premises at Towner Road in 2009 after the completion of the PRIME upgrading. The new campus, accredited with the Building and Construction Authority’s (BCA) Green Mark (Gold) Award, was officially opened in September 2010, in conjunction with the school’s 90th anniversary celebration.
+The school relocated to its present premises at Towner Road in 2009 after the completion of the PRIME upgrading. The new campus, accredited with the&nbsp;Building and Construction Authority’s (BCA) Green Mark (Gold) Award, was officially opened in September 2010, in conjunction with the school’s 90th anniversary celebration.
 
 In 2010, the school received its re-certification of the People Developer Standard by SPRING Singapore. The following year, the school attained its second Programme for School-based Excellence status in Wushu. That same year, the school also received the Ministry of Education’s Development Award for Character Development and the Sustained Achievement Award (Aesthetics).
 
 In 2013, the school was accorded the status of South Zone Centre of Excellence for Chinese Cultural Arts.
 
-In 2015, the school was accorded two Learning for Life Programmes (LLP) in Sports & Outdoor Education, as well as in Student Leadership and Community Service. That year, Hong Wen School celebrated its 95th anniversary.
+In 2015, the school was accorded two Learning for Life Programmes (LLP) in Sports &amp; Outdoor Education, as well as in Student Leadership and Community Service. That year, Hong Wen School celebrated its 95th anniversary.
 
 In 2016, the school was conferred the Ministry of Education’s School Distinction Award, along with five Best Practice Awards: Character and Citizenship Education; Teaching and Learning; Student All-Round Development; Staff Well-Being and Development; and Partnership. In the same year, the school also received the BCA Green Mark (GoldPlus) Award in recognition of its efforts and achievements in environmental sustainability.
 
-In September 2017, the school completed its 16-month PERI upgrading, which saw the construction of a new block and the upgrading of existing facilities. 
+In September 2017, the school completed its 16-month PERI upgrading, which saw the construction of a new block and the upgrading of existing facilities.&nbsp;
 
 Principals:<br>
 \- Mr Song Shao Lian (宋少濂) (1920 –1923)<br>
@@ -103,10 +104,10 @@ Principals:<br>
 |
 
 #### **School Motto**
-诚毅勤俭 (Honesty, Perseverance, Diligence, Thrift)
+诚毅勤俭&nbsp;(Honesty, Perseverance, Diligence, Thrift)
 
 #### **School Crest**
-<img src="/images/hongwensch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hongwensch1.png">
 
 The GEAR symbolises Progress in Technology.<br>
 The RICE GRAINS symbolise Our Heritage.<br>
@@ -115,7 +116,7 @@ The BOOK symbolises Literacy.
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1AuZsy72UGt7AZ7i-UjtLGUK5LrMiFJ8Q/view?usp=share_link">**♫ Listen**</a> 
 
 宏文宏文屹立东南星洲共和邦，<br>
 Hong Wen Hong Wen founded to guide us to serve our nation<br>

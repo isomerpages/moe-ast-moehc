@@ -4,20 +4,21 @@ permalink: /school-histories/farrer-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/farrerpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/farrerpri1.png">
 
 ### **Farrer Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReEib21trWe7QxtR1-cKGzE5G75OyMd3CvdR5xYXFmaEgQc0Zvv_oEBBG7xM-jd_1viEi2j-EvcEBW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/farrerpri2.jpg">  
-<img src="/images/farrerpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerpri2.jpg">
 </a></p>
 
 <p><a href="/images/farrerpri3.jpg">  
-<img src="/images/farrerpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -46,13 +47,10 @@ Principals:<br>
 #### **School Motto**
 Knowledge is Power
 
-#### **School Crest**
-<img src="/images/farrerpri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-<br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Forever we pledge in Farrer School<br>
 To be loyal, kind and helpful<br>
 Our teachers’ pride we try to be<br>

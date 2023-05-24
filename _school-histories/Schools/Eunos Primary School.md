@@ -4,49 +4,50 @@ permalink: /school-histories/eunos-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/eunospri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/eunospri1.png">
 
 ### **Eunos Primary School**
-[URL to website](https://eunospri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://eunospri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT76L_U53IKnWpSZBbrjKhKqELeSNXIDy62hvD1KJWeSO8NwWhqXKQIQkzg59S-uGX0y4Tk0NFGlrKw/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/eunospri2.jpg">  
-<img src="/images/eunospri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri2.jpg">
 </a></p>
 
 <p><a href="/images/eunospri3.jpg">  
-<img src="/images/eunospri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri3.jpg">
 </a></p>
 
 <p><a href="/images/eunospri4.jpg">  
-<img src="/images/eunospri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/eunospri5.jpg">  
-<img src="/images/eunospri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri5.jpg">
 </a></p>
 
 <p><a href="/images/eunospri6.jpg">  
-<img src="/images/eunospri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri6.jpg">
 </a></p>
 
 <p><a href="/images/eunospri7.jpg">  
-<img src="/images/eunospri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/eunospri8.jpg">  
-<img src="/images/eunospri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri8.jpg">
 </a></p>
 
 <p><a href="/images/eunospri9.jpg">  
-<img src="/images/eunospri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunospri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +55,7 @@ third_nav_title: Schools
 #### **School History**
 Eunos Primary School was founded on 3 January 1984 with students and staff from Jalan Daud and Telok Kurau primary schools. The school underwent PRIME upgrading in 2002, and returned to its current location in 2004 after three years at a holding site. The new campus was officially opened on 23 March 2007.
 
-The school’s Learning for Life Programme, ‘Student Development in the Arts and through the Arts’, is a three-tier programme comprising a broad-based arts-appreciation curriculum, co-curricular programmes for targeted groups, and focused programmes for talented students. The school actively seeks opportunities to expose its students to performances and to put up public performances such as the successful Euni-Voices. 
+The school’s Learning for Life Programme, ‘Student Development in the Arts and through the Arts’, is a three-tier programme comprising a broad-based arts-appreciation curriculum, co-curricular programmes for targeted groups, and focused programmes for talented students. The school actively seeks opportunities to expose its students to performances and to put up public performances such as the successful Euni-Voices.&nbsp;
 
 Principals:<br>
 \- Mrs Salmah Yunos (1984–1994)<br>
@@ -84,14 +85,14 @@ Principals:<br>
 Endeavour Promotes Success
 
 #### **School Crest**
-<img src="/images/eunospri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/eunospri1.png">
 
 The School Crest consists of a burning red torch with a book.
 
 The torch represents knowledge. The book represents the key to knowledge and learning. Together, they remind us that education is an ongoing process. It has no end and is to be acquired until eternity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1crwK9PvLe3la4KgvLNjY7ce_NzACRrWy/view?usp=share_link">**♫ Listen**</a>
 
 High above the sky line<br>
 a red torch shines<br>

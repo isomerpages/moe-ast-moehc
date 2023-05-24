@@ -4,40 +4,41 @@ permalink: /school-histories/mountbatten-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/mountbattenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/mountbattenpri1.png">
 
 ### **Mountbatten Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTiB31-BgKyhWKMDN20zePodCqV2KhT_u-E4kk6WFBTwq1-9oC6gJtxuvYNsRbExUjwl4-7OuW-CePJ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/mountbattenpri2.jpg">  
-<img src="/images/mountbattenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountbattenpri2.jpg">
 </a></p>
 
 <p><a href="/images/mountbattenpri3.jpg">  
-<img src="/images/mountbattenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountbattenpri3.jpg">
 </a></p>
 
 <p><a href="/images/mountbattenpri4.jpg">  
-<img src="/images/mountbattenpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/mountbattenpri4.jpg">
 </a></p>
 
 <p><a href="/images/mountbattenpri5.jpg">  
-<img src="/images/mountbattenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountbattenpri5.jpg">
 </a></p>
 
 <p><a href="/images/mountbattenpri6.jpg">  
-<img src="/images/mountbattenpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountbattenpri6.jpg">
 </a></p>
 
 <p><a href="/images/mountbattenpri7.jpg">  
-<img src="/images/mountbattenpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountbattenpri7.jpg">
 </a></p>
 
 <p><a href="/images/mountbattenpri8.jpg">  
-<img src="/images/mountbattenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/mountbattenpri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -47,7 +48,7 @@ Mountbatten Primary School was established in 1981 with the merger of two primar
 
 Mountbatten Primary School did well at sports, in particular track and field, badminton, soccer, basketball and volleyball. The school consistently achieved the NAPFA Gold Award from 1994 to 2000, as well as the Sustained Achievement Award for commendable performance in the Trim and Fit (TAF) Programme from 1996 to 2000. In 2000, the school also achieved a Silver Award in the Central Judging of Primary School Choirs.
 
-The school published a regular newsletter, _MPS Update_.
+The school published a regular newsletter,&nbsp;_MPS Update_.
 
 In January 2001, Mountbatten Primary School merged with Haig Boys’ Primary School and Fowlie Primary School to become Tanjong Katong Primary School.
 
@@ -69,16 +70,16 @@ In January 2001, Mountbatten Primary School merged with Haig Boys’ Primary Sch
 To Learn Is To Live
 
 #### **School Crest**
-<img src="/images/mountbattenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/mountbattenpri1.png">
 
-The school crest contains a shield with an open book and the letters “MPS” on it. The **shield** represents a symbol of strength and pride and the **book** depicts the pursuit of knowledge.
+The school crest contains a shield with an open book and the letters “MPS” on it. The&nbsp;**shield**&nbsp;represents a symbol of strength and pride and the&nbsp;**book**&nbsp;depicts the pursuit of knowledge.
 
-The school colours are blue and orange: **blue** for diligence and **orange** for richness in culture.
+The school colours are blue and orange:&nbsp;**blue**&nbsp;for diligence and&nbsp;**orange**&nbsp;for richness in culture.
 
 The school motto is “To Learn Is To Live”, which means learning brings about a developed person who can live a wholesome life.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>	
 
 Mountbatten School, Mountbatten School<br>
 Proud are we of a wonderful school<br>

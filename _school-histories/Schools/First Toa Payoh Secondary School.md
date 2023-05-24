@@ -4,48 +4,49 @@ permalink: /school-histories/first-tpy-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/firsttpysec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/firsttpysec1.png">
 
 ### **First Toa Payoh Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJ6xXALGp0EctCSv5SQVIqt-AesA3G_v6gktP5oGcbNOz1clPIFkOAEPeKnlSHavlyIkZT6PbBuzri/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/firsttpysec2.jpg">  
-<img src="/images/firsttpysec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec2.jpg">
 </a></p>
 
 <p><a href="/images/firsttpysec3.jpg">  
-<img src="/images/firsttpysec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec3.jpg">
 </a></p>
 
 <p><a href="/images/firsttpysec4.jpg">  
-<img src="/images/firsttpysec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/firsttpysec5.jpg">  
-<img src="/images/firsttpysec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec5.jpg">
 </a></p>
 
 <p><a href="/images/firsttpysec6.jpg">  
-<img src="/images/firsttpysec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec6.jpg">
 </a></p>
 
 <p><a href="/images/firsttpysec7.jpg">  
-<img src="/images/firsttpysec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/firsttpysec8.jpg">  
-<img src="/images/firsttpysec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec8.jpg">
 </a></p>
 
 <p><a href="/images/firsttpysec9.jpg">  
-<img src="/images/firsttpysec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpysec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -57,11 +58,11 @@ In the late 1970s, FTPSS actively emphasised social contributions and environmen
 
 The enrolment grew during the initial years but declined in the later part of the 1980s as the Toa Payoh estate began to mature. With declining student enrolment, the school underwent three mergers with four schools.
 
-In 2001, FTPSS merged with Pei Dao Secondary School and Thomson Secondary School. The merged school operated in two campuses, located at Lorong 1 Toa Payoh and Thomson Road, which was the former premises of Thomson Secondary School. In December 2002, FTPSS relocated from Lorong 1 Toa Payoh to 580 Toa Payoh East. In 2004, FTPSS merged with Upper Serangoon Secondary School. 
+In 2001, FTPSS merged with Pei Dao Secondary School and Thomson Secondary School. The merged school operated in two campuses, located at Lorong 1 Toa Payoh and Thomson Road, which was the former premises of Thomson Secondary School. In December 2002, FTPSS relocated from Lorong 1 Toa Payoh to 580 Toa Payoh East. In 2004, FTPSS merged with Upper Serangoon Secondary School.&nbsp;
 
 To forge stronger bonds with community partners, the school spearheaded the Love Toa Payoh East movement in 2004, which later became the basis for the Toa Payoh Trail in 2009.
 
-Leveraging on its strength in experiential learning and commitment to holistic development of students, FTPSS was awarded niche status in Outdoor Experiential Learning in 2013. This became the school’s Learning for Life Programme in the following year. 
+Leveraging on its strength in experiential learning and commitment to holistic development of students, FTPSS was awarded niche status in Outdoor Experiential Learning in 2013. This became the school’s Learning for Life Programme in the following year.&nbsp;
 
 In 2016, FTPSS merged with Bartley Secondary School, adopting the latter’s name. Not forgetting the original purpose of FTPSS and the contributions of the community to the holistic development of the students, the staff and students of FTPSS organised a number of memorable events in 2015 to show appreciation to the community for accepting and partnering FTPSS over the years.
 
@@ -102,14 +103,14 @@ Principals:<br>
 To the Years Ahead
 
 #### **School Crest**
-<img src="/images/firsttpysec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/firsttpysec1.png">
 
 The school crest consists of a torch within a circle that resembles a wheel. The torch symbolises enlightenment and knowledge, while the wheel represents progress. The school crest signifies striving for progress and achievement through education.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1OcOfyLqzkycnw7Wj5VSJsMsYVrXW7PZX/view?usp=share_link">**♫ Listen**</a> 
 
 In the onward of life<br>
 In our Island State<br>

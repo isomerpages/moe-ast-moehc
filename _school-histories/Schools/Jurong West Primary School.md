@@ -4,7 +4,7 @@ permalink: /school-histories/jurong-west-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jurongwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongwestpri1.png">
 
 ### **Jurong West Primary School**
 [URL to website](https://www.jurongwestpri.moe.edu.sg/) 
@@ -12,47 +12,48 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUC7iLktGICjD2oiXrXwEDZXPtdOQ3Sq1WghIjGtr7MhPT9z7KoJ29iHdYHoIGgi2mmncmS-MrJh4_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jurongwestpri2.jpg">  
-<img src="/images/jurongwestpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri2.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestpri3.jpg">  
-<img src="/images/jurongwestpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri3.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestpri4.jpg">  
-<img src="/images/jurongwestpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongwestpri5.jpg">  
-<img src="/images/jurongwestpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri5.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestpri6.jpg">  
-<img src="/images/jurongwestpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri6.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestpri7.jpg">  
-<img src="/images/jurongwestpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongwestpri8.jpg">  
-<img src="/images/jurongwestpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri8.jpg">
 </a></p>
 
 <p><a href="/images/jurongwestpri9.jpg">  
-<img src="/images/jurongwestpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Jurong West Primary School (JWPS) was established on 4 January 1999 with seven Primary One classes. The school underwent upgrading in 2012 with an additional block, increasing the capacity to 46 classrooms and 19 special rooms. This enabled the school to transit to single-session in 2015. 
+Jurong West Primary School (JWPS) was established on 4 January 1999 with seven Primary One classes. The school underwent upgrading in 2012 with an additional block, increasing the capacity to 46 classrooms and 19 special rooms. This enabled the school to transit to single-session in 2015.&nbsp;
 
 The school is cognisant of the growing demands and expectations of developing students who are future-ready and well anchored on sound moral values. Hence, its Applied Learning Programme, ‘The Art of Communication for Personal Excellence’, aims to equip students with explicit training in communication. The students undergo training in choral reading, reader’s theatre, storytelling and public speaking to develop them into confident communicators and creative individuals who are anchored in the school’s core values.
 
@@ -80,7 +81,7 @@ Principals:<br>
 Think and Grow
 
 #### **School Crest**
-<img src="/images/jurongwestpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongwestpri1.png">
 
 Green sapling: lively young child<br>
 Yellow circle: environment of love and care<br>
@@ -88,7 +89,7 @@ Green concentric circles: wholesome and well-rounded education<br>
 White background: upright character of students
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1qOGkUR7yq--dfyH7y3VaGc3qwg5YsRJP/view?usp=share_link">**♫ Listen**</a> 
 
 Jurong West Primary<br>
 Heading for the crest<br>

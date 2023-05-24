@@ -4,45 +4,46 @@ permalink: /school-histories/lianhua-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/lianhuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/lianhuapri1.png">
 
 ### **Lianhua Primary School**
-[URL to website](https://lianhuapri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://lianhuapri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRH-Y1mXda2FuUWn-IXG59cOY2NV3D5zG8pGTQDPGHFa4TyPbgR4hLHuWE1R8fK7m6oG70uaD5O75e1/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/lianhuapri2.jpg">  
-<img src="/images/lianhuapri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri2.jpg">
 </a></p>
 
 <p><a href="/images/lianhuapri3.jpg">  
-<img src="/images/lianhuapri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri3.jpg">
 </a></p>
 
 <p><a href="/images/lianhuapri4.jpg">  
-<img src="/images/lianhuapri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/lianhuapri5.jpg">  
-<img src="/images/lianhuapri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri5.jpg">
 </a></p>
 
 <p><a href="/images/lianhuapri6.jpg">  
-<img src="/images/lianhuapri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri6.jpg">
 </a></p>
 
 <p><a href="/images/lianhuapri7.jpg">  
-<img src="/images/lianhuapri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/lianhuapri8.jpg">  
-<img src="/images/lianhuapri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/lianhuapri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -84,10 +85,10 @@ Principals:<br>
 |
 
 #### **School Motto**
- Play. Passion. Purpose.
+&nbsp;Play. Passion. Purpose.
 
 #### **School Crest**
-<img src="/images/lianhuapri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/lianhuapri1.png">
 
 The initials ‘LP’ in the centre of the crest stand for Lianhua Primary.
 
@@ -100,7 +101,7 @@ The colour white stands for the aspirations of the school to instill in every ch
 The two concentric circles denote a well-rounded and balanced education with strong support from stakeholders.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1GoJQOieRFnWL9m2kmLqzDoNmZ53mO8ZK/view?usp=share_link">**♫ Listen**</a>
 
 To the loyalty of our school<br>
 And the nation as a whole<br>

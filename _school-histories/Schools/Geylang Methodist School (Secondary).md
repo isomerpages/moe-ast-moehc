@@ -4,49 +4,50 @@ permalink: /school-histories/geylang-methodist-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/geylangmethodistsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/geylangmethodistsec1.jpg">
 
 ### **Geylang Methodist School (Secondary)**
-[URL to website](https://geylangmethodistsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://geylangmethodistsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjPN0w6xH2P0yNh2jTaWcL_v_bU-I9oljms8f-1t70dwW2pJu46IlmorR7gZKybISSOcvIVqYbJrXV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/geylangmethodistsec2.jpg">  
-<img src="/images/geylangmethodistsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec2.jpg">
 </a></p>
 
 <p><a href="/images/geylangmethodistsec3.jpg">  
-<img src="/images/geylangmethodistsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec3.jpg">
 </a></p>
 
 <p><a href="/images/geylangmethodistsec4.jpg">  
-<img src="/images/geylangmethodistsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/geylangmethodistsec5.jpg">  
-<img src="/images/geylangmethodistsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec5.jpg">
 </a></p>
 
 <p><a href="/images/geylangmethodistsec6.jpg">  
-<img src="/images/geylangmethodistsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec6.jpg">
 </a></p>
 
 <p><a href="/images/geylangmethodistsec7.jpg">  
-<img src="/images/geylangmethodistsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/geylangmethodistsec8.jpg">  
-<img src="/images/geylangmethodistsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec8.jpg">
 </a></p>
 
 <p><a href="/images/geylangmethodistsec9.jpg">  
-<img src="/images/geylangmethodistsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -102,14 +103,14 @@ Principals:<br>
 To grow in Friendship, Body, Mind
 
 #### **School Crest**
-<img src="/images/geylangmethodistsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/geylangmethodistsec1.jpg">
 
 The school crest is the embodiment of the aims and aspirations of the Geylang Methodist Schools (GMS). The shield offers protection and is a reminder of God. Enshrined in the heart of the shield is a flaming torch formed by the letters ‘M’ and ‘S’. This symbolises the passion of GMS to seek the light and truth. The white 27-point starburst is inspired by the school’s heritage – when it started with 27 pupils in 1924. It is an inspiration to continuously strive for pure brilliance and ingenuity grounded in its education.
 
 The colours blue and gold frame the crest, and represent heaven and earth respectively, reflecting heavenly aspirations that are firmly grounded in the earthly realism to ‘Grow in Friendship, Body and Mind’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1tlugrxPFoKQE_dM1xB5-j7IvaPhWKZDG/view?usp=share_link">**♫ Listen**</a> 
 
 In Geylang Methodist we strive<br>
 To grow in friendship, body, mind<br>

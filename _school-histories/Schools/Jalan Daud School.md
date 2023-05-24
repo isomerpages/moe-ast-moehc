@@ -4,30 +4,31 @@ permalink: /school-histories/jalan-daud-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jalandaud1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jalandaud1.png">
 
 ### **Jalan Daud School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCr7hZ1rWC0iMEDG7MSIUUcR5PrCu0OWvww06zkUvUiDL4lDqQaR087k5L47rwKfscCuI4SJwlPMyT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jalandaud2.jpg">  
-<img src="/images/jalandaud2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalandaud2.jpg">
 </a></p>
 
 <p><a href="/images/jalandaud3.jpg">  
-<img src="/images/jalandaud3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalandaud3.jpg">
 </a></p>
 
 <p><a href="/images/jalandaud4.jpg">  
-<img src="/images/jalandaud4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalandaud4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jalandaud5.jpg">  
-<img src="/images/jalandaud5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jalandaud5.jpg">
 </a></p>
 
 <br clear="left">
@@ -37,7 +38,7 @@ Established in 1956, Jalan Daud School was located at Jalan Eunos. The school st
   
 In 1974, Jalan Daud School admitted its first batch of female students into its Primary One intake.  
   
-In 1983, Jalan Daud School closed and the remaining students of Jalan Daud School were transferred to Jaya Primary School. In 1984, Jaya Primary School closed and its students were transferred to Eunos Primary School, which was built on the former site of Jalan Daud School. Since 1984, Eunos Primary School has occupied the previous location of Jalan Daud School. 
+In 1983, Jalan Daud School closed and&nbsp;the remaining students of Jalan Daud School were transferred to Jaya Primary School.&nbsp;In 1984, Jaya Primary School closed and its students were transferred to Eunos Primary School, which was built on the former site of Jalan Daud School. Since 1984, Eunos Primary School has occupied the previous location of Jalan Daud School.&nbsp;
 
 Principals:<br>
 \- Mr Ting Tiew Ling (1956 - 1960)<br>
@@ -59,13 +60,13 @@ Principals:<br>
 Onward to success
 
 #### **School Crest**
-<img src="/images/jalandaud1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jalandaud1.png">
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We the mates of JDS<br>
 Always filled with life and zest<br>
 Both in lessons sports galore<br>

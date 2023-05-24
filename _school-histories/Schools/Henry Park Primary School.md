@@ -4,49 +4,50 @@ permalink: /school-histories/henry-park-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/henryparkpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/henryparkpri1.jpg">
 
 ### **Henry Park Primary School**
-[URL to website](https://henryparkpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://henryparkpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsGT28tUB2bomJsBPT-eaNGI7WS3F6j06jtmvGbiT4Ht-697IvYTB3kqs_2T2ftLKf3XkJWcrPJ7wN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/henryparkpri2.jpg">  
-<img src="/images/henryparkpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri2.jpg">
 </a></p>
 
 <p><a href="/images/henryparkpri3.jpg">  
-<img src="/images/henryparkpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri3.jpg">
 </a></p>
 
 <p><a href="/images/henryparkpri4.jpg">  
-<img src="/images/henryparkpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/henryparkpri5.jpg">  
-<img src="/images/henryparkpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri5.jpg">
 </a></p>
 
 <p><a href="/images/henryparkpri6.jpg">  
-<img src="/images/henryparkpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri6.jpg">
 </a></p>
 
 <p><a href="/images/henryparkpri7.jpg">  
-<img src="/images/henryparkpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/henryparkpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/henryparkpri8.jpg">  
-<img src="/images/henryparkpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri8.jpg">
 </a></p>
 
 <p><a href="/images/henryparkpri9.jpg">  
-<img src="/images/henryparkpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,17 +55,17 @@ third_nav_title: Schools
 #### **School History**
 Henry Park Primary School was established on 23 March 1977 with 287 pupils and 13 teachers from other schools. It was officially opened on 7 April 1978.
 
-The school started an exchange programme with the Singapore Japanese School in 1990 and introduced a home-stay programme with Japanese pupils in 1999. Henry Park has since continued with the home-stay programme and exchange with the Singapore Japanese School. 
+The school started an exchange programme with the Singapore Japanese School in 1990 and introduced a home-stay programme with Japanese pupils in 1999. Henry Park has since continued with the home-stay programme and exchange with the Singapore Japanese School.&nbsp;
 
 Henry Park became a Gifted Education Programme (GEP) Centre in 1997, and continues to be one of the nine GEP centres.
 
-To cater to the growing population of students, the school began its expansion plans. The new school building was opened in April 2004. The new facilities include an air-conditioned multipurpose hall, a gymnasium, tennis courts and a double-tier driveway. From the end of 2011 to 2013, the school resided at a holding site while waiting for the PERI upgrading works to be completed at the original Holland Grove Road site. The upgrading works was completed in 2013. In the same year, the school celebrated its 35th anniversary with a Talent Fiesta. 
+To cater to the growing population of students, the school began its expansion plans. The new school building was opened in April 2004. The new facilities include an air-conditioned multipurpose hall, a gymnasium, tennis courts and a double-tier driveway. From the end of 2011 to 2013, the school resided at a holding site while waiting for the PERI upgrading works to be completed at the original Holland Grove Road site. The upgrading works was completed in 2013. In the same year, the school celebrated its 35th anniversary with a Talent Fiesta.&nbsp;
 
 In 2014, the school started its Applied Learning Programme, Science for Life@HPPS, which hones 21st-century competencies in their students through inquiry-based learning.
 
-The school became a single-session school in 2015. On 7 April 2015, a special 38th-anniversary celebration was held to commemorate SG50. The school’s heritage gallery, Henry Park Express, was opened. That same year, the school started its Learning for Life Programme, Sports4Life@HPPS, which focuses on developing both the students’ physical and leadership domains through its Modular Gymnastics Programme (Primary One to Three), Modular Sports Programme (Primary Four to Six) and Sports Leadership Training Programme for students who display leadership potential in their co-curricular activities. 
+The school became a single-session school in 2015. On 7 April 2015, a special 38th-anniversary celebration was held to commemorate SG50. The school’s heritage gallery, Henry Park Express, was opened. That same year, the school started its Learning for Life Programme, Sports4Life@HPPS, which focuses on developing both the students’ physical and leadership domains through its Modular Gymnastics Programme (Primary One to Three), Modular Sports Programme (Primary Four to Six) and Sports Leadership Training Programme for students who display leadership potential in their co-curricular activities.&nbsp;
 
-The school celebrated its 40th anniversary in 2017. That year also marked the commemoration of NS50, which commemorated 50 years of National Service in Singapore since 1967. Henry Park found it meaningful for some 400 Primary One to Four students to participate in the 2017 National Day Parade themed ‘One Nation Together’. 
+The school celebrated its 40th anniversary in 2017. That year also marked the commemoration of NS50, which commemorated 50 years of National Service in Singapore since 1967. Henry Park found it meaningful for some 400 Primary One to Four students to participate in the 2017 National Day Parade&nbsp;themed ‘One Nation Together’.&nbsp;
 
 Principals:<br>
 \- Mrs Chew Fook Chun (1977–1985)<br>
@@ -95,16 +96,16 @@ Honesty in Performance<br>
 Pride in Service
 
 #### **School Crest**
-<img src="/images/henryparkpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/henryparkpri1.jpg">
 
-The school crest is bounded by two circles: the inner and outer circle. Both circles symbolise unity, cohesiveness and harmony. 
+The school crest is bounded by two circles: the inner and outer circle. Both circles symbolise unity, cohesiveness and harmony.&nbsp;
 
-The inner circle speaks of the unity that exists within the school to carry out the mission of the school. The outer circle demonstrates the link the school has with other schools as part of the total education system and within the community at large. 
+The inner circle speaks of the unity that exists within the school to carry out the mission of the school. The outer circle demonstrates the link the school has with other schools as part of the total education system and within the community at large.&nbsp;
 
 The stars between the two circles symbolise excellence. They signify that the school stands within the community as a shining example of a school that nurtures pupils and teaches them to conduct themselves well, take pride in their work and achieve excellent results. The stars also indicate that the school believes in a balance between excellent academic performance and character building.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/18B48EssvQplecjz5E8Cp-16bYJwrrgMC/view?usp=share_link">**♫ Listen**</a> 
 
 We have stood in honour and glory.<br>
 Challenge to win our victory.<br>

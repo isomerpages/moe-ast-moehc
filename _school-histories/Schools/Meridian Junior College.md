@@ -4,48 +4,49 @@ permalink: /school-histories/meridian-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/meridianjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/meridianjc1.png">
 
 ### **Meridian Junior College**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIQuxMFo56zbCdw02ilnOxdvyCoghKdULy3HzNHetVJhQ3WHcDpL5p1LKUh-vHw6yHrfcDvEmioUO1/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/meridianjc2.jpg">  
-<img src="/images/meridianjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc2.jpg">
 </a></p>
 
 <p><a href="/images/meridianjc3.jpg">  
-<img src="/images/meridianjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc3.jpg">
 </a></p>
 
 <p><a href="/images/meridianjc4.jpg">  
-<img src="/images/meridianjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/meridianjc5.jpg">  
-<img src="/images/meridianjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc5.jpg">
 </a></p>
 
 <p><a href="/images/meridianjc6.jpg">  
-<img src="/images/meridianjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc6.jpg">
 </a></p>
 
 <p><a href="/images/meridianjc7.jpg">  
-<img src="/images/meridianjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/meridianjc8.jpg">  
-<img src="/images/meridianjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc8.jpg">
 </a></p>
 
 <p><a href="/images/meridianjc9.jpg">  
-<img src="/images/meridianjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianjc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,18 +90,18 @@ Principals:<br>
 Courage, Purpose, Character
 
 #### **School Crest**
-<img src="/images/meridianjc1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/meridianjc1.png">
 
 The Meridian lion crest is symbolic of strength and majesty. It speaks of the college’s vision to be a leading institution acclaimed for its academic excellence. The fluid design of the roaring lion projects the image of a dynamic institution that is swift in embracing the challenges of a fast-changing world. The silver of the crest represents the timeless elegance of an institution that will endure through time and the mark of distinction that the college wishes to endow on every student.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1OQUm8nKOCn6QR3RJ0Es35JTYwa3Zkkbd/view?usp=share_link">**♫ Listen**</a>
 
 Born of a vision to be the best<br>
 Rising above the rest<br>
 We speak with one clear voice<br>
 As this is our choice…<br>
- ‘Cause we’re
+&nbsp;‘Cause we’re
 
 Born of a vision to be the best<br>
 Rising above the rest<br>

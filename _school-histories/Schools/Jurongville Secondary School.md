@@ -4,65 +4,66 @@ permalink: /school-histories/jurongville-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jurongvillesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongvillesec1.png">
 
 ### **Jurongville Secondary School**
-[URL to website](https://jurongvillesec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.jurongvillesec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGiwrHPSbgAoGcNa5mIOFsd1tKJur1LYMdrTHQsrQvtVpHrQnfmfJtYN7tVmTM_8W7A1obkr3SQjIZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jurongvillesec2.jpg">  
-<img src="/images/jurongvillesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec2.jpg">
 </a></p>
 
 <p><a href="/images/jurongvillesec3.jpg">  
-<img src="/images/jurongvillesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec3.jpg">
 </a></p>
 
 <p><a href="/images/jurongvillesec4.jpg">  
-<img src="/images/jurongvillesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongvillesec5.jpg">  
-<img src="/images/jurongvillesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec5.jpg">
 </a></p>
 
 <p><a href="/images/jurongvillesec6.jpg">  
-<img src="/images/jurongvillesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec6.jpg">
 </a></p>
 
 <p><a href="/images/jurongvillesec7.jpg">  
-<img src="/images/jurongvillesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongvillesec8.jpg">  
-<img src="/images/jurongvillesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec8.jpg">
 </a></p>
 
 <p><a href="/images/jurongvillesec9.jpg">  
-<img src="/images/jurongvillesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec9.jpg">
 </a></p>
 
 <p><a href="/images/jurongvillesec10.jpg">  
-<img src="/images/jurongvillesec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec10.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongvillesec11.jpg">  
-<img src="/images/jurongvillesec11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec11.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Jurongville Secondary School was established in 1994 as a government co-educational school, operating at the site of Commonwealth Secondary School. In 1996, the school relocated to its present premises at 202 Jurong East Avenue 1. 
+Jurongville Secondary School was established in 1994 as a government co-educational school, operating at the site of Commonwealth Secondary School. In 1996, the school relocated to its present premises at 202 Jurong East Avenue 1.&nbsp;
 
 In 2002, the school opened its Cluster Science Learning Centre. Two years later, it celebrated its 10th anniversary. In 2011, the school completed PRIME upgrading.
 
@@ -101,12 +102,12 @@ Principals:<br>
 Beyond Self
 
 #### **School Crest**
-<img src="/images/jurongvillesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongvillesec1.png">
 
 The English (Jurongville) and Chinese (Hong Kah) names featured in the new school crest signify the contributions from the students, staff and stakeholders of both constituent school communities. Set against a globe, the two leaves represent the students and their growth in a nurturing school environment. The globe represents the school’s aspiration to help all students acquire the values, knowledge and skills necessary to thrive and live meaningfully in Singapore and beyond.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1lf4bGbQASGvYw764d_-ZOK-ovYHj1uqh/view?usp=share_link">**♫ Listen**</a> 
 
 We are the students from Jurongville<br>
 Our school our alma mater<br>

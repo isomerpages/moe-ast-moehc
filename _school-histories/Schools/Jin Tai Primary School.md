@@ -4,46 +4,47 @@ permalink: /school-histories/jin-tai-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jintai1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jintai1.png">
 
 ### **Jin Tai Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTje-wUBAjtxA_O3j0nB0Uho4ynFWzH8wz1eNoIhqwS5XLbrr0bnez5ZBlUGdqOxIXSii7-9wU7qcCl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jintai2.jpg">  
-<img src="/images/jintai2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jintai2.jpg">
 </a></p>
 
 <p><a href="/images/jintai3.jpg">  
-<img src="/images/jintai3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jintai3.jpg">
 </a></p>
 
 <p><a href="/images/jintai4.jpg">  
-<img src="/images/jintai4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/jintai4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jintai5.jpg">  
-<img src="/images/jintai5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jintai5.jpg">
 </a></p>
 
 <p><a href="/images/jintai6.jpg">  
-<img src="/images/jintai6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jintai6.jpg">
 </a></p>
 
 <p><a href="/images/jintai7.jpg">  
-<img src="/images/jintai7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jintai7.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
- Jin Tai Primary School was established in 1982. It was initially housed in the former Jubilee Malay School. The school moved into its new premises in January 1983. The school was officially declared open on 19 September 1984.
+&nbsp;Jin Tai Primary School was established in 1982. It was initially housed in the former Jubilee Malay School. The school moved into its new premises in January 1983. The school was officially declared open on 19 September 1984.
 
-The school published a regular newsletter, _TIE_. In 1989, the school set up a farm, called “Jin Tai Farm”, to allow students to experience the joys of growing different plants. The farm included a vivarium, which housed plants and some living organisms, as well as a miniature waterfall.
+The school published a regular newsletter,&nbsp;_TIE_. In 1989, the school set up a farm, called “Jin Tai Farm”, to allow students to experience the joys of growing different plants. The farm included a vivarium, which housed plants and some living organisms, as well as a miniature waterfall.
 
 Like the secondary school, Jin Tai Primary School was known for its achievements in sports, including volleyball and soccer.
 
@@ -74,13 +75,15 @@ Related School: [Qifa Primary School](/school-histories/qifa-pri/)
 Towards Knowledge And Understanding
 
 #### **School Crest**
-<img src="/images/jintai1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jintai1.png">
 
-The crest shows an image of an **open book**, representing learning and knowledge.
+The crest shows an image of an&nbsp;**open book**, representing learning and knowledge.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Come boys and girls of Jin Tai Primary School.<br>
 In knowledge and understanding let us grow.<br>
 There is much to learn, much to understand<br>

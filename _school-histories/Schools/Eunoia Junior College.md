@@ -4,45 +4,46 @@ permalink: /school-histories/eunoia-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/eunoiajc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/eunoiajc1.jpg">
 
 ### **Eunoia Junior College**
-[URL to website](https://eunoiajc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://eunoiajc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTV6PsNaZuZI2OLaxzurRyoUqSdEQTQl7TJgPaDLO63yiRs8iNxWH_3k2ODvo0VupPPn064-kmNhE62/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/eunoiajc2.jpg">  
-<img src="/images/eunoiajc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc2.jpg">
 </a></p>
 
 <p><a href="/images/eunoiajc3.jpg">  
-<img src="/images/eunoiajc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc3.jpg">
 </a></p>
 
 <p><a href="/images/eunoiajc4.jpg">  
-<img src="/images/eunoiajc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/eunoiajc5.jpg">  
-<img src="/images/eunoiajc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc5.jpg">
 </a></p>
 
 <p><a href="/images/eunoiajc6.jpg">  
-<img src="/images/eunoiajc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc6.jpg">
 </a></p>
 
 <p><a href="/images/eunoiajc7.jpg">  
-<img src="/images/eunoiajc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/eunoiajc8.jpg">  
-<img src="/images/eunoiajc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eunoiajc8.jpg">
 </a></p>
 
 <br clear="left">
@@ -73,12 +74,12 @@ Principals:<br>
 Beautiful Thinking, Goodwill to All
 
 #### **School Crest**
-<img src="/images/eunoiajc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/eunoiajc1.jpg">
 
 The college crest represents the three qualities of all-round development, beautiful thinking and cultural conversance. The circular shape signifies the holistic development of Eunoians, and it is complemented by the geometry of the college wordmark and typeface. The design of the crest is inspired by the neural networks of the human brain, signifying beautiful thinking. At the same time, the design depicts the name ‘Eunoia’, with an Asian theme. This signifies that Eunoians are able to thrive in diverse cultural settings while remaining rooted to their own culture.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1XxRkDShZ-ua6WxpFYXKLmesND_cCGsQd/view?usp=share_link">**♫ Listen**</a>
 
 Beginning with a dream<br>
 Making history<br>

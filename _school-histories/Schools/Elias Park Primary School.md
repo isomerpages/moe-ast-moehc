@@ -4,35 +4,36 @@ permalink: /school-histories/elias-park-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/aliasparkpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/aliasparkpri1.jpg">
 
 ### **Elias Park Primary School**
-[URL to website](https://eliasparkpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://eliasparkpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8IqGeJ-Qoa7BjpccjVfx3S0d8THvTYaarSDzQEB6N1epL0lfmodykgX9dmAl48h584pT1FIX5eQn3/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/aliasparkpri2.jpg">  
-<img src="/images/aliasparkpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri2.jpg">
 </a></p>
 
 <p><a href="/images/aliasparkpri3.jpg">  
-<img src="/images/aliasparkpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri3.jpg">
 </a></p>
 
 <p><a href="/images/aliasparkpri4.jpg">  
-<img src="/images/aliasparkpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/aliasparkpri5.jpg">  
-<img src="/images/aliasparkpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri5.jpg">
 </a></p>
 
 <p><a href="/images/aliasparkpri6.jpg">  
-<img src="/images/aliasparkpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri6.jpg">
 </a></p>
 
 <br clear="left">
@@ -73,7 +74,7 @@ Principals:<br>
 Endeavour and Persevere
 
 #### **School Crest**
-<img src="/images/aliasparkpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/aliasparkpri1.jpg">
 
 The School Crest is a composition of blue on yellow. The strong blue represents civility, seriousness and respect whilst the bright yellow, warmth and cheerfulness. The superimposition of these contrasting colours indicates the desire for a balanced approach to education.
 
@@ -84,7 +85,7 @@ The School Crest possesses the characteristic of duality in design. The leaf, wh
 The bold outer ring stands for unity and cohesiveness among staff and students – the vision of the school as one big family.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/14Xd6-RNOGQYGhZRtvoennkEGyDtpbZwi/view?usp=share_link">**♫ Listen**</a>
 
 United are we, in this happy place<br>
 Earnest and disciplined, at work and at play;<br>

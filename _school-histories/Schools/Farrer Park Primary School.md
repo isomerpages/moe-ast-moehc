@@ -4,49 +4,50 @@ permalink: /school-histories/farrer-park-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/farrerparkpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/farrerparkpri1.png">
 
 ### **Farrer Park Primary School**
-[URL to website](https://www.farrerparkpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.farrerparkpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvSfLZE2B6iUMU8JI3YvTjrAtGGHHRfYjdSRWEiqh13XV7WG536v1MNOjSSx_v2bTiEuzKcIPwmuE5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/farrerparkpri2.jpg">  
-<img src="/images/farrerparkpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri2.jpg">
 </a></p>
 
 <p><a href="/images/farrerparkpri3.jpg">  
-<img src="/images/farrerparkpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri3.jpg">
 </a></p>
 
 <p><a href="/images/farrerparkpri4.jpg">  
-<img src="/images/farrerparkpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/farrerparkpri5.jpg">  
-<img src="/images/farrerparkpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri5.jpg">
 </a></p>
 
 <p><a href="/images/farrerparkpri6.jpg">  
-<img src="/images/farrerparkpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri6.jpg">
 </a></p>
 
 <p><a href="/images/farrerparkpri7.jpg">  
-<img src="/images/farrerparkpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/farrerparkpri8.jpg">  
-<img src="/images/farrerparkpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri8.jpg">
 </a></p>
 
 <p><a href="/images/farrerparkpri9.jpg">  
-<img src="/images/farrerparkpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -78,7 +79,7 @@ Principals:<br>
 Challenge The Limits
 
 #### **School Crest**
-<img src="/images/farrerparkpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/farrerparkpri1.png">
 
 The open book represents the key to knowledge and learning.<br>
 The growing plant depicts a child upholding the school's spirit of creativity, courage and flexibility.<br>
@@ -86,7 +87,7 @@ The three leaves represent the School, Parent and Community.<br>
 Together they remind us that education is an on-going process, best maximized through the partnership.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1D7IVn5SQWtQFdvys_r4gGmoaljV9sz8-/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1<br>
 Like a plant,<br>

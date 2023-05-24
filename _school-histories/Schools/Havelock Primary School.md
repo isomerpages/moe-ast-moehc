@@ -4,17 +4,17 @@ permalink: /school-histories/havelock-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/havelockpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/havelockpri1.png">
 
 ### **Havelock Primary School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRgmAhEju_yrWNuCdeO3X-F66yo1eJ1L5nb-wEj8Pmfb1K5U8ywWXRnTWgp6_sU5uIgPxV0JWQXAQL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/havelockpri2.jpg">  
-<img src="/images/havelockpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/havelockpri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -48,14 +48,13 @@ Principals:<br>
 Honour, Modesty, Success
 
 #### **School Crest**
-<img src="/images/havelockpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/havelockpri1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>
 
 Havelock boys and girls are we, here to learn and play.<br>
 Forward forward we shall go, through all our ups and downs.<br>

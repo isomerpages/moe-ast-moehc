@@ -4,45 +4,46 @@ permalink: /school-histories/methodist-girls-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/methodistgirlssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/methodistgirlssch1.png">
 
 ### **Methodist Girls' School**
-[URL to website](https://www.mgs.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.mgs.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS055Hlav1osc8e2sqIq4s2zhr1gLZYwyL2Z-0fz1LZR_ne3faDFBHqEZl4FUSQCGEKDAQzBPtrYlNc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/methodistgirlssch2.jpg">  
-<img src="/images/methodistgirlssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch2.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch3.jpg">  
-<img src="/images/methodistgirlssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch3.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch4.jpg">  
-<img src="/images/methodistgirlssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch4.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch5.jpg">  
-<img src="/images/methodistgirlssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch5.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch6.jpg">  
-<img src="/images/methodistgirlssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch6.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch7.jpg">  
-<img src="/images/methodistgirlssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch7.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch8.jpg">  
-<img src="/images/methodistgirlssch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch8.jpg">
 </a></p>
 
 <p><a href="/images/methodistgirlssch9.jpg">  
-<img src="/images/methodistgirlssch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -50,11 +51,11 @@ third_nav_title: Schools
 #### **School History**
 Methodist Girls’ School (MGS) was founded on 15 August 1887 by Australian missionary Miss Sophia Blackmore as Tamil Girls’ School. The school operated from a shophouse on Short Street. The fathers of the first batch of nine girls, all Tamil businessmen, donated money, furniture and the rent-free shophouse to start the school. In 1891, having outgrown the shophouse, the school moved to the Christian Institute on Middle Road. In 1900, it returned to Short Street, occupying a purpose-built building.
 
-As its enrolment increased steadily, MGS moved to Mount Sophia in 1925. By the 1930s, the MGS uniform was introduced. The school motto, ‘To Master, To Grow, To Serve’, and the MGS house system were also created. The four houses were originally named after Methodist pioneers in Singapore; they were later renamed Blackmore, Jackson, Lee and Olson.
+As its enrolment increased steadily, MGS moved to Mount Sophia in 1925. By the 1930s,&nbsp;the MGS uniform was introduced. The school motto, ‘To Master, To Grow, To Serve’, and the MGS&nbsp;house system were also created. The four houses were originally named after Methodist pioneers in Singapore; they were later renamed Blackmore, Jackson, Lee and Olson.
 
-The current school song was sung for the first time in 1949. The school badge that is still used today was introduced in 1965. In 1983, the Music Elective Programme was introduced at the secondary level. A century after its founding, in January 1989, the secondary school acquired independent status; thereafter, the full school functioned in a single session. In 1992, Methodist Girls’ School relocated to its present premises at Blackmore Drive.     
+The current school song was sung for the first time in 1949. The school badge that is still used today was introduced in 1965. In 1983, the Music Elective Programme was introduced at the secondary level. A century after its founding, in January 1989, the secondary school acquired independent status; thereafter, the full school functioned in a single session. In 1992, Methodist Girls’ School relocated to its present premises at Blackmore Drive.&nbsp; &nbsp; &nbsp;
 
-In 2013, MGS received its first intake of Integrated Programme students, who would go on to do their International Baccalaureate at ACS (Independent).  
+In 2013, MGS received its first intake of Integrated Programme students, who would go on to do their International Baccalaureate at ACS (Independent).&nbsp;&nbsp;
 
 Principals:<br>
 \- Ms Sophia Blackmore (1887–1892)<br>
@@ -103,12 +104,12 @@ Principals:<br>
 To Master, To Grow, To Serve
 
 #### **School Crest**
-<img src="/images/methodistgirlssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/methodistgirlssch1.png">
 
-The MGS crest has a circular shape, which represents its roots as a Christian school and symbolises eternity. The ring of laurel leaves, traditionally given to victors in the poetic arts or sports in ancient Greece and Rome, serves as a symbol of all-round achievement, triumph and honour. The letters ‘MGS’, besides being the initials of the school name, also represent the three tenets of the school motto, ‘To Master, To Grow and To Serve’.
+The MGS crest has a circular shape, which&nbsp;represents its roots as a Christian school and symbolises eternity. The ring of laurel leaves, traditionally given to victors in the poetic arts or sports in ancient Greece and Rome, serves as a symbol of all-round achievement, triumph and honour. The letters ‘MGS’, besides being the initials of the school name, also represent the three tenets of the school motto, ‘To&nbsp;Master, To&nbsp;Grow and To&nbsp;Serve’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1gczxJX9SmNeUhJ5SK4rMXds6-k7RAdwm/view?usp=share_link">**♫ Listen**</a>
 
 With loving hearts and joyous song we sing to M.G.S.<br>
 And tell the fame of that fair name for we can do no less.<br>

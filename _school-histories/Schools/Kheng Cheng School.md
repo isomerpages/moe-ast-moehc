@@ -4,55 +4,56 @@ permalink: /school-histories/kheng-cheng-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/khengchengsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/khengchengsch1.png">
 
 ### **Kheng Cheng School**
-[URL to website](https://khengcheng.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://khengcheng.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLAl0km_bFTGI6AkZmTyd98Fn7poo23Ft2AQKTTUOwA-dD4tUYCzQ5PT7tweK7GHNceu1PhwE39gru/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/khengchengsch2.jpg">  
-<img src="/images/khengchengsch2.jpg" style="width:20%;margin-left:35px;" align = "left">
+<img align="left" style="width:20%;margin-left:35px;" src="/images/khengchengsch2.jpg">
 </a></p>
 
 <p><a href="/images/khengchengsch3.jpg">  
-<img src="/images/khengchengsch3.jpg" style="width:30%;margin-left:45px;" align = "left">
+<img align="left" style="width:30%;margin-left:45px;" src="/images/khengchengsch3.jpg">
 </a></p>
 
 <p><a href="/images/khengchengsch4.jpg">  
-<img src="/images/khengchengsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/khengchengsch5.jpg">  
-<img src="/images/khengchengsch5.jpg" style="width:20%;margin-left:35px;" align = "left">
+<img align="left" style="width:20%;margin-left:35px;" src="/images/khengchengsch5.jpg">
 </a></p>
 
 <p><a href="/images/khengchengsch6.jpg">  
-<img src="/images/khengchengsch6.jpg" style="width:30%;margin-left:45px;" align = "left">
+<img align="left" style="width:30%;margin-left:45px;" src="/images/khengchengsch6.jpg">
 </a></p>
 
 <p><a href="/images/khengchengsch7.jpg">  
-<img src="/images/khengchengsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/khengchengsch8.jpg">  
-<img src="/images/khengchengsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch8.jpg">
 </a></p>
 
 <p><a href="/images/khengchengsch9.jpg">  
-<img src="/images/khengchengsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Kheng Cheng School was established by Mdm Lim Peng Tuan in 1927 to provide education for the children in the neighbourhoods of Newton and Moulmein. The school moved to Moulmein Road in 1931 and then to Derbyshire Road in 1937. Under Mdm Lim’s leadership, the afternoon session was held for students who went to English schools in the morning, and this marked the beginning of bilingual education in Kheng Cheng School. The school relocated to its present site at Lorong 3 Toa Payoh, and it was officially opened on 30 August 1974.   
+Kheng Cheng School was established by Mdm Lim Peng Tuan in 1927 to provide education for the children in the neighbourhoods of Newton and Moulmein. The school moved to Moulmein Road in 1931 and then to Derbyshire Road in 1937. Under Mdm Lim’s leadership, the afternoon session was held for students who went to English schools in the morning, and this marked the beginning of bilingual education in Kheng Cheng School. The school relocated to its present site at Lorong 3 Toa Payoh, and it was officially opened on 30 August 1974.&nbsp;  
   
 Following renovations, the school reopened in 2004. In 2017, the school celebrated its 90th anniversary, and the following year, it underwent PERI upgrading.  
   
@@ -87,35 +88,33 @@ Principals:<br>
 | 2020 | Completion of PERI upgrading. |
 |
 
-#### **School Motto**
-\-
 
 #### **School Crest**
-<img src="/images/khengchengsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/khengchengsch1.png">
 
 Blue: Perpetuation of Values<br>
 White: Dignity, Purity and Diligence<br>
 Gold: Honesty, Courage and Endurance<br>
 
 The upper part of the crest has a dark blue background with the name of the school in white. This symbolises the commitment of KHENG CHENG to Singapore's educational policy. The typeface is indicative of a school that is forward-looking.
-   
+&nbsp;  
 The lower part of the crest uses dark blue for the two ancient Chinese characters for KHENG CHENG (擎 青). This is symbolic of our endeavour to perpetuate traditional Asian values.
-   
+&nbsp;  
 The white letters in English and the white trim on the Chinese characters symbolise our commitment to uphold bilingualism. The gold border symbolises cohesiveness and cooperation.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1-4mu3R-CPfhR5wqz5QX0DFE1P18NxpO3/view?usp=share_link">**♫ Listen**</a>	
 
 卫 星 镇 上<br>
 wei xing zhen shang<br>
 我 校 擎 青<br>
 wo xiao qing qing<br>
 巍 峨 屹 立 于 其 中<br>
-wei  e yi li yu qi zhong<br>
+wei &nbsp;e yi li yu qi zhong<br>
 擎 天 立 地<br>
 qing tian li di<br>
- 培 育 青 年<br>
- pei yu qing nian<br>
+&nbsp;培 育 青 年<br>
+&nbsp;pei yu qing nian<br>
 浩 然 之 气 贯 长 虹<br>
 hao ran zhi qi guan chang hong
 

@@ -4,26 +4,27 @@ permalink: /school-histories/elling-south-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ellingsouthsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ellingsouthsch1.png">
 
 ### **Elling South School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVwSCHCAIZqnOcF8943WQL_fvGgUZzEXEF5N9Lhxa05m5otklq7zHY4GQwEIXIIn3OgET-Oq7XrIa9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ellingsouthsch2.jpg">  
-<img src="/images/ellingsouthsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ellingsouthsch2.jpg">
 </a></p>
 
 <p><a href="/images/ellingsouthsch3.jpg">  
-<img src="/images/ellingsouthsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ellingsouthsch3.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Elling South School was located at Bartley Road. The school was likely to have been established in the late 1950s or early 1960s.   
+Elling South School was located at Bartley Road. The school was likely to have been established in the late 1950s or early 1960s.&nbsp;  
   
 In 1985, the school merged with neighbouring Elling North School to form Elling Primary School.
 
@@ -36,12 +37,10 @@ In 1985, the school merged with neighbouring Elling North School to form Elling 
 |
 
 #### **School Motto**
-_Nil Desperandum_ (Never Despair)
+_Nil Desperandum_&nbsp;(Never Despair)
 
 #### **School Crest**
-<img src="/images/ellingsouthsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ellingsouthsch1.png">
 
 <br clear="left">
 
-#### **School Song**
-\-

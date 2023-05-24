@@ -4,7 +4,7 @@ permalink: /school-histories/holy-innocent-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hihs1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hihs1.jpg">
 
 ### **Holy Innocents' High School**
 [URL to website](https://www.holyinnocentshigh.moe.edu.sg/)
@@ -12,47 +12,48 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRX4fTyCrzoE_NnmC5WaxLEatFN5QK-1wfXTmk3XFwUfA1nv2AkoyRq7q-89RCn1x9aj-nglM2W-o7e/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hihs2.jpg">  
-<img src="/images/hihs2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hihs2.jpg">
 </a></p>
 
 <p><a href="/images/hihs4.jpg">  
-<img src="/images/hihs4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/hihs4.jpg">
 </a></p>
 
 <p><a href="/images/hihs3.jpg">  
-<img src="/images/hihs3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hihs3.jpg">
 </a></p>
 
 <p><a href="/images/hihs5.jpg">  
-<img src="/images/hihs5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hihs5.jpg">
 </a></p>
 
 <p><a href="/images/hihs6.jpg">  
-<img src="/images/hihs6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hihs6.jpg">
 </a></p>
 
 <p><a href="/images/hihs7.jpg">  
-<img src="/images/hihs7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/hihs7.jpg">
 </a></p>
 
 <br clear="left"><br clear="left">
 
 <p><a href="/images/hihs8.jpg">  
-<img src="/images/hihs8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hihs8.jpg">
 </a></p>
 
 <p><a href="/images/hihs11.jpg">  
-<img src="/images/hihs11.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/hihs11.jpg">
 </a></p>
 
 <p><a href="/images/hihs10.jpg">  
-<img src="/images/hihs10.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hihs10.jpg">
 </a></p>
 
 <p><a href="/images/hihs9.jpg">  
-<img src="/images/hihs9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hihs9.jpg">
 </a></p>
 
 <br clear="left">
@@ -100,12 +101,12 @@ Sincerity and Charity
 The school motto in Chinese stresses on four areas of student development: intellect, morality, physical wellness and harmony. The four areas branch out and include values such as humility, diligence, integrity, kindness, respect, righteousness, sincerity and charity.
 
 #### **School Crest**
-<img src="/images/hihs1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hihs1.jpg">
 
-The school crest – embodying the colours red, blue and white – is shaped like a shield with the cross at the centre. The shield represents the defence of our faith with Christ at the centre of our lives. The colour red symbolises the blood of Christ. Blue symbolises the ever-soothing presence of our Mother Mary who is always there for us, while white represents sincerity and honesty. The Chinese character, 诚 (integrity), features at the top of the crest, symbolising the need to continually uphold the virtue to be honest with God, others and self.
+The school crest – embodying the colours red, blue and white – is shaped like a shield with the cross at the centre. The shield&nbsp;represents the defence of our faith with Christ at the centre of our lives. The colour red symbolises the blood of Christ. Blue&nbsp;symbolises the ever-soothing presence of our Mother Mary who is always there for us, while white&nbsp;represents sincerity and honesty. The Chinese character, 诚 (integrity), features at the top of the crest, symbolising the need to continually uphold the virtue to be honest with God, others and self.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1PBYWsYTM_CFM12PMHQVZkS1oUpxTEy7F/view?usp=share_link">**♫ Listen**</a> 
 
 圣婴中学<br>
 shèng yīng zhōng xué<br>

@@ -4,7 +4,7 @@ permalink: /school-histories/gan-eng-seng-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ganengsengpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ganengsengpri1.jpg">
 
 ### **Gan Eng Seng School**
 [URL to website](https://www.ganengsengsch.moe.edu.sg/) 
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpa8noy5t7bsN0R3Hr7fQWIs9asJNfXYgCzvvKvnCzrVF7Rbpy_1EnE9NqbQ8P3wXa9ocoOWqVW2Fa/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ganengsengpri2.jpg">  
-<img src="/images/ganengsengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ganengsengpri2.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri3.jpg">  
-<img src="/images/ganengsengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ganengsengpri3.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri4.jpg">  
-<img src="/images/ganengsengpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/ganengsengpri4.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri6.jpg">  
-<img src="/images/ganengsengpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/ganengsengpri6.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri5.jpg">  
-<img src="/images/ganengsengpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ganengsengpri5.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri7.jpg">  
-<img src="/images/ganengsengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ganengsengpri7.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri8.jpg">  
-<img src="/images/ganengsengpri8.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/ganengsengpri8.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri9.jpg">  
-<img src="/images/ganengsengpri9.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/ganengsengpri9.jpg">
 </a></p>
 
 <p><a href="/images/ganengsengpri10.jpg">  
-<img src="/images/ganengsengpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ganengsengpri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +55,7 @@ third_nav_title: Schools
 #### **School History**
 In 1885, Anglo-Chinese Free School was started in the shophouses of Telok Ayer Street by Mr Gan Eng Seng to offer free education to the children of poor parents in the vicinity. It became an aided school in 1888, and the school owed much to Mr Gan’s generous contribution to the new building at Telok Ayer Street in 1889. The building was opened on 4 April 1893, and the school was renamed after Mr Gan in 1923.
 
-Initially, English and Chinese were used to teach at Gan Eng Seng School, but it became an English-medium school in 1899. It then became a government school in 1938 and was housed temporarily in Sepoy Lines Malay School on Park Road, where it took the morning session.
+Initially, English and Chinese were used to teach at Gan Eng Seng School, but it became an English-medium&nbsp;school in 1899. It then became a government school in 1938 and was housed temporarily in Sepoy Lines Malay School on Park Road, where it took the morning session.
 
 Gan Eng Seng School suspended operations during the Japanese occupation and reopened on 13 May 1946 after the war ended. The school operated from Waterloo Street from May 1947 and moved to Anson Road in 1951. In 1986, it relocated to a new site beside Keppel Railway Station and was officially opened on 12 July 1989. The school subsequently moved to its current site at 1 Henderson Road in 2000.
 
@@ -111,14 +112,15 @@ Principals:<br>
 Onward
 
 #### **School Crest**
-<img src="/images/ganengsengpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ganengsengpri1.jpg">
 
 The red dragon on the left stands for courage, endeavour and the everlasting fire of leadership. The Chinese junk on the right symbolises progress and the ongoing quest for peace and success. The school colours are red and green.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1r2NSsIEL6ibJf60YycGpWLD0qOfsheVS/view?usp=share_link">**♫ Listen**</a> 
+
 
 In eighteen-eighty five, our founder Gan Eng Seng<br>
 Conceived the noble aim for a new breed of men<br>

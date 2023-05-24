@@ -4,43 +4,44 @@ permalink: /school-histories/gongshang-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/gongshangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/gongshangpri1.png">
 
 ### **Gongshang Primary School**
-[URL to website](https://gongshangpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://gongshangpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1VDVC3yG_sJF5CmPxEYBJdAfLnqIyUL3Hr90urJyDfujnD-Gxk6WUtti3xCU3fziZNcrdl7WiN-9x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/gongshangpri2.jpg">  
-<img src="/images/gongshangpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri2.jpg">
 </a></p>
 
 <p><a href="/images/gongshangpri4.jpg">  
-<img src="/images/gongshangpri4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/gongshangpri4.jpg">
 </a></p>
 
 <p><a href="/images/gongshangpri3.jpg">  
-<img src="/images/gongshangpri3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/gongshangpri3.jpg">
 </a></p>
 
 <p><a href="/images/gongshangpri5.jpg">  
-<img src="/images/gongshangpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/gongshangpri6.jpg">  
-<img src="/images/gongshangpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri6.jpg">
 </a></p>
 
 <p><a href="/images/gongshangpri7.jpg">  
-<img src="/images/gongshangpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri7.jpg">
 </a></p>
 
 <p><a href="/images/gongshangpri8.jpg">  
-<img src="/images/gongshangpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -82,10 +83,11 @@ Principals:<br>
 |
 
 #### **School Motto**
-Perseverance, Thrift, Integrity and Respect （勤俭诚敬）
+Perseverance, Thrift, Integrity and Respect 
+<br>勤俭诚敬）
 
 #### **School Crest**
-<img src="/images/gongshangpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/gongshangpri1.png">
 
 The ball with the Chinese characters 'Gongshang' (工商) symbolises acquisition of an all-round education.
 
@@ -96,7 +98,7 @@ The triangle symbolises the tripartite relationships of the School Advisory Comm
 Red signifies enthusiasm, diligence and respect while yellow symbolises honesty and brightness.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1rndKbb7P86zfL3J0nE-PNT0Hhm3Xz6HH/view?usp=share_link">**♫ Listen**</a> 
 
 Gongshang, Gongshang here’s where we belong,<br>
 Our skills and knowledge ever will grow strong.<br>

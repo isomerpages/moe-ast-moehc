@@ -4,52 +4,53 @@ permalink: /school-histories/hong-kah-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hongkahsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hongkahsec1.jpg">
 
 ### **Hong Kah Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQj7UliOlfni4jUH8mKn8yAtGn7ifSaMjmtVtYQ46wJqLVkU3c4d5UnBj-O26oQr9VfgqiBbp4FgKvp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hongkahsec2.jpg">  
-<img src="/images/hongkahsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahsec2.jpg">
 </a></p>
 
 <p><a href="/images/hongkahsec4.jpg">  
-<img src="/images/hongkahsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/hongkahsec4.jpg">
 </a></p>
 
 <p><a href="/images/hongkahsec3.jpg">  
-<img src="/images/hongkahsec3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hongkahsec3.jpg">
 </a></p>
 
 <p><a href="/images/hongkahsec6.jpg">  
-<img src="/images/hongkahsec6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/hongkahsec6.jpg">
 </a></p>
 
 <p><a href="/images/hongkahsec5.jpg">  
-<img src="/images/hongkahsec5.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hongkahsec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hongkahsec7.jpg">  
-<img src="/images/hongkahsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahsec7.jpg">
 </a></p>
 
 <p><a href="/images/hongkahsec8.jpg">  
-<img src="/images/hongkahsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahsec8.jpg">
 </a></p>
 
 <p><a href="/images/hongkahsec9.jpg">  
-<img src="/images/hongkahsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hongkahsec9.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hongkahsec10.jpg">  
-<img src="/images/hongkahsec10.jpg" style="width:60%;margin-right:15px;" align = "left">
+<img align="left" style="width:60%;margin-right:15px;" src="/images/hongkahsec10.jpg">
 </a></p>
 
 <br clear="left">
@@ -90,14 +91,14 @@ Principals:<br>
 Conquer Thyself
 
 #### **School Crest**
-<img src="/images/hongkahsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hongkahsec1.jpg">
 
 The crest represents the school’s philosophy and its commitment to the students’ education. The circular shape reflects the aim of the school to provide a well-rounded education for every Hong Kah student. The three stars represent the three participants in the education enterprise: parents, students and professionals. Each has an important role to play, but the brightest star is the student. The globe signifies the internationalised outlook of the new world-ready youths.
 
 The Chinese characters are a reminder that while students move forward in the name of change, they must not forget the richness of their past. The Hong Kah colours of blue, green and gold symbolise respectively the infinite opportunities to reach for the stars; nature, life and a caring environment; and the ultimate achievement of the star, the invaluable qualities of education.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1o8mXnKBfyzUR9Gz9cpBnptkjV0WAMwRa/view?usp=share_link">**♫ Listen**</a> 
 
 A life is given to each one of us<br>
 To make this a better world<br>

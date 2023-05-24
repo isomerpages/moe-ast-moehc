@@ -4,53 +4,54 @@ permalink: /school-histories/gan-eng-seng-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/gesps1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/gesps1.png">
 
 ### **Gan Eng Seng Primary School**
-[URL to website](https://ganengsengpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://ganengsengpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQP5pgsetjhYzsV0hNG7pRyOynEGkfUbFEmhAuc22-ESC902HhxZn_1jgIEwRiYZbzKvl2m_WBVUxH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/gesps2.jpg">  
-<img src="/images/gesps2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps2.jpg">
 </a></p>
 
 <p><a href="/images/gesps3.jpg">  
-<img src="/images/gesps3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps3.jpg">
 </a></p>
 
 <p><a href="/images/gesps4.jpg">  
-<img src="/images/gesps4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/gesps5.jpg">  
-<img src="/images/gesps5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps5.jpg">
 </a></p>
 
 <p><a href="/images/gesps6.jpg">  
-<img src="/images/gesps6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps6.jpg">
 </a></p>
 
 <p><a href="/images/gesps7.jpg">  
-<img src="/images/gesps7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/gesps8.jpg">  
-<img src="/images/gesps8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps8.jpg">
 </a></p>
 
 <p><a href="/images/gesps9.jpg">  
-<img src="/images/gesps9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps9.jpg">
 </a></p>
 
 <p><a href="/images/gesps10.jpg">  
-<img src="/images/gesps10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps10.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,11 +61,11 @@ Gan Eng Seng Primary School was named after the Chinese philanthropist Mr Gan En
 
 The school was officially opened on 11 September 2004. As a merger school, the initial years focused on team-building to strengthen the bond among the teachers who had come from different schools, as well as to establish the mission and vision of the school. Time was spent defining and deciding on the school identity. The teachers also wrote and designed the school song and uniform. The school song reflected what the teachers wanted students to achieve through the six years of education with the school: to be confident and resilient students who believe in themselves and the future.
 
-In 2008, the principal and the staff set the next phase of school growth through a re-envisioning exercise. This marked another milestone in the school’s journey of continuous improvement: the beginning of the next stage of school excellence. The school saw the need to strengthen school pride and identity among its students. The term ‘GESPian’ was thus introduced in 2009. The  GESPian identity was articulated in four desired outcomes: engaged learner, confident individual, responsible citizen and successful contributor.
+In 2008, the principal and the staff set the next phase of school growth through a re-envisioning exercise. This marked another milestone in the school’s journey of continuous improvement: the beginning of the next stage of school excellence. The school saw the need to strengthen school pride and identity among its students. The term ‘GESPian’ was thus introduced in 2009. The&nbsp; GESPian identity was articulated in four desired outcomes: engaged learner, confident individual, responsible citizen and successful contributor.
 
 The school places great emphasis on the students’ character development through a range of of programmes. These include the Community Involvement Programme (CIP) comprising the I-TOUCH programme. The school also provides a caring and psychosocial environment via a ‘discipline with dignity’ approach, using restorative practice. As a result, the Champs@GESPS framework was created to reward and recognise CHAMP class and individuals for demonstrating desirable GESPS traits. It focuses on Service Learning (CIP), Servant Leadership (Student Leadership Development Programme) and Active Citizenry (National Education). The school has a structured school-wide student leadership approach, which encompasses school-based leadership and class-based leadership. For its efforts, the school received the Character Development Award in 2010. It was also accorded the Sustained Achievement Award for Sports and Aesthetics from 2008 to 2010 for its co-curricular activities, and clinched a silver for the CHERISH Award in 2010.
 
-To develop 21st-century competencies in its students and prepare them for life-long learning, the school’s Learning for Life Programme, ‘Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts’, emphasises the acquisition of values and life skills focusing on music and the performing arts.
+To develop 21st-century competencies in its students and prepare them for life-long learning, the school’s Learning for Life Programme,&nbsp;‘Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts’, emphasises the acquisition of values and life skills focusing on music and the performing arts.
 
 Principals:<br>
 \- Ms Ng Soh Hua (2001–2008)<br>
@@ -84,18 +85,15 @@ Principals:<br>
 | 2017 | Celebration of 15th Anniversary. |
 |
 
-#### **School Motto**
-\-
-
 #### **School Crest**
-<img src="/images/gesps1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/gesps1.png">
 
 The hand symbolises our students holding their future in their hands and the school providing a nurturing environment; protective and empowering.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1FZ9CH8aqjZn3INIFqjz_qAoZiE9v_0Jp/view?usp=share_link">**♫ Listen**</a> 
 
 Verse 1:<br>
 With hands to guide us, receive and nurture us,<br>

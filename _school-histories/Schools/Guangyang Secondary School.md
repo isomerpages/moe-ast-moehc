@@ -4,45 +4,46 @@ permalink: /school-histories/guangyang-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/guangyangsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/guangyangsec1.jpg">
 
 ### **Guangyang Secondary School**
-[URL to website](https://guangyangsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://guangyangsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLnssMyJi_YGeXnMKJIb7u7oK7q3oWaQjh7cqxeDR6LGuElpO-Z4Tq87zcDSXfGTaPvbcr_dD0zwCa/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/guangyangsec2.jpg">  
-<img src="/images/guangyangsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec2.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec3.jpg">  
-<img src="/images/guangyangsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec3.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec4.jpg">  
-<img src="/images/guangyangsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec4.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec6.jpg">  
-<img src="/images/guangyangsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec6.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec7.jpg">  
-<img src="/images/guangyangsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec7.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec8.jpg">  
-<img src="/images/guangyangsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec8.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec9.jpg">  
-<img src="/images/guangyangsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec9.jpg">
 </a></p>
 
 <p><a href="/images/guangyangsec10.jpg">  
-<img src="/images/guangyangsec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec10.jpg">
 </a></p>
 
 <br clear="left">
@@ -98,14 +99,14 @@ Principals:<br>
 Strong in Principles, Steadfast in Duty
 
 #### **School Crest**
-<img src="/images/guangyangsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/guangyangsec1.jpg">
 
 The school crest reflects the students’ aspiration to illuminate the world with their radiance, like the dawn of the rising sun over the vast ocean. The exuding energy of the sun brings life and growth, radiating with integrity, courage and steadfastness. The Guangyang spirit guides one confidently into the future to contribute to society – by impacting lives and excelling in all pursuits.
 
 The colours of the school crest are gold and blue. Gold symbolises strength in principles, while blue denotes being steadfast in duty, which together form the school motto.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1_twE-O0pLZ6g_Gsph3o7lZxi7ald2xti/view?usp=share_link">**♫ Listen**</a> 
 
 In Guangyang we start with a sense of purpose<br>
 We are strong in principles, steadfast in duty<br>

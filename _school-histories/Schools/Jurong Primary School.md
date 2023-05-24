@@ -4,57 +4,57 @@ permalink: /school-histories/jurong-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jurongpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongpri1.jpg">
 
 ### **Jurong Primary School**
-[URL to website](https://jurongpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://jurongpri.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLk4xBL6n87KUMdg6ciu2d9cUmE6uLCj7uj7O85OfEM_u2PcH6eIbLRfPI4e6NsGRo6J8FIQKY2oVp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jurongpri2.jpg">  
-<img src="/images/jurongpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri2.jpg">
 </a></p>
 
 <p><a href="/images/jurongpri3.jpg">  
-<img src="/images/jurongpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri3.jpg">
 </a></p>
 
 <p><a href="/images/jurongpri4.jpg">  
-<img src="/images/jurongpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongpri5.jpg">  
-<img src="/images/jurongpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri5.jpg">
 </a></p>
 
 <p><a href="/images/jurongpri6.jpg">  
-<img src="/images/jurongpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri6.jpg">
 </a></p>
 
 <p><a href="/images/jurongpri7.jpg">  
-<img src="/images/jurongpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongpri8.jpg">  
-<img src="/images/jurongpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri8.jpg">
 </a></p>
 
 <p><a href="/images/jurongpri9.jpg">  
-<img src="/images/jurongpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Jurong Primary School was formed through the merger of Jurong Primary School and Boon Lay Primary School in 2006. The merged school occupied the location of Boon Lay Primary School at Jurong East Street 32 while retaining the name of Jurong Primary School. It embraces the rich traditions, history and heritage of the two schools. 
+Jurong Primary School was formed through the merger of Jurong Primary School and Boon Lay Primary School in 2006. The merged school occupied the location of Boon Lay Primary School at Jurong East Street 32 while retaining the name of Jurong Primary School. It embraces the rich traditions, history and heritage of the two schools.&nbsp;
 
-In 1950, Jurong Road School was built along Old Jurong Road with an enrolment of 100 students, three teachers and Mr Phoa Hock Seng as its first principal. The school was renamed Jurong Morning School in 1954, and the following year became known as Jurong School I and II. By then, the enrolment had grown to 318 students with a staff of 16 teachers. Majority of the students came from the nearby farming communities. 
+In 1950, Jurong Road School was built along Old Jurong Road with an enrolment of 100 students, three teachers and Mr Phoa Hock Seng as its first principal. The school was renamed Jurong Morning School in 1954, and the following year became known as Jurong School I and II. By then, the enrolment had grown to 318 students with a staff of 16 teachers. Majority of the students came from the nearby farming communities.&nbsp;
 
 The school’s intake grew to 1,510 students in 38 classes and had two sessions by 1983. On 1 January 1985, Jurong Primary School relocated to a new site at Jurong East Avenue 1. The school was also gaining recognition for its academic and co-curricular achievements in the 1990s.
 
@@ -97,7 +97,7 @@ Principals:<br>
 Reach In to Reach Out
 
 #### **School Crest**
-<img src="/images/jurongpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongpri1.jpg">
 
 **Colours Representation**<br>
 Red: Equality and universal brotherhood in mankind<br>
@@ -106,7 +106,7 @@ Blue: Steadfastness and commitment<br>
 Black: Perseverance in Learning
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1x49reMzX9aqHdZIJNchal355GBR86P9Q/view?usp=share_link">**♫ Listen**</a> 
 
 We sing with pride and loyalty<br>
 With our school we grow and glow<br>

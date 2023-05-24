@@ -4,45 +4,46 @@ permalink: /school-histories/greenridge-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/greenridgesec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/greenridgesec1.jpg">
 
 ### **Greenridge Secondary School**
-[URL to website](https://greenridgesec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://greenridgesec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmHhc-aqwXkvrM5FHH5QqdsArMKpSYo2-dSW9vhdi-HRRa6X8PVU83aQDGohwUrBpu5aNgZ5POrYNT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/greenridgesec2.jpg">  
-<img src="/images/greenridgesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec2.jpg">
 </a></p>
 
 <p><a href="/images/greenridgesec3.jpg">  
-<img src="/images/greenridgesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec3.jpg">
 </a></p>
 
 <p><a href="/images/greenridgesec4.jpg">  
-<img src="/images/greenridgesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/greenridgesec5.jpg">  
-<img src="/images/greenridgesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec5.jpg">
 </a></p>
 
 <p><a href="/images/greenridgesec6.jpg">  
-<img src="/images/greenridgesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec6.jpg">
 </a></p>
 
 <p><a href="/images/greenridgesec7.jpg">  
-<img src="/images/greenridgesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/greenridgesec8.jpg">  
-<img src="/images/greenridgesec8.jpg" style="width:25%;margin-left:25px;" align = "left">
+<img align="left" style="width:25%;margin-left:25px;" src="/images/greenridgesec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -50,7 +51,7 @@ third_nav_title: Schools
 #### **School History**
 Greenridge Secondary School started as Dunearn Secondary Technical School (DSTS), which was established in 1964. The school was officially opened on 14 May 1965 by then Deputy Prime Minister Dr Toh Chin Chye.
 
-DSTS played an instrumental role in nation-building during the early years of Singapore’s independence. In the 1960s, Singapore needed more technically trained citizens to meet the rapid industrialisation needs for the economy, and DSTS was one of the first technical schools to be built. Equipped with the best technical facilities of the time, DSTS provided quality technical education to resident students and students from other schools in the vicinity. 
+DSTS played an instrumental role in nation-building during the early years of Singapore’s independence. In the 1960s, Singapore needed more technically trained citizens to meet the rapid industrialisation needs for the economy, and DSTS was one of the first technical schools to be built. Equipped with the best technical facilities of the time, DSTS provided quality technical education to resident students and students from other schools in the vicinity.&nbsp;
 
 In June 1992, DSTS moved to its present location in Bukit Panjang and was one of the pioneer secondary schools in the Holland-Bukit Panjang constituency. The school was renamed Greenridge Secondary School because of the lush greenery surrounding it and because ‘Bukit Panjang’ means ‘ridge’ in Malay. Greenridge Secondary School was officially opened on 16 July 1994.
 
@@ -90,14 +91,14 @@ Principals:<br>
 From Each His Best
 
 #### **School Crest**
-<img src="/images/greenridgesec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/greenridgesec1.jpg">
 
 The school crest in red, green and gold colours is shaped like a shield to reflect Greenridge Secondary School’s protective role for the students. The school motto, ‘From Each His Best’, exhorts every student to do his or her best in everything. It is stated boldly below the crest as it serves as the guiding principle for all endeavours.
 
 The five arms above the motto represents the strive to move upwards and outwards. They also symbolise the five ways in which the school aims to support the total development of students: cognitive development; aesthetic appreciation; physical growth; inculcation of healthy habits and positive attitudes; and promotion of social cohesion through understanding, appreciation and mutual respect.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1WQ4RlQPrPzu8-Z8U_vlxQcKPeeSHnAms/view?usp=share_link">**♫ Listen**</a> 
 
 In Greenridge, we strive to stand<br><br>
 Head and shoulders above the rest<br>

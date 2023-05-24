@@ -4,16 +4,17 @@ permalink: /school-histories/moulmein-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/moulmeinpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/moulmeinpri1.png">
 
 ### **Moulmein Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHFEJQki31j71F0Gv-qPxOldXl8K4Yah6FtVQzWfTDZ2MYU4xXOaV_NMShx3AOGyhqbG2u-TuZ3rgf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/moulmeinpri2.jpg">  
-<img src="/images/moulmeinpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/moulmeinpri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -37,15 +38,17 @@ In January 2002, Moulmein Primary School merged with Swiss Cottage Primary Schoo
 Mindful and Steadfast
 
 #### **School Crest**
-<img src="/images/moulmeinpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/moulmeinpri1.png">
 
-The crest is a distinctive graphic of a **fountain**, which symbolises the never-ending source of knowledge as well as the youthful exuberance and vitality of the school. Rising straight into the air are **three jets of water**, each representing an important aspect of educational development, namely moral, mental and physical. Together they focus on the total development of the child – character, mind and body. The jets rise from different points, symbolic of the varying needs and capabilities of the pupils. This underlines the philosophy of the school, which is to develop each and every child to his fullest potential.
+The crest is a distinctive graphic of a&nbsp;**fountain**, which symbolises the never-ending source of knowledge as well as the youthful exuberance and vitality of the school. Rising straight into the air are&nbsp;**three jets of water**, each representing an important aspect of educational development, namely moral, mental and physical. Together they focus on the total development of the child – character, mind and body. The jets rise from different points, symbolic of the varying needs and capabilities of the pupils. This underlines the philosophy of the school, which is to develop each and every child to his fullest potential.
 
-The logo is set in **red** and **blue**, signifying oneness and serenity. The **white** background expresses purity of thought and deed.
+The logo is set in&nbsp;**red**&nbsp;and&nbsp;**blue**, signifying oneness and serenity. The&nbsp;**white**&nbsp;background expresses purity of thought and deed.
 
-The logo also takes the form of the school initial **M**. It is the symbol of the school’s aspiration – moving towards greater achievements and constantly mindful of its responsibilities towards the nation. From this is derived the school motto: “Mindful and Steadfast”.
+The logo also takes the form of the school initial&nbsp;**M**. It is the symbol of the school’s aspiration – moving towards greater achievements and constantly mindful of its responsibilities towards the nation. From this is derived the school motto: “Mindful and Steadfast”.
 
 #### **School Song**
+<small>*School song unavailable*</small>	
+
 Let us in Moulmein Primary School<br>
 Be mindful and steadfast<br>
 Praise the beauty that surrounds us<br>

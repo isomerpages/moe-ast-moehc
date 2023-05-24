@@ -4,41 +4,42 @@ permalink: /school-histories/marsiling-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/marsilingsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/marsilingsec1.jpg">
 
 ### **Marsiling Secondary School**
-[URL to website](https://marsilingsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://marsilingsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRKnZn4dXaLyYpaixlpIZcxi6k-Om5uMq5oQqRAzuCTz4NZuimg0gwEVf6VsESKEFIUzgfNVCaFMU7/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/marsilingsec2.jpg">  
-<img src="/images/marsilingsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec2.jpg">
 </a></p>
 
 <p><a href="/images/marsilingsec3.jpg">  
-<img src="/images/marsilingsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec3.jpg">
 </a></p>
 
 <p><a href="/images/marsilingsec4.jpg">  
-<img src="/images/marsilingsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/marsilingsec4.jpg">
 </a></p>
 
 <p><a href="/images/marsilingsec5.jpg">  
-<img src="/images/marsilingsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec5.jpg">
 </a></p>
 
 <p><a href="/images/marsilingsec6.jpg">  
-<img src="/images/marsilingsec6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/marsilingsec6.jpg">
 </a></p>
 
 <p><a href="/images/marsilingsec7.jpg">  
-<img src="/images/marsilingsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec7.jpg">
 </a></p>
 
 <p><a href="/images/marsilingsec8.jpg">  
-<img src="/images/marsilingsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -77,14 +78,14 @@ Principals:<br>
 Make Your Mark
 
 #### **School Crest**
-<img src="/images/marsilingsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/marsilingsec1.jpg">
 
-The tree represents constant personal growth and resilience. It also symbolises responsibility to the environment and sustainability. The heart, formed by two hands, symbolises respect and care for others, as well as responsibility in carrying out one’s role in the family, school and community. The star stands for the school motto, ‘Make Your Mark’. The elements form an ‘M’ shape, representing Marsiling Secondary School. It also represents the doors of education opening to knowledge, opportunities and the goal of ‘making your mark’ in the world.
+The tree&nbsp;represents constant personal growth and resilience. It also symbolises responsibility to the environment and sustainability. The heart, formed by two hands, symbolises respect and care for others, as well as responsibility in carrying out one’s role in the family, school and community. The star stands for the school motto, ‘Make Your Mark’. The elements form an ‘M’ shape, representing Marsiling Secondary School. It also represents the doors of education opening to knowledge, opportunities and the goal of ‘making your mark’ in the world.
 
-The colour gold represents excellence, blue represents professionalism and stability, while red signifies passion. Together they symbolise a balanced, holistic education that empowers students to strive.
+The colour gold&nbsp;represents excellence, blue represents professionalism and stability, while red signifies passion. Together they symbolise a balanced, holistic education that empowers students to strive.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1dPR1korlh7RT2S5MzU9_5p2CE_2fpaRS/view?usp=share_link">**♫ Listen**</a>
 
 Marsiling our school, we pledge to strive<br>
 To forge ahead with spirits high<br>

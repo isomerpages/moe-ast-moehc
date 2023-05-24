@@ -4,45 +4,46 @@ permalink: /school-histories/fuchun-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fuchunsec9.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuchunsec9.jpg">
 
 ### **Fuchun Secondary School**
-[URL to website](https://fuchunsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fuchunsec.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQN90sI6OQ58iSEUiNE8ClY7trE4JNO1gOU8x_BcS10qCPUkF_tHS4RdzHnNLAmNW8ymdbPfEJ05gjy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fuchunsec2.jpg">  
-<img src="/images/fuchunsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec2.jpg">
 </a></p>
 
 <p><a href="/images/fuchunsec3.jpg">  
-<img src="/images/fuchunsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec3.jpg">
 </a></p>
 
 <p><a href="/images/fuchunsec4.jpg">  
-<img src="/images/fuchunsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fuchunsec5.jpg">  
-<img src="/images/fuchunsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec5.jpg">
 </a></p>
 
 <p><a href="/images/fuchunsec6.jpg">  
-<img src="/images/fuchunsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec6.jpg">
 </a></p>
 
 <p><a href="/images/fuchunsec7.jpg">  
-<img src="/images/fuchunsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fuchunsec8.jpg">  
-<img src="/images/fuchunsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunsec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -50,13 +51,13 @@ third_nav_title: Schools
 #### **School History**
 Established in 1986, Fuchun Secondary School is a government co-educational school located at 21 Woodlands Avenue 1.  
   
-In 1999, the school became single-session. The Fuchun Student Creed was launched in 2003, to create a sense of identity and imbue the Fuchun ICARE values in every student. Fuchun celebrated its 20th year anniversary in 2006, with its first entry into the Singapore Book of records for the largest heart formation made of straw hearts.
+In 1999, the&nbsp;school became single-session. The Fuchun Student Creed was launched in 2003, to create a sense of identity and imbue the Fuchun&nbsp;ICARE&nbsp;values in every student.&nbsp;Fuchun celebrated its 20th&nbsp;year anniversary in 2006, with its first entry into the Singapore Book of records for the largest heart formation made of straw hearts.
 
-The school celebrated the birth of its mascot, Eon, on 15 January 2014. This endearing mascot  was collaboratively envisioned by staff and students. The name Eon, is derived from the words ‘eagle’ and ‘lion’ and also makes reference to the notions of eternity and legacy.  Eon is an embodiment of the school values. The eagle stands for pride, **integrity**, and **responsibility** whilst the lion embodies **adaptability**, **camaraderie** and the strive for **excellence.**
+The school celebrated the birth of its mascot, Eon, on 15 January 2014. This endearing mascot&nbsp; was collaboratively envisioned by staff and students.&nbsp;The name Eon, is derived from the words ‘eagle’ and ‘lion’ and also makes reference to the notions of eternity and legacy.&nbsp; Eon is&nbsp;an embodiment of the school values.&nbsp;The eagle stands for pride,&nbsp;**integrity**, and&nbsp;**responsibility**&nbsp;whilst the lion embodies&nbsp;**adaptability**,&nbsp;**camaraderie**&nbsp;and the strive for&nbsp;**excellence.**
 
-In 2014, Fuchun Secondary School was accorded the Applied Learning Programme, ‘Innovations in Science and Technology for Sustain-Ability’, and the Learning for Life Programme, ‘Values through Dance’.
+In 2014,&nbsp;Fuchun Secondary School was accorded the Applied Learning Programme, ‘Innovations in Science and Technology for&nbsp;Sustain-Ability’,&nbsp;and the Learning for Life Programme, ‘Values through Dance’.
 
-2016 saw the school’s 30th year in educating and shaping young minds.  Eon went through a makeover in 2018 and a more youthful and agile Eon 2.0 joined the Fuchun family. Eon 2.0 is vibrant, dynamic and embodied with the joy of learning. He exemplifies the Fuchun student who is preparing for the future, developing life-long learning attitudes, skills and 21st Century Competencies.
+2016 saw the school’s 30th&nbsp;year in educating and shaping young minds. &nbsp;Eon went through a makeover in 2018 and&nbsp;a more youthful and agile Eon 2.0 joined the Fuchun family.&nbsp;Eon 2.0 is vibrant, dynamic and embodied with the joy of learning. He exemplifies the Fuchun student who is preparing for the future, developing life-long learning attitudes, skills and 21st Century Competencies.
 
 Principals:<br>
 \- Mrs Ngiam Geak Kim (1986–1996)<br>
@@ -84,12 +85,12 @@ Principals:<br>
 True to Self
 
 #### **School Crest**
-<img src="/images/fuchunsec9.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuchunsec9.jpg">
 
-The school crest is designed in a stylised ‘F’ to represent the name of the school and the flame of truth. The three little steps beside the flame signify that truth is not always easy to express and must therefore be taken step-by-step. The red colour of the crest symbolises courage to speak the truth.
+The school crest is designed in a stylised ‘F’ to represent the name of the school and the flame of truth. The three little steps beside the flame signify that truth is not always easy to express and must therefore be taken step-by-step. The red&nbsp;colour of the crest symbolises courage to speak the truth.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1D8uyG1f-J5HA1BFhlOkVyH8-bGP9AyI_/view?usp=share_link">**♫ Listen**</a> 
 
 Upon the shoulders of all<br>
 Rests the task of discerning truth<br>

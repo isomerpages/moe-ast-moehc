@@ -4,7 +4,7 @@ permalink: /school-histories/hillgrove-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hillgrovesec1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec1.jpg">
 
 ### **Hillgrove Secondary School** 
 [URL to website](https://www.hillgrovesec.moe.edu.sg/) 
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIN1BQuekyl1SOTS8goxGJuvCm545Zhfj41M3enLLzgob8rNXABlr9KZ7rHJkTmcYad7_Aqji-_yDl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hillgrovesec2.jpg">  
-<img src="/images/hillgrovesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec2.jpg">
 </a></p>
 
 <p><a href="/images/hillgrovesec3.jpg">  
-<img src="/images/hillgrovesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec3.jpg">
 </a></p>
 
 <p><a href="/images/hillgrovesec4.jpg">  
-<img src="/images/hillgrovesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hillgrovesec5.jpg">  
-<img src="/images/hillgrovesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec5.jpg">
 </a></p>
 
 <p><a href="/images/hillgrovesec6.jpg">  
-<img src="/images/hillgrovesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec6.jpg">
 </a></p>
 
 <p><a href="/images/hillgrovesec7.jpg">  
-<img src="/images/hillgrovesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hillgrovesec8.jpg">  
-<img src="/images/hillgrovesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec8.jpg">
 </a></p>
 
 <p><a href="/images/hillgrovesec9.jpg">  
-<img src="/images/hillgrovesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -56,7 +57,7 @@ Hillgrove Secondary School (HGV) is a government co-educational secondary school
 
 HGV operated from the premises of Yusof Ishak Secondary School from January 2001 to February 2002. The school moved to its current location at 10 Bukit Batok Street 52 on 2 February 2002 and was officially opened on 5 March 2004. By then, the school had an enrolment of 1,500 students and a staff strength of 90. In 2011, Hillgrove celebrated its 10th anniversary.
 
-In 2013, HGV gained niche status in flight and aerospace (F&A). In the following year, F&A was repositioned as the Applied Learning Programme, which develops students’ understanding of the application of STEM (science, technology, engineering and mathematics) in the field of F&A. It heightens students’ awareness of careers in aviation and space industries as well as engages students in projects that develop competencies such as confidence in communication and critical thinking.
+In 2013, HGV gained niche status in flight and aerospace (F&amp;A). In the following year, F&amp;A was repositioned as the Applied Learning Programme, which develops students’ understanding of the application of STEM (science, technology, engineering and mathematics) in the field of F&amp;A. It heightens students’ awareness of careers in aviation and space industries as well as engages students in projects that develop competencies such as confidence in communication and critical thinking.
 
 In 2015, HGV established its Learning for Life Programme in the arts. It focuses on nurturing Hillgrovians through the arts by providing platforms for them to articulate creative ideas effectively. The programme seeks to develop students’ understanding and appreciation of various art forms, as well as to inspire them to be arts enthusiasts and professionals.
 
@@ -89,16 +90,16 @@ Principals:<br>
 United We Soar
 
 #### **School Crest**
-<img src="/images/hillgrovesec1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec1.jpg">
 
-The school crest is set against a clear background. It is distinctively marked by a grove of trees with intertwined trunks, inspired by the name of the school. The interlinking of the trunks represents the active interactions between Hillgrove teachers and students. It also signifies the moral and spiritual support that students draw from one another. 
+The school crest is set against a clear background. It is distinctively marked by a grove of trees with intertwined trunks, inspired by the name of the school. The interlinking of the trunks represents the active interactions between Hillgrove teachers and students. It also signifies the moral and spiritual support that students draw from one another.&nbsp;
 
-The slant at the base suggests that the trees have firm roots and stand tall on the slope of a hill. This is another reference to the school’s name. The large crown of 18 leaves in varying sizes represents healthy growth, which produces shelter and shade for those who seek it. The shared foliage signifies the common goal and unity that staff and students share. 
+The slant at the base suggests that the trees have firm roots and stand tall on the slope of a hill. This is another reference to the school’s name. The large crown of 18 leaves in varying sizes represents healthy growth, which produces shelter and shade for those who seek it. The shared foliage signifies the common goal and unity that staff and students share.&nbsp;
 
 Set together, the design elements express the school’s desire to be a safe environment that encourages young people to grow in values and skills needed to face life’s challenges.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1V9TZOUf79IMNfBjJR2xZ4CkieW_URtVp/view?usp=share_link">**♫ Listen**</a> 
 
 With tender care<br>
 Our seeds are sown<br>

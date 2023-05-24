@@ -4,45 +4,46 @@ permalink: /school-histories/fern-green-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ferngreenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ferngreenpri1.png">
 
 ### **Fern Green Primary School**
-[URL to website](https://ferngreenpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://ferngreenpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7HZaswVdElbImjjpa6vln77UDKXW781DM4fA3EAQMjEedJqUU4t8zHckpIikLyg_nvrvooKBEIb9U/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ferngreenpri2.jpg">  
-<img src="/images/ferngreenpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri2.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri3.jpg">  
-<img src="/images/ferngreenpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri3.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri4.jpg">  
-<img src="/images/ferngreenpri4.jpg" style="width:31%;margin-right:15px;" align = "left">
+<img align="left" style="width:31%;margin-right:15px;" src="/images/ferngreenpri4.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri5.jpg">  
-<img src="/images/ferngreenpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri5.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri6.jpg">  
-<img src="/images/ferngreenpri6.jpg" style="width:31%;margin-right:15px;" align = "left">
+<img align="left" style="width:31%;margin-right:15px;" src="/images/ferngreenpri6.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri7.jpg">  
-<img src="/images/ferngreenpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri7.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri8.jpg">  
-<img src="/images/ferngreenpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri8.jpg">
 </a></p>
 
 <p><a href="/images/ferngreenpri9.jpg">  
-<img src="/images/ferngreenpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -67,14 +68,14 @@ Principal:<br>
 \-
 
 #### **School Crest**
-<img src="/images/ferngreenpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ferngreenpri1.png">
 
 The leaves and hand depict the school’s belief in nurturing care and talents, and its commitment to an inquiry approach to teaching and learning, and care for the environment.
 
 They also form the letter, ‘F’, which represents ‘Fern Green’.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1lDuGQW-5SgHVN9cPG1sb8Zxb0-pNMgsN/view?usp=share_link">**♫ Listen**</a> 
 
 We are the seedlings<br>
 With potential for growth<br>
@@ -94,7 +95,7 @@ Serve with pride<br>
 Serve with joy<br>
 Bringing glory to our school
 
-Learning is joyful and we will never ever stop<br>
+Learning is joyful and we will&nbsp;never ever stop<br>
 We are bright<br>
 We are bold<br>
 Fern Green Primary School
@@ -107,7 +108,7 @@ Serve with pride<br>
 Serve with joy<br>
 Bringing glory to our school
 
-Learning is joyful and we will never ever stop<br>
+Learning is joyful and we will&nbsp;never ever stop<br>
 We are bright<br>
 We are bold<br>
 Fern Green Primary School

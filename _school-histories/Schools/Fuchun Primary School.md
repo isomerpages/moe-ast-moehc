@@ -4,47 +4,48 @@ permalink: /school-histories/fuchun-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fuchunpri9.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuchunpri9.png">
 
 ### **Fuchun Primary School**
-[URL to website](https://fuchunpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://fuchunpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVejgexwWmBBYOEQBsvZEbhnomiQTt-G3sNO4Tvp-OqS2g6KBTQhCjLs7XUOzFutZFN4wDkPa-bqp_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fuchunpri1.jpg">  
-<img src="/images/fuchunpri1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri1.jpg">
 </a></p>
 
 <p><a href="/images/fuchunpri2.jpg">  
-<img src="/images/fuchunpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri2.jpg">
 </a></p>
 
 <p><a href="/images/fuchunpri3.jpg">  
-<img src="/images/fuchunpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri3.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/fuchunpri4.jpg">  
-<img src="/images/fuchunpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri4.jpg">
 </a></p>
 
 <p><a href="/images/fuchunpri5.jpg">  
-<img src="/images/fuchunpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri5.jpg">
 </a></p>
 
 <p><a href="/images/fuchunpri6.jpg">  
-<img src="/images/fuchunpri6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/fuchunpri6.jpg">
 </a></p>
 
 <p><a href="/images/fuchunpri7.jpg">  
-<img src="/images/fuchunpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri7.jpg">
 </a></p>
 
 <p><a href="/images/fuchunpri8.jpg">  
-<img src="/images/fuchunpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fuchunpri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -80,16 +81,17 @@ Principals:<br>
 Ever Onward
 
 #### **School Crest**
-<img src="/images/fuchunpri9.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fuchunpri9.png">
 
-The school emblem is created through the fusion of F, C, P & S which stands for Fuchun Primary School.
+The school emblem is created through the fusion of F, C, P &amp; S which stands for Fuchun Primary School.
 
 The design projects togetherness and unity, and the Bird-in-Flight motif symbolises the soaring spirit of both students and staff. This is in keeping with the school motto "EVER ONWARD".
 
 The colours, gold and blue, symbolise purity and success through perseverance.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1kDHsDV2YPHDAp5jS7m0f0XHK6k4Rhw3W/view?usp=share_link">**♫ Listen**</a> 
+
 
 We are children of Fuchun School<br>
 Ever proud to be in this school<br>

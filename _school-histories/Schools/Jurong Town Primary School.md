@@ -4,30 +4,31 @@ permalink: /school-histories/jurong-town-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jurongtownpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongtownpri1.png">
 
 ### **Jurong Town Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfWL0TtzjqYGosIg8zwN-YG0vUvyUZNGvxkTAVnMvbf3kT2ae7c3Y5nzyutTSg4DHs7kdeNDsWPWBf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jurongtownpri2.jpg">  
-<img src="/images/jurongtownpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongtownpri2.jpg">
 </a></p>
 
 <p><a href="/images/jurongtownpri3.jpg">  
-<img src="/images/jurongtownpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongtownpri3.jpg">
 </a></p>
 
 <p><a href="/images/jurongtownpri4.jpg">  
-<img src="/images/jurongtownpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongtownpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jurongtownpri5.jpg">  
-<img src="/images/jurongtownpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongtownpri5.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,14 +61,16 @@ In 2003, Jurong Town Primary School merged with Merlimau Primary School and Yung
 From Each His Best
 
 #### **School Crest**
-<img src="/images/jurongtownpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jurongtownpri1.png">
 
-The colour **gold** symbolises the school’s nurturing youth and the **red** signifies their vigour and zest to mature and succeed in their quest for knowledge.<br>
-The **four linked rings** represent the united multi-racial society and the four official languages: Chinese, English, Malay and Tamil.<br>
-The **gear** symbol represents continued progress and the school’s achievements.<br>
-The **building** represents the school.
+The colour&nbsp;**gold**&nbsp;symbolises the school’s nurturing youth and the&nbsp;**red**&nbsp;signifies their vigour and zest to mature and succeed in their quest for knowledge.<br>
+The&nbsp;**four linked rings**&nbsp;represent the united multi-racial society and the four official languages: Chinese, English, Malay and Tamil.<br>
+The&nbsp;**gear**&nbsp;symbol represents continued progress and the school’s achievements.<br>
+The&nbsp;**building**&nbsp;represents the school.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Boys and girls of Jurong Town<br>
 Let’s put our learning to good account<br>
 We work with our heads<br>

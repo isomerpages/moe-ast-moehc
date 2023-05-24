@@ -4,58 +4,59 @@ permalink: /school-histories/keng-seng-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/kengsengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kengsengpri1.png">
 
 ### **Keng Seng Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSIAyK-U23dkiFvOMFoAG59Di07LK5269XiZcTNlhsAKNEAITZHzQO6s5QE-VA-u6-ZlHtVFJisNDB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/kengsengpri2.jpg">  
-<img src="/images/kengsengpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri2.jpg">
 </a></p>
 
 <p><a href="/images/kengsengpri3.jpg">  
-<img src="/images/kengsengpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri3.jpg">
 </a></p>
 
 <p><a href="/images/kengsengpri4.jpg">  
-<img src="/images/kengsengpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kengsengpri5.jpg">  
-<img src="/images/kengsengpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri5.jpg">
 </a></p>
 
 <p><a href="/images/kengsengpri6.jpg">  
-<img src="/images/kengsengpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri6.jpg">
 </a></p>
 
 <p><a href="/images/kengsengpri7.jpg">  
-<img src="/images/kengsengpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri7.jpg">
 </a></p>
 
 <p><a href="/images/kengsengpri8.jpg">  
-<img src="/images/kengsengpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/kengsengpri9.jpg">  
-<img src="/images/kengsengpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/kengsengpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Keng Seng Primary School was established on 2 January 1979 from the merger of three schools – Keng Seng School, Strathmore Primary School and Friendly Hill Primary School. Located at 143 Alexandra Road, it was officially declared open on 27 June 1980.
+Keng Seng Primary School&nbsp;was established on 2 January 1979 from the merger of three schools –&nbsp;Keng Seng School, Strathmore Primary School and Friendly Hill Primary School. Located at 143 Alexandra Road, it was officially declared open on 27 June 1980.
 
 In February 1990, the school began a project, “Care and Share”, to inculcate in the students a spirit of cooperation and the right attitude towards work. The project included a “buddy system”, whereby upper primary students were paired with lower primary students to help the younger children with their reading.
 
-The school had a regular newsletter, which was known as _Delight_.
+The school had a regular newsletter, which was known as&nbsp;_Delight_.
 
 In January 2002, Keng Seng Primary School merged with Alexandra Hill Primary School, Bukit Ho Swee Primary School and Henderson Primary School to become Gan Eng Seng Primary School.
 
@@ -76,15 +77,17 @@ Last Serving Principal:<br>
 Strive For Success
 
 #### **School Crest**
-<img src="/images/kengsengpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/kengsengpri1.png">
 
-The crest is made up of the combination of the outstanding qualities of three schools. The name **Keng Seng** is taken from Keng Seng School. The **logo** is taken from Friendly Hill Primary School. The **motto** is taken from Strathmore Primary School.
+The crest is made up of the combination of the outstanding qualities of three schools. The name&nbsp;**Keng Seng**&nbsp;is taken from Keng Seng School. The&nbsp;**logo**&nbsp;is taken from Friendly Hill Primary School. The&nbsp;**motto**&nbsp;is taken from Strathmore Primary School.
 
-The **three figures** represent the three schools, which are united harmoniously under one roof. **Hands** are clasped and raised to symbolise unity, harmony and interdependence of one to the other in striving for the success of the school and country.
+The&nbsp;**three figures**&nbsp;represent the three schools, which are united harmoniously under one roof.&nbsp;**Hands**&nbsp;are clasped and raised to symbolise unity, harmony and interdependence of one to the other in striving for the success of the school and country.
 
-The school colours **beige** and **chocolate brown** signify the dignity of work and the labour force and the cultivation of the correct attitude towards labour. The school’s **motto** “Strive For Success” underlines the crest.
+The school colours&nbsp;**beige**&nbsp;and&nbsp;**chocolate brown**&nbsp;signify the dignity of work and the labour force and the cultivation of the correct attitude towards labour. The school’s&nbsp;**motto**&nbsp;“Strive For Success” underlines the crest.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We’re young nation builders<br>
 Despite our tender age<br>
 And with Keng Seng as our guide<br>

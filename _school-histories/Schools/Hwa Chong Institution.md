@@ -4,47 +4,48 @@ permalink: /school-histories/hwa-chong-institution/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/hwachonginstitution1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hwachonginstitution1.jpg">
 
 ### **Hwa Chong Institution**
-[URL to website](https://www.hci.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.hci.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZsbg47CS1gp2rjlz7drdOWr0-v_tX3A8uXu1tDvTh4a1Uf4jc5mLWK_iZ02Or4ozAbGnGuHEO2SmI/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/hwachonginstitution2.jpg">  
-<img src="/images/hwachonginstitution2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution2.jpg">
 </a></p>
 
 <p><a href="/images/hwachonginstitution4.jpg">  
-<img src="/images/hwachonginstitution4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/hwachonginstitution4.jpg">
 </a></p>
 
 <p><a href="/images/hwachonginstitution3.jpg">  
-<img src="/images/hwachonginstitution3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution3.jpg">
 </a></p>
 
 <p><a href="/images/hwachonginstitution6.jpg">  
-<img src="/images/hwachonginstitution6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution6.jpg">
 </a></p>
 
 <p><a href="/images/hwachonginstitution5.jpg">  
-<img src="/images/hwachonginstitution5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/hwachonginstitution8.jpg">  
-<img src="/images/hwachonginstitution8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution8.jpg">
 </a></p>
 
 <p><a href="/images/hwachonginstitution7.jpg">  
-<img src="/images/hwachonginstitution7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution7.jpg">
 </a></p>
 
 <p><a href="/images/hwachonginstitution9.jpg">  
-<img src="/images/hwachonginstitution9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,14 +86,16 @@ Principals:<br>
 自强不息 (Tireless self-improvement with tenacity, innovation and passion)
 
 #### **School Crest**
-<img src="/images/hwachonginstitution1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/hwachonginstitution1.jpg">
 
 The school logo is a highly stylised flaming torch that symbolises not only a burning passion for knowledge and drive for excellence, but also a deep respect for progress and tradition. The logo is rendered in the school colour, red, in keeping with Chinese notions of symbolism, depicting life, vitality and strength. It takes its inspiration from the Chinese character ‘华’ (meaning ‘Chinese’), which represents the school’s name and origin (华中). The logo also reflects a passion for the school’s rich cultural heritage, and its mission of nurturing bicultural leaders for the nation.
 
 今日的校徽是由旧校徽演变而成的，其设计巧妙地结合火炬的图形与艺术化的“華”字，蕴含了华中建校的宗旨与校名的联系，以及推行双语双文化的教育使命与弘扬中华文化之丰富意涵。
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/12Uu0oIGs-Z_fVwwct8VpbJkHvT261tEJ/view?usp=share_link">**♫ Listen (Eng version)**</a> 
+<br>
+<a href="https://drive.google.com/file/d/1iyLmreROkFWHt5P4UTVDoYl5yOOD7zrL/view?usp=share_link" target="\_blank">**♫ Listen (Chi version)**</a>
 
 海天寥廓 云树苍茏 中有我华中<br>
 礼门义路 时雨春风 吾侪托帡幪<br>

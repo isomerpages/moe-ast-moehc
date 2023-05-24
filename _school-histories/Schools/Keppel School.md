@@ -4,16 +4,17 @@ permalink: /school-histories/keppel-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/keppelsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/keppelsch1.png">
 
 ### **Keppel School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYpz3FEMhlw5Xx8mWVpQFa__Qw8JOEy3wRISzKk8qJI-Xy8Oxj8sIcsWBXvpubJEk5iKljB0MjNIvs/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/keppelsch2.jpg">  
-<img src="/images/keppelsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/keppelsch2.jpg">
 </a></p>
 
 <br clear="left">
@@ -37,13 +38,14 @@ From 1996 to 2004, the Keppel Primary School building was used as the Corrupt Pr
 Knowledge begets supremacy
 
 #### **School Crest**
-<img src="/images/keppelsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/keppelsch1.png">
 
-\-
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>	
+
 Let’s all join in and happily sing<br>
 A gay and lively tune<br>
 To our beloved Keppel School<br>

@@ -4,29 +4,29 @@ permalink: /school-histories/fowlie-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/fowliepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fowliepri1.png">
 
 ### **Fowlie Primary School**
-[URL to website]() - may require to change in future when original website is removed
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSu3IoSxuR7SXVu0KAN4oINw6B5J3tpEU3Ni5yR8j1n5yPDgkjQ55beJ4FbmPAZpJtmPFRH-bcxm5f/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/fowliepri2.jpg">  
-<img src="/images/fowliepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fowliepri2.jpg">
 </a></p>
 
 <p><a href="/images/fowliepri3.jpg">  
-<img src="/images/fowliepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fowliepri3.jpg">
 </a></p>
 
 <p><a href="/images/fowliepri4.jpg">  
-<img src="/images/fowliepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fowliepri4.jpg">
 </a></p>
 
 <p><a href="/images/fowliepri5.jpg">  
-<img src="/images/fowliepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/fowliepri5.jpg">
 </a></p>
 
 <br clear="left">
@@ -36,7 +36,7 @@ Fowlie Primary School began as Fowlie School in 1956. It was located at Fowlie R
 
 In 1986, Seraya Primary School merged with Fowlie School, and the name of the school was changed to Fowlie Primary School.
 
-The school published a regular newsletter. It was originally named _Fowlink_, and later renamed _FPS News_.
+The school published a regular newsletter. It was originally named&nbsp;_Fowlink_, and later renamed&nbsp;_FPS News_.
 
 In December 1998, Fowlie Primary occupied the premises of the former Tanjong Katong Girls’ School until its new school building was completed in 2000.
 
@@ -62,12 +62,12 @@ Last Serving Principal:<br>
 Towards Excellence
 
 #### **School Crest**
-<img src="/images/fowliepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/fowliepri1.png">
 
-The crest includes symbols of the **torch** of learning, the open **book** of knowledge and the **laurel** of achievement, encircled by the name of the school and the school **motto**, “Towards Excellence”.
+The crest includes symbols of the&nbsp;**torch**&nbsp;of learning, the open&nbsp;**book**&nbsp;of knowledge and the&nbsp;**laurel**&nbsp;of achievement, encircled by the name of the school and the school&nbsp;**motto**, “Towards Excellence”.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+ <small>*School song unavailable*</small>
 
 At school we gather, each day with heart<br>
 Both light and gay, fresh and smart<br>

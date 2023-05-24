@@ -4,49 +4,50 @@ permalink: /school-histories/jing-shan-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jingshan1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jingshan1.png">
 
 ### **Jing Shan Primary School**
-[URL to website](https://jingshanpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://jingshanpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeo_AAa8Q7Vt9xSkB-hf8K0BumsciEpxk2HdbC5kE3uy9FQ49h28i0ViAmEjDU6xAaDp_z4Sb-B0zd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jingshan2.jpg">  
-<img src="/images/jingshan2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan2.jpg">
 </a></p>
 
 <p><a href="/images/jingshan3.jpg">  
-<img src="/images/jingshan3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan3.jpg">
 </a></p>
 
 <p><a href="/images/jingshan4.jpg">  
-<img src="/images/jingshan4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jingshan5.jpg">  
-<img src="/images/jingshan5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan5.jpg">
 </a></p>
 
 <p><a href="/images/jingshan6.jpg">  
-<img src="/images/jingshan6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan6.jpg">
 </a></p>
 
 <p><a href="/images/jingshan7.jpg">  
-<img src="/images/jingshan7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/jingshan8.jpg">  
-<img src="/images/jingshan8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan8.jpg">
 </a></p>
 
 <p><a href="/images/jingshan9.jpg">  
-<img src="/images/jingshan9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jingshan9.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ Mr Tan Boon Kak believed that the school should always strive for excellence by 
 
 In 1982, Chin San Public School became a full government school and changed its English name to Jing Shan Primary School. On 7 May 1982, it moved to its present site at 5 Ang Mo Kio Street 52. The school was officially opened on 6 July 1984. From 1999 to 2002, the school underwent PRIME upgrading.
 
-In 2019, the school merged with Da Qiao Primary School. The merger synergised the signature programmes and good practices to deliver holistic education and inspired a re-envisioning of a future-oriented, student-centric, values-driven school. In March of the same year, construction started for the building of an indoor sports hall and the refurbishment of the school to enhance the infrastructure for the provision of quality education.
+In 2019, the school merged with Da Qiao Primary School.&nbsp;The merger synergised the signature programmes and good practices to deliver holistic education and inspired a re-envisioning of a future-oriented, student-centric, values-driven school.&nbsp;In March of the same year, construction started for the building of an indoor sports hall and the refurbishment of the school to enhance the infrastructure for the provision of quality education.
 
 Principals:<br>
 \- Mr Goh Hiap Suan (1982)<br>
@@ -94,12 +95,12 @@ Principals:<br>
 Onward We Strive
 
 #### **School Crest**
-<img src="/images/jingshan1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jingshan1.png">
 
 The book represents knowledge, which the students must strive to achieve through hard work and perseverance. The torch symbolises education, which guides and leads the students towards wisdom and progress. The letters ‘J’ and ‘S’ are the initials of the school. The colour white signifies everlasting purity and virtue, while blue is a symbol of loyalty. With the motto, ‘Onward We Strive’, students are reminded to do their best and seek a better future.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Z7Lha1lW0Zeg7sPf-KEtkaEZlVyKgWRK/view?usp=share_link">**♫ Listen**</a> 
 
 We learn to tell what's right from wrong<br>
 Building bonds with everyone<br>

@@ -4,31 +4,31 @@ permalink: /school-histories/hua-kiau-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/huakiausch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/huakiausch1.png">
 
 ### **Hua Kiau School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/hua-kiau-school) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7z36qorHleZhS3MGcaYtlCpn9DTlgq1dS0geq4EUPgIp1cnM-asEzBV-Np6j4WVPqxWXlUqFb4yDZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/huakiausch2.jpg">  
-<img src="/images/huakiausch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huakiausch2.jpg">
 </a></p>
 
 <p><a href="/images/huakiausch3.jpg">  
-<img src="/images/huakiausch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huakiausch3.jpg">
 </a></p>
 
 <p><a href="/images/huakiausch4.jpg">  
-<img src="/images/huakiausch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huakiausch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/huakiausch5.jpg">  
-<img src="/images/huakiausch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/huakiausch5.jpg">
 </a></p>
 
 <br clear="left">
@@ -55,16 +55,3 @@ Principals:<br>
 | 1960 | Shift of campus to Pasir Panjang Hill. |
 | 1981 | Closure of Hua Kiau School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/huakiausch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-\-
-
-<br clear="left">
-
-#### **School Song**
-\-

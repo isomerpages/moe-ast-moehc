@@ -71,7 +71,8 @@ Principals:<br>
 \- Ms Poh Chwee Sian (1998–2003)<br>
 \- Mrs Wai Yin Pryke (2004–2010)<br>
 \- Mrs Wong Bin Eng (2011–2016)<br>
-\- Ms Patsy Neo Phei Tze (2016–present)
+\- Ms Patsy Neo Phei Tze (2016-2022) <br>
+\- Mrs Elsie Poey (2022 - present)
 
 #### **Key Milestones**
 

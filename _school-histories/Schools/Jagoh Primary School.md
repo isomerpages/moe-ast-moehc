@@ -4,20 +4,21 @@ permalink: /school-histories/jagoh-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/jagohpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jagohpri1.png">
 
 ### **Jagoh Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQKRl9KruYaSSUTdixyuLzitWGwNFrEb1dhyo-NNRhzAt7uE0lSqYjwQjY-tsNeolekJKYCsG6UJjY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/jagohpri2.jpg">  
-<img src="/images/jagohpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jagohpri2.jpg">
 </a></p>
 
 <p><a href="/images/jagohpri3.jpg">  
-<img src="/images/jagohpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/jagohpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -40,7 +41,7 @@ When the school closed in 1999, its students were transferred to Blangah Rise Pr
 Strive for Excellence
 
 #### **School Crest**
-<img src="/images/jagohpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/jagohpri1.png">
 
 The School Crest shall consist of three components:
 
@@ -57,6 +58,8 @@ The boldness of the ‘J’ signifies strength and steadfastness of character.
 The colour blue represents loyalty and the colour white signifies moral integrity and virtue.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 To Jagoh Primary School,<br>
 We come in hope and spirits high,<br>
 To seek all knowledge<br>

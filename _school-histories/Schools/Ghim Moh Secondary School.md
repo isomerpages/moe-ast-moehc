@@ -4,34 +4,35 @@ permalink: /school-histories/ghim-moh-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ghimmohsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ghimmohsec1.png">
 
 ### **Ghim Moh Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2JzLSDIQ1jaWv83I5G8jYAsQ4oQP037eYEaEssS1x03C46q7I8_w_iAP6SKsbrjVpFpW-APvzOIKn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ghimmohsec2.jpg">  
-<img src="/images/ghimmohsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ghimmohsec2.jpg">
 </a></p>
 
 <p><a href="/images/ghimmohsec3.jpg">  
-<img src="/images/ghimmohsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ghimmohsec3.jpg">
 </a></p>
 
 <p><a href="/images/ghimmohsec4.jpg">  
-<img src="/images/ghimmohsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ghimmohsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/ghimmohsec5.jpg">  
-<img src="/images/ghimmohsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ghimmohsec5.jpg">
 </a></p>
 
 <p><a href="/images/ghimmohsec6.jpg">  
-<img src="/images/ghimmohsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ghimmohsec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -41,7 +42,7 @@ Ghim Moh Secondary School occupied the premises of the former Alexandra Junior S
 
 From 1980 to 1991, the school also served as a pre-university centre. By the end of 1985, the school had an enrolment of 1,717 students and 44 classes in two sessions.
 
-In January 2007, Ghim Moh Secondary School merged with Jin Tai Secondary School to become Clementi Woods Secondary School. 
+In January 2007, Ghim Moh Secondary School merged with Jin Tai Secondary School to become Clementi Woods Secondary School.&nbsp;
 
 Last Serving Principal:
 \- Mr Kwok Kah Kuoy (1999 - 2005)
@@ -63,13 +64,16 @@ Last Serving Principal:
 Strive and Persevere
 
 #### **School Crest**
-<img src="/images/ghimmohsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ghimmohsec1.png">
 
-The initials **G** and **M** form a forceful symbol of a student who “strives and perseveres” in the pursuit of truth and ideals of education.
+The initials&nbsp;**G**&nbsp;and&nbsp;**M**&nbsp;form a forceful symbol of a student who “strives and perseveres” in the pursuit of truth and ideals of education.
 
-The **four flowing and progressive lines** form another symbol of a book for knowledge and education.
+The&nbsp;**four flowing and progressive lines**&nbsp;form another symbol of a book for knowledge and education.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+	
+
 Music and Lyrics by Tan Keng Kang
 
 Let’s sing a rousing song of praise<br>

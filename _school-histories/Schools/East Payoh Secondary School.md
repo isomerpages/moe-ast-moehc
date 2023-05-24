@@ -4,24 +4,25 @@ permalink: /school-histories/east-payoh-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/eastpayohsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/eastpayohsec1.png">
 
 ### **East Payoh Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXQN6DUs9GPLsg_jOckdTnW8X5gRoGaiMQOnR1YxT40OJWc7MZKYOvGUkmqir7LlksW9Y36L499--H/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ahmadibrahimpri2.jpg">  
-<img src="/images/eastpayohsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eastpayohsec2.jpg">
 </a></p>
 
 <p><a href="/images/ahmadibrahimpri3.jpg">  
-<img src="/images/eastpayohsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eastpayohsec3.jpg">
 </a></p>
 
 <p><a href="/images/ahmadibrahimpri4.jpg">  
-<img src="/images/eastpayohsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/eastpayohsec4.jpg">
 </a></p>
 
 <br clear="left">
@@ -46,7 +47,7 @@ Principals:
 Truth, Goodness, Beauty
 
 #### **School Crest**
-<img src="/images/eastpayohsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/eastpayohsec1.png">
 
 The School Logo is a simple but meaningful design, bearing the initials of the School – EP.
 
@@ -55,6 +56,8 @@ In the centre of the Logo is an oval-shaped athletic track which symbolises the 
 The oval-shaped track also symbolises the endeavour for the continuous PROGRESS IN ACADEMIC PERFORMANCE and the LIFE-LONG PROCESS of EDUCATION.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We pupils of East Payoh<br>
 Take pride in doing our best<br>
 In everything that we attempt<br>
