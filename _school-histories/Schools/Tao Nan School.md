@@ -108,7 +108,9 @@ The lion represents the Lion City, Singapore. Its leaping position symbolises br
 <br clear="left">
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/1mzJ26Klml-ijO9zk9O7gh_kNJaSlOrmP/view?usp=share_link" target="_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1mzJ26Klml-ijO9zk9O7gh_kNJaSlOrmP/view?usp=share_link" target="_blank">**♫ Listen (Eng version)**</a>
+
+<a href="https://drive.google.com/file/d/1PviN5U_uoehr2ZVvy80Q1ZM66aQNIXYy/view?usp=share_link" target="_blank">**♫ Listen (Chi version)**</a>
 
 We belong to Tao Nan School and we always obey the school rules.<br>
 The task of nation building we shoulder, wisdom of sages past we deliver.<br>
