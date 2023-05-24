@@ -4,24 +4,25 @@ permalink: /school-histories/elling-north-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ellingnorthsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ellingnorthsch1.png">
 
 ### **Elling North School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQf5dn4RMLEUqJfhDZZb4G_lB_5Ys_YGSM4_JiCDGnx_AUDPeUS_wnY-crH3kQc5WM_KGKhCtOIcDVB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ellingnorthsch2.png">  
-<img src="/images/ellingnorthsch2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ellingnorthsch2.png">
 </a></p>
 
 <p><a href="/images/ellingnorthsch3.png">  
-<img src="/images/ellingnorthsch3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ellingnorthsch3.png">
 </a></p>
 
 <p><a href="/images/ellingnorthsch4.png">  
-<img src="/images/ellingnorthsch4.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/ellingnorthsch4.png">
 </a></p>
 
 <br clear="left">
@@ -56,12 +57,12 @@ Principals:<br>
 Knowledge is Power
 
 #### **School Crest**
-<img src="/images/ellingnorthsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ellingnorthsch1.png">
 
 The crest, designed by former teacher Mr Kwek Ah Kow, shows a torch with a flaming light and an open book with the school motto, “Knowledge is Power”, engraved on it. The torch symbolizes enlightenment, and the book symbolizes learning and knowledge.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<small>*School song unavailable*</small>
 
 United in aim<br>
 Moves the Elling North<br>
