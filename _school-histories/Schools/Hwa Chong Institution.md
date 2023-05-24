@@ -93,7 +93,9 @@ The school logo is a highly stylised flaming torch that symbolises not only a bu
 今日的校徽是由旧校徽演变而成的，其设计巧妙地结合火炬的图形与艺术化的“華”字，蕴含了华中建校的宗旨与校名的联系，以及推行双语双文化的教育使命与弘扬中华文化之丰富意涵。
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1iyLmreROkFWHt5P4UTVDoYl5yOOD7zrL/view?usp=share_link">**♫ Listen**</a> 
+<a target="\_blank" href="https://drive.google.com/file/d/12Uu0oIGs-Z_fVwwct8VpbJkHvT261tEJ/view?usp=share_link">**♫ Listen (Eng version)**</a> 
+<br>
+<a href="https://drive.google.com/file/d/1iyLmreROkFWHt5P4UTVDoYl5yOOD7zrL/view?usp=share_link" target="\_blank">**♫ Listen (Chi version)**</a>
 
 海天寥廓 云树苍茏 中有我华中<br>
 礼门义路 时雨春风 吾侪托帡幪<br>
