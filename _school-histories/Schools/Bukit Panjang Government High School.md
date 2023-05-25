@@ -4,48 +4,49 @@ permalink: /school-histories/bukit-panjang-govt-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitpanjanggovernmenthigh1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh1.jpg">
 
 ### **Bukit Panjang Government High School**
-[URL to website](http://www.bpghs.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.bpghs.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfGcvrngxErab4n-GtdjoTrnaQmxHw3Lts8xyQtUdbKtBZniUVv2BdcIHj8WIOW78MZTFGzHrgnp9s/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukitpanjanggovernmenthigh2.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh2.jpg">
 </a></p>
 
 <p><a href="/images/bukitpanjanggovernmenthigh3.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh3.jpg">
 </a></p>
 
 <p><a href="/images/bukitpanjanggovernmenthigh4.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitpanjanggovernmenthigh5.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh5.jpg">
 </a></p>
 
 <p><a href="/images/bukitpanjanggovernmenthigh6.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh6.jpg">
 </a></p>
 
 <p><a href="/images/bukitpanjanggovernmenthigh7.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh7.jpg">
 </a></p>
 
 
 <p><a href="/images/bukitpanjanggovernmenthigh8.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh8.jpg">
 </a></p>
 
 <p><a href="/images/bukitpanjanggovernmenthigh9.jpg">  
-<img src="/images/bukitpanjanggovernmenthigh9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,12 +90,12 @@ Principals:<br>
 Diligent in study and practice 笃学力行
 
 #### **School Crest**
-<img src="/images/bukitpanjanggovernmenthigh1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh1.jpg">
 
-The circle symbolises integration and perfection, while the red triangle stands for brotherhood and the common bond among all BPians. The three points of the triangle represent freedom, equality and benevolence, which are beacons in our lives. The green background represents the green countryside of our district, reminding us of our humble rural beginnings. The book, which features our motto, signifies BPians’ educational journey. The three symbols stand for different aspects of our educational programme: the atom (top left), for laying a strong foundation in cognitive and character development; the ship (top right), for imbuing a spirit of discovery and lifelong learning; and the hurdler (bottom), for building a robust body and mind ready to take on life’s challenges.
+The&nbsp;circle&nbsp;symbolises integration and perfection, while the red triangle stands for brotherhood and the common bond among all BPians. The three points of the triangle represent freedom, equality and benevolence, which are beacons in our lives. The green background represents the green countryside of our district, reminding us of our humble rural beginnings. The book, which features our motto, signifies BPians’ educational journey. The three symbols stand for different aspects of our educational programme: the atom (top left), for laying a strong foundation in cognitive and character development; the ship (top right), for imbuing a spirit of discovery and lifelong learning; and the hurdler (bottom), for building a robust body and mind ready to take on life’s challenges.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1hP6dOpdNM9w8VdwhuQRWg1xF2Sx_u4CN/view?usp=share_link">**♫ Listen**</a>	
 
 吾校武中，英勇前进<br>
 Forward, forward on to glory,
