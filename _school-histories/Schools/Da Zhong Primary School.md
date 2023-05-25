@@ -4,53 +4,53 @@ permalink: /school-histories/da-zhong-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/dazhongpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/dazhongpri1.png">
 
 ### **Da Zhong Primary School**
-[URL to website](http://dazhongpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](http://dazhongpri.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBtnQrZsOY-PungsTVZvkNDLZn9p5i78mgtw6ylWDdby3Y0tkG6apJLC-RwLE7HYbHmrveBG7NIhzI/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/dazhongpri2.jpg">  
-<img src="/images/dazhongpri2.jpg" style="width:30%;margin-right:25px;" align = "left">
+<img align="left" style="width:30%;margin-right:25px;" src="/images/dazhongpri2.jpg">
 </a></p>
 
 <p><a href="/images/dazhongpri3.jpg">  
-<img src="/images/dazhongpri3.jpg" style="width:25%;margin-right:25px;" align = "left">
+<img align="left" style="width:25%;margin-right:25px;" src="/images/dazhongpri3.jpg">
 </a></p>
 
 <p><a href="/images/dazhongpri4.jpg">  
-<img src="/images/dazhongpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/dazhongpri5.jpg">  
-<img src="/images/dazhongpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri5.jpg">
 </a></p>
 
 <p><a href="/images/dazhongpri6.jpg">  
-<img src="/images/dazhongpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri6.jpg">
 </a></p>
 
 <p><a href="/images/dazhongpri7.jpg">  
-<img src="/images/dazhongpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/dazhongpri8.jpg">  
-<img src="/images/dazhongpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri8.jpg">
 </a></p>
 
 <p><a href="/images/dazhongpri9.jpg">  
-<img src="/images/dazhongpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri9.jpg">
 </a></p>
 
 <p><a href="/images/dazhongpri10.jpg">  
-<img src="/images/dazhongpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -97,13 +97,13 @@ Principals:<br>
 With Pride We Excel
 
 #### **School Crest**
-<img src="/images/dazhongpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/dazhongpri1.png">
 
-The 8 points of the compass symbolise that knowledge is everywhere and waiting to be acquired by us.<br>
+The 8 points of the compass symbolise that knowledge&nbsp;is everywhere and waiting to be acquired by us.<br>
 The rings depict progress as we acquire knowledge.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1FdP_qx4bVtF56e3FtPKkDBtMjLcq7GRU/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1:<br>
 We, at Dazhong, strive to be<br>
