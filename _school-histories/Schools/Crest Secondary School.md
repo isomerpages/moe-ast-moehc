@@ -4,49 +4,50 @@ permalink: /school-histories/crest-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/crestsecsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/crestsecsch1.png">
 
 ### **Crest Secondary School**
-[URL to website](https://www.crestsec.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.crestsec.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKZGERe6oFQUw0jvwtD37nxiqiUztv-d8z0bAs3clK3-s2KeGqepXh7QIx45qZ926IdXe0gghvp74B/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/crestsecsch2.jpg">  
-<img src="/images/crestsecsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch2.jpg">
 </a></p>
 
 <p><a href="/images/crestsecsch3.jpg">  
-<img src="/images/crestsecsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch3.jpg">
 </a></p>
 
 <p><a href="/images/crestsecsch4.jpg">  
-<img src="/images/crestsecsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/crestsecsch5.jpg">  
-<img src="/images/crestsecsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch5.jpg">
 </a></p>
 
 <p><a href="/images/crestsecsch6.jpg">  
-<img src="/images/crestsecsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch6.jpg">
 </a></p>
 
 <p><a href="/images/crestsecsch7.jpg">  
-<img src="/images/crestsecsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/crestsecsch8.jpg">  
-<img src="/images/crestsecsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch8.jpg">
 </a></p>
 
 <p><a href="/images/crestsecsch9.jpg">  
-<img src="/images/crestsecsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -86,14 +87,14 @@ Principals:<br>
 Empowered to Realise My Dreams.
 
 #### **School Crest**
-<img src="/images/crestsecsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/crestsecsch1.png">
 
 The school logo is based on the theme, CREating Student Transformation (CREST). It comprises four outward expanding waves, reflecting the transformation of the students from Secondary One to Secondary Four as they grow in character (represented by the light blue waves) and attain breakthroughs in personal achievements (represented by the yellow waves).
 
 This transformation is made possible by a sea of opportunities (represented by the dark blue background) that the school provides to enrich students’ learning and enhance their personal growth.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1ddF8t7TcPuYP74Hw0rXTbq5BCRmblLvz/view?usp=share_link">**♫ Listen**</a>
 
 **I Know I Can**
 
