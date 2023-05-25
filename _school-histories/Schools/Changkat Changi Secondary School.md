@@ -4,45 +4,46 @@ permalink: /school-histories/changkat-changi-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/changkatchangisec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/changkatchangisec1.jpg">
 
 ### **Changkat Changi Secondary School**
-[URL to website](http://www.changkatchangisec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.changkatchangisec.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlbxzyP7hk0WTGHIWi6LSTpFwW5kDC0H6zJI98vKcdqkszQlLU1il6LYVoxQ4NXy9EeDkfdYPuvfHh/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/changkatchangisec2.jpg">  
-<img src="/images/changkatchangisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec2.jpg">
 </a></p>
 
 <p><a href="/images/changkatchangisec3.jpg">  
-<img src="/images/changkatchangisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec3.jpg">
 </a></p>
 
 <p><a href="/images/changkatchangisec4.jpg">  
-<img src="/images/changkatchangisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/changkatchangisec5.jpg">  
-<img src="/images/changkatchangisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec5.jpg">
 </a></p>
 
 <p><a href="/images/changkatchangisec6.jpg">  
-<img src="/images/changkatchangisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec6.jpg">
 </a></p>
 
 <p><a href="/images/changkatchangisec7.jpg">  
-<img src="/images/changkatchangisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/changkatchangisec8.jpg">  
-<img src="/images/changkatchangisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec8.jpg">
 </a></p>
 
 <br clear="left">
@@ -54,7 +55,7 @@ Lessons were conducted in three mediums of instruction: English, Mandarin and Be
 
 To support nation-building in the early years of Singapore’s independence, the initial curriculum emphasised technical studies. In tandem with the evolving educational landscape over the last 50 years, today the school offers its students a broad-based and holistic education in a nurturing and dynamic environment. In 2001, the school moved to its present premises at 23 Simei Street 3.
 
-Changkat Changi Secondary School was accorded the Applied Learning Programme (ALP) in aerospace and aviation, and the Learning for Life Programme (LLP) in community youth leadership. The school’s LLP, ‘Service and Leadership, Through School to Nation’, aims to help students develop their leadership skills through engaging the community, as students at various levels are exposed to a range of leadership opportunities. The school’s ALP, ‘SOAR (Student-centered Opportunities for Aerospace industry)’, enables students to develop knowledge and skills through applied learning in science, technology, engineering and mathematics.
+Changkat Changi Secondary School was accorded the Applied Learning Programme (ALP) in aerospace and aviation, and the Learning for Life Programme (LLP) in community youth leadership. The school’s LLP,&nbsp;‘Service and Leadership, Through School to Nation’, aims to help students develop their leadership skills through engaging the community, as students at various levels are exposed to a range of leadership opportunities. The school’s ALP, ‘SOAR (Student-centered Opportunities for Aerospace industry)’, enables students to develop knowledge and skills through applied learning in science, technology, engineering and mathematics.
 
 Principals:<br>
 \- Mr Eugene Wijeysingha (1967–1973)<br>
@@ -87,12 +88,12 @@ Principals:<br>
 Through School to Nation
 
 #### **School Crest**
-<img src="/images/changkatchangisec1.jpg" style="width:50%;margin-right:15px;" align = "left">
+<img align="left" style="width:50%;margin-right:15px;" src="/images/changkatchangisec1.jpg">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Jri3IMvGl0kPVyZRBVjRePCsEYay2s9K/view?usp=share_link">**♫ Listen**</a>
 
 Let us rejoice in one great voice<br>
 In unity one and all<br>
