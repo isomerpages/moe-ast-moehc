@@ -4,31 +4,31 @@ permalink: /school-histories/duchess-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/duchesssch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/duchesssch1.png">
 
 ### **Duchess School**
-[URL to website](https://academyofsingaporeteachers.moe.edu.sg/moehc/school-histories/school/-) **broken link**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHKoJ5kEwBwpLFXiu5aNA8EtHpymF6zXg68fuW4sg_uRYb47AtDZEocF9pQYELdUT-QnHbF3pQ19co/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/duchesssch2.jpg">  
-<img src="/images/duchesssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/duchesssch2.jpg">
 </a></p>
 
 <p><a href="/images/duchesssch3.jpg">  
-<img src="/images/duchesssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/duchesssch3.jpg">
 </a></p>
 
 <p><a href="/images/duchesssch4.jpg">  
-<img src="/images/duchesssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/duchesssch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/duchesssch5.jpg">  
-<img src="/images/duchesssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/duchesssch5.jpg">
 </a></p>
 
 <br clear="left">
@@ -59,14 +59,3 @@ Principals:<br>
 | 1950 | Establishment of Duchess School. |
 | 1984 | Closure of Duchess School. |
 |
-
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/duchesssch1.png" style="width:20%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-#### **School Song**
-\-
