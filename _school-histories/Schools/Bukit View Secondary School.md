@@ -4,47 +4,48 @@ permalink: /school-histories/bukit-view-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitviewsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitviewsec1.jpg">
 
 ### **Bukit View Secondary School**
-[URL to website](http://www.bukitviewsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.bukitviewsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXILZXn0UCoCgG8_z4gGRamI9X7z3LMTOIawVGl3k9nBwMGWzsz7-cZwl_ZDs6G_rIe_IdiWnzwgGV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukitviewsec2.jpg">  
-<img src="/images/bukitviewsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec2.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewsec3.jpg">  
-<img src="/images/bukitviewsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec3.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewsec4.jpg">  
-<img src="/images/bukitviewsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitviewsec5.jpg">  
-<img src="/images/bukitviewsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec5.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewsec6.jpg">  
-<img src="/images/bukitviewsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec6.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewsec7.jpg">  
-<img src="/images/bukitviewsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec7.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewsec8.jpg">  
-<img src="/images/bukitviewsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec8.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewsec9.jpg">  
-<img src="/images/bukitviewsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,15 +53,15 @@ third_nav_title: Schools
 #### **School History**
 Established in 1986, Bukit View Secondary School (BVSS) began operations with an intake of about 450 students and 15 teaching staff. The school has since been noted for its culture of green conservation. In 1999, the school became single-session, and in the same year, adopted the two-hectare Mandai Forest in a forest restoration project. From 2000 to 2010, the school strengthened its green efforts, setting up various authentic learning spaces including its first solar panel, which powers the water sprinkler in its ecogarden.
 
-In 2006, BVSS underwent PRIME upgrading, which saw the addition of a dance studio, an amphitheatre and an indoor sports hall. The school held its 20th-anniversary celebration with the musical, _Dare to Dream_, and the inaugural Environment Forum (later known as the Student Environmental Leadership Conference).
+In 2006, BVSS underwent PRIME upgrading, which saw the addition of a dance studio, an amphitheatre and an indoor sports hall. The school held its 20th-anniversary celebration with the musical,&nbsp;_Dare to Dream_,&nbsp;and the inaugural Environment Forum (later known as the Student Environmental Leadership Conference).
 
 From 2010, BVSS has articulated its vision to be a green school, with a conducive and vibrant learning environment supporting its environmental education programmes. BVSS was accorded the niche status in environmental science in 2012, and in the following year, started its Applied Learning Programme, ‘Clean Energy and Environmental Technology’.
 
-In 2015, the school embarked on the Learning for Life Programme, ‘Learning the Arts, Living the Values’, which focuses on the affective domain of students’ development. The following year, BVSS celebrated its 30th anniversary with the opening of the school’s Heritage Corner and the staging of a theatre production titled _Kaleidoscope_.
+In 2015, the school embarked on the Learning for Life Programme, ‘Learning the Arts, Living the Values’, which focuses on the affective domain of students’ development. The following year, BVSS celebrated its 30th anniversary with the opening of the school’s Heritage Corner and the staging of a theatre production titled&nbsp;_Kaleidoscope_.
 
 From 2016, BVSS has sharpened its focus on science, technology, engineering and mathematics with the Junior Outstanding Leaders in Energy for Sustainability (JOULES) programme, and the development of its in-house Coding and Computational Thinking-infused Curriculum, which won the Ministry of Education Innergy Award.
 
-With its strong community outreach and in partnership with Singapore Green Building Council, the school’s JOULES Smart Centre – the first smart green learning lab in Singapore schools – was officially opened in 2018. This period saw the enhancement of school learning programmes to provide students with a holistic and meaningful learning experience. 
+With its strong community outreach and in partnership with Singapore Green Building Council, the school’s JOULES Smart Centre – the first smart green learning lab in Singapore schools – was officially opened in 2018. This period saw the enhancement of school learning programmes to provide students with a holistic and meaningful learning experience.&nbsp;
 
 In August 2019, the GEAR-UP Room was set up as part of a wider school effort to provide customised support and after-school engagement for high needs students and to strengthen their social-emotional competencies and social skills.
 
@@ -96,12 +97,12 @@ Care and Share<br>
 Achieve and Excel
 
 #### **School Crest**
-<img src="/images/bukitviewsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitviewsec1.jpg">
 
 The features of the school crest (sun, mountains, sea and the colours of yellow, blue and green) are aligned with the environmental focus of the school. The brilliance of the sun – signified by the yellow background – represents the school’s aspirations for a bright future through education. The letter ‘B’, which stands for ‘Bukit’, symbolises the broad and solid educational foundation. Through this, students will continue to scale higher peaks in their studies, with determination and to the best of their abilities. The letter ‘V’, for ‘View’, represents the virtue of magnanimity in the students. It also represents the deep sea of virtues and morals that the students have to acquire through education.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1ynyBUqShD7fVM7KArEtonG_Ylm4dW1fb/view?usp=share_link">**♫ Listen**</a>	
 
 New heights we’ll scale everyday<br>
 Persevering forward bound<br>
