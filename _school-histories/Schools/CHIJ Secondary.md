@@ -4,55 +4,56 @@ permalink: /school-histories/chij-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijsec1.jpg">
 
 ### **CHIJ Secondary**
-[URL to website](https://www.chijsec.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.chijsec.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQacP2qQ8Bt-mOug0jv1AXRxcbltvI9mp4DzYDCG4SrPgCD2otjYNf1pTR33VV6hZS4ccv6LjLe4Lj5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijsec2.jpg">  
-<img src="/images/chijsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec2.jpg">
 </a></p>
 
 <p><a href="/images/chijsec3.jpg">  
-<img src="/images/chijsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec3.jpg">
 </a></p>
 
 <p><a href="/images/chijsec4.jpg">  
-<img src="/images/chijsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijsec5.jpg">  
-<img src="/images/chijsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec5.jpg">
 </a></p>
 
 <p><a href="/images/chijsec6.jpg">  
-<img src="/images/chijsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec6.jpg">
 </a></p>
 
 <p><a href="/images/chijsec7.jpg">  
-<img src="/images/chijsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijsec8.jpg">  
-<img src="/images/chijsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec8.jpg">
 </a></p>
 
 <p><a href="/images/chijsec9.jpg">  
-<img src="/images/chijsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-The oldest Catholic girls’ school and the mother school of all the CHIJ schools in Singapore, the Convent of the Holy Infant Jesus (CHIJ) was established in 1854 by the Infant Jesus Sisters at the corner of Bras Basah Road and Victoria Street. Under the supervision of Mother St Mathilde, within ten days of their arrival, the Sisters were able to open the Convent and Baby House and started classes for both fee-paying students and under privileged girls. 
+The oldest Catholic girls’ school and the mother school of all the CHIJ schools in Singapore,&nbsp;the Convent of the Holy Infant Jesus (CHIJ) was established in 1854 by the Infant Jesus Sisters at the corner of Bras Basah Road and Victoria Street. Under the supervision of Mother St Mathilde, within ten days of their arrival, the Sisters were able to open the Convent and Baby House and started classes for both fee-paying students and under privileged girls.&nbsp;
 
 Besides providing education, an important part of the Sisters’ work from the start was providing refuge for orphans and destitute children. The “baby gate”, now called “the gate of hope” was where orphans and disabled or unwanted baby girls were left. The Sisters welcomed them and cared for them, giving them the possibility of a new life.
 
@@ -100,17 +101,17 @@ Principals:<br>
 #### **School Motto**
 _Simple in Virtue, Steadfast in Duty_
 
-To be simple in virtue is to go to God in childlike confidence and love. Virtue is a personal possession, which cannot be taken away against one’s will. An upright virtue assesses oneself with humble honesty and goes out to one’s neighbour with spontaneous warmth. To be steadfast in duty is to have an awareness of the duty to be of service to others. Perseverance in one’s vocation is not always easy, but it yields that inner peace and freedom that no money can buy.
+To be simple in virtue is to go to God in childlike confidence and love. Virtue is a personal possession, which cannot be taken away against one’s will. An upright virtue assesses oneself with humble honesty and goes out to one’s neighbour with spontaneous warmth.&nbsp;To be steadfast in duty is to have an awareness of the duty to be of service to others. Perseverance in one’s vocation is not always easy, but it yields that inner peace and freedom that no money can buy.
 
 #### **School Crest**
-<img src="/images/chijsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijsec1.jpg">
 
 The red shield conveys the message of God’s love embracing the world. On its right is the open Gospel, which represents the teaching of Christ, a light to life and its mysteries. The silver rosary symbolises prayer and is the Gospel in miniature, seen through the eyes of Mary, the Mother of Jesus. On its left are the golden distaff and spindle, symbols of womanly labour and reminders of the fulfilment to be found in a task well accomplished. The cross that surmounts the shield is the symbol of salvation and of the suffering and death of Jesus Christ. The shield is encircled by a garland of marguerites, which are symbolic of purity and simplicity – charming traits of girlhood. Emblazoned on the crest is the school motto, ‘Simple in Virtue, Steadfast in Duty’.
 
 The CHIJ school crest is worn by students of Infant Jesus schools all over the world.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1TbbiQ2RqoaLN1C-1WBZr-rXE627oBVGP/view?usp=share_link">**♫ Listen**</a>	
 
 Forward, CHIJ, forge a future bright,<br>
 Advancing our aims with zeal and might.<br>
