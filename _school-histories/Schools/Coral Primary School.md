@@ -4,52 +4,53 @@ permalink: /school-histories/coral-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/coralpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/coralpri1.jpg">
 
 ### **Coral Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTME80HzCYIhOHUHpQ5jOxzEoD1fqNxQ-L2a3C-CYtfLOexvrGnMfsDF70Aj5lX4RqNvtWWHUnwDPTi/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/coralpri2.jpg">  
-<img src="/images/coralpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri2.jpg">
 </a></p>
 
 <p><a href="/images/coralpri3.jpg">  
-<img src="/images/coralpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri3.jpg">
 </a></p>
 
 <p><a href="/images/coralpri4.jpg">  
-<img src="/images/coralpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/coralpri5.jpg">  
-<img src="/images/coralpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri5.jpg">
 </a></p>
 
 <p><a href="/images/coralpri6.jpg">  
-<img src="/images/coralpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri6.jpg">
 </a></p>
 
 <p><a href="/images/coralpri7.jpg">  
-<img src="/images/coralpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/coralpri8.jpg">  
-<img src="/images/coralpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri8.jpg">
 </a></p>
 
 <p><a href="/images/coralpri9.jpg">  
-<img src="/images/coralpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri9.jpg">
 </a></p>
 
 <p><a href="/images/coralpri10.jpg">  
-<img src="/images/coralpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralpri10.jpg">
 </a></p>
 
 <br clear="left">
@@ -82,7 +83,7 @@ Principals:<br>
 To Learn and Grow
 
 #### **School Crest**
-<img src="/images/coralpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/coralpri1.jpg">
 
 The Five Pillars of Coral are symbolic of the spirit of being Caring, Obedient, Responsible, Attentive and Loyal.<br>
 The motto "TO LEARN and GROW" is symbolic of the care and nurture of the students.<br>
@@ -90,7 +91,7 @@ The bold ring encompassing the pillars is symbolic of the continuous development
 White signifies purity, yellow represents loyalty and blue represents steadfastness.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1H4PSYM8IiBOvZNyD_FZ_K5ijHr9UW0Bk/view?usp=share_link">**♫ Listen**</a>
 
 We the pupils of Coral Primary<br>
 Caring and Confident,<br>
