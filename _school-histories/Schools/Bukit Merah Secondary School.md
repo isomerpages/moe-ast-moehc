@@ -4,49 +4,50 @@ permalink: /school-histories/bukit-merah-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitmerahsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitmerahsec1.jpg">
 
 ### **Bukit Merah Secondary School**
-[URL to website](http://www.bukitmerahsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.bukitmerahsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2NoezIfHPi4CxxL1b1sWMyP9Ea0QmTyiiSvnx6DGARCqpPZESUQRiJPs9xPK9zXl465Y05fDZ_X6T/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukitmerahsec2.jpg">  
-<img src="/images/bukitmerahsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec2.jpg">
 </a></p>
 
 <p><a href="/images/bukitmerahsec3.jpg">  
-<img src="/images/bukitmerahsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec3.jpg">
 </a></p>
 
 <p><a href="/images/bukitmerahsec4.jpg">  
-<img src="/images/bukitmerahsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitmerahsec5.jpg">  
-<img src="/images/bukitmerahsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec5.jpg">
 </a></p>
 
 <p><a href="/images/bukitmerahsec6.jpg">  
-<img src="/images/bukitmerahsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec6.jpg">
 </a></p>
 
 <p><a href="/images/bukitmerahsec7.jpg">  
-<img src="/images/bukitmerahsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitmerahsec8.jpg">  
-<img src="/images/bukitmerahsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec8.jpg">
 </a></p>
 
 <p><a href="/images/bukitmerahsec9.jpg">  
-<img src="/images/bukitmerahsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,15 +90,15 @@ Principals:<br>
 |
 
 #### **School Motto**
-_SEDIA_ – Always be Prepared
+_SEDIA_&nbsp;– Always be Prepared
 
 #### **School Crest**
-<img src="/images/bukitmerahsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitmerahsec1.jpg">
 
 The school crest is a red triangle representing a hill of red laterite – Redhill, or Bukit Merah in Malay, the school name. The insignia ‘bm’ stands for ‘Bukit Merah’. The flash, which incorporates the school motto ‘SEDIA’, indicates progress, steadfastness and sureness of the path that one has to take to reach one’s goals, and the inculcation of values that prepares the students for life.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1S5FTpXQJTCQp2WLZecQCScYS3ehVzbWo/view?usp=share_link">**♫ Listen**</a>	
 
 Youthful spirits are high and bright<br>
 BMSS is known far and wide<br>
