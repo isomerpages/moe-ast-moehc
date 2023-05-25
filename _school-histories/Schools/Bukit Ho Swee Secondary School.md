@@ -4,30 +4,31 @@ permalink: /school-histories/bukit-ho-swee-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukithosweesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukithosweesec1.png">
 
 ### **Bukit Ho Swee Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCX_x-h2Si96_kQcS8eg8twKiy8ldC9N8fvKviRMgIavsR3QQiA71FvUu8otbrj5Ziwus4QjX0jKYJ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukithosweesec2.jpg">  
-<img src="/images/bukithosweesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweesec2.jpg">
 </a></p>
 
 <p><a href="/images/bukithosweesec3.jpg">  
-<img src="/images/bukithosweesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweesec3.jpg">
 </a></p>
 
 <p><a href="/images/bukithosweesec4.jpg">  
-<img src="/images/bukithosweesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukithosweesec5.jpg">  
-<img src="/images/bukithosweesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweesec5.jpg">
 </a></p>
 
 <br clear="left">
@@ -52,14 +53,16 @@ Principals:<br>
 |
 
 #### **School Motto**
-_Belajar Dan Berkhidmat_ (Learn & Serve)
+_Belajar Dan Berkhidmat_&nbsp;(Learn &amp; Serve)
 
 #### **School Crest**
-<img src="/images/bukithosweesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukithosweesec1.png">
 
 The top of the crest is a semi-circle with the name of the school in English on the circumference and in Chinese on the diameter. Within the semi-circle is the head of a torch, symbolic of education. After the semi-circle is the handle of the torch with a symbol of an athlete on its left to signify ‘Sportsmanship’ while on its right are two squares linked together to signify ‘Integration’. Below these is a book, the symbol of ‘Scholarship’. Then the School Motto in the National Language completes the crest.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 On cindery ruins our school arose<br>
 To serve the youth of Bukit Ho Swee<br>
 A seat of learning long may it flourish<br>
