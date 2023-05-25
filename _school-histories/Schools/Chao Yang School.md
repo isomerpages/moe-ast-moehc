@@ -4,17 +4,15 @@ permalink: /school-histories/chao-yang-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bedokpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedokpri1.png">
 
 ### **Chao Yang School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSf4EK2a1vtKsFdaX5--QVesoEO50AmOOsl3nYMnj3Eq9_Oj8HAmh7dMClTrUFabut6q3-GN_GS8J0I/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/bedokpri2.jpg">  
-<img src="/images/bedokpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
-</a></p>
 
 <br clear="left">
 
@@ -36,15 +34,3 @@ Mr Tan Keng Teck
 | 1981 | Closure of Chao Yang School. |
 |
 
-#### **School Motto**
-\-
-
-#### **School Crest**
-<img src="/images/bedokpri1.png" style="width:20%;margin-right:15px;" align = "left">
-
-A triangular crest showing two sailboats at sea moving towards the rising sun.
-
-<br clear="left">
-
-#### **School Song**
-\-
