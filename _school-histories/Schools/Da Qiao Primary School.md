@@ -4,48 +4,49 @@ permalink: /school-histories/da-qiao-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/daqiaopri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/daqiaopri1.jpg">
 
 ### **Da Qiao Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbW7yuN6oHiTdndKxOuOaE6bPnx-IwiPBnuca4gSWb67g8U6ZmGycy_MCKa2m_gpqYHgROCXS_7cvG/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/daqiaopri2.jpg">  
-<img src="/images/daqiaopri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri2.jpg">
 </a></p>
 
 <p><a href="/images/daqiaopri3.jpg">  
-<img src="/images/daqiaopri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri3.jpg">
 </a></p>
 
 <p><a href="/images/daqiaopri4.jpg">  
-<img src="/images/daqiaopri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/daqiaopri5.jpg">  
-<img src="/images/daqiaopri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri5.jpg">
 </a></p>
 
 <p><a href="/images/daqiaopri6.jpg">  
-<img src="/images/daqiaopri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri6.jpg">
 </a></p>
 
 <p><a href="/images/daqiaopri7.jpg">  
-<img src="/images/daqiaopri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/daqiaopri8.jpg">  
-<img src="/images/daqiaopri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri8.jpg">
 </a></p>
 
 <p><a href="/images/daqiaopri9.jpg">  
-<img src="/images/daqiaopri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/daqiaopri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -61,7 +62,7 @@ Following the PRIME upgrading programme, Da Qiao Primary School moved to a new c
 
 From 2010, Da Qiao Primary was one of 16 prototype schools that embarked on Holistic Assessment and was in forefront to share best practices on the implementation of Holistic Assessment. The year 2014 marked a key milestone when Positive Education was leveraged as a whole-of-school approach to develop students’ well-being. Da Qiao Primary became a reference school for Positive Education after organising the inaugural symposium, SymPosEd 2017. To celebrate its legacy before the merger with Jing Shan Primary school, Da Qiao held a Positive Education Learning Festival in 2018 to share its best practices with the fraternity.
 
-Da Qiao Primary School’s Learning for Life Programme, FLOURISH @ DQ, aims to develop character strengths, resilience and mindfulness through values in action. FLOURISH @ DQ focuses on enhancing well-being through the provision of learning experiences where values can be put into action. 
+Da Qiao Primary School’s Learning for Life Programme, FLOURISH @ DQ, aims to develop character strengths, resilience and mindfulness through values in action. FLOURISH @ DQ focuses on enhancing well-being through the provision of learning experiences where values can be put into action.&nbsp;
 
 Principals:<br>
 \- Mr Qiu Lin Rong (1936–1939)<br>
@@ -97,12 +98,12 @@ Principals:<br>
 United and True
 
 #### **School Crest**
-<img src="/images/daqiaopri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/daqiaopri1.jpg">
 
 The crest highlights the letters ‘d’ and ‘q’ which are the initials for Da Qiao Primary School. The interlocking letters ‘d’ and ‘q’ emphasise the importance of the UNITY within the school organisation. The circle signifies that with truth there will be harmony.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1yI8_6v7mtaYBqpMmLvk9H-vEjhPGhprr/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1:<br>
 Let’s stand together side by side<br>
