@@ -4,55 +4,56 @@ permalink: /school-histories/chij-joseph/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijstjoseph1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijstjoseph1.png">
 
 ### **CHIJ St Joseph's Convent**
-[URL to website](https://chijstjosephsconvent.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://chijstjosephsconvent.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGDwkGqRWUwLy4MmrvHezmSyYQfhJIaYU1FAwa4qaOcwL2iEff0jiOj9lIZnOYCvE6ZajVoq2a5l5x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijstjoseph2.jpg">  
-<img src="/images/chijstjoseph2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph2.jpg">
 </a></p>
 
 <p><a href="/images/chijstjoseph3.jpg">  
-<img src="/images/chijstjoseph3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph3.jpg">
 </a></p>
 
 <p><a href="/images/chijstjoseph4.jpg">  
-<img src="/images/chijstjoseph4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijstjoseph5.jpg">  
-<img src="/images/chijstjoseph5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph5.jpg">
 </a></p>
 
 <p><a href="/images/chijstjoseph6.jpg">  
-<img src="/images/chijstjoseph6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph6.jpg">
 </a></p>
 
 <p><a href="/images/chijstjoseph7.jpg">  
-<img src="/images/chijstjoseph7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijstjoseph8.jpg">  
-<img src="/images/chijstjoseph8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph8.jpg">
 </a></p>
 
 <p><a href="/images/chijstjoseph9.jpg">  
-<img src="/images/chijstjoseph9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstjoseph9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-CHIJ (Convent of the Holy Infant Jesus) St Joseph’s Convent (SJC) began as a private school in 1938. With 21 students, a nun of the Order of the Holy Infant Jesus and two teachers, the school operated from a rented house on Flower Road. In 1945, after World War II, it reopened in a bungalow loaned by a neighbour. The enrolment rose to 214. 
+CHIJ (Convent of the Holy Infant Jesus) St Joseph’s Convent (SJC) began as a private school in 1938. With 21 students, a nun of the Order of the Holy Infant Jesus and two teachers, the school operated from a rented house on Flower Road. In 1945, after World War II, it reopened in a bungalow loaned by a neighbour. The enrolment rose to 214.&nbsp;
 
 The school moved to Hillside Drive in 1951. The first batch of students sat for the School Certificate Examination in 1955. Primary classes were phased out in the 1960s; by 1975, SJC had become solely a secondary school.
 
@@ -60,7 +61,7 @@ SJC moved to its current site in Sengkang in 2000 and produced its first top nat
 
 In 2014, the Ministry of Education awarded SJC three Best Practice Awards – in teaching and learning, character and citizenship education, and staff development. In 2015, SJC’s differentiated approach for the Normal (Academic) and Normal (Technical) streams was recognised when it received the Lee Hsien Loong Award for Innovations in the Normal Course. In 2016, SJC was presented with the People Developer Award. CHIJ SJC celebrated its 80th anniversary in 2018.
 
-In keeping with the IJ ethos of service and compassion, especially towards those who are unable to help themselves, SJC’s Learning for Life Programme, ‘Critical and Inventive Thinking through Community Problem Solving’, is woven into the school’s Civics and Character Education and Values-in-Action programmes. Building upon the school’s strong tradition of netball, student leadership and interest in the performing arts, SJC’s Direct School Admission areas are theatre, debate, netball and student leadership. SJC’s Applied Learning Programme is ‘The Art of Communication through Theatre and Debates’.   
+In keeping with the IJ ethos of service and compassion, especially towards those who are unable to help themselves, SJC’s Learning for Life Programme, ‘Critical and Inventive Thinking through Community Problem Solving’, is woven into the school’s Civics and Character Education and Values-in-Action programmes. Building upon the school’s strong tradition of netball, student leadership and interest in the performing arts, SJC’s Direct School Admission areas are theatre, debate, netball and student leadership. SJC’s Applied Learning Programme is ‘The Art of Communication through Theatre and Debates’. &nbsp;&nbsp;
 
 Principals:<br>
 \- Sr Theodora (1938–1941)<br>
@@ -97,16 +98,16 @@ Principals:<br>
 Simple in Virtue, Steadfast in Duty
 
 #### **School Crest**
-<img src="/images/chijstjoseph1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijstjoseph1.png">
 
 CHIJ SJC shares the same crest and motto as the Infant Jesus convents all over the world. The CHIJ school crest is an international badge worn by students of the Infant Jesus schools in South America, the United Kingdom, Europe, Africa and Southeast Asia.
 
-In the centre is a red shield with a silver band edged in gold. The shield, mounted with a gold cross, is encircled by a garland of white marguerites. The garland of marguerites speaks of simplicity, a charming trait of girlhood. On the right is the gospel with a silver rosary. The gospel is the light to life and its mysteries. As one lives by it, one will attain peace and happiness. The rosary is the gospel in miniature, seen through the eyes of the Virgin Mary, the Mother of Jesus. On the left are a silver distaff and spindle, symbols of womanly labour, the honourable labour of the daughters of God. 
+In the centre is a red shield with a silver band edged in gold. The shield, mounted with a gold cross, is encircled by a garland of white marguerites. The garland of marguerites speaks of simplicity, a charming trait of girlhood. On the right is the gospel with a silver rosary. The gospel is the light to life and its mysteries. As one lives by it, one will attain peace and happiness. The rosary is the gospel in miniature, seen through the eyes of the Virgin Mary, the Mother of Jesus. On the left are a silver distaff and spindle, symbols of womanly labour, the honourable labour of the daughters of God.&nbsp;
 
 Emblazoned on the crest is the school motto, ‘Simple in Virtue, Steadfast in Duty’. Virtue is a personal possession; no one can take it away against one’s will. An upright virtue goes out to one’s neighbour with spontaneous warmth. It judges oneself with humble honesty and it goes straight to God with childlike confidence. ‘Steadfast in Duty’ refers to perseverance in what is one’s assigned vocation, which is not always easy but yields that inner peace and freedom that no money can buy.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1g6oAULm2n80n2k0Qcb8b6uifuaQ2PjeL/view?usp=share_link">**♫ Listen**</a>	
 
 Saint Joseph’s, Saint Joseph’s<br>
 We pledge our loyalty to Thee.<br>
