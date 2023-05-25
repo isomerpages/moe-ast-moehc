@@ -4,48 +4,49 @@ permalink: /school-histories/chij-kellock/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijkellock1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijkellock1.jpg">
 
 ### **CHIJ Kellock**
-[URL to website](http://chijkellock.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://chijkellock.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjDhTzGn-cVT4WFAXYChVarIjneOGU1aCBTK0W_Arq6Y7p10c1iEA1uPP3WWzgUlzr0vRLqSzpwhWU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijkellock2.jpg">  
-<img src="/images/chijkellock2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkellock2.jpg">
 </a></p>
 
 <p><a href="/images/chijkellock4.jpg">  
-<img src="/images/chijkellock4.jpg" style="width:30%;margin-right:47px;" align = "right">
+<img align="right" style="width:30%;margin-right:47px;" src="/images/chijkellock4.jpg">
 </a></p>
 
 <p><a href="/images/chijkellock3.jpg">  
-<img src="/images/chijkellock3.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/chijkellock3.jpg">
 </a></p>
 
 
 <p><a href="/images/chijkellock5.jpg">  
-<img src="/images/chijkellock5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkellock5.jpg">
 </a></p>
 
 <p><a href="/images/chijkellock6.jpg">  
-<img src="/images/chijkellock6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkellock6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijkellock7.jpg">  
-<img src="/images/chijkellock7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkellock7.jpg">
 </a></p>
 
 <p><a href="/images/chijkellock8.jpg">  
-<img src="/images/chijkellock8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkellock8.jpg">
 </a></p>
 
 <p><a href="/images/chijkellock9.jpg">  
-<img src="/images/chijkellock9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkellock9.jpg">
 </a></p>
 
 <br clear="left">
@@ -91,12 +92,12 @@ Principals:<br>
 _Simple Dans Ma Vertu, Forte Dans Devoir (French Version)<br>
 _Simple in Virtue, Steadfast in Duty (English Version)_
 
-To be **Simple in Virtue** is to cultivate a personal honesty which helps us relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel.
+To be&nbsp;**Simple in Virtue**&nbsp;is to cultivate a personal honesty which helps us relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel.
 
-To be **Steadfast in Duty** is to be faithful in fulfilling our obligations and having the capacity to rise above difficulties or obstacles to execute and complete a task in the service of others.
+To be&nbsp;**Steadfast in Duty**&nbsp;is to be faithful in fulfilling our obligations and having the capacity to rise above difficulties or obstacles to execute and complete a task in the service of others.
 
 #### **School Crest**
-<img src="/images/chijkellock1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijkellock1.jpg">
 
 The CHIJ badge or crest (called the Blason, in French) was designed by Mere Saint Aloysia, Superior General (1877 – 1901) and her senior students of 1894.
 
@@ -107,18 +108,18 @@ Simple in Virtue, Steadfast in Duty
 </strong></figcaption>  
 </figure>
 
-The **cross** is the symbol of our salvation and the suffering and death of our Lord Jesus Christ.
+The&nbsp;**cross**&nbsp;is the symbol of our salvation and the suffering and death of our Lord Jesus Christ.
 
-The open **Gospel** represents the teachings of Christ and is a source of inspiration that guides the school community. The **silver** **rosary** symbolizes prayer and is the story of the Gospel as seen through the eyes of Mary, the Mother of Jesus.
+The open&nbsp;**Gospel**&nbsp;represents the teachings of Christ and is a source of inspiration that guides the school community. The&nbsp;**silver**&nbsp;**rosary**&nbsp;symbolizes prayer and is the story of the Gospel as seen through the eyes of Mary, the Mother of Jesus.
 
-The **golden distaff** and **spindle** are symbols of womanly labour and remind us of the dignity of work and the satisfaction and fulfilment to be found in a task well-accomplished.
+The&nbsp;**golden distaff**&nbsp;and&nbsp;**spindle**&nbsp;are symbols of womanly labour and remind us of the dignity of work and the satisfaction and fulfilment to be found in a task well-accomplished.
 
-The **red shield** symbolizes God’s all-embracing message of love.
+The&nbsp;**red shield**&nbsp;symbolizes God’s all-embracing message of love.
 
-The garland of **marguerites** is symbolic of purity and simplicity – charming traits of girlhood.
+The garland of&nbsp;**marguerites**&nbsp;is symbolic of purity and simplicity – charming traits of girlhood.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/19frENPzwzhETfCxMfj_QxZLL4PXFPaQb/view?usp=share_link">**♫ Listen**</a>
 
 C. H. I. J. KELLOCK pupils are we<br>
 Steadfast together here we stand.<br>
@@ -128,6 +129,6 @@ Little citizens we strive and hope to bring --<br>
 Peace<br>
 Unity<br>
 Progress<br>
-And Prosperity <br>
+And Prosperity&nbsp;<br>
 May God bless and guide us ,<br>
 As our best is yet to be !
