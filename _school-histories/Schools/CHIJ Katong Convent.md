@@ -4,49 +4,50 @@ permalink: /school-histories/chij-katong-convent/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijkatongconvent1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijkatongconvent1.jpg">
 
 ### **CHIJ Katong Convent**
-[URL to website](https://www.chijkatongconvent.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.chijkatongconvent.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvuqsPnxxQ-sm3VimOmry_MwEEeD5Xj1G4lePFTVMsAbcSaasrPXZnIHjmpcyX7Tz8KfsjZCPx2CLW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijkatongconvent2.jpg">  
-<img src="/images/chijkatongconvent2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent2.jpg">
 </a></p>
 
 <p><a href="/images/chijkatongconvent3.jpg">  
-<img src="/images/chijkatongconvent3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent3.jpg">
 </a></p>
 
 <p><a href="/images/chijkatongconvent4.jpg">  
-<img src="/images/chijkatongconvent4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijkatongconvent5.jpg">  
-<img src="/images/chijkatongconvent5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent5.jpg">
 </a></p>
 
 <p><a href="/images/chijkatongconvent6.jpg">  
-<img src="/images/chijkatongconvent6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent6.jpg">
 </a></p>
 
 <p><a href="/images/chijkatongconvent7.jpg">  
-<img src="/images/chijkatongconvent7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijkatongconvent8.jpg">  
-<img src="/images/chijkatongconvent8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent8.jpg">
 </a></p>
 
 <p><a href="/images/chijkatongconvent9.jpg">  
-<img src="/images/chijkatongconvent9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent9.jpg">
 </a></p>
 
 <br clear="left">
@@ -96,14 +97,14 @@ _Simple in Virtue, Steadfast in Duty_
 To be simple in virtue is to cultivate a personal honesty that helps one relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel. To be steadfast in duty is to be faithful in fulfilling one’s obligations and having the capacity to rise above difficulties or obstacles to execute and complete a task in the service of others.
 
 #### **School Crest**
-<img src="/images/chijkatongconvent1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijkatongconvent1.jpg">
 
 The red shield symbolises God’s all-embracing message of love. The open Gospel represents the teachings of Christ and is a source of inspiration that guides the school community. The silver rosary symbolises prayer and is the story of the Gospel as seen through the eyes of Mary, the Mother of Jesus. The golden distaff and spindle are symbols of womanly labour and are reminders of the dignity of work and the satisfaction and fulfilment to be found in a task well accomplished. The cross is the symbol of salvation as well as the suffering and death of the Lord Jesus Christ. The garland of marguerites is symbolic of purity and simplicity – charming traits of girlhood. Emblazoned on the crest is the motto of all CHIJ schools, ‘Simple in Virtue, Steadfast in Duty’.
 
 The CHIJ crest was designed by Mere Saint Aloysia, Superior General (1877–1901) and her senior students in 1894. The CHIJ school crest is an international badge worn by students of the Infant Jesus schools in South America, the United Kingdom, Europe, Africa, Japan and Southeast Asia.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1U46EHZaKCtI1H0FKgjTpwip6fUJ-pL81/view?usp=share_link">**♫ Listen**</a>
 
 Forward Katong Convent<br>
 Make our future bright<br>
