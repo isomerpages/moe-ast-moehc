@@ -4,48 +4,49 @@ permalink: /school-histories/chestnut-drive-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chestnutdrivesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chestnutdrivesec1.png">
 
 ### **Chestnut Drive Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVxVr8g_FIjxLrUO-sg1xETlIBMW0qZSeBfHIBQZlbJoS9jhxWWFTQsgo-TlESN5U8uC_YEc5KMJCt/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chestnutdrivesec2.jpg">  
-<img src="/images/chestnutdrivesec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec2.jpg">
 </a></p>
 
 <p><a href="/images/chestnutdrivesec3.jpg">  
-<img src="/images/chestnutdrivesec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec3.jpg">
 </a></p>
 
 <p><a href="/images/chestnutdrivesec4.jpg">  
-<img src="/images/chestnutdrivesec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chestnutdrivesec5.jpg">  
-<img src="/images/chestnutdrivesec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec5.jpg">
 </a></p>
 
 <p><a href="/images/chestnutdrivesec6.jpg">  
-<img src="/images/chestnutdrivesec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec6.jpg">
 </a></p>
 
 <p><a href="/images/chestnutdrivesec7.jpg">  
-<img src="/images/chestnutdrivesec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chestnutdrivesec8.jpg">  
-<img src="/images/chestnutdrivesec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec8.jpg">
 </a></p>
 
 <p><a href="/images/chestnutdrivesec9.jpg">  
-<img src="/images/chestnutdrivesec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chestnutdrivesec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -57,9 +58,9 @@ In the early years, the school conducted classes for both English and Chinese st
 
 In 2002, the school moved into its new campus, which was officially opened on 9 July 2005. At the same time, a new uniform was also launched in 2004.
 
-In 2014, the school was recognised as a Microsoft Mentor School for its innovative best practices in the use of technology for teaching and learning. The school was also awarded the Singapore Book of Records three years in a row for the following projects: ‘Hand to Hand’, the most number of gloves on a display board (2011);  ‘Project Run’, the most number of well-wishing cards (2010); and ‘Project Orange Nose’,  the most number of people wearing orange noses (2009).
+In 2014, the school was recognised as a Microsoft Mentor School for its innovative best practices in the use of technology for teaching and learning. The school was also awarded the Singapore Book of Records three years in a row for the following projects: ‘Hand to Hand’, the most number of gloves on a display board (2011);&nbsp; ‘Project Run’, the most number of well-wishing cards (2010); and ‘Project Orange Nose’,&nbsp; the most number of people wearing orange noses (2009).
 
-In 2014, the school was accorded the Applied Learning Programme on sustainability. It was based on science, technology, engineering and mathematics as well as humanities applications in the real world. 
+In 2014, the school was accorded the Applied Learning Programme on sustainability. It was based on science, technology, engineering and mathematics as well as humanities applications in the real world.&nbsp;
 
 The school celebrated its 45th anniversary in 2011 with an original musical. In 2016, the school merged with Fajar Secondary School and continued operating under the name of Fajar Secondary School. Chestnut Drive Secondary School’s Chinese name, 励进中学, has since been adopted as the Chinese name of Fajar Secondary School.
 
@@ -95,12 +96,12 @@ Principals:<br>
 Strive for Excellence
 
 #### **School Crest**
-<img src="/images/chestnutdrivesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chestnutdrivesec1.png">
 
 The colours of the school badge are blue, red and white. Blue represents tranquillity and peace, red represents universal brotherhood and white stands for purity. The lion symbolises Singapore, while the javelin represents sports and games. The flask and hammer signify science and technology, and the sewing machine represents home economics. The pen and scroll signify academic subjects.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1qXYcjynThYErJLuGjLPt4DOT5oWyUqT2/view?usp=share_link">**♫ Listen**</a>
 
 Chestnut Drive is our school<br>
 Its name to us is very dear<br>
