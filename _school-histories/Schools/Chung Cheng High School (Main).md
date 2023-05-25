@@ -4,7 +4,7 @@ permalink: /school-histories/chung-cheng-high-main/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chungchengmainhighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chungchengmainhighsch1.jpg">
 
 ### **Chung Cheng High School (Main)**
 [URL to website](https://www.chungchenghighmain.moe.edu.sg/)
@@ -12,45 +12,46 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvakOv1mLNqUo80Boxmeqp4tC4hXIwl0C0HCqsOh0hlhI3mu55L6MaLmTunxL8b0AWQJATG8mNXAiZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chungchengmainhighsch2.jpg">  
-<img src="/images/chungchengmainhighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch2.jpg">
 </a></p>
 
 <p><a href="/images/chungchengmainhighsch3.jpg">  
-<img src="/images/chungchengmainhighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch3.jpg">
 </a></p>
 
 <p><a href="/images/chungchengmainhighsch4.jpg">  
-<img src="/images/chungchengmainhighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chungchengmainhighsch5.jpg">  
-<img src="/images/chungchengmainhighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch5.jpg">
 </a></p>
 
 <p><a href="/images/chungchengmainhighsch6.jpg">  
-<img src="/images/chungchengmainhighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch6.jpg">
 </a></p>
 
 <p><a href="/images/chungchengmainhighsch7.jpg">  
-<img src="/images/chungchengmainhighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chungchengmainhighsch8.jpg">  
-<img src="/images/chungchengmainhighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch8.jpg">
 </a></p>
 
 <p><a href="/images/chungchengmainhighsch9.jpg">  
-<img src="/images/chungchengmainhighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch9.jpg">
 </a></p>
 
 <p><a href="/images/chungchengmainhighsch10.jpg">  
-<img src="/images/chungchengmainhighsch10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch10.jpg">
 </a></p>
 
 <br clear="left">
@@ -64,9 +65,9 @@ In 1979, Chung Cheng High School (Main) was selected as one of the nine Special 
 
 In 1996, the school was granted autonomous status, which enabled the school to innovate and enhance its curriculum. In 2005, the school was selected as the East Zone Centre of Excellence for Chinese to promote an appreciation and understanding of Chinese history and culture through the active sharing of resources and exchange of expertise among practitioners.
 
-Between 2010 and 2012, the school underwent PRIME upgrading, which saw an expansion of the school facilities to support the school’s vibrant student population. In 2014, the school celebrated its 75th anniversary. The school’s entrance arch and administration building (Zhulin Building) were gazetted as national monuments at a ceremony officiated by Prime Minister Mr Lee Hsien Loong.   
+Between 2010 and 2012, the school underwent PRIME upgrading, which saw an expansion of the school facilities to support the school’s vibrant student population. In 2014, the school celebrated its 75th anniversary. The school’s entrance arch and administration building (Zhulin Building) were gazetted as national monuments at a ceremony officiated by Prime Minister Mr Lee Hsien Loong.&nbsp;  
   
-In 2019, the school celebrated its 80th anniversary, Chung Cheng 80, with the theme “Honouring Our Heritage, Inspiring Our Future”. A brass replica of  the 中正人sculpture was installed to inspire new generations of Chung Cheng students. The original concrete sculpture installed in 1969 was donated to National Gallery Singapore for heritage conservation.   
+In 2019, the school celebrated its 80th&nbsp;anniversary, Chung Cheng 80, with the theme “Honouring Our Heritage, Inspiring Our Future”. A brass replica of &nbsp;the&nbsp;中正人sculpture was installed to inspire new generations of Chung Cheng students. The original concrete sculpture installed in 1969 was donated to National Gallery Singapore for heritage conservation.&nbsp; &nbsp;
 
 Principals:<br>
 \- Dr Chuang Chu Lin (1939–1957)<br>
@@ -111,21 +112,21 @@ With Integrity We Live<br>
 With Commitment We Progress
 
 #### **School Crest**
-<img src="/images/chungchengmainhighsch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chungchengmainhighsch1.jpg">
 
-The three sides of the triangle represent the collaboration between the school’s management, teachers and students. These three work hand in hand to bring the school to greater heights. The use of the colour red represents the school motto, symbolising diligence and perseverance. It inspires students to develop self-discipline and strength of character to put country before self. The colour white symbolises purity and the imparting of knowledge. It highlights the dual importance that the school places on studies and character-building.
+The three sides of the triangle represent the collaboration between the school’s management, teachers and students. These three work hand in hand to bring the school to greater heights. The use of the colour red represents the school motto, symbolising diligence and perseverance. It inspires students to develop self-discipline and strength of character to put country before self. The colour white&nbsp;symbolises purity and the imparting of knowledge. It highlights the dual importance that the school places on studies and character-building.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/19wrytwD95kv-ctDEFYd6UlGnnQ-BdAOp/view?usp=share_link">**♫ Listen**</a>
 
-曰吾中正  至大至刚<br>
-矗立星洲  巍巍昂昂<br>
-华夏声教  广披炎荒<br>
-欧印文明  他山之长<br>
-好学力行  知耻是倡<br>
-日新月异  不息自强<br>
-止於至善  万国同光<br>
-大哉中正  悠久无疆
+曰吾中正&nbsp; 至大至刚<br>
+矗立星洲&nbsp; 巍巍昂昂<br>
+华夏声教&nbsp; 广披炎荒<br>
+欧印文明&nbsp; 他山之长<br>
+好学力行&nbsp; 知耻是倡<br>
+日新月异&nbsp; 不息自强<br>
+止於至善&nbsp; 万国同光<br>
+大哉中正&nbsp; 悠久无疆
 
 Translation:<br>
 Overlooking the eastern shore of Singapore,<br>
