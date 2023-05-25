@@ -4,49 +4,50 @@ permalink: /school-histories/catholic-high-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/catholichighsch1.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/catholichighsch1.jpg">
 
 ### **Catholic High School**
-[URL to website](https://catholichigh.moe.edu.sg/school/) - may require to change in future when original website is removed
+[URL to website](https://catholichigh.moe.edu.sg/school/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMM7MNAcxy9O2WWMtmx7i9_SGLpIaS7XU23XJojmDo4Gt5vjviMnMPipGjHa7zqjdrlEcKHIjy2YOu/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/catholichighsch2.jpg">  
-<img src="/images/catholichighsch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch2.jpg">
 </a></p>
 
 <p><a href="/images/catholichighsch3.jpg">  
-<img src="/images/catholichighsch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch3.jpg">
 </a></p>
 
 <p><a href="/images/catholichighsch4.jpg">  
-<img src="/images/catholichighsch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/catholichighsch5.jpg">  
-<img src="/images/catholichighsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch5.jpg">
 </a></p>
 
 <p><a href="/images/catholichighsch6.jpg">  
-<img src="/images/catholichighsch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch6.jpg">
 </a></p>
 
 <p><a href="/images/catholichighsch7.jpg">  
-<img src="/images/catholichighsch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/catholichighsch8.jpg">  
-<img src="/images/catholichighsch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch8.jpg">
 </a></p>
 
 <p><a href="/images/catholichighsch9.jpg">  
-<img src="/images/catholichighsch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholichighsch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -62,7 +63,7 @@ In 1979, CHS was accorded the Special Assistance Plan status. The school continu
 
 In 1995, the secondary section attained autonomous status, and three years later, the primary section commenced the Gifted Education Programme. In 2013, the secondary section embarked on the unique dual-track model: the Joint Integrated Programme and the O-Level Programme. Together with students from CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School, CHS students would enrol in Eunoia Junior College for their pre-tertiary education under the integrated programme.
 
-From the school motto ‘亲爱忠诚敬业乐群 Care Honesty Service’ to the current tagline ‘#mybloodisgreen’, the CHS experience is defined by a strong sense of brotherhood and camaraderie; values-driven character development and service leadership; all-round excellence in academic and non-academic domains; and scholarly pursuits.  For over 80 years, CHS has nurtured leaders and professionals in various fields who give back to society and the school, and it will continue to develop principled leaders, gentlemen and bilingual scholars with the skills, perspectives and hearts to touch lives and transform futures.
+From the school motto ‘亲爱忠诚敬业乐群 Care Honesty Service’ to the current tagline ‘#mybloodisgreen’, the CHS experience is defined by a strong sense of brotherhood and camaraderie; values-driven character development and service leadership; all-round excellence in academic and non-academic domains; and scholarly pursuits.&nbsp; For over 80 years,&nbsp;CHS has&nbsp;nurtured leaders and professionals in various fields who give back to society and the school, and it will continue to develop principled leaders, gentlemen and bilingual scholars with the skills, perspectives and hearts to touch lives and transform futures.
 
 Principals:<br>
 \- Mr Yao Kwok Wah (1935–1950)<br>
@@ -109,7 +110,7 @@ Honesty: One who wishes to attain a whole personality ought to be honest, faithf
 Service: The ability to serve springs from one’s recognition of being part of a community and one’s responsibility to his fellow human beings.
 
 #### **School Crest**
-<img src="/images/catholichighsch1.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/catholichighsch1.jpg">
 
 The colour blue symbolises the infinite and boundless universe in which Man is free to think and choose how best to spend one’s time developing character as an individual who does not wall another off from the community, and simultaneously does not suffocate one’s own individuality. A person’s entity in humanity is a lesson of good faith guided by trust in God.
 
@@ -118,20 +119,20 @@ The Cross represents Jesus Christ who suffered and died for the salvation of all
 The light signifies that Jesus Christ is the light of the universe. The light of Christ shines far and wide, it also illuminates the correct and righteous path so that one may walk boldly and wisely.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1YEqzE09mNX2bnGNpMiEDsJqG8w-bQH5D/view?usp=share_link">**♫ Listen**</a>
 
-公教中学   屹立星洲<br>
-黉宇高耸   环境清幽<br>
-宣传文化   中西并筹<br>
-阐扬学术   文质兼收<br>
-振兴教育   惠及同俦<br>
-发挥道德   砥柱中流<br>
-莘莘学子   勤勉研求<br>
-弦歌讽诵   涵泳优游<br>
-白云渺渺   绿水悠悠<br>
-敦品励学   无间无休<br>
-蕉雨淅淅   椰风飕飕<br>
-振我邦国   万祀千秋
+公教中学&nbsp; &nbsp;屹立星洲<br>
+黉宇高耸&nbsp; &nbsp;环境清幽<br>
+宣传文化 &nbsp; 中西并筹<br>
+阐扬学术&nbsp; &nbsp;文质兼收<br>
+振兴教育&nbsp; &nbsp;惠及同俦<br>
+发挥道德&nbsp; &nbsp;砥柱中流<br>
+莘莘学子&nbsp; &nbsp;勤勉研求<br>
+弦歌讽诵&nbsp; &nbsp;涵泳优游<br>
+白云渺渺&nbsp; &nbsp;绿水悠悠<br>
+敦品励学&nbsp; &nbsp;无间无休<br>
+蕉雨淅淅&nbsp; &nbsp;椰风飕飕<br>
+振我邦国&nbsp; &nbsp;万祀千秋
 
 Translation:<br>
 Catholic High School stands tall,<br>
