@@ -4,53 +4,54 @@ permalink: /school-histories/bukit-view-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitviewpri1.png">
 
 ### **Bukit View Primary School**
-[URL to website](http://bukitviewpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://bukitviewpri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vROJyZvFKRGEeZdcHYlCBqp6PNzOTcBtyS34-G8eiaB9YTVoL7FvmzQ17jWy6lZf3EAlfjXxfVD5Xgd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukitviewpri2.jpg">  
-<img src="/images/bukitviewpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri2.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewpri3.jpg">  
-<img src="/images/bukitviewpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri3.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewpri4.jpg">  
-<img src="/images/bukitviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitviewpri5.jpg">  
-<img src="/images/bukitviewpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri5.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewpri6.jpg">  
-<img src="/images/bukitviewpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri6.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewpri7.jpg">  
-<img src="/images/bukitviewpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitviewpri8.jpg">  
-<img src="/images/bukitviewpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri8.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewpri9.jpg">  
-<img src="/images/bukitviewpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri9.jpg">
 </a></p>
 
 <p><a href="/images/bukitviewpri4.jpg">  
-<img src="/images/bukitviewpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewpri4.jpg">
 </a></p>
 
 <br clear="left">
@@ -62,7 +63,7 @@ Since its establishment in 1986, Bukit View Primary School has continuously upgr
 
 Bukit View Primary School has steadily built up its school programming to provide students with a well-rounded education. In 2007, Bukit View Primary School was awarded the Programme for School-Based Excellence Award for its aesthetics programme. The programme then evolved to become the Learning for Life Programme (LLP) in Nurturing Values and Character through Aesthetics in 2014. The LLP provides all students with a broad-based arts programme, with a talent development component to groom those with the potential to excel. The school is also recognized as the Centre of Excellence for Aesthetics in the West Zone for its quality programmes and good practices since 2011.
 
-In the area of teaching and learning, Bukit View Primary School was selected as one of the five prototype schools in 2009 to experiment innovative pedagogies for engaged learning. The school adopted drama as a pedagogy to promote confidence, critical thinking, cooperation and curiosity in students. In 2016, leveraging the strengths from the outcomes of the experimentation, Bukit View Primary School was accorded the Applied Learning Programme in Developing Thinkers, Collaborators and Communicators, with the aim of equipping students with 21st-century competencies.
+In the area of teaching and learning, Bukit View Primary School was selected as one of the five prototype schools in 2009 to experiment innovative pedagogies for engaged learning.&nbsp;The school adopted drama as a pedagogy to promote confidence, critical thinking, cooperation and curiosity in students. In 2016, leveraging the strengths from the outcomes of the experimentation, Bukit View Primary School was accorded the Applied Learning Programme in Developing Thinkers, Collaborators and Communicators, with the aim of equipping students with 21st-century competencies.
 
 Principals:<br>
 \- Mr Tay Hua Lim (1986–1991)<br>
@@ -92,7 +93,7 @@ Principals:<br>
 Towards Excellence
 
 #### **School Crest**
-<img src="/images/bukitviewpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitviewpri1.png">
 
 The logo, incorporating the initials of the school 'BVPS', symbolises a child with outstretched hands reaching for excellence.
 
@@ -105,7 +106,7 @@ Navy Blue shows a happy balance in all aspects of education.
 White represents virtue and integrity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1RmAUTPKRpsdz2wxo9_MoBav-7vrFYxKB/view?usp=share_link">**♫ Listen**</a>	
 
 Bukit View Primary School<br>
 Our hope and treasured pride
