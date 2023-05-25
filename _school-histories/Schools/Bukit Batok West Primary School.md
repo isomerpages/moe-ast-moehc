@@ -4,7 +4,7 @@ permalink: /school-histories/bukit-batok-west-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitbatokwestpri1.png" style="width:20%;margin-right:15px;" align="left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitbatokwestpri1.png">
 
 ### **Bukit Batok West Primary School**
 
@@ -12,8 +12,9 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYZ5TcML7xuTDtdJTOr5YZoerRoxojfoLd13niVjV33HeE-LG30PmBZAyyPofUdGfDxpuQU_03_WJA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+
 <p><a href="/images/bukitbatokwestpri2.jpg">  
-<img src="/images/bukitbatokwestpri2.jpg" style="width:30%;margin-right:15px;" align="left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatokwestpri2.jpg">
 </a></p>
 
 <br clear="left">
