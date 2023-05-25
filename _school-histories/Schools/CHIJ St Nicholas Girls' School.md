@@ -4,49 +4,49 @@ permalink: /school-histories/chij-nicholas-girls-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijstnich1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijstnich1.jpg">
 
 ### **CHIJ St Nicholas Girls' School**
-[URL to website](https://chijstnicholasgirls.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://chijstnicholasgirls.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKMiqeO9_nXVM8jzdjMi4kHrbvV7nMx5dNdhHZerWvGxtvkkG8xrZKCTzjr5Si_aS3RLHgg4B1Lg2R/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijstnich2.jpg">  
-<img src="/images/chijstnich2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich2.jpg">
 </a></p>
 
 <p><a href="/images/chijstnich3.jpg">  
-<img src="/images/chijstnich3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich3.jpg">
 </a></p>
 
 <p><a href="/images/chijstnich4.jpg">  
-<img src="/images/chijstnich4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijstnich5.jpg">  
-<img src="/images/chijstnich5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich5.jpg">
 </a></p>
 
 <p><a href="/images/chijstnich6.jpg">  
-<img src="/images/chijstnich6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich6.jpg">
 </a></p>
 
 <p><a href="/images/chijstnich7.jpg">  
-<img src="/images/chijstnich7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijstnich8.jpg">  
-<img src="/images/chijstnich8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich8.jpg">
 </a></p>
 
 <p><a href="/images/chijstnich9.jpg">  
-<img src="/images/chijstnich9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijstnich9.jpg">
 </a></p>
 
 <br clear="left">
@@ -101,14 +101,14 @@ _Simple in Virtue, Steadfast in Duty_
 To be simple in virtue is to cultivate a personal honesty that helps one relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire according to God’s will as revealed in the Gospel. To be steadfast in duty is to be faithful in fulfilling one’s obligations and having the capacity to rise above difficulties or obstacles to execute and complete a task in the service of others.
 
 #### **School Crest**
-<img src="/images/chijstnich1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijstnich1.jpg">
 
 The cross is the symbol of salvation and the suffering and death of the Lord Jesus Christ. The garland of marguerites is symbolic of purity and simplicity – charming traits of girlhood. The golden distaff and spindle are symbols of womanly labour and reminders of the dignity of work and the satisfaction and fulfilment to be found in a task well accomplished. The open Gospel represents the teaching of Christ and is a source of inspiration that guides the school community. The silver rosary symbolises prayer and is the story of the Gospel as seen through the eyes of Mary, the Mother of Jesus. The red shield symbolises God’s all-embracing message of love.
 
 The CHIJ school crest is an international badge worn by students of the Infant Jesus schools in South America, the United Kingdom, Europe, Africa and Southeast Asia.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1RzPhZ_Wms2nq9jxDPlagTGtI1IgiBVH6/view?usp=share_link">**♫ Listen**</a>	
 
 钟声悠扬弦歌讽诵<br>
 圣铎化雨泽被春风<br>
