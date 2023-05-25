@@ -4,60 +4,60 @@ permalink: /school-histories/cck-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/cckpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cckpri1.png">
 
 ### **Chua Chu Kang Primary School**
-[URL to website](https://chuachukangpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://chuachukangpri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYxTj1BkviZEsFlV1AQ4kV13IvsG6dq-x9gs8UgapVVN_t-m-boqOaqeDHByfW801GvM4Fewmequct/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/cckpri2.jpg">  
-<img src="/images/cckpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri2.jpg">
 </a></p>
 
 <p><a href="/images/cckpri3.jpg">  
-<img src="/images/cckpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri3.jpg">
 </a></p>
 
 <p><a href="/images/cckpri4.jpg">  
-<img src="/images/cckpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/cckpri5.jpg">  
-<img src="/images/cckpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri5.jpg">
 </a></p>
 
 <p><a href="/images/cckpri6.jpg">  
-<img src="/images/cckpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri6.jpg">
 </a></p>
 
 <p><a href="/images/cckpri7.jpg">  
-<img src="/images/cckpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 
 <p><a href="/images/cckpri8.jpg">  
-<img src="/images/cckpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri8.jpg">
 </a></p>
 
 <p><a href="/images/cckpri9.jpg">  
-<img src="/images/cckpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri9.jpg">
 </a></p>
 
 <p><a href="/images/cckpri10.jpg">  
-<img src="/images/cckpri10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri10.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/cckpri11.jpg">  
-<img src="/images/cckpri11.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri11.jpg">
 </a></p>
 
 <br clear="left">
@@ -96,7 +96,7 @@ Principals:<br>
 Excellence through Discipline and Diligence
 
 #### **School Crest**
-<img src="/images/cckpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cckpri1.png">
 
 The Circular band symbolises the school’s commitment to an all-round education.<br>
 The book with its pages open signifies the school as an institution that emphasises learning as an on-going process.<br>
@@ -106,7 +106,7 @@ The colour apple-green is symbolic of vitality, blue signifies graciousness, gol
 Together they depict Chua Chu Kang Primary School’s Motto – Excellence through Discipline and Diligence.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1s0dxCMX8CKXqk469ejZNI8Zst7er9ASa/view?usp=share_link">**♫ Listen**</a>
 
 Let’s make Chua Chu Kang Primary<br>
 a school of excellence in studies and at play.<br>
