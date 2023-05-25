@@ -89,7 +89,7 @@ Ad Astra – To The Stars
 The school emblem shows the letter “G” drawn with a bold artistic brush stroke, supporting a circle emerging from an orange box. The green is symbolic of a&nbsp;**youth in harmony**&nbsp;with others and with the environment. The orange depicts the&nbsp;**vibrant school environment**&nbsp;that fans the&nbsp;**passion for learning**.&nbsp; Drawn with the traditional brush, the strokes signify the focus of the school in developing&nbsp;**children of character**, anchored in sound values.&nbsp; The emerging circle underlines the mission of the school in developing the whole child through balanced educational programmes, moulding them to be&nbsp;**innovative**&nbsp;and&nbsp;**global in outlook**, and daring to aspire high – to the stars!
 
 #### **School Song**
-<a target="\_blank" href="LINK">**♫ Listen**</a> 
+<a href="https://drive.google.com/file/d/1exzxAlqje6OvsCVVuBvvp9Wgt65BBCem/view?usp=share_link" target="\_blank">**♫ Listen**</a>	
 
 Where Dreams Take Flight<br>
 
