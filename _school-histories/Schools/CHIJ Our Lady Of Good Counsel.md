@@ -4,7 +4,7 @@ permalink: /school-histories/chij-our-lady-of-good-counsel/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijlady1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijlady1.jpg">
 
 ### **CHIJ Our Lady Of Good Counsel**
 [URL to website](http://chijourladyofgoodcounsel.moe.edu.sg/)
@@ -12,41 +12,42 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRutF3FBuD7MMrgxPAdwy1TXw9RaA_0hM-LxijijbRoOUMYP6pYjcSdtULXjhc7RxSlWD1gojkiH__F/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijlady2.jpg">  
-<img src="/images/chijlady2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady2.jpg">
 </a></p>
 
 <p><a href="/images/chijlady3.jpg">  
-<img src="/images/chijlady3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady3.jpg">
 </a></p>
 
 <p><a href="/images/chijlady4.jpg">  
-<img src="/images/chijlady4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijlady5.jpg">  
-<img src="/images/chijlady5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady5.jpg">
 </a></p>
 
 <p><a href="/images/chijlady6.jpg">  
-<img src="/images/chijlady6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady6.jpg">
 </a></p>
 
 <p><a href="/images/chijlady7.jpg">  
-<img src="/images/chijlady7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijlady8.jpg">  
-<img src="/images/chijlady8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady8.jpg">
 </a></p>
 
 <p><a href="/images/chijlady9.jpg">  
-<img src="/images/chijlady9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijlady9.jpg">
 </a></p>
 
 <br clear="left">
@@ -93,9 +94,9 @@ Principals:<br>
 _Simple Dans Ma Vertu, Forte Dans Devoir (French Version)<br>
 _Simple in Virtue, Steadfast in Duty (English Version)_
 
-To be **Simple in Virtue** is to cultivate a personal honesty which helps us relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel.
+To be&nbsp;**Simple in Virtue**&nbsp;is to cultivate a personal honesty which helps us relate to others with respect, openness and sincerity. Virtue is nobleness of character nurtured by a genuine desire to live according to God’s will as revealed in the Gospel.
 
-To be **Steadfast in Duty** is to be faithful in fulfilling our obligations and having the capacity to rise above difficulties or obstacles to execute and complete a task in the service of others.
+To be&nbsp;**Steadfast in Duty**&nbsp;is to be faithful in fulfilling our obligations and having the capacity to rise above difficulties or obstacles to execute and complete a task in the service of others.
 
 #### **School Crest**
 The CHIJ badge or crest (called the Blason, in French) was designed by Mere Saint Aloysia, Superior General (1877 – 1901) and her senior students of 1894.
@@ -107,18 +108,18 @@ Simple in Virtue, Steadfast in Duty
 </strong></figcaption>  
 </figure>
 
-The **cross** is the symbol of our salvation and the suffering and death of our Lord Jesus Christ.
+The&nbsp;**cross**&nbsp;is the symbol of our salvation and the suffering and death of our Lord Jesus Christ.
 
-The open **Gospel** represents the teachings of Christ and is a source of inspiration that guides the school community. The **silver** **rosary** symbolizes prayer and is the story of the Gospel as seen through the eyes of Mary, the Mother of Jesus.
+The open&nbsp;**Gospel**&nbsp;represents the teachings of Christ and is a source of inspiration that guides the school community. The&nbsp;**silver**&nbsp;**rosary**&nbsp;symbolizes prayer and is the story of the Gospel as seen through the eyes of Mary, the Mother of Jesus.
 
-The **golden distaff** and **spindle** are symbols of womanly labour and remind us of the dignity of work and the satisfaction and fulfilment to be found in a task well-accomplished.
+The&nbsp;**golden distaff**&nbsp;and&nbsp;**spindle**&nbsp;are symbols of womanly labour and remind us of the dignity of work and the satisfaction and fulfilment to be found in a task well-accomplished.
 
-The **red shield** symbolizes God’s all-embracing message of love.
+The&nbsp;**red shield**&nbsp;symbolizes God’s all-embracing message of love.
 
-The garland of **marguerites** is symbolic of purity and simplicity – charming traits of girlhood.
+The garland of&nbsp;**marguerites**&nbsp;is symbolic of purity and simplicity – charming traits of girlhood.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1FKCxnxLRybpo-AogARSzQl5nmVJgtBS9/view?usp=share_link">**♫ Listen**</a>	
 
 Here’s a rousing cheer for our Convent dear<br>
 in Burghley Drive so fair.<br>
