@@ -4,48 +4,48 @@ permalink: /school-histories/clementi-town-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/clementitownsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementitownsec1.jpg">
 
 ### **Clementi Town Secondary School**
-[URL to website](https://clementitownsec.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://clementitownsec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSk5RzKIUfJGt1d6pM9NXdhOkV2V0xXheGeTcvap9W2an4ybS98EDsoyqy3lmy45R3yxKScggswqKbd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/clementitownsec2.jpg">  
-<img src="/images/clementitownsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementitownsec2.jpg">
 </a></p>
 
 <p><a href="/images/clementitownsec4.jpg">  
-<img src="/images/clementitownsec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/clementitownsec4.jpg">
 </a></p>
 
 <p><a href="/images/clementitownsec3.jpg">  
-<img src="/images/clementitownsec3.jpg" style="width:23%;margin-right:35px;" align = "right">
+<img align="right" style="width:23%;margin-right:35px;" src="/images/clementitownsec3.jpg">
 </a></p>
 
 
 <p><a href="/images/clementitownsec5.jpg">  
-<img src="/images/clementitownsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementitownsec5.jpg">
 </a></p>
 
 <p><a href="/images/clementitownsec6.jpg">  
-<img src="/images/clementitownsec6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/clementitownsec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/clementitownsec7.jpg">  
-<img src="/images/clementitownsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementitownsec7.jpg">
 </a></p>
 
 <p><a href="/images/clementitownsec8.jpg">  
-<img src="/images/clementitownsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementitownsec8.jpg">
 </a></p>
 
 <p><a href="/images/clementitownsec9.jpg">  
-<img src="/images/clementitownsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementitownsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -59,7 +59,7 @@ In 2008, the school completed its PRIME upgrading; the event was celebrated with
 
 In 2015, the school celebrated its 35th anniversary through four key events: the planting of a time capsule that will be unearthed when the school turns 50 in 2030; a combined aesthetics concert; a homecoming dinner; and the CT Shoes4Soles event, where the school collected and distributed shoes to the needy.
 
-In the same year, the school was accorded the Applied Learning Programme in science, technology, engineering and mathematics, and the Learning for Life Programme, ‘Leadership through Uniformed Groups’. 
+In the same year, the school was accorded the Applied Learning Programme in science, technology, engineering and mathematics, and the Learning for Life Programme, ‘Leadership through Uniformed Groups’.&nbsp;
 
 Principals:<br>
 \- Ms Kan Sou Tin (1980–1986)<br>
@@ -89,15 +89,15 @@ Principals:<br>
 |
 
 #### **School Motto**
-Aspire & Grow
+Aspire &amp; Grow
 
 #### **School Crest**
-<img src="/images/clementitownsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementitownsec1.jpg">
 
-The initials ‘CTS’ feature on the school crest. The letter ‘T’ is in the form of a stylised tree with four layers of leaves. Each layer becomes narrower as it ascends, to denote the idea of growth and aspiration. The school motto is in bold black lettering. The colour green is used for the basic design of the initials, to symbolise growth. White is used for the background to symbolise purity.
+The initials ‘CTS’ feature on the school crest. The letter ‘T’ is in the form of a stylised tree with four layers of leaves. Each layer becomes narrower as it ascends, to denote the idea of growth and aspiration. The school motto is in bold black lettering. The colour green is used for the basic design of the initials, to symbolise growth. White&nbsp;is used for the background to symbolise purity.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Nb_dGaDLA7nnNRb6D2MBwvZoxdPzRXHM/view?usp=share_link">**♫ Listen**</a>
 
 We are one big family<br>
 In Clementi Town Secondary<br>
