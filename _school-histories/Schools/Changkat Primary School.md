@@ -4,59 +4,59 @@ permalink: /school-histories/changkat-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/changkatpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/changkatpri1.png">
 
 ### **Changkat Primary School**
-[URL to website](http://www.changkatpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](http://www.changkatpri.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTPdoT3V0wBr8PN35BT605-ML3qTtf_jwVidC7n7o6meXhrFcuXw8M-OrEZDPpOCiq86euA-dd6yoL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/changkatpri2.png">  
-<img src="/images/changkatpri2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri2.png">
 </a></p>
 
 <p><a href="/images/changkatpri3.png">  
-<img src="/images/changkatpri3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri3.png">
 </a></p>
 
 <p><a href="/images/changkatpri4.png">  
-<img src="/images/changkatpri4.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri4.png">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/changkatpri5.png">  
-<img src="/images/changkatpri5.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri5.png">
 </a></p>
 
 <p><a href="/images/changkatpri6.png">  
-<img src="/images/changkatpri6.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri6.png">
 </a></p>
 
 <p><a href="/images/changkatpri7.png">  
-<img src="/images/changkatpri7.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri7.png">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/changkatpri8.png">  
-<img src="/images/changkatpri8.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri8.png">
 </a></p>
 
 <p><a href="/images/changkatpri9.png">  
-<img src="/images/changkatpri9.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri9.png">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Changkat Primary School was established in January 1965 as Changkat Changi Primary School. Its name was derived from its location. The word changkat means “small hill” in Malay, and the school was built on top of a small hill on Changi Road.   
+Changkat Primary School was established in January 1965 as Changkat Changi Primary School. Its name was derived from its location. The word changkat means “small hill” in Malay, and the school was built on top of a small hill on Changi Road.&nbsp;  
   
-In 1988, the school moved to 11 Simei Street 3 and was renamed Changkat Primary School. In 2002, the school underwent PRIME upgrading, and returned to its original, new premises in June 2004.   
+In 1988, the school moved to 11 Simei Street 3 and was renamed Changkat Primary School. In 2002, the school underwent PRIME upgrading, and returned to its original, new premises in June 2004.&nbsp;  
   
-In 2009, the school became a single-session school.   
+In 2009, the school became a single-session school.&nbsp;  
   
 The school completed its PERI upgrading in June 2018, which saw the addition of an indoor sports hall and a new block that houses a student care center.
 
@@ -87,12 +87,12 @@ Principals:<br>
 To Learn, To Live, To Serve
 
 #### **School Crest**
-<img src="/images/changkatpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/changkatpri1.png">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1achkBNRKlywg6Fn2NhjXKmAYQsku9eSI/view?usp=share_link">**♫ Listen**</a>
 
 We at Changkat Primary<br>
 Our voices raised in unity<br>
