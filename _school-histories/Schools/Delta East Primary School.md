@@ -4,16 +4,17 @@ permalink: /school-histories/delta-east-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/deltaeastpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deltaeastpri1.png">
 
 ### **Delta East Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTtsJE3T-pVueSH-0PAa2yvaR-9hkyuFCHCCeIr7uQDLmLG_RaMKd9fct457ylKvG5Tc44YODT0xPy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/deltaeastpri2.jpg">  
-<img src="/images/deltaeastpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deltaeastpri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,9 +36,6 @@ In 1985, Delta East Primary School merged with Delta West Primary School and Hav
 Progress
 
 #### **School Crest**
-<img src="/images/deltaeastpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deltaeastpri1.png">
 
 <br clear="left">
-
-#### **School Song**
-\-
