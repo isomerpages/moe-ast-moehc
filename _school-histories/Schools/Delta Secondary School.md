@@ -4,24 +4,25 @@ permalink: /school-histories/delta-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/deltasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deltasec1.png">
 
 ### **Delta Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjeb9Z0GDntO7x5o_Yj8cLvO73A7RpOtiPSXTQsi_iAv9cqB4JOvbbEy2TWt7wbmwZBsk9VNU_DURX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/deltasec2.jpg">  
-<img src="/images/deltasec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deltasec2.jpg">
 </a></p>
 
 <p><a href="/images/deltasec3.jpg">  
-<img src="/images/deltasec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deltasec3.jpg">
 </a></p>
 
 <p><a href="/images/deltasec4.jpg">  
-<img src="/images/deltasec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deltasec4.jpg">
 </a></p>
 
 <br clear="left">
@@ -45,13 +46,15 @@ In 2004, Delta Secondary School merged with Bukit Merah Secondary School.
 Towards Knowledge And Virtue
 
 #### **School Crest**
-<img src="/images/deltasec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deltasec1.png">
 
-The Chinese characters in the middle of the crest read “德才” (from right to left: _de cai_), the Chinese name for Delta Secondary School. Underscoring the crest is the school **motto**, “Towards Knowledge And Virtue”.
+The Chinese characters in the middle of the crest read “德才” (from right to left:&nbsp;_de cai_), the Chinese name for Delta Secondary School. Underscoring the crest is the school&nbsp;**motto**, “Towards Knowledge And Virtue”.
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We bring the hopes of vibrant hearts<br>
 To match the tasks ahead<br>
 With unfailing knowledge and virtue<br>
