@@ -4,49 +4,50 @@ permalink: /school-histories/catholic-jc/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/catholicjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/catholicjc1.jpg">
 
 ### **Catholic Junior College**
-[URL to website](https://cjc.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://cjc.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoYB7tywWgon0n0qbEOer9IS0lU5iCFscxd08ikq88SXVz-TfNhahtHQlIaYxRwJnSBvfaruX9y7v9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/catholicjc2.jpg">  
-<img src="/images/catholicjc2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc2.jpg">
 </a></p>
 
 <p><a href="/images/catholicjc3.jpg">  
-<img src="/images/catholicjc3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc3.jpg">
 </a></p>
 
 <p><a href="/images/catholicjc4.jpg">  
-<img src="/images/catholicjc4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/catholicjc5.jpg">  
-<img src="/images/catholicjc5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc5.jpg">
 </a></p>
 
 <p><a href="/images/catholicjc7.jpg">  
-<img src="/images/catholicjc7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc7.jpg">
 </a></p>
 
 <p><a href="/images/catholicjc8.jpg">  
-<img src="/images/catholicjc8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc8.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/catholicjc6.jpg">  
-<img src="/images/catholicjc6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc6.jpg">
 </a></p>
 
 <p><a href="/images/catholicjc9.jpg">  
-<img src="/images/catholicjc9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,19 +90,19 @@ Principals:<br>
 #### **School Motto**
 _In Veritate et Caritate_
 
-The college motto is Latin for ‘In Truth and Love’. It implies seeking the truth about the universe, about oneself and about God. But truth alone is not sufficient; there must be love based on understanding and reason.
+The college motto&nbsp;is Latin for ‘In Truth and Love’. It implies seeking the truth about the universe, about oneself and about God. But truth alone is not sufficient; there must be love based on understanding and reason.
 
-‘In Veritate et Caritate’ carries St Paul’s message, a call to love and live among the followers of Christ: “If we live by the truth and in love, we shall grow in all ways into Christ, who is the Head, by whom the whole body is fitted and joined together, every joint adding its own strength for each separate part to work according to its function, so the body grows until it has built itself up, in love.” (Ephesians 4:15–16).  
+‘In Veritate et Caritate’&nbsp;carries St Paul’s message, a call to love and live among the followers of Christ: “If we live by the truth and in love, we shall grow in all ways into Christ, who is the Head, by whom the whole body is fitted and joined together, every joint adding its own strength for each separate part to work according to its function, so the body grows until it has built itself up, in love.” (Ephesians 4:15–16).  
   
-The college motto, **In Veritate et Caritate** ('In Truth and Love') speaks of our mission to nurture students who will be thinkers and leaders that uphold integrity, and are driven by the desire to serve and improve the world around them.
+The college motto,&nbsp;**In Veritate et Caritate**&nbsp;('In Truth and Love') speaks of our mission to nurture students who will be thinkers and leaders that uphold integrity, and are driven by the desire to serve and improve the world around them.
 
 #### **School Crest**
-<img src="/images/catholicjc1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/catholicjc1.jpg">
 
-The principal symbol of CJC is the Holy Spirit. The Spirit of God, depicted by the dove, guides the college in every word, thought and deed. The Spirit helps keep Christ alive, symbolised by the cross, in the CJC community, so that one acts ‘In Truth and Love’, in and beyond the college. The college flame reinforces the idea that the light of God, knowledge and wisdom must lead the way. The crest, in the shape of a shield, depicts the armour needed to guard oneself from what is contrary to God’s ways. It is clad in gold to signify how the school treasures its Catholic identity and is a reminder of the pursuit of excellence in learning and living.
+The principal symbol of CJC is the Holy Spirit. The&nbsp;Spirit of God, depicted by the dove, guides the college in every word, thought and deed.&nbsp;The Spirit helps keep Christ alive, symbolised by the cross, in the CJC community, so that one acts ‘In Truth and Love’, in and beyond the college. The college flame reinforces the idea that the light of God, knowledge and wisdom must lead the way.&nbsp;The crest, in the shape of a shield, depicts the armour needed to guard oneself from what is contrary to God’s ways. It is clad in gold to signify how the school treasures its Catholic identity and is a reminder of the pursuit of excellence in learning and living.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1iOsvCbfIKxKt2y6pBYRepPPyM60j9jrG/view?usp=share_link">**♫ Listen**</a>
 
 **In Veritate Et Caritate**<br>
 **真智仁爱**
