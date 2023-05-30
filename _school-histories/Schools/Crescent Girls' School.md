@@ -4,39 +4,40 @@ permalink: /school-histories/crescent-girls-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/crescentgirlssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/crescentgirlssch1.jpg">
 
 ### **Crescent Girls' School**
-[URL to website](https://www.crescent.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.crescent.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8RBibibwGPF4z3EzEWSlyaHzPFAWnS6_uMXsI7XByVBY4c5z1Rz0BQDBQ9_LYOCYbYfk8QD_bsVOr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/crescentgirlssch2.jpg">  
-<img src="/images/crescentgirlssch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crescentgirlssch2.jpg">
 </a></p>
 
 <p><a href="/images/crescentgirlssch3.jpg">  
-<img src="/images/crescentgirlssch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crescentgirlssch3.jpg">
 </a></p>
 
 <p><a href="/images/crescentgirlssch4.jpg">  
-<img src="/images/crescentgirlssch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crescentgirlssch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/crescentgirlssch5.jpg">  
-<img src="/images/crescentgirlssch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crescentgirlssch5.jpg">
 </a></p>
 
 <p><a href="/images/crescentgirlssch6.jpg">  
-<img src="/images/crescentgirlssch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crescentgirlssch6.jpg">
 </a></p>
 
 <p><a href="/images/crescentgirlssch7.jpg">  
-<img src="/images/crescentgirlssch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/crescentgirlssch7.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,14 +86,14 @@ Principals:<br>
 Courtesy, Generosity, Sincerity
 
 #### **School Crest**
-<img src="/images/crescentgirlssch1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/crescentgirlssch1.jpg">
 
-The open book represents knowledge and wisdom, while the lotus emblem signifies purity and truth. The school colours are yellow and blue, which stand for ideals good and clean.
+The open book represents knowledge and wisdom, while the lotus emblem signifies purity and truth. The school colours are yellow and&nbsp;blue, which stand for ideals good and clean.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Gk7bedW2PKf0d6DAZl0r0EPSYt3scwc-/view?usp=share_link">**♫ Listen**</a>
 
 Oh, let us join our school to praise,<br>
 Sing blithe and gay and free,<br>

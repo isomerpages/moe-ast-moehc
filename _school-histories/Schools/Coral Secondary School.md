@@ -4,55 +4,56 @@ permalink: /school-histories/coral-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/coralsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/coralsec1.png">
 
 ### **Coral Secondary School**
-[URL to website]() - may require to change in future when original website is removed
+[URL to website]()
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9RmuMr5eHqCgg3sO_W67raaaoyhh5koH8M3TSRftriTikd_ID17pIJdQYZO-ETMkLshH4H0C9GS_Q/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/coralsec2.jpg">  
-<img src="/images/coralsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec2.jpg">
 </a></p>
 
 <p><a href="/images/coralsec3.jpg">  
-<img src="/images/coralsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec3.jpg">
 </a></p>
 
 <p><a href="/images/coralsec4.jpg">  
-<img src="/images/coralsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/coralsec5.jpg">  
-<img src="/images/coralsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec5.jpg">
 </a></p>
 
 <p><a href="/images/coralsec6.jpg">  
-<img src="/images/coralsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec6.jpg">
 </a></p>
 
 <p><a href="/images/coralsec7.jpg">  
-<img src="/images/coralsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/coralsec8.jpg">  
-<img src="/images/coralsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec8.jpg">
 </a></p>
 
 <p><a href="/images/coralsec9.jpg">  
-<img src="/images/coralsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/coralsec9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Coral Secondary School (CSS) was a government co-educational secondary school in Pasir Ris. It opened in January 1999 with six Secondary One classes. Originally sited at the premises of Siglap Secondary School, CSS moved to a new campus in 2001.
+Coral Secondary School&nbsp;(CSS) was a government co-educational secondary school in&nbsp;Pasir Ris. It opened in January 1999 with six Secondary One classes. Originally sited at the premises of Siglap Secondary School, CSS moved to a new campus in 2001.
 
 The school’s Chinese name was originally ‘珊瑚’, a literal translation of the word ‘coral’. Later, it was changed to ‘Yunhai’ (云海), which means ‘cloud and sea’. It is believed that corals grow well in the sea under a cloudy sky. The Chinese characters emphasise the importance of tradition and culture as well as the beauty of art and music.
 
@@ -92,14 +93,14 @@ Principals:<br>
 2005–2016: Learn, Innovate and Build the Future
 
 #### **School Crest**
-<img src="/images/coralsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/coralsec1.png">
 
 The school crest was designed to be in the shape of a coral with the initials of the school, ‘CSS’. The school prepares students to face challenges, overcome all odds and move with the times, like the key quality of a coral – resilience. The colours of the logo were chosen to represent the school’s aspiration in line with the Ministry of Education’s direction of ‘Thinking Schools, Learning Nation’.
 
 The colour red symbolises the importance of information and communication technology in a learner-centred environment. Blue represents an encouraging environment to cultivate innovative thinking to meet future challenges. Green symbolises the importance of nation-building, appreciation of one’s cultural heritage as well as care and concern for the environment. Silver signifies the ability to discern right from wrong.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1uCmVkyP_1jpuHrGwOqNvuJ58dn8oltJg/view?usp=share_link">**♫ Listen**</a>
 
 Just as tiny grains of coral grow to mighty coral reefs,<br>
 Let us join with one another to stand up for our beliefs.<br>

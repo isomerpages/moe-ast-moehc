@@ -4,49 +4,49 @@ permalink: /school-histories/cedar-girls-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/cedargirlssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cedargirlssec1.jpg">
 
 ### **Cedar Girls' Secondary School**
-[URL to website](http://www.cedargirlssec.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](http://www.cedargirlssec.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyL23W8yj37Ga72yJMnnEROfZ1pRs1fNvUvosAXlQTLykfcE348BjKYXwgMzJdOIJjx6zPs1CrxhWl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/cedargirlssec2.jpg">  
-<img src="/images/cedargirlssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec2.jpg">
 </a></p>
 
 <p><a href="/images/cedargirlssec3.jpg">  
-<img src="/images/cedargirlssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec3.jpg">
 </a></p>
 
 <p><a href="/images/cedargirlssec4.jpg">  
-<img src="/images/cedargirlssec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/cedargirlssec5.jpg">  
-<img src="/images/cedargirlssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec5.jpg">
 </a></p>
 
 <p><a href="/images/cedargirlssec6.jpg">  
-<img src="/images/cedargirlssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec6.jpg">
 </a></p>
 
 <p><a href="/images/cedargirlssec7.jpg">  
-<img src="/images/cedargirlssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/cedargirlssec8.jpg">  
-<img src="/images/cedargirlssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec8.jpg">
 </a></p>
 
 <p><a href="/images/cedargirlssec9.jpg">  
-<img src="/images/cedargirlssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cedargirlssec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -89,12 +89,12 @@ Principals:<br>
 Honesty, Perseverance, Courtesy
 
 #### **School Crest**
-<img src="/images/cedargirlssec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cedargirlssec1.jpg">
 
-The school crest is upheld by the three key virtues that make up the school motto, ‘Honesty, Courtesy, Perseverance’. The crest is designed in gold, green and blue colours. Gold symbolises the school’s strive towards excellence, while gray symbolises the balance of mind and heart, which is needed in striving for excellence. Together, the two colours combine to reflect the spirit of Cedar Girls: brilliant but balanced. Blue and green denote the natural colours of the environment and symbolise the external world that the school will prepare its students for. The engraved book at the top of the crest is a symbol of knowledge and academic excellence, which the school is committed to. The sturdy cedar tree with its roots symbolises the adult that the school seeks to nurture: an adult who is steadfast in character, strong in her sense of belonging to the school and country, and gracious in her nature, like the fragrant cedar tree.
+The school crest is upheld by the three key virtues that make up the school motto, ‘Honesty, Courtesy, Perseverance’. The crest is designed in gold, green and blue colours. Gold symbolises the school’s strive towards excellence, while gray symbolises the balance of mind and heart, which is needed in striving for excellence. Together, the two colours combine to reflect the spirit of Cedar Girls: brilliant but balanced. Blue&nbsp;and&nbsp;green denote the natural colours of the environment and symbolise the external world that the school will prepare its students for. The engraved book at the top of the crest is a symbol of knowledge and academic excellence, which the school is committed to. The sturdy cedar tree&nbsp;with its roots symbolises the adult that the school seeks to nurture: an adult who is steadfast in character, strong in her sense of belonging to the school and country, and gracious in her nature, like the fragrant cedar tree.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1Fj1zTYDqxcXzX3dtlORk8VJtLFIxvfNN/view?usp=share_link">**♫ Listen**</a>
 
 Unite Cedarians unite,<br>
 We’ll perservere all the way,<br>

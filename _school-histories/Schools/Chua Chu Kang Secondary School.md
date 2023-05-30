@@ -4,47 +4,48 @@ permalink: /school-histories/cck-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/ccksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ccksec1.jpg">
 
 ### **Chua Chu Kang Secondary School**
-[URL to website](http://www.chuachukangsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.chuachukangsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaWFX5oSyhiM1AySu5RJUoWGnO-qQFZg65mvh247l-URwmFe1QvnFKqw6ga6RejxuzrL7Fxql0DHih/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/ccksec2.jpg">  
-<img src="/images/ccksec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec2.jpg">
 </a></p>
 
 <p><a href="/images/ccksec3.jpg">  
-<img src="/images/ccksec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec3.jpg">
 </a></p>
 
 <p><a href="/images/ccksec4.jpg">  
-<img src="/images/ccksec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec4.jpg">
 </a></p>
 
 <p><a href="/images/ccksec5.jpg">  
-<img src="/images/ccksec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec5.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/ccksec6.jpg">  
-<img src="/images/ccksec6.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec6.jpg">
 </a></p>
 
 <p><a href="/images/ccksec7.jpg">  
-<img src="/images/ccksec7.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec7.jpg">
 </a></p>
 
 <p><a href="/images/ccksec8.jpg">  
-<img src="/images/ccksec8.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec8.jpg">
 </a></p>
 
 <p><a href="/images/ccksec9.jpg">  
-<img src="/images/ccksec9.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -86,12 +87,12 @@ Principals:<br>
 Serve, Grow, Excel
 
 #### **School Crest**
-<img src="/images/ccksec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/ccksec1.jpg">
 
-The circular shape of the school crest signifies the school’s commitment to providing an all-round education. The book signifies the school’s emphasis on the passion for learning. The balanced weights signify the balance between the intellectual and other domains of development. The torch represents the Chua Chu Kang Secondary School spirit captured in the school motto, ‘Serve, Grow and Excel’. The colour green represents the growth and vitality of the school.
+The circular shape of the school crest signifies the school’s commitment to providing an all-round education. The book signifies the school’s emphasis on the passion for learning. The balanced weights signify the balance between the intellectual and other domains of development.&nbsp;The torch represents the Chua Chu Kang Secondary School spirit captured in the school motto, ‘Serve, Grow and Excel’. The colour green represents the growth and vitality of the school.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1AKmYBKDi-2GxVcdPJdCzAH-Uy9M1Ff4o/view?usp=share_link">**♫ Listen**</a>
 
 In joy we celebrate our school,<br>
 To praise its honoured name.<br>

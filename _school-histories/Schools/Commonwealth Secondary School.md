@@ -4,49 +4,50 @@ permalink: /school-histories/commonwealth-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/commonwealthsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/commonwealthsec1.jpg">
 
 ### **Commonwealth Secondary School**
-[URL to website](http://www.commonwealthsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://www.commonwealthsec.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-C40_TKv1I-lQB1HoDVNiWayAX2KYnpd_G5D5n28HQrJbiU9haeCaDnrkQB-06wIl1z2cZLHqiZtO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/commonwealthsec2.jpg">  
-<img src="/images/commonwealthsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec2.jpg">
 </a></p>
 
 <p><a href="/images/commonwealthsec3.jpg">  
-<img src="/images/commonwealthsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec3.jpg">
 </a></p>
 
 <p><a href="/images/commonwealthsec4.jpg">  
-<img src="/images/commonwealthsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/commonwealthsec5.jpg">  
-<img src="/images/commonwealthsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec5.jpg">
 </a></p>
 
 <p><a href="/images/commonwealthsec6.jpg">  
-<img src="/images/commonwealthsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec6.jpg">
 </a></p>
 
 <p><a href="/images/commonwealthsec7.jpg">  
-<img src="/images/commonwealthsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/commonwealthsec8.jpg">  
-<img src="/images/commonwealthsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec8.jpg">
 </a></p>
 
 <p><a href="/images/commonwealthsec9.jpg">  
-<img src="/images/commonwealthsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -96,12 +97,12 @@ Principals:<br>
 Ever with the Best
 
 #### **School Crest**
-<img src="/images/commonwealthsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/commonwealthsec1.jpg">
 
-The flames in the school crest represent a commitment to self-improvement and to constantly make oneself relevant in changing times. The gold of the flame represents faith and fruitfulness, while also forming the acronyms ‘CSS’ as well as ‘CWSS’. The blue of the logo represents infinite resourcefulness.
+The flames in the school crest represent a commitment to self-improvement and to constantly make oneself relevant in changing times. The gold&nbsp;of the flame represents faith and fruitfulness, while also forming the acronyms ‘CSS’ as well as ‘CWSS’. The blue of the logo represents infinite resourcefulness.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1dm3isB6KxYeWwcfMuUSOIUVO7CO8EltJ/view?usp=share_link">**♫ Listen**</a>
 
 Chorus:<br>
 Commonwealth Secondary School<br>

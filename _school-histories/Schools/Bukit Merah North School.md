@@ -4,30 +4,31 @@ permalink: /school-histories/bukit-merah-north-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitmerahnorthsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitmerahnorthsch1.png">
 
 ### **Bukit Merah North School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHx7dtZjaSTsjT_eb8F8Ux_Fn_yf6fmyAxYb-sZ2pbrVmd7imOYKx5cEi2XMw7Smy4w0up-YmnziWe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukitmerahnorthsch2.png">  
-<img src="/images/bukitmerahnorthsch2.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahnorthsch2.png">
 </a></p>
 
 <p><a href="/images/bukitmerahnorthsch3.png">  
-<img src="/images/bukitmerahnorthsch3.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahnorthsch3.png">
 </a></p>
 
 <p><a href="/images/bukitmerahnorthsch4.png">  
-<img src="/images/bukitmerahnorthsch4.png" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahnorthsch4.png">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/bukitmerahnorthsch5.jpg">  
-<img src="/images/bukitmerahnorthsch5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahnorthsch5.jpg">
 </a></p>
 
 <br clear="left">
@@ -37,7 +38,7 @@ Bukit Merah North School was founded on 10 January 1955. The school held classes
   
 Between 1957 and 1959, the school had two different Principals for morning and afternoon sessions respectively but reverted to one Principal for both sessions from 1960.  
   
-In 1986, Bukit Merah North School merged with Bukit Merah South School and Redhill Primary School to become Bukit Merah Primary School. In 1998, Bukit Merah Primary School merged with  Alexandra Hill Primary School and shifted into the campus of the latter. The former site of Bukit Merah Primary School has since been used for Gan Eng Seng Primary School and Bukit Merah Secondary School.
+In 1986, Bukit Merah North School merged with Bukit Merah South School and&nbsp;Redhill Primary School&nbsp;to become Bukit Merah Primary School. In 1998, Bukit Merah Primary School merged with &nbsp;Alexandra Hill Primary School and shifted into the campus of the latter. The former site of Bukit Merah Primary School has since been used for Gan Eng Seng Primary School and Bukit Merah Secondary School.
 
 Principals:<br>
 \- Miss Yeo Ah Soo (1955 – 1958)<br>
@@ -67,11 +68,13 @@ Principals:<br>
 Onward
 
 #### **School Crest**
-<img src="/images/bukitmerahnorthsch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitmerahnorthsch1.png">
 
 The central figure of the school crest is a blue torch with a red-lighted flame on a grey background. The flame throws a glow of light, symbolised by the blue portion all around. The lighted torch signifies the school as an institution where learning takes place continuously. The glow of light reflects how the learning within the institution affects the community. The motto ‘ONWARD’ spurs members of the institution to forge forward towards the goal of being responsible contributors to the peace, prosperity and progress of the nation.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 We sing of Bukit Merah North<br>
 Our school in Singapore<br>
 Where work and play aim to bring forth the best we have in store<br>

@@ -4,46 +4,47 @@ permalink: /school-histories/clementi-north-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/clementinorthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementinorthpri1.png">
 
 ### **Clementi North Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW2f7sRJ75bvuIGqX3olinyEuYoSyxGa_WXNiRTnAG3jZSTwE_XSQ18N9Q7OH3Fi6E99zNcM6cq3dw/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/clementinorthpri2.jpg">  
-<img src="/images/clementinorthpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementinorthpri2.jpg">
 </a></p>
 
 <p><a href="/images/clementinorthpri3.jpg">  
-<img src="/images/clementinorthpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementinorthpri3.jpg">
 </a></p>
 
 <p><a href="/images/clementinorthpri4.jpg">  
-<img src="/images/clementinorthpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementinorthpri4.jpg">
 </a></p>
 
 <p><a href="/images/clementinorthpri5.jpg">  
-<img src="/images/clementinorthpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementinorthpri5.jpg">
 </a></p>
 
 <p><a href="/images/clementinorthpri6.jpg">  
-<img src="/images/clementinorthpri6.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/clementinorthpri6.jpg">
 </a></p>
 
 <p><a href="/images/clementinorthpri7.jpg">  
-<img src="/images/clementinorthpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementinorthpri7.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Clementi North Primary School was established in January 1983 in Clementi estate. Initially it shared the premises with Jin Tai Primary School. In 1984, the school moved to its own premises.  
+Clementi North Primary School was established in January 1983 in Clementi estate. Initially it shared the premises with Jin Tai Primary School. In 1984, the school moved to its own premises. &nbsp;
 
 On 28 May 1990, the school participated in the National Cheers Singapore Competition and won the second prize.
 
-In 1994, Clementi North Primary School became a single-session school. In 1998, Jin Shan Primary School merged with Clementi North Primary School.  
+In 1994, Clementi North Primary School became a single-session school. In 1998, Jin Shan Primary School merged with Clementi North Primary School.&nbsp;&nbsp;
 
 In January 2001, Clementi North Primary School merged with Clementi Town Primary School to become Clementi Primary School.
 
@@ -64,15 +65,17 @@ In January 2001, Clementi North Primary School merged with Clementi Town Primary
 Strive To Excel
 
 #### **School Crest**
-<img src="/images/clementinorthpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementinorthpri1.png">
 
-**White** represents dignity, purity and diligence. **Red** represents ambition, strength and endurance. **Brown** represents effort, perseverance and unity.
+**White**&nbsp;represents dignity, purity and diligence.&nbsp;**Red**&nbsp;represents ambition, strength and endurance.&nbsp;**Brown**&nbsp;represents effort, perseverance and unity.
 
-The crest takes the shape of a **shield** with the name of the school at the top against a white background. The centre portion consists of a **hand holding a burning torch** against a brown background. The **motto** of the school, “Strive to Excel”, is reflected at the bottom. Surrounding the motto is a scroll of honour and achievements.
+The crest takes the shape of a&nbsp;**shield**&nbsp;with the name of the school at the top against a white background. The centre portion consists of a&nbsp;**hand holding a burning torch**&nbsp;against a brown background. The&nbsp;**motto**&nbsp;of the school, “Strive to Excel”, is reflected at the bottom. Surrounding the motto is a scroll of honour and achievements.
 
-The **flaming torch** represents education, which will brighten students’ future. The **red flame** signifies the burning desire to strive in order to progress and serves to remind us that education is an ongoing process.
+The&nbsp;**flaming torch**&nbsp;represents education, which will brighten students’ future. The&nbsp;**red flame**&nbsp;signifies the burning desire to strive in order to progress and serves to remind us that education is an ongoing process.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Children of Clementi North<br>
 Let’s forward go<br>
 Working as a team we will<br>

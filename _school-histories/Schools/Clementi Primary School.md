@@ -4,49 +4,50 @@ permalink: /school-histories/clementi-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/clementipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementipri1.png">
 
 ### **Clementi Primary School**
-[URL to website](https://clementipri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://clementipri.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkgO5QvuvI8GgR2N59bezfukpAlApRG0JfT09jbn4DPOjQLo0sF-7UkpXBuX_TyZHSPBsKnKB9LVzk/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="1440" height="839" allowfullscreen="true"></iframe>
 
 <p><a href="/images/clementipri2.jpg">  
-<img src="/images/clementipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri2.jpg">
 </a></p>
 
 <p><a href="/images/clementipri3.jpg">  
-<img src="/images/clementipri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri3.jpg">
 </a></p>
 
 <p><a href="/images/clementipri4.jpg">  
-<img src="/images/clementipri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/clementipri5.jpg">  
-<img src="/images/clementipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri5.jpg">
 </a></p>
 
 <p><a href="/images/clementipri6.jpg">  
-<img src="/images/clementipri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri6.jpg">
 </a></p>
 
 <p><a href="/images/clementipri7.jpg">  
-<img src="/images/clementipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/clementipri8.jpg">  
-<img src="/images/clementipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri8.jpg">
 </a></p>
 
 <p><a href="/images/clementipri9.jpg">  
-<img src="/images/clementipri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementipri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -60,7 +61,7 @@ In collaboration with the Physical Education and Sports Teacher Academy in the P
 
 In 2016, the school transited to single session and co-curricular activities were incorporated within curriculum time for all Primary Three to Primary Six students
 
-That year, the school also embarked on an after-school programme to cater to the different abilities of Clementians. The design of the programme was intended to further stimulate students’ interest in learning and allow them to relate and apply the concepts they have learnt during curriculum time to real-life situations. 
+That year, the school also embarked on an after-school programme to cater to the different abilities of Clementians. The design of the programme was intended to further stimulate students’ interest in learning and allow them to relate and apply the concepts they have learnt during curriculum time to real-life situations.&nbsp;
 
 The school completed its PERI upgrading in 2018.
 
@@ -87,7 +88,7 @@ Principals:<br>
 Others Before Self
 
 #### **School Crest**
-<img src="/images/clementipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementipri1.png">
 
 The crescent speaks of the pupils as a new generation important to the survival of the nation in the future.
 The school motto is portrayed by the two persons, the one in the front being of more significance than the other, emphasising students' willingness to be considerate and the preparedness to make personal sacrifices by putting others before self in their actions.
@@ -98,10 +99,10 @@ The inner smaller circle stands for the holistic education to be provided.
 
 This inner circle, together with the crescent moon, symbolises a smiling face, helping to portray a happy learning environment that the adults are committed to provide for the children.
 
-The **outer bigger circle** is the symbol of strength, stability and safety.
+The&nbsp;**outer bigger circle**&nbsp;is the symbol of strength, stability and safety.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1aeZVS1_tgdyxdR-tJuEXXJUhJs0WF5pj/view?usp=share_link">**♫ Listen**</a>
 
 The star of our future is shining bright<br>
 Let us move hand in hand towards that light.<br>

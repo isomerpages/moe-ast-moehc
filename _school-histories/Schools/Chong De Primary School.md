@@ -4,16 +4,17 @@ permalink: /school-histories/chong-de-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chongdepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chongdepri1.png">
 
 ### **Chong De Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj6ITi57ZIDRh1lTFJW5YQjh2zkQtmTK90Ug5amOLiR8KAlZG2N7rAQ5PTL5eFvPH97_UUU2LcLccl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chongdepri2.jpg">  
-<img src="/images/chongdepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongdepri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,7 +36,7 @@ In 1998, Chong De Primary School closed and its remaining students subsequently 
 A better tomorrow
 
 #### **School Crest**
-<img src="/images/chongdepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chongdepri1.png">
 
 Chong De in Chinese means Actions and Deeds with Achievements through Integrity.<br>
 The school will be guided by its name.<br>
@@ -43,6 +44,8 @@ The circles represent an all-round education to be provided for the pupils of th
 The development and endeavour of the school are to prepare and train pupils for “A Better Tomorrow”.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 Pupils and staff are guided by your name,<br>
 Chong De you are our guiding star.<br>
 As students we will do our best<br>

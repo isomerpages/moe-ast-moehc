@@ -4,7 +4,7 @@ permalink: /school-histories/bukit-timah-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukittimahpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukittimahpri1.png">
 
 ### **Bukit Timah Primary School**
 [URL to website](http://www.bukittimahpri.moe.edu.sg/)
@@ -12,43 +12,44 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrZqC7Tz9EVO-rzxw4WC2Ok8PIrEiEZg9c_fphaI6vPrgf9m9ZCdlAkiV5X2OYVD8CNtwiWPAX0ReX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukittimahpri2.jpg">  
-<img src="/images/bukittimahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri2.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri3.jpg">  
-<img src="/images/bukittimahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri3.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri4.jpg">  
-<img src="/images/bukittimahpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri4.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri7.jpg">  
-<img src="/images/bukittimahpri7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/bukittimahpri7.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri6.jpg">  
-<img src="/images/bukittimahpri6.jpg" style="width:30%;margin-right:15px;" align = "right">
+<img align="right" style="width:30%;margin-right:15px;" src="/images/bukittimahpri6.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri5.jpg">  
-<img src="/images/bukittimahpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri5.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri8.jpg">  
-<img src="/images/bukittimahpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri8.jpg">
 </a></p>
 
 <p><a href="/images/bukittimahpri9.jpg">  
-<img src="/images/bukittimahpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri9.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Bukit Timah Primary School was formerly known as Bukit Batok Primary School, which was situated at the junction of Jalan Jurong Kechil and Jurong Road. Bukit Batok Primary School had been established in 1984 as a merger school of Bukit Batok East Primary School and Bukit Batok West Primary School.   
+Bukit Timah Primary School was formerly known as Bukit Batok Primary School, which was situated at the junction of Jalan Jurong Kechil and Jurong Road. Bukit Batok Primary School had been established in 1984 as a merger school of Bukit Batok East Primary School and Bukit Batok West Primary School.&nbsp;  
   
 In December 2001, Bukit Batok Primary School relocated to new premises at Lorong Kismis and was renamed Bukit Timah Primary School.  
   
@@ -80,7 +81,7 @@ Principals:<br>
 Strive for the Best
 
 #### **School Crest**
-<img src="/images/bukittimahpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukittimahpri1.png">
 
 The school crest consists of a human figure with outstretched arms, and a peak of excellence balancing a circle of all roundness against a blue background.  
   
@@ -91,7 +92,7 @@ The human figure stands for a person robust in mind and body as he balances acad
 Together, they depict Bukit Timah Primary School’s Motto – STRIVE FOR THE BEST
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1_fMzMTyzbygdncwTfrkihKBk5UVaWgOD/view?usp=share_link">**♫ Listen**</a>	
 
 Bukit Timah School we honour you,<br>
 Ready to do the best that is due.<br>

@@ -4,47 +4,48 @@ permalink: /school-histories/chongfu-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chongfusch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chongfusch1.png">
 
 ### **Chongfu School**
-[URL to website](https://chongfu.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://chongfu.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdUVfxpxOEM5dLFsxGmxwDTITk0Oh4kFxPCFBczgSVbs6Q3GygG7WP0zdqUjpNUvTUwbEwJCfAFLeA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chongfusch2.jpg">  
-<img src="/images/chongfusch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch2.jpg">
 </a></p>
 
 <p><a href="/images/chongfusch3.jpg">  
-<img src="/images/chongfusch3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch3.jpg">
 </a></p>
 
 <p><a href="/images/chongfusch4.jpg">  
-<img src="/images/chongfusch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chongfusch5.jpg">  
-<img src="/images/chongfusch5.jpg" style="width:26%;margin-right:15px;" align = "left">
+<img align="left" style="width:26%;margin-right:15px;" src="/images/chongfusch5.jpg">
 </a></p>
 
 <p><a href="/images/chongfusch6.jpg">  
-<img src="/images/chongfusch6.jpg" style="width:34%;margin-right:15px;" align = "left">
+<img align="left" style="width:34%;margin-right:15px;" src="/images/chongfusch6.jpg">
 </a></p>
 
 <p><a href="/images/chongfusch7.jpg">  
-<img src="/images/chongfusch7.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/chongfusch7.jpg">
 </a></p>
 
 <p><a href="/images/chongfusch8.jpg">  
-<img src="/images/chongfusch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch8.jpg">
 </a></p>
 
 <p><a href="/images/chongfusch9.jpg">  
-<img src="/images/chongfusch9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch9.jpg">
 </a></p>
 
 <br clear="left">
@@ -87,15 +88,15 @@ Principals:<br>
 |
 
 #### **School Motto**
-Sincerity & Perseverance (诚毅)
+Sincerity &amp; Perseverance (诚毅)
 
 #### **School Crest**
-<img src="/images/chongfusch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chongfusch1.png">
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1C1OjH3dVsTxhFOByYuopFg77PPFlRbzJ/view?usp=share_link">**♫ Listen**</a>
 
 We cheer, we sing for our Chongfu.<br>
 We cheer, we sing for our Chongfu.<br>

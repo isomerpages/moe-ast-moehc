@@ -4,43 +4,43 @@ permalink: /school-histories/concord-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/concordpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/concordpri1.png">
 
 ### **Concord Primary School**
-[URL to website](https://concordpri.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://concordpri.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7ozNYaj4-CHvd7ecs01qCg5nyeCsujOcQu0MFpy_GURMbXpaoG3DGl0lGSkbU7sPQTGq7oPMWDGbp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/concordpri2.jpg">  
-<img src="/images/concordpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri2.jpg">
 </a></p>
 
 <p><a href="/images/concordpri3.jpg">  
-<img src="/images/concordpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri3.jpg">
 </a></p>
 
 <p><a href="/images/concordpri4.jpg">  
-<img src="/images/concordpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/concordpri5.jpg">  
-<img src="/images/concordpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri5.jpg">
 </a></p>
 
 <p><a href="/images/concordpri6.jpg">  
-<img src="/images/concordpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri6.jpg">
 </a></p>
 
 <p><a href="/images/concordpri7.jpg">  
-<img src="/images/concordpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri7.jpg">
 </a></p>
 
 <p><a href="/images/concordpri8.jpg">  
-<img src="/images/concordpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/concordpri8.jpg">
 </a></p>
 
 <br clear="left">
@@ -79,7 +79,7 @@ Principals:<br>
 Together We Soar To Greater Heights
 
 #### **School Crest**
-<img src="/images/concordpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/concordpri1.png">
 
 The heart represents a balanced education while the infinity sign represents continuous learning and also shows the figure 8 which symbolises MOE’s Desired Outcomes of Education.
 
@@ -88,7 +88,7 @@ The Soaring Eagle in the middle stands for the school’s motto of Soaring to Gr
 The colours of turquoise green represents harmony and nurturing growth, while the yellow represents brightness and vibrancy.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1bKN9nUi3sqd36KayDSkRHzUVk2jMU_jo/view?usp=share_link">**♫ Listen**</a>
 
 Together We Soar To Greater Heights<br>
 Music and Lyrics by Loo Teng Kiat<br>

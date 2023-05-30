@@ -4,69 +4,70 @@ permalink: /school-histories/dunman-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/dunmansec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/dunmansec1.jpg">
 
 ### **Dunman Secondary School**
-[URL to website](http://dunmansec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](http://dunmansec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUJNIUUHGxxs4YolZItMt1Hc_Ckr5dCh5_x9QHUKYam4ktHPSE9zB_q106AOSihKk3fJRQuNzuVOY5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/dunmansec2.jpg">  
-<img src="/images/dunmansec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec2.jpg">
 </a></p>
 
 <p><a href="/images/dunmansec3.jpg">  
-<img src="/images/dunmansec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec3.jpg">
 </a></p>
 
 <p><a href="/images/dunmansec4.jpg">  
-<img src="/images/dunmansec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/dunmansec5.jpg">  
-<img src="/images/dunmansec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec5.jpg">
 </a></p>
 
 <p><a href="/images/ahmadibdunmansec6rahimpri3.jpg">  
-<img src="/images/dunmansec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec6.jpg">
 </a></p>
 
 <p><a href="/images/dunmansec7.jpg">  
-<img src="/images/dunmansec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/dunmansec8.jpg">  
-<img src="/images/dunmansec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec8.jpg">
 </a></p>
 
 <p><a href="/images/dunmansec9.jpg">  
-<img src="/images/dunmansec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec9.jpg">
 </a></p>
 
 <p><a href="/images/dunmansec10.jpg">  
-<img src="/images/dunmansec10.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunmansec10.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Dunman Secondary School started as Dunman Integrated Secondary School in 1963, located on Haig Road. It was named after Sir Thomas Dunman, the first Commissioner of Police in Singapore, who served from 1856 to 1871. It was the first integrated school with three language streams. In 1965, the Malay-stream staff and students were transferred to Telok Kurau Secondary School, after which Dunman functioned as an English and Chinese integrated school.   
+Dunman Secondary School started as Dunman Integrated Secondary School in 1963, located on Haig Road. It was named after Sir Thomas Dunman, the first Commissioner of Police in Singapore, who served from 1856 to 1871. It was the first integrated school with three language streams. In 1965, the Malay-stream staff and students were transferred to Telok Kurau Secondary School, after which Dunman functioned as an English and Chinese integrated school.&nbsp;  
   
-In 1970, Dunman Secondary School was the only school that performed the finale called ‘Fountain of Youth’ at the National Day Parade. In the following decade, many important school-based initiatives were introduced to ensure a healthy organizational culture – for example, Dunman was the first school to introduce heads of department to better serve the needs of staff and students.   
+In 1970, Dunman Secondary School was the only school that performed the finale called ‘Fountain of Youth’ at the National Day Parade. In the following decade, many important school-based initiatives were introduced to ensure a healthy organizational culture – for example, Dunman was the first school to introduce heads of department to better serve the needs of staff and students.&nbsp;  
   
 The Former Dunmanites Association – mooted during the school’s 20th anniversary dinner celebrations in 1983 – was inaugurated in October 1985. In 1987, Dunman took in Pre-University One students. The Student Council replaced the school’s prefectorial board and the pre-university students became the pioneer batch of student councillors. In 1991, pre-university classes ceased.  
   
-In 1990, Dunman Secondary School relocated to its present premises at Tampines Street 45. In 1997, Dunman Secondary School was the first school to pilot the EduPAD project, which saw the use of palmtop computer notebooks meant to replace textbooks.   
+In 1990, Dunman Secondary School relocated to its present premises at Tampines Street 45. In 1997, Dunman Secondary School was the first school to pilot the EduPAD project, which saw the use of palmtop computer notebooks meant to replace textbooks.&nbsp;  
   
-In 1999, the school operated as single-session. In the following year, Dunman was accorded autonomous status. In 2001, Dunman Secondary School opened its Life Sciences Training and Research Centre and became the East Zone Centre of Excellence for Innovations in Science.   
+In 1999, the school operated as single-session. In the following year, Dunman was accorded autonomous status. In 2001, Dunman Secondary School opened its Life Sciences Training and Research Centre and became the East Zone Centre of Excellence for Innovations in Science.&nbsp;  
   
-In 2010, Dunman Secondary School completed its PRIME upgrading. In 2013, the school celebrated its 50th anniversary; in commemoration, staff and students embarked on the year-long ‘50 Acts of Service’ project. In 2016, the school offered its inaugural heritage module to Secondary One students, which aims to promote love for Dunman Secondary School.   
+In 2010, Dunman Secondary School completed its PRIME upgrading. In 2013, the school celebrated its 50th anniversary; in commemoration, staff and students embarked on the year-long ‘50 Acts of Service’ project. In 2016, the school offered its inaugural heritage module to Secondary One students, which aims to promote love for Dunman Secondary School.&nbsp;  
   
 In 2018, Dunman celebrated its 55th anniversary, which culminated in a homecoming event for both old and new Dunmanites to connect, recollect and celebrate as one Dunman.
 
@@ -106,12 +107,12 @@ Principals:<br>
 Pengetahuan Suloh Hidup / 知识是生命的火炬 / Knowledge: The Torch of Life
 
 #### **School Crest**
-<img src="/images/dunmansec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/dunmansec1.jpg">
 
 The school badge features a lion and a torch. The lion symbolises courage, majesty, strength and character. The five visible strands of the lion’s mane represent the five D’s of the school: discernment, discipline, daring, determination and duty. The torch is a graphic illustration of the school motto, ‘Knowledge: The Torch of Life’. It symbolises the school’s commitment to be a torchbearer, a trailblazer and a beacon of hope and light to others.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/11DqAtC5BBOIB7-4vDbint0L9zYXpfrUF/view?usp=share_link">**♫ Listen**</a>	
 
 Dunman bestows<br>
 Knowledge, the Torch of Life<br>

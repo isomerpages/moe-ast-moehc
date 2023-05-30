@@ -4,49 +4,50 @@ permalink: /school-histories/christ-church-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/christchurchsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/christchurchsec1.jpg">
 
 ### **Christ Church Secondary School**
-[URL to website](https://christchurchsec.moe.edu.sg/) **broken link**
+[URL to website](https://www.christchurchsec.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxJSO-dqPwWTMfGI5DPj2T4wFw23ZJQnpaoyCuVwgmgrhIgLJSjZX5qBdAVG1St0JnWo8UZJUbgVTY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/christchurchsec2.jpg">  
-<img src="/images/christchurchsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec2.jpg">
 </a></p>
 
 <p><a href="/images/christchurchsec3.jpg">  
-<img src="/images/christchurchsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec3.jpg">
 </a></p>
 
 <p><a href="/images/christchurchsec4.jpg">  
-<img src="/images/christchurchsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/christchurchsec5.jpg">  
-<img src="/images/christchurchsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec5.jpg">
 </a></p>
 
 <p><a href="/images/christchurchsec6.jpg">  
-<img src="/images/christchurchsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec6.jpg">
 </a></p>
 
 <p><a href="/images/christchurchsec7.jpg">  
-<img src="/images/christchurchsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/christchurchsec8.jpg">  
-<img src="/images/christchurchsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec8.jpg">
 </a></p>
 
 <p><a href="/images/christchurchsec9.jpg">  
-<img src="/images/christchurchsec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/christchurchsec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -62,7 +63,7 @@ In 2015, CHR began its Learning for Life Programme (LLP) in outdoor education, w
 
 In 2016, CHR was accorded the Applied Learning Programme (ALP) in health science and technology. In close partnership with Woodlands Health Campus, the ALP aims to provide learning experiences that would interest students in learning science and coding and develop positive learning dispositions so that students can show better appreciation of real-world challenges in healthcare.
 
-In January 2020, the Woodlands South MRT station was officially opened, opening doors to opportunities for the staff and students of CHR. 
+In January 2020, the Woodlands South MRT station was officially opened, opening doors to opportunities for the staff and students of CHR.&nbsp;
 
 Today, CHR is proud to develop students into purposeful leaders who have the drive to excel, are thoughtful contributors and are active leaders.
 
@@ -100,13 +101,13 @@ _“For this cause we also, since the day we heard it, do not cease to pray for 
 _– Colossians 1:9–10 (KJV)_
 
 #### **School Crest**
-<img src="/images/christchurchsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/christchurchsec1.jpg">
 
 At the heart of the crest, the flaming torch symbolises the commitment of CHR to lifelong learning. Through the journey of life and learning, students grow in character and in their God-given talents. The cross represents the school giving glory to God who has enabled its achievements, with Christ at the centre of its endeavours.
 
 The colour yellow represents the light of God shining through as one serves the needs of people. Through leadership and possessing the right values and attitudes, CHR works to build a bright and glorious future. The colour red represents the school’s passion and determination to do its utmost for the highest. The colour green represents one’s life and spirit being continually renewed, and the eternal gratitude and thanksgiving to God for his abundance blessings showered on the school. The colour white represents one’s determination to never lose the purity of thought, word and deed. It shows forth through one’s earnestness and sincerity as one perseveres to grow, praying as one works.
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1QCTAyYzGl6_gHaPYUkq-6VZgmAB4rIGr/view?usp=share_link">**♫ Listen**</a>
 
 **To God be the Glory**<br>
 To God be the glory, great things He hath done,<br>

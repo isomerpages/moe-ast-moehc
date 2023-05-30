@@ -4,48 +4,49 @@ permalink: /school-histories/clementi-woods-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/clementiwoodssec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementiwoodssec1.png">
 
 ### **Clementi Woods Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQntmoKFIJsxhaBEFL1Zk2SbMT8onz8ZviVTZZ02kNVvB_NG1ygxSksdzvXnEr9gxACBWRzr-DzPEuh/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/clementiwoodssec2.jpg">  
-<img src="/images/clementiwoodssec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec2.jpg">
 </a></p>
 
 <p><a href="/images/clementiwoodssec3.jpg">  
-<img src="/images/clementiwoodssec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec3.jpg">
 </a></p>
 
 <p><a href="/images/clementiwoodssec4.jpg">  
-<img src="/images/clementiwoodssec4.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/clementiwoodssec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/clementiwoodssec5.jpg">  
-<img src="/images/clementiwoodssec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec5.jpg">
 </a></p>
 
 <p><a href="/images/clementiwoodssec6.jpg">  
-<img src="/images/clementiwoodssec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec6.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/clementiwoodssec7.jpg">  
-<img src="/images/clementiwoodssec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec7.jpg">
 </a></p>
 
 <p><a href="/images/clementiwoodssec8.jpg">  
-<img src="/images/clementiwoodssec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec8.jpg">
 </a></p>
 
 <p><a href="/images/clementiwoodssec9.jpg">  
-<img src="/images/clementiwoodssec9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/clementiwoodssec9.jpg">
 </a></p>
 
 <br clear="left">
@@ -80,18 +81,16 @@ Principals:<br>
 | 2016 | Merger with Tanglin Secondary School to become the present Tanglin Secondary School. |
 |
 
-#### **School Motto**
-\-
 
 #### **School Crest**
-<img src="/images/clementiwoodssec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/clementiwoodssec1.png">
 
-The tree represents growth towards the school’s aspirations, anchoring the students to the school’s values as well as family and society. The sun signifies the collective energy of the school, coming together to achieve common goals.
+The tree represents growth&nbsp;towards the school’s aspirations, anchoring the students to the school’s values as well as family and society.&nbsp;The sun&nbsp;signifies the collective energy of the school, coming together to achieve common goals.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1pAouaM3CIffsgt0727aKxSVBlJ-jXETa/view?usp=share_link">**♫ Listen**</a>
 
 This is where, I’m given, the space to grow<br>
 A place of learning that stirs my soul<br>

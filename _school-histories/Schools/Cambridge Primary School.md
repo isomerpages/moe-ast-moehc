@@ -4,20 +4,21 @@ permalink: /school-histories/cambridge-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/cambridgepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cambridgepri1.png">
 
 ### **Cambridge Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQHgCP5RiTFBisI16R7tcL4XkiNd2CxbmKxj8XGCK-pr7IByytBNGPwn7lqEaKkyU51cwoTQ0mZMLgH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/cambridgepri2.jpg">  
-<img src="/images/cambridgepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cambridgepri2.jpg">
 </a></p>
 
 <p><a href="/images/cambridgepri3.jpg">  
-<img src="/images/cambridgepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cambridgepri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -41,13 +42,10 @@ In 1998, Cambridge Primary School closed. Its premises, together with that of th
 Nothing without labour
 
 #### **School Crest**
-<img src="/images/cambridgepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cambridgepri1.png">
 
 The school crest is represented by a book and torch on the left and a mystical creature on the right.
 
 The book is symbolic of knowledge and the flame signifies the everlasting quest for knowledge.
 
 The right mystical creature represents preparedness in forging ahead while its claws represent tenacity and courage in overcoming obstacles in the search for excellence.
-
-#### **School Song**
-\-

@@ -4,28 +4,29 @@ permalink: /school-histories/chai-chee-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chaicheesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chaicheesec1.png">
 
 ### **Chai Chee Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBZvrHwy-l5n-K_3rAcv_SBulwJzbpkWnUAur_kevqIWiNSsBHC6RCt9iLZ2oq4RBdD0QNj_qULaKU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chaicheesec2.jpg">  
-<img src="/images/chaicheesec2.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/chaicheesec2.jpg">
 </a></p>
 
 <p><a href="/images/chaicheesec3.jpg">  
-<img src="/images/chaicheesec3.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/chaicheesec3.jpg">
 </a></p>
 
 <p><a href="/images/chaicheesec4.jpg">  
-<img src="/images/chaicheesec4.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/chaicheesec4.jpg">
 </a></p>
 
 <p><a href="/images/chaicheesec5.jpg">  
-<img src="/images/chaicheesec5.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img align="left" style="width:22%;margin-right:15px;" src="/images/chaicheesec5.jpg">
 </a></p>
 
 <br clear="left">
@@ -71,14 +72,14 @@ Principals:<br>
 Challenged To Excel
 
 #### **School Crest**
-<img src="/images/chaicheesec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chaicheesec1.png">
 
 The two Chinese characters and the flame of the torch are in red. The outline of the torch, the border of the badge and the scroll featuring the letters ‘CCSS’ are in blue.
 
 <br clear="left">
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/17hTbAHwIRimWGSuJM3nYU9slxxE0SaUT/view?usp=share_link">**♫ Listen**</a>
 
 On the eastern shores of Singapore<br>
 Stands Chai Chee Secondary School<br>

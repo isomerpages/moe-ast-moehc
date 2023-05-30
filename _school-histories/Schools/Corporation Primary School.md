@@ -4,48 +4,49 @@ permalink: /school-histories/corporation-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/corporationpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/corporationpri1.png">
 
 ### **Corporation Primary School**
-[URL to website](https://corporationpri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://corporationpri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFwZJr0zAbejCHNL6SbBEwtc57vO_obVl-Nuynh1oAR-3Q9uxiPdWf5rQQ2nswWJpvO4EFGnXcRcj8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/corporationpri2.jpg">  
-<img src="/images/corporationpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri2.jpg">
 </a></p>
 
 <p><a href="/images/corporationpri3.jpg">  
-<img src="/images/corporationpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri3.jpg">
 </a></p>
 
 <p><a href="/images/corporationpri4.jpg">  
-<img src="/images/corporationpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/corporationpri5.jpg">  
-<img src="/images/corporationpri5.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/corporationpri5.jpg">
 </a></p>
 
 <p><a href="/images/corporationpri6.jpg">  
-<img src="/images/corporationpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri6.jpg">
 </a></p>
 
 <p><a href="/images/corporationpri7.jpg">  
-<img src="/images/corporationpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri7.jpg">
 </a></p>
 
 
 <p><a href="/images/corporationpri8.jpg">  
-<img src="/images/corporationpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri8.jpg">
 </a></p>
 
 <p><a href="/images/corporationpri9.jpg">  
-<img src="/images/corporationpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/corporationpri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -78,7 +79,7 @@ Principals:<br>
 Be Diligent and Helpful
 
 #### **School Crest**
-<img src="/images/corporationpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/corporationpri1.png">
 
 At the top of the crest is a book of knowledge and the educational torch is the beacon of truth and light.<br>
 The white background signifies purity and honesty;<br>
@@ -87,7 +88,7 @@ While the orange signifies the alertness in the pupils’ minds.<br>
 The school crest also bears the motto ‘Be Diligent and Helpful’, believing that diligent pupils would know their work well and should always help those who need assistance.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1TxEgBVVGlDvsEDEegEObbSFIWZW6ZfeL/view?usp=share_link">**♫ Listen**</a>
 
 To the school with a passion to learn and live,<br>
 where our thoughts are ever more.<br>

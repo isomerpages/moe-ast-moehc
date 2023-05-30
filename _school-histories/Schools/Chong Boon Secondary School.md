@@ -4,48 +4,49 @@ permalink: /school-histories/chong-boon-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chongboonsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chongboonsec1.png">
 
 ### **Chong Boon Secondary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqvfst7UpcfAI7YwKlho_dMXr9Th9imQBjYV7RyrnTS-JnDw4494_rZy3LnhpvIqwUO2iMYwjj73K4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chongboonsec2.jpg">  
-<img src="/images/chongboonsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec2.jpg">
 </a></p>
 
 <p><a href="/images/chongboonsec3.jpg">  
-<img src="/images/chongboonsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec3.jpg">
 </a></p>
 
 <p><a href="/images/chongboonsec4.jpg">  
-<img src="/images/chongboonsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chongboonsec5.jpg">  
-<img src="/images/chongboonsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec5.jpg">
 </a></p>
 
 <p><a href="/images/chongboonsec6.jpg">  
-<img src="/images/chongboonsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec6.jpg">
 </a></p>
 
 <p><a href="/images/chongboonsec7.jpg">  
-<img src="/images/chongboonsec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chongboonsec8.jpg">  
-<img src="/images/chongboonsec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec8.jpg">
 </a></p>
 
 <p><a href="/images/chongboonsec9.jpeg">  
-<img src="/images/chongboonsec9.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chongboonsec9.jpeg">
 </a></p>
 
 <br clear="left">
@@ -61,7 +62,7 @@ In 2005, CBSS became the first school to establish a satellite partnership with 
 
 In 2006, the school adopted the enduring metaphor of ‘Chong Boon, Our Garden of Growth’ and a new school crest. The metaphor reflects the school’s efforts and initiatives in environmental education. In 2009, CBSS was the first school to be awarded niche status in environmental education for its exemplary green efforts. By 2015, the school had strengthened its niche and launched its Applied Learning Programme in sustainable technologies. The programme aimed to nurture students to become creative and critical thinkers through the learning of sustainable technologies.
 
-In 2015, the school was accorded the Learning for Life Programme (LLP) in community and youth leadership. The LLP aimed to grow socially responsible, inclusive and active citizens who value and respect differences in people, and serve with humility and care. The LLP also advocated for environmentally sustainable living habits. 
+In 2015, the school was accorded the Learning for Life Programme (LLP) in community and youth leadership. The LLP aimed to grow socially responsible, inclusive and active citizens who value and respect differences in people, and serve with humility and care. The LLP also advocated for environmentally sustainable living habits.&nbsp;
 
 A former government-aided and co-educational secondary school, CBSS was merged with Yio Chu Kang Secondary School in 2018, adopting the latter’s name. However, the merged school retained CBSS’s Chinese name to reflect the amalgamation of the strengths and heritage of both schools.
 
@@ -93,7 +94,7 @@ Principals:<br>
 Competence, Benevolence, Steadfastness
 
 #### **School Crest**
-<img src="/images/chongboonsec1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chongboonsec1.png">
 
 The roots branching out in five directions symbolise the school’s five core values: perseverance, respect, integrity, dedication to the school and nation, and excellence. The roots are the foundation of the tree; without them, the tree will not survive. Just like the roots, the core values are the school’s firm beliefs that are deeply rooted. With these values, the school will grow and flourish.
 
@@ -104,7 +105,7 @@ The tree reaching towards the sky symbolises the students developing social and 
 The birds flying in the sky represent the creative and entrepreneurial spirit of the school. They signify the students going beyond the school and curriculum to venture into uncharted territories in their pursuit of lifelong learning. With moral courage, confidence and resilience, they will fly the extra mile to serve the nation.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1hSvI71O_Xn-ACrh95dpUX_tt6aLq7q82/view?usp=share_link">**♫ Listen**</a>	
 
 Cry out, near and far, for our banner reigns on high;<br>
 A symbol of our hopes and dreams,<br>

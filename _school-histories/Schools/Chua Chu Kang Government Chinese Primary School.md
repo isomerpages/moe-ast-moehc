@@ -4,50 +4,51 @@ permalink: /school-histories/cck-government-chi-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/cckgovtchipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cckgovtchipri1.png">
 
 ### **Chua Chu Kang Government Chinese Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpuXhBVnHXI0D6v8eLsnzWxUsvOLkfFEhI_mT6xPP7l2BcFrvnnvclvEur-tg4XeNQk27vEJ0qRbwP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/cckgovtchipri2.jpg">  
-<img src="/images/cckgovtchipri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri2.jpg">
 </a></p>
 
 <p><a href="/images/cckgovtchipri3.jpg">  
-<img src="/images/cckgovtchipri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri3.jpg">
 </a></p>
 
 <p><a href="/images/cckgovtchipri4.jpg">  
-<img src="/images/cckgovtchipri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/cckgovtchipri5.jpg">  
-<img src="/images/cckgovtchipri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri5.jpg">
 </a></p>
 
 <p><a href="/images/cckgovtchipri6.jpg">  
-<img src="/images/cckgovtchipri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri6.jpg">
 </a></p>
 
 <p><a href="/images/cckgovtchipri7.jpg">  
-<img src="/images/cckgovtchipri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/cckgovtchipri8.jpg">  
-<img src="/images/cckgovtchipri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/cckgovtchipri8.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-There is evidence that Chua Chu Kang Government Chinese Primary School had operated since 1957.   
+There is evidence that Chua Chu Kang Government Chinese Primary School had operated since 1957.&nbsp;  
   
 In 1988, Chua Chu Kang Government Chinese Primary School closed. In the same year, it merged with Chua Chu Kang Malay School to form Chua Chu Kang Primary School.
 
@@ -59,11 +60,8 @@ In 1988, Chua Chu Kang Government Chinese Primary School closed. In the same yea
 | Unknown | Establishment of Chua Chu Kang Government Chinese Primary School. |
 |
 
-#### **School Motto**
-\-
+
 
 #### **School Crest**
-<img src="/images/cckgovtchipri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/cckgovtchipri1.png">
 
-#### **School Song**
-\-

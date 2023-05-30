@@ -4,35 +4,36 @@ permalink: /school-histories/dunearn-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/dunearnsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/dunearnsec1.jpg">
 
 ### **Dunearn Secondary School**
-[URL to website](https://www.dunearnsec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://www.dunearnsec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKPxFOiD3fNepMsJXw9JfPPYapq8d9zDFBBhafR7BMlIiZzlCzTN3zNAPJp1-AVA4hzpVKh_mB2PzV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/dunearnsec2.jpg">  
-<img src="/images/dunearnsec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunearnsec2.jpg">
 </a></p>
 
 <p><a href="/images/dunearnsec3.jpg">  
-<img src="/images/dunearnsec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunearnsec3.jpg">
 </a></p>
 
 <p><a href="/images/dunearnsec4.jpg">  
-<img src="/images/dunearnsec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunearnsec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/dunearnsec5.jpg">  
-<img src="/images/dunearnsec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunearnsec5.jpg">
 </a></p>
 
 <p><a href="/images/dunearnsec6.jpg">  
-<img src="/images/dunearnsec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/dunearnsec6.jpg">
 </a></p>
 
 <br clear="left">
@@ -82,14 +83,14 @@ Principals:<br>
 Determined and Disciplined
 
 #### **School Crest**
-<img src="/images/dunearnsec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/dunearnsec1.jpg">
 
 Originally designed by Mr Ang Oo Seng, one of the school’s longest-serving pioneer teachers, the stylised flame in the centre of the badge symbolises the school as a place of learning and enlightenment. The flame also subtly depicts the letters ‘DSS’, which stand for the school name. The three panels forming the background represent the support given by School Advisory Committee members, staff, and parents of the students. The polished diamond represents each student of Dunearn developed to his/her full potential.
 
 The three school colours of red, blue and gold stand respectively for the passion and enthusiasm for learning; discipline and steadfastness in character; and the ultimate target of the school’s endeavours.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1HeimSjtxCSJr6Obx8vEt8vX-fmYiJCZr/view?usp=share_link">**♫ Listen**</a>	
 
 As I enter Dunearn’s gates<br>
 My heart swells up<br>

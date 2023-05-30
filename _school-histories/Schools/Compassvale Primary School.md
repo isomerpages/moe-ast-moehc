@@ -4,49 +4,50 @@ permalink: /school-histories/compassvale-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/compassvalepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/compassvalepri1.png">
 
 ### **Compassvale Primary School**
-[URL to website](https://compassvalepri.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://compassvalepri.moe.edu.sg/) 
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqobvxB9hjj4W3rrsWmVlwTzSa8SHRjWV2no8giCMj_CfUgOTxZj6xAbe7mZsm7Udfx4WYCEx2Gf4B/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/compassvalepri2.jpg">  
-<img src="/images/compassvalepri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri2.jpg">
 </a></p>
 
 <p><a href="/images/compassvalepri3.jpg">  
-<img src="/images/compassvalepri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri3.jpg">
 </a></p>
 
 <p><a href="/images/compassvalepri4.jpg">  
-<img src="/images/compassvalepri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/compassvalepri5.jpg">  
-<img src="/images/compassvalepri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri5.jpg">
 </a></p>
 
 <p><a href="/images/compassvalepri6.jpg">  
-<img src="/images/compassvalepri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri6.jpg">
 </a></p>
 
 <p><a href="/images/compassvalepri7.jpg">  
-<img src="/images/compassvalepri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/compassvalepri8.jpg">  
-<img src="/images/compassvalepri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri8.jpg">
 </a></p>
 
 <p><a href="/images/compassvalepri9.jpg">  
-<img src="/images/compassvalepri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri9.jpg">
 </a></p>
 
 <br clear="left">
@@ -85,7 +86,7 @@ Principals:<br>
 Share, Strive, Succeed
 
 #### **School Crest**
-<img src="/images/compassvalepri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/compassvalepri1.png">
 
 The emblem reflects the school’s commitment to the total development of the child through quality education centred on values and compassion, instilling the desire for lifelong learning and guiding students as they strive towards a successful future for themselves and Singapore.
 
@@ -94,7 +95,7 @@ The school colours are blue and white. The colour blue signifies both a healthy 
 The three concentric rings, that give the emblem its shape, symbolise the holistic growth of the individual at the centre, with an encompassing family followed by society. The geometry of the emblem forms the image of a compass, a tool for navigation, signifying the school’s mission to guide students as they journey through life by being grounded on values. The needle of the compass has a gold tip which symbolises wisdom, excellence and success. It points to the North-East, the region of Singapore in which the school is located.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1bvtyUvRx1kZXwjOlgjGvkFKyhqzqHYKp/view?usp=share_link">**♫ Listen**</a>
 
 We the pupils of Compassvale Primary<br>
 Striving for a bright tomorrow.<br>

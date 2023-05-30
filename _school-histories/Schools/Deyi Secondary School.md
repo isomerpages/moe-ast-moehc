@@ -4,51 +4,52 @@ permalink: /school-histories/deyi-sec/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/deyisec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deyisec1.jpg">
 
 ### **Deyi Secondary School**
-[URL to website](https://deyisec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://deyisec.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6rr3ekpoHquHDCj-n_V_D29SgHaRwZSorPsHIGHzOhbMqbnm7Kzxqs2daq0hTrFfhOPUxIgeUwIOY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/deyisec2.jpg">  
-<img src="/images/deyisec2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec2.jpg">
 </a></p>
 
 <p><a href="/images/deyisec3.jpg">  
-<img src="/images/deyisec3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec3.jpg">
 </a></p>
 
 <p><a href="/images/deyisec4.jpg">  
-<img src="/images/deyisec4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/deyisec5.jpg">  
-<img src="/images/deyisec5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec5.jpg">
 </a></p>
 
 <p><a href="/images/deyisec6.jpg">  
-<img src="/images/deyisec6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec6.jpg">
 </a></p>
 
 <p><a href="/images/deyisec7.jpg">  
-<img src="/images/deyisec7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec7.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/deyisec8.jpg">  
-<img src="/images/deyisec8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec8.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-Deyi Secondary School (formerly known as Teck Ghee Secondary School) was established in 1980 with the aim of making quality education accessible to the community in the then growing new town of Ang Mo Kio. The school adopted the motto ‘Dedication and Integrity’, with the objective of guiding students to be morally upright and academically driven. Deyi is guided by the philosophy that every child entrusted to the school is a gem, and that the teachers’ role is to help students fulfil their fullest potential and realise their dreams.
+Deyi Secondary School (formerly known as Teck Ghee Secondary School) was established in 1980 with the aim of making quality education accessible to the community in the then growing new town of Ang Mo Kio. The school adopted the motto ‘Dedication and Integrity’, with the objective of guiding students to be morally upright and academically driven.&nbsp;Deyi is guided by the philosophy that every child entrusted to the school is a gem, and that the teachers’ role is to help students fulfil their fullest potential and realise their dreams.
 
 Deyi has a wide range of distinctive programmes including the Active Voice Broadcast Journalism Programme, which introduces students to the basics of broadcasting and journalism, strengthening language literacy, critical thinking and communication skills. Deyi’s AC3TIve Framework provides impetus to the school’s Mi-Ke-Mon curriculum innovation project. It adds a fun twist on language acquisition with engagement in pen-it-down and mike-it-up tasks, which foster the joy of learning across a range of subjects and topics. The school’s arts education seeks to nurture gracious contributing citizens with its signature drama-in-curriculum modules.
 
@@ -85,7 +86,7 @@ Principals:<br>
 Dedication and Integrity
 
 #### **School Crest**
-<img src="/images/deyisec1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deyisec1.jpg">
 
 The school crest reflects the broad objective of the school, which is to provide an all-round education for its students. This is represented by the circle. The four D’s stand for dedication, determination, diligence and discipline – qualities that will enable students to meet the challenges in life.
 
@@ -94,7 +95,7 @@ The colour white signifies purity and integrity; blue symbolises the persevering
 From these emerge individuals of upright character and integrity, who will strive for success in all endeavours.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1VZGt8PwKR57p0v8DuZ1U7D4ANm4lVgqC/view?usp=share_link">**♫ Listen**</a>	
 
 Deyi, our school that cares for us<br>
 Deyi, our dear Deyi<br>

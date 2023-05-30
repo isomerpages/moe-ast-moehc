@@ -4,24 +4,24 @@ permalink: /school-histories/bukit-ho-swee-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/bukithosweepri1.png">
+<img src="/images/bukithosweepri1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Bukit Ho Swee Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5dZITO-FAToEUNtXxEhrUlLypNQ8mgpbELoDrBRN9AEU3XImVsrMhW\_TsRYE-5fEzOIaBu86-PouU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS5dZITO-FAToEUNtXxEhrUlLypNQ8mgpbELoDrBRN9AEU3XImVsrMhW_TsRYE-5fEzOIaBu86-PouU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 <p><a href="/images/bukithosweepri2.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri2.png">
+<img src="/images/bukithosweepri2.png" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/bukithosweepri3.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri3.png">
+<img src="/images/bukithosweepri3.png" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/bukithosweepri4.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukithosweepri4.png">
+<img src="/images/bukithosweepri4.png" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
@@ -49,11 +49,13 @@ Last Serving Principal:<br>
 Do The Best We Can
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/bukithosweepri1.png">
+<img src="/images/bukithosweepri1.png" style="width:20%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 All we want to do is give the best we can<br>
 In studies or at play, we’ll give a helping hand<br>
 And as students and teachers a team we’ll always be<br>

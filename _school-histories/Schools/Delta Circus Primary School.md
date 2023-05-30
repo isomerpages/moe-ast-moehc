@@ -4,16 +4,17 @@ permalink: /school-histories/delta-circus-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/deltacircuspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deltacircuspri1.png">
 
 ### **Delta Circus Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRUMHm30F1NkSzTKsXihMWlxd6X5yr2MfsmzLUQrmbH7ZbwoQw_UjECFHHdlhPBhJCFKPQ5HRJQ0sM/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/deltacircuspri2.jpg">  
-<img src="/images/deltacircuspri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/deltacircuspri2.jpg">
 </a></p>
 
 <br clear="left">
@@ -35,9 +36,6 @@ In 1991, Delta Circus Primary School closed.
 Determination, Consideration, Progress, Success
 
 #### **School Crest**
-<img src="/images/deltacircuspri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/deltacircuspri1.png">
 
 <br clear="left">
-
-#### **School Song**
-\-

@@ -4,53 +4,54 @@ permalink: /school-histories/de-la-salle-sch/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/delasallesch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/delasallesch1.png">
 
 ### **De La Salle School**
-[URL to website](https://delasalle.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://delasalle.moe.edu.sg/)
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkiE7bkCsNi4CCt_qtzgTQqf33JyK2qu03eO82ssAD2Wp-rV72FY7X0mHXPrwK4LTvy4rKb9s7JQSm/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/delasallesch2.jpg">  
-<img src="/images/delasallesch2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/delasallesch2.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch3.jpg">  
-<img src="/images/delasallesch3.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img align="left" style="width:28%;margin-right:15px;" src="/images/delasallesch3.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch4.jpg">  
-<img src="/images/delasallesch4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/delasallesch4.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch5.jpg">  
-<img src="/images/delasallesch5.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img align="left" style="width:28%;margin-right:15px;" src="/images/delasallesch5.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch6.jpg">  
-<img src="/images/delasallesch6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/delasallesch6.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch7.jpg">  
-<img src="/images/delasallesch7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/delasallesch7.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch9.jpg">  
-<img src="/images/delasallesch9.jpg" style="width:30%;margin-right:45px;" align = "right">
+<img align="right" style="width:30%;margin-right:45px;" src="/images/delasallesch9.jpg">
 </a></p>
 
 <p><a href="/images/delasallesch8.jpg">  
-<img src="/images/delasallesch8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/delasallesch8.jpg">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-De La Salle School is one of the six Christian Brothers’ School of the De La Salle Order in Singapore. It started as a boys’ school in Kampong Bahru in 1952. To commemorate the 100th anniversary of the arrival of the first Lasalle Brothers to Asia in 1852, the school was named after the founder, St John Baptist De La Salle. 
+De La Salle School is one of the six Christian Brothers’ School of the De La Salle Order in Singapore. It started as a boys’ school in Kampong Bahru in 1952. To commemorate the 100th anniversary of the arrival of the first Lasalle Brothers to Asia in 1852, the school was named after the founder, St John Baptist De La Salle.&nbsp;
 
-In 1992, the school was given a new site at 11 Choa Chu Kang Street 52.   Construction of the new school began in December 1995. In 1996, the school admitted its first batch of female students for the lower-primary classes, which functioned in the afternoon session at the holding site at 36 Jalan Teck Whye. The all-boys upper-primary classes remained at the Kampong Bahru campus. In January 1997, both upper- and lower-primary classes functioned together as a double-session co-educational school at the holding site. On 9 November of the same year, the school moved into its new premises in Choa Chu Kang. The school population increased over the years. 
+In 1992, the school was given a new site at 11 Choa Chu Kang Street 52.&nbsp;&nbsp; Construction of the new school began in December 1995. In 1996, the school admitted its first batch of female students for the lower-primary classes, which functioned in the afternoon session at the holding site at 36 Jalan Teck Whye. The all-boys upper-primary classes remained at the Kampong Bahru campus. In January 1997, both upper- and lower-primary classes functioned together as a double-session co-educational school at the holding site. On 9 November of the same year, the school moved into its new premises in Choa Chu Kang. The school population increased over the years.&nbsp;
 
 In 2011, the school became a single-session school and moved to a holding site while its premises at Choa Chu Kang were rebuilt under the PRIME programme. In November 2012, the school returned to Choa Chu Kang and began operations in 2013 in a new building with upgraded facilities.
 
@@ -84,7 +85,7 @@ _Semper Fidelis <br>
 _Always Faithful
 
 #### **School Crest**
-<img src="/images/delasallesch1.png" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/delasallesch1.png">
 
 The crest is taken from the logo of the Lasalle Brothers and is made up of three parts:
 
@@ -95,7 +96,7 @@ _**The Three Broken Chevrons**_
 The coat of arms of the De La Salle Family, coming down from medieval times, features chevrons or sets of triangles leaning towards each other. In these the Brothers see a powerful symbol of mutual dependence or Brotherhood. In a way, the chevrons also recall the type of white collar "rabat" which traditionally has been worn by the Brothers.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1qJEEXdJikd3AKarGHsSbq3Kk7J5ipY6G/view?usp=share_link">**♫ Listen**</a>
 
 All through De La Salle a voice is resounding<br>
 Promptly respond to your duty's sweet call,<br>

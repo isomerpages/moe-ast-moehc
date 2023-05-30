@@ -4,39 +4,39 @@ permalink: /school-histories/chij-our-lady-queen-of-peace/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/chijpeace1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijpeace1.jpg">
 
 ### **CHIJ Our Lady Queen Of Peace**
-[URL to website](https://chijourladyqueenofpeace.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://chijourladyqueenofpeace.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaKtzBE1arcw2Gs4w1_7CAfM0TRDSsMcu6YJxMaq5NEs19X1UmcaQa3u637F2B8CQKbxbkWIL6mrqH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/chijpeace2.jpg">  
-<img src="/images/chijpeace2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijpeace2.jpg">
 </a></p>
 
 <p><a href="/images/chijpeace3.jpg">  
-<img src="/images/chijpeace3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijpeace3.jpg">
 </a></p>
 
 <p><a href="/images/chijpeace4.jpg">  
-<img src="/images/chijpeace4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijpeace4.jpg">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/chijpeace5.jpg">  
-<img src="/images/chijpeace5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijpeace5.jpg">
 </a></p>
 
 <p><a href="/images/chijpeace6.jpg">  
-<img src="/images/chijpeace6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijpeace6.jpg">
 </a></p>
 
 <p><a href="/images/chijpeace7.jpg">  
-<img src="/images/chijpeace7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/chijpeace7.jpg">
 </a></p>
 
 <br clear="left">
@@ -74,16 +74,16 @@ Principals:<br>
 
 #### **School Motto**
 Simple Dans Ma Vertu, Forte Dans Devoir (French Version)<br>
-Simple in Virtue, Steadfast in Duty (English Version)   
+Simple in Virtue, Steadfast in Duty (English Version)&nbsp;  
   
-To be **Simple in Virtue** is to cultivate a personal honesty which frees us to relate to others with respect, openness and sincerity and to become disinterested seekers of truth, wisdom and all that is good.  It is the core from which we operate.  
+To be&nbsp;**Simple in Virtue**&nbsp;is to cultivate a personal honesty which frees us to relate to others with respect, openness and sincerity and to become disinterested seekers of truth, wisdom and all that is good.&nbsp; It is the core from which we operate.  
   
-To be **Steadfast in Duty** is to have the strength of character necessary to commit oneself to a goal. It embraces the capacity to rise above the difficulties and obstacles encountered in the execution and completion of any task or duty undertaken in the service of others.
+To be&nbsp;**Steadfast in Duty**&nbsp;is to have the strength of character necessary to commit oneself to a goal. It embraces the capacity to rise above the difficulties and obstacles encountered in the execution and completion of any task or duty undertaken in the service of others.
 
 #### **School Crest**
-<img src="/images/chijpeace1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/chijpeace1.jpg">
 
-The CHIJ badge or crest (called the Blason, in French) was designed by Mother Saint Aloysia and the CHIJ senior students in 1894 in France incorporating into its concept and design, values and aspirations which they wished to be lived out in each CHIJ School. Their design is still proudly worn by thousands of CHIJ students in the 21st century. This badge is a symbol of the international unity binding together students from Singapore, Malaysia, Thailand and Japan.   
+The CHIJ badge or crest (called the Blason, in French) was designed by Mother Saint Aloysia and the CHIJ senior students in 1894 in France incorporating into its concept and design, values and aspirations which they wished to be lived out in each CHIJ School. Their design is still proudly worn by thousands of CHIJ students in the 21st century. This badge is a symbol of the international unity binding together students from Singapore, Malaysia, Thailand and Japan.&nbsp;  
   
 At the centre of the school crest lies a red shield with a silver band edged in gold. On the right side of the shield is the Book of Gospels with a silver rosary. On the left is a golden distaff and spindle. The shield, surmounted by a gold cross, is encircled by a garland of marguerites. Emblazoned on the crest is the motto of all CHIJ schools:-
 
@@ -92,16 +92,16 @@ Simple in Virtue, Steadfast in Duty
 </strong></figcaption>  
 </figure>
 
-The open **Gospel** points to the source of inspiration which guides the whole school community. The **silver rosary** represents the story of the Gospel as seen through the eyes of Virgin Mary.   
+The open&nbsp;**Gospel**&nbsp;points to the source of inspiration which guides the whole school community. The&nbsp;**silver rosary**&nbsp;represents the story of the Gospel as seen through the eyes of Virgin Mary.&nbsp;  
   
-The **golden distaff** and **spindle** are symbols of womanly labour, typical of an earlier period, which remind us of the dignity of work and the satisfaction and fulfilment to be found in a task well-accomplished.   
+The&nbsp;**golden distaff**&nbsp;and&nbsp;**spindle**&nbsp;are symbols of womanly labour, typical of an earlier period, which remind us of the dignity of work and the satisfaction and fulfilment to be found in a task well-accomplished.&nbsp;  
   
-The cross which surmounts the crest serves as a reminder that the source of our inspiration, dedication and fidelity comes from Christ.   
+The cross which surmounts the crest serves as a reminder that the source of our inspiration, dedication and fidelity comes from Christ.&nbsp;  
   
-The **red shield is encircled by a garland of marguerites**. These simple flowers are found by the wayside in France and are symbolic of the purity and simplicity which should characterize our relationships at every level.
+The&nbsp;**red shield is encircled by a garland of marguerites**. These simple flowers are found by the wayside in France and are symbolic of the purity and simplicity which should characterize our relationships at every level.
 
 #### **School Song**
-**Audio, require school to upload on youtube**
+<a target="\_blank" href="https://drive.google.com/file/d/1_nsvCHuMvJJZrnIXJ_0pm0VGx2MTKvmL/view?usp=share_link">**♫ Listen**</a>	
 
 Forward CHIJ forge a future bright<br>
 Advancing our aims with zeal and might<br>

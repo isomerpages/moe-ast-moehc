@@ -4,20 +4,21 @@ permalink: /school-histories/bukit-merah-pri/
 description: ""
 third_nav_title: Schools
 ---
-<img src="/images/bukitmerahpri1.jpg" style="width:20%;margin-right:15px;" align = "left">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bukitmerahpri1.jpg">
 
 ### **Bukit Merah Primary School**
 
 <br clear="left">
 
 #### **Image Gallery**
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-UiNj1W2IwtU7uQgNwUciv2m36alviD0DEC51QD96T-58tEsscXG0tZp1joLlQNgGRmE1BoMyLAX3/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
 <p><a href="/images/bukitmerahpri2.jpg">  
-<img src="/images/bukitmerahpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahpri2.jpg">
 </a></p>
 
 <p><a href="/images/bukitmerahpri3.jpg">  
-<img src="/images/bukitmerahpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahpri3.jpg">
 </a></p>
 
 <br clear="left">
@@ -39,7 +40,7 @@ In 1998, Bukit Merah Primary School merged with Alexandra Hill Primary School an
 Excellence
 
 #### **School Crest**
-<img src="/images/bukitmerahpri1.jpg" style="width:25%;margin-right:15px;" align = "left">
+<img align="left" style="width:25%;margin-right:15px;" src="/images/bukitmerahpri1.jpg">
 
 The turquoise blue frame signifies the neighbourhood which Bukit Merah Primary School is serving.
 
@@ -48,6 +49,8 @@ The lion together with the burning torch signifies courage and vitality in the p
 The light green and turquoise blue are the school colours and the colours of the school uniform.
 
 #### **School Song**
+<small>*School song unavailable*</small>
+
 From far and near we gather together,<br>
 At Bukit Merah Primary School,<br>
 Knowledge to seek and ready to render,<br>
