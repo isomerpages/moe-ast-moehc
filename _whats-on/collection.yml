@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Upcoming Events/June Holidays Programme.md
       - Upcoming Events/.keep
       - Upcoming Events/Current & Upcoming Events.md
       - "Upcoming Events/United We Stand: Fighting COVID19 Together.md"
