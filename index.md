@@ -4,8 +4,7 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: "We are closed on 23 June (morning). The gallery will be open from
-  2pm onwards. "
+notification: ""
 sections:
   - hero:
       title: Welcome!
