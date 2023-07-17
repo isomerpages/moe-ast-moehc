@@ -68,7 +68,8 @@ Principals:<br>
 \- Mrs Woo Yoke Yoong (2000–2002)<br>
 \- Ms Lim Poh Suan (2002–2006)<br>
 \- Mrs Loh Meng Har (2007–2014)<br>
-\- Mrs Chandrika Mano (2014–present)
+\- Mrs Chandrika Mano (2014–2020)<br>
+\- Mr Chew Mun Wai (2021–present)
 
 **Related Schools: [Charlton School](/school-histories/charlton-sch/) | [Parry Primary School](/school-histories/parry-pri)**
 
