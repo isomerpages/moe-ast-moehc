@@ -7,7 +7,7 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandssec1.png">
 
 ### **Woodlands Secondary School**
-[URL to website](https://woodlandssec.moe.edu.sg/) - may require to change in future when original website is removed
+[URL to website](https://woodlandssec.moe.edu.sg/)
 
 <br clear="left">
 
@@ -55,15 +55,19 @@ third_nav_title: Schools
 #### **School History**
 Woodlands Secondary School was established in 1982 with 205 students and 13 staff as a government co-educational school to cater to the growing population in Woodlands and Marsiling. It was initially sited at Si Ling Secondary School’s premises. In June 1982, the school relocated to its current premises at 8 Admiralty Road, and was officially opened on 20 September that year. Woodlands Secondary has the distinction of being the northernmost school in Singapore, just a stone’s throw away from the Singapore-Johor Causeway.
 
-Since its inception, Woodlands Secondary School has become a familiar icon in the neighbourhood. The founding principal encouraged every student to develop fully to his/her ability. She believed in the age-old adage, ‘_Mens sana in corpore sano_’ (sound minds in sound bodies), and this has shaped the way the school has grown over time, being student-centric in its approach and providing an all-rounded education for each and every Woodlander that passes through its doors. Over the years, the school has sustained the legacy of delivering value-added outcomes for students, and built a reputation of sporting excellence – creating a niche for itself in football and sepak takraw – as well as outstanding uniformed and performing arts groups.
+Since its inception, Woodlands Secondary School has become a familiar icon in the neighbourhood. The founding principal encouraged every student to develop fully to his/her ability. She believed in the age-old adage, ‘Mens sana in corpore sano’ (sound minds in sound bodies), and this has shaped the way the school has grown over time, being student-centric in its approach and providing an all-rounded education for each and every Woodlander that passes through its doors. Over the years, the school has sustained the legacy of delivering value-added outcomes for students, and built a reputation of sporting excellence – creating a niche for itself in football and sepak takraw – as well as outstanding uniformed and performing arts groups.
 
 In 1999, Woodlands Secondary School became single-session. In 2003, it underwent PRIME upgrading and was designated as an Innovation Centre. The entrance of the school was shifted to face a less busy road, and the address of the school changed to 11 Marsiling Road. In 2006, a new school vision, ‘Weave, Dream, Lead’, was adopted as the school progressed to new peaks of excellence in educating each Woodlander that joins its ranks.
 
-In 2012, the school celebrated its 30th anniversary and attained the Singapore Quality Class award. It also welcomed the addition of an indoor sports hall and a synthetic turf field.&nbsp;
+In 2012, the school celebrated its 30th anniversary and attained the Singapore Quality Class award. It also welcomed the addition of an indoor sports hall and a synthetic turf field. 
 
 In 2015, Woodlands Secondary School was accorded the Applied Learning Programme, ‘Real Food, Real Science’, and the Learning for Life Programme, ‘Active Global Citizens Programme’.
 
-The school crafted its new vision, mission and values in 2018. The new vision, ‘Every Woodlander a Gift to Society’, speaks of its aspiration of being a hope-building school that enables success for all.&nbsp;
+The school crafted its new vision, mission and values in 2018. The new vision, ‘Every Woodlander a Gift to Society’, speaks of its aspiration of being a hope-building school that enables success for all. 
+
+The school celebrated its 40th Anniversary in 2022 with the presence of all the past principals present for a simple celebration.
+
+In 2023, the school welcomed its first batch of FSBB students where students will be in mixed form classes where they can interact with peers of different strengths and interests.
 
 Principals:<br>
 \- Mrs Jayam Narayanaswamy (1982–1986)<br>
@@ -87,8 +91,8 @@ Principals:<br>
 | 2011 | Entered the Singapore Book of Records for completing the largest number of origami roses display, with 90,111 roses. |
 | 2011 | Official opening of the indoor sports hall. |
 | 2012 | Celebration of 30th anniversary. |
-| 2014 | Launch of cohort-based overseas values-in-action programme for Secondary Three students. |
 | 2018 | Launch of new vision, mission and values. |
+| 2022 | School celebrated its 40th anniversary. |
 |
 
 #### **School Motto**
@@ -97,7 +101,11 @@ Wisdom and Truth
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandssec1.png">
 
-The overall blue tone reflects the setting of the school, which is located near the sea. The colour blue also represents harmony, serenity and closeness to nature. The six-pointed star signifies the total development of the individual’s academic, physical, social, emotional, aesthetic and moral aspects, which are strengthened to fineness as represented by the points of the star. The stylised letter ‘W’ resembles a soaring bird, representing the purity of spirit and ambition to reach greater heights.
+The overall blue tone reflects the setting of the school near the sea. Blue represents harmony, serenity and a closeness to nature.
+
+The six-pointed golden star encompasses the total development of the individual's academic, physical, social, emotional, aesthetic and moral aspects that will be strengthened to a fineness represented by the points of the star.
+
+The stylised W is designed as a soaring bird representing purity of spirit and ambition to reach greater heights. It is the focus of loyalty and aims to foster a sense of belonging and pride in the school.
 
 #### **School Song**
 <a href="https://drive.google.com/file/d/1KzznUZJCL7rfOk_-NfSDh4MgaHnzkecL/view?usp=share_link" target="_blank">**♫ Listen**</a>
