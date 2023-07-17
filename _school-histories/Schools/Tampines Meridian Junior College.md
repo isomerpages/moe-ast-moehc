@@ -25,12 +25,13 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Tampines Meridian Junior College was established in 2019 through the merger of Tampines Junior College and Meridian Junior College. It is currently located at 21 Pasir Ris Street 71.
+Tampines Meridian Junior College was established in 2019 from the merger of Tampines Junior College and Meridian Junior College. It is located on the former grounds of MJC.
 
 The college offers two Ministry of Education special programmes: Drama Elective Programme and Malay Language Elective Programme. It also boasts signature programmes such as the Talent and Leadership Development Programme and the ExPlore! Overseas education and exposure programme.
 
 Principal:<br>
-\- Ms Pamela Yoong (2019–present)
+\- Ms Pamela Yoong (2019-2022) <br>
+\- Mr Sin Kim Ho (2023- present) 
 
 **Related Schools: [Tampines Junior College](/school-histories/tampines-jc/) | [Meridian Junior College](/school-histories/meridian-jc/)**
 
@@ -39,9 +40,15 @@ Principal:<br>
 |  |  |
 |:---:|---|
 | 2019 | Establishment of Tampines Meridian Junior College from the merger of Tampines Junior College and Meridian Junior College. |
-| 2019 | First morning assembly and raising of the college flag; Celebration of first anniversary, ‘TM Celebrates!’. |
-| 2020 | College anthem sung for the first time. |
-|
+| 2019 | First morning assembly and raising of the college flag; Inaugural Badge-Pinning Ceremony
+| 2019 | Inaugural TM Run
+| 2019 | Inaugural TMJC College Day (featuring class of 2019 from Tampines Junior College and Meridian Junior College). 
+| 2019 | Celebration of first anniversary, ‘TM Celebrates!’
+| 2020 | College anthem sung for the first time. 
+| 2020 | Inaugural Tembusu Tree-Planting Ceremony (Tembusu Lane)
+| 2020 | Inaugural TM Sparkles
+| 2021 |  Establishment of TM EcoGreen
+| 2022 | Inaugural TM Unites; Establishment of TM Cove
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tampinesmeridianjc1.png">
