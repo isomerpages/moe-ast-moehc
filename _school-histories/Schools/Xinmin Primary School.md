@@ -15,37 +15,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHDVrAExII5dMPu6COiTqkApv45rjqXBXTihB5m8T1kkAXfsL_BDeLXE2Y9_AhcstRFJmaAcxfnLaW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/xinminpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri2.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri3.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri4.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri5.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri6.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri7.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri8.jpg">
-</a></p>
-
-<p><a href="/images/xinminpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminpri9.jpg">
-</a></p>
 
 <br clear="left">
 
