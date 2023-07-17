@@ -7,49 +7,14 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/xingnanpri1.png">
 
 ### **Xingnan Primary School**
-[URL to website](https://xingnanpri.moe.edu.sg/
 
+[School Website](https://xingnanpri.moe.edu.sg/)
 <br clear="left">
+
 
 #### **Image Gallery**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaJzHiL07EDSCstQv9iM_zqtWo2TxuHYFIHsf01UbyE0q07dafxiKaqTFTzpegfdg_pC8ML8E0lbtN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<p><a href="/images/xingnanpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri2.jpg">
-</a></p>
-
-<p><a href="/images/xingnanpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri3.jpg">
-</a></p>
-
-<p><a href="/images/xingnanpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/xingnanpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri5.jpg">
-</a></p>
-
-<p><a href="/images/xingnanpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri6.jpg">
-</a></p>
-
-<p><a href="/images/xingnanpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/xingnanpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri8.jpg">
-</a></p>
-
-<p><a href="/images/xingnanpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xingnanpri9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -82,7 +47,8 @@ Principals:<br>
 \- Mrs Koh Sau Peng (1998–2005)<br>
 \- Mr Gau Poh Teck (2005–2010)<br>
 \- Mrs Wee Kwan-Liam (2010–2015)<br>
-\- Mr Charles Chan (2015–present)
+\- Mr Charles Chan (2015–2022)<br>
+\- Mrs Cindy Ong (2022–Present)
 
 #### **Key Milestones**
 
@@ -96,6 +62,7 @@ Principals:<br>
 | 2012 | Celebration of 80th anniversary. |
 | 2016 | Completion of PERI upgrading. |
 | 2017 | Celebration of 85th anniversary. |
+| 2022 | Celebration of 90th Annivesary. |
 |
 
 #### **School Motto**

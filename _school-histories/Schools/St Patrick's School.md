@@ -7,59 +7,24 @@ third_nav_title: Schools
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stpatrickssch1.jpg">
 
 ### **St. Patrick's School**
-[URL to website](https://stpatricks.moe.edu.sg/) - may require to change in future when original website is removed
-
+[URL to website](https://stpatricks.moe.edu.sg/)
 <br clear="left">
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpE8SDw7RwACVL8jZ9awHu3Aqo1MXePGmOMh0WKrwMrmjo9ESUf7rgDSS4AHzTdYZTVToT1ugZu-rV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/stpatrickssch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch2.jpg">
-</a></p>
-
-<p><a href="/images/stpatrickssch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch3.jpg">
-</a></p>
-
-<p><a href="/images/stpatrickssch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/stpatrickssch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch5.jpg">
-</a></p>
-
-<p><a href="/images/stpatrickssch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch6.jpg">
-</a></p>
-
-<p><a href="/images/stpatrickssch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/stpatrickssch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch8.jpg">
-</a></p>
-
-<p><a href="/images/stpatrickssch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stpatrickssch9.jpg">
-</a></p>
-
 <br clear="left">
 
 #### **School History**
-St Patrick’s School (圣伯特理中学校) is a Lasallian Roman Catholic boys’ secondary school located on East Coast Road. The school was founded in 1933 as a temporary branch school of St Joseph’s Institution. It was built on land acquired by the La Salle Brothers in 1898, which had been intended to be a resort bungalow for the brothers. However, Brother Stephen Buckley saw the population growth in the eastern side of the island and petitioned the La Salle Brothers to build a school on this piece of land. The main school building was completed in 1932, and St Patrick’s became a school in its own right in 1933.
+The school was founded in 1933 as a temporary branch school of Saint Joseph's Institution, another Catholic boys' school in Singapore. It was built on land acquired by the La Salle Brothers in 1898 which was originally intended for building a resort bungalow. Brother Stephen Buckley saw the population growth in eastern Singapore and petitioned the La Salle Brothers to build a school on that piece of land. The main school building was completed in 1932 and Saint Patrick's became a school in its own right in 1933.
 
-During the Second World War, the school was used by the British as a hospital and later by the Japanese as an administrative building. It was returned to the Brothers in 1946 after the war.
+During World War II, the school was used by the British as a hospital and later by the Japanese as an administrative building. It was returned to the La Salle Brothers in 1946.
 
-In 1957, the primary section of the school separated and became St Stephen’s School. St Patrick’s became co-educational with the introduction of pre-university classes in 1963, but this was phased out in 1978, and the school returned to being an all-boys school.
+In 1957, the primary section of the school was separated and became Saint Stephen's School, a primary school for boys.
 
-St Patrick’s School is affiliated with the four Lasallian primary schools in Singapore – St Joseph’s Institution Junior (formerly St Michael’s School), St Stephen’s School, De La Salle School and St Anthony’s Primary School – as well as St Joseph’s Institution and Catholic Junior College.  
+In 1969, Saint Patrick's became a co-educational school with the introduction of pre-university classes. However, with the phasing out of such classes in 1978, the school returned to being an all-boys school.
+
+Today, Saint Patrick’s School remains proud institution with more than 85 years of history and heritage. Even as we remain rooted in our traditions, values and beliefs, we are committed to constantly evolving in order to best meet the needs of our students.
 
 Principals:<br>
 \- Bro Loarn Lynam (1933)<br>
@@ -96,10 +61,9 @@ Principals:<br>
 | 1963 | Start of pre-university co-educational classes. |
 | 1975 | Celebration of 30th anniversary of the postwar reopening of the school. |
 | 1978 | Inauguration of the Patrician Society (Alumni). |
-| 1982 | Military Band became Asia’s first to participate in the New York St Patrick’s Day Parade. |
-| 2005 | Awarded gold with honours in the first year of the Singapore Youth Festival’s grading system. |
-| 2012 | Adiji Scout Ceremony is attended by 6,000 scouts. |
-| 2018 | Celebration of 85th anniversary. |
+| 1982 | The first school band from Asia to participate at the St. Patrick’s Day parade in New York. |
+| 2012 | Over 6000 scouts attended the 'Adiji (Welcome) Chief Scout' ceremony to welcome our President Dr Tony Tan as the new Chief Scout. |
+| 2023 | Celebration of 90th anniversary. |
 |
 
 #### **School Motto**

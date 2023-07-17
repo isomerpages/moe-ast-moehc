@@ -62,7 +62,8 @@ In 2018, the school was accorded the Applied Learning Programme on environmental
 Principals:<br>
 \- Mr N. Jayachandran (1998–2006)<br>
 \- Mdm Rashidah Abdul Rasip (2007–2014)<br>
-\- Mr Eddie Foo (2015–present)
+\- Mr Eddie Foo (2015–2022) <br>
+\- Mr Lee Fook Loong Eugene (2023-present)
 
 #### **Key Milestones**
 
