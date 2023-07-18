@@ -73,7 +73,8 @@ Principals:<br>
 \- Mr Fong Whay Chong (1997–2000)<br>
 \- Ms Elizabeth Chan Boey Koon (2001–2005)<br>
 \- Mrs Celine Ng (2006–2015)<br>
-\- Mdm Elis Tan Lee Ching (2016–present)
+\- Mdm Elis Tan Lee Ching (2016–2022)<br>
+\- Mr Suraj Nair (2023 – present) 
 
 #### **Key Milestones**
 
