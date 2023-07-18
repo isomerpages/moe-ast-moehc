@@ -68,7 +68,8 @@ Principals:<br>
 \- Mrs Chean-Ho Wei Fang (2000–2005)<br>
 \- Ms Chua Soh Leng (2006–2012)<br>
 \- Mr Hanafi Asmore (2013–2019)<br>
-\- Ms Chew Tock Lee (2020–present)
+\- Ms Chew Tock Lee (2020–2021)<br>
+\- Mdm Norliza A. Rahim (2022- present) 
 
 #### **Key Milestones**
 
