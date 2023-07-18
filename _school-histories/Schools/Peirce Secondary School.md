@@ -37,9 +37,15 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Peirce Secondary School was established in 1994 at the premises of Bishan Park Secondary School. On 17 February 1995, the school moved to its current premises at 10 Sin Ming Walk. The indoor sports hall was completed at the end of 2008 following PRIME upgrading. In 2009, Peirce Secondary was accorded niche status for uniformed groups. The school’s synthetic turf was completed and put to use in June 2011. In 2014, the school celebrated its 20th anniversary. Peirce Secondary merged with Bishan Park Secondary School in January 2018, and the new Peirce Secondary School operated from its site at 10 Sin Ming Walk.
+Peirce Secondary School was established in 1994 at the premises of Bishan Park Secondary School. On 17 February 1995, the school moved to its current premises at 10 Sin Ming Walk. The indoor sports hall was completed at the end of 2008 following PRIME upgrading. 
 
-The school’s Applied Learning Programme is in languages, with a focus on broadcast journalism. The programme allows students to apply English and mother tongue language skills from various genres in an authentic setting to communicate and serve the community. Its Learning for Life Programme is in community and youth leadership, which aims to develop leadership skills progressively in all students – starting with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills, and values to become community leaders.
+In 2009, Peirce Secondary was accorded niche status for uniformed groups. The school’s synthetic turf was completed and put to use in June 2011. 
+
+In 2014, the school celebrated its 20th anniversary. Peirce Secondary merged with Bishan Park Secondary School in January 2018, and the new Peirce Secondary School operated from its site at 10 Sin Ming Walk. The school’s Applied Learning Programme focuses on ‘Deepening Reflection and Developing Critical Thinking through Media. 
+
+The programme provides students an authentic learning platform to hone their writing and oral skills. Collaboration is conducted via e-platforms, building not just the digital literacy of our students but also providing opportunities for them to blossom into collaborative learners and confident speakers. 
+
+Its Learning for Life Programme is in community and youth leadership, which aims to develop leadership skills progressively in all students – starting with personal and community leadership and culminating in executive leadership. All students will acquire basic leadership competencies, social emotional skills, and values to become community leaders.
 
 Principals:<br>
 \- Mr Chia Choon Kiat (1994–1984)<br>
@@ -62,6 +68,7 @@ Principals:<br>
 | 2009 | Accorded niche status in uniformed groups. |
 | 2014 | Celebration of 20th anniversary. Accorded Applied Learning Programme in business and entrepreneurship development, and Learning for Life Programme in community and youth leadership. |
 | 2018 | Merger with Bishan Park Secondary School. Accorded Applied Learning Programme in broadcast journalism and Learning for Life Programme in community and youth leadership. |
+| 2021 | Focus of Applied Learning Programme - Deepening reflection and developing critical thinking through media. |
 |
 
 #### **School Motto**
