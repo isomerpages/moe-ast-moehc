@@ -75,7 +75,8 @@ Principals:<br>
 \- Mr Lau Yan Boon (2002–2007)<br>
 \- Mrs Mano Hirubalan (2007–2008)<br>
 \- Mr Ang Chee Seng (2009–2015)<br>
-\- Mdm Rasidah Bte Rahim (2016–present)
+\- Mdm Rasidah Bte Rahim (2016–2021)<br>
+\- Mr Sim How Chong (2022-present) 
 
 #### **Key Milestones**
 
