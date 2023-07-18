@@ -30,14 +30,15 @@ In 1979, Raffles Girls’ Primary School was relocated to Holland Grove Road. In
 Raffles Girls’ Primary School was accorded the Applied Learning Programme, ‘Nurture Confident Communicators’, and the Learning for Life Programme, ‘Developing Creativity through Collaborative Music Making’.
 
 Principals:<br>
-\- Mrs Ambiviagar (1958)<br>
+\- Mrs Ambiavagar (1958) <br>
 \- Mrs V. Pestana (1959)<br>
 \- Mrs Ida Goh (1960–1969)<br>
 \- Mrs Lim Soo Noi (1970–1985)<br>
 \- Mrs Koh Mei Ling (1985–1988)<br>
 \- Ms Nanda Bandara (1989–1998)<br>
 \- Ms Tan Siok Cheng (1999–2008)<br>
-\- Mrs Yue Yoke Mun (2009–present)
+\- Mrs Yue Yoke Mun (2009–2021)<br>
+\- Mrs Elaine Quek-Lim (2022 - present)
 
 #### **Key Milestones**
 
