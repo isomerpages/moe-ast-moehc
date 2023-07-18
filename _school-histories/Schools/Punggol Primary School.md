@@ -53,9 +53,15 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Punggol Primary School was established in January 1995, sited at the former Hai Sing Girls’ High School. In March 1995, the school moved to its present location at Hougang Avenue 8. The school completed its PRIME upgrading in 2004 and PERI upgrading in 2018.&nbsp;
+Punggol Primary School was established in January 1995, sited at the former Hai Sing Girls’ High School. In March 1995, the school moved to its present location at Hougang Avenue 8. 
 
-In 2005, Punggol Primary School was accorded the North 3 Centre of Excellence in Science. In 2015, the school transited to single-session, and was accorded the Learning for Life Programme in ‘Social Emotional Learning and Character Development Through Active Participation in Sports’, or STARS. In 2016, the school was accorded the Applied Learning Programme, ‘GreeNovation @ PPS’. The main aim of ALP is to develop the students to think collaboratively and implement innovative solutions for a sustainable future.&nbsp;
+The school completed its PRIME upgrading in 2004 and PERI upgrading in 2018. In 2005, Punggol Primary School was accorded the North 3 Centre of Excellence in Science. 
+
+In 2015, the school transited to single-session, and was accorded the Learning for Life Programme in ‘Social Emotional Learning and Character Development Through Active Participation in Sports’, or STARS. 
+
+In 2016, the school was accorded the Applied Learning Programme, ‘GreeNovation @ PPS’. The main aim of ALP is to develop the students to think collaboratively and implement innovative solutions for a sustainable future. The school’s green effort has been recognized and has been awarded the WWF Eco—School Award (Silver) since 2019 and the WWF Eco-School Excellence Award (Community Outreach) in 2022. The school adopted a school wide approach to Growth Mindset since 2019 as part of its Learn for Life initiative and also embarked on the Peer Support Relationship programme in 2019 to offer a caring and conducive environment for all of students. 
+
+In 2022, the school also established a CARE HUB, an integrated one-stop student service centre, to provide holistic care support to students. MOE Kindergarten (MK) retrofitting works within the school began on 2022 and MK@Punggol will begin operation in January 2024 to welcome its first batch of K1 students.
 
 Principals:<br>
 \- Ms Elizabeth Chan (1995–1999)<br>
@@ -74,6 +80,8 @@ Principals:<br>
 | 2015 | Became single-session school; accorded Learning for Life Programme, ‘Social-Emotional Learning and Character Building Through Active Participation in Sports’ (STARS). |
 | 2016 | Accorded Applied Learning Programme, ‘GreeNovation @ PPS’. |
 | 2018 | Completion of PERI upgrading. |
+|  2019 -2022 | Awarded the WWF Eco-school Award for its emphasis on continuous school improvement and culture of environmental awareness and participation in activities to promote Singapore's sustainability.|
+| 2024 | MK@Punggol begins operation. |
 |
 
 #### **School Motto**
