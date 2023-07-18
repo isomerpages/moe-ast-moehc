@@ -74,7 +74,7 @@ Principals:<br>
 \- Ms Wee Siew San (2000–2004)<br>
 \- Mrs Sara de Souza (2005–2012)<br>
 \- Mr Timothy Goh (2013–2015) <br>
-\- Rev Fr (Dr) Adrian Augustus Danker SJ (2016–2021) <br>
+\- Rev Fr (Dr) Adrian Augustus Danker, SJ (2016–2021) <br>
 \- Mr Justin Arul Pierre (2022-present)
 
 #### **Key Milestones**
