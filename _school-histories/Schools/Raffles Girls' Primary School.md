@@ -14,42 +14,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQK42JzxYpHha9SZO3agJGUhOzGXEvonIIR85J0lUp3wthMUlFFRqqwDvxMY7x8ckB5HtcVDnXbWrBi/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/rafflesgirlspri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri2.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlspri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri3.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlspri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rafflesgirlspri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri5.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlspri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri6.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlspri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rafflesgirlspri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri8.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlspri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlspri9.jpg">
-</a></p>
-
 <br clear="left">
 
 #### **School History**
