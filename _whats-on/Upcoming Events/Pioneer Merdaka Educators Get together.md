@@ -4,7 +4,7 @@ permalink: /whats-on/upcoming-events/pmeg/
 description: ""
 third_nav_title: Upcoming Events
 ---
-![](/images/For%20Publicity/1_pmeg%202023.jpg)
+![](/images/For%20Publicity/pmeg%20(high%20res)%20(1000%20×%201500%20px).png)
 
 **Come celebrate Teachers’ Day with us!**
 We invite you to visit our gallery, play some old school games and reconnect with your fellow colleagues at the MOE Heritage Centre at Balestier!
