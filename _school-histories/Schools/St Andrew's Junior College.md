@@ -14,61 +14,29 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSqq1zPgA2sJMorrhCeASeCWRuAXcrsytXlU1bjdm9KsOn0Mn5L4sosndKbhla5EkGDJzlPPfRlr7V8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/standrewjc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc2.jpg">
-</a></p>
 
-<p><a href="/images/standrewjc3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc3.jpg">
-</a></p>
 
-<p><a href="/images/standrewjc4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc4.jpg">
-</a></p>
 
-<br clear="left">
-
-<p><a href="/images/standrewjc5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc5.jpg">
-</a></p>
-
-<p><a href="/images/standrewjc6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc6.jpg">
-</a></p>
-
-<p><a href="/images/standrewjc7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/standrewjc8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc8.jpg">
-</a></p>
-
-<p><a href="/images/standrewjc9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjc9.jpg">
-</a></p>
+<p></p>
 
 <br clear="left">
 
 #### **School History**
-St. Andrew’s Junior College (SAJC) started as a vision of faith when the Anglican Church, in line with national educational developments in the 1970s, took up the challenge of building a junior college. The building project was subsequently joined by the Lutheran and Presbyterian Churches. Construction began on 6 September 1976 after Right Reverend Chiu Ban It, Bishop of Singapore, gave his blessings and the foundation stone was laid by Tan Sri Runme Shaw on 10 December that year.
 
-Sited on six hectares of land on Malan Road, the original college premises had a built-in area of over 10,200 square metres. SAJC admitted its first batch of 600 students to the arts and science faculties on 3 January 1978. The founding principal of SAJC was Reverend John Tan Teng Wai. The college was officially declared open by Tan Sri Runme Shaw on 30 June 1979. The college’s facilities were upgraded in 1993, and the dedication of the new facilities by Mr Shaw Vee Meng took place on 18 February 1995.
-
-Plans to relocate the college back to Woodsville began in the late 1990s, and the building plans for the new premises started in 2000.&nbsp;The new college moved to Potong Pasir on 15 December 2005. Sitting on 5.5 hectares of land, it is part of St Andrew’s Village. The building was officially declared open by then Minister for Education Mr Tharman Shanmugaratnam on 26 August 2006.
-
-Under the leadership of its various principals, SAJC grew from strength to strength with significant achievements in teaching and learning, sports, the performing arts and community service. In 2018, SAJC commemorated its 40th anniversary with a series of celebratory milestones. Themed ‘40&nbsp;Years of Making Lives and Waking Hearts’,&nbsp;SAJC celebrated&nbsp;God’s goodness and guidance in making the lives and waking the hearts of students who have passed through its gates since its founding.
-
-SAJC’s current enrolment stands at about 1450 students with a staff strength of about 170.
+St Andrew’s Junior College (SAJC) started as a vision of faith when the Anglican Church, in line with national educational developments in the 1970s, took up the challenge of building a junior college. The building project was subsequently joined by the Lutheran and Presbyterian Churches. Construction began on 6 September 1976 after Right Reverend Chiu Ban It, Bishop of Singapore, gave his blessings and the foundation stone was laid by Tan Sri Runme Shaw on 10 December that year. Sited on six hectares of land on Malan Road, the original college premises had a built-in area of over 10,200 square metres. SAJC admitted its first batch of 600 students to the arts and science faculties on 3 January 1978. The founding principal of SAJC was Reverend John Tan Teng Wai. The college was officially declared open by Tan Sri Runme Shaw on 30 June 1979. The college’s facilities were upgraded in 1993, and the dedication of the new facilities by Mr Shaw Vee Meng took place on 18 February 1995. Plans to relocate the college back to Woodsville began in the late 1990s, and the building plans for the new premises started in 2000. The new college moved to Potong Pasir on 15 December 2005. Sitting on 5.5 hectares of land, it is part of St Andrew’s Village. The building was officially declared open by then Minister for Education Mr Tharman Shanmugaratnam on 26 August 2006. Under the leadership of its various principals, SAJC grew from strength to strength with significant achievements in teaching and learning, sports, the performing arts and community service. In 2023, SAJC commemorated its 45th anniversary with the theme “In All Things, Give Thanks” to celebrate God’s blessings and guidance for the school and students who have passed through its gates since its founding. SAJC’s current enrolment stands at about 1410 students with a staff strength of about 170.
 
 Principals:<br>
 \- Rev John Tan Teng Wai (1978–1990)<br>
 \- Mrs Belinda Charles (1990–2001)<br>
 \- Mrs Lim Chye Tin (2001–2007)<br>
 \- Mrs Lee Bee Yann (2007–2015)<br>
-\- Mr Mark Lo Khee Tian (2015–present)
+\- Rev John Tan Teng Wai (1978–1990)<br>
+\- Mrs Belinda Charles (1990–2001)<br>
+\- Mrs Lim Chye Tin (2001–2007)<br>
+\- Mrs Lee Bee Yann (2007–2015)<br>
+\- Mr Mark Lo Khee Tian (2015–2020)<br>
+\- Mr Tham Kine Thong (2021 – Present)
+
 
 #### **Key Milestones**
 
@@ -83,7 +51,7 @@ Principals:<br>
 | 2012 | Opening of St. Andrew’s Hall. |
 | 2013 | Inauguration of the St. Andrew’s Village Student Leadership Summit, ChrySAlis. |
 | 2015 | Co-organised the Pre-U Seminar 2015 with the Ministry of Education. |
-| 2018 | Celebration of 40th anniversary, themed ‘Making Lives and Waking Hearts’. |
+| 2023| Celebration of 45th anniversary, themed "In All Things, Give Thanks".
 |
 
 #### **School Motto**

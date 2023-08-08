@@ -67,7 +67,8 @@ Principals:<br>
 \- Mr Baskaran Krishnan Nair (1995–1999)<br>
 \- Mr Abdul Rahman Arsat (2000–2001)<br>
 \- Mrs Mary Ngiam Siew Wah (2002–2013)<br>
-\- Mdm Moliah Binte Hashim (2014–present)
+\- Mdm Moliah Binte Hashim (2014–2022)<br>
+\- Mr Bucktha Seelan (2023 - present)
 
 #### **Key Milestones**
 
@@ -89,7 +90,7 @@ Each His Best
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/princesselizabethpri1.png">
 
-Our school crest is the symbol of the school’s aspiration. The torch represents knowledge. The white and green background represents progression from ignorance to knowledge. The white background represents purity of thought, word and deed. The semicircle represents the school’s aim to provide its students with an all-round education. The three interlocking rings symbolise diligence, endurance and team spirit. The motto ‘Each His Best’ signifies every member of the school giving his or her best to achieve excellence.
+Our school crest is the symbol of our aspiration. The torch represents knowledge. The white and green background represents progression from ignorance to knowledge. The white background represents purity of thought, word &amp; deed. The semi - circle represents our aim to provide our pupils with and all - round education. The three interlocking rings symbolize diligence, endurance and team spirit. The motto ‘Each His Best’ signifies every member of the school giving of his best to achieve excellence.
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/1eFBn7yMk39HYUUILOHxbCqAS81DZUcYX/view?usp=share_link">**♫ Listen**</a>

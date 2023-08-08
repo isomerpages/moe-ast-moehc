@@ -90,7 +90,8 @@ Principals:<br>
 \- Mr Dilbagh Singh (1998–2004)<br>
 \- Mr Yeo Kuerk Heng (2005–2010)<br>
 \- Mr Jaswant Singh (2011–2016)<br>
-\- Mdm Tay Siok Hwa (2017–present)
+\- Mdm Tay Siok Hwa (2017–2022)<br> 
+\- Mr Chen Fook Pang (2023 - present) 
 
 #### **Key Milestones**
 

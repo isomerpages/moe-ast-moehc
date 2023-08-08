@@ -53,25 +53,24 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Seng Kang Secondary School (SKSS) was established on 4 January 1999 as the first secondary school in the Sengkang housing estate. In Chinese, ‘Seng Kang’ means ‘Success and Good Health’.
+Seng Kang Secondary School (SKSS) was established on 4 January 1999 as the first secondary school in the Sengkang housing estate. In Chinese, ‘Seng Kang’ means ‘Success and Good Health’. The school was first located at the former premises of Hai Sing Girls’ High at 1192 Upper Serangoon Road until 12 March 1999, when it moved to its present site at 10 Compassvale Lane. 
 
-The school was first located at the former premises of Hai Sing Girls’ High at 1192 Upper Serangoon Road until 12 March 1999, when it moved to its present site at 10 Compassvale Lane. The school was officially opened by Mr Lee Yock Suan, then Minister for Information and the Arts, on 14 July 2001.
+The school was officially opened by Mr Lee Yock Suan, then Minister for Information and the Arts, on 14 July 2001. In 2002, the school’s Red Cross Unit achieved its first Unit Silver Award.
 
-In 2002, the school’s Red Cross Unit achieved its first Unit Silver Award. In the following year, the school attained the Ministry of Education Value-Added Academic Award.
+In the following year, the school attained the Ministry of Education Value-Added Academic Award. The school’s Hockey ‘C’ Division boys’ team made headlines when they emerged as the national champions at the 2005 Hockey National ‘C’ Division Championships, garnering the school’s first national sports title. In the same year, one of the school’s Girl Guides also became the school’s first to attain the President's Guide Award, the highest honour for Girl Guides. 
 
-The school’s Hockey ‘C’ Division boys’ team made headlines when they emerged as the national champions at the 2005 Hockey National ‘C’ Division Championships, garnering the school’s first national sports title. In the same year, one of the school’s Girl Guides also became the school’s first to attain the President's Guide Award, the highest honour for Girl Guides. This set a precedent for the school’s Girl Guides’ outstanding achievements, which have continued today.&nbsp;
+This set a precedent for the school’s Girl Guides’ outstanding achievements, which have continued today. In 2009, SKSS gained niche status in hockey. Besides achieving success at the school level, some of the players have gone on to represent Singapore at the international games. In 2011, SKSS also became one of the few schools to offer Physical Education as an O-Level subject. In 2015, the school launched its Learning for Life Programme, ‘Building Character through Physical Education and Sports’, and its Applied Learning Programme in health science and technology in the following year. In 2018, SKSS celebrated its 20th anniversary.
 
-In 2009, SKSS gained niche status in hockey. Besides achieving success at the school level, some of the players have gone on to represent Singapore at the international games. In 2011, SKSS also became one of the few schools to offer Physical Education as an O-Level subject.&nbsp;
+Together, the school staff and students with strong commitment and united spirit, achieved three Singapore records: the largest display of paper sailboats, largest mass tabata display, and most number of push balls kept in the air. In the same year, the SKSS Heritage Gallery outlining the school’s 20 years of development and breakthroughs was also created to generate greater sense school pride. Subsequently in 2019, the Sengkang Heritage Gallery was set up to extend greater community meaning and national identity. In 2021, another school’s breakthrough attained when two students received the Lee Kuan Yew All Round Excellence Awards. 
 
-In 2015, the school launched its Learning for Life Programme, ‘Building Character through Physical Education and Sports’, and its Applied Learning Programme in health science and technology in the following year.
-
-In 2018, SKSS celebrated its 20th anniversary. On 23 March 2018, the school organised a record-breaking event at the Sengkang Sports Complex in commemoration of the school’s 20th-anniversary celebration and the third anniversary of the late Minister Mentor Mr Lee Kuan Yew’s passing. Together, through a strong and united spirit of collaboration and community amongst the school staff and students, the school achieved three Singapore records: the largest display of paper sailboats, largest mass tabata display, and most number of push balls kept in the air. These show the school’s commitment to continue the legacy of the nation’s founding father through hard work and resilience.
+In addition, the school’s Performing Arts CCAs (Guzheng Ensemble, Modern Dance, Choir, Symphonic Band and English Drama) also made a breakthrough achievement of all achieved Distinction awards at the Singapore Youth Festival.
 
 Principals:<br>
 \- Mdm Ng Shok Yan (1999–2004) <br>
 \- Mr Leong Kok Kee (2005–2010)<br>
 \- Mdm Oen Siew Yock (2011–2016)<br>
-\- Mr Koh Yiak Kheng (2017–present)
+\- Mr Koh Yiak Kheng (2017–2022)<br>
+\- Mr N Sivarajan (2023–present) 
 
 #### **Key Milestones**
 
@@ -81,12 +80,14 @@ Principals:<br>
 | 2001 | Official opening of Seng Kang Secondary School. |
 | 2004 | Seng Kang Youth (SKY) Guides attained the Puan Noor Aishah Unit Gold Award. |
 | 2005 | Hockey ‘C’ Division boys’ team emerged as national champions at the Hockey National ‘C’ Division Championships. The school’s first SKY Guide attained the President's Guide Award, the highest honour for Girl Guides. |
-| 2007 | Attained People Developer Award and has sustained it since. |
 | 2009 | Attained niche status in Hockey. |
 | 2011 | Began offering Physical Education as an O-Level subject. |
 | 2015 | Accorded Learning for Life Programme, ‘Building Character through Physical Education and Sports’. |
 | 2016 | Accorded Applied Learning Programme in health science and technology. |
 | 2018 | Celebration of 20th anniversary. Hockey ‘C’ Division girls’ team emerged as national champions at the Hockey National ‘C’ Division Championships. |
+| 2018 | SKSS Heritage Gallery outlining the school’s 20 years of development and breakthroughs was also created.|
+| 2021 | The school’s Performing Arts CCAs (Guzheng Ensemble, Modern Dance, Choir, Symphonic Band and English Drama) made a breakthrough achievement of all achieved Distinction awards at the Singapore Youth Festival.
+| 2021 | Two students received the Lee Kuan Yew All Round Excellence Awards.|
 |
 
 #### **School Motto**

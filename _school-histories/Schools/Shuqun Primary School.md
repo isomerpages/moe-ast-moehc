@@ -14,41 +14,8 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVxBJ952OnVvfpHqQkJQbxG-VW2s9oxvBDYnU7J01a_gtkcICkcsxPy5XnFfLnO7UQDibXZYTPqfKk/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/shuqunpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri2.jpg">
-</a></p>
 
-<p><a href="/images/shuqunpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri3.jpg">
-</a></p>
-
-<p><a href="/images/shuqunpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/shuqunpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri5.jpg">
-</a></p>
-
-<p><a href="/images/shuqunpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri6.jpg">
-</a></p>
-
-<p><a href="/images/shuqunpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/shuqunpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri8.jpg">
-</a></p>
-
-<p><a href="/images/shuqunpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/shuqunpri9.jpg">
-</a></p>
+<p></p>
 
 <br clear="left">
 
@@ -88,6 +55,7 @@ Principals:<br>
 | 2016 | Started operating as a single-session school. |
 | 2019 | Established its Applied Learning Programme in Environmental Education. |
 | 2020 | Celebration of 95th anniversary. |
+| 2023 | Start of MK@Shuqun. |
 |
 
 #### **School Motto**
@@ -101,7 +69,7 @@ The letters ‘SQ’ represent the school’s initials and school motto. The cir
 <br clear="left">
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1KYzntHPLC8WaLf9Y_Hh7oqspX6Xzk1sD/view?usp=share_link">**♫ Listen**</a>
+<a target="\_blank" href="https://drive.google.com/file/d/1HL7DxqW5ZeDS1He0cRKJ4HoIr4hqizkp/view?usp=drive_link">**♫ Listen**</a>
 
 Let us strive for perfection, let us do our best,<br>
 As we honour our nation and honour our crest.<br>
