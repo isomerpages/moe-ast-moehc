@@ -65,7 +65,7 @@ In November 2019, STEM@MFPS was approved as an Applied Learning Programme. This 
 
 To mark the school’s 40th&nbsp;Anniversary on 16 November 2019, the school was also presented with a certificate from the Singapore Book of Records for the “**_Largest Ship Sculpture with Handpainted Sails_**”. The 7 sails on the lifesize model ship was made of 1040 fabric patches created by staff, students, alumni, parents, SAC members and partners of the school. The patchwork art covered a total area of 30 square metres.
 
-Mayflower Primary School is undergoing PERI upgrading, which will be completed in 2021. The Ministry of Education Kindergarten @ Mayflower is slated to start operations in 2021. With these exciting developments, the school will continue to thrive – nurturing future-ready students who will grow into exemplary citizens of tomorrow, passionate lifelong learners and positive change agents.
+Mayflower Primary School underwent PERI upgrading from 2019 to March 2022 and finally moved back to the original site at the end of May 2022. The Ministry of Education Kindergarten @ Mayflower started operations in 2021. With upgraded facilities, the school will continue to thrive – nurturing future-ready students who will grow into exemplary citizens of tomorrow, passionate lifelong learners and positive change agents.
 
 Principals:<br>
 \- Mdm Chua Soo Huang (1979–1983)<br>
@@ -75,7 +75,8 @@ Principals:<br>
 \- Ms Ngeow Ah Cheng (1998–2003)<br>
 \- Mr Zainal Bin Sapari (2004–2009)<br>
 \- Mrs Valarie Wilson (2010–2015)<br>
-\- Mrs Lim-Chua Siow Ling (2016–present)
+\- Mrs Lim-Chua Siow Ling (2016–2021)<br>
+\- Ms Cecilia Lim (2021 - present)
 
 #### **Key Milestones**
 
