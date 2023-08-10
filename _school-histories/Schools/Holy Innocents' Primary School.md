@@ -14,70 +14,31 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPsMltTwhKcBWUgF_dzvylClmRpxiKiBLJiRIwvmfG8JYGR29c9fklwEB4ro9ZJtclWQhPuPLjeD_C/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/holyinnocentpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri2.jpg">
-</a></p>
 
-<p><a href="/images/holyinnocentpri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/holyinnocentpri4.jpg">
-</a></p>
 
-<p><a href="/images/holyinnocentpri3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri3.jpg">
-</a></p>
 
-<p><a href="/images/holyinnocentpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri5.jpg">
-</a></p>
-
-<p><a href="/images/holyinnocentpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/holyinnocentpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri7.jpg">
-</a></p>
-
-<p><a href="/images/holyinnocentpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri8.jpg">
-</a></p>
-
-<p><a href="/images/holyinnocentpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri9.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/holyinnocentpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri10.jpg">
-</a></p>
-
-<p><a href="/images/holyinnocentpri11.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/holyinnocentpri11.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
-Established in 1892, Holy Innocents’ High School was one of the first Chinese mission schools in Singapore. In 1932, Holy Innocents’ Chinese Girls’ School was founded by Rev Father Edward Becheras,&nbsp;Parish Priest of the Church of the Nativity of the Blessed Virgin Mary. The school was then managed by the Sisters of the Holy Infant Jesus.
 
-In 1985, the primary section of Holy Innocents’ High School and Holy Innocents’ Chinese Girls’ School were amalgamated to form Holy Innocents’ Primary School.&nbsp;The school started functioning with an enrolment of 1,608 students on 25 March 1985 with Ms Goh Boon How as the principal and Mdm Tan Hock Neo as the vice-principal.&nbsp;It was the first Catholic co-educational primary school with modern facilities in Singapore.
+Established in 1892, Holy Innocents’ High School was one of the first Chinese mission schools in Singapore. In 1932, Holy Innocents’ Chinese Girls’ School was founded by Rev Fr Edward Becheras, Parish Priest of the Church of the Nativity of the Blessed Virgin Mary. The school was then managed by the Sisters of the Holy Infant Jesus.
 
-The year 1986 saw the last batch of graduands from the Chinese-medium school, and the school became an English-medium school the following year. With its history as a Chinese-medium school and continual efforts in advocating bilingualism,&nbsp;Holy Innocents’ Primary School was&nbsp;designated as&nbsp;a&nbsp;Special&nbsp;Assistance Plan (SAP) school by the Ministry of Education in 1992.&nbsp;
+In 1985, the primary section of Holy Innocents’ High School and Holy Innocents’ Chinese Girls’ School were amalgamated to form Holy Innocents’ Primary School. The school started with an enrolment of 1 608 students on 25 March 1985 with Miss Goh Boon How as the principal and Mdm Tan Hock Neo as the vice-principal. It was the first Catholic co-educational primary school with modern facilities in Singapore.
 
-In 2000, Holy Innocents’ Primary School extended learning beyond the shores of Singapore by providing the students with international immersion trips to China. The scope of its National Chinese Language Competition was broadened with the collaboration of schools in China and Taiwan to become the International Chinese Language Competition. The aim was to promote a love and flair of the written Chinese language. The competition has seen an average of 7,000 entries from schools across Asia in recent years.
+The year 1986 saw the last batch of graduands from the Chinese-medium school, and the school became an English-medium school the following year. With its history as a Chinese-medium school and continual efforts in advocating bilingualism, Holy Innocents’ Primary Shool was designated as a Special Assistance Plan (SAP) school by the Ministry of Education in 1992.
 
-For its focus on the learning of Chinese, Holy Innocents’ Primary School was appointed as the Cluster Centre of Excellence for Chinese in 2005. The school celebrated its 25th anniversary in 2010. A Chinese teahouse was opened to mark the school’s commitment in promoting a love for Chinese language and culture through traditional cultural and performing arts. The unique art of&nbsp;_kuaibanshu_&nbsp;was introduced to students, and it continues to be taught in-house to students.
+In 2000, Holy Innocents’ Primary School extended learning beyond the shores of Singapore by providing the students with international immersion trips to China. The scope of its National Chinese Language Writing Competition was broadened with the collaboration of schools in China and Taiwan to become the International Chinese Language Competition. The aim was to promote a love and flair for the written language. The competition has seen an average of 6 000 entries from schools across Asia in latter years as the school rode the tides of digital transformation. The competition was rebranded as the International Chinese Language Creative Writing Competition and has launched compilations of creative works published annually, both in print and e-copies.
 
-Presently, Holy Innocents’ Primary School is focused on equipping its students with the skills and aptitudes to meet the challenges of the future.&nbsp;Artistry in Ceramics was offered as a Learning for Life Programme in 2014, and Digiminds@HIPS, which equips students with skills in design thinking, robotics and coding, was introduced in 2015 as the school’s Applied Learning Programme (ALP).
+In an effort to equip its students with the skills and aptitudes to meet the challenges of the future, Holy Innocents’ Primary School offered Artistry in Ceramics as a Learning for Life Programme in 2014. Digimind@HIPS, which equips students with skills in design thinking, robotics and coding, was introduced in 2015 as the school’s Applied Learning Programme.
+
+The school underwent PERI upgrading from 2017 to 2019. In 2022, the school established its own Heritage Enclave with the purpose of educating its students to hold on to their roots while envisioning and creating their future as the only Catholic, co-educational SAP primary school in Singapore.
+
 
 Principals:<br>
 \- Ms Goh Boon How (1985–1997)<br>
 \- Mr Jimmy Tan (1998–2001)<br>
 \- Mrs Doris Sum (2002–2009)<br>
-\- Mdm Quek Seok Noi (2010–present)
+\- Mdm Quek Seok Noi (2010–2020)<br>
+\- Ms Lena Seet (2021 - present)
 
 #### **Key Milestones**
 
