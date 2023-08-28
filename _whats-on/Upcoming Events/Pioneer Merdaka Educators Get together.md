@@ -4,7 +4,6 @@ permalink: /whats-on/upcoming-events/pmeg/
 description: ""
 third_nav_title: Upcoming Events
 ---
-
 ![](/images/For%20Publicity/pmeg%20(extended).png)
 
 **Come celebrate Teachers’ Day with us!**
