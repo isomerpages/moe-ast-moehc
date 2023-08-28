@@ -66,7 +66,7 @@ In November 2011, the school relocated again to facilitate the PERI upgrading wo
 Principals:<br>
 \- Rev Brother Thomas Dunne (1954–1955)<br>
 \- Rev Brother Basil Voon (1956–1966)<br>
-\- Mr Ho Fook Seng (1967–1979)<br>
+\- Mr Francis Ho Fook Seng (1967–1979)<br>
 \- Rev Brother Dennis Watt (1980–1982)<br>
 \- Mr Lim Buck Thow (1983–1987)<br>
 \- Mr Dominic Yip (1988–1994)<br>
