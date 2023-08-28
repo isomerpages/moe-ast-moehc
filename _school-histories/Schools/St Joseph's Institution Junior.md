@@ -67,15 +67,14 @@ Principals:<br>
 \- Rev Brother Thomas Dunne (1954–1955)<br>
 \- Rev Brother Basil Voon (1956–1966)<br>
 \- Mr Francis Ho Fook Seng (1967–1979)<br>
-\- Rev Brother Dennis Watt (1980–1982)<br>
-\- Mr Lim Buck Thow (1983–1987)<br>
-\- Mr Dominic Yip (1988–1994)<br>
-\- Mrs Florence Lim (1994–1999)<br>
-\- Ms Wee Siew San (2000–2004)<br>
+\- Rev Brother Dennis Watt FSC (1980–1982)<br>
+\- Mr Lim Buck Thow (1983–1988)<br>
+\- Mr Dominic Yip Moon Hoong PPA(G) (1988–1994)<br>
+\- Mrs Florence Lim (1995–1999)<br>
+\- Ms Rebecca Wee Siew Sun (2000–2004)<br>
 \- Mrs Sara de Souza (2005–2012)<br>
-\- Mr Timothy Goh (2013–2015) <br>
-\- Rev Fr (Dr) Adrian Augustus Danker, SJ (2016–2021) <br>
-\- Mr Justin Arul Pierre (2022-present)
+\- Mr Timothy Goh (2013–2020) <br>
+\- Mr Eric Leong (2021–present) <br>
 
 #### **Key Milestones**
 
