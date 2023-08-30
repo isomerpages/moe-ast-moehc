@@ -70,7 +70,8 @@ Principals:<br>
 \- Mrs Lau Swee Chin (1986–1991)<br>
 \- Mdm Tan Lee Choo (1991–2007)<br>
 \- Mrs Clara Lim-Tan (2008–2013)<br>
-\- Ms Magdalene Chin (2014–present)
+\- Ms Magdalene Chin (2014–2020)<br>
+\- Mrs Shanthi Suraj Nair (2021 - present)
 
 #### **Key Milestones**
 
