@@ -4,17 +4,15 @@ permalink: /visit/plan-your-visit/
 description: ""
 image: /images/visit1.png
 ---
-
-
 ### **Opening Hours**
 **Term Time**<br>
 Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 
 **School Holidays**<br>
-Monday to Friday | 10am - 5pm (last entry 4.30pm)
-
-### **Contact us**
-[MOE\_Heritage\_Centre@moe.gov.sg](mailto:MOE\_Heritage\_Centre@moe.gov.sg)<br>
+Monday to Friday | 10am - 5pm (last entry
+4.30pm)
+[moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg)
+<br>
 6232 7975
 
 ### **Getting to MOEHQ (Balestier)**
@@ -50,4 +48,4 @@ Enter via the door beside the carpark, turn left and walk along the Collab Space
 ### **Things to Note**
 As we are located in an MOE office building, please note that all visitors above 7 years of age will require a valid photo ID (NRIC, Driving License, PS Card, Student Ez-link etc.) for registration to enter the building.
 
-Admission is free for all walk-in visitors. 
+Admission is free for all walk-in visitors.
