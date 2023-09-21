@@ -4,7 +4,7 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: ""
+notification: We are open
 sections:
   - hero:
       title: Welcome!
