@@ -12,8 +12,8 @@ Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 Monday to Friday | 10am - 5pm (last entry
 4.30pm)
 ### **Opening Hours**
-[moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) <br>
-
+[moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) 
+<br>
 6232 7975
 
 ### **Getting to MOEHQ (Balestier)**
