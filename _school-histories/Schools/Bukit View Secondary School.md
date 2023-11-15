@@ -73,7 +73,8 @@ Principals:<br>
 \- Mr James Ong Chye Hin (1998–2004)<br>
 \- Mrs Tan Lay Hong (2004–2010)<br>
 \- Mr Vasuthevan s/o K. Ramamurthy (2010–2018)<br>
-\- Mr Kevin Ang (2018–present)
+\- Mr Kevin Ang (2018–2023)<br>
+\- Mr Jaswant Singh (2023-present)
 
 #### **Key Milestones**
 
