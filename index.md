@@ -4,7 +4,8 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: ""
+notification: lease note that our gallery will be closed on 26 DEC and will
+  resume normal visiting hours on 27 DEC. Thank you very much.
 sections:
   - hero:
       title: Welcome!
