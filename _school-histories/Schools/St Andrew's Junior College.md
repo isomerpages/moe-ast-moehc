@@ -3,6 +3,7 @@ title: St Andrew's Junior College
 permalink: /school-histories/st-andrew-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/standrewjc1.png">
 
@@ -37,10 +38,6 @@ In 2023, SAJC commemorated its 45th anniversary with the theme “In All Things,
 SAJC’s current enrolment stands at about 1410 students with a staff strength of about 170.
 <p></p>
 Principals:<br>
-\- Rev John Tan Teng Wai (1978–1990)<br>
-\- Mrs Belinda Charles (1990–2001)<br>
-\- Mrs Lim Chye Tin (2001–2007)<br>
-\- Mrs Lee Bee Yann (2007–2015)<br>
 \- Rev John Tan Teng Wai (1978–1990)<br>
 \- Mrs Belinda Charles (1990–2001)<br>
 \- Mrs Lim Chye Tin (2001–2007)<br>
