@@ -3,6 +3,7 @@ title: Raffles Girls' School
 permalink: /school-histories/raffles-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rafflesgirlssch1.jpg">
 
@@ -81,6 +82,7 @@ Principals:<br>
 \- Ms Cecily Hinchliffe (1951–1957)<br>
 \- Ms M.N. Oehlers (1958–1961)<br>
 \- Ms N.E. Norris (1961–1976)<br>
+\- Ms Tan Leng Neo (1977–1979)<br>
 \- Mrs Chee Keng Soon (1980–1988)<br>
 \- Mrs Carmee Lim (1988–1999)<br>
 \- Mrs Deborah Tan (1999–2007)<br>
