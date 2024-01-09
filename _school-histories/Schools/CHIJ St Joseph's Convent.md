@@ -3,6 +3,7 @@ title: CHIJ St Joseph's Convent
 permalink: /school-histories/chij-joseph/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijstjoseph1.png">
 
@@ -76,7 +77,8 @@ Principals:<br>
 \- Mrs Dolly Chan (1995–2007)<br>
 \- Mrs Susan Crossley (2008–2012)<br>
 \- Ms Susie Ho (2013–2018)<br>
-\- Ms Pauline Fun (2019–present)
+\- Ms Pauline Fun (2019–2020)<br>
+\- Mrs Valerie Pinto (2021 – present)<br>
 
 #### **Key Milestones**
 
