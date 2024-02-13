@@ -89,7 +89,7 @@ Principals:<br>
 | 2015 | Accorded Best Practice for Staff Well-Being and Development. |
 | 2016 | Accorded Applied Learning Programme in Developing Thinkers, Collaborators and Communicators. Celebration of 30th Anniversary. |
 | 2021 | Reviewed LLP Arts Alive! Nurturing Confident Leaders through the Arts and ALP Inspiring Reflective and Innovative Self-Directed Learners. |
-|2023 | 
+|2023 | Announced to relocate to Bukit Batok West in 2027. |
 
 #### **School Motto**
 Towards Excellence
