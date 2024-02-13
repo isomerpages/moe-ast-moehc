@@ -3,6 +3,7 @@ title: Jurongville Secondary School
 permalink: /school-histories/jurongville-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jurongvillesec1.png">
 
@@ -78,7 +79,8 @@ Principals:<br>
 \- Mr Shawal Bin Hussin (2007–2013)<br>
 \- Mr Benny Lee Kah Chong (2014–2015)<br>
 \- Mdm Flora Ong Fei Min (2016–2018)<br>
-\- Mr Chan Yew Wooi (2019–present)
+\- Mr Chan Yew Wooi (2019–2022)<br>
+\- Mr Philibert Leow (2023- present)
 
 **Related School: [Hong Kah Secondary School](/school-histories/hong-kah-sec/)**
 
