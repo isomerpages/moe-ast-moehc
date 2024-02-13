@@ -3,6 +3,7 @@ title: De La Salle School
 permalink: /school-histories/de-la-salle-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/delasallesch1.png">
 
@@ -78,7 +79,8 @@ Principals:<br>
 | 1997 | The school functioned as a double-session school at a holding site in Jalan Teck Whye. Relocation of school to its new premises at 11 Choa Chu Kang Street 52. |
 | 2011 | The school became single-session. |
 | 2012 | In November, the school returned to its permanent site at Choa Chu Kang Street 52. |
-|
+| 2022 | 2022 - Celebration of 70th Anniversary. |
+
 
 #### **School Motto**
 _Semper Fidelis <br> 
