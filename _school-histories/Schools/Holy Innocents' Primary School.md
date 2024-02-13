@@ -3,6 +3,7 @@ title: Holy Innocents' Primary School
 permalink: /school-histories/holy-innocent-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/holyinnocentpri1.jpg">
 
@@ -21,7 +22,6 @@ third_nav_title: Schools
 #### **School History**
 
 Established in 1892, Holy Innocents’ High School was one of the first Chinese mission schools in Singapore. In 1932, Holy Innocents’ Chinese Girls’ School was founded by Rev Fr Edward Becheras, Parish Priest of the Church of the Nativity of the Blessed Virgin Mary. The school was then managed by the Sisters of the Holy Infant Jesus.
-
 In 1985, the primary section of Holy Innocents’ High School and Holy Innocents’ Chinese Girls’ School were amalgamated to form Holy Innocents’ Primary School. The school started with an enrolment of 1 608 students on 25 March 1985 with Miss Goh Boon How as the principal and Mdm Tan Hock Neo as the vice-principal. It was the first Catholic co-educational primary school with modern facilities in Singapore.
 
 The year 1986 saw the last batch of graduands from the Chinese-medium school, and the school became an English-medium school the following year. With its history as a Chinese-medium school and continual efforts in advocating bilingualism, Holy Innocents’ Primary Shool was designated as a Special Assistance Plan (SAP) school by the Ministry of Education in 1992.
@@ -38,25 +38,25 @@ Principals:<br>
 \- Mr Jimmy Tan (1998–2001)<br>
 \- Mrs Doris Sum (2002–2009)<br>
 \- Mdm Quek Seok Noi (2010–2020)<br>
-\- Ms Lena Seet (2021 - present)
+\- Ms Seet Eng Geok Lena (2021 - present)
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
-| 1892 | Holy Innocents’ High School was set up as a Chinese school. |
-| 1932 | Founding of Holy Innocents’ Chinese Girls’ School. It was the first Catholic school for girls. |
-| 1985 | The primary section of Holy Innocents’ High School and Holy Innocents’ Chinese Girls’ School were amalgamated to form Holy Innocents' Primary School; Offered the pre-primary programme. |
+| 1892 | Holy Innocents’ High School was founded as a Chinese medium school by Reverend Father Edward Becheras. |
+| 1932 | Holy Innocents’ Chinese Girls’ School was the first Chinese girls’ school set up by Catholic missionaries. |
+| 1985 | Holy Innocents’ Primary School was established as a Chinese-medium school through the amalgamation of Holy Innocents’ High School (Primary Section) and Holy Innocents’ Chinese Girls’ School; offering both pre-primary and primary education. |
 | 1987 | Holy Innocents’ Primary School became an English-medium school. |
-| 1992 | The school was designated as a SAP school by the Ministry of Education. |
+| 1992 | The school was designated as a Special Assistance Plan (SAP) School by the Ministry of Education. |
 | 2003 | The school underwent Programme for Rebuilding and Improving Existing Schools (PRIME). |
-| 2005 | Holy Innocents’ Primary School was appointed Cluster Centre of Excellence for Chinese. |
-| 2010 | Holy Innocents’ Primary School celebrated its 25th anniversary and opened the Chinese Teahouse, 养心斋. |
-| 2014 | Artistry @ HIPS was first offered as a Learning for Life Programme in 2014. It was later re-centred to focus on Ceramic Art. |
+| 2005 | Holy Innocents’ Primary School was appointed the Cluster Centre of Excellence for Chinese Language. |
+| 2010 | Holy Innocents’ Primary School celebrated its 25th anniversary and opened its Chinese Teahouse, 养心斋. |
+| 2014 | Artistry@HIPS was first offered as a Learning for Life Programme (LLP). It was later re-centred to focus on Ceramic Art. Digimind@HIPS was introduced as an Applied Learning Programme (ALP), equipping students with skills in design thinking, robotics and coding. |
 | 2015 | Digiminds@HIPS was introduced as an ALP, equipping students with skills in design thinking, robotics and coding. |
 | 2017 | Commencement of (PERI) upgrading. |
-| 2019 | Holy Innocents’ Primary School returns to its premises at 5 Lorong Low Koon. |
-|
+| 2019 | Completion of PERI Upgrading. Holy Innocents’ Primary School returns to its premises at 5 Lorong Low Koon.|
+| 2022 | Opening of Holy Innocents’ Primary School Heritage Enclave and Heritage Room, 如承馆. |
 
 #### **School Motto**
 Sincerity and Charity
