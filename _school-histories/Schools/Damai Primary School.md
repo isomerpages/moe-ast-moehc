@@ -3,6 +3,7 @@ title: Damai Primary School
 permalink: /school-histories/damai-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/damaipri1.png">
 
@@ -76,10 +77,12 @@ Principals:<br>
 |:---:|---|
 | 1984 | Establishment of Damai Primary School. |
 | 2014 | Accorded Learning for Life Programme in aesthetics. |
-| 2015 | Merger with Bedok West Primary School. |
-| 2015 | Accorded Learning for Life Programme in team sports. |
+| 2015 | Merger with Bedok West Primary School. Operated at Holding Site at Bedok West Primary School Campus. Accorded Learning For Life Programme In Sports &amp; Outdoor Education- SPARK@Play. |
+| 2017 | Completion Of New School Campus. |
+| 2018 | Moved And Operated In New School Campus. |
 | 2019 | Merger with East Coast Primary School. |
-|
+| 2020 | Official Opening Of New School Campus – Together In Strength. |
+| 2021 | Accorded Applied Learning Programme (ALP) On Digital And Media Literacy Through S.E.N.S.E. @ Damai.
 
 #### **School Motto**
 Discipline &amp; Diligence
