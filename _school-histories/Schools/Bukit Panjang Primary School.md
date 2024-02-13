@@ -97,8 +97,8 @@ Principals:<br>
 | 2014 | PERI XP Upgrade was completed.
 | 2015 | Offered Learning for Life Programme (LLP), I2 Can dance. |
 | 2016 | Completion of PERI Upgrading. |
-| 2021 | Offered Critical &amp; Appreciative Reading to Respond Empathetically (CAR²E) for Applied Learning Programme (ALP)
-| 2022 | Celebration of 90th anniversary amidst Covid 19 pandemic
+| 2021 | Offered Critical &amp; Appreciative Reading to Respond Empathetically (CAR²E) for Applied Learning Programme (ALP). |
+| 2022 | Celebration of 90th anniversary amidst Covid 19 pandemic. |
 
 #### **School Motto**
 Endeavour
