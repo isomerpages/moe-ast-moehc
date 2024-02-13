@@ -3,8 +3,9 @@ title: Bedok South Secondary School
 permalink: /school-histories/bedok-south-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoksouthsec1.jpg">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/bedoksouthsec1.jpg"> 
 
 ### **Bedok South Secondary School**
 [School Website](http://www.bedoksouthsec.moe.edu.sg/)
