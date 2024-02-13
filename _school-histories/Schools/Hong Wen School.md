@@ -3,6 +3,7 @@ title: Hong Wen School
 permalink: /school-histories/hong-wen-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/hongwensch1.png">
 
@@ -59,7 +60,7 @@ In 1992, Hong Wen School was accorded the Special Assistance Plan status, offeri
 
 The school was awarded the People Developer Standard by SPRING Singapore, and the Ministry of Education’s Sustained Achievement Award (Sports) in 2007. The school established its status as the South 4 Cluster Centre of Excellence for Chinese Cultural Arts in 2008. In that same year, the school attained its Programme for School-Based Excellence status in rope-skipping.
 
-The school relocated to its present premises at Towner Road in 2009 after the completion of the PRIME upgrading. The new campus, accredited with the&nbsp;Building and Construction Authority’s (BCA) Green Mark (Gold) Award, was officially opened in September 2010, in conjunction with the school’s 90th anniversary celebration.
+The school relocated to its present premises at Towner Road in 2009 after the completion of the PRIME upgrading. The new campus, accredited with the Building and Construction Authority’s (BCA) Green Mark (Gold) Award, was officially opened in September 2010, in conjunction with the school’s 90th anniversary celebration.
 
 In 2010, the school received its re-certification of the People Developer Standard by SPRING Singapore. The following year, the school attained its second Programme for School-based Excellence status in Wushu. That same year, the school also received the Ministry of Education’s Development Award for Character Development and the Sustained Achievement Award (Aesthetics).
 
@@ -69,7 +70,9 @@ In 2015, the school was accorded two Learning for Life Programmes (LLP) in Sport
 
 In 2016, the school was conferred the Ministry of Education’s School Distinction Award, along with five Best Practice Awards: Character and Citizenship Education; Teaching and Learning; Student All-Round Development; Staff Well-Being and Development; and Partnership. In the same year, the school also received the BCA Green Mark (GoldPlus) Award in recognition of its efforts and achievements in environmental sustainability.
 
-In September 2017, the school completed its 16-month PERI upgrading, which saw the construction of a new block and the upgrading of existing facilities.&nbsp;
+In September 2017, the school completed its 16-month PERI upgrading, which saw the construction of a new block and the upgrading of existing facilities.
+
+In 2020, due to the global COVID pandemic and the mandatory social distancing measures in place then, the school had a muted celebration of its 100th year anniversary through the creation of a commemorative video and yearbook.
 
 Principals:<br>
 \- Mr Song Shao Lian (宋少濂) (1920 –1923)<br>
@@ -83,8 +86,8 @@ Principals:<br>
 \- Mrs Yeo Soon Beng (黄美玲) (1990– 1992)<br>
 \- Ms Tay Eng Hiang (郑英香) (1992–1999)<br>
 \- Mr Ngoh Choon Ho (胡春河) (2000–2013)<br>
-\- Mr Poon Siow Leng Raymond (方小龙) (2014–present)
-
+\- Mr Poon Siow Leng Raymond (方小龙) (2014–2020)<br>
+\- Mrs Theresa Hong (伍燕玲) (2021- present)
 #### **Key Milestones**
 
 |  |  |
@@ -101,7 +104,7 @@ Principals:<br>
 | 2015 | Accorded Learning for Life Programmes in Sports and Outdoor Education, and in Student Leadership and Community Service. |
 | 2016 | Conferred the Ministry of Education’s School Distinction Award and five Best Practice Awards. |
 | 2017 | Completed PERI upgrading project. |
-|
+| 2020 | 100 year anniversary for the school.
 
 #### **School Motto**
 诚毅勤俭&nbsp;(Honesty, Perseverance, Diligence, Thrift)
