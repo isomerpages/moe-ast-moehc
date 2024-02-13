@@ -3,6 +3,7 @@ title: Fairfield Methodist School (Secondary)
 permalink: /school-histories/fairfield-methodist-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fairfieldmethodistsec1.jpg">
 
@@ -10,60 +11,23 @@ third_nav_title: Schools
 [URL to website](https://fairfieldmethodistsec.moe.edu.sg/)
 
 <br clear="left">
+Fairfield was started by the faith of one lady - Miss Sophia Blackmore, a woman missionary from Australia, with a class of eight Nonya girls in a little room at Cross Street in 1888. Subsequently, the Telok Ayer Girls’ School was founded in August that year.
 
-#### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMsx-E-JukT6yXWzVF_Xdx2MIXGxy7baMu5XhLQzAwQXVzRBR0b8EBFrGJkDBXu3uZQLf7atWSLmJe/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
+In 1912, when Miss Mary Olson was the Principal, the school expanded, moving to Neil Road and was named Fairfield Girls’ School, in honour of a generous donor, Mr Fairfield. After Miss Olson, Mrs Lim Bock Kee became the first Asian Principal to lead Fairfield Girls’ School in 1946. In 1958, the name of Fairfield Girls’ School was changed to Fairfield Methodist Girls’ School. When Mrs Lim retired in 1959, Miss Lim Geok Kheng, a teacher and old girl of the school, succeeded her as Principal until 1982.
 
-<p><a href="/images/fairfieldmethodistsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec2.jpg">
-</a></p>
+1983 marked a new era in the history of Fairfield. It went co-educational with its re-location to Dover Road as two schools: Fairfield Methodist Primary and Fairfield Methodist Secondary Schools, headed by Miss Cheong Yuen Lin and Mrs Tang Poh Kim respectively. In 1995, Fairfield Methodist Secondary went single-session.
 
-<p><a href="/images/fairfieldmethodistsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec3.jpg">
-</a></p>
+In 1996, Fairfield was amongst the first few groups of schools to gain autonomous status. Between 2001 and 2007, Fairfield continued to press forward in its mission to provide all its pupils with value-added education under the leadership of Miss Elaine Lim.
 
-<p><a href="/images/fairfieldmethodistsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec4.jpg">
-</a></p>
+In December 2007, Mr Victor Owyong assumed school leadership, making history as the first male Principal to lead Fairfield Methodist Secondary School.
 
-<br clear="left">
+In 2009, to highlight the shared heritage of the two schools, their names were changed to Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary).
 
-<p><a href="/images/fairfieldmethodistsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec5.jpg">
-</a></p>
+At the end of 2011, both schools wrote and adopted a common mission statement so as to achieve greater alignment with the educational mission of the Methodist Church in Singapore, and to achieve the concept of 'One Fairfield' with Fairfield Methodist School (Primary), which was further reinforced with a common badge. 
 
-<p><a href="/images/fairfieldmethodistsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec6.jpg">
-</a></p>
+In December 2021, Mr Wee Tat Chuen became the first old boy of the school to take up the role of Principal. Mr Wee had previously been a teacher and Head of Department of Fairfield Methodist Secondary.
 
-<p><a href="/images/fairfieldmethodistsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/fairfieldmethodistsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec8.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistsec9.jpg">
-</a></p>
-
-<br clear="left">
-
-#### **School History**
-In August 1888, Australian missionary Miss Sophia Blackmore started a school with eight Peranakan girls in the rented front room of a house on Cross Street. Despite parental indifference to education for girls at the time, Miss Blackmore persevered in her vision and more girls enrolled in the school. It later became known as the Telok Ayer Girls’ School.
-
-To cope with the growing enrolment, Miss Mary Olson raised funds for a new school building at 178 Neil Road, which was completed in 1912. She renamed the school Fairfield Girls’ School in honour of the donor who had made the largest contribution of $5,000 in gold. At the time, the school only knew that the donor was a Mr Fairfield from New England.
-
-The school ceased operations when World War II broke out in 1941, and the school was occupied by the Japanese. After the war, Fairfield Girls’ School reopened in October 1945 at borrowed premises of Pearl’s Hill School, as the school building on Neil Road had not been repaired.
-
-In 1946, the first Asian principal, Mrs Lim Bock Kee, was appointed and the Neil Road site was ready to receive girls again. In 1958, the school was renamed Fairfield Methodist Girls’ School to mark its missionary beginnings. When Mrs Lim retired in 1959, Miss Lim Geok Kheng, a teacher and alumna, succeeded her. The school expanded rapidly and the physical facilities became inadequate for its needs. Miss Lim chaired the school’s Building Project Committee and played a key role in successfully relocating the school to larger premises on Dover Road in 1983.
-
-The year 1983 also marked the beginning of a new chapter in the history of Fairfield. The school broke away from its 94-year-old tradition of being an all-girls school and became the first co-educational Methodist school in Singapore. It also split into primary and secondary schools, each with its own administration but both under the same board of management. Miss Cheong Yuen Lin and Mrs Tang Poh Kim, old girls of Fairfield, became the principals of Fairfield Methodist Primary School and Fairfield Methodist Secondary School respectively.
-
-In 1995, Fairfield Methodist Secondary School became single-session, and was granted autonomous status in the following year. In 2009, the two schools were renamed Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary) to reflect their common origin and identity.
+Today, we continue to stand as a school that is special, because of the staff and support we are blessed with, and because of the almighty and loving God whom we serve. His grace is evident in our school.
 
 Principals:<br>
 \- Ms Sophia Blackmore (1888–1892)<br>
@@ -88,7 +52,12 @@ Principals:<br>
 \- Mrs Lim Bock Kee (née Goh Khoon Tee) (1946–1959)<br>
 \- Mrs Goh Soon Hoe (afternoon school; 1949–1956)<br>
 \- Mrs Tay Poh Luan (afternoon school; 1957–1961)<br>
-\- Ms Lim Geok Kheng (1960–1982)
+\- Ms Lim Geok Kheng (1960–1982)<br>
+\- Mrs Tang Poh Kim (1983–2000)<br>
+\- Ms Elaine Lim (2001–2007)<br>
+\- Mr Victor Owyong (2008–2014)<br>
+\- Ms Audrey Chen (2015–2021)<br>
+\- Mr Wee Tat Chuen (December 2021-present)
 
 Secondary school<br>
 \- Mrs Tang Poh Kim (1983–2000)<br>
@@ -105,12 +74,11 @@ Secondary school<br>
 | 1946 | Appointment of first Asian principal, Mrs Lim Bock Kee. |
 | 1958 | Renamed Fairfield Methodist Girls’ School to mark its missionary beginnings. |
 | 1983 | Relocation to larger premises on Dover Road and becomes co-educational. Splits into two schools: Fairfield Methodist Primary and Fairfield Methodist Secondary. |
-| 1995 | Fairfield Methodist Secondary School becomes single-session. |
 | 1996 | Fairfield Methodist Secondary School accorded autonomous status. |
 | 2008 | Mr Victor Owyong becomes the first male principal. |
 | 2009 | To reflect their common origin and identity; Fairfield Methodist School (Primary) and Fairfield Methodist School (Secondary), the school crest is changed to a common one depicting ‘Fairfield’, instead of ‘F.M.P.S.’ and ‘F.M.S.S.’ |
-| 2011 | The two schools adopt a common mission statement. |
-|
+| 2011 | The two schools adopt a common mission statement and achieve the concept of 'One Fairfield' with Fairfield Methodist School (Primary), which was further reinforced with a common badge. |
+| 2021 | Mr Wee Tat Chuen becomes the first old boy of the school to take up the role of Principal. |
 
 #### **School Motto**
 Pure &amp; Honest
