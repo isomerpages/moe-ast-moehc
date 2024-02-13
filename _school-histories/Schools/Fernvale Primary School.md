@@ -3,6 +3,7 @@ title: Fernvale Primary School
 permalink: /school-histories/fernvale-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fernvalepri1.jpg">
 
@@ -54,8 +55,8 @@ In 2018, the school was accorded the Applied Learning Programme – Future Skill
 
 Principals:<br>
 \- Mdm Kok Chow Hiong (2005–2008)<br>
-\- Mdm Balakrishna Vyjanthimala (2009–present)
-
+\- Mdm Balakrishna Vyjanthimala (2009–2022)<br>
+\- Mr Lau Enoch (2023-present)
 #### **Key Milestones**
 
 |  |  |
