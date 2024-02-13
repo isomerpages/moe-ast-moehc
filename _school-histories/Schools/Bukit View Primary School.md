@@ -3,6 +3,7 @@ title: Bukit View Primary School
 permalink: /school-histories/bukit-view-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bukitviewpri1.png">
 
@@ -87,7 +88,8 @@ Principals:<br>
 | 2014 | Accorded Learning for Life Programme in Nurturing Values and Character through Aesthetics. |
 | 2015 | Accorded Best Practice for Staff Well-Being and Development. |
 | 2016 | Accorded Applied Learning Programme in Developing Thinkers, Collaborators and Communicators. Celebration of 30th Anniversary. |
-|
+| 2021 | Reviewed LLP Arts Alive! Nurturing Confident Leaders through the Arts and ALP Inspiring Reflective and Innovative Self-Directed Learners. |
+|2023 | 
 
 #### **School Motto**
 Towards Excellence
