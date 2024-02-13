@@ -3,6 +3,7 @@ title: Lianhua Primary School
 permalink: /school-histories/lianhua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/lianhuapri1.png">
 
@@ -66,7 +67,8 @@ Principals:<br>
 \- Mr Tye Kim Hoe (1996–2003)<br>
 \- Ms Cecilia Ng (2004–2008)<br>
 \- Mrs Lynda Soh (2009–2014)<br>
-\- Mr Willy Tan (2015–present)
+\- Mr Willy Tan (2015–2020)<br>
+\- Ms Pamela Kiew (2021-present)
 
 **Related school: [Hong Kah Primary School](/school-histories/hong-kah-pri/)**
 
@@ -80,9 +82,8 @@ Principals:<br>
 | 1990 | Official opening of Lianhua Primary School. |
 | 2002 | Completion of PRIME. |
 | 2015 | Merger with Hong Kah Primary School. |
-| 2016 | Celebration of 70th anniversary. |
 | 2017 | Completion of PERI upgrading. |
-|
+| 2021 | Celebration of 75th Anniversary. |
 
 #### **School Motto**
 &nbsp;Play. Passion. Purpose.
