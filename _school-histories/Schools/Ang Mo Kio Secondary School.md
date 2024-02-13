@@ -3,6 +3,7 @@ title: Ang Mo Kio Secondary School
 permalink: /school-histories/amk-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/amksec1.jpg">
 
@@ -73,7 +74,8 @@ Principals:<br>
 * Mr Tan Chee Siong (2005–2010)<br>
 * Mr Abdul Mannan (2011–2015)<br>
 * Mr Tom Chan (2015–2017)<br>
-* Mr Shaw Swee Tat (2017–present)
+* Mr Shaw Swee Tat (2017–2022)<br>
+* Mr Ashraf Hyder Yusoff Maniam (2022 - present)
 
 #### **Key Milestones**
 
@@ -86,10 +88,9 @@ Principals:<br>
 | 2002 | Relocation to current premises at 6 Ang Mo Kio Street 22. |
 | 2003 | Implementation of Integrated Arts Programme. |
 | 2005 | First Night of Music, Arts and Dance. |
-| 2014 | Accorded Applied Learning Programme in environmental sustainability through STEM. |
-| 2014 | One of the 12 prototype secondary schools to offer Subject-Based Banding (SBB). |
+| 2014 | Accorded Applied Learning Programme in environmental sustainability through STEM and one of the 12 prototype secondary schools to offer Subject-Based Banding. |
 | 2019 | Celebration of 40th anniversary. |
-|
+|2020 | One of the 28 Secondary Schools to pilot Full Subject-Based Banding.
 
 #### **School Motto**
 Always Strive for the Best
