@@ -66,7 +66,8 @@ Principals:<br>
 *  Mdm Koh Teck Siew (2001–2007)<br>
 *  Mr Krishnan Aravinthan (2007–2012)<br>
 *  Ms Pauline Fun Kar Whye (2012–2018)<br>
-*  Mr Teoh Teik Hoe (2018–present)
+*  Mr Teoh Teik Hoe (2018–2022)<br>
+*  Mr Koh Hwee Yong Daryl (2022-present)
 
 #### **Key Milestones**
 
@@ -74,13 +75,14 @@ Principals:<br>
 |:---:|---|
 | 1980 | Establishment of Bedok South Secondary School. |
 | 2002 | Relocation to current premises at 1 Jalan Langgar Bedok. |
+|2004| Introduction of the I CARE (Integrity, Confidence, Aspirations, Responsibility and Entrepreneurship) as school values.|
 | 2006 | Awarded the Best Singapore Education Partner: Overseas School Trips by Singapore Tourism Board. |
 | 2010 | Celebration of 30th anniversary. |
+|2012| Inaugural Colours of BDS, a showcase of the various performing arts in BDS. |
 | 2013 | Started niche in uniformed groups. |
 | 2014 | Started Applied Learning Programme, ‘PROJECT S.H.I.N.E.’. |
-| 2015 | Started Learning for Life Programme, ‘SHAPE @BDS’. |
-| 2015 | Celebration of 35th anniversary. |
-| 2016 | Introduction of Outstanding All-Rounder Student Award. |
+| 2015 | Re-envisioning of school mission to Build Character, Develop Leaders of Tomorrow (who will) Serve with Conviction. School values changed to Integrity, Courage, Accountability, Respect, Excellence and Care (ICARE). |
+| 2016 | Implementation of Learning for Life Programme, ‘SHAPE @BDS’. Introduction of Outstanding All-Rounder Student Award. |
 |
 
 #### **School Motto**
