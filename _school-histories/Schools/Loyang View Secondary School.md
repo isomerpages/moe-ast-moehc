@@ -3,6 +3,7 @@ title: Loyang View Secondary School
 permalink: /school-histories/loyang-view-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/loyangviewsec1.jpg">
 
@@ -51,18 +52,19 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-In 2018, Loyang View Secondary School (LVSS) was established as a result of the merger of Loyang Secondary School and Greenview Secondary School. With verve and optimism for a strong new school, the school leaders inspired and galvanised staff to collectively conceptualise a dream school where students are happy and motivated, and where teachers nurture them to be future-ready youths with good character.&nbsp;
+In 2018, Loyang View Secondary School (LVSS) was established as a result of the merger of Loyang Secondary School and Greenview Secondary School. With verve and optimism for a strong new school, the school leaders inspired and galvanised staff to collectively conceptualise a dream school where students are happy and motivated, and where teachers nurture them to be future-ready youths with good character.
+ 
+In 2018, LVSS was accorded the Applied Learning Programme (ALP) in design and engineering, and the Learning for Life Programme (LLP) in sports and outdoor education. The ALP exposes students to design-based activities targeted at developing values, attitudes and skills related to the science, technology, engineering and mathematics (STEM) fields. This two-tiered programme aims to ignite students’ passion in STEM subjects by involving them in projects, enrichment activities and overseas exchange, and using the design thinking framework to solve problems, incorporating scientific knowledge and skills. In 2021, LVSS established a partnership with the James Dyson Foundation (JDF) to provide students with authentic problem-based learning opportunities. In line with the ALP’s theme of Sustainability, Secondary Three students undergo a series of workshops with JDF engineers to design solutions for global sustainability concerns like air pollution.
 
-In 2018, LVSS was accorded the Applied Learning Programme (ALP) in design and engineering, and the Learning for Life Programme (LLP) in sports and outdoor education. The ALP exposes students to design-based activities targeted at developing values, attitudes and skill sets related to the science, technology, engineering and mathematics (STEM) fields. This two-tiered programme aims to ignite students’ passion in STEM subjects by involving them in projects, enrichment activities and overseas exchange, and using the design thinking framework to solve problems, incorporating scientific knowledge and skills.&nbsp;
+Anchored by the belief that sports and outdoor activities offer rich learning experiences that complement character building and inspire passion for learning, the LLP aims to inculcate in students a love for sports and an appreciation for lifelong learning. This is achieved by equipping students with skills for personal development in competitive and recreational sports, as well as through local and global outdoor programmes like Secondary 1 and 2 level camps, the Outward Bound Singapore Challenge for the Secondary Three cohort as well as the Overseas Education Programme. 
 
-Anchored by the belief that sports and outdoor activities offer rich learning experiences that complement character building and inspire passion for learning, the LLP aims to inculcate in students a love for sports and an appreciation for lifelong learning. This is achieved by providing students with skills for personal development in competitive and recreational sports, as well as through local and global outdoor activities and challenges.
+LVSS celebrated its founding year with a series of events and projects, such as the inaugural LVSS musical entitled LoVE (Loyang View Extravaganza), Grow My Character programme and enhancement of school environment.
 
-LVSS celebrated its founding year with a series of events and projects, such as the inaugural LVSS musical entitled&nbsp;_LoVE_&nbsp;(Loyang View Extravaganza), Grow My Character programme and enhancement of school environment.
-
-In 2019, LVSS achieved the Lee Hsien Loong Award for the Normal Course in recognition of its structures, processes and programmes in embracing all learners.&nbsp;
+In 2019, LVSS achieved the Lee Hsien Loong Award for the Normal Course in recognition of its structures, processes and programmes in embracing all learners. To develop future-ready learners, the Personalised Digital Learning Programme was implemented in 2021, equipping each student with a personal learning device to facilitate self-directed learning and collaboration via digital platforms. In 2023, the student-designed LVSS polo t-shirt was introduced as part of the LVSS uniform.
 
 Principal:<br>
-\- Mr Lee Hak Boon (2018–present)
+\- Mr Lee Hak Boon (2018–2021)<br>
+\- Mr Eugene Lin (2022-present)
 
 #### **Key Milestones**
 
@@ -73,10 +75,9 @@ Principal:<br>
 | 2018 | First Secondary One orientation; Inaugural Commendation Day; First National Day Celebration. |
 | 2018 | Launch of Grow My Character Programme; Inaugural school musical, ‘LoVE’ (Loyang View Extravaganza); Launch of Heritage Corner. |
 | 2019 | Attained Lee Hsien Loong Award for the Normal Course. |
-|
+| 2021 | Launch of Personalised Digital Learning Programme (PDLP). |
 
-#### **School Motto**
-Every Life is Touched
+
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/loyangviewsec1.jpg">
