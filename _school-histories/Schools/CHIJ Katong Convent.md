@@ -3,6 +3,7 @@ title: CHIJ Katong Convent
 permalink: /school-histories/chij-katong-convent/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijkatongconvent1.jpg">
 
@@ -73,7 +74,9 @@ Principals:<br>
 \- Mrs Karen Oei (1986–1996)<br>
 \- Mrs Lysia Kee (1997–2004)<br>
 \- Ms Lam Ai-Leen (2005–2013)<br>
-\- Ms Chan Gek San, Patricia (2014–present)
+\- Ms Chan Gek San, Patricia (2014–2021)<br>
+\- Mrs Hilda Thong (2022)<br>
+\- Mrs Tan Mei Chuen (2023 - present)
 
 #### **Key Milestones**
 
