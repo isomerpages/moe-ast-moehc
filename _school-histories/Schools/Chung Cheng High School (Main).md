@@ -3,6 +3,7 @@ title: Chung Cheng High School (Main)
 permalink: /school-histories/chung-cheng-high-main/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chungchengmainhighsch1.jpg">
 
@@ -84,7 +85,8 @@ Principals:<br>
 \- Mr Yue Lip Sin (2000–2005)<br>
 \- Mr Lo Chee Lin (2005–2011)<br>
 \- Mr Pang Choon How (2011–2015)<br>
-\- Mr Chan Ying Yin (2016–present)
+\- Mr CHAN YING YIN (2015 - 2021)<br>
+\- Mr YAO ZHIXUAN, TERENCE (2022 - present)<br>
 
 #### **Key Milestones**
 
@@ -104,17 +106,15 @@ Principals:<br>
 |
 
 #### **School Motto**
-好学力行<br>
-知耻自强<br>
-With Passion We Learn<br>
-With Perseverance We Strive<br>
-With Integrity We Live<br>
-With Commitment We Progress
+好学  With Passion We Learn;<br>
+力行   With Perseverance We Strive;<br> 
+知耻  With Integrity We Live;<br>
+自强  With Commitment We Progress
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chungchengmainhighsch1.jpg">
 
-The three sides of the triangle represent the collaboration between the school’s management, teachers and students. These three work hand in hand to bring the school to greater heights. The use of the colour red represents the school motto, symbolising diligence and perseverance. It inspires students to develop self-discipline and strength of character to put country before self. The colour white&nbsp;symbolises purity and the imparting of knowledge. It highlights the dual importance that the school places on studies and character-building.
+The three sides of the triangle represent the collaboration between the school’s management, teachers and pupils. These three work hand in hand to bring the school to greater heights. The colour red represents the school motto – “With Passion We Learn, With Perseverance We Strive” and “With Integrity We Live, With Commitment We Progress”. It inspires pupils to be upright, caring and loyal citizens. White symbolises purity and also signifies the imparting of knowledge. It serves to highlight the dual importance our school places on encouraging our pupils to achieve excellence in both studies and character building.
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/19wrytwD95kv-ctDEFYd6UlGnnQ-BdAOp/view?usp=share_link">**♫ Listen**</a>
