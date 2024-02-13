@@ -3,6 +3,7 @@ title: Junyuan Secondary School
 permalink: /school-histories/junyuan-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/junyuansec1.jpg">
 
@@ -61,19 +62,22 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Established in 1999, Junyuan Secondary School is a familiar landmark in Tampines. It started with a small cohort of 320 students; over the years, its population grew to more than 1,000 students. Every year, hundreds of Junyuanites graduate from the school.
+Junyuan Secondary School was established in January 1999 to serve the community of Tampines. The school began with 280 students and quickly grew to more than 1000 students. From the onset, the school's strategic focus was to cultivate the Champion Mindset of its students and staff so that they are empowered to Lead, Serve, and Excel. School programmes are crafted for students to practise and embody the school motto of Resolute, Righteous and Responsible. Students contributed to the community by organising key events such as the Youth Olympics Art Exhibition in 2010 and various social innovation challenges from 2009 to 2018. These platforms provided students with positive school experiences to exercise their leadership, hone their resilience and nurture a sense of personal accountability and gratitude.
 
-Character building and the focus on nurturing champions for the community permeate the school’s curriculum, programmes and culture. In 2005, a journey to nurture the ‘champion mindset’ for students and staff was charted. This bore the school mission, which is to empower students and staff ‘to lead, to serve and to excel’.
+In 2013, the Applied Learning Programme (ALP) integrated Food Science into the formal curriculum to build on students' learning in Food and Consumer Education classes. It held its first Junyuan MasterChef Challenge, a platform for Secondary One students to put their ALP and FCE skills and knowledge to the test. The school adapted the popular cooking reality TV show into a competition in which students collaborate to create hearty dishes using mystery ingredients. It has since evolved into a landmark experience that students look forward to as the finale event of the year.
 
-The next stage of growth for Junyuan emphasised quality and excellence through innovation. In 2014, Junyuan Secondary launched its Applied Learning Programme, ‘Developing Application-based Learning through Food Science and Technology’, and the Learning for Life Programme, ‘Cultivating Community Champions through Youth Leadership’. The following year, the school was recognised as a ‘best practice’ school for staff well-being and development, and attained the I-Class for the Business Excellence Award.
+The school's Learning for Life Programme (LLP) in Community Youth Leadership (CYL) contributes to its vision of preparing students to be Champions for the Community. The school's leadership program reinforces the belief that leadership is not positional, and that every student possesses the potential to lead. Student leaders are developed into concerned citizens and active contributors through a variety of structured leadership training, learning programs, and opportunities.
 
-Recognising that the next stage of the school’s journey needed an itinerary for sustainable improvement, the school focused on developing staff to become both efficient and effective. For the students, iconic programmes – such as the Junyuan Masterchef Challenge, Sports Fest and community-focused Values-in-Action – were strengthened to provide them with positive school experiences so as to build leadership, resilience and a sense of personal accountability and gratitude. &nbsp;Restorative practice was enhanced as a common language to build community relationships, and the introduction of the Student Leadership Challenge reinforced the school’s commitment to see a leader in each student. Even as Junyuanites are enabled to obtain the keys to open many doors in life, they will also learn to be champions for the community and become better persons for others.
+To provide an authentic experience for character building, the school launched its signature programme Camp Resilience for Secondary Two students in 2016. The camp, which includes orienteering, an obstacle race, and a cycling expedition develops students into citizens of character through teamwork and leadership.
+
+Junyuan Secondary implemented Mixed Form Classes and Common Curriculum as part of its Full Subject Based Banding journey in 2023. Each Mixed Class connects students from various courses and provides opportunities for students to learn alongside peers with diverse interests and strengths. Students in Mixed Form Classes get to learn from, interact with, and bond with a diverse group of peers, which broadens their perspectives and enhances their school experiences.
 
 Principals:<br>
 \- Mrs Cecilia Lee (1999–2004)<br>
-\- Mrs Janet Oh (2005–2010)<br>
-\- Mdm Lee Lai Yong (2011–2015)<br>
-\- Mr Mohamed Razali (2016–present)
+\- Mrs Janet Oh (2004–2010)<br>
+\- Mdm Lee Lai Yong (2010–2015)<br>
+\- Mr Mohamed Razali (2015–2021)<br>
+\- Mr Tay Meng Kiat (2021-present)
 
 #### **Key Milestones**
 
