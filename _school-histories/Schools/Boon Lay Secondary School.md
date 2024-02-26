@@ -3,6 +3,7 @@ title: Boon Lay Secondary School
 permalink: /school-histories/boon-lay-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/boonlaysec1.jpg">
 
@@ -81,7 +82,7 @@ Principals:<br>
 | 2017 | Merger with Pioneer Secondary School. |
 | 2017 | Accorded Applied Learning Programme, ‘Exploring Possibilities with Materials Science’ and Learning for Life Programme, ‘INSPIRE@BLS’. Celebration of 40th anniversary, and official opening of the Heritage Gallery and Heritage Garden. |
 | 2017 | Launch of the school’s trifold approach: family-oriented, CCA-centric and aspiration-focused. |
-|
+| 2021 | Implementation of House CCA System (i.e. Garnet, Emerald, Morganite, Sapphire)
 
 #### **School Motto**
 To Love and To Forgive<br>

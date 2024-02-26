@@ -3,6 +3,7 @@ title: Edgefield Secondary School
 permalink: /school-histories/edgefield-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/edgefieldsec1.png">
 
@@ -67,9 +68,10 @@ Principals:<br>
 | 2014 | Accorded Learning for Life Programme, ‘Character Education through Sports’, focused on taekwondo. |
 | 2014 | Accorded Applied Learning Programme, ‘Growing the Entrepreneurial Mindset’. |
 | 2015 | Entered the Singapore Book of Records for the most number of people performing a board-kicking sequence. |
-| 2018 | BCA Green Mark Award (GoldPlus). |
+| 2018 | BCA Green Mark Award (GoldPlus). Twinning Programe with Sekolah Menengah Sultan Muhammad Jamalul Alami in Brunei. |
 | 2019 | Implementation of mixed-stream form class system and became a pilot school for Full Subject-Based Banding. Identified as a 1:1 Personalised Learning Device Pilot Programme School. |
-|
+| 2021 | Edgefield Secondary celebrates 10 years of excellence. |
+| 2022 | Launch of Virtual Exchange Programme with Shanghai Luwan Middle School. |
 
 #### **School Motto**
 Sincerity and Honour

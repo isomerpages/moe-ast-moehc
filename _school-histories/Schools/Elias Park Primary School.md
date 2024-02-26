@@ -3,6 +3,7 @@ title: Elias Park Primary School
 permalink: /school-histories/elias-park-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/aliasparkpri1.jpg">
 
@@ -45,7 +46,9 @@ EPPS started functioning on 3 January 1995 with a student population of 770 in 2
 
 The school underwent PRIME upgrading from 2002 to 2004, and then PERI upgrading from 2015 to 2018. From 3 January 2011, the school became single session.
 
-EPPS has been accorded two Learning for Life Programmes: Character In Action@EPPS and Arts Creatively Expressed (ACE @ Elias). The first anchors on the school’s niche in National Education (NE), which broadens Eliasians’ perspectives on national issues through events linked to NE messages, Character and Citizenship Education and the teaching of school values. The latter emphasises aesthetics and aims to develop a love for art and music in Eliasians through exposure, experience and appreciation.
+EPPS has been accorded two Learning for Life Programmes: Character In Action@EPPS and Arts Creatively Expressed (ACE @ Elias). The first anchors on the school’s niche in National Education (NE), which broadens Eliasians’ perspectives on national issues through events linked to NE messages, Character and Citizenship Education and the teaching of school values. The latter emphasises aesthetics and aims to develop a love for art and music in Eliasians through exposure, experience and appreciation. 
+
+The school's Applied Learning Programme (ALP) is nuCLEAR (Nurturing Citizen Leaders with Empathy and Resilience) which aims to develop  citizen leaders who are active in solving community issues, including taking actions as citizens of the world in upholding sustainability for the future, based on curriculum relevance and real-world experiences.
 
 Principals:<br>
 \- Ms Chiang Wai Leng (1995–2000)<br>
@@ -68,7 +71,8 @@ Principals:<br>
 | 2016 | Accorded Learning for Life Programme in Arts Creatively Expressed. |
 | 2017 | Attained the National Arts Education Award in 2016 and 2017. |
 | 2018 | Completion of PERI Upgrading and attained the BCA Green Mark for Buildings - Gold. |
-|
+| 2019 | President Award for the Environment. |
+| 2021 | Appointed as an Eco Stewardship School.
 
 #### **School Motto**
 Endeavour and Persevere

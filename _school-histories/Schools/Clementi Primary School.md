@@ -3,6 +3,7 @@ title: Clementi Primary School
 permalink: /school-histories/clementi-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/clementipri1.png">
 
@@ -55,20 +56,21 @@ third_nav_title: Schools
 #### **School History**
 Clementi Primary School was established in 2001 with the merger of Clementi North Primary School and Clementi Town Primary School. It moved to its new building at Clementi Avenue 3 in December 2002. The new building was officially opened in 2003. In the same year, the Talent Corner was created to provide a space to identify and develop students’ talents.
 
-Between 2011 and 2013, the school developed the school-based excellence programme for visual arts, which later became its distinctive Learning for Life Programme in 2014. The school environment became a canvas for art. The Artique, Art Corridors and Ceramics Work Room were created to produce and showcase Clementians’ artworks.
+Between 2011 and 2013, the school developed the school-based excellence programme for visual arts, which later became its distinctive Learning for Life Programme in 2014. The school environment became a canvas for art. The Artique, Art Corridors and Ceramics Work Room were created to produce and showcase Clementians’ artworks. In 2022, the Artique had undergone renovation and it officially opened in 2023 as KidStudio.
 
 In collaboration with the Physical Education and Sports Teacher Academy in the Pathfinder Programme since 2012, the school has been a base for sharing good pedagogical practices with schools within the cluster and zone.
 
-In 2016, the school transited to single session and co-curricular activities were incorporated within curriculum time for all Primary Three to Primary Six students
+In 2016, the school transited to single session and co-curricular activities were incorporated within curriculum time for all Primary Three to Primary Six students.
 
-That year, the school also embarked on an after-school programme to cater to the different abilities of Clementians. The design of the programme was intended to further stimulate students’ interest in learning and allow them to relate and apply the concepts they have learnt during curriculum time to real-life situations.&nbsp;
+That year, the school also embarked on an after-school programme to cater to the different abilities of Clementians. The design of the programme was intended to further stimulate students’ interest in learning and allow them to relate and apply the concepts they have learnt during curriculum time to real-life situations. 
 
 The school completed its PERI upgrading in 2018.
 
 Principals:<br>
 \- Mrs Jean Sng (2001–2007)<br>
 \- Mrs Chandler Jay Siva (2008–2014)<br>
-\- Mr Chia See Chew Albert (2015–present)
+\- Mr Chia See Chew Albert (2015–2020)<br>
+\- Mr Vimalenthiran Vijayasingam (2021 - Present)
 
 **Related Schools: [Clementi North Primary School](/school-histories/clementi-north-pri/) \| [Clementi Town Primary School](/school-histories/clementi-town-pri/)**
 
@@ -82,7 +84,7 @@ Principals:<br>
 | 2010 | 10th anniversary Musical – Benevol-ant. |
 | 2016 | Transited to single-session school. |
 | 2018 | Completion of new 4-storey Annex Block under PERI upgrading. |
-|
+| 2020 | 2020 - 20th anniversary celebrations. |
 
 #### **School Motto**
 Others Before Self

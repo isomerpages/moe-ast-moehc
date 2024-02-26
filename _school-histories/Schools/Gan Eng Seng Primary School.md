@@ -3,6 +3,7 @@ title: Gan Eng Seng Primary School
 permalink: /school-histories/gan-eng-seng-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/gesps1.png">
 
@@ -57,15 +58,31 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Gan Eng Seng Primary School was named after the Chinese philanthropist Mr Gan Eng Seng (1844–1899). Gan Eng Seng Primary School was established from the merger of four primary schools: Alexandra Hill Primary School, Bukit Ho Swee Primary School, Henderson Primary School and Keng Seng Primary School. The school started on 2 January 2002 with more than 2,600 students spanning all six levels. The school also took in more than 100 students from a fifth school, Pearl’s Hill Primary, which had closed on 31 December 2001.
+Gan Eng Seng was one of the early pioneers of Singapore who was known for his generosity to many charitable causes during the era of the British Straits Settlements of Malaya and Singapore.
 
-The school was officially opened on 11 September 2004. As a merger school, the initial years focused on team-building to strengthen the bond among the teachers who had come from different schools, as well as to establish the mission and vision of the school. Time was spent defining and deciding on the school identity. The teachers also wrote and designed the school song and uniform. The school song reflected what the teachers wanted students to achieve through the six years of education with the school: to be confident and resilient students who believe in themselves and the future.
+Hardworking and Persevering:
 
-In 2008, the principal and the staff set the next phase of school growth through a re-envisioning exercise. This marked another milestone in the school’s journey of continuous improvement: the beginning of the next stage of school excellence. The school saw the need to strengthen school pride and identity among its students. The term ‘GESPian’ was thus introduced in 2009. The&nbsp; GESPian identity was articulated in four desired outcomes: engaged learner, confident individual, responsible citizen and successful contributor.
+Gan Eng Seng was born to a poor family in Malacca in 1844. He came to Singapore to seek his fortune at the age of 17. The only work he could find was selling nutmeg. Before long, he became an apprentice at Messrs Guthrie &amp; Company. Undaunted by hardship or misfortune, he worked diligently. His excellent work performance brought him rapid promotions and by the age of 19, he was an Assistant Storekeeper. After he accumulated some money, he started his own business. His trade expanded not long after, he became one of the millionaires in Singapore. Although he was rich, he remained thrifty all his life.
 
-The school places great emphasis on the students’ character development through a range of of programmes. These include the Community Involvement Programme (CIP) comprising the I-TOUCH programme. The school also provides a caring and psychosocial environment via a ‘discipline with dignity’ approach, using restorative practice. As a result, the Champs@GESPS framework was created to reward and recognise CHAMP class and individuals for demonstrating desirable GESPS traits. It focuses on Service Learning (CIP), Servant Leadership (Student Leadership Development Programme) and Active Citizenry (National Education). The school has a structured school-wide student leadership approach, which encompasses school-based leadership and class-based leadership. For its efforts, the school received the Character Development Award in 2010. It was also accorded the Sustained Achievement Award for Sports and Aesthetics from 2008 to 2010 for its co-curricular activities, and clinched a silver for the CHERISH Award in 2010.
+Valued Education:
 
-To develop 21st-century competencies in its students and prepare them for life-long learning, the school’s Learning for Life Programme,&nbsp;‘Nurturing Aesthetics and Values Development in Children through Band, Choir and Performing Arts’, emphasises the acquisition of values and life skills focusing on music and the performing arts.
+Since Gan Eng Seng was unable to have much of an education in his youth, it was his ambition to build a school and help those who were poor. During those days, life was very hard and most people were busy struggling for a living. They could not afford to send their children to school. He realized the importance of knowing the English Language in addition to mastering the Chinese Language in the modern world. Gan Eng Seng decided to set up a school where both English Language and Chinese Language were taught and he made the school free for all pupils.
+
+The school was established in 1885. It was named Anglo-Chinese Free School at first. In 1889, Gan Eng Seng paid for the construction of a new building in Telok Ayer Street. Anglo-Chinese Free School was renamed Gan Eng Seng School in 1893 and became a government school in 1938. As of 2007, Gan Eng Seng School is located at 1 Henderson Road after moving eight times during its 122-year history due to expansion needs.
+
+Generous and Had a Heart for the Less Fortunate:
+
+As a philanthropist, Gan was noted for his donations to local hospital funds. He founded a school for the children of the poor at Sam-Loh in the Fukien province of China.
+
+He died at the age of 55 in 1899.
+
+Formation of Gan Eng Seng Primary School – 2nd January 2002
+
+Gan Eng Seng Primary School was formed from a merger of four primary schools – Alexandra Hill, Bukit Ho Swee, Henderson and Keng Seng.
+
+The school started on 2 January 2002 with more than 2600 pupils spanning all 6 levels.
+
+On 11 September 2004, the school was officially declared opened by Dr Chong Weng Chiew, Member of Parliament for Tanjong Pagar GRC.
 
 Principals:<br>
 \- Ms Ng Soh Hua (2001–2008)<br>
@@ -83,7 +100,7 @@ Principals:<br>
 | 2004 | Official opening of Gan Eng Seng Primary School. |
 | 2012 | Celebration of 10th anniversary. |
 | 2017 | Celebration of 15th Anniversary. |
-|
+| 2022 | Celebration of 20th Anniversary. |
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/gesps1.png">
