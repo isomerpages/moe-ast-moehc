@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Upcoming Events/March school holidays campaign 2024.md
       - Upcoming Events/December Holidays at MOE Heritage Centre.md
       - Upcoming Events/Pioneer Merdaka Educators Get together.md
       - Upcoming Events/.keep
