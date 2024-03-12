@@ -1,8 +1,8 @@
 ---
-title: March Holidays at MOE Heritage Centre
+title: March school holidays campaign 2024
 permalink: /whats-on/upcoming-events/permalink/
 variant: tiptap
-description: school holidays; holidays programme; free activities
+description: ""
 third_nav_title: Upcoming Events
 ---
 <p></p>
