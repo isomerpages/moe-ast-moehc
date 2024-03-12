@@ -3,6 +3,7 @@ title: Marymount Convent School
 permalink: /school-histories/marymount-convent/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/marymountconventsch1.jpg">
 
@@ -67,7 +68,8 @@ Principals:<br>
 \- Ms Evelyn Schoonbeck (1991–2002)<br>
 \- Mrs Angela Tan (2003–2009)<br>
 \- Ms Cecilia Lim (2009–2016)<br>
-\- Mrs Allison Lim (2017–present)
+\- Mrs Allison Lim (2017–2022)<br>
+\- Miss Cheong Hwee Khim Minnie (2023 - present)
 
 #### **Key Milestones**
 
