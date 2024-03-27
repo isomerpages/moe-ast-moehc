@@ -3,6 +3,7 @@ title: Marsiling Secondary School
 permalink: /school-histories/marsiling-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/marsilingsec1.jpg">
 
@@ -55,7 +56,8 @@ Principals:<br>
 \- Mrs Choy Chee Meh (2001–2004)<br>
 \- Mr Loke Chee Pheng (2005–2010)<br>
 \- Ms Foong Lai Leong (2011–2016)<br>
-\- Mr Goh Aik Choon (2017–present)
+\- Mr Goh Aik Choon (2017–2022) <br>
+\- Mr Koh Yiak Kheng, Leonard (2023 - present)
 
 **Related School: [Si Ling Secondary School](/school-histories/si-ling-sec/)**
 
