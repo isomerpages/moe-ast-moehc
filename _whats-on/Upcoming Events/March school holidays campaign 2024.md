@@ -1,6 +1,6 @@
 ---
 title: March school holidays campaign 2024
-permalink: /whats-on/upcoming-events/permalink/
+permalink: /whats-on/upcoming-events/march-campaign/
 variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
