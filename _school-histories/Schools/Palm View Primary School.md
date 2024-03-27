@@ -3,6 +3,7 @@ title: Palm View Primary School
 permalink: /school-histories/palm-view-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/palmviewpri1.png">
 
@@ -65,7 +66,7 @@ Principals:<br>
 |:---:|---|
 | 2013 | Establishment of Palm View Primary School. |
 | 2015 | Official opening of Palm View Primary School. |
-|
+| 2022 | Celebration of 10th Anniversary. |
 
 #### **School Motto**
 Inspiring Excellence
