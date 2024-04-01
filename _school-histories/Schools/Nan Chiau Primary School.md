@@ -3,6 +3,7 @@ title: Nan Chiau Primary School
 permalink: /school-histories/nan-chiau-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiaupri1.jpg">
 
@@ -12,45 +13,7 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWwDxpY3O1QVa8qIX0vOSeDbqviUyiDRduu3zBnW9TEXqMwzT8K5Kq15RDqdaYBTT0LMhEtyeo-ABq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanchiaupri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri2.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri3.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanchiaupri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri5.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri6.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanchiaupri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri8.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Nan Chiau Primary School was established in March 1947 as the primary section of Nan Chiau Girls’ High School, located at Kim Yan Road. It was one of the six Chinese-medium schools run by Singapore Hokkien Huay Kuan. In 1965, Singapore Hokkien Huay Kuan spent $2 million rebuilding Nan Chiau Girl’s High School. The new premises were officially opened on 8 March 1969.
