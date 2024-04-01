@@ -3,6 +3,7 @@ title: Jubilee Primary School
 permalink: /school-histories/jubilee-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jubileepri1.jpg">
 
@@ -36,7 +37,7 @@ Jubilee Primary School was established in 1967. The school was an&nbsp;**integra
   
 In 1983, Jubilee Primary School took in pupils from Jubilee Malay School, which closed in the same year.  
   
-In 1996, Jubilee Primary School closed and merged with Qifa Primary School.
+Jubilee Primary School closed in 1996.
 
 #### **Key Milestones**
 
