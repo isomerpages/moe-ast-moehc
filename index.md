@@ -4,9 +4,9 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: " The gallery will be closed on 2 April from 10am to 2pm.  We will
-  resume normal visiting hours on 2 April from 2pm to 5pm (last entry is
-  4.30pm).  Thank you for your understanding."
+notification: The gallery will be closed on 9 April from 10am to 2pm.  We will
+  resume normal visiting hours on 9 April from 2pm to 5pm (last entry is
+  4.30pm).  Thank you for your understanding.
 sections:
   - hero:
       title: Welcome!
@@ -22,6 +22,7 @@ sections:
         - title: Subscribe
           description: Join our mailing list!
           url: https://form.gov.sg/5d5ce49deae0bb00128b8ef5
+      variant: center
   - infopic:
       title: School Histories
       subtitle: Spotlight
