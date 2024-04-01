@@ -3,6 +3,7 @@ title: Nan Chiau Primary School
 permalink: /school-histories/nan-chiau-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiaupri1.jpg">
 
@@ -12,45 +13,7 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWwDxpY3O1QVa8qIX0vOSeDbqviUyiDRduu3zBnW9TEXqMwzT8K5Kq15RDqdaYBTT0LMhEtyeo-ABq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanchiaupri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri2.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri3.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanchiaupri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri5.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri6.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanchiaupri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri8.jpg">
-</a></p>
-
-<p><a href="/images/nanchiaupri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiaupri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Nan Chiau Primary School was established in March 1947 as the primary section of Nan Chiau Girls’ High School, located at Kim Yan Road. It was one of the six Chinese-medium schools run by Singapore Hokkien Huay Kuan. In 1965, Singapore Hokkien Huay Kuan spent $2 million rebuilding Nan Chiau Girl’s High School. The new premises were officially opened on 8 March 1969.
@@ -64,7 +27,8 @@ Nan Chiau Primary School was accorded the Applied Learning Programme in Project-
 Principals:<br>
 \- Mr Chia Soo Keng (2001–2007)<br>
 \- Mr Tan Chun Meng (2008–2014)<br>
-\- Mdm Quah Li Ling Mae (2015–present)
+\- Mdm Quah Li Ling Mae (2015–2019)<br>
+\- Mrs Ong Jia Miin (2020 - present)
 
 #### **Key Milestones**
 
@@ -91,33 +55,36 @@ Principals:<br>
 The crest is represented by three interlocking rings that symbolise the moral, physical and intellectual development of the students. These are intrinsic to the quest for excellence in education. The red rings depict a persevering spirit to pursue a bright and promising future, as represented by the golden background. The heart in the overlapping centre symbolises care and concern for the total welfare of students.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1-sxJuDdRdR5byGg3WpSJlWueyzjybTN6/view?usp=share_link">**♫ Listen**</a>
+**1 First Verse**:  
+Our passion is burning  
+Our songs are soaring  
+Let us praise in a single voice  
+Beloved Nan Chiau.
 
-热 情 在&nbsp; 燃 烧，歌&nbsp; 声&nbsp; &nbsp;上&nbsp; &nbsp;云&nbsp; 宵；<br>
-re qing&nbsp; zai&nbsp; ran shao&nbsp; ge sheng shang yun xiao
+Reinvent ourselves  
+Thrive in the dynamic era  
+Promote the Chinese culture  
+Seek glory for our nation
 
-我 们&nbsp; &nbsp;同&nbsp; 声&nbsp; &nbsp;赞 美,可 爱 的 南&nbsp; 侨。<br>
-wo men tong sheng zan mei&nbsp; ke&nbsp; ai&nbsp; de&nbsp; nan qiao
+**Chorus**:  
+Beloved teachers and friends  
+Beloved schoolmates  
+Let us put our hearts together  
+To work towards our common goal
 
-＊&nbsp; 时 代 在 呼&nbsp; 唤， 警&nbsp; &nbsp;钟&nbsp; 在&nbsp; 猛&nbsp; &nbsp;敲；<br>
-&nbsp; &nbsp; shi dai zai&nbsp; hu&nbsp; huan&nbsp; &nbsp; jing&nbsp; zhong&nbsp; zai&nbsp; meng&nbsp; qiao
+**Second Verse**  
+Passion in learning  
+Relentless in pursuing  
+Uphold our school motto  
+Sincerity and perseverance
 
-发 扬&nbsp; 中&nbsp; &nbsp;华&nbsp; 文 化，&nbsp; 争&nbsp; &nbsp;取 国 家 荣&nbsp; 耀。<br>
-fa yang zhong hua wen hua&nbsp; &nbsp; zheng&nbsp; qu&nbsp; guo jia rong yao
+Reinvent ourselves  
+Thrive in the dynamic era  
+Promote the Chinese culture  
+Seek glory for our nation
 
-亲 爱 的 师 友 们， 亲 爱 的&nbsp; 同&nbsp; 学&nbsp; 们；<br>
-qin&nbsp; ai&nbsp; de&nbsp; shi you men&nbsp; &nbsp;qin&nbsp; ai&nbsp; de&nbsp; &nbsp;tong&nbsp; xue&nbsp; men
-
-我&nbsp; 们&nbsp; 携&nbsp; 手&nbsp; 迈 进， 向&nbsp; &nbsp;着 那&nbsp; 共&nbsp; 同&nbsp; 的&nbsp; 目 标。<br>
-wo&nbsp; men&nbsp; xie shou&nbsp; mai&nbsp; jin&nbsp; &nbsp; xiang&nbsp; zhe&nbsp; na&nbsp; gong tong&nbsp; de&nbsp; &nbsp;mu biao
-
-虚 心 的 学 习，不&nbsp; 断 的 研&nbsp; 讨；<br>
-xu&nbsp; xin&nbsp; de xue&nbsp; xi&nbsp; &nbsp; &nbsp;bu duan de&nbsp; yan tao
-
-遵&nbsp; 守&nbsp; &nbsp;诚&nbsp; 毅 校&nbsp; 训，<br>
-xun shou cheng yi&nbsp; &nbsp;xiao xun
-
-大 家 团&nbsp; 结 牢。<br>
-da&nbsp; jia tuan&nbsp; jie&nbsp; lao
-
-＊ Repeat the chorus
+**Chorus**:  
+Beloved teachers and friends  
+Beloved schoolmates  
+Let us put our hearts together  
+To work towards our common goal
