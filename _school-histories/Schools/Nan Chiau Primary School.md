@@ -27,7 +27,8 @@ Nan Chiau Primary School was accorded the Applied Learning Programme in Project-
 Principals:<br>
 \- Mr Chia Soo Keng (2001–2007)<br>
 \- Mr Tan Chun Meng (2008–2014)<br>
-\- Mdm Quah Li Ling Mae (2015–present)
+\- Mdm Quah Li Ling Mae (2015–2019)<br>
+\- Mrs Ong Jia Miin (2020 - present)
 
 #### **Key Milestones**
 
