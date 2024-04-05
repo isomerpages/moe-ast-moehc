@@ -3,6 +3,7 @@ title: St Margaret's Primary School
 permalink: /school-histories/st-margaret-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretpri1.png">
 
@@ -19,13 +20,19 @@ third_nav_title: Schools
 
 #### **School History**
 
-Mrs Maria Dyer a missionary of the London Missionary Society was en route to China when she stopped by Singapore in 1842. She was horrified to see girls being auctioned as slaves and decided to start a home for homeless girls, regardless of race, in a tiny shop-house in North Bridge Road. Thus, began the first girls' school in Singapore. It was named the Chinese Girls’ School. The girls were given an elementary education in English, instructed in the Christian faith and were taught how to be good homemakers. With special emphasis on character building and leadership, the education trained the girls to be independent. This has been the school’s tradition since then. In 1861, the school moved to 134 Sophia Road with a boarding house built in its grounds. In 1900, The Church of England Zenana Missionary Society (CEZMS) took over the management of the school and the school was re-named the CEZMS School. The school was much damaged during World War II. After the war the Bishop of Singapore changed its name to St. Margaret's School in 1949, after Queen Margaret of Scotland. The school soon recovered from its wartime setbacks and set about consolidating its curriculum and provided students with a broad-based education in the academic, physical, social, moral and spiritual domains. Soon, the school had grown so much that space for further expansion was required. In 1960, the school was split into primary and secondary sections. 
+Mrs Maria Dyer a missionary of the London Missionary Society was en route to China when she stopped by Singapore in 1842. She was horrified to see girls being auctioned as slaves and decided to start a home for homeless girls, regardless of race, in a tiny shop-house in North Bridge Road. Thus, began the first girls' school in Singapore. It was named the Chinese Girls’ School.
 
-The secondary school moved to Farrer Road. The familiar old building at 134 Sophia Road, which continued to house the primary school, was finally demolished in August 1984. 
+The girls were given an elementary education in English, instructed in the Christian faith and were taught how to be good homemakers. With special emphasis on character building and leadership, the education trained the girls to be independent. This has been the school’s tradition since then. 
 
-The primary school relocated to a holding site on Anthony Road and returned in June 1986, with a new address – 99 Wilkie Road. The new building was officially opened on Founder’s Day, 16 November 1987. On 16 November 1997, the National Heritage Board recognised the school’s long history by marking the Wilkie Road premises as a national historic site. Between 1999 and 2001, the school underwent PRIME upgrading.
+In 1861, the school moved to 134 Sophia Road with a boarding house built in its grounds. In 1900, The Church of England Zenana Missionary Society (CEZMS) took over the management of the school and the school was re-named the CEZMS School. The school was much damaged during World War II. After the war the Bishop of Singapore changed its name to St. Margaret's School in 1949, after Queen Margaret of Scotland.
 
-In 2020, the school moved to Mattar Road so that MOE’s PERI upgrading works could take place at the Wilkie Road site. With its record of helpfulness, good work and dedicated service, the school is well loved by all who have passed through its gates and will be loved and honoured by those yet to come.
+The school soon recovered from its wartime setbacks and set about consolidating its curriculum and provided students with a broad-based education in the academic, physical, social, moral and spiritual domains. Soon, the school had grown so much that space for further expansion was required.
+
+In 1960, the school was split into primary and secondary sections. The secondary school moved to Farrer Road. The familiar old building at 134 Sophia Road, which continued to house the primary school, was finally demolished in August 1984. The primary school relocated to a holding site on Anthony Road and returned in June 1986, with a new address – 99 Wilkie Road. The new building was officially opened on Founder’s Day, 16 November 1987.
+
+On 16 November 1997, the National Heritage Board recognised the school’s long history by marking the Wilkie Road premises as a national historic site. Between 1999 and 2001, the school underwent PRIME upgrading. In 2020, the school moved to Mattar Road so that MOE’s PERI upgrading works could take place at the Wilkie Road site.
+
+With its record of helpfulness, good work and dedicated service, the school is well loved by all who have passed through its gates and will be loved and honoured by those yet to come.
 
 Principals:<br>
 \- Mrs Maria Dyer (1842–1843)<br>
@@ -71,7 +78,7 @@ The school is named after Queen Margaret of Scotland who was known for many good
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretpri1.png">
 
-The green background represents creation, of which we are a part. It stands for life and activity, creativity and growth. The white cross represents the Christian Mission of the school. Like a directional compass, it shows the right way to take and it points us to God's love, truth and provision. The white band running diagonally across from the upper left hand corner to the lower corner stands for purity in thought, word and deed. The sash at the base of the emblem represents the friendship ties that bind all who are in the St Margaret’s School family.
+The green background represents creation, of which we are a part. It stands for life and activity, creativity and growth. The white cross represents the Christian Mission of the school. Like a directional compass, it shows the right way to take and it points us to God's love, truth and provision. The white band running diagonally across from the upper left hand corner to the lower corner stands for purity in thought, word and deed. The sash at the base of the emblem represents the friendship ties that bind all who are in the St. Margaret’s School family.
 
 #### **School Song**
 <a href="https://drive.google.com/file/d/1Loiih0USBKe3UDuWvIyyvM1Qw1MxZ5mQ/view?usp=share_link" target="_blank">**♫ Listen**</a>
