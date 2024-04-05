@@ -3,6 +3,7 @@ title: Yuhua Primary School
 permalink: /school-histories/yuhua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuapri1.png">
 
@@ -106,14 +107,19 @@ The school crest uses the colours blue and red. Blue signifies depth, breadth an
 
 <a href="https://drive.google.com/file/d/1IsLDr9lx_N05zb7zt4wf1eNEkbqiEggC/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
+
 Here is where we grow and serve<br>
 With a strong passion for life<br>
 With strength in character that takes us far<br>
 Creative in our thoughts Innovative in our ways<br>
-Yuhua is where we grow our hearts and minds<br> Rise above all Illuminate and dazzle<br>
-Yuhualites stand tall With love and light to lead us<br> Rise above all Yuhua is where we grow our hearts and minds Yuhua our home it’s here that we belong <br>
+Yuhua is where we grow our hearts and minds<br> 
+Rise above all Illuminate and dazzle<br>
+Yuhualites stand tall With love and light to lead us<br> 
+Rise above all Yuhua is where we grow our hearts and minds 
+Yuhua our home it’s here that we belong <br>
 United as one Yuhua <br>
 Life-long learners we’ll be Hand in hand, we can achieve our goals<br>
 Together we will strive<br>
 Forever do our best!<br>
-Yuhua is where we grow our hearts and minds<br> Yuhua our home it’s here that we belong
+Yuhua is where we grow our hearts and minds<br> 
+Yuhua our home it’s here that we belong
