@@ -3,6 +3,7 @@ title: Xinghua Primary School
 permalink: /school-histories/xinghua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/xinghuapri1.png">
 
