@@ -1,5 +1,5 @@
 title: MOE Heritage Centre
-url: https://moehc.sg
+url: https://moehc.moe.edu.sg
 favicon: /images/HC pages/00_favicon.svg
 colors:
   primary-color: "#745e4d"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
