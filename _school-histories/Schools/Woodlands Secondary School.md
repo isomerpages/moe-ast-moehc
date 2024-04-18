@@ -3,6 +3,7 @@ title: Woodlands Secondary School
 permalink: /school-histories/woodlands-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandssec1.png">
 
@@ -97,6 +98,8 @@ Principals:<br>
 
 #### **School Motto**
 Wisdom and Truth
+
+WISDOM is what one attains as a result of knowledge and learning. It shows itself in good judgement and an enlightened approach to one’s thoughts and actions. &nbsp; TRUTH is a concept linked with honesty, sincerity and integrity and is associated with the moral person. &nbsp; The motto synthesizes the virtues of the learned man and the moral man.
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandssec1.png">

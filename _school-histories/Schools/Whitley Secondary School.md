@@ -3,6 +3,7 @@ title: Whitley Secondary School
 permalink: /school-histories/whitley-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/whitleysec1.png">
 
@@ -52,6 +53,8 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
+Whitley Secondary School was established on 4 January 1965, one of the few schools in Singapore that shares the same ‘birth year’ as the nation. Over the decades, the school has nurtured generations of sportsmen and civic-minded citizens who contribute with great distinction in industry, community and public service. Originally located at the junction of Whitley and Dunearn roads, the school shifted to its present site in Bishan New Town in 1992. The campus underwent redevelopment from 2006 to 2007, during which time the school was temporarily located at Toa Payoh Lorong 1.
+
 Whitley Secondary School’s vision of ‘A Caring and Learning Community of Leaders’ has been the driving force behind its focus on developing students to their fullest potential so that they are able to serve the community, anchored in the school values of Perseverance, Respect, Integrity, Discipline and Empathy. The school is committed to delivering a holistic and engaging curriculum that develops future-ready learners who lead, serve and achieve. This is done through an assortment of strategies and programmes, focused on building a strong foundation for academic success, nurturing their leadership skills and allowing students to pursue their interests and strengths.
 
 The school also actively seeks out meaningful and relevant partnerships to support and provide students with a broad array of opportunities to discover their passions. Whitley Secondary has two distinctive programmes: ‘Communicative Arts’ and ‘Active Citizenship for Social Change’.
@@ -59,6 +62,7 @@ The school also actively seeks out meaningful and relevant partnerships to suppo
 ‘Speech Communication Arts’, the school’s Applied Learning Programme, helps students improve their communication skills through speech and art forms such as drama, public speaking and debates. It aims to nurture confident and self-directed learners who are able to apply their information and communication competencies effectively in their life and future careers.
 
 The school’s Learning for Life Programme, ‘Active Citizenship for Social Change’, is designed to expose and engage students in various social issues, and to promote empowerment and a sense of community among students. It aims to positively impact community issues by fostering empathy and nurturing a spirit of active participation in students.
+
 
 Principals:<br>
 \- Mr M.A. Mallal (1965–1968)<br>
