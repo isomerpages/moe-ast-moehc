@@ -6,10 +6,6 @@ third_nav_title: Schools
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="![BB](/images/BalestierBoysSchoolCrest.png)">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/BalestierBoysSchoolCrest.png">
 </div>
 <h3><strong>Balestier Boys' School</strong></h3>
