@@ -3,6 +3,7 @@ title: Geylang Methodist School (Secondary)
 permalink: /school-histories/geylang-methodist-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/geylangmethodistsec1.jpg">
 
@@ -53,7 +54,8 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Reverend Lloyd Sullivan, together with Mrs Chia Han Kiat and Miss Emma Walker, founded Geylang Methodist Girls’ School (GMGS) in 1924. It had an enrolment of 27 girls, and lessons were conducted in a room at Geylang Chinese Methodist Church (GCMC).
+  
+The rich heritage of our school began in 1924 as Geylang Methodist Girls’ School (GMGS) with the support of the Methodist Church in Singapore, Reverend Floyd Herman Sullivan and Miss Emma Eaton Walker.&nbsp; With a pupil enrolment of 27 girls, lessons were conducted in the sanctuary of Geylang Chinese Methodist Church (GCMC). Mrs Chia Han Kiat was the only teacher at that time.
 
 The school stopped using the church premises after the land was acquired for development. During the redevelopment of GCMC, a portion of the land was allocated for the building of the school. It was equipped with new classrooms and other school amenities to cater to a growing enrolment. The enrolment had increased to 300 girls by 1930, with only the primary level.
 
@@ -67,7 +69,7 @@ In preparation for its conversion to a single-session school, the school buildin
 
 The year 2007 marked two milestones for the schools. They were renamed Geylang Methodist School (Primary) and Geylang Methodist School (Secondary) to signify unity of the two schools. In addition, the school premises were upgraded with new and improved facilities. These included computer laboratories, media resource libraries, pastoral care rooms as well as health and fitness rooms. The blocks were linked via corridors and covered linkways, which made the school a more accessible place for all.
 
-In 2019, the school celebrated its 95th anniversary and continues to give back to the community in which it is deeply rooted.
+In 2024, the school commemorated its 100th anniversary (GM100) with the opening of its heritage museum – The Living Gallery. The gallery was designed to celebrate, document and share the remarkable 100-year heritage of Geylang Methodist Schools, its origination, journey, and commitment as a Methodist mission school, and how it continues to give back to the community in which it is deeply rooted.
 
 Principals:<br>
 \- Mrs Chia Han Kiat (1924–1926)<br>
@@ -81,13 +83,14 @@ Principals:<br>
 \- Mrs Marion Tan (1998–2002)<br>
 \- Mr Lim Yan Hock (2002–2008)<br>
 \- Ms Doris Ho (2009–2015)<br>
-\- Mr Wee Tat Chuen (2015–present)
+\- Mr Wee Tat Chuen (2015-2021)
+\- Mr Victor Owyong Tuck Sing (2022-present)
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
-| 1924 | Founding of Geylang Methodist Girls’ School with support from Geylang Methodist Chinese Church. Located in the church, it began with a class of 27 girls. |
+| 1924 | Founding of Geylang Methodist Girls’ School with support from Geylang Chinese Methodist Church. Located in the church, it began with a class of 27 girls. |
 | 1927 | Geylang Methodist Girls’ School moved into its own premises. |
 | 1949 | Obtained grant-in-aid status. |
 | 1950 | Became a full school with secondary-level classes. |
@@ -97,7 +100,7 @@ Principals:<br>
 | 1999 | Upgrading of school; became single-session. |
 | 2007 | Completion of PRIME upgrading; return to new facilities. |
 | 2014 | Completion of 90 charitable acts to commemorate its 90th anniversary. |
-|
+| 2024 | Commemorated its 100th Anniversary with the opening of The Living Gallery, by Minister for Education, Mr Chan Chun Sing
 
 #### **School Motto**
 To grow in Friendship, Body, Mind
