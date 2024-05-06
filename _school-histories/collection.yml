@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Histories.md
-      - Schools/Pasir Ris Sec.md
       - Schools/.keep
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
