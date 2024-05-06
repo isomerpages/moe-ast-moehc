@@ -83,7 +83,7 @@ Principals:<br>
 \- Mrs Marion Tan (1998–2002)<br>
 \- Mr Lim Yan Hock (2002–2008)<br>
 \- Ms Doris Ho (2009–2015)<br>
-\- Mr Wee Tat Chuen (2015-2021)
+\- Mr Wee Tat Chuen (2015-2021)<br>
 \- Mr Victor Owyong Tuck Sing (2022-present)
 
 #### **Key Milestones**
