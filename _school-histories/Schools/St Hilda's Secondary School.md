@@ -3,6 +3,7 @@ title: St Hilda's Secondary School
 permalink: /school-histories/st-hilda-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sthildasec1.jpg">
 
@@ -89,7 +90,7 @@ Principals:<br>
 | 2012 | Official opening of Student Activity Centre at St Hilda’s Secondary School. |
 | 2014 | Celebration of 80th anniversary. |
 | 2019 | Celebration of 85th anniversary with a series of events jointly organised with St Hilda’s Primary School and other key partners. These include a Combined Schools Carnival, Founders’ Day, Hildan Vision Night and the 85th Anniversary Thanksgiving Dinner. |
-|
+| 2024 | Celebrated our 90th Anniversary, with our Hildan Family, anchored on the theme of “Making a Difference as ONE”. The key highlight is 90 Acts of Kindness to bless our nation.
 
 #### **School Motto**
 Go Forward<br>
