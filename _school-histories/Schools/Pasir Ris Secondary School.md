@@ -171,4 +171,4 @@ Stories we Share through Journalism.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>School Motto</p>
