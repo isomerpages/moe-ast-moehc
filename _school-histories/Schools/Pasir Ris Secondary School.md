@@ -5,13 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Schools
 ---
-<h3><strong>Pasir Ris Secondary School </strong></h3>
+<h3><strong>Pasir Ris Secondary School</strong></h3>
 <p><a href="https://www.pasirrissec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
 </p>
-<h4><strong> Image Gallery</strong></h4>
+<h4><strong>Image Gallery</strong></h4>
 <p></p>
 <p></p>
-<h4><strong>School History </strong></h4>
+<h4><strong>School History</strong></h4>
 <p>Established as the first secondary school in Tampines New Town, PRSS’s
 mission is deeply influenced by the sense of responsibility in providing
 quality secondary education to the Tampines community. It had its humble
@@ -70,8 +70,105 @@ Story.</p>
 </ul>
 <p></p>
 <h4><strong>Key Milestones</strong></h4>
-<hr>
-<p>1985 Establishment of Pasir Ris Secondary School.</p>
-<hr>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1985</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Establishment of Pasir Ris Secondary School.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School building expansion to operate as single-session school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2007</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Completion of PRIME upgrading. Revised vision: Shaping Learners, Creating
+Leaders.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2008</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accorded the Niche School in Chinese Orchestra; Recipient of LKY ARE Award
+for Outstanding NA Student.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2012</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded Lee Hsien Loong Award for Innovations in Normal Prog (LHLAIN);
+Recipient of LKY ARE Award for NA Student.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2013</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awarded the School Distinction Award, Singapore Quality Class &amp; Partners
+Award; Revised vision: Independent Learners, Confident Learners, Caring
+Citizens.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2014</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accorded Applied Learning Programme in Humanities and English Language
+through Project DRIVE! and Learning for Life; Programme (LLP) in Music
+and Performing Arts through SHINE@PRSS.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2017</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduction of 5 Level Camps- Oneric, SPARK, Metamorphosis, QUEST &amp;
+CONQUEST.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Revised vision: Confident Learners, Caring and Resilient Citizens; MOE-OBS
+Programme for Sec 3 cohort before it was made compulsory to all sec 3s
+in 2019; Awarded Lee Hsien Loong Award for Innovations in Normal Prog (LHLAIN).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scaling up of 2019 Pilot in Personal Digital Learning Programme to Sec
+2s; Expansion of DSA Talent areas to include 2 Sports – Volleyball (Boys)
+and Football(Boys) and digital media; ALP revised to Eye on the World:
+Stories we Share through Journalism.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
