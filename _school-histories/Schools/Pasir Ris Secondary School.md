@@ -171,4 +171,39 @@ Stories we Share through Journalism.</p>
 </tr>
 </tbody>
 </table>
-<p>School Motto</p>
+<h4><strong>School Motto</strong></h4>
+<p>Pride and Responsibility</p>
+<p></p>
+<h4><strong>School Crest</strong></h4>
+<p>The school crest reflects the type of education, which the school aims
+to provide its students. The motto, Pride and Responsibility, derived from
+the initials of the school, are the solid values, which the school hope
+to instill in students. These virtues, like sails in the wind, will carry
+the school forward to success and work excellence.</p>
+<p>The waves which form the base on which Pride and Responsibility rests,
+symbolises the students' aesthetic and moral development which complement
+their formal education.</p>
+<p>The school colours, yellow and green, are indicative of the freshness
+and enlightenment that a sound education provides. It is therefore the
+school's aspiration to provide the best possible education for its students
+so as to ensure that our future generation of citizens will show pride
+and responsibilities in their endeavours.</p>
+<p></p>
+<h4><strong>School Song</strong></h4>
+<p>With pride and joy let us sing</p>
+<p>Let truth and sincerity come right from your heart</p>
+<p>These and other thoughts we gladly bring</p>
+<p>To Pasir Ris right from the start</p>
+<p>There's care and service we offer</p>
+<p>Give kindness to everyone and grudging to none</p>
+<p>These and other deeds to you we proffer</p>
+<p>Realizing the best from everyone</p>
+<p>Have pride in self and concern for others</p>
+<p>But never from the good to stray away</p>
+<p>With pride and joy let us sing</p>
+<p>Let truth and sincerity come right from your heart</p>
+<p>These and other thoughts we gladly bring</p>
+<p>To Pasir Ris right from the start</p>
+<p>To Pasir Ris right from the start</p>
+<p></p>
+<p></p>
