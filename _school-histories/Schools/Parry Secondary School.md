@@ -25,7 +25,6 @@ former site of Parry Secondary School was occupied by Rosyth School due
 to the latter’s space constraints until 2001. Since then, Parry Secondary
 School’s building has been left vacant.</p>
 <h4><strong>Key Milestones</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
