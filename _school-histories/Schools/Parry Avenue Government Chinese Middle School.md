@@ -54,8 +54,7 @@ form Parry Primary School.</p>
 </tbody>
 </table>
 <h4><strong>School Motto</strong></h4>
-<p><strong>-
-</strong>
+<p><strong>-</strong>
 </p>
 <h4><strong>School Crest</strong></h4>
 <p>-</p>
