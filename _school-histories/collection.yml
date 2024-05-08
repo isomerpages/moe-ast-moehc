@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Parry Secondary School.md
       - Schools/Pasir Panjang Secondary School.md
       - Schools/Pasir Ris Crest Secondary School.md
       - Schools/Pasir Ris Primary School.md
