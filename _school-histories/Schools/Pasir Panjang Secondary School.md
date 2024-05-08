@@ -54,4 +54,27 @@ site of the school till today.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>School Motto</strong></h4>
+<p>PER STUDIA VIRTUS</p>
+<p>PER means through</p>
+<p>STUDIA means diligent zeal.</p>
+<p>VIRTUS means strength of character.</p>
+<p></p>
+<h4><strong>School Crest</strong></h4>
+<p>Our school crest/badge has 4 sections, each depicting a message. The sections
+include an open book, a lion over a castle, 3 fishes in mid air and our
+school motto.</p>
+<p>The open book reminds us of the knowledge which our students seek within
+the walls of PPSS.</p>
+<p>The lion over the castle brings home the message of our country, the Lion
+City. This is the reminder of the strength and courage of the nation of
+which we are a part.</p>
+<p>The 3 fishes are really Duyongs. These Duyongs once teemed the stretch
+of water of Pasir Panjang. They are small but they are known to be able
+to ride the forecast storms. What they lack in size, they make up in courage
+and determination, a fitting symbol of industry for our students. The closing
+lines of our school song reads:</p>
+<p>“....And as the Duyong rides up storm, so shall we face</p>
+<p>The future with zest and steadfast enterprise.”</p>
+<p></p>
 <p></p>
