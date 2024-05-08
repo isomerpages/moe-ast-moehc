@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Parry Avenue Boys' School.md
       - Schools/Parry Avenue Girls' School.md
       - Schools/Parry Avenue Government Chinese Middle School.md
       - Schools/Parry Secondary School.md
