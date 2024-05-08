@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Schools
 ---
 <h3><strong>Montfort Secondary School</strong></h3>
-<p></p>
+<p><a href="https://www.montfortsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School website </a>
+</p>
 <h4><strong>Image Gallery</strong></h4>
 <p></p>
 <p></p>
