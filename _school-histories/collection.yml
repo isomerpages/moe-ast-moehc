@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Monk's Hill Secondary School.md
       - Schools/Montfort Junior School.md
       - Schools/Montfort Secondary School.md
       - Schools/.keep
