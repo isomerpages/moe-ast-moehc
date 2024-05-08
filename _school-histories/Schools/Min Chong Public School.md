@@ -73,4 +73,10 @@ of the area upon the construction of Changi Airport.</p>
 </tr>
 </tbody>
 </table>
-<p>Due to low enrolment rates, the school closed in 1981.</p>
+<h4><strong>School Motto</strong></h4>
+<p>-</p>
+<p></p>
+<h4><strong>School Crest</strong></h4>
+<p>-</p>
+<p></p>
+<p></p>
