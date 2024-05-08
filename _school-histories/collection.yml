@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Montfort Secondary School.md
       - Schools/.keep
       - Schools/Parry Avenue Government Chinese Middle School.md
       - Schools/Parry Secondary School.md
