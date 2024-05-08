@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Ming Sin School.md
       - Schools/Monk's Hill Primary School.md
       - Schools/Monk's Hill Secondary School.md
       - Schools/Montfort Junior School.md
