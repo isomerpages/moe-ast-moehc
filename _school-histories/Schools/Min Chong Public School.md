@@ -67,7 +67,8 @@ of the area upon the construction of Changi Airport.</p>
 <p>1981</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Min Chong Public school was closed down.</p>
+<p>Min Chong Public school was closed</p>
+<p>down.</p>
 </td>
 </tr>
 </tbody>
