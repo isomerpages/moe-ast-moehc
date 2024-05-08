@@ -238,6 +238,45 @@ in student leadership development through sports and outdoor education.</p>
 </tbody>
 </table>
 <h4><strong>School Motto</strong></h4>
-<p></p>
+<p>Age Quod Agis</p>
+<p>(Latin for ‘Do well in whatever you do’)</p>
 <h4><strong>School Crest</strong></h4>
+<p>The school crest was created when the Brothers of St Gabriel took over
+the management of the school in 1936. In 2014, the current crest was adopted,
+in line with the rest of the schools around the world which are under the
+Brothers.</p>
+<p>The coat of arms has the letters ‘AM’ in the top-left quadrant, which
+stand for ‘Ave Maria’ (Latin for ‘Hail Mary’), and a lily, which symbolises
+the purity of the Blessed Virgin Mary, to whom the founder of the Order
+of St Gabriel, St Louis Marie de Montfort, was devoted.</p>
+<p>God was the sole motivating force in the life of St Louis Marie de Montfort.
+This is symbolised by the cross with the letters ‘DS’ in the bottom-right
+quadrant, which stand for ‘Dieu Seul’ (French for ‘God Alone’).</p>
+<p>The image of a star in the bottom-left quadrant symbolises the guidance
+of the Blessed Virgin Mary on life’s journey. Perseverance in the face
+of the storms of life is symbolised by the image of a sailboat in the top-right
+quadrant. ‘Our Lady, Star of the Sea’ is another title given to the Blessed
+Virgin Mary, who is the guiding star.</p>
+<p>The crest also has the words ‘Montfort Brothers of St Gabriel’ and ‘Labor
+Omnia Vincit’ (Latin for ‘Labour conquers all things’) on it.</p>
+<p></p>
+<h4><strong>School Song</strong></h4>
+<p>All ye sons of Montfort School</p>
+<p>Ever grateful be and true</p>
+<p>To your Alma Mater dear</p>
+<p>For her loving care of you.</p>
+<p>Keep your filial piety</p>
+<p>Burning bright your whole life through,</p>
+<p>Ever jealous of her name</p>
+<p>Ever mindful of her claim.</p>
+<p>Hark! Her bugle sounds aloud,</p>
+<p>Rise her sons, and play your part</p>
+<p>With a song upon your lips</p>
+<p>And a courage in your heart.</p>
+<p>See! Her banner in the breeze,</p>
+<p>Freely flutters high and smart</p>
+<p>Feel in you a surging pride</p>
+<p>When your Mater’s colours ride.</p>
+<p></p>
+<p></p>
 <p></p>
