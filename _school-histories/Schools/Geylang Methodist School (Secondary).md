@@ -72,7 +72,7 @@ The year 2007 marked two milestones for the schools. They were renamed Geylang M
 In 2024, the school commemorated its 100th anniversary (GM100) with the opening of its heritage museum – The Living Gallery. The gallery was designed to celebrate, document and share the remarkable 100-year heritage of Geylang Methodist Schools, its origination, journey, and commitment as a Methodist mission school, and how it continues to give back to the community in which it is deeply rooted.
 
 Principals:<br>
-\- Mrs Chia Han Kiat (1924–1926)<br>
+\- Ms Emma Eaton Walker (1927)<br>
 \- Mrs Muriel Barnes (1927–1930)<br>
 \- Mrs Lau Soong Moy (1931–1941)<br>
 \- Mrs Thio Suan Cheok (1946–1948)<br>
