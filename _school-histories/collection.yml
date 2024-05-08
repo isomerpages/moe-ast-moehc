@@ -3,15 +3,13 @@ collections:
     output: true
     order:
       - School Histories.md
-      - Schools/Parry Avenue Boys' School.md
-      - Schools/Parry Avenue Girls' School.md
+      - Schools/.keep
       - Schools/Parry Avenue Government Chinese Middle School.md
       - Schools/Parry Secondary School.md
       - Schools/Pasir Panjang Secondary School.md
       - Schools/Pasir Ris Crest Secondary School.md
       - Schools/Pasir Ris Primary School.md
       - Schools/Pasir Ris Secondary School.md
-      - Schools/.keep
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
       - Schools/Ahmad Ibrahim Primary School.md
@@ -383,6 +381,8 @@ collections:
       - Schools/Pandan Primary School.md
       - Schools/Park Road School.md
       - Schools/Park View Primary School.md
+      - Schools/Parry Avenue Boys' School.md
+      - Schools/Parry Avenue Girls' School.md
       - Schools/Parry Primary School.md
       - Schools/Paya Lebar Methodist Girls' School (Primary).md
       - Schools/Paya Lebar Methodist Girls' School (Secondary).md
