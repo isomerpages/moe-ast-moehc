@@ -3,6 +3,7 @@ title: Nanyang Girls' High School
 permalink: /school-histories/nanyang-girls-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanyanggirlshighsch1.png">
 
@@ -66,7 +67,8 @@ Principals:<br>
 \- Mdm Mak Lai Ying (2001–2006)<br>
 \- Ms Yap Wah Choo (2006–2009)<br>
 \- Mdm Heng Boey Hong (2009–2017)<br>
-\- Mdm Ng Chuen-Yin (2017–present)
+\- Mdm Ng Chuen-Yin (2017–present)<br>
+\- Ms Siau Fong Fui (2023 - present)
 
 #### **Key Milestones**
 

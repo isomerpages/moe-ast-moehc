@@ -73,17 +73,17 @@ In 2024, the school commemorated its 100th anniversary (GM100) with the opening 
 
 Principals:<br>
 \- Ms Emma Eaton Walker (1927)<br>
-\- Mrs Muriel Barnes (1927–1930)<br>
+\- Mrs Muriel Barnes (1928–1930)<br>
 \- Mrs Lau Soong Moy (1931–1941)<br>
 \- Mrs Thio Suan Cheok (1946–1948)<br>
 \- Ms Mabel Mitchell (1949–1950)<br>
 \- Mrs Thio Suan Cheok (1951)<br>
-\- Mrs Sornam Anbu Daniel (1951–1978)<br>
+\- Mrs Sornam Anbu Daniel (1952–1978)<br>
 \- Ms Doreen Chan (1979–1997)<br>
 \- Mrs Marion Tan (1998–2002)<br>
-\- Mr Lim Yan Hock (2002–2008)<br>
+\- Mr Lim Yan Hock (2003–2008)<br>
 \- Ms Doris Ho (2009–2015)<br>
-\- Mr Wee Tat Chuen (2015-2021)<br>
+\- Mr Wee Tat Chuen (2016-2021)<br>
 \- Mr Victor Owyong Tuck Sing (2022-present)
 
 #### **Key Milestones**
