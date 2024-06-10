@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Histories.md
+      - Schools/Northshore Primary School.md
       - Schools/Min Chong Public School.md
       - Schools/Ming Sin School.md
       - Schools/Monk's Hill Primary School.md
