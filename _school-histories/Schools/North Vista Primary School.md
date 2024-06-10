@@ -3,6 +3,7 @@ title: North Vista Primary School
 permalink: /school-histories/north-vista-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/northvistapri1.png">
 
@@ -49,9 +50,14 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-North Vista Primary School was established in 2008 as a government co-educational school at Compassvale Link. The school was officially opened on 24 September 2010.
+  
+North Vista Primary School, a government co-educational institution, was established in 2008 at Compassvale Link and officially inaugurated on 24 September 2010. The school has quickly emerged as a hub of innovation and creativity.
 
-In 2013, the school was accorded the Learning for Life Programme in ‘Visual Arts’, and gained Applied Learning Programme the following year in ‘Nurturing Future-Ready Digital Creators’. North Vista Primary School celebrated its 10th anniversary in 2017. That same year, the school began its PERI upgrading.
+In 2013, North Vista was awarded the Learning for Life Programme (LLP) in Visual Arts, highlighting its commitment to fostering artistic talents among students. Building on this foundation, the school introduced the Applied Learning Programme (ALP) in 2014, focused on 'Nurturing Future-Ready Digital Creators,' which has equipped students with critical digital skills and a forward-thinking mindset.
+
+2017 marked the school's 10th anniversary, a significant milestone celebrated with great enthusiasm and pride. That same year, North Vista commenced its PERI (Primary Education Review and Implementation) upgrading, a comprehensive enhancement initiative aimed at improving the school's facilities and learning environment.
+
+Since the introduction of its LLP and ALP, North Vista Primary School has been dedicated to continuously reviewing and refining these programmes to ensure that the curriculum remains closely aligned with students' interests and the evolving demands of the future.
 
 Principals:<br>
 \- Mr Phua Kia Wang (2008–2014)<br>
