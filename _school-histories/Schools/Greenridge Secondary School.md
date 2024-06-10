@@ -3,6 +3,7 @@ title: Greenridge Secondary School
 permalink: /school-histories/greenridge-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/greenridgesec1.jpg">
 
@@ -49,17 +50,15 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Greenridge Secondary School started as Dunearn Secondary Technical School (DSTS), which was established in 1964. The school was officially opened on 14 May 1965 by then Deputy Prime Minister Dr Toh Chin Chye.
 
-DSTS played an instrumental role in nation-building during the early years of Singapore’s independence. In the 1960s, Singapore needed more technically trained citizens to meet the rapid industrialisation needs for the economy, and DSTS was one of the first technical schools to be built. Equipped with the best technical facilities of the time, DSTS provided quality technical education to resident students and students from other schools in the vicinity.&nbsp;
 
-In June 1992, DSTS moved to its present location in Bukit Panjang and was one of the pioneer secondary schools in the Holland-Bukit Panjang constituency. The school was renamed Greenridge Secondary School because of the lush greenery surrounding it and because ‘Bukit Panjang’ means ‘ridge’ in Malay. Greenridge Secondary School was officially opened on 16 July 1994.
+Established in 1964 as Dunearn Secondary Technical School (DSTS) at Hillcrest Road, Greenridge Secondary School (GSS) was officially opened by Deputy Prime Minister Toh Chin Chye on 14 May 1965. Designed to meet Singapore's industrial needs, DSTS featured state-of-the-art technical facilities and was located on a small hill between Linden Drive and Hillcrest Road.
 
-The school underwent PRIME upgrading between 2006 and 2009. On 2 July 2010, Greenridge celebrated the official opening of its upgraded campus, which had new facilities such as the Arts Hub, a synthetic school field and an indoor sports hall.
+In June 1992, DSTS relocated to Bukit Panjang Ring Road and was renamed Greenridge Secondary School to reflect its green surroundings. The co-educational school achieved a balanced male-to-female student ratio. Officially opened on 16 July 1994 by Mr. Lee Yiok Seng, it is one of the pioneer secondary schools in the Bukit Panjang area, having hosted Fajar Secondary School and Zhenghua Secondary School.
 
-In 2015, the school was accorded the Applied Learning Programme in the use of media to engage learners, which led to the Camera. Lights. Action. Programme. Through this, students are given exposure in news broadcasting in the school’s Scene ONE studio. In 2016, Greenridge was accorded the Learning for Life Programme in arts education. The school aims to develop a sense of aesthetics and to nurture creative and confident individuals who can impact the community through the arts. In 2018, in view of its emphasis on language learning and innovative processes, the school was according the Enhanced Applied Learning Programme in languages. Through this, the school aims to nurture confident and effective communicators in the English language and mother tongues. Students with interest and talent in languages will be nurtured to appreciate biculturalism and groomed to be effectively bilingual.
+In 2023, Greenridge Secondary School and Fajar Secondary School merged to form the new Greenridge Secondary School, with the school campus being relocated to 31 Gangsa Road (location of Fajar Secondary School). Fajar Secondary School had started in 1994 and was temporarily located at Greenridge Secondary prior to its move to Gangsa Road. In 2016, Fajar Secondary School merged with Chestnut Secondary School (CDSS). CDSS comes with a rich history of its own beginning in 1968 when it was officially opened by MP P Selvadurai. Thus, the 2023 merger of Greenridge Secondary School and Fajar Secondary School unified a rich history of the schools and the strengths in uniformed groups, sports, performing arts, Applied Learning, and Learning for Life. Today, Greenridge Secondary School, rooted in the legacy of excellence from DSTS, CDSS and Fajar, stands united and ready to provide a nurturing, dynamic and a technology-rich learning environment for all students and staff. With the merged Greenridge Secondary at Bukit Panjang (long hill), our promise to all students and staff is that there is space for everyone at Greenridge and together we will scale to the top of the ridge to experience a new Dawn (Fajar).
 
-Principals:<br>
+**Principals**:<br>
 \- Mr Hee Ah Ngot (1964–1967)<br>
 \- Mr Tan Choong Yan (1968–1978)<br>
 \- Mrs Kam Kum Wone (1979–1982)<br>
@@ -70,53 +69,67 @@ Principals:<br>
 \- Mrs Lee Yin Ling (2000–2004)<br>
 \- Mdm Heng Sen Mee (2005–2010)<br>
 \- Mdm Veronica Ng (2011–2017)<br>
-\- Mdm Jessie Koh (2018–present)
+\- Mdm Jessie Koh (2018–2022)<br>
+\- Mr Ng Boon Kiat (2023 – present)
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
-| 1964 | Establishment of Dunearn Secondary Technical School on Hillcrest Road. |
-| 1989 | Celebration of 25th anniversary. |
-| 1992 | Renamed Greenridge Secondary School, and relocation to current premises on Bukit Panjang Ring Road. |
-| 2005 | Launch of Camera, Lights, and Action Programme. Opening of Scene One Studio. |
-| 2009 | Completion of PRIME upgrading. |
-| 2010 | Official opening of upgraded premises and celebration of 45th anniversary. |
-| 2015 | Celebration of 50th anniversary. Accorded Applied Learning Programme in the use of media to engage students in the English Language. |
-| 2016 | Accorded Learning for Life Programme in arts education. |
-| 2018 | Accorded Enhanced Applied Learning Programme in nurturing effective communicators in languages. |
-|
+| 2023 | The former Greenridge Secondary School (formerly Dunearn Secondary Technical School) and Fajar Secondary School (merged with Chestnut Drive Secondary in 2015) merged combined to form the a new Greenridge Secondary School. 
+| 2024| Celebration of Greenridge Secondary School’s 60th Anniversary.
+
 
 #### **School Motto**
-From Each His Best
+Together Onward
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/greenridgesec1.jpg">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/Greenridge_Sec_School_Crest.png">
 
-The school crest in red, green and gold colours is shaped like a shield to reflect Greenridge Secondary School’s protective role for the students. The school motto, ‘From Each His Best’, exhorts every student to do his or her best in everything. It is stated boldly below the crest as it serves as the guiding principle for all endeavours.
-
-The five arms above the motto represents the strive to move upwards and outwards. They also symbolise the five ways in which the school aims to support the total development of students: cognitive development; aesthetic appreciation; physical growth; inculcation of healthy habits and positive attitudes; and promotion of social cohesion through understanding, appreciation and mutual respect.
+ Blue hills depict a strong foundation in skills and knowledge, and the multiple ridges celebrate different peaks of excellence.<br>
+Orange sun symbolises a new dawn with a zest for life and creativity.<br>
+Sunlit orange ridges signify a bright future with promising hope and success.<br>
+White space within the orange arc represents students of virtue, with high moral standards. <br>
+Together, the orange arc and the blue hills stand for G(reenridge).<br>
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/1WQ4RlQPrPzu8-Z8U_vlxQcKPeeSHnAms/view?usp=share_link">**♫ Listen**</a> 
 
-In Greenridge, we strive to stand<br><br>
-Head and shoulders above the rest<br>
-In Greenridge, we work and play,<br>
-Nurture talents buried deep<br>
-As boldly emblazoned on our crest<br>
-In Greenridge, we’ll do our best.
+  
+Verse 1:
 
-Chorus:<br>
-From each his best, From each his best<br>
-It’s in our hearts at every test<br>
-Associate in harmony - Nation, school and family<br>
-Loyalty and honour<br>
-This we pledge to Greenridge
+In our school
 
-Oh Greenridge, you fill us with<br>
-Joy and pride in all we do<br>
-In future we know that still<br>
-Our thoughts and memories will be with you<br>
-As we grow in stature and maturity<br>
-We give our best with dignity
+As caring leaders
+
+Touching hearts and shaping lives
+
+We pave our way together
+
+Chorus:
+
+Together Onward, forging friendships forever
+
+Together Onward, as one family
+
+Together Onward, striving for the future
+
+Together Onward, Greenridge be our pride
+
+Bridge:
+
+Trials and Challenges, we will overcome
+
+Reaching the top of the RIDGE
+
+We will shine as one.
+
+Verse 2:
+
+In our school
+
+As inspired learners
+
+Staying strong, aspiring youth
+
+We champion for good causes
