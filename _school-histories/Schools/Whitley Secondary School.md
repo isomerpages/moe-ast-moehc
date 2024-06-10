@@ -59,7 +59,7 @@ Whitley Secondary School’s vision of ‘A Caring and Learning Community of Lea
 
 The school also actively seeks out meaningful and relevant partnerships to support and provide students with a broad array of opportunities to discover their passions. Whitley Secondary has two distinctive programmes: ‘Communicative Arts’ and ‘Active Citizenship for Social Change’.
 
-‘Speech Communication Arts’, the school’s Applied Learning Programme, helps students improve their communication skills through speech and art forms such as drama, public speaking and debates. It aims to nurture confident and self-directed learners who are able to apply their information and communication competencies effectively in their life and future careers.
+‘Communicative Arts’, the school’s Applied Learning Programme, helps students improve their communication skills through platforms such as drama, conducting interviews and talk shows, public speaking and debates. It aims to nurture confident and self-directed learners who are able to apply their information and communication competencies effectively in their life and future careers.
 
 The school’s Learning for Life Programme, ‘Active Citizenship for Social Change’, is designed to expose and engage students in various social issues, and to promote empowerment and a sense of community among students. It aims to positively impact community issues by fostering empathy and nurturing a spirit of active participation in students.
 
