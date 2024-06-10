@@ -3,6 +3,7 @@ title: Northland Secondary School
 permalink: /school-histories/northland-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/northlandsec1.jpg">
 
@@ -49,7 +50,8 @@ Principals:<br>
 \- Ms Koh Sauk Keow (2002)<br>
 \- Mr Gan Chee Hau (2002–2008)<br>
 \- Mr Leonard Koh Yiak Kheng (2009–2016)<br>
-\- Mdm Tan Siew Woon (2017–present)
+\- Mdm Tan Siew Woon (2017–2021)<br>
+\- Mr Lim Kok Hwa (2022 - present)
 
 **Related School: [North View Secondary School](/school-histories/north-view-sec/)**
 
