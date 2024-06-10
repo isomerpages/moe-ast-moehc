@@ -3,6 +3,7 @@ title: Casuarina Primary School
 permalink: /school-histories/casuarina-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/casuarinapri1.png">
 
@@ -76,7 +77,8 @@ Principals:<br>
 | 2019 | Merger with Loyang Primary School. |
 | 2019 | Accorded Applied Learning Programme, ‘Nature-based Education’. |
 | 2019 | School musical, Together, A New Beginning, held at Victoria Theatre. |
-|
+|2019 | Accorded Signature Programme, 'The Art of Language. |
+| 2023 | Opening of MOE Kindergarten @ Casuarina. |
 
 #### **School Motto**
 Be the Best We Can Be
