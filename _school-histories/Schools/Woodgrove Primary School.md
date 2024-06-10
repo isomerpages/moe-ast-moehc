@@ -3,6 +3,7 @@ title: Woodgrove Primary School
 permalink: /school-histories/woodgrove-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodgrovepri1.png">
 
@@ -54,12 +55,20 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Woodgrove Primary School commenced operations in January 1999 with an enrolment of 660 students in 17 classes, using the premises of Woodlands Ring Primary School. The school officially moved to 2 Woodlands Drive 14 on 5 September 1999.
+    
+Woodgrove Primary School commenced operations in January 1999, using the premises of Woodlands Ring Primary School with a total enrolment of 660 students in 17 classes. The school officially moved to its present premises on 5 September 1999.
 
-Principals:<br>
+The first Principal, Mrs Tan Chin Cheoh, started the school in 1999 with only 12 teachers and 5 support staff members until her retirement in 2005 when the enrolment grew to 2650 students. In 2006, Miss Teo Bee Eng was appointed as Principal, and in 2012, Miss Josephine Ng took over the baton. Now, the school has about 90 teachers. The current principal, Mrs Adeline Ng has headed the school since 2021.
+
+The school’s Strategic Thrusts focuses on the provision of a holistic education through developing a Learner-Centred and caring community as it believes that children learn best when they are meaningfully engaged, challenged yet supported in school and are given opportunities to play an active part in the community they are part of. The school will continuously improve the quality and range of school experiences through developing staff capacity and improving the learning environment. The school will build on its partnership with parents and other stakeholders so that together, we can bring out the best in our woodgrovians, developing them into;
+
+Future-Ready Lifelong Learners, Resilient and Courageous Leaders, Responsible and Active Contributors and Committed and Concerned Citizens.
+
+**Principals**:<br>
 \- Mrs Tan Chin Cheoh (1999–2005)<br>
 \- Ms Teo Bee Eng (2006–2011)<br>
-\- Ms Josephine Ng (2012–present)
+\- Ms Josephine Ng (2012–2020)<br>
+\- Mrs Adeline Ng (2021 - present)<br>
 
 #### **Key Milestones**
 
@@ -72,14 +81,12 @@ Principals:<br>
 |
 
 #### **School Motto**
-Staunch, Stable, Steadfast and Successful
+Seizing Opportunities, Aspirations Realised.
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodgrovepri1.png">
 
-The school crest shows the school’s commitment to provide a student-centred and values-centric education to the students. The green tree symbolises stability, signifying the strong foundation in knowledge, values and skills that the students will develop in order to thrive. The blue background symbolises the school’s learning community, which is safe, orderly and conducive to learning.
-
-The orange fruits symbolise the achievements that are attained when the students are developed holistically to be ‘Staunch, Stable, Steadfast and Successful’.
+Woodgrove Primary is committed to providing a student-centred and values-centric education. The green tree symbolises Stability, signifying the strong foundation in knowledge, values and skills that the students will develop in order to thrive. The blue background symbolises the school's learning community which is safe, orderly and conducive to learning. The orange fruits symbolise the achievements that are attained when our students are developed holistically to be 'Stauch, Stable, Steadfast and Successful'.
 
 #### **School Song**
 <a target="_blank" href="https://drive.google.com/file/d/14mQse30lxIRpd-pgoJluFL1xD8bpwdiJ/view?usp=share_link">**♫ Listen**</a>
