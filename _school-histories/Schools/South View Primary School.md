@@ -3,6 +3,7 @@ title: South View Primary School
 permalink: /school-histories/south-view-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/southviewpri1.jpg">
 
@@ -67,11 +68,14 @@ Ama Keng School started in September 1951. Its first building comprised three si
 
 During the 1970s, Ama Keng School became an integrated school offering two language streams and a Chinese-medium class was started. By the 1980s, however, Chinese-medium classes were phased out.
 
+In March 1990, Nam San School and Ama Keng School merged and formed South View Primary School and moved to its present site at 6 Choa Chu Kang Central.
+
 Principals:<br>
 \- Mr Thomas Yeo Chin Hee (1990–1997)<br>
 \- Mdm Jackie Kok Chow Hiong (1998–2004)<br>
 \- Mrs Jenny Yeo Bee Geok (2005–2013)<br>
-\- Mdm Sharida Batcha Sahib (2014–present)
+\- Mdm Sharida Batcha Sahib (2014–2021)<br>
+\- Ms Ang Mui Khoong (2022–Present)
 
 #### **Key Milestones**
 
