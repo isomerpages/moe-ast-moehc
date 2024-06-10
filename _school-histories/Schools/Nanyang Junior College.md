@@ -3,6 +3,7 @@ title: Nanyang Junior College
 permalink: /school-histories/nanyang-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanyangjc1.jpg">
 
@@ -70,7 +71,8 @@ Principals:<br>
 \- Mdm So Bie Leng (1995–1999)<br>
 \- Mrs Ho Woon Ho (2000–2005)<br>
 \- Mr Kwek Hiok Chuang (2005–2016)<br>
-\- Mr Low Chun Meng (2016–present)
+\- Mr Low Chun Meng (2016 - 2023)<br>
+\- Mr Pang Choon How (2024 - present)<br>
 
 #### **Key Milestones**
 
@@ -86,7 +88,7 @@ Principals:<br>
 | 2004 | Moved into new campus upon completion of PRIME. |
 | 2007 | Celebration of 30th anniversary with the painting of huge wall murals for the void decks of 30 public housing blocks in the neighbourhood. |
 | 2018 | Celebration of 40th anniversary with a revamp of the Heritage Wall and creation of ‘Gallery in the Campus’. |
-|
+| 2022 | Unveiling of the Zhong Zheng Ren (中正人). Sculpture and launching of the NYJC Zhong Zheng Ren (中正人) Scholarship.
 
 #### **School Motto**
 Together We Build<br>
