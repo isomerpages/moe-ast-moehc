@@ -123,6 +123,8 @@ S.M.A.R.T. values so that they navigate successfully through life challenges
 and opportunities with the right core values, beliefs and attitudes.</p>
 <p></p>
 <h4><strong>School Song</strong></h4>
+<p><strong>♫ Listen ♫</strong>
+</p>
 <p>Courageous Explorers</p>
 <p>The sunrise lights up</p>
 <p>the sea of possibilities before us all.</p>
