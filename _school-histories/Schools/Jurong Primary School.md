@@ -3,6 +3,7 @@ title: Jurong Primary School
 permalink: /school-histories/jurong-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jurongpri1.jpg">
 
@@ -75,7 +76,8 @@ Principals:<br>
 \- Mr Goh Liang Chuan (1997–2005) <br>
 \- Mrs Constance Yip (2006–2011)<br>
 \- Mrs Manokara S. (2012–2017)<br>
-\- Mr Robin Ong (2018–present)
+\- Mr Robin Ong (2018–2022)<br>
+\- Mr Leonard Chua (2023–present)<br>
 
 **Related School: [Boon Lay Primary School](/school-histories/boon-lay-pri/)**
 
@@ -91,7 +93,8 @@ Principals:<br>
 | 1999 | Celebration of 50th anniversary. |
 | 2006 | Merger with Boon Lay Primary School. |
 | 2010 | Celebration of 60th anniversary – Tira Mi Sù ‘Lift me Up’ |
-|
+| 2019 | Celebration of 70th Anniversary - 'Celebrate the Past, Cherish the Present, Create the Future'.
+| 2024 | Celebration of 75th Anniversary - '75 Years of Joy in JPS'
 
 #### **School Motto**
 Reach In to Reach Out
