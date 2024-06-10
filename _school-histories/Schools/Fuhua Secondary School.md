@@ -3,6 +3,7 @@ title: Fuhua Secondary School
 permalink: /school-histories/fuhua-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fuhuasec1.png">
 
@@ -49,23 +50,26 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Fuhua Secondary School (FHSS) is a government co-educational school located at 5 Jurong West Street 41. Founded in 1999, the school welcomed its first batch of students in 2000. FHSS was officially declared open in 2002.
+  
 
-In 2007, FHSS was recognised as a niche school in robotics, which provides a platform for students with a passion and talent for robotics to actively hone their skills in robotic engineering and programming. In 2009, the school celebrated its 10th anniversary with the opening of the indoor sports hall, which features new facilities such as three multipurpose function rooms and a gymnasium to allow Fuhua students (affectionately known as Fuhuanites) to pursue a physically active lifestyle.
+Fuhua Secondary School (FHSS) is a government co-educational school located in Jurong. Founded in 1999, the school welcomed its first batch of students in 2000. It was officially declared open in 2002.
 
-In 2011, FHSS was recognised as a niche school in uniformed groups for its outstanding leadership and character development through the four uniformed groups: National Cadet Corps (Land), National Police Cadet Corps, Red Cross Youth and Sea Scouts.
+In 2007, FHSS was recognised as a niche school in robotics, an acknowledgement of her effort to develop students with a passion and talent for robotics to actively hone their skills in robotic engineering and programming. In 2009, the school celebrated its 10th anniversary with the opening of the indoor sports hall, to encourage Fuhuanites to pursue a physically active lifestyle.
 
-In 2015, FHSS was accorded the Applied Learning Programme, ‘Forensic Science@Fuhua’. The two-year programme aims to enable Fuhuanites to connect academic knowledge with the real world through experiential learning. It focuses on inculcating scientific and interdisciplinary thinking skills through the delivery of lessons built on teaching various forensic techniques used in crime scene investigation. In 2016, FHSS was accorded the Learning for Life Programme in Community Youth Leadership. It seeks to equip students with leadership skills and provide service learning opportunities for them to engage and make a difference in the world.
+In 2015, FHSS embarked on the Applied Learning Programme, ‘Forensic Science@Fuhua’ to enable Fuhuanites to connect academic knowledge with the real world through experiential learning. It focuses on inculcating scientific and interdisciplinary thinking skills through uncovering forensic techniques used in crime scene investigation to solve crimes. In 2016, the Learning for Life Programme in Community Youth Leadership was implemented. Anchored on servant leadership, it seeks to nurture compassionate leaders who will be a force for good and inspire others to also make a positive difference to their community and beyond.
 
-In 2017, with strong support from the School Advisory Committee, improvements were made to the school’s infrastructure to strengthen teaching and learning. The Active Learning Laboratory was opened to promote the joy of teaching and learning among teachers and students. In 2018, the student hub, the WHALE (Where Happiness and Learning Exist) was officially opened during the school’s 19th Speech Day. The WHALE provides a safe and supportive environment for students to engage in meaningful activities after school hours.
+Over the years, with strong support from stakeholders, improvements were made to the school’s infrastructure to support its commitment to an all-round education. In 2019, to commemorate the school’s 20th anniversary, a Heritage Gallery was opened. Featuring the school’s evolution, milestones and alumni, it aims to preserve the history and heritage of the school as well as inspire and remind current students of the potential for success that the school can nurture. In 2019, the SPADE (Studio, Playroom, Art Appreciation Corner, Digital &amp; Media Room and the Exhibition Gallery) was also opened to inspire students to explore the aesthetics.
 
-The school celebrated its 20th anniversary in 2019.
+In 2020, the library, the ILLUMIND, was transformed into a dynamic learning resource center, ensuring that learning and reading inspire fresh flow of ideas. The Living Lab was opened in 2022 to champion sustainability and environmental consciousness. Here, teachers conduct inquiry-based lessons where students study the effects of variables on plant growth and appreciate the application of science and geography in agriculture. A new learning space, the i-GEN Studio, was opened in 2024 to nurture a maker mindset, where learning through experimentation, creativity and technical knowhow combine to produce new ideas.
+
+In 2024, the school celebrated her silver jubilee.
 
 Principals:<br>
 \- Mr Ong Kian Choon (1999–2004)<br>
 \- Mdm Oen Siew Yock (2005–2010)<br>
 \- Mdm Tan Siew Woon (2011–2016)<br>
-\- Miss Foong Lai Leong (2017–present)
+\- Miss Foong Lai Leong (2017–2023)<br>
+\- Mrs Carol Lim (2024–Present) 
 
 #### **Key Milestones**
 
@@ -79,7 +83,8 @@ Principals:<br>
 | 2015 | Accorded Applied Learning Programme, ‘Forensic Science@Fuhua’. |
 | 2016 | Accorded Learning for Life Programme in Community Youth Leadership. |
 | 2019 | Celebration of 20th anniversary. |
-|
+|2020 |First placing at the World Robot Olympiad (Canada).|
+|2024  | Celebration of 25th anniversary.|
 
 #### **School Motto**
 Strive for Excellence
