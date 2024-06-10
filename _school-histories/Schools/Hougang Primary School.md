@@ -3,6 +3,7 @@ title: Hougang Primary School
 permalink: /school-histories/hougang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/hougangpri1.jpg">
 
@@ -52,20 +53,22 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Hougang Primary School (后港小学) was started in the new millennium year 2000, at an old school building along Yio Chu Kang Road. The founding Principal was Mr Goh Ek Piang. The school moved to its current premises at 1 Hougang Street 93 in 2001 and was officially opened on 19 July 2002 by the Minister for Education, RAdm (NS) Teo Chee Hean. A time capsule was sealed on 19 November 2004 to mark the school’s 5th Anniversary and to preserve a slice of the school’s history.
 
-Under Mr Goh’s leadership, the school became well known for its outdoor education. In 2006, the school’s Outdoor Adventure Centre was opened and the Centre of Excellence for Outdoor Adventure Education was launched. Hougang Primary was also strong in Life Sciences and community involvement.
+Hougang Primary School (后港小学) was started in 2000. The founding Principal was Mr Goh Ek Piang. The school moved to its current premises in Hougang in 2001 and was officially opened in 2002 by the Minister for Education, RAdm (NS) Teo Chee Hean. A time capsule was sealed in 2004 to mark the school’s 5th Anniversary and to preserve a slice of the school’s history.
 
-Mrs Sabrina James took over the helm from Mr Goh from 2007. The Indoor Sports Hall was constructed in 2007 and completed in 2008. Between 2010 and 2014, the school received 3 consecutive Platinum Community in Bloom Awards, leading to a Diamond Award in 2014. During this time, the school’s orchid hybridisation programme successfully produced 2 orchids, the&nbsp;_Dendrobium_&nbsp;Hougang Primary School (2013) and&nbsp;_Dendrobium_&nbsp;Sabrina James (2014). The school’s strengths in Science and Outdoor Education earned recognition from the Ministry of Education which endorsed its Applied Learning Programme for Science and Learning for Life Programme for Outdoor Education in 2014.
+Under Mr Goh’s leadership, the school became famous for its outdoor education. In 2006, the school’s Outdoor Adventure Centre was opened and the Centre of Excellence for Outdoor Adventure Education was launched. Hougang Primary was also strong in Life Sciences and community involvement.
 
-Madam Rashidah Bte Abdul Rasip took over the baton from Mrs James in 2014. The school underwent PERI upgrading from 2014 to 2015, which provided it with new facilities, including provisions for student care. The school welcomed its first batch of students to its school-based Student Care Centre in 2016. In the same year, the school received the Best Practice Student All-Round Development accolade after the External Validation by the Ministry of Education.
+Mrs Sabrina James took over the helm from Mr Goh from 2007. The Indoor Sports Hall was constructed in 2007 and completed in 2008. Between 2010 and 2014, the school received 3 consecutive Platinum Community in Bloom Awards, leading to a Diamond Award in 2014. The school’s orchid hybridisation programme successfully produced the Dendrobium Hougang Primary School (2013) and Dendrobium Sabrina James (2014). In 2014, the Ministry of Education (MOE) endorsed its Applied Learning Programme for Science and Learning for Life Programme for Outdoor Education.
 
-The school continues to emphasise the holistic development of students and besides its niches in Outdoor Education and Science, it embarked on Computational Thinking via Coding in 2015. In 2019, the school collaborated with Ngee Ann Polytechnic to build a humanoid robot Coddie (Coding buDDies in Education). Coddie is now part of the school and serves as a teaching assistant to make learning more engaging and fun as part of its Robotics in Education programme.&nbsp;In 2019, the school was recognized by NParks as the Centre for Biodiversity for schools in the North East. As a testimony to its green efforts, it also received the Green Mark Gold Plus award by BCA in 2020.
+Madam Rashidah Bte Abdul Rasip succeeded Mrs James in 2014. The school underwent PERI upgrading from 2013 to 2015 and in 2016, it welcomed its first batch of students to the new school-based student care centre. The same year, the school received the Best Practice Student All-Round Development accolade after the External Validation by the MOE. The school embarked on Computational Thinking via Coding in 2015 and collaborated with Ngee Ann Polytechnic to build a humanoid robot Coddie (Coding buDDies in Education) in 2019. The same year, the school was recognized by NParks as the Centre for Biodiversity for schools in the North East. As a testimony to its green efforts, it also received the Green Mark Gold Plus award by BCA in 2020.
+
+Mr Jason Goh Wai Min took over the baton from 2020 and steered the school during the pandemic years. In 2023, retrofitting of the school started for the impending MOE Kindergarten which will see its first intake in 2025. In 2024, the school launched its Library of the Future – World of Wonders@HGP.
 
 Principals:<br>
 \- Mr Goh Ek Piang (2000–2007)<br>
 \- Mrs Sabrina James (2007–2014)<br>
-\- Mdm Rashidah Bte Abdul Rasip (2014–present)
+\- Mdm Rashidah Bte Abdul Rasip (2014–2020)<br>
+\- Mr Jason Goh (2020–present)<br>
 
 #### **Key Milestones**
 
