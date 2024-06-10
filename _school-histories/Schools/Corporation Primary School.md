@@ -3,6 +3,7 @@ title: Corporation Primary School
 permalink: /school-histories/corporation-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/corporationpri1.png">
 
@@ -61,7 +62,8 @@ Principals:<br>
 \- Mrs Sheena Datt (1996–2003)<br>
 \- Mdm Tang Wai Peng (2004–2010)<br>
 \- Mdm Vimi D. Sambwani (2010–2015)<br>
-\- Mrs Jennifer Pang (2015–present)
+\- Mrs Jennifer Pang (2015–2022)<br>
+\- Mr Muhammad Fadylla Bin Rashiman (2022 to present)
 
 #### **Key Milestones**
 
