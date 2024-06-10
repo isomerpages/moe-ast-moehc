@@ -50,7 +50,7 @@ decisions about their learning. We truly believe in the critical catalyst
 of designing activities that are relevant and interesting to build on the
 learning in the classroom and take it forward to enrich our students’ overall
 learning.</p>
-<h4><strong>Key Milestones </strong></h4>
+<h4><strong>Key Milestones</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
