@@ -3,8 +3,9 @@ title: Townsville Primary School
 permalink: /school-histories/townsville-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/townsvillepri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/Townsville_pri_school_Logo.png">
 
 ### **Townsville Primary School**
 [URL to website](https://townsvillepri.moe.edu.sg/)
@@ -43,6 +44,25 @@ In 2013, the Ministry of Education granted the school niche status in visual art
 
 In 2017, Townsville Primary School celebrated another milestone with its 35th anniversary in educating and developing students to be future-ready.
 
+In 2023, Guangyang Primary School merged with Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (光洋小学) have been retained. In summary, the name in the four official languages is:
+
+Sekolah Rendah Townsville
+
+光洋小学
+
+டவுன்ஸ்வில் தொடக்கப்பள்ளி
+
+Townsville Primary School
+
+Guangyang Primary School
+
+   
+**Guangyang Primary School**, originally named Kong Yiong School, was started by a group of Chinese education enthusiasts in 1918. It offered Chinese as the first language. The school was temporarily closed during the Second World War, and reopened in September 1945.
+
+In 1959, the school offered secondary classes and was renamed Kong Yiong High School. In 1984, the primary and secondary schools were separated, and the primary school became a government school in 1986. In 1988, the name of the school was changed to Guangyang Primary School (光洋小学).
+
+In 1993, Guangyang Primary School relocated to its current premises at 6 Bishan Street 12. In 2011, Guangyang Primary School completed the PRIME upgrading. In 2018, the school celebrated its 100th anniversary. That same year, Guangyang Primary School was accorded the Learning for Life Programme in Music and Performing Arts, with emphasis on talent and character development.
+
 Principals:<br>
 \- Mr Tan Bee Yong (1982–1983)<br>
 \- Mrs Daisy Tay (1984–1989)<br>
@@ -51,9 +71,11 @@ Principals:<br>
 \- Ms Chiang Wai Leng (2000–2007)<br>
 \- Mr Eugene Ong Kai Tiong (2008–2011)<br>
 \- Mrs Liu-Loh Wee Cheng (2012–2016)<br>
-\- Mr Victor Tan (2017–present)
+\- Mr Victor Tan (2017– 2022) <br>
+\- Mr Eddie Foo Chit Cheong (2023 - current)
 
-**Related School: [Chong Shan Primary School](/school-histories/chong-shan-pri/)**
+**Related School: [Chong Shan Primary School](/school-histories/chong-shan-pri/)**<br>
+**Related School: [Guangyang Primary School](https://moehc.moe.edu.sg/school-histories/guangyang-pri/)**
 
 #### **Key Milestones**
 
@@ -64,40 +86,65 @@ Principals:<br>
 | 1989 | School visit by Her Majesty Queen Elizabeth II of Great Britain. |
 | 2000 | Relocation of school to 3 Ang Mo Kio Avenue 10. |
 | 2013 | Accorded niche status in visual arts. |
-|
+| 2023&nbsp;| Merger with Guangyang Primary School |
 
 #### **School Motto**
 Do Our Best
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/townsvillepri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/Townsville_pri_school_Logo.png">
 
-The school crest shows a triangle symbolising stability and steadfastness. The school logo, consisting of the letters ‘T’ and ‘P’ (initials of Townsville Primary), is white in colour. It symbolises the innocence and purity of young, untarnished minds. It rests in the centre of the inner royal-blue triangle.  
-  
-The motto, ‘Do Our Best’, is placed above the logo, and the name of the school is positioned at the base of the triangle to reinforce the school’s strong determination to mould and shape each student according to individual needs, capabilities and changing trends.
+SUN
+-	Shows thinking “out-of-the-box” and “can-do” attitude
+
+OPEN BOOK
+-	An institution of lifelong learning
+
+DARK BLUE
+-	School colours of TVPS
+-	Bravery and commitment to brace for the future
+
+OCEAN
+-	School colours of GYPS
+-	Unlimited opportunities to explore
+
+FOLDING RED SASH
+-	Aspiration of the merged TVPS
+-	Shows the passion and energy of the vibrant school
+
+ORANGE ROUND MOTIF
+-	Red (TVPS) and yellow (GYPS) coming together (ORANGE)
+-	All-rounder Whole-Child Development
 
 #### **School Song**
 <a href="https://drive.google.com/file/d/1C6GPuW7ZyHitIrDG9Cyrg-TPwl9RZdDu/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
-Townsville<br>
-The name that's most dear<br>
-To every staff and student here<br>
-You've taught us how to care and share<br>
-To do our best and never despair
+We Dare
 
-Wisdom and wit we'll require<br>
-Creative thinkers we aspire<br>
-Lifelong learners we want to be<br>
-Brave people of integrity
+We begin, here in Townsville,<br><br>
+to learn and to share.
+To forge lasting friendships,<br>
+to grow in love and care. We will learn our values<br>
+so that we can be the light,<br>
+Shining bright for all to see! <br>
 
-Chorus<br>
-Townsville our guide<br>
-To you we pledge<br>
-We'll do our best<br>
-Townsville our pride<br>
-To Singapore loyal we'll be<br>
-Townsville our guide<br>
-To you we pledge<br>
-We'll do our best<br>
-Townsville our pride<br>
-We'll keep our colours flying high
+We will dare to dream, to be the best,<br>
+to set our aspirations free.<br>
+We will dare to lead, with heads held high,<br>
+to uphold integrity. We will strive to fly,<br>
+our colours high above. <br>
+
+Through the years,<br>
+we will grow,<br>
+in strength and confidence.<br>
+Our values at the heart<br>
+of all we do. <br>
+
+We will dare to dream, to be the best,<br>
+to set our aspirations free.<br>
+We will dare to lead, with heads held high,<br>
+to uphold integrity. We will strive to fly,<br>
+our colours high above.<br>
+‘Cause we dare to dream,<br>
+and we dare to achieve. We dare because<br>
+we believe.
