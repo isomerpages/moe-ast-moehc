@@ -3,6 +3,7 @@ title: Tanjong Katong Primary School
 permalink: /school-histories/tanjong-katong-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongkatongpri1.png">
 
