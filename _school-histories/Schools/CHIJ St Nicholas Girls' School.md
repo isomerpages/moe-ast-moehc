@@ -3,6 +3,7 @@ title: CHIJ St Nicholas Girls' School
 permalink: /school-histories/chij-nicholas-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijstnich1.jpg">
 
@@ -52,6 +53,7 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
+
 In the 1930s, the Chinese population in Singapore was increasing rapidly. The Infant Jesus sisters decided to establish a Chinese-medium primary school to provide education for Chinese girls. On 16 January 1933, Victoria Girls’ School began operations – with 40 pupils and a Chinese teacher – in the building that used to be Hotel van Wijk. Sister Solong was its first principal. The school was later renamed St Nicholas Girls’ School.
 
 Between 1938 and 1939, the school started its first secondary class and a teacher-training section to ensure a pool of qualified teachers. In 1940, Sister Francoise Lee, a local Chinese, became the principal. She expanded the secondary section to include classes up to Simplified Normal IV, making St Nicholas a full school providing primary and secondary education.
@@ -64,7 +66,7 @@ In 1972, Mrs Hwang-Lee Poh See became the first lay principal. By then, enrolmen
 
 By 1980, the school building on Victoria Street could no longer house the entire school. After five years of relocating to different venues to house the school population, St Nicholas finally moved to its permanent premises at Ang Mo Kio Street 13 in 1985. In 1992, St Nicholas was renamed CHIJ St Nicholas Girls’ School.
 
-In 1995, the school was granted autonomous status in recognition of its value-added academic performance. From the end of 2009 to 2012, the school underwent PRIME upgrading to build a future-ready school. The school celebrated its 80th anniversary in 2013 with the reopening of the school by Prime Minister Mr Lee Hsien Loong. In the same year, the school also introduced the Joint Integrated Programme with Catholic High School, Singapore Chinese Girls’ School and Eunoia Junior College. The school celebrated its 85th anniversary in 2018.
+In 1995, the school was granted autonomous status in recognition of its value-added academic performance. From the end of 2009 to 2012, the school underwent PRIME upgrading to build a future-ready school. The school celebrated its 80th anniversary in 2013 with the reopening of the school by Prime Minister Mr Lee Hsien Loong. In the same year, the school also introduced the Joint Integrated Programme with Catholic High School, Singapore Chinese Girls’ School and Eunoia Junior College. The school celebrated its 90th anniversary in 2023.
 
 Principals:<br>
 \- Sister Solong (1933–1935)<br>
