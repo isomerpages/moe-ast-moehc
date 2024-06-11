@@ -3,6 +3,7 @@ title: Opera Estate Primary School
 permalink: /school-histories/opera-estate-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/operaestatepri1.jpg">
 
@@ -64,7 +65,8 @@ Principals:<br>
 \- Mrs Lucy Soh Chin Wah (1997–2001)<br>
 \- Mr Idris Aziz Mattar (2002–2009)<br>
 \- Mr Dennis Yap Swee Beng (2010–2014)<br>
-\- Mdm Loe Lai Pink (2015–present)
+\- Mdm Loe Lai Pink (2015–2021)<br>
+\- Mrs Tan Wai Ling (2022–present)
 
 #### **Key Milestones**
 
