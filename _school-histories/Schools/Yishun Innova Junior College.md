@@ -3,6 +3,7 @@ title: Yishun Innova Junior College
 permalink: /school-histories/yishun-innova-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:10%;margin-right:15px;" src="/images/yijc1.png">
 
@@ -58,7 +59,7 @@ Adopting a structured leadership development approach of ‘assignments–relati
 
 To develop agile, confident individuals who can thrive in an increasingly complex setting, the Internationalisation Programme provides students with opportunities to venture beyond the classroom. These include immersing in a vibrant overseas learning environment or making a difference to the lives of others through values-in-action programmes.
 
-Currently located at 3 Yishun Ring Road, the college will move to 21 Champions Way in 2025.
+Currently located at 3 Yishun Ring Road, the college will move to 21 Champions Way in 2027.
 
 Principal:<br>
 \- Mr Michael de Silva (2019–present)
@@ -69,17 +70,18 @@ Principal:<br>
 
 |  |  |
 |:---:|---|
-| 2019 | Establishment of Yishun Innova Junior College from the merger of Yishun Junior College and Innova Junior College. |
-| 2019 | Unveiling of college vision, mission, values and flag. |
-| 2019 | Arts Fusion 2019: Drama Night was held. |
-|
+| 2019 | Establishment of Yishun Innova Junior College from the merger of Yishun Junior College and Innova Junior College.<br>Unveiling of college vision, mission, values and flag. <br>Arts Fusion 2019: Drama Night was held. <br>
+| 2020 | 31st Tamil Pre-U Seminar.<br>Inaugural virtual SPARKathon: YIJC virtual health challenge, redesigned King of the Arena. <br> First virtual exchanges with overseas partner schools in Vietnam and Japan.|
+|2021| 32nd Tamil Pre-U Seminar.<br>Arts Fusion and Listen.<br>2nd virtual SPARKathon.<br>Combined National Day and HICAPE Day celebrations.|
+|2022| Unveiling of the college motto, 'Aude Exaurare'. <br>33rd Tamil Pre-U Seminar. <br> 3rd virtual SPARKathon. <br> King of the Streets and King of the Arena.<br>Arts Fusion and Listen.<br>33rd Tamil Pre-U Seminar.<br>HICAPE Day.<br>Thrive: inaugural Mental Well-being week.|
+|2024| Arts Fusion and Listen.<br> 35th Tamil Pre-U Seminar.<br> Thrive: 3rd Mental Well-Being Week.<br> King of the Streets and King of the Arena. <br>Unveiling of the college mascot, SPARKYI.|
+
+
 
 #### **School Crest**
 <img align="left" style="width:10%;margin-right:15px;" src="/images/yijc1.png">
 
-The crest is a creative amalgamation of similar and unique elements of the crests of Yishun and Innova junior colleges. The design honours the heritage of both colleges while charting a shared future.
-
-The prominent wave pattern represents the flame and wave emblems, which are significant elements of the identities of the former colleges. Embedded within the flame are the letters ‘Y’ and ‘I’ to represent how two different colleges can form a cohesive and distinctive identity together. The star is a key symbol in the crest and history of Innova Junior College. The pixelled sparks in the ‘YI’ flame form a star, representing the collaboration and commitment of both colleges to pursue a shared vision as one entity. The colours of red and blue are derived from the common college colours of maroon, navy and sky blue, but are new shades in the crest, signifying a fresh start for both colleges. The two colours are equally represented in the crest to show the unity of both colleges.
+The school’s motto Aude Exaurare translates as a call to Rise to Every Challenge. The Latin word ‘Aude’ means ‘to dare’, a bold disposition that seizes opportunities to learn, to dream and to do. The motto embodies this daring spirit as we emerge ‘out of’ present limits, captured by the Latin prefix ‘ex-’. It is this confidence that allows YIJCians to step forward into a new space or ‘matter’ that confronts them (Latin: ‘aura’), forging their own paths as they go so as to become the best, and brightest versions of themselves.
 
 #### **School Song**
 <a href="https://drive.google.com/file/d/1ilCRnXO3BWzBIcpEwRqWtQwExYk7reLc/view?usp=share_link" target="_blank">**♫ Listen**</a>
