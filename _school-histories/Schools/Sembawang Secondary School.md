@@ -3,6 +3,7 @@ title: Sembawang Secondary School
 permalink: /school-histories/sembawang-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sbwsec1.png">
 
@@ -68,7 +69,8 @@ Principals:<br>
 \- Mrs Tang-Chan Yueh Tarn (1999–2004) <br>
 \- Mrs Elsie S. Rajaratnam (2004–2009) <br>
 \- Mrs Tan Lay Hong (2010–2016)<br>
-\- Mr Jaswant Singh (2017–present)
+\- Mr Jaswant Singh (2017–2022)<br>
+\- Mdm Jessie Koh (2023–present)
 
 #### **Key Milestones**
 
