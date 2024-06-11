@@ -102,7 +102,8 @@ Principals:<br>
 \- Bro Paul Anthony Rogers (1992–1997)<br>
 \- Mr Benjamin Lui Seng Cheong (1997–2008)<br>
 \- Dr Koh Thiam Seng (2009–2015)<br>
-\- Rev Fr (Dr) Adrian Augustus Danker, SJ (2016–2021)
+\- Rev Fr (Dr) Adrian Augustus Danker, SJ (201–2021)<br>
+\- Mr Justin Arul Pierre (2022-present)<br>
 
 \*One of the six pioneer Brothers who arrived in 1852.
 
