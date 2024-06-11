@@ -3,6 +3,7 @@ title: St Margaret's Secondary School
 permalink: /school-histories/st-margaret-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretsec1.png">
 
@@ -110,11 +111,13 @@ Charity, Patience, Devotion
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stmargaretsec1.png">
 
-The green background represents creation, of which we are a part. It stands for life and activity, creativity and growth.
+"The white band running diagonally across the crest stands for purity in thought, word and deed. <br>
 
-The white cross represents the Christian Mission of the school. Like a directional compass, it shows the right way to take and it points us to God's love, truth and provision.
+The white cross represents the Christian mission of the school. Like a directional compass, it shows the
+right way to take and it points us to God’s love, truth and provision. <br>The green background represents creation, of which we are a part. It stands for life and activity, creativity and growth. <br>
 
-The white band running diagonally across from the upper left hand corner to the lower corner stands for purity in thought, word and deed.
+The sash at the base of the emblem represents the friendship ties that bind all who are in the St. Margaret’s School family."
+
 
 #### **School Song**
 <a href="https://drive.google.com/file/d/1B-a7BSNW8ZlsKA12PyWEhSdtBQK6TzID/view?usp=share_link" target="_blank">**♫ Listen**</a>
