@@ -70,6 +70,8 @@ Between 2010 and 2012, the school underwent PRIME upgrading, which saw an expans
   
 In 2019, the school celebrated its 80th&nbsp;anniversary, Chung Cheng 80, with the theme “Honouring Our Heritage, Inspiring Our Future”. A brass replica of &nbsp;the&nbsp;中正人sculpture was installed to inspire new generations of Chung Cheng students. The original concrete sculpture installed in 1969 was donated to National Gallery Singapore for heritage conservation.&nbsp; &nbsp;
 
+In 2023, the school embarked on an upgrading project for the Administration Building (Zhulin Building) and Grand Auditorium.
+
 Principals:<br>
 \- Dr Chuang Chu Lin (1939–1957)<br>
 \- Mr Shen Weilin (1957)<br>
@@ -85,8 +87,8 @@ Principals:<br>
 \- Mr Yue Lip Sin (2000–2005)<br>
 \- Mr Lo Chee Lin (2005–2011)<br>
 \- Mr Pang Choon How (2011–2015)<br>
-\- Mr CHAN YING YIN (2015 - 2021)<br>
-\- Mr YAO ZHIXUAN, TERENCE (2022 - present)<br>
+\- Mr Chan Ying Yin (2015–2021)<br>
+\- Mr Yao Zhixuan, Terence (2022–present)<br>
 
 #### **Key Milestones**
 
