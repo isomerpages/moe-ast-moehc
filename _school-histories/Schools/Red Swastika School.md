@@ -3,6 +3,7 @@ title: Red Swastika School
 permalink: /school-histories/red-swastika-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/redswastikasch1.png">
 
@@ -66,7 +67,8 @@ Principals:<br>
 \- Mr Ong Kian Hin (2001–2007)<br>
 \- Mr Chua Ying Hwee (2008–2010)<br>
 \- Mrs Jenny Leong (2011–2018)<br>
-\- Mdm Lim Chien Chin (2019–present)
+\- Mdm Lim Chien Chin (2019–2023)<br>
+\- Mr Lim Meng Wei (2024-present)
 
 #### **Key Milestones**
 
@@ -94,7 +96,7 @@ Principals:<br>
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/redswastikasch1.png">
 
-The gears of wheels of history symbolise progressiveness. The swastika sign symbolises prosperity and good luck. The two torches represent light and life.
+The gears of wheels symbolise progressiveness. The two torches represent light and life. The colour red signifies purity. The swastika sign symbolises prosperity and all good things.
 
 <br clear="left">
 
