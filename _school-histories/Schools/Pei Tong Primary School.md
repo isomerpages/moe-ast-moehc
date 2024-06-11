@@ -3,6 +3,7 @@ title: Pei Tong Primary School
 permalink: /school-histories/pei-tong-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img src="/images/peitongpri1.png" style="width:20%;margin-right:15px;" align="left">
 
@@ -77,7 +78,8 @@ Principals:
 \- Mrs Tung Sin Yin (1998–2002)<br>
 \- Mrs Tan Bee Har (2003–2009)<br>
 \- Mr Chris Loh Kai Mun (2010–2016)<br>
-\- Mrs Ng-Teo Sock Hua (2017–present)
+\- Mrs Ng-Teo Sock Hua (2017–2023)<br>
+\- Mrs Ong-Chew Lu See (2024–Present)
 
 #### **Key Milestones**
 
