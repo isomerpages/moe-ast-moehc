@@ -3,6 +3,7 @@ title: Yio Chu Kang Secondary School
 permalink: /school-histories/yck-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/ycksec1.png">
 
@@ -71,7 +72,8 @@ Principals:<br>
 \- Ms Koh Sauk Keow (1996–2001)<br>
 \- Mr Saminathan Gopal (2001–2013)<br>
 \- Mdm Janice Heng (2014–2017)<br>
-\- Mrs Carol Lim (2018–present)
+\- Mrs Carol Lim (2018–2023)<br>
+\- Mrs Betty Chang (2024–present)<br>
 
 **Related School: [Chong Boon Secondary School](/school-histories/chong-boon-sec/)**
 

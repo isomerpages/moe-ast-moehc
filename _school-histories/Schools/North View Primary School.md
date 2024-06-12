@@ -3,6 +3,7 @@ title: North View Primary School
 permalink: /school-histories/north-view-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/northviewpri1.jpg">
 
@@ -62,21 +63,23 @@ Principals:<br>
 \- Ms Fuziah Taha (2000–2005)<br>
 \- Mr Ng Yeow Ling (2006–2012)<br>
 \- Mdm Tan U-Tong Evelyn (2013–2017)<br>
-\- Mrs Soh Mei Foong (2018–present)
+\- Mrs Soh Mei Foong (2018–2023)<br>
+\- Mrs Grace Chua (2024–present)
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
 | 1995 | Establishment of North View Primary School. |
-| 2002 | Completion of PRIME upgrading. |
 | 2003 | Became single-session school. |
 | 2004 | Celebration of 10th anniversary. |
 | 2008 | First school in Singapore to be awarded the Programme for School-based Excellence in Guzheng by the Ministry of Education. |
 | 2009 | Celebration of 15th anniversary. |
 | 2014 | Accorded Learning for Life Programme, ‘Every Pupil a Confident Performer through Performing Arts’. |
 | 2015 | Celebration of 21st anniversary. |
-|
+| 2022| Accorded Applied Learning Programme : Sustainable Living Starts with Me. |
+| 2024 |School celebrates its 30th Anniversary. |
+
 
 #### **School Motto**
 Nobility &amp; Valour

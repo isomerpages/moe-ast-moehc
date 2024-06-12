@@ -3,6 +3,7 @@ title: Punggol Green Primary School
 permalink: /school-histories/punggol-green-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/punggolgreenpri1.png">
 
@@ -53,10 +54,14 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Punggol Green Primary School was established in 2013 as a government co-educational school at 98 Punggol Walk. The school was officially opened in 2015. That same year, the Ministry of Education Kindergarten @ Punggol Green was set up. Punggol Green Primary School was accorded the Learning for Life Programme, ‘Learning for Life through Environmental Education and Project Work (L.E.A.P.)’.
+Punggol Green Primary School (PGPS) was established in 2013 as a government co-educational school at 98 Punggol Walk to serve the Punggol West Community. The school was officially opened in 2015. That same year, the Ministry of Education Kindergarten @ Punggol Green was set up. The school is built under the new norms to support the Primary Education Review &amp; Implementation (PERI) Committee’s recommendations to enhance primary school education.
+
+With the fundamental belief that every child can succeed in life, PGPS goes beyond academic achievements. The school strives for holistic development of its students by equipping them with 21st Century skills and competencies and anchor them in sound values so that they will grow to be “Future-Ready Leaders with the Heart for Others” who thrive in a fast-changing world.
+
 
 Principal:<br>
-\- Mrs Seah Lay Tin (2013–present)
+\- Mrs Seah Lay Tin (2013–present)<br>
+\- Mr Hanafi B Asmore (2020 – Present)
 
 #### **Key Milestones**
 
@@ -64,7 +69,13 @@ Principal:<br>
 |:---:|---|
 | 2013 | Establishment of Punggol Green Primary School. |
 | 2015 | Establishment of Ministry of Education Kindergarten @ Punggol Green. Official opening of school by Dr Janil Puthucheary. Accorded Learning for Life Programme, ‘Learning for Life through Environmental Education and Project Work’. |
-|
+| 2015| Establishment of Ministry of Education Kindergarten @ Punggol Green
+| 2015|Accorded Learning for Life Programme: Learning for Life through Environmental Education and Project Work
+|2021| Accorded Applied Learning Programme (ALP): IGNITE@PGPS to Inspire Generations of Novel and Innovative Thinkers, and Explorers in environmental sustainability
+|2021|Accorded Learning for Life Programme (LLP): APPLE@PGPS to develop students to be confident leaders by Achieving Purpose and Performance in Leadership Excellence
+
+#### **School Motto**
+Be the best that we can be.
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/punggolgreenpri1.png">

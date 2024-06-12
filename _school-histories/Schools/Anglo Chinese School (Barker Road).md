@@ -3,6 +3,7 @@ title: Anglo Chinese School (Barker Road)
 permalink: /school-histories/acs-barker-road/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/acsbr1.png">
 
@@ -60,9 +61,10 @@ As the school grew, plans to redevelop the campus were made. In 1997, the school
 The ACS (BR) educational experience centres on the belief that God is our strength and provider, there is strength in diversity, we can bring out the best in everyone and we are called to serve God, nation and community. It is the mission of ACS (BR) to&nbsp;_touch hearts_&nbsp;by creating memories and giving meaning to all the things that we do; to&nbsp;_empower minds_&nbsp;by sharpening the intellect and broadening perspectives; and to&nbsp;_enrich souls_&nbsp;by helping the students grow in faith and service to others.
 
 Principals:<br>
-* Mr Ng Eng Chin (1994–2007)<br>
-* Mr Peter Tan Chong Tze (2008–2017)<br>
-* Mr Loo Ming Yaw (2018–present)
+\- Mr Ng Eng Chin (1994–2007)<br>
+\- Mr Peter Tan Chong Tze (2008–2017)<br>
+\- Mr Loo Ming Yaw (2018–2023)<br>
+\- Mr Khoo Tse Horng (2024 - present)
 
 #### **Key Milestones**
 

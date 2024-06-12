@@ -3,6 +3,7 @@ title: Alexandra Primary School
 permalink: /school-histories/alexandra-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/alexandrapri1.png">
 
@@ -73,7 +74,10 @@ Principal:<br>
 | 2018 | Opening of The Chinese Cultural Room 雅德轩 &amp; launch of the ALPS Warrior Chinese Picture Book Series. |
 | 2019 | Applied Learning Programme: SDT2@ALPS (Science, Design Technology &amp; Design Thinking at ALPS). |
 | 2019 | First batch of Primary Six graduands. |
-|
+| 2021 | - Introduction of integrated P.L.A.Y curriculum for Lower Primary students
+| 2022 | - ALPS engages in Innovation Programme (IvP)
+| 2023 | - Opening of MOE Kindergarten @ ALPS
+| 2023 | - ALPS marked its 10th Anniversary with a series of events
 
 #### **School Motto**
 …where students GROW and GLOW.
@@ -95,7 +99,7 @@ The three primary colours – Blue, Red and Yellow - represent the School Philos
 The ornate-shape shield is incorporated into the design to reflect the heritage of the area where the school is situated.
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/1sVmPxvp3A-Shrl2qkl1v-rR3c6vtRlTr/view?usp=share_link"     target="_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1sVmPxvp3A-Shrl2qkl1v-rR3c6vtRlTr/view?usp=share_link" target="_blank">**♫ Listen**</a>
 
 **Verse 1**<br>
 The sky is our limit<br>

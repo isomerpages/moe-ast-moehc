@@ -3,6 +3,7 @@ title: Naval Base Secondary School
 permalink: /school-histories/naval-base-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasesec1.png">
 
@@ -53,13 +54,16 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Established in 1957, Naval Base Secondary School (NBSS) started as a full school known as Naval Base School on Bah Tan Road, offering education to the children of the British naval base employees. Naval Base School was the only full government English-medium school back then. In 1968, Naval Base School became a secondary school when the primary section was transferred to Canberra School.&nbsp;
 
-In 1988, NBSS relocated to its present premises on Yishun Ring Road. In 2000, the school became single session. In 2007, the school celebrated its 50th anniversary.&nbsp; Two years later, Naval Base Secondary School completed its PRIME upgrading.
+Whitley Secondary School was established on 4 January 1965, one of the few schools in Singapore that shares the same ‘birth year’ as the nation. Over the decades, the school has nurtured generations of sportsmen and civic-minded citizens who contribute with great distinction in industry, community and public service. Originally located at the junction of Whitley and Dunearn roads, the school shifted to its present site in Bishan New Town in 1992. The campus underwent redevelopment from 2006 to 2007, during which time the school was temporarily located at Toa Payoh Lorong 1.
 
-In 2012, NBSS gained niche status in visual arts. In 2014, the school was accorded the Applied Learning Programme (ALP) in art. The ALP is rooted in the school’s belief in the transformative power of art and its ability to expand students’ perceptions of the world around them as well as the potential for self-discovery and expression. In 2014, the school was accorded the Learning for Life Programme (LLP) in character education through sports. The LLP is anchored on the belief that sports provide an authentic platform for character development. The LLP promotes active living where students enjoy and engage in movement activities and develop a solid foundation for a balanced lifestyle. In 2015, NBSS began offering the Enhanced Art Programme.
+Whitley Secondary School’s vision of ‘A Caring and Learning Community of Leaders’ has been the driving force behind its focus on developing students to their fullest potential so that they are able to serve the community, anchored in the school values of Perseverance, Respect, Integrity, Discipline and Empathy. The school is committed to delivering a holistic and engaging curriculum that develops future-ready learners who lead, serve and achieve. This is done through an assortment of strategies and programmes, focused on building a strong foundation for academic success, nurturing their leadership skills and allowing students to pursue their interests and strengths.
 
-The school’s ALP and LLP are testament of the school’s commitment to the holistic development of students. In 2017, NBSS celebrated its 60th anniversary.
+The school also actively seeks out meaningful and relevant partnerships to support and provide students with a broad array of opportunities to discover their passions. Whitley Secondary has two distinctive programmes: ‘Communicative Arts’ and ‘Active Citizenship for Social Change’.
+
+‘Communicative Arts’, the school’s Applied Learning Programme, helps students improve their communication skills through platforms such as drama, conducting interviews and talk shows, public speaking and debates. It aims to nurture confident and self-directed learners who are able to apply their information and communication competencies effectively in their life and future careers.
+
+The school’s Learning for Life Programme, ‘Active Citizenship for Social Change’, is designed to expose and engage students in various social issues, and to promote empowerment and a sense of community among students. It aims to positively impact community issues by fostering empathy and nurturing a spirit of active participation in students.
 
 Principals:<br>
 \- Mr Wong Quek Boon (1958–1960)<br>
@@ -73,7 +77,8 @@ Principals:<br>
 \- Mdm Chan Wan Siong (1998–2001)<br>
 \- Mrs Rebecca Chew Pek Yum (2001–2005)<br>
 \- Mr Teo Song Khuang (2005–2013)<br>
-\- Mr Sulaiman B. Mohamad Yusof (2014–present)
+\- Mr Sulaiman B. Mohamad Yusof (2014–2021)<br>
+\- Mdm Linda Yeo Sock Khoon (2021 – present)
 
 #### **Key Milestones**
 
@@ -87,7 +92,7 @@ Principals:<br>
 | 2014 | Accorded Applied Learning Programme in art. Accorded Learning for Life Programme in character education through sports. |
 | 2015 | Launch of Enhanced Art Programme. Entered the Singapore Book of Records for the largest acrylic art montage and largest ceramic mosaic art. |
 | 2017 | Celebration of 60th anniversary. |
-|
+| 2022 |Celebration of 65th anniversary. |
 
 #### **School Motto**
 Enitamur In Altiora
@@ -95,7 +100,7 @@ Enitamur In Altiora
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasesec1.png">
 
-The lion represents Singapore. It exhorts one to take pride in the national identity, have a sense of belonging to Singapore and be committed to nation-building. The lion also symbolises bravery (strength in character) and courage (strength of the mind). The open book symbolises the importance of a good education and the constant pursuit of knowledge to achieve success. The four yellow lines represent the four ethnic groups in Singapore working and living together in harmony. The blue background shows the school’s commitment to integrate new citizens, as it values Singapore’s sociocultural diversity and promotes social cohesion and harmony. The three rings are inspired by the Olympics, and they represent excellence in both performance and moral character.
+The lion embodies Singapore. It exhorts one to take pride in the national identity, have a sense of belonging to Singapore and be committed to nation-building. The lion also symbolises bravery (strength in character) and courage (strength of the mind). The open book symbolises the importance of a good education and the constant pursuit of knowledge to achieve success. The four yellow lines represent the four ethnic groups in Singapore working and living together in harmony. The blue background shows the school’s commitment to integrate new citizens, as it values Singapore’s sociocultural diversity and promotes social cohesion and harmony. The three rings are inspired by the Olympics, and they represent excellence in both performance and moral character, which translates to academic excellence and in the school’s distinct programmes such as the Sports and the Arts
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/16m5BH-91vii8zZsnvZLRg3L6GAQwIiNQ/view?usp=share_link">**♫ Listen**</a>

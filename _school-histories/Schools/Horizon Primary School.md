@@ -3,6 +3,7 @@ title: Horizon Primary School
 permalink: /school-histories/horizon-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/horizonpri1.png">
 
@@ -65,7 +66,8 @@ In 2018, the school underwent PERI upgrading. In 2020, Horizon Primary now opera
 
 Principals:<br>
 \- Mrs Janet Ang (2009–2015)<br>
-\- Mrs Grace Leong (2016–present)
+\- Mrs Grace Leong (2016–present)<br>
+\- Mrs Ong Hui Khim (2023 - present)
 
 #### **Key Milestones**
 
@@ -74,8 +76,9 @@ Principals:<br>
 | 2010 | Establishment of Horizon Primary School. |
 | 2012 | Official opening of Horizon Primary School. |
 | 2018 | Commencement of PERI upgrading. |
+|2019 | Celebrated School's 10th Anniversary. | 
 | 2020 | Opening of Ministry of Education kindergarten and kindergarten care services at Horizon Primary School. |
-|
+|2024|  Celebrated School's 15th Anniversary
 
 #### **School Motto**
 \-
