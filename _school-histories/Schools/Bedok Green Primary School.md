@@ -23,30 +23,8 @@ variant: markdown
 <img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri4.jpg">
 </a></p>
 
-<br clear="left">
 
-<p><a href="/images/bedokgreenpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri5.jpg">
-</a></p>
-
-
-<p><a href="/images/bedokgreenpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bedokgreenpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri8.jpg">
-</a></p>
-
-
-
-<p><a href="/images/bedokgreenpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri10.jpg">
-</a></p>
-
-<br clear="left">
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXZDrGO7dhFR1Szzyp4PDPV8xhp-m2Y_r8yb7ki6E3YINyVYar3m5YYrpt_c18Tioh1AjcAQLfuhug/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### **School History**
 Bedok Green Primary School (BGPS) was established in January 2002 as a result of the merger of Bedok View Primary School and Bedok South Primary School. The school started with a population of 2,153 students in 53 classes and a teaching staff of 85 teachers including seven heads of department. The school was built under the Ministry of Education’s Programme for Rebuilding and Improving Existing schools (PRIME) at the site of the former Bedok South Primary School and was officially opened on 18 July 2003. Located at 1 Bedok South Avenue 2, BGPS celebrated its 10th Anniversary in 2011. The school also celebrated its 20th Anniversary in the midst of the COVID-19 pandemic in 2021, launched the opening of its new Makerspace, The Imaginarium, buried a time capsule for re-opening in the year 2031, and set a new Singapore Book of Records for ‘Largest Display of Handcrafted Photo Frames’ on 9 July 2021.
