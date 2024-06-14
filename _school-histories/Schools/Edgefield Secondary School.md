@@ -15,31 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRVhWk9v8nUaJn0r0u8NOiTauS-VYhoguv0V21zFB7v3cRH6laqJaho-_wgZl1islNTWgvMROW-i4qH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/edgefieldsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldsec2.jpg">
-</a></p>
-
-<p><a href="/images/edgefieldsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldsec3.jpg">
-</a></p>
-
-<p><a href="/images/edgefieldsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/edgefieldsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldsec5.jpg">
-</a></p>
-
-<p><a href="/images/edgefieldsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldsec6.jpg">
-</a></p>
-
-<p><a href="/images/edgefieldsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/edgefieldsec7.jpg">
-</a></p>
 
 <br clear="left">
 
