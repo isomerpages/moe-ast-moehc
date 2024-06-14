@@ -13,40 +13,6 @@ variant: markdown
 <br clear="left">
 
 #### **Image Gallery**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfi0z34PdPAfW1CoLtGv7IjzIQoX4ofqNFN7gC6lKJ-dfUngbOk7r_k9FcFRDOMTDUzd1jcAVJxhZW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/bedoksouthsec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec2.jpg">
-</a></p>
-
-<p><a href="/images/bedoksouthsec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec3.jpg">
-</a></p>
-
-<p><a href="/images/bedoksouthsec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec4.jpg">
-</a></p>
-
-<p><a href="/images/bedoksouthsec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bedoksouthsec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec6.jpg">
-</a></p>
-
-<p><a href="/images/bedoksouthsec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec7.jpg">
-</a></p>
-
-<p><a href="/images/bedoksouthsec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec8.jpg">
-</a></p>
-
-<p><a href="/images/bedoksouthsec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bedoksouthsec9.jpg">
-</a></p>
 
 <br clear="left">
 
