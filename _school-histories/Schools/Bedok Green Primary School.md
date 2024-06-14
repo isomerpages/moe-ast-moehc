@@ -13,17 +13,6 @@ variant: markdown
 
 #### **Image Gallery**
 
-<p><a href="/images/bedokgreenpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri2.jpg">
-</a></p>
-
-
-
-<p><a href="/images/bedokgreenpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreenpri4.jpg">
-</a></p>
-
-
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQXZDrGO7dhFR1Szzyp4PDPV8xhp-m2Y_r8yb7ki6E3YINyVYar3m5YYrpt_c18Tioh1AjcAQLfuhug/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### **School History**
