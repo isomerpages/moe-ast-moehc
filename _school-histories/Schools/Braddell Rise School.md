@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Schools
 ---
-<h3><strong>Braddell Rise School </strong></h3>
+<h3><strong>Braddell Rise School</strong></h3>
 <p></p>
 <h4><strong>Image Gallery</strong></h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-1uVYQ8YWFr0fCXWMaZK15UIim13HA9JaKbhuVU7EJh7aX7AMOY-bcP9bUQh77ng9ToFi3DvWSjCU/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p></p>
 <h4><strong>School History</strong></h4>
 <p>Established in the early 1950s, Braddell Rise School was situated next
