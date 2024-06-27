@@ -8,7 +8,7 @@ variant: markdown
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fajarsec1.jpg">
 
 ### **Fajar Secondary School**
-[URL to website]
+
 
 <br clear="left">
 
