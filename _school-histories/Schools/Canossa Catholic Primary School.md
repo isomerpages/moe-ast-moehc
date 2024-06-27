@@ -3,61 +3,62 @@ title: Canossa Catholic Primary School
 permalink: /school-histories/canossa-catholic-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
-<img src="/images/canossacatholicpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri1.png" style="width:20%;margin-right:15px;" align="left">
 
 ### **Canossa Catholic Primary School**
-[URL to website](http://canossaconventpri.moe.edu.sg/) **broken link**
+[URL to website](www.canossacatholicpri.moe.edu.sg/) 
 <br clear="left">
 
 #### **Image Gallery**
 
 <p><a href="/images/canossacatholicpri2.jpg">  
-<img src="/images/canossacatholicpri2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri2.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/canossacatholicpri3.jpg">  
-<img src="/images/canossacatholicpri3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri3.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/canossacatholicpri4.jpg">  
-<img src="/images/canossacatholicpri4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri4.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/canossacatholicpri5.jpg">  
-<img src="/images/canossacatholicpri5.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri5.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/canossacatholicpri6.jpg">  
-<img src="/images/canossacatholicpri6.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri6.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/canossacatholicpri7.jpg">  
-<img src="/images/canossacatholicpri7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri7.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 <p><a href="/images/canossacatholicpri8.jpg">  
-<img src="/images/canossacatholicpri8.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri8.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <p><a href="/images/canossacatholicpri9.jpg">  
-<img src="/images/canossacatholicpri9.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri9.jpg" style="width:30%;margin-right:15px;" align="left">
 </a></p>
 
 <br clear="left">
 
 #### **School History**
-To serve the poor in the Chinese community in the Geylang-MacPherson-Aljunied vicinity, the Sisters of the Canossian Daughters of Charity purchased a piece of land at Sallim Road with the intention of setting up an orphanage and a private Chinese school.   
+To serve the poor in the Chinese community in the Geylang-MacPherson-Aljunied vicinity, the Sisters of the Canossian Daughters of Charity purchased a piece of land at Sallim Road with the intention of setting up an orphanage and a private Chinese school.&nbsp;  
   
-Completed in 1941, the school was supposed to start operating in January 1942, but this was halted by the outbreak of war that year. The day after the British surrendered, the Japanese army took over part of the building and the Sisters had to seek refuge elsewhere. By 8 March 1942, the Sisters were able to return to the building, which had been left in a poor state. It was only on 15 May 1942 that the Sisters could start the school with 117 boys and girls using Japanese as the medium of instruction.   
+Completed in 1941, the school was supposed to start operating in January 1942, but this was halted by the outbreak of war that year. The day after the British surrendered, the Japanese army took over part of the building and the Sisters had to seek refuge elsewhere. By 8 March 1942, the Sisters were able to return to the building, which had been left in a poor state. It was only on 15 May 1942 that the Sisters could start the school with 117 boys and girls using Japanese as the medium of instruction.&nbsp;  
   
 After the war, the intended private Chinese school was established in 1946 on the site for those who had reached school age. In 1951, due to a lack of funds, the Chinese private school was converted into a one-session government-aided English school. In 1962, with the growing population, the school became a double-session school, and eventually an all-girls school. In 2009, the Ministry of Education designated the school as a satellite school in recognition of the close inclusion partnership it had with Canossian School, a special education school for children with hearing loss, which was located in the same campus.  
   
-The school underwent PRIME in 2012 and returned to its new campus on December 2014. The school was officially opened during its 75th anniversary celebrations on 23 August 2016. The Canossian Heritage Gallery was also unveiled on the same day.    
+The school underwent PRIME in 2012 and returned to its new campus on December 2014. The school was officially opened during its 75th anniversary celebrations on 23 August 2016. The Canossian Heritage Gallery was also unveiled on the same day.&nbsp;&nbsp;  
   
 To better serve the needs of the community, the Canossian Sisters and the school’s board of management decided that the school would revert to being co-educational from January 2019 onwards. The decision was announced on 11 January 2018. On 1 January 2019, the school was renamed Canossa Catholic Primary School.
 
@@ -99,9 +100,9 @@ VIA VERITAS VITA<br>
 The Way, The Truth, The Life
 
 #### **School Crest**
-<img src="/images/canossacatholicpri1.png" style="width:20%;margin-right:15px;" align = "left">
+<img src="/images/canossacatholicpri1.png" style="width:20%;margin-right:15px;" align="left">
 
-The Canossian school badge is common to all Canossian educational institutions in Singapore. On a dark-blue background is a four-pointed Star with rays cast onto a book symbolizing the Star of Wisdom radiating Knowledge. The Star represents four basic social virtues – Truth, Justice, Love and Freedom.   
+The Canossian school badge is common to all Canossian educational institutions in Singapore. On a dark-blue background is a four-pointed Star with rays cast onto a book symbolizing the Star of Wisdom radiating Knowledge. The Star represents four basic social virtues – Truth, Justice, Love and Freedom.&nbsp;  
   
 The Crown above the crest symbolises the Supremacy of God and All for the Glory of God.  
   
