@@ -3,11 +3,11 @@ title: Teck Whye Secondary School
 permalink: /school-histories/teck-whye-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/teckwhyesec1.png">
 
 ### **Teck Whye Secondary School**
-[URL to website](https://teckwhyesec.moe.edu.sg/)
 
 <br clear="left">
 
@@ -77,7 +77,7 @@ Principals:<br>
 \- Mr Adrian Codeiro (2000–2009)<br>
 \- Mr Ong Kong Hong (2009–2014)<br>
 \- Mr Edwin Chan (2014–2018)<br>
-\- Mr N. Sivarajan (2019–present)
+\- Mr N. Sivarajan (2019–2023)
 
 #### **Key Milestones**
 
@@ -92,7 +92,7 @@ Principals:<br>
 | 2012 | Gained niche status in hockey. Registration of the orchid hybrid, Phalaenopsis Teck Whye Secondary School, as part of the school’s Orchid Hybridisation Programme. |
 | 2013 | Students were selected to present the design thinking curriculum at Singapore Day in Sydney, Australia. |
 | 2016 | Celebration of golden jubilee with the launch of orchid hybrid Dendrobium TWSS50, Heritage Corridor and Chill-Out Room. |
-|
+| 2023 | Merged with Chua Chu Kang Secondary School to form Chua Chu Kang Secondary School.
 
 #### **School Motto**
 To Strive and Not to Yield
