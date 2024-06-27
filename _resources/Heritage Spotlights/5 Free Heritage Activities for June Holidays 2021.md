@@ -71,4 +71,3 @@ What better way to learn about how school was like in the past than to hear abou
 <br clear="left">
 
 This isn’t heritage-related, but did you know that the Young Scientist Badge Scheme is now online? I’m sure many of us remember trying out many different activities to earn enough stars to get these badges. Now you can subscribe to badge programmes, submit projects, get them certified and earn badges online!
-
