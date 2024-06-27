@@ -3,6 +3,7 @@ title: Heritage Spotlights
 permalink: /resources/heritage-spotlights/
 description: ""
 third_nav_title: Heritage Spotlights
+variant: markdown
 ---
 ### **Heritage Spotlights**
 11 Mar 2022<br>
@@ -18,7 +19,7 @@ third_nav_title: Heritage Spotlights
 ----------------------------------------------
 
 04 Jun 2021<br>
-**[5 Free Heritage Activities for June Holidays 2021](/resources/heritage-spotlights/5-free-heritage-activities-for-june-hol/)**
+5 Free Heritage Activities for June Holidays 2021
 <br>Wondering what to do during this June Holiday? Fret not, we have compiled a list of exciting activities that you can enjoy with the whole family and learn about our shared heritage at the same time!
 
 ----------------------------------------------
