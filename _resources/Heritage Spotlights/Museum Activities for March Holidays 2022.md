@@ -3,6 +3,7 @@ title: Museum Activities for March Holidays 2022
 permalink: /resources/heritage-spotlights/museum-activities-for-march/
 description: ""
 third_nav_title: Heritage Spotlights
+variant: markdown
 ---
 ### **Museum Activities for March Holidays 2022**
 
@@ -11,7 +12,7 @@ third_nav_title: Heritage Spotlights
 11 Mar 2022&nbsp;I 2 min read<br>
 The March School Holidays are here! If you are wondering what to do this week, we have put together for you some family activities that are happening at various museums and galleries! Check them out below:
 
-1\. March Holidays Family Fun by the&nbsp;**[National Museum of Singapore](https://www.nhb.gov.sg/nationalmuseum/our-programmes/programmes-list/march-ff-22?sc_lang=en)**
+1\. March Holidays Family Fun by National Museum of Singapore
 
 <img src="/images/marchhol2.jpeg" style="width:50%" align="left">
 
@@ -19,7 +20,7 @@ The March School Holidays are here! If you are wondering what to do this week, w
 
 Check out the whole range of on-site and online programmes offered by the National Museum, including two drop-in activity spaces, where families can take a closer look at inter-generational artworks and exchanges, sparking your own family conversations.
 
-2\. March On by the&nbsp;**[Esplanade](https://www.esplanade.com/festivals-and-series/march-on/2022)**
+2\. March On by the Esplanade
 
 <img src="/images/marchhol3.jpg" style="width:50%" align="left">
 
@@ -27,7 +28,7 @@ Check out the whole range of on-site and online programmes offered by the Nation
 
 Esplanade has a new annual children’s festival that explores relevant issues for the young through&nbsp;different experiences. In this edition, take part in various activities and performances that&nbsp;tackle&nbsp;the topic of bullying, and take this opportunity to spend time together and build stronger relationships with your family.
 
-3\. Apa Khabair? Peranakan Museum in the Making&nbsp;by&nbsp;**[Asian Civilisations Museum](https://www.nhb.gov.sg/acm/whats-on/exhibitions/apa-khabair)**
+3\. Apa Khabair? Peranakan Museum in the Making&nbsp;by Asian Civilisations Museum
 
 <img src="/images/marchhol4.jpeg" style="width:50%" align="left">
 
