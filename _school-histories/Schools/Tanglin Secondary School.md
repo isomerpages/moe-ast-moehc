@@ -3,11 +3,12 @@ title: Tanglin Secondary School
 permalink: /school-histories/tanglin-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tanglinsec1.jpg">
 
 ### **Tanglin Secondary School**
-[URL to website](https://tanglinsec.moe.edu.sg/)
+
 
 <br clear="left">
 
@@ -74,7 +75,7 @@ Principals:<br>
 \- Ms Priscilla Ng Chey Keng (1999–2002)<br>
 \- Mrs Karen Oei (2003–2009)<br>
 \- Mdm Aini Maarof (2010–2015)<br>
-\- Ms Ng Ngoing Keng (2016–present)
+\- Ms Ng Ngoing Keng (2016–2023)
 
 **Related Schools: [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/)**
 
@@ -91,7 +92,7 @@ Principals:<br>
 | 2014 | Celebration of 50th anniversary. |
 | 2015 | Accorded Applied Learning Programme, ‘Tanglin PLUS’. |
 | 2016 | Merger with Clementi Woods Secondary School. Accorded Learning for Life Programme in the arts. |
-|
+| 2023 | Merger with New Town Secondary School to formed New Town Secondary School.
 
 #### **School Motto**
 Strive for Success
