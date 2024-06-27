@@ -3,6 +3,7 @@ title: Past Events
 permalink: /whats-on/past-events/
 description: ""
 third_nav_title: Past Events
+variant: markdown
 ---
 ### **Past Events**
 
@@ -26,9 +27,6 @@ third_nav_title: Past Events
 <img style="width:100%" src="/images/pastevents5.jpg">  
 </a></p>
 
-<p><a href="/whats-on/past-events/6/">  
-<img style="width:100%" src="/images/pastevents6.jpg">  
-</a></p>
 
 <p><a href="/whats-on/past-events/5/">  
 <img style="width:100%" src="/images/pastevents7.jpg">  
