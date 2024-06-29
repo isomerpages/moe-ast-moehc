@@ -3,11 +3,12 @@ title: Fajar Secondary School
 permalink: /school-histories/fajar-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fajarsec1.jpg">
 
 ### **Fajar Secondary School**
-[URL to website](https://fajarsec.moe.edu.sg/)
+
 
 <br clear="left">
 
@@ -63,7 +64,7 @@ Principals:<br>
 \- Mdm Goh Mee Mee (2001–2007)<br>
 \- Mdm Ng Shok Yan (2008–2013)<br>
 \- Mrs Sng Siew Hong (2014–2015)<br>
-\- Ms Doris Ho (2016–present)
+\- Ms Doris Ho (2016–2023)
 
 Related School: [Chestnut Drive Secondary School](/school-histories/chestnut-drive-sec/)
 
@@ -76,7 +77,7 @@ Related School: [Chestnut Drive Secondary School](/school-histories/chestnut-dri
 | 2016 | Merger with Chestnut Drive Secondary School. |
 | 2016 | Accorded Applied Learning Programme, ‘Sustainability through 21st Century Applied Critical and Inventive Thinking Skills’ and Learning for Life Programme, ‘Rise to Lead’. |
 | 2018 | Returned to upgraded campus at 31 Gangsa Road. |
-|
+| 2023 | Fajar Secondary School and Greenridge Secondary School merged to form Greenridge Secondary School.
 
 #### **School Motto**
 Persevere and Achieve

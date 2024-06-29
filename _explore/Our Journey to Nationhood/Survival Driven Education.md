@@ -3,6 +3,7 @@ title: Survival Driven Education
 permalink: /explore/survival-driven-education/
 description: ""
 third_nav_title: Our Journey to Nationhood
+variant: markdown
 ---
 <img src="/images/journeytonationhood1.gif" style="width:85%">
 
@@ -19,9 +20,9 @@ The 1960s were tough years for Singapore. As the people geared up for independen
 <div>  
   
 <p>
-A commission of inquiry was set up in 1962 to review the education system. The key findings were documented in the <a href="https://eresources.nlb.gov.sg/history/events/c2904412-398a-467d-af9f-949cf76d7a63">1963 Final Report of the Commission of Inquiry into Education</a>. The report contained recommendations to review the structure of the school system, teaching methods as well as teacher training.<br><br>
+A commission of inquiry was set up in 1962 to review the education system. The key findings were documented in the 1963 Final Report of the Commission of Inquiry into Education. The report contained recommendations to review the structure of the school system, teaching methods as well as teacher training.<br><br>
 	
-<figure>
+</p><figure>
 <img src="/images/survivaldrivena1.jpg" style="width:45%">
 <figcaption><strong>1963 Final Report of the Commission of Inquiry into Education.</strong><br>
 Courtesy of National Library Board, Singapore.
@@ -35,7 +36,7 @@ Courtesy of National Library Board, Singapore.
 </figcaption>
 </figure>	
 	
-</p>  
+<p></p>  
   
 </div>  
   
@@ -51,7 +52,7 @@ Courtesy of National Library Board, Singapore.
 <p>
 As Singapore became self-governing in 1959, education and schools became crucial to the development of the new nation. The population was booming in the 1950s and 1960s.  To ensure that every child would have a place in school, one of the top priorities of the Government was to build enough schools for every child of school-going age.<br><br>
 	
-<figure>	
+</p><figure>	
 <img src="/images/survivaldrivenb1.png" style="width:65%">
 <figcaption><strong>School building in construction (1962).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
@@ -112,7 +113,7 @@ Courtesy of National Archives of Singapore.
 </figcaption>
 </figure>	
 
-</p>  
+<p></p>  
   
 </div>  
   
@@ -131,7 +132,7 @@ When Singapore attained independence in 1965, the Government envisioned a rugged
 	
 <b>Creating Shared Identity</b><br><br>
 	
-<figure>	
+</p><figure>	
 <img src="/images/survivaldrivenc1.png" style="width:65%">
 <figcaption><strong>School children holding national flags (1963).</strong><br>
 Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
@@ -189,7 +190,7 @@ To foster a sense of national unity, all students sing the national anthem, Maju
 Tampines Primary School Collection, courtesy of National Archives of Singapore.</figcaption>
 </figure>	
 	
-Local folk songs like <a href="https://www.youtube.com/watch?v=vL3-AixDU2U&feature=emb_title">Di Tanjong Katong</a>, <a href="https://www.youtube.com/watch?v=hOeZcU9ifKg&feature=emb_logo">Munnaeru Vaalibaa</a> and Xiao Bai Chuan were sung in music classes to connect students with their heritage and cultural roots, as well as learn more about their peers from other ethnic groups.<br><br>
+Local folk songs like&nbsp;<a href="https://www.youtube.com/watch?v=vL3-AixDU2U&amp;feature=emb_title">Di Tanjong Katong</a>, <a href="https://www.youtube.com/watch?v=hOeZcU9ifKg&amp;feature=emb_logo">Munnaeru Vaalibaa</a> and Xiao Bai Chuan&nbsp;were sung in music classes to connect students with their heritage and cultural roots, as well as learn more about their peers from other ethnic groups.<br><br>
 	
 <b>Preparing a Skilled Workforce</b><br><br>
 	
@@ -327,7 +328,7 @@ Ministry of Information and the Arts Collection, courtesy of National Archives o
 </figcaption>
 </figure>	
 	
-</p>  
+<p></p>  
   
 </div>  
   
