@@ -3,6 +3,7 @@ title: Chua Chu Kang Government Chinese Primary School
 permalink: /school-histories/cck-government-chi-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/cckgovtchipri1.png">
 
@@ -50,18 +51,17 @@ third_nav_title: Schools
 #### **School History**
 There is evidence that Chua Chu Kang Government Chinese Primary School had operated since 1957.&nbsp;  
   
-In 1988, Chua Chu Kang Government Chinese Primary School closed. In the same year, it merged with Chua Chu Kang Malay School to form Chua Chu Kang Primary School.
+In 1982, Chua Chu Kang Government Chinese Primary School closed. In the same year, it merged with Chua Chu Kang Malay School to form Chua Chu Kang Primary School.
 
 #### **Key Milestones**
 
 |  |  |
 |:---:|---|
-| 1988 | Merger with Chua Chu Kang Malay School to form Chua Chu Kang Primary School. |
 | Unknown | Establishment of Chua Chu Kang Government Chinese Primary School. |
-|
+| 1982 | Merger with Chua Chu Kang Malay School to form Chua Chu Kang Primary School. |
+| 1988 | Chua Chu Kang Primary School closed (There is no link between this School and  [Chua Chu Kang Primary School](/https://moehc.moe.edu.sg/school-histories/cck-pri/) currently in operation). 
 
 
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/cckgovtchipri1.png">
-
