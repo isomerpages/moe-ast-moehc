@@ -15,47 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQP5pgsetjhYzsV0hNG7pRyOynEGkfUbFEmhAuc22-ESC902HhxZn_1jgIEwRiYZbzKvl2m_WBVUxH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/gesps2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps2.jpg">
-</a></p>
 
-<p><a href="/images/gesps3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps3.jpg">
-</a></p>
-
-<p><a href="/images/gesps4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/gesps5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps5.jpg">
-</a></p>
-
-<p><a href="/images/gesps6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps6.jpg">
-</a></p>
-
-<p><a href="/images/gesps7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/gesps8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps8.jpg">
-</a></p>
-
-<p><a href="/images/gesps9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps9.jpg">
-</a></p>
-
-<p><a href="/images/gesps10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gesps10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Gan Eng Seng was one of the early pioneers of Singapore who was known for his generosity to many charitable causes during the era of the British Straits Settlements of Malaya and Singapore.
