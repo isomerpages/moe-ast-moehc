@@ -3,6 +3,7 @@ title: Ahmad Ibrahim Primary School
 permalink: /school-histories/ahmad-ibrahim-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:25%;margin-right:15px;" src="/images/ahmadibrahimpri1.jpg">
 
@@ -12,41 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSjvZ8RUZD2T2CBwfQolOpsRe6CSQiLpAjfP0GfKNvyBLO_7ywflElJSoCI5Ib0YbO5U-msxv71uRwv/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/ahmadibrahimpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri2.jpg">
-</a></p>
 
-<p><a href="/images/ahmadibrahimpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri3.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ahmadibrahimpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri7.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri5.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimpri6.jpg">  
-<img align="right" style="width:30%;margin-right:30px;" src="/images/ahmadibrahimpri6.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri8.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Ahmad Ibrahim Primary School (AIPS) started in 1995 and is named after Mr Ahmad Ibrahim, then Member of Parliament for Sembawang, who served as Minister for Health and later Minister for Labour in the early years of Singapore’s independence. The school’s heritage stands as a reminder of the courage, determination and pride of Singapore’s leaders who dedicated their lives to the building of the nation. Functioning with a total of 23 classes in 1995, the students and staff were mainly from Sembawang School, which had closed down in November 1994. The school has been functioning as single session since 2003, after the completion of PRIME.&nbsp;  
