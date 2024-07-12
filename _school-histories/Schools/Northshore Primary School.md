@@ -125,11 +125,9 @@ S.M.A.R.T. values so that they navigate successfully through life challenges
 and opportunities with the right core values, beliefs and attitudes.</p>
 <p></p>
 <h4><strong>School Song</strong></h4>
-<p><strong>♫ Listen ♫</strong>
+<p><a href="https://drive.google.com/file/d/12vwSelzOs-Kt0lEJj6eYLSv6LbH2U9EA/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">♫Listen♫</a>
 </p>
 <p></p>
-<p>&lt;a target="\_blank" href="<a href="https://drive.google.com/file/d/12vwSelzOs-Kt0lEJj6eYLSv6LbH2U9EA/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">LINK</a>"&gt;**♫
-Listen**&lt;/a&gt;</p>
 <p>Courageous Explorers</p>
 <p>The sunrise lights up</p>
 <p>the sea of possibilities before us all.</p>
