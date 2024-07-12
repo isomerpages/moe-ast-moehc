@@ -15,43 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUC7iLktGICjD2oiXrXwEDZXPtdOQ3Sq1WghIjGtr7MhPT9z7KoJ29iHdYHoIGgi2mmncmS-MrJh4_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/jurongwestpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri2.jpg">
-</a></p>
 
-<p><a href="/images/jurongwestpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri3.jpg">
-</a></p>
-
-<p><a href="/images/jurongwestpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongwestpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri5.jpg">
-</a></p>
-
-<p><a href="/images/jurongwestpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri6.jpg">
-</a></p>
-
-<p><a href="/images/jurongwestpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongwestpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri8.jpg">
-</a></p>
-
-<p><a href="/images/jurongwestpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongwestpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Jurong West Primary School (JWPS) was established on 4 January 1999 with seven Primary One classes. The school underwent upgrading in 2012 with an additional block, increasing the capacity to 46 classrooms and 19 special rooms. This enabled the school to transit to single-session in 2015.&nbsp;
@@ -90,7 +54,7 @@ Green concentric circles: wholesome and well-rounded education<br>
 White background: upright character of students
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1qOGkUR7yq--dfyH7y3VaGc3qwg5YsRJP/view?usp=share_link">**♫ Listen**</a> 
+<a target="\_blank" href="https://drive.google.com/file/d/1dG25et6YAtjuKiZNUbhb1DbWXXqsTxJq/view?usp=drive_link">**♫ Listen**</a> 
 
 Jurong West Primary<br>
 Heading for the crest<br>
