@@ -15,47 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvakOv1mLNqUo80Boxmeqp4tC4hXIwl0C0HCqsOh0hlhI3mu55L6MaLmTunxL8b0AWQJATG8mNXAiZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/chungchengmainhighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch2.jpg">
-</a></p>
-
-<p><a href="/images/chungchengmainhighsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch3.jpg">
-</a></p>
-
-<p><a href="/images/chungchengmainhighsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chungchengmainhighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch5.jpg">
-</a></p>
-
-<p><a href="/images/chungchengmainhighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch6.jpg">
-</a></p>
-
-<p><a href="/images/chungchengmainhighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chungchengmainhighsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch8.jpg">
-</a></p>
-
-<p><a href="/images/chungchengmainhighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch9.jpg">
-</a></p>
-
-<p><a href="/images/chungchengmainhighsch10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chungchengmainhighsch10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Chung Cheng High School started as an all-boys school at 60 Kim Yan Road in 1939. The school was guided by the philosophy, ‘Excellence in Education for All’, and admitted students from all strata of society. When the Japanese invaded Singapore in 1942, the school was forced to cease operations. After resuming in 1945 following the end of the war, it began to enrol female students.
