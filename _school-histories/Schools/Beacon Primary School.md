@@ -3,6 +3,7 @@ title: Beacon Primary School
 permalink: /school-histories/beacon-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/beaconpri1.png">
 
@@ -12,47 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9ymvmZ1snW1WOXRqDdsEABGDJ-9CrtqoA6OP5KLFBBxuTaqmUkcVXit-fzXvwR8zYkZg4BHR9th2U/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/beaconpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri2.jpg">
-</a></p>
 
-<p><a href="/images/beaconpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri3.jpg">
-</a></p>
-
-<p><a href="/images/beaconpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/beaconpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri5.jpg">
-</a></p>
-
-<p><a href="/images/beaconpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri6.jpg">
-</a></p>
-
-<p><a href="/images/beaconpri7.jpg">  
-<img align="left" style="width:25%;margin-right:15px;" src="/images/beaconpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/beaconpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri8.jpg">
-</a></p>
-
-<p><a href="/images/beaconpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri9.jpg">
-</a></p>
-
-<p><a href="/images/beaconpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beaconpri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Beacon Primary School was the first new primary school to be set up in 2007 as part of the FutureSchools@Singapore (FS@SG) programme. FS@SG was a collaboration between the Ministry of Education (MOE) and the Infocomm Development Authority to effectively harness the benefits of technology for engaged learning.&nbsp;  
