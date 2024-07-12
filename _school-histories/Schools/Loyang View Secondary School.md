@@ -15,39 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsZqSDojsQ6CWCvnPTyv_4RdM1903ST4c3VRedWZW4c5efweM8rFbKAgRsynKrr_7Rw92UtuOLz9Mh/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/loyangviewsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/loyangviewsec2.jpg">
-</a></p>
-
-<p><a href="/images/loyangviewsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/loyangviewsec3.jpg">
-</a></p>
-
-<p><a href="/images/loyangviewsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/loyangviewsec4.jpg">
-</a></p>
-
-<p><a href="/images/loyangviewsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/loyangviewsec5.jpg">
-</a></p>
-
-<p><a href="/images/loyangviewsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/loyangviewsec6.jpg">
-</a></p>
-
-<p><a href="/images/loyangviewsec7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/loyangviewsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/loyangviewsec8.jpg">  
-<img align="left" style="width:32%;margin-right:5px;" src="/images/loyangviewsec8.jpg">
-</a></p>
-
-<p><a href="/images/loyangviewsec9.jpg">  
-<img align="left" style="width:30%;margin-right:5px;" src="/images/loyangviewsec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -89,7 +56,8 @@ The school crest is a unique symbol of the identity of the students and staff of
 The colours white and blue&nbsp;symbolise, respectively, purity as well as trust and responsibility.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1wjTnLTazRBV4CrBEf9cfRmyEwgT59ttr/view?usp=share_link">**♫ Listen**</a>
+<a target="\_blank" href="https://drive.google.com/file/d/1hedRMB8rET5TsKwCcmQiNEeEuyJ51166/view?usp=drive_link">**♫ Listen**</a>
+
 
 Verse 1<br>
 Marching to the beat of our nation’s drum,<br>
