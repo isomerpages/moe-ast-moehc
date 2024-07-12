@@ -11,7 +11,9 @@ third_nav_title: Schools
 <h3><strong>Northshore Primary School</strong></h3>
 <h4><strong>Image Gallery</strong></h4>
 <p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQhKAORZe8vWYxgNE2cyQRFxos8N8Tj6kOS_eStDbL3z-2JQLkTsYdKL7AHvNujXl5w8OpHTkU6rukO/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>School History</strong></h4>
 <p>Northshore Primary School is one of the newly built schools in Singapore
 and welcome her first batch of Primary 1 and Kindergarten 1 students in
@@ -125,6 +127,9 @@ and opportunities with the right core values, beliefs and attitudes.</p>
 <h4><strong>School Song</strong></h4>
 <p><strong>♫ Listen ♫</strong>
 </p>
+<p></p>
+<p>&lt;a target="\_blank" href="<a href="https://drive.google.com/file/d/12vwSelzOs-Kt0lEJj6eYLSv6LbH2U9EA/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">LINK</a>"&gt;**♫
+Listen**&lt;/a&gt;</p>
 <p>Courageous Explorers</p>
 <p>The sunrise lights up</p>
 <p>the sea of possibilities before us all.</p>
