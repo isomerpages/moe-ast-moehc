@@ -3,6 +3,7 @@ title: Pei Hwa Presbyterian Primary School
 permalink: /school-histories/pei-hwa-presbyterian-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/peihwaprespri1.png">
 
@@ -14,47 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeAdmogdzXFb2WfTod4njpirH33MWgHPbnSNL9upAQdLb7xHonq-BvGsk2dXg5041W6X5t50dtEBbl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/peihwaprespri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri2.jpg">
-</a></p>
 
-<p><a href="/images/peihwaprespri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri3.jpg">
-</a></p>
-
-<p><a href="/images/peihwaprespri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/peihwaprespri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri5.jpg">
-</a></p>
-
-<p><a href="/images/peihwaprespri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri6.jpg">
-</a></p>
-
-<p><a href="/images/peihwaprespri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/peihwaprespri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri8.jpg">
-</a></p>
-
-<p><a href="/images/peihwaprespri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri9.jpg">
-</a></p>
-
-<p><a href="/images/peihwaprespri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peihwaprespri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Pei Hwa Presbyterian Primary School (PHPPS) was founded by preacher Joseph Koh in 1889 with the purpose of providing free education to the children from the villages around Bukit Timah. It was originally known as Road End Free School and the medium of instruction then was in Teochew.&nbsp; In 1918, it became a Chinese-medium school. In 1922, it was renamed as Pei Hwa School. In 1941, with the outbreak of the Second World War, the school was closed temporarily from 1941 to 1945. Pei Hwa School reopened after the war in 1945 and the first School Management Board was formed.
