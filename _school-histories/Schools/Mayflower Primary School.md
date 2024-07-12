@@ -3,6 +3,7 @@ title: Mayflower Primary School
 permalink: /school-histories/mayflower-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/mayflowerpri1.jpg">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDwmUTS7fN9YA4ndG4DMi3GWbYGTHE4zfQcI61CnjJ4NkpbcafAl9_qMhfbKO7d2RZ9D4lhbAhb-yf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/mayflowerpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowerpri2.jpg">
-</a></p>
-
-<p><a href="/images/mayflowerpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowerpri3.jpg">
-</a></p>
-
-<p><a href="/images/mayflowerpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowerpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/mayflowerpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowerpri5.jpg">
-</a></p>
-
-<p><a href="/images/mayflowerpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowerpri6.jpg">
-</a></p>
-
-<p><a href="/images/mayflowerpri9.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/mayflowerpri9.jpg">
-</a></p>
-
-<p><a href="/images/mayflowerpri8.jpg">  
-<img align="right" style="width:30%;margin-right:17px;" src="/images/mayflowerpri8.jpg">
-</a></p>
-
-<p><a href="/images/mayflowerpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mayflowerpri7.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Mayflower Primary School was established in 1979 at 20 Ang Mo Kio Avenue 3 as a government co-educational school. The school functioned in two sessions, sharing its premises with Ang Mo Kio Primary School. In 1993, Mayflower Primary took over the premises formerly occupied by Ang Mo Kio Primary. In 2000, it was the first school to complete the PRIME upgrading, and the school moved to its present premises at 200 Ang Mo Kio Avenue 5. The new school was officially opened on 17 July 2000.
