@@ -89,7 +89,7 @@ Be the Best We Can Be
 The combination of the ascending trees and the book symbolise progress, both forward and upward, to greater heights of success.&nbsp;**The trees symbolise strength of character. The colour green represents continuous growth, energy and vitality.**&nbsp;The turning of the page reflects the continuous acquisition of knowledge and skills needed to face the many challenges in life.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1YJx8bookBX7Y0KUWoxeZv52Ozs_xfySq/view?usp=share_link">**♫ Listen**</a>
+<a target="\_blank" href="https://drive.google.com/file/d/1hvGZObaHl1fHOkdJo_MpJjuSdYc7zKH4/view?usp=drive_link">**♫ Listen**</a>
 
 At Casuarina Primary<br>
 We learn and grow<br>
