@@ -3,6 +3,7 @@ title: Manjusri Secondary School
 permalink: /school-histories/manjusri-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/manjusrisec1.png">
 
@@ -14,47 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRq6KMUaAs0N4wwXSTFUvcsz6Sx6xRKk7sopylNkAJJXh0RmTQcv9EJAIFkQKeX82ncs625x4zWJWny/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/manjusrisec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec2.jpg">
-</a></p>
-
-<p><a href="/images/manjusrisec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec3.jpg">
-</a></p>
-
-<p><a href="/images/manjusrisec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/manjusrisec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec5.jpg">
-</a></p>
-
-<p><a href="/images/manjusrisec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec6.jpg">
-</a></p>
-
-<p><a href="/images/manjusrisec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/manjusrisec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec8.jpg">
-</a></p>
-
-<p><a href="/images/manjusrisec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec9.jpg">
-</a></p>
-
-<p><a href="/images/manjusrisec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/manjusrisec10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 In June 1974, the Singapore Buddhist Federation decided to establish a Buddhist-affiliated secondary school on a site at Sims Drive offered by the Ministry of Education. The Buddhist spiritual leaders and monks named the school ‘Manjusri’ after the Bodhisattva of Great Wisdom. One of its initial aims was to provide Buddhist families with the option of having their children continue their secondary school studies in an environment that emphasised Buddhist virtues while still respecting Singapore’s religious diversity.
