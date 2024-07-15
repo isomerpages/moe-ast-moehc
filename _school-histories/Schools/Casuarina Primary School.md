@@ -14,35 +14,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9AfB8IaRL7uBepGgPuAk8RWiyix1kVADf2eYAsrpM4UHAldLI_YUJ-SqFQhEX2VQ-84gx_F7w2xgN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/casuarinapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/casuarinapri2.jpg">
-</a></p>
-
-<p><a href="/images/casuarinapri3.jpg">  
-<img align="left" style="width:33%;margin-right:15px;" src="/images/casuarinapri3.jpg">
-</a></p>
-
-<p><a href="/images/casuarinapri4.jpg">  
-<img align="right" style="width:30%;margin-right:20px;" src="/images/casuarinapri4.jpg">
-</a></p>
-
-<p><a href="/images/casuarinapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/casuarinapri5.jpg">
-</a></p>
-
-<p><a href="/images/casuarinapri6.jpg">  
-<img align="left" style="width:32%;margin-right:15px;" src="/images/casuarinapri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/casuarinapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/casuarinapri7.jpg">
-</a></p>
-
-<p><a href="/images/casuarinapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/casuarinapri8.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -89,7 +60,7 @@ Be the Best We Can Be
 The combination of the ascending trees and the book symbolise progress, both forward and upward, to greater heights of success.&nbsp;**The trees symbolise strength of character. The colour green represents continuous growth, energy and vitality.**&nbsp;The turning of the page reflects the continuous acquisition of knowledge and skills needed to face the many challenges in life.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1YJx8bookBX7Y0KUWoxeZv52Ozs_xfySq/view?usp=share_link">**♫ Listen**</a>
+<a target="\_blank" href="https://drive.google.com/file/d/1hvGZObaHl1fHOkdJo_MpJjuSdYc7zKH4/view?usp=drive_link">**♫ Listen**</a>
 
 At Casuarina Primary<br>
 We learn and grow<br>

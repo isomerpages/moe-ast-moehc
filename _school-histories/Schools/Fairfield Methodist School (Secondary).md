@@ -10,6 +10,11 @@ variant: markdown
 ### **Fairfield Methodist School (Secondary)**
 [URL to website](https://fairfieldmethodistsec.moe.edu.sg/)
 
+#### **Image Gallery**
+
+<iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMsx-E-JukT6yXWzVF_Xdx2MIXGxy7baMu5XhLQzAwQXVzRBR0b8EBFrGJkDBXu3uZQLf7atWSLmJe/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+
+
 <br clear="left">
 Fairfield was started by the faith of one lady - Miss Sophia Blackmore, a woman missionary from Australia, with a class of eight Nonya girls in a little room at Cross Street in 1888. Subsequently, the Telok Ayer Girls’ School was founded in August that year.
 
