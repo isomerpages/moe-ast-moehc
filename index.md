@@ -4,7 +4,8 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: ""
+notification: Please note that the gallery will be closed on 23 July, 10am to
+  2pm.  Gallery will resume normal operating hours from 2pm to 4.30pm.
 sections:
   - hero:
       title: Welcome!
