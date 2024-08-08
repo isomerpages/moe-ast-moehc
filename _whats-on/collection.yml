@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Upcoming Events/Heart of a Teacher Roving Exhibition.md
       - Upcoming Events/Discover the Singapore Education Story with MOE Heritage
         Centre.md
       - Upcoming Events/March school holidays campaign 2024.md
