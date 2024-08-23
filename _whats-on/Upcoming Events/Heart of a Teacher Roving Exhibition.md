@@ -14,7 +14,8 @@ third_nav_title: Upcoming Events
 <img style="width: 100%" height="auto" width="100%" alt="heart of a teacher 2" src="/images/HOAT_II.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heart of a teacher roving exhibition" src="/images/HOAT_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/for_website.png">
 </div>
 <p></p>
