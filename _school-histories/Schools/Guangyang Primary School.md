@@ -3,6 +3,7 @@ title: Guangyang Primary School
 permalink: /school-histories/guangyang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/guangyangpri1.png">
 
@@ -68,7 +69,8 @@ Principals:<br>
 \- Mr Goh Kian Guan (1996–2003)<br>
 \- Mdm Kit Gek Wah (2004–2009)<br>
 \- Mdm Wu Siew Fong Susan (2009–2013)<br>
-\- Mr Vimalenthiran Vijayasingam (2013–present)
+\- Mr Vimalenthiran Vijayasingam (2013–2020)<br>
+\- Mr Enoch Lau (2021-2022)
 
 #### **Key Milestones**
 
@@ -83,7 +85,7 @@ Principals:<br>
 | 2011 | Completed PRIME upgrading. |
 | 2015 | Official opening of the upgraded campus. |
 | 2018 | Celebration of 100th anniversary. |
-|
+| 2021 | In April 2021, Guangyang Primary School merged with Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (光洋小学) have been retained.
 
 #### **School Motto**
 Loyalty, Diligence, Courage and Honesty
