@@ -3,6 +3,7 @@ title: Eunos Primary School
 permalink: /school-histories/eunos-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/eunospri1.png">
 
@@ -79,7 +80,7 @@ Principals:<br>
 | 2014 | Celebration of 30th anniversary, ‘Reminisce, Rejoice, Reach Out’. |
 | 2015 | School contingent at the SG50 National Day Parade. |
 | 2015 | Accorded Learning for Life Programme for ‘Student Development in the Arts and through the Arts’. |
-|
+| 2021 | Eunos Primary School merged with Telok Kurau Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. After the merger, the merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学. which symbolizes the promise of friendship.
 
 #### **School Motto**
 Endeavour Promotes Success
