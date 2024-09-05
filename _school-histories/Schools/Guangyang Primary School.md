@@ -85,7 +85,7 @@ Principals:<br>
 | 2011 | Completed PRIME upgrading. |
 | 2015 | Official opening of the upgraded campus. |
 | 2018 | Celebration of 100th anniversary. |
-| 2021 | In April 2021, Guangyang Primary School merged with Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (光洋小学) have been retained.
+| 2023 | Guangyang Primary School merged with Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (光洋小学) have been retained.
 
 #### **School Motto**
 Loyalty, Diligence, Courage and Honesty
