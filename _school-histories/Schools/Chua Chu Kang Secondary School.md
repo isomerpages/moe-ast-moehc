@@ -3,6 +3,7 @@ title: Chua Chu Kang Secondary School
 permalink: /school-histories/cck-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/ccksec1.jpg">
 
@@ -65,7 +66,7 @@ Principals:<br>
 \- Ms Rosalind Sim (1999–2009)<br>
 \- Mrs Chuah-Koh Eng Ngoh (2010–2014)<br>
 \- Mr Tan Keng Joo (2015–2019)<br>
-\- Ms Ong Liang Fung (2020–present)
+\- Ms Ong Liang Fung (2020–2022)
 
 #### **Key Milestones**
 
@@ -81,7 +82,7 @@ Principals:<br>
 | 2016 | Accorded the Applied Learning Programme in robotics and automation. |
 | 2017 | A Facelift! Transforming Spaces for Holistic Development. |
 | 2018 | Celebration of silver jubilee with the theme, ‘Cherishing the Past, Creating the Future’. |
-|
+| 
 
 #### **School Motto**
 Serve, Grow, Excel
