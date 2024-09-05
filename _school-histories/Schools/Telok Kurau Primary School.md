@@ -3,6 +3,7 @@ title: Telok Kurau Primary School
 permalink: /school-histories/telok-kurau-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
 
@@ -80,7 +81,7 @@ Principals:<br>
 | 2000 | The late former Prime Minister Mr Lee Kuan Yew attended the closing ceremony as the Guest-of-Honour when the school made plans to relocate to Bedok Reservoir Road in 2011. |
 | 2003 | Late former First Lady Mrs S.R. Nathan visited Telok Kurau Primary School on 30 October to celebrate Children’s Day. |
 | 2016 | Celebration of 90th anniversary. |
-|
+| 2021 | Eunos Primary School merged with Telok Kurau Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. After the merger, the merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学. which symbolizes the promise of friendship.
 
 #### **School Motto**
 Strive for Excellence
