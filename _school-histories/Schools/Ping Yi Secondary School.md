@@ -3,6 +3,7 @@ title: Ping Yi Secondary School
 permalink: /school-histories/pingyi-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/pingyisec1.jpg">
 
@@ -64,6 +65,8 @@ In 2014, the school commemorated its 30th anniversary. As part of the celebratio
 
 In 2016, Ping Yi Secondary School and Bedok Town Secondary School merged to form the present Ping Yi Secondary School. In 2018, the school launched the photo book,&nbsp;_Chai Chee, Our Home_, which provides a visual narrative of the warm and vibrant Chai Chee community. That same year, the school was once again conferred the Lee Hsien Loong Award for Innovations in the Normal Course.
 
+In 2023, Ping Yi Secondary School merged with Bedok Green Secondary School. Bedok Green Secondary School will retain its English name while the Chinese name of Ping Yi Secondary School (平仪中学) is retained to commemorate the history of Pin Ghee Public School – the first Chinese school in the area. The first character of the school name ‘Ping’ (平) means fairness and impartially, while ‘Yi’ (仪) means dignified bearing.
+
 Principals:<br>
 \- Mrs Ng Gek Tiang (1983–1988)<br>
 \- Mrs Pearl Goh (1989–1996)<br>
@@ -86,7 +89,7 @@ Principals:<br>
 | 2014 | Celebration of 30th anniversary. Accorded Applied Learning Programme in Design and Aeronautical Engineering, and Learning for Life Programme in Leadership through Character and Citizenship Education. |
 | 2016 | Merger with Bedok Town Secondary School. |
 | 2018 | Conferred the Lee Hsien Loong Award for Innovations in the Normal Course. |
-|
+| 2023 | Merged with Bedok Green Secondary School. 
 
 #### **School Motto**
 Perseverance Yields Success
