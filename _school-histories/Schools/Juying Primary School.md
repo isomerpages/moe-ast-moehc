@@ -3,6 +3,7 @@ title: Juying Primary School
 permalink: /school-histories/juying-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/juyingpri1.png">
 
@@ -71,7 +72,7 @@ Principals:<br>
 | 2015 | Accorded Learning for Life Programme – Environmental Education. |
 | 2017 | Completed PERI Upgrading. |
 | 2018 | Accorded Applied Learning Programme - tHinkABITS. |
-|
+| 2022 | Merged with Pioneer Primary School.
 
 #### **School Motto**
 Acme in Achievement&nbsp;–&nbsp;Attaining the peak in one’s achievement
