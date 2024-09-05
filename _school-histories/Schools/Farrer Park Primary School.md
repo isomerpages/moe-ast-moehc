@@ -3,6 +3,7 @@ title: Farrer Park Primary School
 permalink: /school-histories/farrer-park-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/farrerparkpri1.png">
 
@@ -73,7 +74,7 @@ Principals:<br>
 | 2014 | Establishment of MOE Kindergarten @ Farrer Park. |
 | 2014 | Accorded Learning for Life Programme in iCare – Leaders of Tomorrow. |
 | 2016 | Accorded Applied Learning Programme in Drama in Education. |
-|
+| 2023 | Stamford Primary School merged with Farrer Park Primary School. The merged school name is Farrer Park Primary School and operates at the Farrer Park Primary School site.
 
 #### **School Motto**
 Challenge The Limits

@@ -3,6 +3,7 @@ title: Stamford Primary School
 permalink: /school-histories/stamford-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri1.jpg">
 
@@ -69,7 +70,7 @@ Principals:<br>
 \- Mr Ng Cher Song (2002–2004)<br>
 \- Mr Yong Cheng Huat (2005–2010)<br>
 \- Mr Robin Ong (2010–2017)<br>
-\- Mdm Cassie Fan (2017–present)
+\- Mdm Cassie Fan (2017–2023)
 
 #### **Key Milestones**
 
@@ -83,7 +84,7 @@ Principals:<br>
 | 2002 | Upgraded under PRIME. |
 | 2003 | Became single-session. |
 | 2017 | Completed PERI upgrading. |
-|
+|2023 |  Farrer Park Primary School and Stamford Primary School merged in January 2023. The merged school name is Farrer Park Primary School and operates at the Farrer Park Primary School site.
 
 #### **School Motto**
 Strength in Wisdom
