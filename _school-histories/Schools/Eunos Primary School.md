@@ -58,6 +58,8 @@ Eunos Primary School was founded on 3 January 1984 with students and staff from 
 
 The school’s Learning for Life Programme, ‘Student Development in the Arts and through the Arts’, is a three-tier programme comprising a broad-based arts-appreciation curriculum, co-curricular programmes for targeted groups, and focused programmes for talented students. The school actively seeks opportunities to expose its students to performances and to put up public performances such as the successful Euni-Voices.&nbsp;
 
+In 2021, Eunos Primary School merged with Telok Kurau Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. After the merger, the merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学. which symbolizes the promise of friendship.
+
 Principals:<br>
 \- Mrs Salmah Yunos (1984–1994)<br>
 \- Mr Soh Cheng Hua (1994–1996)<br>
@@ -80,7 +82,7 @@ Principals:<br>
 | 2014 | Celebration of 30th anniversary, ‘Reminisce, Rejoice, Reach Out’. |
 | 2015 | School contingent at the SG50 National Day Parade. |
 | 2015 | Accorded Learning for Life Programme for ‘Student Development in the Arts and through the Arts’. |
-| 2021 | Eunos Primary School merged with Telok Kurau Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. After the merger, the merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学. which symbolizes the promise of friendship.
+| 2021 | Eunos Primary School merged with Telok Kurau Primary School. 
 
 #### **School Motto**
 Endeavour Promotes Success
