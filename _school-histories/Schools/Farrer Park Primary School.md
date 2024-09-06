@@ -60,6 +60,8 @@ The Ministry of Education’s Kindergarten @ Farrer Park was set up within Farre
 
 Farrer Park Primary School was accorded the Learning for Life Programme in ‘iCare – Leaders of Tomorrow’ in 2014. In 2016, Farrer Park Primary School was accorded the Applied Learning Programme, ‘Drama in Education’.
 
+In 2023,  Stamford Primary School merged with Farrer Park Primary School. The merged school name is Farrer Park Primary School and operates at the Farrer Park Primary School site.
+
 Principals:<br>
 \- Mrs Koe Poh Tee (2002–2005)<br>
 \- Mr Mohd Mansor S.A. Kadir (2005–2008)<br>
@@ -74,7 +76,7 @@ Principals:<br>
 | 2014 | Establishment of MOE Kindergarten @ Farrer Park. |
 | 2014 | Accorded Learning for Life Programme in iCare – Leaders of Tomorrow. |
 | 2016 | Accorded Applied Learning Programme in Drama in Education. |
-| 2023 | Stamford Primary School merged with Farrer Park Primary School. The merged school name is Farrer Park Primary School and operates at the Farrer Park Primary School site.
+| 2023 | Stamford Primary School merged with Farrer Park Primary School. 
 
 #### **School Motto**
 Challenge The Limits

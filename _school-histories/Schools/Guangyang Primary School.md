@@ -56,6 +56,8 @@ In 1959, the school offered secondary classes and was renamed Kong Yiong High Sc
 
 In 1993, Guangyang Primary School relocated to its current premises at 6 Bishan Street 12. In 2011, Guangyang Primary School completed the PRIME upgrading. In 2018, the school celebrated its 100th anniversary. That same year, Guangyang Primary School was accorded the Learning for Life Programme in Music and Performing Arts, with emphasis on talent and character development.
 
+In 2023,  Guangyang Primary School merged with Townsville Primary School. The English name of the merged school is Townsville Primary School while the Chinese name of Guangyang Primary School (光洋小学) was retained.
+
 Principals:<br>
 \- Mr Liang Pidu (1918–1920)<br>
 \- Mr Huang Yiyuang (1920–1929)<br>
@@ -85,7 +87,7 @@ Principals:<br>
 | 2011 | Completed PRIME upgrading. |
 | 2015 | Official opening of the upgraded campus. |
 | 2018 | Celebration of 100th anniversary. |
-| 2023 | Guangyang Primary School merged with Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (光洋小学) have been retained.
+| 2023 | Guangyang Primary School merged with Townsville Primary School. 
 
 #### **School Motto**
 Loyalty, Diligence, Courage and Honesty
