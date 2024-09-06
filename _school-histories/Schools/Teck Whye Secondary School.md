@@ -67,6 +67,8 @@ In 2016, the school celebrated its golden jubilee with the following key events:
 
 Today, Teck Whye Secondary School continues to focus on its mission of creating a community of future-ready learners who lead, serve and achieve.
 
+In 2023,  Teck Whye Secondary School merged with Chua Chu Kang Secondary School to form Chua Chu Kang Secondary School. The merged school occupies the the building of Teck Whye Secondary School.
+
 Principals:<br>
 \- Mr S.F.R. Desa (1966–1969)<br>
 \- Mr K.P. John (1969–1976)<br>
