@@ -16,6 +16,7 @@ third_nav_title: Upcoming Events
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/for_website_final.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HOAT_for_website_final.png">
 </div>
+<p></p>
 <p></p>
