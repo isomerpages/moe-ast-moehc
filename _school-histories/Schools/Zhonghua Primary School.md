@@ -3,6 +3,7 @@ title: Zhonghua Primary School
 permalink: /school-histories/zhonghua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuapri1.png">
 
@@ -15,43 +16,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe4gccTETeuZQAOHXI93rsaxzAzGG7J1Axz9-TuBWpV_kn4LS3xIwz8hmgTyFByWFScAoD_CFwRCgz/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe> 
 
-<p><a href="/images/zhonghuapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri2.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri3.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhonghuapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri5.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri6.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhonghuapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri8.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuapri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuapri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Zhonghua Primary School was established in 1911 as Chung Hwa Girls’ School. In 1951, the school became a full school: the primary section was on Niven Road and the secondary section on Bartley Road. In 1957, Chung Hwa Girls’ School became a government-aided school.
@@ -66,7 +30,8 @@ Principals:<br>
 \- Mdm Zahara Yusoff (1996–2002)<br>
 \- Mr Stephen Chua Tong Hee (2002–2007)<br>
 \- Mr Bucktha Seelan (2007–2014)<br>
-\- Mdm Rostinah Mohamad Said (2014–present)
+\- Mdm Rostinah Mohamad Said (2014–2023) <br>
+\- Mrs Chan Le Chin (2024 - present) 
 
 **Related School: [Serangoon Garden South School](/school-histories/serangoon-garden-south-sch/)**
 
