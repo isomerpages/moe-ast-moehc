@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Testing/.keep
       - Resources.md
       - Heritage Resources.md
       - Heritage Spotlights/Heritage Spotlights.md
