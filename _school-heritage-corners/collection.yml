@@ -1,4 +1,5 @@
 collections:
   school-heritage-corners:
     output: true
-    order: []
+    order:
+      - Monfort Junior School/.keep
