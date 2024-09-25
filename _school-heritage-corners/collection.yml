@@ -2,4 +2,5 @@ collections:
   school-heritage-corners:
     output: true
     order:
+      - Monfort Junior School/Monfort Junior School Heritage Corner.md
       - Monfort Junior School/.keep
