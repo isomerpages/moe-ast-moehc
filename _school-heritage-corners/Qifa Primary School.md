@@ -29,17 +29,33 @@ the Present, Confidence in our Future.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QIFA_Heritage_corner_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QIFA_Heritage_corner_41.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QIFA_Heritage_corner_13.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p>Storyboards depict the history of the Hakka community in Singapore. Glass
 display cases depict artefacts related to medicinal halls owned Hakka businessmen,
-and other early Hakka&nbsp;&nbsp;</p>
-<p>businesses.&nbsp;</p>
+and other early Hakka&nbsp;businesses.&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qifa_blackboard.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>The design alongside one wall echoes the old classrooms of Khee Fatt School,
@@ -104,5 +120,6 @@ of local food culture.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
