@@ -50,6 +50,9 @@ apparatus give an ‘old school’ feel</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QIFA_Heritage_corner_15.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>A built-in projector and whiteboard allow the space to be used for teaching
@@ -61,6 +64,9 @@ curated students’ worksheets.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QIFA_Heritage_corner_16.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>A ‘Think See Wonder’ special feature wall serves as a flexible space to
@@ -70,7 +76,9 @@ Education (CCE).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/qifa_RHD.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>In July 2024, the gallery featured a special display of mannequins in
@@ -96,4 +104,5 @@ of local food culture.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
