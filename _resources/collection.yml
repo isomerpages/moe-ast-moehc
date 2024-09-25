@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Testing/.keep
-      - School Heritage Corners.md
       - Resources.md
       - Heritage Resources.md
       - Heritage Spotlights/Heritage Spotlights.md
