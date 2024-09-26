@@ -17,6 +17,13 @@ third_nav_title: Monfort Junior School
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/holy_innocents_eng.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/monfort_overview.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Montfort Junior school began as started as a single class of students
