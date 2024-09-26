@@ -4,6 +4,9 @@ permalink: /qifa-primary-school/
 variant: tiptap
 description: Qifa Primary School
 ---
+<h1><strong>Qifa Primary School Heritage Corner</strong></h1>
+<p>Heritage corner was revamped in 2023.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -128,6 +131,4 @@ of local food culture.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
