@@ -26,12 +26,12 @@ third_nav_title: Monfort Junior School
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Montfort Junior school began as started as a single class of students
-in rural Serangoon in 1916. It became Holy Innocents’ English School, Montfort
-School’s predecessor. started the first English class. In 1959, Holy Innocents’
-English School was renamed Montfort School in honour of its founder, St
-Louis Marie De Montfort, whose efforts to educate the young, were carried
-on by the Brothers of St Gabriel.</p>
+<p>Montfort Junior school began as a single class of students in rural Serangoon
+in 1916. It became Holy Innocents’ English School, Montfort School’s predecessor
+and started the first English class. In 1959, Holy Innocents’ English School
+was renamed Montfort School in honour of its founder, St Louis Marie De
+Montfort, whose efforts to educate the young, were carried on by the Brothers
+of St Gabriel.</p>
 <p>Montfort School split into Montfort Junior School and Montfort Secondary
 School in 1974.</p>
 </td>
@@ -64,14 +64,6 @@ as a reminder for each Montfortian to strive to be "A Montfortian, A Man
 for Others," and live out the school’s CHRISTE values. Mr. Lim Ah Pin is
 prominently highlighted as an alumnus who exemplifies values like Compassion
 and Service through his contributions to the Hougang community.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
