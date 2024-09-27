@@ -30,7 +30,7 @@ description: Qifa Primary School
 (启发学堂) by the Char Yong (Dabu) Association, which was made up of early
 Hakka immigrants from China. After the Second World War, Khee Fatt School
 was officially opened by Mr Lee Kuan Yew, the first Prime Minister of Singapore,
-on 13 October 1966. In 1985,&nbsp;ee Fatt School was renamed Qifa Primary
+on 13 October 1966. In 1985,&nbsp;Khee Fatt School was renamed Qifa Primary
 School. In 2008, Jin Tai Primary merged with Qifa Primary.&nbsp;</p>
 <p>The school heritage gallery is in a classroom-sized space is located near
 the school canteen. The entrance bears the lines: Cherish our Past, Celebrate
