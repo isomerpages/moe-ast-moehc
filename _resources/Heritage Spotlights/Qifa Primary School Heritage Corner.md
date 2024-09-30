@@ -72,7 +72,7 @@ and other early Hakka&nbsp;businesses.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>The design alongside one wall echoes the old classrooms of Khee Fatt School,
 complete with a blackboard. Old desks and cabinets, textbooks and school
-apparatus give an ‘old school’ feel</p>
+apparatus give an ‘old school’ feel.</p>
 </td>
 </tr>
 <tr>
