@@ -2,11 +2,12 @@ collections:
   resources:
     output: true
     order:
+      - Resources.md
+      - School Heritage Corners/.keep
       - School Heritage Corners/Qifa Primary School Heritage Corner.md
       - School Heritage Corners/Monfort Junior School Heritage Corner.md
-      - School Heritage Corners/.keep
-      - Resources.md
       - Heritage Resources.md
+      - Heritage Spotlights/.keep
       - Heritage Spotlights/Heritage Spotlights.md
       - Heritage Spotlights/Museum Activities for March Holidays 2022.md
       - "Heritage Spotlights/Activity : Let's Talk About School, A Family
@@ -14,4 +15,3 @@ collections:
       - Heritage Spotlights/5 Free Heritage Activities for June Holidays 2021.md
       - Heritage Spotlights/Top 10 FAQs on setting up a school heritage corner.md
       - Heritage Spotlights/NIE 70th Anniversary Celebrations.md
-      - Heritage Spotlights/.keep
