@@ -1,8 +1,9 @@
 ---
-title: Qifa Primary School
+title: Qifa Primary School Heritage Corner
 permalink: /qifa-primary-school/
 variant: tiptap
 description: Qifa Primary School
+third_nav_title: School Heritage Corners
 ---
 <h1><strong>Qifa Primary School Heritage Corner</strong></h1>
 <p>Heritage corner was revamped in 2023.</p>
@@ -71,7 +72,7 @@ and other early Hakka&nbsp;businesses.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>The design alongside one wall echoes the old classrooms of Khee Fatt School,
 complete with a blackboard. Old desks and cabinets, textbooks and school
-apparatus give an ‘old school’ feel</p>
+apparatus give an ‘old school’ feel.</p>
 </td>
 </tr>
 <tr>

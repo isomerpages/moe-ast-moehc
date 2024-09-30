@@ -3,7 +3,7 @@ title: Monfort Junior School Heritage Corner
 permalink: /monfort-junior-school-heritage-corner/
 variant: tiptap
 description: Monfort Junior School Heritage Corner
-third_nav_title: Monfort Junior School
+third_nav_title: School Heritage Corners
 ---
 <h1><strong>Monfort Junior School Heritage Corner</strong></h1>
 <p>Heritage corner officially opened on 30 March 2023.</p>

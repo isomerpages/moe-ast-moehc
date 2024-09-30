@@ -2,6 +2,4 @@ collections:
   school-heritage-corners:
     output: true
     order:
-      - Qifa Primary School.md
-      - Monfort Junior School/Monfort Junior School Heritage Corner.md
       - Monfort Junior School/.keep
