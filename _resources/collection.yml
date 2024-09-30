@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - School Heritage Corners/School Heritage Corners.md
       - School Heritage Corners/.keep
       - Resources.md
       - Heritage Resources.md
