@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - Testing SHC/School Heritage Corners.md
-      - Testing SHC/.keep
+      - School Heritage Corners/School Heritage Corners.md
+      - School Heritage Corners/.keep
       - Resources.md
       - Heritage Resources.md
       - Heritage Spotlights/Monfort Junior School Heritage Corner.md
