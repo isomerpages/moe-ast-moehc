@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Testing SHC/testing SHC.md
       - Testing SHC/.keep
       - Resources.md
       - Heritage Resources.md
