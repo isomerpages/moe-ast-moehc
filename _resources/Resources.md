@@ -2,6 +2,7 @@
 title: Resources
 permalink: /resources/
 description: ""
+variant: markdown
 ---
 ### **Resources**
 <img src="/images/resources1.jpg" style="width:40%;margin-right:15px;" align="right">
