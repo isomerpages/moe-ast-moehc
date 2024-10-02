@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Resources.md
+      - School Heritage Corners/School Heritage Resources.md
       - School Heritage Corners/.keep
       - School Heritage Corners/Qifa Primary School Heritage Corner.md
       - School Heritage Corners/Monfort Junior School Heritage Corner.md
