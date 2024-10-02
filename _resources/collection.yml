@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Resources.md
-      - School Heritage Corners/School Heritage Corners.md
+      - Heritage Resources.md
       - School Heritage Corners/.keep
+      - School Heritage Corners/School Heritage Corners.md
       - School Heritage Corners/Qifa Primary School Heritage Corner.md
       - School Heritage Corners/Monfort Junior School Heritage Corner.md
-      - Heritage Resources.md
       - Heritage Spotlights/.keep
       - Heritage Spotlights/Heritage Spotlights.md
       - Heritage Spotlights/Museum Activities for March Holidays 2022.md
