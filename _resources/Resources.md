@@ -30,4 +30,4 @@ Bite-size heritage pointers curated just for you.
 [Check out the latest happenings](/resources/heritage-spotlights/)
 	
 
-<br clear="left"><p></p>
+<br clear="left">
