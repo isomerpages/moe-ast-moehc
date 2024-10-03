@@ -68,13 +68,6 @@ National Archives of Singapore's&nbsp;**[Online Search Portal](https://www.nas.g
   
 NHB's&nbsp;**[Roots](https://www.roots.sg/)**&nbsp;portal for the National Collection and other NHB resources.
 
-##### **Guide: Exhibit Development**
-<img src="/images/heritageresources9.jpg" style="width:30%;margin-right:15px;" align="left">
-This guide provides an overview of the exhibit development process and offers tips on how to plan and create an effective exhibit for anyone interested in developing exhibitions.&nbsp;  
-  
-Developed by: Smithsonian Exhibit<br>
-[Link](/files/Guide-to-Exhibit-Development.pdf)
-
 
 ##### **Video: Heritage Education Programmes**
 <img src="/images/heritageresources12.jpg" style="width:30%;margin-right:15px;" align="left">
