@@ -4,7 +4,12 @@ permalink: /resources/
 description: ""
 variant: markdown
 ---
-### **Heritage Resources**
+### Get Started on your Heritage Documentation Journey 
+###### Explore a selection of resources to support you in your school heritage projects.
+
+
+
+#### **Heritage Resources**
 <img src="/images/heritage_resources_image.png" style="width:50%;margin-right:5px;" align="left"><p></p>Get a headstart in planning your heritage project with this selection of text and multimedia resources.
 [Explore all resources](/resources/heritage-resources/)
 
