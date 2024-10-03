@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Heritage Resources**
 
-#### **Activity: Let's Talk About School - A Family Conversation Card Set**
+##### **Activity: Let's Talk About School - A Family Conversation Card Set**
 
 <img src="/images/familyconvo.png" style="width:65%" align="left">
 
@@ -20,7 +20,7 @@ Download the card set here:<br>
 
 
 
-#### Top 10 FAQs on setting up a school heritage corner
+##### **Top 10 FAQs on setting up a school heritage corner**
 
 <img src="/images/topfaq1.jpg" style="width:65%" align="left">
 <br clear="left">
