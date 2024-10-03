@@ -13,7 +13,9 @@ variant: markdown
 
 
 #### **School Heritage Corners**
-###### <img src="/images/website_icon_SHC.png" style="width:50%;margin-right:5px;" align="left">[undefined](https://moehc.moe.edu.sg/school-heritage-corners/)<p></p> [Check out this selection of recent school galleries.](https://moehc.moe.edu.sg/school-heritage-corners/)
+<img src="/images/website_icon_SHC.png" style="width:50%;margin-right:5px;" align="left">
+<p></p> 
+Check out this selection of recent school galleries 
 
 <br clear="left">
 
