@@ -17,14 +17,14 @@ variant: markdown
 
 
 #### **School Heritage Corners**
-<img src="/images/website_icon_SHC.png" style="width:50%;margin-right:5px;" align="left">
+<img src="/images/QIFA_Heritage_corner_13.jpg" style="width:50%;margin-right:5px;" align="left">
 
 Check out this selection of recent [school galleries](https://moehc.moe.edu.sg/school-heritage-corners/)
 
 <br clear="left">
 
 #### **Heritage Spotlight**
-<img src="/images/resources5.jpg" style="width:50%;margin-right:5px;" align="left">	
+<img src="/images/IMG_6258.jpg" style="width:50%;margin-right:5px;" align="left">	
 
 Bite-size heritage pointers curated just for you.
 [Check out the latest happenings](/resources/heritage-spotlights/)
