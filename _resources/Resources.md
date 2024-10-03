@@ -10,7 +10,7 @@ variant: markdown
 
 
 #### **Heritage Resources**
-<img src="/images/heritage_resources_image.png" style="width:50%;margin-right:5px;" align="left"><p></p>Get a headstart in planning your heritage project with this selection of text and multimedia resources.
+<img src="/images/heritage_resources_image.png" style="width:50%;margin-right:5px;" align="left">Get a headstart in planning your heritage project with this selection of text and multimedia resources.
 [Explore all resources](/resources/heritage-resources/)
 
 <br clear="left">
