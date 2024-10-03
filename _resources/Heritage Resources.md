@@ -5,6 +5,31 @@ description: ""
 variant: markdown
 ---
 ### **Heritage Resources**
+
+#### **Activity: Let's Talk About School - A Family Conversation Card Set**
+
+<img src="/images/familyconvo.png" style="width:65%" align="left">
+
+<br clear="left">
+
+
+
+What better way to learn about how school was like in the past than to hear about it from someone who went to school then? Use this set of cards to have fun dinner conversation with your family members and share with each other your school day memories!
+
+Download the card set here:<br>
+[Let's Talk About School - A Family Conversation Card Set](/files/conversationcard.pdf)
+
+
+
+#### Top 10 FAQs on setting up a school heritage corner
+
+<img src="/images/topfaq1.jpg" style="width:65%" align="left">
+<br clear="left">
+
+
+If you are planning or refreshing your school heritage corner, check out these FAQs extracted from a guide on Developing Heritage Corners by the National Heritage Board.
+
+Read the full guide [HERE](/files/Heritage%20Corner%20May%202017.pdf) for a comprehensive outline on how to get started!
 ##### **Guide: Toolkit for Developing Exhibitions**
 <img src="/images/heritageresources1.jpg" style="width:30%;margin-right:15px;" align="left">
 This toolkit explores ways to plan a temporary exhibition, refresh, permanent collection displays, deliver effective museum interpretation and implement strategies that improve accessibility.  
@@ -73,13 +98,6 @@ This guide provides an overview of the exhibit development process and offers ti
 Developed by: Smithsonian Exhibit<br>
 [Link](/files/Guide-to-Exhibit-Development.pdf)
 
-##### **Online Course: The Museum as a Site and Source for Learning**
-<img src="/images/heritageresources10.jpg" style="width:30%;margin-right:15px;" align="left">
-
-This free online course explores&nbsp;the purpose of museums today and find how they facilitate learning.  
-  
-Developed by: University of Glasgow<br>
-[Link](https://www.futurelearn.com/courses/museum-learning#section-overview)
 
 
 ##### **Video: Heritage Education Programmes**
@@ -90,28 +108,3 @@ Developed by: National Heritage Board<br>
 [Link](https://www.youtube.com/playlist?list=PLE2_iMKVKlHvi0LN4C-ui7WdwqY3UGx2Y)
 
 
-#
-#### **Activity: Let's Talk About School - A Family Conversation Card Set**
-
-<img src="/images/familyconvo.png" style="width:65%" align="left">
-
-<br clear="left">
-
-07 Jun 2021&nbsp;I 1 min read
-
-What better way to learn about how school was like in the past than to hear about it from someone who went to school then? Use this set of cards to have fun dinner conversation with your family members and share with each other your school day memories!
-
-Download the card set here:<br>
-[Let's Talk About School - A Family Conversation Card Set](/files/conversationcard.pdf)
-
-
-
-#### Top 10 FAQs on setting up a school heritage corner
-
-<img src="/images/topfaq1.jpg" style="width:65%" align="left">
-<br clear="left">
-28 Jul 2020&nbsp;I 6 min read
-
-If you are planning or refreshing your school heritage corner, check out these FAQs extracted from a guide on Developing Heritage Corners by the National Heritage Board.
-
-Read the full guide [HERE](/files/Heritage%20Corner%20May%202017.pdf) for a comprehensive outline on how to get started!
