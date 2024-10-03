@@ -105,3 +105,13 @@ Download the card set here:<br>
 [Let's Talk About School - A Family Conversation Card Set](/files/conversationcard.pdf)
 
 
+
+#### Top 10 FAQs on setting up a school heritage corner
+
+<img src="/images/topfaq1.jpg" style="width:65%" align="left">
+<br clear="left">
+28 Jul 2020&nbsp;I 6 min read
+
+If you are planning or refreshing your school heritage corner, check out these FAQs extracted from a guide on Developing Heritage Corners by the National Heritage Board.
+
+Read the full guide [HERE](/files/Heritage%20Corner%20May%202017.pdf) for a comprehensive outline on how to get started!
