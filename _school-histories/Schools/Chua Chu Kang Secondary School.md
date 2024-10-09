@@ -83,7 +83,7 @@ Principals:<br>
 | 2016 | Accorded the Applied Learning Programme in robotics and automation. |
 | 2017 | A Facelift! Transforming Spaces for Holistic Development. |
 | 2018 | Celebration of silver jubilee with the theme, ‘Cherishing the Past, Creating the Future’. |
-| 
+| 2023 | Teck Whye Secondary School merged with Chua Chu Kang Secondary School to form Chua Chu Kang Secondary School.
 
 #### **School Motto**
 Serve, Grow, Excel
