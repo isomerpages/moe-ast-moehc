@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-
 ### **Alexandra Estate Primary School**
 <br clear="left">
 
