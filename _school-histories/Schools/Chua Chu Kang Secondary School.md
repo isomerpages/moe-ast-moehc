@@ -66,7 +66,8 @@ Principals:<br>
 \- Ms Rosalind Sim (1999–2009)<br>
 \- Mrs Chuah-Koh Eng Ngoh (2010–2014)<br>
 \- Mr Tan Keng Joo (2015–2019)<br>
-\- Ms Ong Liang Fung (2020–2022)
+\- Ms Ong Liang Fung (2020–2022)<br>
+\- Mr Timothy Cheng (2023 - current)
 
 #### **Key Milestones**
 
