@@ -5,9 +5,13 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:30%;margin-right:15px;" src="/images/alexandraestatepri1.png">
 
 ### **Alexandra Estate Primary School**
+<br clear="left">
+
+
+<img align="left" style="width:30%;margin-right:15px;" src="/images/Alexandra_Estate_Primary_School_Crest.png">
+
 <br clear="left">
 
 #### **Image Gallery**
