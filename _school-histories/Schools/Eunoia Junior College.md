@@ -58,7 +58,7 @@ Eunoia Junior College enrolled its first three cohorts of students at a holding 
 
 Principals:<br>
 \- Mrs Wong-Cheang Mei Heng (2014–2021)<br>
-\- Mr Andrew Tan Eng Hian 陈 (2022–present) <br>
+\- Mr Andrew Tan Eng Hian (2022–present) <br>
 
 #### **Key Milestones**
 
