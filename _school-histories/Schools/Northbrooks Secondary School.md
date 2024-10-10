@@ -3,6 +3,7 @@ title: Northbrooks Secondary School
 permalink: /school-histories/northbrooks-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/northbrookssec1.png">
 
@@ -61,7 +62,8 @@ Principals:<br>
 \- Mrs Low Chew Lian (2005–2010)<br>
 \- Mrs Janet Oh (2011)<br>
 \- Mrs Helen Chong (2012–2016)<br>
-\- Mr Nick Chan Choon Loong (2017–present)
+\- Mr Nick Chan Choon Loong (2017–2021)<br>
+\- Mr Lau Yan Boon (2022 - present)<br>
 
 #### **Key Milestones**
 
