@@ -3,6 +3,7 @@ title: Canberra Secondary School
 permalink: /school-histories/canberra-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/canberrasec1.jpg">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxFQi-gl_m60OUBgQApLaoFQXclF5aBPERYpqWdnM-ohv3G8zo3yhWxQpUk7QHipfy7x4HO_g62QpC/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/canberrasec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec2.jpg">
-</a></p>
-
-<p><a href="/images/canberrasec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec3.jpg">
-</a></p>
-
-<p><a href="/images/canberrasec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/canberrasec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec5.jpg">
-</a></p>
-
-<p><a href="/images/canberrasec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec6.jpg">
-</a></p>
-
-<p><a href="/images/canberrasec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/canberrasec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrasec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Canberra Secondary School is a government co-educational school established in 2000. It began operations in the present-day Sembawang Secondary School before moving to its current premises at 51 Sembawang Drive.
@@ -59,7 +27,8 @@ Principals:<br>
 \- Mr Puvan Ariaratnam (2000–2005)<br>
 \- Mr Tan Keng Joo (2006–2010)<br>
 \- Mr Cheng Ghee Hock Timothy (2011–2016)<br>
-\- Mr Ng Tiong Nam (2017–present)
+\- Mr Ng Tiong Nam (2017–2022)<br>
+\- Mr Leong Kok Kee (2023 - present)
 
 #### **Key Milestones**
 
