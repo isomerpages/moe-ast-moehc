@@ -3,6 +3,7 @@ title: Jurong Secondary School
 permalink: /school-histories/jurong-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jurongsec1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpIrhHlWnBXEV4ZZDE7w7x2lYSbclc-Ux_9wKUOLWKpZFrPYTcSw1FqQoN-Fbp5WXAApdei-Qi3Lls/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/jurongsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec2.jpg">
-</a></p>
-
-<p><a href="/images/jurongsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec3.jpg">
-</a></p>
-
-<p><a href="/images/jurongsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec5.jpg">
-</a></p>
-
-<p><a href="/images/jurongsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec6.jpg">
-</a></p>
-
-<p><a href="/images/jurongsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec8.jpg">
-</a></p>
-
-<p><a href="/images/jurongsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Jurong Secondary School (JSS) was founded in 1963 at the request of community leaders to founding Prime Minister Mr Lee Kuan Yew, when he made his first visit to Jurong. Originally named Jurong Integrated Secondary School, the school offered the English and Chinese courses. JSS began with five teachers and about 100 students.
@@ -78,7 +42,8 @@ Principals:<br>
 \- Ms Tham Yoke Chun (2003-2009)<br>
 \- Mr Tham Kine Thong (2009-2013)<br>
 \- Mdm Tan Yok Ching Ruby (2013-2018)<br>
-\- Mdm Tay Su-Chin (2018-present)
+\- Mdm Tay Su-Chin (2018-2022)<br>
+\- Ms Yeo Siok Ee (2023 - present)
 
 #### **Key Milestones**
 
