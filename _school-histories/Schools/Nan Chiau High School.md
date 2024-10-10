@@ -3,6 +3,7 @@ title: Nan Chiau High School
 permalink: /school-histories/nan-chiau-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanchiauhighsch1.png">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpFKsEG7q8GxiYUFSutpT9k87XNYo5VpQSn4XLbwxOAgMhUebfcXeYniMQEJFwl_R9p_Vs4MOt1ZFG/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanchiauhighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch2.jpg">
-</a></p>
 
-<p><a href="/images/nanchiauhighsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch3.jpg">
-</a></p>
-
-<p><a href="/images/nanchiauhighsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanchiauhighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch5.jpg">
-</a></p>
-
-<p><a href="/images/nanchiauhighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch6.jpg">
-</a></p>
-
-<p><a href="/images/nanchiauhighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanchiauhighsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch8.jpg">
-</a></p>
-
-<p><a href="/images/nanchiauhighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanchiauhighsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Mr Tan Kah Kee founded Nan Chiau Teachers’ Training School in 1941. The school was then located on a plot of land on Kim Yam Road donated by Mr Lee Kong Chian. The following year, however, it stopped functioning due to the Japanese Occupation.
@@ -75,7 +40,8 @@ Principals:<br>
 \- Mr Yeo Kuerk Heng (2004)<br>
 \- Mr Ong Kian Choon (2005–2010)<br>
 \- Mr Tan Yee Kan (2011–2018)<br>
-\- Ms Siau Fong Fui (2019–present)
+\- Ms Siau Fong Fui (2019–2022)<br>
+\\- Mdm Ler Jia Luen (2023 - present) 
 
 #### **Key Milestones**
 
