@@ -3,6 +3,7 @@ title: Broadrick Secondary School
 permalink: /school-histories/broadrick-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/broadricksec1.jpg">
 
@@ -13,47 +14,9 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY8g3Lh2xmIlgcHPTfXR4dYmqayf62ad2nTcAYEi0ghc_9AE1V3Lz4OeL7Cj0uhd0Xyhelf9tmVnao/embed?start=false&amp;loop=true&amp;delayms=10000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/broadricksec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec2.jpg">
-</a></p>
 
-<p><a href="/images/broadricksec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec3.jpg">
-</a></p>
 
-<p><a href="/images/broadricksec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec4.jpg">
-</a></p>
 
-<br clear="left">
-
-<p><a href="/images/broadricksec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec5.jpg">
-</a></p>
-
-<p><a href="/images/broadricksec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec6.jpg">
-</a></p>
-
-<p><a href="/images/broadricksec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/broadricksec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec8.jpg">
-</a></p>
-
-<p><a href="/images/broadricksec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec9.jpg">
-</a></p>
-
-<p><a href="/images/broadricksec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/broadricksec10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Broadrick Secondary School was founded in 1968 at 2 Dunman Road. It started as an integrated school with students from the Chinese and English streams. In 1985, Broadrick became an English-medium school. In 2006, the school moved to the current premises at 61 Dakota Crescent.
