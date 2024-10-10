@@ -3,6 +3,7 @@ title: Peicai Secondary School
 permalink: /school-histories/peicai-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/peicaisec1.jpg">
 
@@ -66,7 +67,8 @@ Principals:<br>
 \- Mr Kwok Kah Kuoy (1995–1999)<br>
 \- Mrs Feng Moh Cheng (2000–2007)<br>
 \- Mr Mohamed Razali (2008–2015)<br>
-\- Mr Lim Kok Hwa (2016–present)
+\- Mr Lim Kok Hwa (2016–2021)<br>
+\- Mr Muhunthan s/o Subramaniam (2022-present)<br>
 
 #### **Key Milestones**
 

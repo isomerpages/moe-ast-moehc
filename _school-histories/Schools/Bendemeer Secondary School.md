@@ -3,6 +3,7 @@ title: Bendemeer Secondary School
 permalink: /school-histories/bendemeer-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bendemeersec1.png">
 
@@ -13,41 +14,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWhIJcwZiNJbMMr6O1wiZi8U7n7uog_-QJHOVmgWdbkD_azAVxK20VRvk_UBspSrmL0WjGvxm9GCA_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/bendemeersec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec2.jpg">
-</a></p>
 
-<p><a href="/images/bendemeersec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec3.jpg">
-</a></p>
-
-<p><a href="/images/bendemeersec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec4.jpg">
-</a></p>
-
-<p><a href="/images/bendemeersec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bendemeersec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec6.jpg">
-</a></p>
-
-<p><a href="/images/bendemeersec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec7.jpg">
-</a></p>
-
-<p><a href="/images/bendemeersec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec8.jpg">
-</a></p>
-
-<p><a href="/images/bendemeersec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/bendemeersec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Prior to moving to its current location at 1 St Wilfred Road, Bendemeer Secondary School was located along busy Serangoon Road for over 20 years, on the land owned by Mr Hoo Ah Kay, better known as \`Whampoa’. Established in 1977, the school was officially declared open on 5 April 1979. With an average student population of 1,800, Bendemeer Secondary School was one of the largest secondary schools in Singapore in the 1980s. From 1980 to 1995, Bendemeer Secondary School was also a Pre-University Centre. In 1998, the school moved to its current premises at 1 St Wilfred Road, the former site of Whampoa Secondary School.

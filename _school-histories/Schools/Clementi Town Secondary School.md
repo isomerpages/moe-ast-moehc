@@ -3,6 +3,7 @@ title: Clementi Town Secondary School
 permalink: /school-histories/clementi-town-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/clementitownsec1.jpg">
 
@@ -70,7 +71,8 @@ Principals:<br>
 \- Dr Hang Kim Hoo (2000–2004)<br>
 \- Mrs Tan Jong Lek (2005–2009)<br>
 \- Mrs Grace Chua (2010–2013)<br>
-\- Mrs Helen Tan-Lee (2014–present)
+\- Mrs Helen Tan-Lee (2014–2021)<br>
+\- Mdm Rasidah Bte Rahim (2022 - present)<br>
 
 #### **Key Milestones**
 

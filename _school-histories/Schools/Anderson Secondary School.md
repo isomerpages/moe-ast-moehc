@@ -3,6 +3,7 @@ title: Anderson Secondary School
 permalink: /school-histories/anderson-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/andersonss_logo.png">
 
@@ -58,8 +59,8 @@ Principals:<br>
 * Mrs Tan Wai Lan (2001–2005)<br>
 * Mrs Poh Mun See (2006–2010)<br>
 * Mr Lo Khee Tian Mark (2011–2015)<br>
-* Mrs Tan May Teng (2016–present)
-
+* Mrs Tan May Teng (2016–2021)<br>
+* Miss Tan Po Chin (2022-present)
 #### **Key Milestones**
 
 |  |  |

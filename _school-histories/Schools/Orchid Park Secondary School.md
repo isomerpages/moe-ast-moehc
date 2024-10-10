@@ -3,6 +3,7 @@ title: Orchid Park Secondary School
 permalink: /school-histories/orchid-park-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/orchirdparksec1.jpg">
 
@@ -62,7 +63,8 @@ Another area that the school has seen success in is community youth leadership. 
 Principals:<br>
 \- Mr Low Eng Kee (1999–2007) <br>
 \- Mrs Helen Tan (2008–2013) <br>
-\- Mr Shawal Bin Hussin (2014–present) 
+\- Mr Shawal Bin Hussin (2014–2021)<br>
+\- Mr Daniel Chung Kwok Leong (2022-present)<br>
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Anderson Serangoon Junior College
 permalink: /school-histories/anderson-serangoon-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:35%;margin-right:15px;" src="/images/andersonsrjc1.png">
 
@@ -11,9 +12,7 @@ third_nav_title: Schools
 <br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4Z5jATaiUp4mjN8kFMnUNxY0alPJvbzcWMcLv7C59fVYxYq2qJgyAqePx8Q9xGULekNDjtiF3RXDk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/andersonsrjc2.jpg">  
-<img align="left" style="width:50%;margin-right:15px;" src="/images/andersonsrjc2.jpg">
-</a></p>
+
 
 <br clear="left">
 
@@ -25,7 +24,8 @@ Preparations for the merger had begun as early as 2017. A joint open house and o
 Under the leadership of its founding principal, Mr Manogaran Suppiah, the college embarked on its maiden envisioning exercise, which culminated in the launch of the college vision, mission, values and motto on its first College Day on 27 July 2019.
 
 Principal:<br>
-* Manogaran Suppiah (2019–present)
+* Manogaran Suppiah (2019 – 2021)<br>
+* Mr Heng Yew Seng (2022 – current)  
 
 **Related Schools:** **[Anderson Junior College](/school-histories/anderson-jc/)** \| **[Serangoon Junior College](/school-histories/serangoon-jc/)** 
 

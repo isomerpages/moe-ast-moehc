@@ -3,6 +3,7 @@ title: Temasek Junior College
 permalink: /school-histories/temasek-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/temasekjc1.jpg">
 
@@ -72,7 +73,8 @@ Principals:<br>
 \- Mrs Lim Lai Cheng (2002–2005)<br>
 \- Mrs Loke-Yeo Teck Yong (2006–2011)<br>
 \- Ms Susan Leong (2012–2015)<br>
-\- Mrs Low Ay Nar (2016–present)
+\- Mrs Low Ay Nar (2016–2021)<br>
+\- Mr Earnler Liu (2022–present)<br>
 
 #### **Key Milestones**
 

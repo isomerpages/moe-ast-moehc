@@ -3,6 +3,7 @@ title: Hougang Secondary School
 permalink: /school-histories/hougang-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/hougangsec1.jpg">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxpjC6mZlWrCVKX71u633sQNXSPZSTtR6J_nQoRiDSGyzkuQ9hWKoomU5KxWbxxp0Eb1dofClWrXe4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/hougangsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec2.jpg">
-</a></p>
 
-<p><a href="/images/hougangsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec3.jpg">
-</a></p>
-
-<p><a href="/images/hougangsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/hougangsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec5.jpg">
-</a></p>
-
-<p><a href="/images/hougangsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec6.jpg">
-</a></p>
-
-<p><a href="/images/hougangsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/hougangsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec8.jpg">
-</a></p>
-
-<p><a href="/images/hougangsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hougangsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Hougang Secondary School (HS) was established in 2001 as a government co-educational school, located on Lowland Road. On 20 December 2001, the school moved to its current site at Hougang Street 93. The new environment offered opportunities for all Hougeans to strive for excellence and make a difference.
@@ -66,7 +31,8 @@ HS was accorded the School Distinction Award in 2016 and recognised for Best Pra
 Principals:<br>
 \- Mr Chia Choon Kiat (2001–2008) <br>
 \- Mr Ng Tiong Nam (2009–2016)<br>
-\- Mr Arivazhagan Manickam (2017–present)
+\- Mr Arivazhagan Manickam (2017–2022)<br>
+\- Mr Lee Thuan Sim (2023 - present)
 
 #### **Key Milestones**
 

@@ -31,7 +31,7 @@ In 2019, LVSS achieved the Lee Hsien Loong Award for the Normal Course in recogn
 
 Principal:<br>
 \- Mr Lee Hak Boon (2018–2021)<br>
-\- Mr Eugene Lin (2022-present)
+\- Mr Eugene Lin Yucheng (2022-present) <br>
 
 #### **Key Milestones**
 

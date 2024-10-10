@@ -3,6 +3,7 @@ title: Fuchun Secondary School
 permalink: /school-histories/fuchun-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fuchunsec9.jpg">
 
@@ -64,7 +65,8 @@ Principals:<br>
 \- Mr Johari Rais (1996–2002)<br>
 \- Mrs Chuah-Koh Eng Ngoh (2002–2007)<br>
 \- Ms Ranjit Kaur Dhaliwal (2007–2012)<br>
-\- Mrs Doris Lim (2013–present)
+\- Mrs Doris Lim (2013–2021)<br>
+\- Mr Shawal Bin Hussin (2022-present)<br>
 
 #### **Key Milestones**
 

@@ -15,39 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_BCLrSOJKt178XNEHwgCLM_P9Kjr-dTAM73qHZSxRcouYFl7sUtYKsE5Vc76_X04WNpLIXQlvi9iQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanyanggirlshighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch2.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch3.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch4.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch5.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch6.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch7.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch8.jpg">
-</a></p>
-
-<p><a href="/images/nanyanggirlshighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyanggirlshighsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Nanyang Girls’ High School was established in 1917 in a rented shophouse at 7 Dhoby Ghaut, near present-day Cathay Cinema. Offering education in Chinese, the school was set up by a group of Chinese businessmen who believed that women should receive education in order to play a more active role in serving their country. Until 1930, the school was known as Singapore Nanyang Girls’ School. The following year, the school system was adjusted to provide three-year Junior Middle and Senior Middle courses. That same year, the school relocated to King’s Road and was renamed Nanyang Girls’ High School. In 1957, it became a government-aided school.
@@ -68,7 +35,7 @@ Principals:<br>
 \- Ms Yap Wah Choo (2006–2009)<br>
 \- Mdm Heng Boey Hong (2009–2017)<br>
 \- Mdm Ng Chuen-Yin (2017–present)<br>
-\- Ms Siau Fong Fui (2023 - present)
+\- Miss Siau Fong Fui (2023 - present)
 
 #### **Key Milestones**
 

@@ -15,43 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvuqsPnxxQ-sm3VimOmry_MwEEeD5Xj1G4lePFTVMsAbcSaasrPXZnIHjmpcyX7Tz8KfsjZCPx2CLW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/chijkatongconvent2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent2.jpg">
-</a></p>
-
-<p><a href="/images/chijkatongconvent3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent3.jpg">
-</a></p>
-
-<p><a href="/images/chijkatongconvent4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chijkatongconvent5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent5.jpg">
-</a></p>
-
-<p><a href="/images/chijkatongconvent6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent6.jpg">
-</a></p>
-
-<p><a href="/images/chijkatongconvent7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chijkatongconvent8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent8.jpg">
-</a></p>
-
-<p><a href="/images/chijkatongconvent9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijkatongconvent9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 CHIJ Katong Convent was established as a private English primary school in 1930 under Sister St Theodora, the first principal. The first enrolment comprised 197 students, including 26 boys who were later transferred to St Patrick’s School in late 1932. In 1939, Sister St Vincent de Paul, who had succeeded Sister St Theodora in 1932, further expanded the school, and the enrolment grew to almost 400 students. Almost all the students lived very near the school, on East Coast Road or in estates near East Coast Road such as Joo Chiat and Frankel. At the outbreak of World War II in 1941, the school building on Martia Road was taken over by the British and became a military camp.

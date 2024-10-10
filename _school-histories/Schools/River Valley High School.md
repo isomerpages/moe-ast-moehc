@@ -3,6 +3,7 @@ title: River Valley High School
 permalink: /school-histories/river-valley-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleyhigh1.jpg">
 
@@ -72,7 +73,8 @@ Principals:<br>
 \- Mr Tham Tuck Meng (1993–2003)<br>
 \- Ms Ek Soo Ben (2003–2009)<br>
 \- Mr Koh Yong Chiah (2009–2012)<br>
-\- Mrs Teo Khin Hiang (2012–present)
+\- Mrs Teo Khin Hiang (2012–2021)<br>
+\- Mdm Choy Wai Yin (2022-present)<br>
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Christ Church Secondary School
 permalink: /school-histories/christ-church-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/christchurchsec1.jpg">
 
@@ -68,13 +69,14 @@ In January 2020, the Woodlands South MRT station was officially opened, opening 
 Today, CHR is proud to develop students into purposeful leaders who have the drive to excel, are thoughtful contributors and are active leaders.
 
 Principals:<br>
-\- Mr Victor Wee Tai Tien (1988–1990)<br>
-\- Mr David Chen Chee Kang (1990–1992)<br>
-\- Mr Koh Boon Long (1992–1997)<br>
-\- Mr Victor Giam Chong Guan (1998–2002)<br>
-\- Mr Ang Chee Seng (2002–2008)<br>
-\- Mrs Yeo Chin Nam (2009–2014)<br>
-\- Mr David Lau Yan Boon (2015–present)
+\- Mr Victor Wee Tai Tien (1988 – 1990)<br>
+\- Mr David Chen Chee Kang (1990 – 1992)<br>
+\- Mr Koh Boon Long (1992 – 1997)<br>
+\- Mr Victor Giam Chong Guan (1998 – 2002)<br>
+\- Mr Ang Chee Seng (2002 – 2008)<br>
+\- Mrs Yeo Chin Nam (2009 – 2014)<br>
+\- Mr David Lau Yan Boon (2015 – 2021)<br>
+\- Mr Adrian Tay Juncheng (2022 – Current)
 
 #### **Key Milestones**
 

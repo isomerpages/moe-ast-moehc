@@ -15,35 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRKnZn4dXaLyYpaixlpIZcxi6k-Om5uMq5oQqRAzuCTz4NZuimg0gwEVf6VsESKEFIUzgfNVCaFMU7/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/marsilingsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec2.jpg">
-</a></p>
-
-<p><a href="/images/marsilingsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec3.jpg">
-</a></p>
-
-<p><a href="/images/marsilingsec4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/marsilingsec4.jpg">
-</a></p>
-
-<p><a href="/images/marsilingsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec5.jpg">
-</a></p>
-
-<p><a href="/images/marsilingsec6.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/marsilingsec6.jpg">
-</a></p>
-
-<p><a href="/images/marsilingsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec7.jpg">
-</a></p>
-
-<p><a href="/images/marsilingsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marsilingsec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 2000, Marsiling Secondary School began operations from the premises of Woodgrove Secondary School. The school relocated to 12 Marsiling Road in 2002 and had its official opening ceremony in 2003. It gained niche status in environment education and became the Centre of Excellence for the Environment in 2007. For its industrious and creative efforts, the school clinched the President’s Award for the Environment in 2012.

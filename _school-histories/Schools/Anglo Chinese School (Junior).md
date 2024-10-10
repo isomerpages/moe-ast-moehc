@@ -3,6 +3,7 @@ title: Anglo Chinese School (Junior)
 permalink: /school-histories/acs-junior/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/acsjunior1.png">
 
@@ -68,7 +69,8 @@ Principals:<br>
 * Mdm Gladys Chia Nyat Tshin (1994–1999)<br>
 * Mr Peter Tan Chong Tze (1999–2007)<br>
 * Mrs Kathryn Koh (2007–2015)<br>
-* Mrs Chaillan Mui Tuan (2015–present)
+* Mrs Chaillan Mui Tuan (2015–2021)<br>
+* Miss Cheryl Chee Chuern Hwei (2022-present)
 
 
 #### **Key Milestones**

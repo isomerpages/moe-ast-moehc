@@ -3,6 +3,7 @@ title: New Town Secondary School
 permalink: /school-histories/new-town-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/newtownsec1.jpg">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9CCQu1K_LxCK55ga3hqvsmqFE-JJTD--dUoiIBALssQWhvbOiX-JMJwqdAqXmfIFrGePwB6-D7YO6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/newtownsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec2.jpg">
-</a></p>
-
-<p><a href="/images/newtownsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec3.jpg">
-</a></p>
-
-<p><a href="/images/newtownsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/newtownsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec5.jpg">
-</a></p>
-
-<p><a href="/images/newtownsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec6.jpg">
-</a></p>
-
-<p><a href="/images/newtownsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/newtownsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec8.jpg">
-</a></p>
-
-<p><a href="/images/newtownsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 New Town Secondary School has been preparing the young for success for more than 50 years. Established in 1965, the school started operations in Queenstown, providing education to students in both the Chinese and English streams. By 1975, it was the largest school in Singapore with 3,540 students. In 1987, the Chinese-medium classes ceased but the school opened its doors to pre-university students. The pre-university classes were subsequently closed in 1991 for the school to focus on providing secondary education. In 1992, the school became single-session. In 1998, New Town Secondary School relocated to its current premises on Dover Road to meet the growing demand of the schooling needs of residents in Clementi and West Coast.
@@ -74,7 +38,8 @@ Principals:<br>
 \- Mdm Oen Siew Yock (1998–2004)<br>
 \- Mdm Neo Lay Wah (2004–2010)<br>
 \- Ms Wong Yu Yuh (2011–2015)<br>
-\- Mrs Sng Siew Hong (2016–present)
+\- Mrs Sng Siew Hong (2016–2022)<br>
+\- Mr Ari Manickam (2023 - present) 
 
 #### **Key Milestones**
 

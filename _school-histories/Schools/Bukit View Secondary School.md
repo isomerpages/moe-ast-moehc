@@ -3,6 +3,7 @@ title: Bukit View Secondary School
 permalink: /school-histories/bukit-view-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bukitviewsec1.jpg">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXILZXn0UCoCgG8_z4gGRamI9X7z3LMTOIawVGl3k9nBwMGWzsz7-cZwl_ZDs6G_rIe_IdiWnzwgGV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/bukitviewsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec2.jpg">
-</a></p>
 
-<p><a href="/images/bukitviewsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec3.jpg">
-</a></p>
-
-<p><a href="/images/bukitviewsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitviewsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec5.jpg">
-</a></p>
-
-<p><a href="/images/bukitviewsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec6.jpg">
-</a></p>
-
-<p><a href="/images/bukitviewsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec7.jpg">
-</a></p>
-
-<p><a href="/images/bukitviewsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec8.jpg">
-</a></p>
-
-<p><a href="/images/bukitviewsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitviewsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1986, Bukit View Secondary School (BVSS) began operations with an intake of about 450 students and 15 teaching staff. The school has since been noted for its culture of green conservation. In 1999, the school became single-session, and in the same year, adopted the two-hectare Mandai Forest in a forest restoration project. From 2000 to 2010, the school strengthened its green efforts, setting up various authentic learning spaces including its first solar panel, which powers the water sprinkler in its ecogarden.
@@ -73,7 +40,8 @@ Principals:<br>
 \- Mr James Ong Chye Hin (1998–2004)<br>
 \- Mrs Tan Lay Hong (2004–2010)<br>
 \- Mr Vasuthevan s/o K. Ramamurthy (2010–2018)<br>
-\- Mr Kevin Ang (2018–present)
+\- Mr Kevin Ang (2018–2022)<br>
+\- Mr Jaswant Singh (2023 - present)
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Commonwealth Secondary School
 permalink: /school-histories/commonwealth-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/commonwealthsec1.jpg">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-C40_TKv1I-lQB1HoDVNiWayAX2KYnpd_G5D5n28HQrJbiU9haeCaDnrkQB-06wIl1z2cZLHqiZtO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/commonwealthsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec2.jpg">
-</a></p>
-
-<p><a href="/images/commonwealthsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec3.jpg">
-</a></p>
-
-<p><a href="/images/commonwealthsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/commonwealthsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec5.jpg">
-</a></p>
-
-<p><a href="/images/commonwealthsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec6.jpg">
-</a></p>
-
-<p><a href="/images/commonwealthsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/commonwealthsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec8.jpg">
-</a></p>
-
-<p><a href="/images/commonwealthsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/commonwealthsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1964, Commonwealth Secondary School started as Tanglin Integrated Vocational Secondary School and was one of the earliest schools to cater to children living in Queenstown. The school became known as Tanglin Secondary School in 1969, and was renamed Commonwealth Secondary School in 1972 to commemorate the first meeting of the Commonwealth heads of government, which was held in Singapore the year before.
@@ -75,7 +39,8 @@ Principals:<br>
 \- Mrs Teo Khin Hiang (2005–2008)<br>
 \- Mrs Cheah Mei Ling (2009–2012)<br>
 \- Mr Aaron Loh Hong Oon (2013–2017)<br>
-\- Mr Ng Boon Kiat (2018–present)
+\- Mr Ng Boon Kiat (2018-2022)<br>
+\- Mr Jeremy Ang (2023 - present)
 
 #### **Key Milestones**
 

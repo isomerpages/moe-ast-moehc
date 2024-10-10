@@ -3,6 +3,7 @@ title: Jurong Pioneer Junior College
 permalink: /school-histories/jpjc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jpjc1.png">
 
@@ -14,9 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgrTTgo33PvwB43Gm1DseLQtHS-uc2nf5z6J5jyD6NIKbdyIMXmgLYIDK1TkSN0OOKWCGzymEIJ3vP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/jpjc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jpjc2.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -26,7 +24,8 @@ Jurong Pioneer Junior College (JPJC) was established in 2019 through the merger 
 Since its inception in 2019, JPJC has embarked on its mission to nurture active learners, innovative thinkers and compassionate leaders who have confidence for the future. This is done by providing an all-rounded education for its students through a suite of academic and co-curricular programmes drawn from the best offered by both parent colleges.
 
 Principal:<br>
-\- Dr Hang Kim Hoo (2019–present)
+\- Dr Hang Kim Hoo (2019–2022)
+\- Mr Kelvin Ang Keng Jin (2023 - present)
 
 **Related Schools: [Jurong Junior College](/school-histories/jurong-jc/) | [Pioneer Junior College](/school-histories/jpjc/)**
 

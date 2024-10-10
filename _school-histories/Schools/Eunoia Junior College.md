@@ -3,6 +3,7 @@ title: Eunoia Junior College
 permalink: /school-histories/eunoia-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/eunoiajc1.jpg">
 
@@ -56,7 +57,8 @@ The college offers three Ministry of Education special programmes: Bicultural St
 Eunoia Junior College enrolled its first three cohorts of students at a holding site at Mount Sinai Road before moving into its permanent Bishan campus in December 2019. The Bishan campus is situated at the junction of Sin Ming Avenue and Marymount Road, overlooking Bishan-Ang Mo Kio Park and both Bishan and Ang Mo Kio estates.
 
 Principals:<br>
-\- Mrs Wong-Cheang Mei Heng (2014–present)
+\- Mrs Wong-Cheang Mei Heng (2014–2021)<br>
+\- Mr Andrew Tan Eng Hian (2022–present) <br>
 
 #### **Key Milestones**
 

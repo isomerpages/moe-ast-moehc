@@ -3,6 +3,7 @@ title: Dunman High School
 permalink: /school-histories/dunman-high/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/dunmanhigh1.jpg">
 
@@ -74,7 +75,8 @@ Principals:<br>
 \- Mr Tan Thiam Hock (1998–2004)<br>
 \- Mr Sng Chern Wei (2004–2009)<br>
 \- Dr Foo Suan Fong (2010–2016)<br>
-\- Mr Low Teck Eng Tony (2016–present)
+\- Mr Low Teck Eng Tony (2016–2021)<br>
+\- Mr Chan Ying Yin (2022 - present)
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Hai Sing Catholic School
 permalink: /school-histories/hai-sing-catholic-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/haisingcatholic1.jpg">
 
@@ -13,33 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTscFKhrHIAGzWxWkHkwLBLXCzetOXC_qhY8gJKD-xb_TBS-xlBzxnsocuVDu71CTR3zYfzijhgWs3v/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/haisingcatholic2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haisingcatholic2.jpg">
-</a></p>
 
-<p><a href="/images/haisingcatholic3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haisingcatholic3.jpg">
-</a></p>
-
-<p><a href="/images/haisingcatholic4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haisingcatholic4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/haisingcatholic5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haisingcatholic5.jpg">
-</a></p>
-
-<p><a href="/images/haisingcatholic6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haisingcatholic6.jpg">
-</a></p>
-
-<p><a href="/images/haisingcatholic7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haisingcatholic7.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 The Franciscan Missionaries of Mary sisters, under the leadership of Sister Theresa Tsang, founded Hai Sing Girls’ High School in 1959. It started as a Chinese-medium school in Serangoon, present-day Hougang. With an enrolment of 170 female students, it held lessons at CHIJ Punggol Convent, a primary school.
@@ -65,7 +40,8 @@ Principals:<br>
 \- Mrs Mary Koh (2000–2006)<br>
 \- Mr Charles L. Surin (2006–2010)<br>
 \- Mrs Judina Cheong (2010–2016)<br>
-\- Mr Daniel Ang (2017–present)
+\- Mr Daniel Ang (2017–2022)<br>
+\- Miss Adeline Lim (2023 - present)
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Outram Secondary School
 permalink: /school-histories/outram-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/outramsec1.jpg">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSv1e-nRv4xk9ijGqnjFKP9R8_6wAhehIOiUqXTv5Jd2e0ZB3GNiRMZw9jvzwnzippL1KFoRy0evzOd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/outramsec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec2.jpg">
-</a></p>
-
-<p><a href="/images/outramsec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec3.jpg">
-</a></p>
-
-<p><a href="/images/outramsec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec4.jpg">
-</a></p>
-
-<p><a href="/images/outramsec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/outramsec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec6.jpg">
-</a></p>
-
-<p><a href="/images/outramsec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec7.jpg">
-</a></p>
-
-<p><a href="/images/outramsec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec8.jpg">
-</a></p>
-
-<p><a href="/images/outramsec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/outramsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Outram Road School was established on 26 February 1906. In 1939, the school was renamed Outram School, and was a feeder primary school to Raffles Institution until the fall of Singapore in February 1942.
@@ -106,7 +72,8 @@ Principals:<br>
 \- Mrs Serene Pang (2003)<br>
 \- Mdm Choy Wai Yin (2004)<br>
 \- Mr Loh Cheung Ming (2010)<br>
-\- Mr Boo Hian Kok (2015–present)
+\- Mr Boo Hian Kok (2015–2022)<br>
+\- Mr Tan Kok Hong (2023 - present) 
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Serangoon Secondary School
 permalink: /school-histories/serangoon-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/srsec1.png">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQukGLG9M7jkxVus88jCX-2VsWfNWnbtyDDJUaGfBxEEXUqq7d1ZC9LOh5PITsFEoyL1dMfRwST01Ep/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/srsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec2.jpg">
-</a></p>
 
-<p><a href="/images/srsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec3.jpg">
-</a></p>
-
-<p><a href="/images/srsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/srsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec5.jpg">
-</a></p>
-
-<p><a href="/images/srsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec6.jpg">
-</a></p>
-
-<p><a href="/images/srsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/srsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec8.jpg">
-</a></p>
-
-<p><a href="/images/srsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/srsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.

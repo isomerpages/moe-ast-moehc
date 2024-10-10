@@ -3,6 +3,7 @@ title: Victoria Junior College
 permalink: /school-histories/victoria-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img src="/images/victoriajc1.png" style="width:20%;margin-right:15px;" align="left">
 
@@ -66,8 +67,9 @@ In 2005, VJC started the Victoria Integrated Programme in which selected student
 Principals:<br>
 \- Mrs Lee Phui Mun (1984–2001)<br>
 \- Mrs Chan Khah Gek (2001–2006)<br>
-\- Mr Chan Poh Meng (2007–2013)<br>
-\- Ms Ek Soo Ben (2013–present)
+\- Mr Chan Poh Meng (2007–2012)<br>
+\- Ms Ek Soo Ben (2013–2021)<br>
+\- Mr Jeffrey Low Swee Heng (2022 - present) <br>
 
 #### **Key Milestones**
 

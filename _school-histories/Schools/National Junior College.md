@@ -3,6 +3,7 @@ title: National Junior College
 permalink: /school-histories/national-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/njc1.jpg">
 
@@ -14,40 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFyymA7mcFxcCE2EyPuMPOh_tZtdPeulluqs0yeangTB6qxwflElISwZzM-QCcOK7gZJHc2LdmUmr2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/njc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc2.jpg">
-</a></p>
-
-<p><a href="/images/njc3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc3.jpg">
-</a></p>
-
-<p><a href="/images/njc4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/njc5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc5.jpg">
-</a></p>
-
-<p><a href="/images/njc6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc6.jpg">
-</a></p>
-
-<p><a href="/images/njc7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc7.jpg">
-</a></p>
-
-
-<p><a href="/images/njc8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc8.jpg">
-</a></p>
-
-<p><a href="/images/njc9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/njc9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -74,7 +41,8 @@ Principals:<br>
 \- Mrs Goh Chi Lan (1989–1995)<br>
 \- Mrs Maureen Ng Boey Lin (1996–2001)<br>
 \- Mrs Virginia Cheng (2002–2013)<br>
-\- Mr Ang Pow Chew (2014–present)
+\- Mr Ang Pow Chew (2014–2022)<br>
+\- Mrs Lucy Toh (2023 - present) 
 
 #### **Key Milestones**
 

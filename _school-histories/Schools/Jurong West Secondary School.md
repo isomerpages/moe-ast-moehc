@@ -3,6 +3,7 @@ title: Jurong West Secondary School
 permalink: /school-histories/jurong-west-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/jurongwestsec1.png">
 
@@ -70,7 +71,8 @@ Over the years, the school has established itself as a choice school with severa
 Principals:<br>
 \- Mr Oliver Balasingam (2001-2008) <br>
 \- Mr Gan Chee Hau (2008-2014) <br>
-\- Mr Michael Muhunthan (2015-present)
+\- Mr Michael Muhunthan (2015-2021)<br>
+\- Miss Tan Ming Ming (2022-present)<br>
 
 #### **Key Milestones**
 

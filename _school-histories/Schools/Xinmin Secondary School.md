@@ -3,6 +3,7 @@ title: Xinmin Secondary School
 permalink: /school-histories/xinmin-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/xinminsec1.png">
 
@@ -14,42 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbs8J0ij7SrXQ6nI08W6u0EvRnocHC7PRE0RpZqixkKfVyvXkBrWs4QC3iiW1Vg_Jk8tC2pJxIv8OU/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<p><a href="/images/xinminsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec2.jpg">
-</a></p>
-
-<p><a href="/images/xinminsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec3.jpg">
-</a></p>
-
-<p><a href="/images/xinminsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec4.jpg">
-</a></p>
-
-<p><a href="/images/xinminsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec5.jpg">
-</a></p>
-
-<p><a href="/images/xinminsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/xinminsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec7.jpg">
-</a></p>
-
-<p><a href="/images/xinminsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec8.jpg">
-</a></p>
-
-<p><a href="/images/xinminsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/xinminsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 In 1945, Sin Min School was established to provide educational opportunities to the Hougang-Serangoon community. Eventually, the school became an English-medium school, and the primary section separated as a government primary school.
@@ -77,7 +42,8 @@ Principals:<br>
 \- Mrs Low-Sim Ay Nar (2002–2007)<br>
 \- Mdm Liew Wei Li (2007–2011)<br>
 \- Mrs Ong Hong Peng (2011–2018)<br>
-\- Mr Tan Kuo Cheang (2018–present)
+\- Mr Tan Kuo Cheang (2018–2022)<br>
+\- Mr Tab Soon Hui (2023 - present) 
 
 #### **Key Milestones**
 

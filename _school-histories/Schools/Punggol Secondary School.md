@@ -3,6 +3,7 @@ title: Punggol Secondary School
 permalink: /school-histories/punggol-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/punggolsec1.png">
 
@@ -14,37 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_Cy295lBSXSL_VujG3ES06SUGglstP6qO6W17FfkK7Zq1c1Kh6U20nk0jTyO3OxTwz-zzw1iwD9h2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/punggolsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec2.jpg">
-</a></p>
-
-<p><a href="/images/punggolsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec3.jpg">
-</a></p>
-
-<p><a href="/images/punggolsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/punggolsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec5.jpg">
-</a></p>
-
-<p><a href="/images/punggolsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec6.jpg">
-</a></p>
-
-<p><a href="/images/punggolsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec7.jpg">
-</a></p>
-
-<p><a href="/images/punggolsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolsec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Punggol Secondary School was established in 1957 as the Chinese-medium Singapore Girls’ Vocational High School, located on Oxley Road. In 1977, the school was relocated to Toa Payoh East and renamed Pei Dao Secondary School in the following year. It offered English-stream classes and became co-educational. In 1986, Pei Dao relinquished its aided-school status and became a government school.
@@ -63,7 +33,8 @@ Principals:<br>
 \- Mr Goh Soon Guan (2001–2004)<br>
 \- Mdm Lee Eet Fong (2005–2011)<br>
 \- Mr Benedict Keh (2012–2018)<br>
-\- Mrs Angeline Huang (2019-present)
+\- Mrs Angeline Huang (2019-2022)<br>
+\- Ms Valerie Tng (2023 - present) 
 
 #### **Key Milestones**
 
