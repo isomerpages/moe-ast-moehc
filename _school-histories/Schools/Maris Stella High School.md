@@ -3,6 +3,7 @@ title: Maris Stella High School
 permalink: /school-histories/maris-stella-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:15%;margin-right:15px;" src="/images/marrisstellahighsch1.png">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQVCoW8-G1t8zQbEozWZ69BFORFV9HAS0rWfK7gNsH3AscKyyRKfYoYH12Qy0LubbsB-mWGP1YO1UxF/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/marrisstellahighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marrisstellahighsch2.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/marrisstellahighsch4.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/marrisstellahighsch3.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marrisstellahighsch5.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marrisstellahighsch6.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch8.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/marrisstellahighsch8.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marrisstellahighsch7.jpg">
-</a></p>
-
-<p><a href="/images/marrisstellahighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marrisstellahighsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Maris Stella High School had a humble beginning. Reverend Brother J. Chanel Soon founded the school in 1958 out of borrowed classrooms to meet the high demand for education in postwar Singapore. Anchored on the values of the Marist Congregation, Brother Chanel accepted boys seeking education regardless of race and religion. A staff of 11 including the principal, taught the pioneer batch of four Primary One classes and four Secondary One classes in the afternoon at St Stephen’s Primary School. When the school expanded, the school operated out of different premises concurrently up to 1966.
@@ -62,7 +30,8 @@ Principals:<br>
 \- Rev Bro John Lek (1982–1983)<br>
 \- Rev Bro Anthony Tan (1984–2009)<br>
 \- Mr Joseph Lim (2009–2015)<br>
-\- Mrs Woo Soo Min (2015–present)
+\- Mrs Woo Soo Min (2015–2022) <br>
+\- Mr Boy Eng Seng (2023 - present)
 
 #### **Key Milestones**
 
