@@ -3,6 +3,7 @@ title: Methodist Girls' School
 permalink: /school-histories/methodist-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/methodistgirlssch1.png">
 
@@ -83,7 +84,8 @@ Principals:<br>
 \- Mrs Anna Tham (1977–1994)<br>
 \- Ms Kon Mei Leen (1994–2007)<br>
 \- Mrs Shirleen Ong (2008–2013)<br>
-\- Ms Grace Ng (2014–present)
+\- Ms Grace Ng (2014–2021)<br>
+\- Mdm Valarie Koh Ming-Li (2022-present)<br>
 
 #### **Key Milestones**
 
