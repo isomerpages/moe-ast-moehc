@@ -3,6 +3,7 @@ title: Chung Cheng High School (Yishun)
 permalink: /school-histories/chung-cheng-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chungchenghighyishun1.jpg">
 
@@ -69,7 +70,8 @@ Principals<br>
 \- Mr Yap Juye Long (1999–2006)<br>
 \- Mr Ong Kock Hua (2007–2012)<br>
 \- Mr Yap Thiam Chuan (2012–2018)<br>
-\- Mr Tan Yee Kan (2019–present)
+\- Mr Tan Yee Kan (2019–2021)<br>
+\- Mr Chia Guo Hao 92022-present)<br>
 
 #### **Key Milestones**
 
