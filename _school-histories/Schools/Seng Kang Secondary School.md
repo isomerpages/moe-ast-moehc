@@ -3,6 +3,7 @@ title: Seng Kang Secondary School
 permalink: /school-histories/seng-kang-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sengkangsec1.png">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6tBj4reD1j7V-dm9YQnpNuzvZYcbSdKdWkjPU2o66Vqc4cPX8PNPM7h_aBrpFhqe_ORVwluzx6fAp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/sengkangsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec2.jpg">
-</a></p>
 
-<p><a href="/images/sengkangsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec3.jpg">
-</a></p>
-
-<p><a href="/images/sengkangsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sengkangsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec5.jpg">
-</a></p>
-
-<p><a href="/images/sengkangsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec6.jpg">
-</a></p>
-
-<p><a href="/images/sengkangsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sengkangsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec8.jpg">
-</a></p>
-
-<p><a href="/images/sengkangsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Seng Kang Secondary School (SKSS) was established on 4 January 1999 as the first secondary school in the Sengkang housing estate. In Chinese, ‘Seng Kang’ means ‘Success and Good Health’. The school was first located at the former premises of Hai Sing Girls’ High at 1192 Upper Serangoon Road until 12 March 1999, when it moved to its present site at 10 Compassvale Lane. 
