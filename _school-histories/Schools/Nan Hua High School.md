@@ -3,6 +3,7 @@ title: Nan Hua High School
 permalink: /school-histories/nan-hua-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanhuahighsch1.jpg">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6i6LJs15odbxLL0l6bKb5p7B69zDsfnzG70uqe78wpzjF76ExYbKv7gvO_9X2bPVUS6qTz-Hlntxo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanhuahighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch2.jpg">
-</a></p>
-
-<p><a href="/images/nanhuahighsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch3.jpg">
-</a></p>
-
-<p><a href="/images/nanhuahighsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanhuahighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch5.jpg">
-</a></p>
-
-<p><a href="/images/nanhuahighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch6.jpg">
-</a></p>
-
-<p><a href="/images/nanhuahighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanhuahighsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch8.jpg">
-</a></p>
-
-<p><a href="/images/nanhuahighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuahighsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 In 1917, Nan Hwa Girls’ School was set up as a Chinese-medium school on Coleman Street by the then principal of Tao Nan School, Mr Xiong Shangfu, with financial support from a group of Cantonese businessmen who wanted to promote girls’ education. In 1921, the school was relocated to Bencoolen Street. To cater to a growing enrolment, a new campus was built on Adis Road. In 1941, the school operated at two locations: the main school on Adis Road offered primary classes and teacher training classes, while the branch school on Bencoolen Street offered only primary classes. The school closed in 1942 during the Second World War and reopened in 1945.
@@ -86,7 +50,8 @@ Principals:<br>
 \- Ms Winnie Tan Swee Ling (1994–1998)<br>
 \- Mr Loh Leong Beng (1999–2003)<br>
 \- Dr Foo Suan Fong (2003–2009)<br>
-\- Mrs Tan Jong Lek (2010–present)
+\- Mrs Tan Jong Lek (2010–2022)<br>
+\- Mr Chiew Jing Wen (2023 - present)
 
 #### **Key Milestones**
 
