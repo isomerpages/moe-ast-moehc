@@ -12,9 +12,7 @@ variant: markdown
 <br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4Z5jATaiUp4mjN8kFMnUNxY0alPJvbzcWMcLv7C59fVYxYq2qJgyAqePx8Q9xGULekNDjtiF3RXDk/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/andersonsrjc2.jpg">  
-<img align="left" style="width:50%;margin-right:15px;" src="/images/andersonsrjc2.jpg">
-</a></p>
+
 
 <br clear="left">
 
