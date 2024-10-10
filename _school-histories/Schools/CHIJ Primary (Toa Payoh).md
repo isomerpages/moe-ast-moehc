@@ -3,6 +3,7 @@ title: CHIJ Primary (Toa Payoh)
 permalink: /school-histories/chij-pri-tpy/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijpritpy1.png">
 
@@ -77,7 +78,9 @@ Principals:<br>
 \- Mdm Mary Gomez (1984–1991)<br>
 \- Mrs Lau Swee Chin (1992–2001)<br>
 \- Mrs Magdalene Bheem (2002–2009)<br>
-\- Dr Margaret Lee (2009–present)
+\- Dr Margaret Lee (2009–2021)<br>
+\-Mdm Judina Chua Sook Lian (2022-present)
+
 
 #### **Key Milestones**
 
