@@ -15,41 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaWFX5oSyhiM1AySu5RJUoWGnO-qQFZg65mvh247l-URwmFe1QvnFKqw6ga6RejxuzrL7Fxql0DHih/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/ccksec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec2.jpg">
-</a></p>
-
-<p><a href="/images/ccksec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec3.jpg">
-</a></p>
-
-<p><a href="/images/ccksec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec4.jpg">
-</a></p>
-
-<p><a href="/images/ccksec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ccksec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec6.jpg">
-</a></p>
-
-<p><a href="/images/ccksec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec7.jpg">
-</a></p>
-
-<p><a href="/images/ccksec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec8.jpg">
-</a></p>
-
-<p><a href="/images/ccksec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ccksec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Chua Chu Kang Secondary School was established in 1992 as the first secondary school in Choa Chu Kang Town. The school has since operated from its premises at Teck Whye Crescent.
