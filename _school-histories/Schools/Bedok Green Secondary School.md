@@ -3,6 +3,7 @@ title: Bedok Green Secondary School
 permalink: /school-histories/bedok-green-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bedokgreensec1.jpg">
 
@@ -62,8 +63,8 @@ Principals:<br>
 * Mrs Song Geok Hua (2001–2004)<br>
 * Mdm Tay Siok Hwa (2005–2011)<br>
 * Mr Lim Yu Kee (2012–2018)<br>
-* Mr Boy Eng Seng (2018–present)
-
+* Mr Boy Eng Seng (2018–2022)<br>
+* Mr Shaw Swee Tat (2023 – present)
 #### **Key Milestones**
 
 |  |  |
@@ -78,7 +79,7 @@ Principals:<br>
 | 2015 | Accorded Applied Learning Programme, ‘iInquire. iInnovate’ and Learning for Life Programme, ‘Building Character and Values through Performing Arts’. |
 | 2016 | Celebration of 15th anniversary. |
 | 2019 | Completion of Indoor Sports Hall. |
-|
+| 2023 | Ping Yi Secondary School merged with Bedok Green Secondary School to form Bedok Green Secondary School.
 
 #### **School Motto**
 Believe and Grow
