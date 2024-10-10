@@ -15,53 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGiwrHPSbgAoGcNa5mIOFsd1tKJur1LYMdrTHQsrQvtVpHrQnfmfJtYN7tVmTM_8W7A1obkr3SQjIZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/jurongvillesec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec2.jpg">
-</a></p>
-
-<p><a href="/images/jurongvillesec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec3.jpg">
-</a></p>
-
-<p><a href="/images/jurongvillesec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongvillesec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec5.jpg">
-</a></p>
-
-<p><a href="/images/jurongvillesec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec6.jpg">
-</a></p>
-
-<p><a href="/images/jurongvillesec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongvillesec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec8.jpg">
-</a></p>
-
-<p><a href="/images/jurongvillesec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec9.jpg">
-</a></p>
-
-<p><a href="/images/jurongvillesec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec10.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongvillesec11.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongvillesec11.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Jurongville Secondary School was established in 1994 as a government co-educational school, operating at the site of Commonwealth Secondary School. In 1996, the school relocated to its present premises at 202 Jurong East Avenue 1.&nbsp;
