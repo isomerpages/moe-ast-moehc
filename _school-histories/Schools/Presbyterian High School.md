@@ -3,6 +3,7 @@ title: Presbyterian High School
 permalink: /school-histories/presbyterian-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/presbyterianhighsch1.jpg">
 
@@ -73,7 +74,8 @@ Principals:<br>
 \- Mrs Serene Pang (1995–2001)<br>
 \- Mrs Caroline Tan (2002–2007)<br>
 \- Mr Lim Yan Hock (2008–2014)<br>
-\- Mr Victor Owyong (2015–present)
+\- Mr Victor Owyong (2015–2021)<br>
+\- Mrs Angeline Chan (2022-present)<br>
 
 #### **Key Milestones**
 
