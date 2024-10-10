@@ -72,7 +72,7 @@ Principals:<br>
 \- Mrs Lee Siew Choo (1997–2009) <br>
 \- Ms Pamela Yoong (2010–2014)<br>
 \- Mrs Quek Li Gek (2015–2021)<br>
-\- Mdm Amy Ng (2022-present)&gt;
+\- Mdm Amy Ng (2022-present)
 
 #### **Key Milestones**
 
