@@ -71,7 +71,7 @@ Principals<br>
 \- Mr Ong Kock Hua (2007–2012)<br>
 \- Mr Yap Thiam Chuan (2012–2018)<br>
 \- Mr Tan Yee Kan (2019–2021)<br>
-\- Mr Chia Guo Hao 92022-present)<br>
+\- Mr Chia Guo Hao (2022-present)<br>
 
 #### **Key Milestones**
 
