@@ -3,6 +3,7 @@ title: Compassvale Secondary School
 permalink: /school-histories/compassvale-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/compassvalesec1.jpg">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQBFuHkx19Wj9RKJHIAYx91DE55wmDb9Ml60wvPB2nYpjn16ewiCvUCajSVUXGAkZ-bdr6B6CQzu9Ok/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/compassvalesec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec2.jpg">
-</a></p>
 
-<p><a href="/images/compassvalesec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec3.jpg">
-</a></p>
-
-<p><a href="/images/compassvalesec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec4.jpg">
-</a></p>
-
-<p><a href="/images/compassvalesec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/compassvalesec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec6.jpg">
-</a></p>
-
-<p><a href="/images/compassvalesec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec7.jpg">
-</a></p>
-
-<p><a href="/images/compassvalesec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec8.jpg">
-</a></p>
-
-<p><a href="/images/compassvalesec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/compassvalesec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 2000, Compassvale Secondary School (CVSS) began operations from Sengkang Secondary School for six months before moving to its current premises at 51 Compassvale Crescent. In 2002, the school conceptualised the North Star Education Programme to provide a holistic education and quality school experience for students. Since 2005, students of Compassvale Secondary School have been called ‘North Stars’. The school aims to develop every student into a ‘North Star’, shining brightly with impeccable character and excellence in both academic and non-academic pursuits.
@@ -61,7 +28,8 @@ Principals:<br>
 \- Mrs Wong Mei Heng (2000–2004)<br>
 \- Mrs Ang Ju Lang (2005–2009)<br>
 \- Mdm Ong Teck Hui (2010–2015)<br>
-\- Mr Chia Chor Yann (2016–present)
+\- Mr Chia Chor Yann (2016–2022)<br>
+\- Mr Chua Tung Kian (2023 - present)
 
 #### **Key Milestones**
 
