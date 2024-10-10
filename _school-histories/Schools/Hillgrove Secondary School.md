@@ -3,6 +3,7 @@ title: Hillgrove Secondary School
 permalink: /school-histories/hillgrove-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:30%;margin-right:15px;" src="/images/hillgrovesec1.jpg">
 
@@ -69,7 +70,8 @@ Principals:<br>
 \- Mdm Thoo Mei Lan (2000–2002)<br>
 \- Mrs Yeow Lee Lin (2002–2008)<br>
 \- Mr Kenneth Lee Tee Chong (2008–2015)<br>
-\- Mrs Angeline Chan (2015–present)
+\- Mrs Angeline Chan (2015–2021)<br>
+\- Mdm Lee Ching Guan, Helen (2022 - present) <br>
 
 #### **Key Milestones**
 
