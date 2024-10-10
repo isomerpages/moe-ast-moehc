@@ -71,8 +71,8 @@ Principals:<br>
 * Mrs Tan So Wah (1996–2001)<br>
 * Mdm Dolly Ong (2002–2007)<br>
 * Mdm Mary Bay (2008–2014)<br>
-* Mr Mohd Azhar Bin Terimo (2015–2020)
-* Ms Britta Seet (2021 – Current)
+* Mr Mohd Azhar Bin Terimo (2015–2021)<br>
+* Ms Britta Seet (2022 – present)<br>
 
 **Related School:** **[First Toa Payoh Secondary School](/school-histories/first-tpy-sec/)**
 
