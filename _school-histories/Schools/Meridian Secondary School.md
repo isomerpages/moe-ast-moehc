@@ -3,6 +3,7 @@ title: Meridian Secondary School
 permalink: /school-histories/meridian-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/meridiansec1.jpg">
 
@@ -61,7 +62,8 @@ The school’s LLP aims to strengthen the development of character and values in
 In 2018, the school celebrated its first anniversary as one big Meridian family. To retain the heritage of the school, a gallery with information and artefacts from both schools was set up. The first alumni homecoming was also held that year.
 
 Principal:<br>
-\- Mrs Hilda Thong (2017–present)
+\- Mrs Hilda Thong (2017–2021)<br>
+\- Mr Mohamed Razali B Abdul Hamed (2022 - present)<br>
 
 **Related Schools: [Coral Secondary School](/school-histories/coral-sec/) | [Siglap Secondary School](/school-histories/siglap-sec/)**
 
