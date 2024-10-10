@@ -3,6 +3,7 @@ title: Hwa Chong Institution
 permalink: /school-histories/hwa-chong-institution/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/hwachonginstitution1.jpg">
 
@@ -66,9 +67,10 @@ The Hwa Chong experience is not just about academic excellence. All students und
 Today, many Hwa Chong alumni can be found contributing to the nation in diverse fields – from academia, entrepreneurship, public service to philanthropy.
 
 Principals:<br>
-\- Mr Ang Wee Hiong 洪伟雄 (2005–2009)<br>
-\- Dr Hon Chiew Weng 潘兆荣 (2010–2017)<br>
-\- Mr Pang Choon How 彭俊豪 (2018–present)
+\- Mr Ang Wee Hiong 洪伟雄 (2005 – 2009)<br>
+\- Dr Hon Chiew Weng 潘兆荣 (2010 – 2017)<br>
+\- Mr Pang Choon How 彭俊豪 (2018 – 2023)<br>
+\- Mr Lee Peck Ping 李白彬 (2024  – Current) <br>
 
 **Related Schools: [The Chinese High School](/school-histories/the-chinese-high-sch/) \| [Hwa Chong Junior College](/school-histories/hwa-chong-jc/)**
 
