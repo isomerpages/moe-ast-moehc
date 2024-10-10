@@ -3,6 +3,7 @@ title: West Spring Secondary School
 permalink: /school-histories/west-spring-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/westspringsec1.png">
 
@@ -65,7 +66,8 @@ Principals:<br>
 \- Mr Harpal Singh (2001–2005)<br>
 \- Mr Seet Tat Hee (2006–2011)<br>
 \- Mrs Betty Chow (2012–2017)<br>
-\- Mr Adolphus Tan (2018–present)
+\- Mr Adolphus Tan (2018–2021)<br>
+\- Mdm Belinda Yong Li Ling (2022-present)<br>
 
 #### **Key Milestones**
 
