@@ -15,39 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmHhc-aqwXkvrM5FHH5QqdsArMKpSYo2-dSW9vhdi-HRRa6X8PVU83aQDGohwUrBpu5aNgZ5POrYNT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/greenridgesec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec2.jpg">
-</a></p>
-
-<p><a href="/images/greenridgesec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec3.jpg">
-</a></p>
-
-<p><a href="/images/greenridgesec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/greenridgesec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec5.jpg">
-</a></p>
-
-<p><a href="/images/greenridgesec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec6.jpg">
-</a></p>
-
-<p><a href="/images/greenridgesec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/greenridgesec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/greenridgesec8.jpg">  
-<img align="left" style="width:25%;margin-left:25px;" src="/images/greenridgesec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 
