@@ -14,43 +14,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQBBsDq9U_Eg5hZc9q3_x5aOPbauIOuF3s7gH2d7sqqqn2whmyUKvNlrnMrnKUSr0SPQIwkfSX7oKs/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/springfieldsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec4.jpg">
-</a></p>
-
-<p><a href="/images/springfieldsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec2.jpg">
-</a></p>
-
-<p><a href="/images/springfieldsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec3.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/springfieldsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec7.jpg">
-</a></p>
-
-<p><a href="/images/springfieldsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec5.jpg">
-</a></p>
-
-<p><a href="/images/springfieldsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/springfieldsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec8.jpg">
-</a></p>
-
-<p><a href="/images/springfieldsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/springfieldsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 
