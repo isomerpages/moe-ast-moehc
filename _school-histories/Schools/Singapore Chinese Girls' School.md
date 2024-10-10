@@ -3,6 +3,7 @@ title: Singapore Chinese Girls' School
 permalink: /school-histories/singapore-chinese-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sgchigirls1.png">
 
@@ -63,7 +64,8 @@ Principals:<br>
 \- Ms Tan Sock Kern (1956–78)<br>
 \- Ms Rosalind Heng (1978–2006)<br>
 \- Mrs Low Ay Nar (2007–16)<br>
-\- Mrs Eugenia Lim (2016–present)
+\- Mrs Eugenia Lim (2016–2021)<br>
+\- Mdm Linda Chua Mui Mui (2022-present)<br>
 
 #### **Key Milestones**
 
