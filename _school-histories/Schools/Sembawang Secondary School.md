@@ -16,44 +16,6 @@ variant: markdown
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYDeXDil8pFpo8yyqPHf1tSKpy7r8EnWhcgQmkSJfGuuzcwIuRl23_xkUCGwALyY4ya_rrRfI805DP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/sbwsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec2.jpg">
-</a></p>
-
-<p><a href="/images/sbwsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec3.jpg">
-</a></p>
-
-<p><a href="/images/sbwsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sbwsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec5.jpg">
-</a></p>
-
-<p><a href="/images/sbwsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec6.jpg">
-</a></p>
-
-<p><a href="/images/sbwsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sbwsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec8.jpg">
-</a></p>
-
-<p><a href="/images/sbwsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwsec9.jpg">
-</a></p>
-
-<br clear="left">
-
 #### **School History**
 Established in 1999, Sembawang Secondary School is located at the bend of Sembawang Crescent, serving the needs of residents in the Sembawang estate. The school is currently in its 21st year of operations. It began operations with eight Secondary One classes of 320 students and 17 teachers.&nbsp;In 2001, the school was officially opened by former Minister for Education Dr Tony Tan.&nbsp;Sembawang Secondary School celebrated its 10th and 20th anniversary in 2008 and 2018 respectively.
 
