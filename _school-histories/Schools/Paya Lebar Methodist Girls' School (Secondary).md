@@ -3,6 +3,7 @@ title: Paya Lebar Methodist Girls' School (Secondary)
 permalink: /school-histories/paya-lebar-methodist-girls-sch-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/plmgssec1.jpg">
 
@@ -70,7 +71,8 @@ Principals:<br>
 \- Mrs Winnie Tan (1972–1997)<br>
 \- Mrs Lee Siew Choo (1997–2009) <br>
 \- Ms Pamela Yoong (2010–2014)<br>
-\- Mrs Quek Li Gek (2015–present)
+\- Mrs Quek Li Gek (2015–2021)<br>
+\- Mdm Amy Ng (2022-present)&gt;
 
 #### **Key Milestones**
 
