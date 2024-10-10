@@ -3,6 +3,7 @@ title: Yuying Secondary School
 permalink: /school-histories/yuying-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuyingsec1.jpg">
 
@@ -15,39 +16,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtp7Q-WuniaSlldp-2Gng0F7oAhLU-bHuj7aJckKf8bgSBPveOzBV3gtJV0Nl3pxb_057Syiz0Rf0z/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/yuyingsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec2.jpg">
-</a></p>
-
-<p><a href="/images/yuyingsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec3.jpg">
-</a></p>
-
-<p><a href="/images/yuyingsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuyingsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec5.jpg">
-</a></p>
-
-<p><a href="/images/yuyingsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec6.jpg">
-</a></p>
-
-<p><a href="/images/yuyingsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuyingsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuyingsec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yuying Secondary School was established as Yock Eng High School by the Hainanese community in 1910. Located on Prinsep Street, the Chinese-medium high school started with an enrolment of only 15 students. Over the years, as the enrolment grew, the School Management Board initiated a campaign to raise funds for new premises in 1939.&nbsp;
@@ -81,7 +49,8 @@ Principals:<br>
 \- Mr Loke Kay Kee (1998–2002)<br>
 \- Ms Ng Ngoing Keng (2003–2008)<br>
 \- Mr Goh Aik Choon (2009–2015)<br>
-\- Mr Lo Chee Lin (2016–present)
+\- Mr Lo Chee Lin (2016–2022) <br>
+\- Mr Chong Jack Sheng (2023 - present)
 
 #### **Key Milestones**
 
