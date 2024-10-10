@@ -3,6 +3,7 @@ title: Bartley Secondary School
 permalink: /school-histories/bartley-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bartleysec1.jpg">
 
@@ -70,7 +71,8 @@ Principals:<br>
 * Mrs Tan So Wah (1996–2001)<br>
 * Mdm Dolly Ong (2002–2007)<br>
 * Mdm Mary Bay (2008–2014)<br>
-* Mr Mohd Azhar Bin Terimo (2015–present)
+* Mr Mohd Azhar Bin Terimo (2015–2020)
+* Ms Britta Seet (2021 – Current)
 
 **Related School:** **[First Toa Payoh Secondary School](/school-histories/first-tpy-sec/)**
 
