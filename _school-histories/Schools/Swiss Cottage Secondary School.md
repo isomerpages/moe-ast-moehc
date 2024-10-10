@@ -3,6 +3,7 @@ title: Swiss Cottage Secondary School
 permalink: /school-histories/swiss-cottage-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/swisscottagepri7.png">
 
@@ -14,33 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRa39HZ2_pweUrLryOo1NRiwkDDQoqwFSYherrdBEWniLhGdkRg6wvJDTbv3Tbs8c0Fb83x-8ga3sUN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/swisscottagesec1.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec1.jpg">
-</a></p>
-
-<p><a href="/images/swisscottagesec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec2.jpg">
-</a></p>
-
-<p><a href="/images/swisscottagesec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec3.jpg">
-</a></p>
-
-<p><a href="/images/swisscottagesec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/swisscottagesec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec5.jpg">
-</a></p>
-
-<p><a href="/images/swisscottagesec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/swisscottagesec6.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Swiss Cottage Secondary School started in 1962, housed at the premises of Raffles Institution on Bras Basah Road. In July 1963, the school moved to the Swiss Cottage estate along Dunearn Road and was officially opened in November that year. In 1993, the school relocated to its present premises at 3 Bukit Batok Street 34. In 2013, the school celebrated its 50th anniversary.
@@ -56,7 +30,8 @@ Principals:<br>
 \- Ms Tay Lai Ling (2002–2007)<br>
 \- Mr Liu Earnler (2007–2012)<br>
 \- Mr Heng Yew Seng (2012–2017)<br>
-\- Mr Sherwin Cheng (2017–present)
+\- Mr Sherwin Cheng (2017–2022)<br>
+\- Mdm Mandy Cheng (2023 - present)
 
 #### **Key Milestones**
 
