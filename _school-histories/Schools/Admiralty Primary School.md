@@ -3,6 +3,7 @@ title: Admiralty Primary School
 permalink: /school-histories/admps/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img src="/images/admps.png" style="width:20%;margin-right:15px;" align="left">
 
@@ -11,44 +12,6 @@ third_nav_title: Schools
 <br clear="left">
 ### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOtzWhix_zP194_DZ-yQgKXQ39EHVmclHdHtCkA5qfwDdoVAF1AnGQn1ZkQ5fb8A/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-
-<p><a href="/images/admps1.jpg">  
-<img src="/images/admps1.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/admps2.jpg">  
-<img src="/images/admps2.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/admps3.jpg">  
-<img src="/images/admps3.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/admps4.jpg">  
-<img src="/images/admps4.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/admps6.jpg">  
-<img src="/images/admps6.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/admps8.jpg">  
-<img src="/images/admps8.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/admps7.jpg">  
-<img src="/images/admps7.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/admps5.jpeg">  
-<img src="/images/admps5.jpeg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<br clear="left">
 
 
 
@@ -69,7 +32,8 @@ Principals:<br>
 * Mr Freddie Kee (1997–2000) <br>
 * Mdm Lim Soh Lian (2001–2010)<br>
 * Mr Albert Alfred Alcantara (2011–2017)<br>
-* Mr Pek Wee Haur (2018–present)
+* Mr Pek Wee Haur (2018–2022)<br>
+* Mr Chen Zhongyi (2023 - present) 
 
 #### **Key Milestones**
 
