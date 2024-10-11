@@ -15,43 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFxBkze_Ea54Fd3slrFPOasWNR4AWJ-gCRq9i1kFmzQWO0N9_3gup_4sXoBLDbo1UoM9Pdb_1c1ng4/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanyangjc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc2.jpg">
-</a></p>
-
-<p><a href="/images/nanyangjc3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc3.jpg">
-</a></p>
-
-<p><a href="/images/nanyangjc4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanyangjc5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc5.jpg">
-</a></p>
-
-<p><a href="/images/nanyangjc6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc6.jpg">
-</a></p>
-
-<p><a href="/images/nanyangjc7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanyangjc8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc8.jpg">
-</a></p>
-
-<p><a href="/images/nanyangjc9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangjc9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Nanyang Junior College was established in the 1970s to meet the growing demand for junior college education. The Building Committee was formed in 1972 and construction of the college began in October 1976. Mr Chia Khoon Hock was appointed the Principal Designate on 1 August 1977.&nbsp; The college was initially named Lorong Chuan Junior College because of its location. On 19 November 1977, it was renamed Nanyang Junior College.
