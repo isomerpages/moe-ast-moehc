@@ -3,6 +3,7 @@ title: St Andrew's Junior School
 permalink: /school-histories/st-andrew-junior-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/standrewjuniorsch1.png">
 
@@ -14,40 +15,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTyMMep5sdsa5tCfFPiwvFNwOEIYRlwY1uAN5tYnl9rCN0cPr5vtHx3HUeFCN4-kJeNBjWEPBZ3Ywud/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/standrewjuniorsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch2.jpg">
-</a></p>
 
-<p><a href="/images/standrewjuniorsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch3.jpg">
-</a></p>
-
-<p><a href="/images/standrewjuniorsch4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/standrewjuniorsch4.jpg">
-</a></p>
-
-<p><a href="/images/standrewjuniorsch7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/standrewjuniorsch7.jpg">
-</a></p>
-
-<p><a href="/images/standrewjuniorsch5.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch5.jpg">
-</a></p>
-
-
-<p><a href="/images/standrewjuniorsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch6.jpg">
-</a></p>
-
-<p><a href="/images/standrewjuniorsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch8.jpg">
-</a></p>
-
-<p><a href="/images/standrewjuniorsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewjuniorsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 St. Andrew’s School was founded on 8 September 1862. It was then located at Chin Chew Street. The following year, on 10 September 1863, the school moved to Upper Hokkien Street because it needed a better building and more space for the growing school population. Later, the continually expanding school moved yet again to Victoria Street. In the 1870s, the British government gave the school a four-acre plot of land on the then Government Hill (present-day Fort Canning) with a frontage on Stamford Road. Here, the Chapel was constructed in 1875; later that year, the school shifted to the Stamford Road site. In 1940, the school moved to a new two-storey building with a sprawling campus in Woodsville.
@@ -72,7 +40,7 @@ Principals:<br>
 \- Mrs Wai Yin Pryke (2004–2010)<br>
 \- Mrs Wong Bin Eng (2011–2016)<br>
 \- Ms Patsy Neo Phei Tze (2016-2022) <br>
-\- Mrs Elsie Poey (2022 - present)
+\- Mrs Elsie Poey (2023 - present)
 
 #### **Key Milestones**
 
