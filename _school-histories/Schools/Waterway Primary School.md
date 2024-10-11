@@ -3,6 +3,7 @@ title: Waterway Primary School
 permalink: /school-histories/waterway-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/waterwaypri1.png">
 
@@ -14,49 +15,14 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSb90sTL9P8BXAbJRSA2NTfFcavAPLF0ZSQVka7lqWtJXU2pEjLqblXXwMJGo-iyGolNKh3Ik1ELJZg/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/waterwaypri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri2.jpg">
-</a></p>
 
-<p><a href="/images/waterwaypri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri3.jpg">
-</a></p>
-
-<p><a href="/images/waterwaypri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/waterwaypri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri5.jpg">
-</a></p>
-
-<p><a href="/images/waterwaypri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri6.jpg">
-</a></p>
-
-<p><a href="/images/waterwaypri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/waterwaypri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri8.jpg">
-</a></p>
-
-<p><a href="/images/waterwaypri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/waterwaypri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Located at 70 Punggol Drive, Waterway Primary School was established in 2016.
 
 Principal:<br>
-\- Mrs Wee-Kwan Liam (2016–present)
+\- Mrs Wee-Kwan Liam (2016–2022)<br>
+\- Mr Wilbur Wong (2023 - present)
 
 #### **Key Milestones**
 
