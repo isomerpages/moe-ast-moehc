@@ -3,6 +3,7 @@ title: Raffles Institution
 permalink: /school-histories/raffles-institution/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/ri1.png">
 
@@ -14,47 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSP-VC1-TCM0o3cbsneh27DZ_45al0qNnx1Rg2wTf8Il9kTrcpzlwMXXIj-T0zKWImwlFVFPQPZ2ayX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/ri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri2.jpg">
-</a></p>
-
-<p><a href="/images/ri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri3.jpg">
-</a></p>
-
-<p><a href="/images/ri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri5.jpg">
-</a></p>
-
-<p><a href="/images/ri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri6.jpg">
-</a></p>
-
-<p><a href="/images/ri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri8.jpg">
-</a></p>
-
-<p><a href="/images/ri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri9.jpg">
-</a></p>
-
-<p><a href="/images/ri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Raffles Institution (RI), formerly known as Singapore Institution, was founded by Sir Thomas Stamford Raffles in June 1823.
@@ -99,7 +59,8 @@ Principals (Raffles Institution):<br>
 \- Mr Koh Chin Nguang (2005–2008)<br>
 \- Mrs Lim Lai Cheng (2009–2013)<br>
 \- Mr Chan Poh Meng (2014–2017)<br>
-\- Mr Frederick Yeo (2018–present)
+\- Mr Frederick Yeo (2018–2023)<br>
+\- Mr Aaron Loh (2024 - present)
 
 **Related School: [Raffles Junior College](/school-histories/raffles-jc/)**
 
