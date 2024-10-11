@@ -3,6 +3,7 @@ title: Henry Park Primary School
 permalink: /school-histories/henry-park-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/henryparkpri1.jpg">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsGT28tUB2bomJsBPT-eaNGI7WS3F6j06jtmvGbiT4Ht-697IvYTB3kqs_2T2ftLKf3XkJWcrPJ7wN/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/henryparkpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri2.jpg">
-</a></p>
-
-<p><a href="/images/henryparkpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri3.jpg">
-</a></p>
-
-<p><a href="/images/henryparkpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/henryparkpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri5.jpg">
-</a></p>
-
-<p><a href="/images/henryparkpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri6.jpg">
-</a></p>
-
-<p><a href="/images/henryparkpri7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/henryparkpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/henryparkpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri8.jpg">
-</a></p>
-
-<p><a href="/images/henryparkpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/henryparkpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Henry Park Primary School was established on 23 March 1977 with 287 pupils and 13 teachers from other schools. It was officially opened on 7 April 1978.
@@ -75,7 +39,8 @@ Principals:<br>
 \- Mr Richard Lim Chew Hiong (1998–2004)<br>
 \- Mr Ng Teng Joo (2004–2012)<br>
 \- Mr Chia Soo Keng (2012–2017)<br>
-\- Mr Koh Chin Thong, Martin (2017–present)
+\- Mr Koh Chin Thong, Martin (2017–2022)<br>
+\- Mr Charles Chan Geok Ann (2023 - present)
 
 #### **Key Milestones**
 
