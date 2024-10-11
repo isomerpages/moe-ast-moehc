@@ -15,41 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRl_cJczAJnFovBnW73apQYwyjt-ysO6B_gzS_BXIGArbwTpy4aAC5FHaR1511R6LTaJS2tFamMa7oB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/telokkuraupri2.jpg">  
-<img align="left" style="width:28%;margin-right:30px;" src="/images/telokkuraupri2.jpg">
-</a></p>
-
-<p><a href="/images/telokkuraupri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri3.jpg">
-</a></p>
-
-<p><a href="/images/telokkuraupri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/telokkuraupri4.jpg">
-</a></p>
-
-<p><a href="/images/telokkuraupri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri5.jpg">
-</a></p>
-
-<p><a href="/images/telokkuraupri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/telokkuraupri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri7.jpg">
-</a></p>
-
-<p><a href="/images/telokkuraupri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri8.jpg">
-</a></p>
-
-<p><a href="/images/telokkuraupri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/telokkuraupri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1926, Telok Kurau Primary School was originally known as Telok Kurau English School. The school was housed in a two-storey wooden structure set amidst a vast coconut plantation on Telok Kurau Road. It sought to cater to a growing population eager to be educated in English. Singapore’s founding Prime Minister Mr Lee Kuan Yew and former Malaysian Prime Minister Tun Datuk Hussein Onn were students of the school.
@@ -70,7 +35,8 @@ Principals:<br>
 \- Mrs Chew Lai Mun (1998–2005)<br>
 \- Mr Wilbur Wong (2005–2013)<br>
 \- Mrs Charis Wong (2013–2019)<br>
-\- Miss Lau Wan Sze (2019–present)
+\- Miss Lau Wan Sze (2019–2022)<br>
+\- Mrs Grace Leong (2023 - present) 
 
 #### **Key Milestones**
 
