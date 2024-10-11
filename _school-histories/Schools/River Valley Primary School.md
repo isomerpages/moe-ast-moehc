@@ -3,6 +3,7 @@ title: River Valley Primary School
 permalink: /school-histories/river-valley-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rivervalleypri1.jpg">
 
@@ -14,35 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSY0mTd00woI2AJZKjNRv1OUt1mwx2lhlCyyYOjGi7wN5UuZF5VukER9nH1MjOtTD7iCQr_3l9U3KlA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/rivervalleypri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleypri2.jpg">
-</a></p>
-
-<p><a href="/images/rivervalleypri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/rivervalleypri4.jpg">
-</a></p>
-
-<p><a href="/images/rivervalleypri3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/rivervalleypri3.jpg">
-</a></p>
-
-<p><a href="/images/rivervalleypri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleypri5.jpg">
-</a></p>
-
-<p><a href="/images/rivervalleypri7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/rivervalleypri7.jpg">
-</a></p>
-
-<p><a href="/images/rivervalleypri6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/rivervalleypri6.jpg">
-</a></p>
-
-<p><a href="/images/rivervalleypri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rivervalleypri8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 River Valley Primary School (立化小学) was established in 1985 with the merger of three primary schools: River Valley Government Chinese Primary School, River Valley English School and Kim Seng Primary School. In 2004, the school relocated from its previous site at 341 River Valley Road to its present site at 2 River Valley Green under the PRIME upgrading programme. In 2005, the school was officially opened. In 2010, the school celebrated its 25th anniversary. In 2015, River Valley Primary School was accorded the Learning for Life Programme in community service and student leadership. In 2017, River Valley Primary School completed its PERI upgrading.
@@ -53,7 +25,8 @@ Principals:<br>
 \- Mrs Tan Khar Guek (1995–2002)<br>
 \- Mrs Sita Singh (2002–2009)<br>
 \- Mr Poh Leong Kiat Danny (2009–2015)<br>
-\- Mdm Wong Li Peng (2015–present)
+\- Mdm Wong Li Peng (2015–2022)<br>
+\- Mrs Jennifer Pang (2023 - present) 
 
 #### **Key Milestones**
 
