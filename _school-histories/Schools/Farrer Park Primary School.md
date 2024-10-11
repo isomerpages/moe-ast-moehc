@@ -15,43 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvSfLZE2B6iUMU8JI3YvTjrAtGGHHRfYjdSRWEiqh13XV7WG536v1MNOjSSx_v2bTiEuzKcIPwmuE5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/farrerparkpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri2.jpg">
-</a></p>
-
-<p><a href="/images/farrerparkpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri3.jpg">
-</a></p>
-
-<p><a href="/images/farrerparkpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/farrerparkpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri5.jpg">
-</a></p>
-
-<p><a href="/images/farrerparkpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri6.jpg">
-</a></p>
-
-<p><a href="/images/farrerparkpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/farrerparkpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri8.jpg">
-</a></p>
-
-<p><a href="/images/farrerparkpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/farrerparkpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Farrer Park Primary School was established in 2002 due to the merger of Boon Keng Primary School and May Primary School.
@@ -66,7 +29,8 @@ Principals:<br>
 \- Mrs Koe Poh Tee (2002–2005)<br>
 \- Mr Mohd Mansor S.A. Kadir (2005–2008)<br>
 \- Mdm Loe Lai Pibk (2008–2015)<br>
-\- Ms Cheong Hwee Khim (2015–present)
+\- Ms Cheong Hwee Khim (2015-2022)<br>
+\- Mr Dennis Yap Swee Beng (2023 - present)<br> 
 
 #### **Key Milestones**
 
