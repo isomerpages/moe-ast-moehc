@@ -3,6 +3,7 @@ title: Punggol Cove Primary School
 permalink: /school-histories/punggol-cove-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/punggolcovepri1.png">
 
@@ -14,29 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8WqX_1MbsoeGZWeoboPSk77pK_ybbFYC3IUdJgIO5wd95sf_3RaegopYHk3B1XEMsI6wTIPhXIysL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/punggolcovepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri2.jpg">
-</a></p>
-
-<p><a href="/images/punggolcovepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri3.jpg">
-</a></p>
-
-<p><a href="/images/punggolcovepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/punggolcovepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri5.jpg">
-</a></p>
-
-<p><a href="/images/punggolcovepri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolcovepri6.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Punggol Cove Primary School (湾景小学) was established in January 2016 at its current site at Sumang Walk, and officially opened on 3 August 2018.
@@ -46,7 +24,8 @@ In 2017, the school developed its Applied Learning Programme known as Holistic E
 In January 2018, the Ministry of Education Kindergarten @ Punggol Cove joined Punggol Cove Primary School and started operations in the school.
 
 Principal:<br>
-\- Mr Dennis Yap (2016–present)
+\- Mr Dennis Yap (2016–2022)<br>
+\- Mdm Seah Whye Choo (2023 - present)
 
 #### **Key Milestones**
 
