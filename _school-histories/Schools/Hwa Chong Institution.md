@@ -15,41 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRZsbg47CS1gp2rjlz7drdOWr0-v_tX3A8uXu1tDvTh4a1Uf4jc5mLWK_iZ02Or4ozAbGnGuHEO2SmI/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/hwachonginstitution2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution2.jpg">
-</a></p>
-
-<p><a href="/images/hwachonginstitution4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/hwachonginstitution4.jpg">
-</a></p>
-
-<p><a href="/images/hwachonginstitution3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution3.jpg">
-</a></p>
-
-<p><a href="/images/hwachonginstitution6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution6.jpg">
-</a></p>
-
-<p><a href="/images/hwachonginstitution5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/hwachonginstitution8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution8.jpg">
-</a></p>
-
-<p><a href="/images/hwachonginstitution7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution7.jpg">
-</a></p>
-
-<p><a href="/images/hwachonginstitution9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hwachonginstitution9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Hwa Chong Institution (HCI) has a rich history of over 100 years. The independent school is the culmination of the watershed merger of The Chinese High School (TCHS) and Hwa Chong Junior College (HCJC) in 2005.
