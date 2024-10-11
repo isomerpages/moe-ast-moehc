@@ -44,7 +44,8 @@ Principals:<br>
 \- 李丽萍 Mrs Maria Phua Li Leng (1994–1997)<br>
 \- 陈丽萍 Miss Chan Lai Peng (1998–2005)<br>
 \- 罗淑芳 Mrs Foo Sook Fong (2006–2016)<br>
-\- 陈桂华 Mrs Elsie Poey (2017–present)
+\- 陈桂华 Mrs Elsie Poey (2017–2022)<br>
+\- 荘爱珠 Mrs Allison Lim (2023 - present) 
 
 #### **Key Milestones**
 
