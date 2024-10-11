@@ -3,6 +3,7 @@ title: Seng Kang Primary School
 permalink: /school-histories/seng-kang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sengkangpri1.jpg">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxFlwqWR7zoFBV-Qq_P8SCu6eMa80-qk9KiVKZi1opiEM7_YmL_rCdIoLHhhQGKdktPyu8R2qQiLS9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/sengkangpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri2.jpg">
-</a></p>
 
-<p><a href="/images/sengkangpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri3.jpg">
-</a></p>
-
-<p><a href="/images/sengkangpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri4.jpg">
-</a></p>
-
-<p><a href="/images/sengkangpri5.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/sengkangpri5.jpg">
-</a></p>
-
-<p><a href="/images/sengkangpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sengkangpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri7.jpg">
-</a></p>
-
-<p><a href="/images/sengkangpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri8.jpg">
-</a></p>
-
-<p><a href="/images/sengkangpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sengkangpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 On 3 January 1997, Seng Kang Primary School (SKPS) was established as the first school in Sengkang. As the school building was still under construction, SKPS began operations at the premises of the former Hai Seng Girls’ High along Upper Serangoon Road. The school had 327 students in 10 classes and 23 staff members. The belief, ‘Everyone is Special, Everyone can Learn, Everyone can Serve’, guided the school. On 12 December 1997, the school moved to its current location at 21 Compassvale Walk.
