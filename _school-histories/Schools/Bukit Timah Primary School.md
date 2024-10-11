@@ -31,7 +31,8 @@ Principals:<br>
 \- Mr Tan Soi Tee (1998–2000)<br>
 \- Mr Raja Rajendra (2000–2006)<br>
 \- Mdm Yazilah Binte Amir (2007–2014)<br>
-\- Mdm Len Leng Leng Teresa Kelly (2015–present)
+\- Mdm Len Leng Leng Teresa Kelly (2015–2022)<br>
+\- Miss Lau Wan Sze (2023 - present) 
 
 #### **Key Milestones**
 
