@@ -3,6 +3,7 @@ title: West View Primary School
 permalink: /school-histories/west-view-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/westviewpri1.png">
 
@@ -14,39 +15,8 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTq0g6IAhZg2jM2tqF1NjT2gh4FSBczQT7Hn7GvJEw1NDBFhaqPeAjOXiVQ10oF5tW5oaHSz4Eruqci/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="400" height="254" allowfullscreen="true"></iframe>
 
-<p><a href="/images/westviewpri8.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/westviewpri8.jpg">
-</a></p>
 
-<p><a href="/images/westviewpri10.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/westviewpri10.jpg">
-</a></p>
 
-<p><a href="/images/westviewpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri2.jpg">
-</a></p>
-
-<p><a href="/images/westviewpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri3.jpg">
-</a></p>
-
-<p><a href="/images/westviewpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri4.jpg">
-</a></p>
-
-<p><a href="/images/westviewpri5.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/westviewpri5.jpg">
-</a></p>
-
-<p><a href="/images/westviewpri6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/westviewpri6.jpg">
-</a></p>
-
-<p><a href="/images/westviewpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/westviewpri7.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 West View Primary School began operations on 2 January 1998, housed in the former Jalan Teck Whye Primary School and Bukit Panjang Malay School with very limited facilities. In December 1999, the school moved to its current premises at 31 Senja Road.
