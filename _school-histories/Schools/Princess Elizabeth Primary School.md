@@ -3,6 +3,7 @@ title: Princess Elizabeth Primary School
 permalink: /school-histories/princess-elizabeth-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/princesselizabethpri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCY38Tqoezv3wqPbFOb8H90rkW9f4JKNjvnqye7S0eVbQetxugylLmgmNTsCuKxWJPFiA-8bGL_0b_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/princesselizabethpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri2.jpg">
-</a></p>
-
-<p><a href="/images/princesselizabethpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri3.jpg">
-</a></p>
-
-<p><a href="/images/princesselizabethpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/princesselizabethpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri5.jpg">
-</a></p>
-
-<p><a href="/images/princesselizabethpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri6.jpg">
-</a></p>
-
-<p><a href="/images/princesselizabethpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/princesselizabethpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri8.jpg">
-</a></p>
-
-<p><a href="/images/princesselizabethpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/princesselizabethpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Princess Elizabeth Primary School started as Bukit Panjang Afternoon School in 1952. It shared premises with Panjang Malay School and later with Chua Chu Kang Malay School. In 1954, the school moved to Princess Elizabeth Estate at Hillview Avenue and was renamed Princess Elizabeth Estate School.
