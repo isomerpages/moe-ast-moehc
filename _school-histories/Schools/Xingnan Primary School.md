@@ -49,7 +49,7 @@ Principals:<br>
 \- Mr Gau Poh Teck (2005–2010)<br>
 \- Mrs Wee Kwan-Liam (2010–2015)<br>
 \- Mr Charles Chan (2015–2022)<br>
-\- Mrs Cindy Ong (2022–Present)
+\- Mrs Cindy Ong (2023 - present)
 
 #### **Key Milestones**
 
