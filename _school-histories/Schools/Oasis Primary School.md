@@ -3,6 +3,7 @@ title: Oasis Primary School
 permalink: /school-histories/oasis-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/oasispri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEh4b8EXsgysqtafvZ00z18wB5Pstyp463kX3x3QOwth28jHzu_BPfB7wLQsoCdN1uDRWphoEmzBzb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/oasispri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri2.jpg">
-</a></p>
-
-<p><a href="/images/oasispri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri3.jpg">
-</a></p>
-
-<p><a href="/images/oasispri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/oasispri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri5.jpg">
-</a></p>
-
-<p><a href="/images/oasispri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri6.jpg">
-</a></p>
-
-<p><a href="/images/oasispri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/oasispri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri8.jpg">
-</a></p>
-
-<p><a href="/images/oasispri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/oasispri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Oasis Primary School was established in 2016 at Edgefield Plains. It is considered one of the new-generation schools where, besides having classes for the primary school, it also houses a student care center, a Ministry of Education Kindergarten and Kindergarten Care within its premises. The kindergarten was set up in January 2018.
@@ -58,7 +22,8 @@ Oasis Primary School was established in 2016 at Edgefield Plains. It is consider
 Officially opened on 20 July 2018, Oasis Primary School prides itself on being a forward-looking educational institution that focuses on the holistic development of students. It promotes an inclusive and nurturing learning environment with a strong emphasis on character building and student leadership. In 2016, the school was accorded the Learning for Life Programme, ‘Lead with a Heart, Changemakers for the Future’.
 
 Principal:<br>
-\- Mrs Ong-Chew Lu See (2016–present)
+\- Mrs Ong-Chew Lu See (2016–2022)<br>
+\- Mr Danny Poh (2023 - present)
 
 #### **Key Milestones**
 
