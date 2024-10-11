@@ -3,6 +3,7 @@ title: Bukit Timah Primary School
 permalink: /school-histories/bukit-timah-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bukittimahpri1.png">
 
@@ -14,39 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRrZqC7Tz9EVO-rzxw4WC2Ok8PIrEiEZg9c_fphaI6vPrgf9m9ZCdlAkiV5X2OYVD8CNtwiWPAX0ReX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/bukittimahpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri2.jpg">
-</a></p>
 
-<p><a href="/images/bukittimahpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri3.jpg">
-</a></p>
-
-<p><a href="/images/bukittimahpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri4.jpg">
-</a></p>
-
-<p><a href="/images/bukittimahpri7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/bukittimahpri7.jpg">
-</a></p>
-
-<p><a href="/images/bukittimahpri6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/bukittimahpri6.jpg">
-</a></p>
-
-<p><a href="/images/bukittimahpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri5.jpg">
-</a></p>
-
-<p><a href="/images/bukittimahpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri8.jpg">
-</a></p>
-
-<p><a href="/images/bukittimahpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukittimahpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Bukit Timah Primary School was formerly known as Bukit Batok Primary School, which was situated at the junction of Jalan Jurong Kechil and Jurong Road. Bukit Batok Primary School had been established in 1984 as a merger school of Bukit Batok East Primary School and Bukit Batok West Primary School.&nbsp;  
