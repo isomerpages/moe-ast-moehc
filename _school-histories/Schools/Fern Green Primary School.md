@@ -3,6 +3,7 @@ title: Fern Green Primary School
 permalink: /school-histories/fern-green-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/ferngreenpri1.png">
 
@@ -14,45 +15,14 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7HZaswVdElbImjjpa6vln77UDKXW781DM4fA3EAQMjEedJqUU4t8zHckpIikLyg_nvrvooKBEIb9U/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/ferngreenpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri2.jpg">
-</a></p>
 
-<p><a href="/images/ferngreenpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri3.jpg">
-</a></p>
-
-<p><a href="/images/ferngreenpri4.jpg">  
-<img align="left" style="width:31%;margin-right:15px;" src="/images/ferngreenpri4.jpg">
-</a></p>
-
-<p><a href="/images/ferngreenpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri5.jpg">
-</a></p>
-
-<p><a href="/images/ferngreenpri6.jpg">  
-<img align="left" style="width:31%;margin-right:15px;" src="/images/ferngreenpri6.jpg">
-</a></p>
-
-<p><a href="/images/ferngreenpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri7.jpg">
-</a></p>
-
-<p><a href="/images/ferngreenpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri8.jpg">
-</a></p>
-
-<p><a href="/images/ferngreenpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ferngreenpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Fern Green Primary School was established as a government co-educational school in 2018 at 70 Fernvale Link.
 
 Principal:<br>
-\- Mrs May Tang (2017–present)
+\- Mrs May Tang (2017–2022)<br>
+\- Ms Kong Yee Loon (2023 - present)
 
 #### **Key Milestones**
 
