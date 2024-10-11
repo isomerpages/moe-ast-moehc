@@ -15,43 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHQJBzhz-DWLbzZXnML4RpmzSJ1DPyOjEwaJozr6ttOaZMYMPScwj5q3VFr8d7EFIJyTSog5hBl06_/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/bukitpanjangpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri2.jpg">
-</a></p>
 
-<p><a href="/images/bukitpanjangpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri3.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjangpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitpanjangpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri5.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjangpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri6.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjangpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitpanjangpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri8.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjangpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjangpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Bukit Panjang Government School, established in 1932, was one of the few primary schools in northern Singapore. The first enrollment of sixty students was made possible through the staff's persuasion and the help of Assemblyman Mr. Goh Tong Liang. The school continued to grow under the leadership of principals Mr. C.A. Peterson and Mr. Wee Loh Siew, with an increasing student enrollment that led to the opening of the Bukit Panjang Government Afternoon School in 1952.
