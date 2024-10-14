@@ -15,39 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW6Ib-dzEAhVrQIByVRdfAlWNUzXoxzsSJoIV3o4P4FbISUPVAE01UnbvBT7YBQ_MwIh0QroSsGeJg/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/fuhuasec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec2.jpg">
-</a></p>
 
-<p><a href="/images/fuhuasec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec3.jpg">
-</a></p>
-
-<p><a href="/images/fuhuasec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/fuhuasec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec5.jpg">
-</a></p>
-
-<p><a href="/images/fuhuasec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec6.jpg">
-</a></p>
-
-<p><a href="/images/fuhuasec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/fuhuasec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuasec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
   
