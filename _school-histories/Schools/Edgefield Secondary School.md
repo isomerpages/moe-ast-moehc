@@ -33,7 +33,8 @@ In 2019, EFSS pioneered a new mixed-stream form class system in which the form c
 
 Principals:<br>
 \- Mr Leong Kok Kee (2011–2016)<br>
-\- Mr Lee Peck Ping (2017–present)
+\- Mr Lee Peck Ping (2017–2023)<br>
+\- Mr Simon Foo (2024-present) 
 
 #### **Key Milestones**
 
