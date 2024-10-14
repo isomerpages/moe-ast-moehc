@@ -3,6 +3,7 @@ title: Anglican High School
 permalink: /school-histories/anglican-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/anglicanhighsch1.jpg">
 
@@ -12,43 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9A7ZyQeVw5lN2xjgmednHk0xFmzPisHi_WJDO5UR3KvTv8h6QPOGeTix0mV3wZ0Jwy9kejFXsanHZ/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/anglicanhighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch2.jpg">
-</a></p>
 
-<p><a href="/images/anglicanhighsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch3.jpg">
-</a></p>
-
-<p><a href="/images/anglicanhighsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/anglicanhighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch5.jpg">
-</a></p>
-
-<p><a href="/images/anglicanhighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch6.jpg">
-</a></p>
-
-<p><a href="/images/anglicanhighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/anglicanhighsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch8.jpg">
-</a></p>
-
-<p><a href="/images/anglicanhighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anglicanhighsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Anglican High School was founded in 1956 by the Chinese-speaking congregations of Anglican churches in Singapore. It was then the only Anglican school with Chinese as its medium of instruction compared to the others, which were English-medium schools.
@@ -71,7 +36,8 @@ Principals:<br>
 * Mr Wang Mei Hsiong (2002–2004)<br>
 * Dr Zoe Boon Suan Loy (2005–2010)<br>
 * Mdm Maureen Lee (2011–2017)<br>
-* Mr Khoo Tse Horng (2018–present)
+* Mr Khoo Tse Horng (2018–2023)<br>
+* Mr Alvin Lim Hock Chuan (2024 - present) 
 
 
 #### **Key Milestones**
