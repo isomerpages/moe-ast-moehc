@@ -3,6 +3,7 @@ title: Fairfield Methodist School (Primary)
 permalink: /school-histories/fairfield-methodist-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fairfieldmethodistpri1.png">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2c2idZyEUHp_Yuba0nWHqkdlRokPbXEm0DVPjRmC2aEh7W0NzbeZX_Ypm1DV-wpQNkd4wCGPZqjXo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/fairfieldmethodistpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri2.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri3.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/fairfieldmethodistpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri5.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri6.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri7.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri8.jpg">
-</a></p>
-
-<p><a href="/images/fairfieldmethodistpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fairfieldmethodistpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Fairfield Methodist School was founded on 4 August 1888 by Ms Sophia Blackmore in a house on Cross Street. It later moved to Telok Ayer Street and became known as Telok Ayer Girls’ School. In 1912, when Ms Mary Olson was the principal, the school moved to 178 Neil Road&nbsp;and was renamed Fairfield Girls’ School, in honour of an American, Mr Fairfield, who had donated a substantial sum to the school. The school was run by expatriate principals until 1941, when Mrs Lim Bock Kee became the first Asian Principal to spearhead Fairfield Girls’ School. It changed its name to Fairfield Methodist Girls’ School in 1958. After the war, the school functioned for a short while at borrowed premises in Pearls’ Hill School. In 1946, the Neil Road&nbsp;premises were returned to the school authorities.
@@ -94,7 +60,8 @@ Principals:<br>
 \- Mrs Tan Shook Fund (2002–2003)<br>
 \- Mr Charles Tong (2004–2008)<br>
 \- Mrs Chaillan Mui Tuan (2009–2015)<br>
-\- Mdm Law Li Mei (2016–present)
+\- Mdm Law Li Mei (2016–2023)<br>
+\- Mrs Soh Mei Foong (2024-present)
 
 #### **Key Milestones**
 
