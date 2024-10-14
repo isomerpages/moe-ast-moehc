@@ -3,6 +3,7 @@ title: Bukit Merah Secondary School
 permalink: /school-histories/bukit-merah-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bukitmerahsec1.jpg">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS2NoezIfHPi4CxxL1b1sWMyP9Ea0QmTyiiSvnx6DGARCqpPZESUQRiJPs9xPK9zXl465Y05fDZ_X6T/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/bukitmerahsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec2.jpg">
-</a></p>
 
-<p><a href="/images/bukitmerahsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec3.jpg">
-</a></p>
-
-<p><a href="/images/bukitmerahsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitmerahsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec5.jpg">
-</a></p>
-
-<p><a href="/images/bukitmerahsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec6.jpg">
-</a></p>
-
-<p><a href="/images/bukitmerahsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitmerahsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec8.jpg">
-</a></p>
-
-<p><a href="/images/bukitmerahsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitmerahsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1968, Bukit Merah Secondary School was the 101st school built by the government. It initially operated as a school offering classes in both English and Chinese mediums of instruction at 10 Lengkok Bahru. In 1984, Bukit Merah Secondary School became a solely English-medium school.
@@ -69,7 +34,8 @@ Principals:<br>
 \- Dr Anthony Loh (1997–2004)<br>
 \- Mrs Chin Lai Yoke (2005–2011)<br>
 \- Mr Sim Chong Boon (2012–2016)<br>
-\- Mr Timothy Cheng (2017–present)
+\- Mr Timothy Cheng (2017–2022)<br>
+\- Mr Darren Chong Wai Ki (2023 - present) 
 
 **Related Schools:** **[Delta Secondary School](/school-histories/delta-sec/)** \| **[Henderson Secondary School](/school-histories/henderson-sec/)**
 

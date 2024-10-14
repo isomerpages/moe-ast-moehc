@@ -3,6 +3,7 @@ title: Beatty Secondary School
 permalink: /school-histories/beatty-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/beattysec1.jpg">
 
@@ -78,7 +79,8 @@ Principals:<br>
 * Mr Boo Hian Kok (2004–2009)<br>
 * Mr Shaw Swee Tat (2010–2014)<br>
 * Mrs Marion Tan (2015–2016)<br>
-* Mr Ling Khoon Chow (2017–present)
+* Mr Ling Khoon Chow (2017–2021)<br>
+* Mr Harman Johll (2022 – Current)<br>
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Canberra Primary School
 permalink: /school-histories/canberra-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/canberrapri1.png">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTw486_rWQGr68ucfC7TAzalGGk7JaVyNkzYhppuQ_gbHyNNMmDbEpvIu5MQQhJU01SZJy8WSZMS7Bi/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/canberrapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri2.jpg">
-</a></p>
-
-<p><a href="/images/canberrapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri3.jpg">
-</a></p>
-
-<p><a href="/images/canberrapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/canberrapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri5.jpg">
-</a></p>
-
-<p><a href="/images/canberrapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri6.jpg">
-</a></p>
-
-<p><a href="/images/canberrapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/canberrapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/canberrapri8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Canberra Primary School was established in January 2000. The school adopted the name of the old Canberra School, which had closed down in 1988.&nbsp;  
@@ -61,7 +29,8 @@ As the school moves into the next phase of development, it aims to provide more 
 
 Principals:<br>
 \- Ms Ratnasingam Selvarani (2000–2009)<br>
-\- Mr Wong Poo Mun (2010–present)
+\- Mr Wong Poo Mun (2010–2022)<br>
+\- Mr Terence Tan (2023 - present)
 
 #### **Key Milestones**
 

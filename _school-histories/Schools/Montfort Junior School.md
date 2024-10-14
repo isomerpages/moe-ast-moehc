@@ -95,7 +95,10 @@ which was completed in 2018.</p>
 <p>Ms Genevieve Chye (2009–2014)</p>
 </li>
 <li>
-<p>Mr Wilbur Wong (2014–present)</p>
+<p>Mr Wilbur Wong (2014–2022)</p>
+</li>
+<li>
+<p>Mr Victor Tan (2023 - present)</p>
 </li>
 </ul>
 <h4><strong>Key Milestones</strong></h4>

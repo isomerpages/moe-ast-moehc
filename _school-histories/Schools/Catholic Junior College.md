@@ -3,6 +3,7 @@ title: Catholic Junior College
 permalink: /school-histories/catholic-jc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/catholicjc1.jpg">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoYB7tywWgon0n0qbEOer9IS0lU5iCFscxd08ikq88SXVz-TfNhahtHQlIaYxRwJnSBvfaruX9y7v9/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/catholicjc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc2.jpg">
-</a></p>
-
-<p><a href="/images/catholicjc3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc3.jpg">
-</a></p>
-
-<p><a href="/images/catholicjc4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/catholicjc5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc5.jpg">
-</a></p>
-
-<p><a href="/images/catholicjc7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc7.jpg">
-</a></p>
-
-<p><a href="/images/catholicjc8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc8.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/catholicjc6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc6.jpg">
-</a></p>
-
-<p><a href="/images/catholicjc9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/catholicjc9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 The possibility of a Catholic junior college that provides a pre-university education for students from affiliated Catholic schools first took shape in 1971. The project was undertaken by the Archdiocese of Singapore, generously assisted by the Catholic bishops in Germany, the Singapore government and philanthropists. A piece of land on Whitley Road, which used to be a rubber plantation, was designated as the location of Catholic Junior College (CJC). The foundation stone was laid by Dr Lee Chiaw Meng, then Minister for Education, on 12 July 1974.
@@ -70,7 +34,8 @@ Principals:<br>
 \- Sister Maria Lau (1995–2001)<br>
 \- Brother Paul A. Rogers (2002–2009)<br>
 \- Mrs Christine Anne Kong (2010–2016)<br>
-\- Ms Phyllis Chua Suan Gek  (2017–present)
+\- Ms Phyllis Chua Suan Gek  (2017– 2022)<br>
+\- Mdm Koh Soo Min (2023 - present)
 
 #### **Key Milestones**
 

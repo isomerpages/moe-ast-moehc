@@ -3,6 +3,7 @@ title: Greendale Secondary School
 permalink: /school-histories/greendale-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/greendalesec1.png">
 
@@ -60,7 +61,9 @@ The school aspires to be a school of choice that makes a difference and a home o
 Principals:<br>
 \- Mrs Mary Koh (2006–2008)<br>
 \- Mr Mark Gerard Minjoot  (2009–2015)<br>
-\- Ms Amy Ng (2015–present)
+\- Ms Amy Ng (2015–2021)<br>
+\- Mr Sulaiman B Mohamad Yusof (2022 - present)
+
 
 #### **Key Milestones**
 

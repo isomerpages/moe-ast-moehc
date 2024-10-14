@@ -3,6 +3,7 @@ title: Rosyth School
 permalink: /school-histories/rosyth-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rosythsch1.jpg">
 
@@ -14,47 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNpw7upNzaWxs4qeNTfdP291gE0HwvuCcn7sEuFOUaEJ7ZHNYmBQICb67On7yZnV0uhwPmfLQMdRAW/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/rosythsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch2.jpg">
-</a></p>
-
-<p><a href="/images/rosythsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch3.jpg">
-</a></p>
-
-<p><a href="/images/rosythsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rosythsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch5.jpg">
-</a></p>
-
-<p><a href="/images/rosythsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch6.jpg">
-</a></p>
-
-<p><a href="/images/rosythsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rosythsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch8.jpg">
-</a></p>
-
-<p><a href="/images/rosythsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch9.jpg">
-</a></p>
-
-<p><a href="/images/rosythsch10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rosythsch10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Rosyth School was established in 1956 at Rosyth Road. In 1983, the school was selected to host the Gifted Education Programme and was relocated to Parry Avenue in 1984. In 1995, the school was selected as a pilot school in the Accelerating the Use of Information Technology Programme.

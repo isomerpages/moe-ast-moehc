@@ -3,6 +3,7 @@ title: Unity Secondary School
 permalink: /school-histories/unity-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/unitysec1.png">
 
@@ -15,43 +16,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSRI_vh71WsfoKxA1v-b9VlHVhgUM4T-UsnacZLxm7g-jmYl1apxSNjPqqoEuc-9awtBIGYdyn_1ve0/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/unitysec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec2.jpg">
-</a></p>
 
-<p><a href="/images/unitysec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec3.jpg">
-</a></p>
-
-<p><a href="/images/unitysec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/unitysec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec5.jpg">
-</a></p>
-
-<p><a href="/images/unitysec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec6.jpg">
-</a></p>
-
-<p><a href="/images/unitysec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/unitysec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec8.jpg">
-</a></p>
-
-<p><a href="/images/unitysec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/unitysec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Unity Secondary School was established in January 2000 as a government co-educational school. It was officially opened on 15 November 2001.&nbsp;  
@@ -73,7 +38,8 @@ Principals:<br>
 \- Mr N. Satianathan (2000–2005)<br>
 \- Ms Tan Siew Piang (2006–2009)<br>
 \- Mr Chan Ying Yin (2010–2015)<br>
-\- Mdm Aini Maarof (2016–present)
+\- Mdm Aini Maarof (2016–2022) <br>
+\- Mdm Ong Liang Fung (2023 - present)
 
 #### **Key Milestones**
 

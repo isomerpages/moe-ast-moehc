@@ -3,6 +3,7 @@ title: Regent Secondary School
 permalink: /school-histories/regent-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/regentsec1.jpg">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpFbVQMJWcNxx5vWEx9D15_YMe_AT_8GGzlNByZcB3vOim7LVVmy1cbddC5KsSZZmw8upaPzB72lPb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/regentsec2.jpg">  
-<img align="left" style="width:25%;margin-right:45px;margin-left:15px" src="/images/regentsec2.jpg">
-</a></p>
-
-<p><a href="/images/regentsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec3.jpg">
-</a></p>
-
-<p><a href="/images/regentsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec4.jpg">
-</a></p>
-
-<p><a href="/images/regentsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec5.jpg">
-</a></p>
-
-<p><a href="/images/regentsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec7.jpg">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec8.jpg">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/regentsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 2000, Regent Secondary School began operations at the premises of Unity Secondary School. In the following year, the school relocated to its present premises at 50 Choa Chu Kang North 5.&nbsp;
@@ -61,7 +27,8 @@ Principals:<br>
 \- Mdm Tan Miao Ling (2000–2005)<br>
 \- Ms Lo Sheu Ming (2005–2011)<br>
 \- Mr Phua Huat Chuan (2011–2017)<br>
-\- Mr Leong Kok Kee (2017–present)<br>
+\- Mr Leong Kok Kee (2017–2022)<br>
+\- Mrs Sng Siew Hong (2023 - present) 
 
 #### **Key Milestones**
 

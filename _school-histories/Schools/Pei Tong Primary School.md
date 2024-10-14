@@ -15,47 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCuLEhw1f5qLS4dOAb5OR_NcaWcAHkU9ZcNyzROfbQfydKADhquD2JfElDnAlhOQiYk3kZGHOp90IM/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/peitongpri2.jpg">  
-<img src="/images/peitongpri2.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/peitongpri3.jpg">  
-<img src="/images/peitongpri3.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/peitongpri4.jpg">  
-<img src="/images/peitongpri4.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/peitongpri5.jpg">  
-<img src="/images/peitongpri5.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/peitongpri6.jpg">  
-<img src="/images/peitongpri6.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/peitongpri7.jpg">  
-<img src="/images/peitongpri7.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/peitongpri8.jpg">  
-<img src="/images/peitongpri8.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/peitongpri9.jpg">  
-<img src="/images/peitongpri9.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<p><a href="/images/peitongpri10.jpg">  
-<img src="/images/peitongpri10.jpg" style="width:30%;margin-right:15px;" align="left">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Pei Tong Primary School started as a village school named Pei Tong Public School, located off Clementi Road, after the Second World War. It was officially registered in 1948. Between 1948 and 1981, Pei Tong Public School was managed by the early pioneers and Chinese community leaders. In 1981, the school was established as a government primary school at its present premises at Clementi Avenue 5, and was renamed Pei Tong Primary School.

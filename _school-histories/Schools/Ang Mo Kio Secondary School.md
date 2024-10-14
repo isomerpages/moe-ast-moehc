@@ -13,47 +13,8 @@ variant: markdown
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQf6t4k-enVif8S_lp2KmW7C098gxSgt5G9CcA62dqBowpuRUakBopo_dKrCXekh0m2McdnvV4snySq/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/amksec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec2.jpg">
-</a></p>
 
-<p><a href="/images/amksec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec3.jpg">
-</a></p>
 
-<p><a href="/images/amksec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/amksec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec5.jpg">
-</a></p>
-
-<p><a href="/images/amksec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec6.jpg">
-</a></p>
-
-<p><a href="/images/amksec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/amksec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec8.jpg">
-</a></p>
-
-<p><a href="/images/amksec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec9.jpg">
-</a></p>
-
-<p><a href="/images/amksec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amksec10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Ang Mo Kio Secondary School was established in 1979 as the first secondary school in Ang Mo Kio New Town. It operated in the premises of Hwi Yoh Secondary School in 1979 with 12 Secondary One classes.&nbsp;However, Ang Mo Kio Secondary School moved out of Hwi Yoh Sec to its current location in 1980. The school was officially declared open in 1980. The school was temporarily relocated to Hougang Street 93 when it underwent PRIME in 2000. In 2002, Ang Mo Kio Secondary School returned to its current location at 6 Ang Mo Kio Street 22.&nbsp;The school logo was originally a simple rectangular badge, and the current badge was used from 2004 onwards.

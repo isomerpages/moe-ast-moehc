@@ -3,6 +3,7 @@ title: Yumin Primary School
 permalink: /school-histories/yumin-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuminpri1.png">
 
@@ -15,43 +16,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGhG67mVPqNdNFWORilRe5t9_MvWPaBbqnBOiyVv-v39M4RSZAorHWAESVG4SmI0ZAfESL6wBxHFrO/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/yuminpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri2.jpg">
-</a></p>
 
-<p><a href="/images/yuminpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri3.jpg">
-</a></p>
-
-<p><a href="/images/yuminpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuminpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri5.jpg">
-</a></p>
-
-<p><a href="/images/yuminpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri6.jpg">
-</a></p>
-
-<p><a href="/images/yuminpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuminpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri8.jpg">
-</a></p>
-
-<p><a href="/images/yuminpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuminpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yumin Primary School’s history began with two Chinese village schools – Yook Kiau Public School on Tampines Road and Ping Min Public School on Upper Changi Road – which had been founded before the Second World War. Both schools were established by community leaders to provide primary education for children in Tampines. The two schools merged on 27 February 1974, and the resultant entity was renamed Yook Min Public School. In 1976, English-stream students from Telok Paku School were transferred to Yook Min when the former had to be demolished to make way for Singapore Changi Airport. Yook Min thus became an integrated school.
@@ -64,7 +29,8 @@ Principals:<br>
 \- Mrs Tan Peng Eng (1995–2001)<br>
 \- Mrs Tan Khar Guek (2002–2006)<br>
 \- Ms Oh See Moey (2007–2014)<br>
-\- Mdm Chilukuri Dimps Rao (2015–present)
+\- Mdm Chilukuri Dimps Rao (2015–2022)<br>
+\- Mrs Ng-Teo Sock Hua (2023 - present)
 
 #### **Key Milestones**
 

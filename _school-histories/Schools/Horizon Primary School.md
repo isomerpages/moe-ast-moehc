@@ -15,43 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxjehzkVPa0Rgn-FAgjRhySFYH5r688bcUyvD6XlhtZXgLMjtibxRbhSMCWfdgtkT4t73iwDrp2xzE/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/horizonpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri2.jpg">
-</a></p>
 
-<p><a href="/images/horizonpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri3.jpg">
-</a></p>
-
-<p><a href="/images/horizonpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/horizonpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri5.jpg">
-</a></p>
-
-<p><a href="/images/horizonpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri6.jpg">
-</a></p>
-
-<p><a href="/images/horizonpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/horizonpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri8.jpg">
-</a></p>
-
-<p><a href="/images/horizonpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/horizonpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Horizon Primary School began operations on 4 January 2010 with 125 students from Primary One to Four and 13 pioneer staff, led by founding Principal Mrs Janet Ang. The pioneers laid a firm foundation for a student-centric, values-driven education and the Horizon spirit.&nbsp;

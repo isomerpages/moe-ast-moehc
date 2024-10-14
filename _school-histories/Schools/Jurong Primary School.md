@@ -14,43 +14,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLk4xBL6n87KUMdg6ciu2d9cUmE6uLCj7uj7O85OfEM_u2PcH6eIbLRfPI4e6NsGRo6J8FIQKY2oVp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/jurongpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri2.jpg">
-</a></p>
-
-<p><a href="/images/jurongpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri3.jpg">
-</a></p>
-
-<p><a href="/images/jurongpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri5.jpg">
-</a></p>
-
-<p><a href="/images/jurongpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri6.jpg">
-</a></p>
-
-<p><a href="/images/jurongpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/jurongpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri8.jpg">
-</a></p>
-
-<p><a href="/images/jurongpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/jurongpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Jurong Primary School was formed through the merger of Jurong Primary School and Boon Lay Primary School in 2006. The merged school occupied the location of Boon Lay Primary School at Jurong East Street 32 while retaining the name of Jurong Primary School. It embraces the rich traditions, history and heritage of the two schools.&nbsp;

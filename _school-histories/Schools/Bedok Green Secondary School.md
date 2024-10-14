@@ -3,6 +3,7 @@ title: Bedok Green Secondary School
 permalink: /school-histories/bedok-green-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bedokgreensec1.jpg">
 
@@ -13,43 +14,8 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIakW8RD8EnZGZb38DoICENj2HkSIfSZdar3Fq3CnnQfcqV3Ex5kf41rTaETOKbo8lgb5ju3O20fow/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/bedokgreensec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec2.jpg">
-</a></p>
 
-<p><a href="/images/bedokgreensec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec3.jpg">
-</a></p>
 
-<p><a href="/images/bedokgreensec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bedokgreensec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec5.jpg">
-</a></p>
-
-<p><a href="/images/bedokgreensec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec6.jpg">
-</a></p>
-
-<p><a href="/images/bedokgreensec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bedokgreensec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec8.jpg">
-</a></p>
-
-<p><a href="/images/bedokgreensec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgreensec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Bedok Green Secondary School opened its doors to students in 2001 at its holding school located at Bedok South Road. In the following year, the school moved to new premises at 360 Bedok Avenue 3. The flag was lowered for the last time at the holding school and everyone then walked with great excitement to the new school building. To mark the occasion, a bamboo plant from the holding school was planted at the new campus. The new building was officially opened in 2003.
@@ -62,8 +28,8 @@ Principals:<br>
 * Mrs Song Geok Hua (2001–2004)<br>
 * Mdm Tay Siok Hwa (2005–2011)<br>
 * Mr Lim Yu Kee (2012–2018)<br>
-* Mr Boy Eng Seng (2018–present)
-
+* Mr Boy Eng Seng (2018–2022)<br>
+* Mr Shaw Swee Tat (2023 – present)
 #### **Key Milestones**
 
 |  |  |
@@ -78,7 +44,7 @@ Principals:<br>
 | 2015 | Accorded Applied Learning Programme, ‘iInquire. iInnovate’ and Learning for Life Programme, ‘Building Character and Values through Performing Arts’. |
 | 2016 | Celebration of 15th anniversary. |
 | 2019 | Completion of Indoor Sports Hall. |
-|
+| 2023 | Ping Yi Secondary School merged with Bedok Green Secondary School to form Bedok Green Secondary School.
 
 #### **School Motto**
 Believe and Grow

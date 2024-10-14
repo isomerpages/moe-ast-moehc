@@ -15,39 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSA93pP22AZm0TpBJGon2G7Hiz3gUQjOJDjU6rkFjO-xbobuuKxNCK__QqSbuwk9V6ueWT_rXurgMS3/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/marymountconventsch2.jpg">  
-<img align="left" style="width:29%;margin-right:15px;" src="/images/marymountconventsch2.jpg">
-</a></p>
 
-<p><a href="/images/marymountconventsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marymountconventsch3.jpg">
-</a></p>
-
-<p><a href="/images/marymountconventsch4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/marymountconventsch4.jpg">
-</a></p>
-
-<p><a href="/images/marymountconventsch6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/marymountconventsch6.jpg">
-</a></p>
-
-<p><a href="/images/marymountconventsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marymountconventsch5.jpg">
-</a></p>
-
-<p><a href="/images/marymountconventsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marymountconventsch7.jpg">
-</a></p>
-
-<p><a href="/images/marymountconventsch8.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/marymountconventsch8.jpg">
-</a></p>
-
-<p><a href="/images/marymountconventsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/marymountconventsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Marymount Convent School belongs to the Good Shepherd Order. The Sisters of the Good Shepherd, an international order of more than 6,000 religious women, was founded by St Mary Euphrasia Pelletier in France in 1835.

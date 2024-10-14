@@ -3,6 +3,7 @@ title: Nan Hua Primary School
 permalink: /school-histories/nan-hua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanhuapri1.png">
 
@@ -14,47 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWwDxpY3O1QVa8qIX0vOSeDbqviUyiDRduu3zBnW9TEXqMwzT8K5Kq15RDqdaYBTT0LMhEtyeo-ABq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanhuapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri2.jpg">
-</a></p>
-
-<p><a href="/images/nanhuapri3.jpg">  
-<img align="left" style="width:29%;margin-right:15px;" src="/images/nanhuapri3.jpg">
-</a></p>
-
-<p><a href="/images/nanhuapri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/nanhuapri4.jpg">
-</a></p>
-
-<p><a href="/images/nanhuapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri5.jpg">
-</a></p>
-
-<p><a href="/images/nanhuapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanhuapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri7.jpg">
-</a></p>
-
-<p><a href="/images/nanhuapri9.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/nanhuapri9.jpg">
-</a></p>
-
-<p><a href="/images/nanhuapri8.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/nanhuapri8.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanhuapri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanhuapri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Nan Hua Primary School was started by a group of Chinese businessmen in 1917 as the Chinese-medium Nan Hwa Girls’ School on Coleman Street. In 1921, Nan Hwa Girls’ School moved to Bencoolen Street. In 1941, a new school was built on Adis Road, which became the main school, while the school on Bencoolen Street was named Nan Hwa Girls’ High School (Branch). After the Second World War, Nan Hwa Girls’ High School reopened in 1945 and Nan Hwa Girls’ High School (Branch) reopened the following year.
@@ -73,7 +33,8 @@ Principals:<br>
 \- Mdm Fong Yuet Kwai (1982–2003)<br>
 \- Mrs Lee Hui Feng (2004–2009)<br>
 \- Mrs Becky Neo (2010–2015)<br>
-\- Mrs Ong Hui Khim (2016–present)
+\- Mrs Ong Hui Khim (2016–2022)<br>
+\- Mdm Grace Phua Yin Lin (2023 - present)
 
 #### **Key Milestones**
 

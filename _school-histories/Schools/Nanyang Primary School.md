@@ -3,6 +3,7 @@ title: Nanyang Primary School
 permalink: /school-histories/nanyang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/nanyangpri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0X9vvG9paeREZ8tOGVSJYGnsxqRbRw6qjrkqPBwewizQP7QQ8pkJR1zNjKwaLYW5Z0ELie6maq6qB/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/nanyangpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri2.jpg">
-</a></p>
-
-<p><a href="/images/nanyangpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri3.jpg">
-</a></p>
-
-<p><a href="/images/nanyangpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanyangpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri5.jpg">
-</a></p>
-
-<p><a href="/images/nanyangpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri6.jpg">
-</a></p>
-
-<p><a href="/images/nanyangpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/nanyangpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri8.jpg">
-</a></p>
-
-<p><a href="/images/nanyangpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/nanyangpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Nanyang Primary School was established in 1917 as the primary section of Singapore Nanyang Girls’ School in a shophouse at Dhoby Ghaut.&nbsp; It was a school to promote Chinese education among local Chinese women. In 1919, the school moved to Mount Sophia, and in 1931, to King’s Road. During the Second World War, the school was closed. In December 1945, the school reopened on Selegie Road, temporarily occupying the former premises of the Japanese Club. The secondary and upper primary sections of the school moved back to King’s Road in July 1946, and were joined by the remaining primary&nbsp;and kindergarten sections in January the following year. In 1975, the primary section had its own school building and facilities. In 1978, the primary section was separated from Nanyang Girls’ School and was named Nanyang Primary School.
@@ -62,7 +26,8 @@ Principals:<br>
 \- Ms Lim Poh Suan (1998–2002)<br>
 \- Mdm Heng Boey Hong (2003–2009)<br>
 \- Mrs Lee Hui Fen (2010–2016)<br>
-\- Mdm Ler Jia Luen (2017–present)
+\- Mdm Ler Jia Luen (2017–2022)<br>
+\- Mdm Wong Li Peng (2023 - present)
 
 #### **Key Milestones**
 

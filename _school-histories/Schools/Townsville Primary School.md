@@ -15,25 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_gUslHLTwUpY_xCUCIu9ZNvLgKzo2V4fHoraLj0IiRb-uEGpQnI9Ov7kso1aa-84j9zsXj-QrGFzX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/townsvillepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri2.jpg">
-</a></p>
-
-<p><a href="/images/townsvillepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri3.jpg">
-</a></p>
-
-<p><a href="/images/townsvillepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/townsvillepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/townsvillepri5.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Townsville Primary School was established in 1983, originally located at Ang Mo Kio Street 32. In 1985, the school was officially declared open. In 1989, Her Majesty Queen Elizabeth II of Great Britain visited the school.

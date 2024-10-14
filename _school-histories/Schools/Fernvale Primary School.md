@@ -15,32 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBrNMBDJC65glDoo3kMsvW-MxBnE0AxMvvLq_gIwT_F2l8O3LGtCjx8ntJMTd4OZk6kfoJn_YhPkag/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/fernvalepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri2.jpg">
-</a></p>
 
-<p><a href="/images/fernvalepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri3.jpg">
-</a></p>
-
-<p><a href="/images/fernvalepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri4.jpg">
-</a></p>
-
-<br clear="left">
-<p><a href="/images/fernvalepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri5.jpg">
-</a></p>
-
-<p><a href="/images/fernvalepri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri6.jpg">
-</a></p>
-
-<p><a href="/images/fernvalepri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fernvalepri7.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Fernvale Primary School was established on 3 January 2005 in Sengkang West. The enrolment then was around 230 students with 18 teachers and eight non-teaching staff members. The school was officially opened in July 2007.

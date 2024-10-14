@@ -3,55 +3,19 @@ title: Millenia Institute
 permalink: /school-histories/millenia-institute/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:35%;margin-right:15px;" src="/images/mi1.jpg">
 
 <br clear="left">
 
-### **Millenia Institute**
+### **Millennia Institute**
 [URL to website](https://www.millenniainstitute.moe.edu.sg/)
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6L54orvYaLO0ErrbF0EjGACR1Iwyq5C4zEtiNwvFyQ_AQ8k0U62FFzIG8C07_hlsY3xbiOGiNkc1Q/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi2.jpg">
-</a></p>
 
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi3.jpg">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/mi4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi5.jpg">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi7.jpg">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi8.jpg">
-</a></p>
-
-<p><a href="/images/pic.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/mi9.jpg">
-</a></p>
-
-
-<br clear="left">
 
 #### **School History**
 Millennia Institute was established in 2004 with the merger of Outram Institute and Jurong Institute. It became the only centralised institute in Singapore offering a three-year General Certificate of Education (GCE) A-Level course and the commerce stream, in addition to the arts and science streams.&nbsp;
@@ -69,7 +33,8 @@ Millennia Institute marked its 15th anniversary in 2018 with a celebration of it
 Principals:<br>
 \- Mrs Ong-Ooi Giok Tin (2004–2005)<br>
 \- Mr Tan Chor Pang (2006–2013)<br>
-\- Mrs Tan Wan Yu (2014–present)
+\- Mrs Tan Wan Yu (2014–2023)<br>
+\- Mr Loo Ming Yaw (2024 - present) 
 
 **Related Schools: [Jurong Institute](/school-histories/jurong-intitute/) | [Outram Institute](/school-histories/outram-institute/)**
 
