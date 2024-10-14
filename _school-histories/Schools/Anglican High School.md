@@ -37,7 +37,7 @@ Principals:<br>
 * Dr Zoe Boon Suan Loy (2005–2010)<br>
 * Mdm Maureen Lee (2011–2017)<br>
 * Mr Khoo Tse Horng (2018–2023)<br>
-* Mr Alvin Lim (2024 - present) 
+* Mr Alvin Lim Hock Chuan (2024 - present) 
 
 
 #### **Key Milestones**
