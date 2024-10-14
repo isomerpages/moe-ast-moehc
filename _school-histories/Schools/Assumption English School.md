@@ -41,7 +41,7 @@ Principals:<br>
 * Mr Benedict Keh Chin Chuan (2004–2011)<br>
 * Mrs Mabel Leong (2011–2017)<br>
 * Mr Benjamin Kwok Chin Poh (2018–2023)<br>
-* Mr Khoo Tse Horng (2024 - present) 
+* Mr Vincent Toh (2024 - present) 
 
 #### **Key Milestones**
 
