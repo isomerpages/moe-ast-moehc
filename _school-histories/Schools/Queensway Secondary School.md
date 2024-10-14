@@ -3,6 +3,7 @@ title: Queensway Secondary School
 permalink: /school-histories/queensway-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/queenswaysec1.jpg">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0M2aTUrYPsWn5FqWsU04dKoepvPgQnYGNNTgs3WB0XnrdA8ZyhxOK04712aldJmEEqbJhODYSbDaZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/queenswaysec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec2.jpg">
-</a></p>
-
-<p><a href="/images/queenswaysec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec3.jpg">
-</a></p>
-
-<p><a href="/images/queenswaysec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec4.jpg">
-</a></p>
-
-<p><a href="/images/queenswaysec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/queenswaysec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec6.jpg">
-</a></p>
-
-<p><a href="/images/queenswaysec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec7.jpg">
-</a></p>
-
-<p><a href="/images/queenswaysec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec8.jpg">
-</a></p>
-
-<p><a href="/images/queenswaysec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/queenswaysec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Queensway Secondary School was established in 1961 at 2A Margaret Drive and was officially opened on 2 September 1961. In 1967, Mrs K.S. Quah, a senior assistant of the school penned the lyrics to the school song, while the music was composed by Mr H.S. Chuang, the music teacher.&nbsp;
@@ -73,7 +39,8 @@ Principals:<br>
 \- Mr Lee Kok Hong (1999–2004)<br>
 \- Mdm Cecilia Lim Nyuk Yoon (2004–2009)<br>
 \- Mr Benjamin Lui Seng Cheong (2009–2017)<br>
-\- Mr Peter Tan Chong Tze (2017–present)
+\- Mr Peter Tan Chong Tze (2017–2023)<br>
+\- Ms Audrey Chen (2024 - present) 
 
 **Related School: [Buona Vista Secondary School](/school-histories/buona-vista-sec/)**
 
