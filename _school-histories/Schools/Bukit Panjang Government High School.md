@@ -3,6 +3,7 @@ title: Bukit Panjang Government High School
 permalink: /school-histories/bukit-panjang-govt-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh1.jpg">
 
@@ -14,42 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfGcvrngxErab4n-GtdjoTrnaQmxHw3Lts8xyQtUdbKtBZniUVv2BdcIHj8WIOW78MZTFGzHrgnp9s/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/bukitpanjanggovernmenthigh2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh2.jpg">
-</a></p>
 
-<p><a href="/images/bukitpanjanggovernmenthigh3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh3.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjanggovernmenthigh4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitpanjanggovernmenthigh5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh5.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjanggovernmenthigh6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh6.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjanggovernmenthigh7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh7.jpg">
-</a></p>
-
-
-<p><a href="/images/bukitpanjanggovernmenthigh8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh8.jpg">
-</a></p>
-
-<p><a href="/images/bukitpanjanggovernmenthigh9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitpanjanggovernmenthigh9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1960, Bukit Panjang Government High School started in a two-storey school campus on Jalan Teck Whye. The school served and provided education for the children of the community of manual workers, small traders, as well as pig, vegetable and poultry farmers living in Bukit Panjang and the surrounding areas of Bukit Gombak, Mandai and Woodlands.
@@ -72,7 +38,8 @@ Principals:<br>
 \- Mrs Shirleen Ong (2004–2007)<br>
 \- Mr Lee Seng Hai (2008–2011)<br>
 \- Ms Chan Wan Siong (2012–2017)<br>
-\- Mr Chua Lek Hong (2018–present)
+\- Mr Chua Lek Hong (2018-2023)<br>
+\- Mr Seet Tiat Hee (2024 - present) 
 
 #### **Key Milestones**
 
