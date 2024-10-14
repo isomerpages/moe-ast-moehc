@@ -3,6 +3,7 @@ title: Ahmad Ibrahim Secondary School
 permalink: /school-histories/ahmad-ibrahim-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:15%;margin-right:15px;" src="/images/ahmadibrahimsec1.jpg">
 
@@ -12,43 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQfBWcXJlK69akOLWm0uxLOKnTFK6t9H-7TGkBL3yVYTYUZvbQ6wS9l528Ty25ihmFV0eVXqAf6rIYm/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/ahmadibrahimsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec2.jpg">
-</a></p>
 
-<p><a href="/images/ahmadibrahimsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec3.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ahmadibrahimsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec5.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec6.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ahmadibrahimsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec8.jpg">
-</a></p>
-
-<p><a href="/images/ahmadibrahimsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ahmadibrahimsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Ahmad Ibrahim Secondary was founded in 1963. It was named after the late Encik Ahmad Ibrahim, the former minister for health and labour, who was also the assemblyman for Sembawang.
@@ -79,7 +44,8 @@ Principals:<br>
 * Mr Tan Keng Joo (2000–2005)
 * Mr Stephen Chin (2005–2012)
 * Ms Chew Ing Lim (2012–2018)
-* Ms Tan Ke-Xin (2018–present)
+* Ms Tan Ke-Xin (2018–2023)
+* Mr Goh Soon Hoe (2024 - present) 
 
 #### **Key Milestones**
 
