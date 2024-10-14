@@ -15,43 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLDDesBiZ_oC6ORCXcDd3KB1V7kfnIksguOxVwodCmC_CfhcO9DerLjPkuzU96DXP5JS4fmUy-Ecjq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/rafflesgirlssch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch2.jpg">
-</a></p>
 
-<p><a href="/images/rafflesgirlssch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch3.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlssch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rafflesgirlssch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch5.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlssch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch6.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlssch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rafflesgirlssch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch8.jpg">
-</a></p>
-
-<p><a href="/images/rafflesgirlssch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rafflesgirlssch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1879, Raffles Girls’ School (RGS) became a government school in 1903. From its original location at Bras Basah Road, the school moved to Queen Street in 1928 and became a full-fledged girls’ school. In 1959, the school moved to Anderson Road and in 2019, it relocated to its current campus at Braddell.  
@@ -88,7 +52,8 @@ Principals:<br>
 \- Mrs Deborah Tan (1999–2007)<br>
 \- Mrs Julie Hoo (2007–2012)<br>
 \- Mrs Poh Mun See (2012–2019)<br>
-\- Mdm Haslinda Bte Zamani (2019–present)
+\- Mdm Haslinda Bte Zamani (2019–2023)<br>
+\- Mrs Ong Hong Peng (2024 - present)
 
 #### **Key Milestones**
 
