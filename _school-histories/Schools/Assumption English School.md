@@ -3,6 +3,7 @@ title: Assumption English School
 permalink: /school-histories/assumption-eng-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/assumptionengsch1.jpg">
 
@@ -12,43 +13,7 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSj2TfaIhy4Q7SQYwAe3vN46cSRMqs8UfnVTE0Jw6XTZaDuaUqJEq2hwcUhch7OtYbZxclb_vAtQBvI/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/assumptionengsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch2.jpg">
-</a></p>
 
-<p><a href="/images/assumptionengsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch3.jpg">
-</a></p>
-
-<p><a href="/images/assumptionengsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/assumptionengsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch5.jpg">
-</a></p>
-
-<p><a href="/images/assumptionengsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch6.jpg">
-</a></p>
-
-<p><a href="/images/assumptionengsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/assumptionengsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch8.jpg">
-</a></p>
-
-<p><a href="/images/assumptionengsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/assumptionengsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Assumption English School was founded as one of the three components of Boys’ Town in 1953 by Brother Vincent, a Gabrielite Brother. It was then known as Boys’ Town English School.&nbsp;
@@ -75,7 +40,8 @@ Principals:<br>
 * Mr Marcel Lee (1988–2004)<br>
 * Mr Benedict Keh Chin Chuan (2004–2011)<br>
 * Mrs Mabel Leong (2011–2017)<br>
-* Mr Benjamin Kwok Chin Poh (2018–present)
+* Mr Benjamin Kwok Chin Poh (2018–2023)<br>
+* Mr Khoo Tse Horng (2024 - present) 
 
 #### **Key Milestones**
 
