@@ -3,6 +3,7 @@ title: Ang Mo Kio Primary School
 permalink: /school-histories/amk-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri1.png">
 
@@ -11,39 +12,7 @@ third_nav_title: Schools
 <br clear="left">
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSX62L2Up9iYPpyXJGbBhipv0E1t8hzXuFVqXXNMnucm4l94AwJ8aHYmJiZhNtGrBPxo6ykJcNyyWBC/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/amkpri2.jpeg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri2.jpeg">
-</a></p>
 
-<p><a href="/images/amkpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri3.jpg">
-</a></p>
-
-<p><a href="/images/amkpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/amkpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri5.jpg">
-</a></p>
-
-<p><a href="/images/amkpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri7.jpg">
-</a></p>
-
-<p><a href="/images/amkpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri8.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/amkpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/amkpri6.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Ang Mo Kio Primary School (AMKPS) was established in 1978. The new Primary One students were housed in Dorset Primary School for the first three months after the school started. In April 1978, the students moved into its premises at 22, Ang Mo Kio Avenue 3. They were joined by students and teachers from Jalan Kayu Primary School, which had closed down that year. On 12 October 1978, AMKPS was officially declared opened.&nbsp;&nbsp;  
@@ -65,7 +34,8 @@ Principals:<br>
 * Mr Tan Kee Hai (1999–2001)<br>
 * Mr Patrick Sih (2002–2006)<br>
 * Mdm Chua Lay Tin (2006–2012)<br>
-* Mr Chew Mun Wai (2012–present)
+* Mr Chew Mun Wai (2012–2023)<br>
+* Mrs May Wong (2024-present) 
 
 **Related School:** [Kebun Baru Primary School](/school-histories/kebun-baru-pri/)
 
