@@ -3,6 +3,7 @@ title: Da Zhong Primary School
 permalink: /school-histories/da-zhong-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/dazhongpri1.png">
 
@@ -13,47 +14,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBtnQrZsOY-PungsTVZvkNDLZn9p5i78mgtw6ylWDdby3Y0tkG6apJLC-RwLE7HYbHmrveBG7NIhzI/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/dazhongpri2.jpg">  
-<img align="left" style="width:30%;margin-right:25px;" src="/images/dazhongpri2.jpg">
-</a></p>
-
-<p><a href="/images/dazhongpri3.jpg">  
-<img align="left" style="width:25%;margin-right:25px;" src="/images/dazhongpri3.jpg">
-</a></p>
-
-<p><a href="/images/dazhongpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/dazhongpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri5.jpg">
-</a></p>
-
-<p><a href="/images/dazhongpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri6.jpg">
-</a></p>
-
-<p><a href="/images/dazhongpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/dazhongpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri8.jpg">
-</a></p>
-
-<p><a href="/images/dazhongpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri9.jpg">
-</a></p>
-
-<p><a href="/images/dazhongpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/dazhongpri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Tai Cheong School was started in 1938 by Chinese immigrants, and was named after its founding principal, Mr Chew Tai Cheong. The school stopped operations briefly during the Japanese Occupation and resumed after the Japanese had surrendered.
@@ -72,7 +32,8 @@ Principals:<br>
 \- Mr Stephen Lu Peng Hoong (2001–2006)<br>
 \- Mr Syed Mohamed Ashraf Shah (2007–2009)<br>
 \- Mrs Ng-Teo Sock Hua (2010–2016)<br>
-\- Mdm Rina Yap Siu Lin (2017– present)
+\- Mdm Rina Yap Siu Lin (2017– 2023)<br>
+\- Mr Chris Loh  (2024-present) 
 
 #### **Key Milestones**
 
