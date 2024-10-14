@@ -13,43 +13,7 @@ variant: markdown
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRha9ITnXS47dcyGtPmJfgm2VyJ1ej3QAODNFV1PPa-DNerHEfiLmZ8GEVmy09MmNtyJrXMDvZ9mspV/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/acsbr2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr2.jpg">
-</a></p>
 
-<p><a href="/images/acsbr3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr3.jpg">
-</a></p>
-
-<p><a href="/images/acsbr4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/acsbr5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr5.jpg">
-</a></p>
-
-<p><a href="/images/acsbr6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr6.jpg">
-</a></p>
-
-<p><a href="/images/acsbr7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/acsbr8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr8.jpg">
-</a></p>
-
-<p><a href="/images/acsbr9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsbr9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Anglo-Chinese School (Barker Road) – ACS (BR) - is one of the six schools in the ACS family of schools. Founded in 1886, ACS began with the vision and passion of Bishop William Fitzjames Oldham. At the time, little was offered by way of education in Singapore, and he wanted to provide an education for the many boys he saw wandering aimlessly on the streets. On 1 March 1886, Bishop Oldham started Anglo-Chinese School in a shophouse on Amoy Street with 13 boys.
