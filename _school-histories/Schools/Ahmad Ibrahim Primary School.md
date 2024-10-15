@@ -27,7 +27,8 @@ Principals:<br>
 * Ms Foong Yin Wei (2001–2007)
 * Mdm Sim Siew Tin (2008–2012)
 * Mrs Melinder Goh née Thong Hoi Non (2013–2018)
-* Ms Ong Lee Choo (2019–present)
+* Ms Ong Lee Choo (2019–2023)
+* Ms Baey Ee-Lyn (2024-present)
 
 #### **Key Milestones**
 
