@@ -3,6 +3,7 @@ title: Pei Chun Public School
 permalink: /school-histories/pei-chun-public-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/peichunpublicsch1.png">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh_byJ2cyA3e7SRrka-BNhwEBTbtw7JXQ_EHAWgV3_1OK85yKyc7riOdvkfLFmr03M544Fa-GwENED/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/peichunpublicsch2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch2.jpg">
-</a></p>
-
-<p><a href="/images/peichunpublicsch3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch3.jpg">
-</a></p>
-
-<p><a href="/images/peichunpublicsch4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch4.jpg">
-</a></p>
-
-<p><a href="/images/peichunpublicsch5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/peichunpublicsch6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch6.jpg">
-</a></p>
-
-<p><a href="/images/peichunpublicsch7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch7.jpg">
-</a></p>
-
-<p><a href="/images/peichunpublicsch8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch8.jpg">
-</a></p>
-
-<p><a href="/images/peichunpublicsch9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/peichunpublicsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1933, Pei Chun Public School was started as a Chinese-medium school by a group of Hainanese merchants who wanted to provide education for the children of the Chinese working class. As the only school in Singapore bearing the word ‘Public’, the school name clearly signifies the intent of its founders – a school started by the community for the community.
@@ -72,7 +38,8 @@ Principals:<br>
 \- Dr Chin Kim Woon 陈京文博士(2002–2008)<br>
 \- Mr Lee Lip Hong 李立弘  (2009–2011)<br>
 \- Mdm Ler Jia Luen 吕佳伦 (2012–2016)<br>
-\- Mr Lim Meng Wei 林明伟 (2017–present)
+\- Mr Lim Meng Wei 林明伟 (2017–2023)<br>
+\- Ms Ong Lee Choo (2024-present) 
 
 #### **Key Milestones**
 
