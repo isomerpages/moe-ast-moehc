@@ -31,7 +31,8 @@ The school aims to nurture confident learners who use information and communicat
 Principals:<br>
 \- Mr Chia Boon Chai (1999–2008)<br>
 \- Mrs Yap-Ng Hwee Heng (2008–2016)<br>
-\- Mr Chris Loh Kai Mun (2016–present)
+\- Mr Chris Loh Kai Mun (2016–2023)<br>
+\- Mrs Christina Tan-Lim Lay Leng (2024-present)
 
 #### **Key Milestones**
 
