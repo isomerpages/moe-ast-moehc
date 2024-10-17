@@ -3,6 +3,7 @@ title: Chongfu School
 permalink: /school-histories/chongfu-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chongfusch1.png">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdUVfxpxOEM5dLFsxGmxwDTITk0Oh4kFxPCFBczgSVbs6Q3GygG7WP0zdqUjpNUvTUwbEwJCfAFLeA/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/chongfusch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch2.jpg">
-</a></p>
 
-<p><a href="/images/chongfusch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch3.jpg">
-</a></p>
-
-<p><a href="/images/chongfusch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chongfusch5.jpg">  
-<img align="left" style="width:26%;margin-right:15px;" src="/images/chongfusch5.jpg">
-</a></p>
-
-<p><a href="/images/chongfusch6.jpg">  
-<img align="left" style="width:34%;margin-right:15px;" src="/images/chongfusch6.jpg">
-</a></p>
-
-<p><a href="/images/chongfusch7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/chongfusch7.jpg">
-</a></p>
-
-<p><a href="/images/chongfusch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch8.jpg">
-</a></p>
-
-<p><a href="/images/chongfusch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chongfusch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Chongfu Primary School was founded by the Singapore Hokkien Huay Kuan in 1915 as Chong Hock Girls’ School. Situated at Chong Wen Ker beside the Thian Hock Keng Temple on Telok Ayer Street, it was the only school for girls then. The medium of instruction was Hokkien.  
@@ -71,7 +38,8 @@ Principals:<br>
 \- Mr Low Siang Chee (1997–1998)<br>
 \- Mrs Celine Ng Kim Choo (1999–2005)<br>
 \- Mr Pek Wee Haur (2006–2012)<br>
-\- Mdm Foo Mui Chuw (2013–present)
+\- Mdm Foo Mui Chuw (2013–2023)<br>
+\- Mr Tan King Ming (2024-present) 
 
 #### **Key Milestones**
 

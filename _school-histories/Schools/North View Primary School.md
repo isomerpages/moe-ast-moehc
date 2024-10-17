@@ -15,43 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRh9VLLecdrVoPDnOpVMpDr5MHPy_I4suChO9CQjkl5hrUuUdVXa8-pSfR0bW9ctvvMlXSspRJkgPbf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/northviewpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri2.jpg">
-</a></p>
 
-<p><a href="/images/northviewpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri3.jpg">
-</a></p>
-
-<p><a href="/images/northviewpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/northviewpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri5.jpg">
-</a></p>
-
-<p><a href="/images/northviewpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri6.jpg">
-</a></p>
-
-<p><a href="/images/northviewpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/northviewpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri8.jpg">
-</a></p>
-
-<p><a href="/images/northviewpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northviewpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 North View Primary School was established in 1995 as a government co-educational school. Located at Yishun Avenue 6, the school completed PRIME upgrading in 2002. The following year, the school became single-session. North View Primary celebrated its 10th anniversary in 2004 and 15th anniversary in 2009.

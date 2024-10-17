@@ -3,6 +3,7 @@ title: First Toa Payoh Primary School
 permalink: /school-histories/first-tpy-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/firsttpypri1.png">
 
@@ -14,51 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSDgig6xw27oPPSjLkmmSieKKnplDJ940hCO_F7m3fF3a-1UdvW1szECKD9PiBITjgyXgPLgVdaqXmt/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/firsttpypri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri2.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/firsttpypri4.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/firsttpypri3.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/firsttpypri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri6.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri7.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri8.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/firsttpypri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri9.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri10.jpg">
-</a></p>
-
-<p><a href="/images/firsttpypri11.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/firsttpypri11.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 First Toa Payoh Primary School started in 1968 in Lorong 1, Toa Payoh. In 1979, the school started two pre-primary classes, one in the morning and one in the afternoon. The pre-primary classes ceased in 1989.
@@ -73,7 +29,8 @@ Principals:<br>
 \- Ms Pang Ong Choo (1999–2001)<br>
 \- Miss Rosalind Chia Peck Lan (2002–2008)<br>
 \- Ms Pearly Ng Por Joo (2008–2016)<br>
-\- Mr Chua Choon Guan (2016–present)
+\- Mr Chua Choon Guan (2016–2023)<br>
+\- Mrs Jennifer Choy (2024-present) 
 
 **Related Schools: [Braddell Primary School](/school-histories/braddell-pri/) \| [Westlake Primary School](/school-histories/westlake-pri/) \| [San Shan Primary School](/school-histories/san-shan-pri/)**
 

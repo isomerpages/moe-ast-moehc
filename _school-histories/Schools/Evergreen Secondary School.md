@@ -3,6 +3,7 @@ title: Evergreen Secondary School
 permalink: /school-histories/evergren-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/evergreensec1.png">
 
@@ -13,40 +14,6 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmpxDp_QatkeXyb6C_oVrWlD5m2lN6QtEFoIcyepjAaLdaliiJNBVbvwVF2Jqw4dGThrbkHG0Yun5t/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<p><a href="/images/evergreensec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec2.jpg">
-</a></p>
-
-<p><a href="/images/evergreensec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec3.jpg">
-</a></p>
-
-<p><a href="/images/evergreensec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/evergreensec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec5.jpg">
-</a></p>
-
-<p><a href="/images/evergreensec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec6.jpg">
-</a></p>
-
-<p><a href="/images/evergreensec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/evergreensec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreensec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Evergreen Secondary School was established in 2000 with 320 students and 12 teaching staff. In June that year, Evergreen Secondary School moved into its present premises at 11 Woodlands Street 83.&nbsp;&nbsp;
@@ -67,7 +34,8 @@ Principals:<br>
 \- Mrs Mary Koh (2000–2006)<br>
 \- Mr Chan Yew Wooi (2007–2011)<br>
 \- Mrs Carol Lim (2012–2017)<br>
-\- Mr Vincent Toh (2018–present)
+\- Mr Vincent Toh (2018–2023)<br>
+\- Ms Bian Yu Wei (2024-present) 
 
 #### **Key Milestones**
 

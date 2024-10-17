@@ -3,6 +3,7 @@ title: Haig Girls' School
 permalink: /school-histories/haig-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/haiggirls1.png">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-VHIRkO2A6DBRWfMUsnKx3Le2Vb1gz3P_pmuBCZeTZsDlzLdLwCxVJxSqWbmtUHt-_8nN_x2CLwOv/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/haiggirls2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haiggirls2.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls3.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/haiggirls3.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls4.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/haiggirls4.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/haiggirls6.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haiggirls5.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls9.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/haiggirls9.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls7.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/haiggirls7.jpg">
-</a></p>
-
-<p><a href="/images/haiggirls8.jpeg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/haiggirls8.jpeg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Haig Girls’ School (HGS) was established on 10 September 1951 at Jalan Tembusu, in a double-storey building with 200 pupils in nine classes. In 1955, seven additional classes were opened in the afternoon session to meet the increase in the student population, which had swelled to over 500 pupils. On 29 November 1999, the school relocated to its current site on Koon Seng Road, and has functioned as a single-session school since January 2000.&nbsp;
@@ -70,7 +38,8 @@ Principals:<br>
 \- Mrs Angela Tan (1997–2002)<br>
 \- Mrs Ginny Leong (2003–2009)<br>
 \- Mrs Constance Loke (2010–2016)<br>
-\- Ms Lo Yen Nie (2017–present)
+\- Ms Lo Yen Nie (2017–2023)<br>
+\- Ms Marion Tay (2024-present)
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Compassvale Primary School
 permalink: /school-histories/compassvale-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/compassvalepri1.png">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqobvxB9hjj4W3rrsWmVlwTzSa8SHRjWV2no8giCMj_CfUgOTxZj6xAbe7mZsm7Udfx4WYCEx2Gf4B/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/compassvalepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri2.jpg">
-</a></p>
 
-<p><a href="/images/compassvalepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri3.jpg">
-</a></p>
-
-<p><a href="/images/compassvalepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/compassvalepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri5.jpg">
-</a></p>
-
-<p><a href="/images/compassvalepri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri6.jpg">
-</a></p>
-
-<p><a href="/images/compassvalepri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/compassvalepri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri8.jpg">
-</a></p>
-
-<p><a href="/images/compassvalepri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/compassvalepri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Compassvale Primary School was established on 4 January 1999 at a holding site in Sengkang Primary School.
@@ -67,7 +32,8 @@ Principals:<br>
 \- Mrs Anne Seow Eng Leng (1999–2002)<br>
 \- Mr K. Govindan (2002–2009)<br>
 \- Mr Chua Choon Guan (2009–2016)<br>
-\- Mr Jeffrey Aw (2016–present)
+\- Mr Jeffrey Aw (2016–2023)<br>
+\- Mr Vincent Lee (2024-present)
 
 #### **Key Milestones**
 

@@ -14,47 +14,7 @@ variant: markdown
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmF47f9Q0nibuB2bBiLCRtotbJaXAnww4r9lRXs5ysE7WFkX896Na-p5hcCy_xxvMOJoarKc_WK8Y2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/bukitbatoksec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec2.jpg">
-</a></p>
 
-<p><a href="/images/bukitbatoksec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec3.jpg">
-</a></p>
-
-<p><a href="/images/bukitbatoksec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitbatoksec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec5.jpg">
-</a></p>
-
-<p><a href="/images/bukitbatoksec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec6.jpg">
-</a></p>
-
-<p><a href="/images/bukitbatoksec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bukitbatoksec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec8.jpg">
-</a></p>
-
-<p><a href="/images/bukitbatoksec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec9.jpg">
-</a></p>
-
-<p><a href="/images/bukitbatoksec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bukitbatoksec10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Bukit Batok Secondary School (BBSS) was established in 1986 to address the schooling needs of the newly completed Bukit Batok New Town in the mid-1980s. Its first batch of students totalled 400. The school building, located at 50 Bukit Batok West Avenue 8, featured unique sloping tiled roofs and a spacious entrance concourse while classes adopted the latest educational technology.
@@ -78,7 +38,8 @@ Principals:<br>
 * Mr Tan Soon Yong (2003–2004)<br>
 * Mrs Lysia Kee (2005–2013)<br>
 * Ms Chamb Cherk Ing (2014–2016)<br>
-* Mr Phua Huat Chuan (2017–present)
+* Mr Phua Huat Chuan (2017–2023) <br>
+* Mrs Shirley Lee (2024 - present) 
 
 #### **Key Milestones**
 

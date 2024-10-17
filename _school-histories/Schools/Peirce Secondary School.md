@@ -3,6 +3,7 @@ title: Peirce Secondary School
 permalink: /school-histories/peirce-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/peircesec1.png">
 
@@ -14,27 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLBIJN6JZzhAaR1iYZZdHtp5gOxCGWK7zhT3TfQbTxscnjlAyoXWkitkqFJCgKq-gdBFnQf3pZ2abn/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/peircesec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec2.jpg">
-</a></p>
-
-<p><a href="/images/peircesec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec3.jpg">
-</a></p>
-
-<p><a href="/images/peircesec4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/peircesec4.jpg">
-</a></p>
-
-<p><a href="/images/peircesec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec5.jpg">
-</a></p>
-
-<p><a href="/images/peircesec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peircesec6.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Peirce Secondary School was established in 1994 at the premises of Bishan Park Secondary School. On 17 February 1995, the school moved to its current premises at 10 Sin Ming Walk. The indoor sports hall was completed at the end of 2008 following PRIME upgrading. 
@@ -54,7 +34,8 @@ Principals:<br>
 \- Mr Richard Chew (1999–2005)<br>
 \- Mr Sim Chong Boon (2005–2011)<br>
 \- Mdm Lee Eet Fong (2011–2017)<br>
-\- Mdm Chang Betty (2017–present)
+\- Mdm Chang Betty (2017–2023)<br>
+\- Mr Benedict Keh (2024-present) 
 
 **Related School: [Bishan Park Secondary School](/school-histories/bishan-park-sec/)**
 

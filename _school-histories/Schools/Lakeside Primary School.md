@@ -3,6 +3,7 @@ title: Lakeside Primary School
 permalink: /school-histories/lakeside-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/lakesidepri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTONddyKcZ5Cx_Fe1IbfTldlme9cJIKf8nTKG5aguaJZrDgygvK2zivdXuX_qEB3NVVXahFJhzTUMtq/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/lakesidepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri2.jpg">
-</a></p>
-
-<p><a href="/images/lakesidepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri3.jpg">
-</a></p>
-
-<p><a href="/images/lakesidepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/lakesidepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri5.jpg">
-</a></p>
-
-<p><a href="/images/lakesidepri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri6.jpg">
-</a></p>
-
-<p><a href="/images/lakesidepri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/lakesidepri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri8.jpg">
-</a></p>
-
-<p><a href="/images/lakesidepri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/lakesidepri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Lakeside Primary School was formed from the merger of Jurong Town Primary, Merlimau Primary and Yung An Primary. The three schools were situated in Taman Jurong and had relatively long histories. Jurong Primary was officially opened on 28 March 1968, while Merlimau Primary began its humble beginnings in 1964, the oldest of the three schools. Yung An, which means ‘Forever Peaceful’, was named thus as it was located within the beautiful and peaceful Jurong Lake district.&nbsp;
@@ -60,7 +24,8 @@ Situated along Corporation Walk,&nbsp;Lakeside Primary&nbsp;was officially opene
 Principals:<br>
 \- Mr Chew Chong Theng (2003–2010)<br>
 \- Mrs Wang-Tan Sun Sun (2011–2017)<br>
-\- Mrs Finella Goh (2018–present)
+\- Mrs Finella Goh (2018–2023)<br>
+\- Mrs Rina Liang (2024-present)
 
 **Related Schools: [Merlimau Primary School](/school-histories/merlimau-pri/) | [Jurong Town Primary School](/school-histories/jurong-town-pri/) |  [Yung An Primary School](/school-histories/yung-an-pri/)**
 

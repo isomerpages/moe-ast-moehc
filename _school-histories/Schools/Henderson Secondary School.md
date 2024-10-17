@@ -3,6 +3,7 @@ title: Henderson Secondary School
 permalink: /school-histories/henderson-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/hendersonsec1.png">
 
@@ -13,39 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3Hh9cQCh4ToSGNxgKWPABCpCucT8AayYRpABFtZnwxf4zPabkK04STukzNZo_SsKf7Lq8t6qZoGzs/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/hendersonsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonsec2.jpg">
-</a></p>
 
-<p><a href="/images/hendersonsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonsec3.jpg">
-</a></p>
-
-<p><a href="/images/hendersonsec5.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/hendersonsec5.jpg">
-</a></p>
-
-<p><a href="/images/hendersonsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonsec4.jpg">
-</a></p>
-
-<p><a href="/images/hendersonsec8.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/hendersonsec8.jpg">
-</a></p>
-
-<p><a href="/images/hendersonsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonsec6.jpg">
-</a></p>
-
-<p><a href="/images/hendersonsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonsec7.jpg">
-</a></p>
-
-<p><a href="/images/hendersonsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1974, Henderson Secondary School was located at Friendly Hill on Preston Road. The pioneer batch of 600 Secondary One students and 24 teachers was led by Henderson’s first principal, Mr Gan Kee Soon. To cater to the growing student population, the school moved to Henderson Road in 1976. The school song written by Michael Habib Sim, a Science and English teacher.

@@ -3,6 +3,7 @@ title: Ngee Ann Secondary School
 permalink: /school-histories/ngee-ann-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/ngeeannsec1.jpg">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_jf4QVFjoAfAB29KAZ8zBUW9YG9eCWMm1-JR7G7fk4WP74JH8zPsSeQxs6cExU2ekKIx4t2sPkA2f/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/ngeeannsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec2.jpg">
-</a></p>
 
-<p><a href="/images/ngeeannsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec3.jpg">
-</a></p>
-
-<p><a href="/images/ngeeannsec4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/ngeeannsec4.jpg">
-</a></p>
-
-<p><a href="/images/ngeeannsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec5.jpg">
-</a></p>
-
-<p><a href="/images/ngeeannsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ngeeannsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec7.jpg">
-</a></p>
-
-<p><a href="/images/ngeeannsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec8.jpg">
-</a></p>
-
-<p><a href="/images/ngeeannsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ngeeannsec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 In 1991, the charitable organisation Ngee Ann Kongsi mooted the idea of starting Ngee Ann Secondary School, and the School Building Committee was formed in the following year. After several rounds of consultation with the Ministry of Education, it was decided that the school would be built in Tampines. The school began its operations in 1994 with 15 Secondary One classes and an enrolment of around 600 students. It was temporarily located at Springfield Secondary School. The school moved to its new premises in June 1994.
@@ -69,7 +36,8 @@ Principals:<br>
 \- Mr Chua Chor Huat (2004–2008)<br>
 \- Mr Adrian Lim (2009–2013)<br>
 \- Mr Albert Lim (2014–2018)<br>
-\- Mr Teo Kok Hong (2019)
+\- Mr Teo Kok Hong (2019-2023)<br>
+\- Ms Poh Shi Hui (2024-present)
 
 #### **Key Milestones**
 

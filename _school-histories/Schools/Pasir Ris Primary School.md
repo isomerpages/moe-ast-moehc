@@ -42,7 +42,10 @@ on 3 August 2018 in conjunction with the school’s 25th anniversary celebration
 <p>Mrs Chin Lai Yoke (2011–2017)</p>
 </li>
 <li>
-<p>Mr Tan King Ming (2017–present)</p>
+<p>Mr Tan King Ming (2017–2023)</p>
+</li>
+<li>
+<p>Ms Liza Rahmat (2024-present)</p>
 </li>
 </ul>
 <p></p>

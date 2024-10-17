@@ -16,41 +16,6 @@ variant: markdown
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReh0C7hkMfZ8i555posb_3Wpm6lYC8B07Tx72sFN5zTO3qoliUVd0px7x29u1PSYygy6Ka0BHyHMpy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/ycksec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec2.jpg">
-</a></p>
-
-<p><a href="/images/ycksec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec3.jpg">
-</a></p>
-
-<p><a href="/images/ycksec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec4.jpg">
-</a></p>
-
-<p><a href="/images/ycksec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ycksec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec6.jpg">
-</a></p>
-
-<p><a href="/images/ycksec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec7.jpg">
-</a></p>
-
-<p><a href="/images/ycksec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec8.jpg">
-</a></p>
-
-<p><a href="/images/ycksec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/ycksec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yio Chu Kang Secondary School was established in 1965 due to the demand for secondary education for the children of residents in the area. The school started as an integrated English-Chinese stream school at 11 Milestone Yio Chu Kang Road and was officially declared open in June 1966.&nbsp;&nbsp;

@@ -3,6 +3,7 @@ title: Sembawang Primary School
 permalink: /school-histories/sembawang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sbwpri1.png">
 
@@ -15,43 +16,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSew2h0Eq-NvlzP9z8jv-H7TlyjGb97AVJbz2rFkw_j2RSZeGiunBPwE5R8g02Ny-fUjSsAS3m1-aCy/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/sbwpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri2.jpg">
-</a></p>
 
-<p><a href="/images/sbwpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri3.jpg">
-</a></p>
-
-<p><a href="/images/sbwpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sbwpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri5.jpg">
-</a></p>
-
-<p><a href="/images/sbwpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri6.jpg">
-</a></p>
-
-<p><a href="/images/sbwpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sbwpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri8.jpg">
-</a></p>
-
-<p><a href="/images/sbwpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sbwpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Sembawang Primary School started as a single-session school with 925 students in 28 classes on 4 January 1999. It was the first school in the new residential town of Sembawang. The first principal, Mr Han Mok Puek, started the school with four heads of department (English, Math/Science, Mother Tongue and Discipline), a teaching staff of 35 teachers and a non-teaching staff of six. Ms Sugadha Anandan joined the school as its first vice-principal on 21 June 1999.
@@ -64,7 +29,8 @@ Principals:<br>
 \- Mr Han Mok Puek (1999–2005)<br>
 \- Mr Albert Alcantara (2006–2010)<br>
 \- Mr Kiran Kumar Gosian (2011–2016)<br>
-\- Mrs Grace Chua (2017–present)
+\- Mrs Grace Chua (2017–2023)<br>
+\- Mr Ng Aik Boon (2024-present)
 
 #### **Key Milestones**
 

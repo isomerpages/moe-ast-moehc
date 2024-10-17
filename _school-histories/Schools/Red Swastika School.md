@@ -15,43 +15,7 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMaBP7lzBCezWxw7JcjrizVafkzL5aZQM9wN1AWcJmklXucH0SLRRyPWqgP7EUh988ESysYXjTwaBX/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/redswastikasch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch2.jpg">
-</a></p>
 
-<p><a href="/images/redswastikasch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch3.jpg">
-</a></p>
-
-<p><a href="/images/redswastikasch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/redswastikasch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch5.jpg">
-</a></p>
-
-<p><a href="/images/redswastikasch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch6.jpg">
-</a></p>
-
-<p><a href="/images/redswastikasch7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/redswastikasch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/redswastikasch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch8.jpg">
-</a></p>
-
-<p><a href="/images/redswastikasch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/redswastikasch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Red Swastika School was founded in 1951 as Wan Tzu School by the World Red Swastika Society (Singapore Administration Centre), a religious and charitable organisation. The piece of land at Somapah Road in Changi was donated by the society’s then president, Mr Quek Shin, who saw the need to provide free primary education for the poor and to aid in the promotion of education in the outlying areas. On 13 January 1951, the foundation stone was laid at the school opening ceremony. In 1956, Wan Tzu School was renamed Red Swastika School. In 1979, the pre-primary programme was introduced. In 1981, the school relocated to its present premises at Bedok North Avenue 3.

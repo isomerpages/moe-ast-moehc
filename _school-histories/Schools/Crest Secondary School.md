@@ -3,6 +3,7 @@ title: Crest Secondary School
 permalink: /school-histories/crest-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/crestsecsch1.png">
 
@@ -14,43 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKZGERe6oFQUw0jvwtD37nxiqiUztv-d8z0bAs3clK3-s2KeGqepXh7QIx45qZ926IdXe0gghvp74B/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/crestsecsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch2.jpg">
-</a></p>
 
-<p><a href="/images/crestsecsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch3.jpg">
-</a></p>
-
-<p><a href="/images/crestsecsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/crestsecsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch5.jpg">
-</a></p>
-
-<p><a href="/images/crestsecsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch6.jpg">
-</a></p>
-
-<p><a href="/images/crestsecsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/crestsecsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch8.jpg">
-</a></p>
-
-<p><a href="/images/crestsecsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/crestsecsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Crest Secondary School was first announced by Prime Minister Lee Hsien Loong at the 2010 National Day Rally to be the first specialised school for students in the Normal (Technical), or N(T), stream. The school received its first batch of Secondary One students in January 2013.
@@ -67,7 +32,8 @@ Crest Secondary School was officially opened in 2015 and is located at 561 Juron
 
 Principals:<br>
 \- Mr Frederick Yeo (2012–2017)<br>
-\- Mr Seet Tiat Hee (2017–present)
+\- Mr Seet Tiat Hee (2018-2023)<br>
+\- Mr Benjamin Kwok (2024 - present) 
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Teck Ghee Primary School
 permalink: /school-histories/teck-ghee-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/teckgheepri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSjmykhLkHzVcvMuyudkXnrAkHnJD6Tn3_gz-hIXITKSTQYzwZItOi5nmQlLn9Xay-_PnEGsIWh3Lpd/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/teckgheepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri2.jpg">
-</a></p>
-
-<p><a href="/images/teckgheepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri3.jpg">
-</a></p>
-
-<p><a href="/images/teckgheepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/teckgheepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri5.jpg">
-</a></p>
-
-<p><a href="/images/teckgheepri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri6.jpg">
-</a></p>
-
-<p><a href="/images/teckgheepri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/teckgheepri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri8.jpg">
-</a></p>
-
-<p><a href="/images/teckgheepri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/teckgheepri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Teck Ghee Primary School was established in 1979. The school was officially opened in April 1989. Teck Ghee Primary School was the third government school built in Ang Mo Kio.
@@ -64,7 +28,8 @@ Principals:<br>
 \- Mrs Tan Bee Har (1982–2002)<br>
 \- Mr Tan Say Kiat (2002–2010)<br>
 \- Mdm Chua Pei Pei (2010–2017)<br>
-\- Mr Wong Jia Wang (2017–present)
+\- Mr Wong Jia Wang (2017–2023)<br>
+\- Ms Rezia Rahumathullah (2024-present)
 
 **Related School: [Chong Li Primary School](/school-histories/chong-li-pri/)**
 

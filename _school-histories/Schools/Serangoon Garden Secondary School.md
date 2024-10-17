@@ -3,6 +3,7 @@ title: Serangoon Garden Secondary School
 permalink: /school-histories/serangoon-garden-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/serangoongardensec1.png">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ_Eb1Ko5JsIq4EJUhEFo7Rv8euR-RyQokaEV5S8vjJ_weqeYrVdHUOKj6QoG-cZ52-pi47mgtFnd3I/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/serangoongardensec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec2.jpg">
-</a></p>
 
-<p><a href="/images/serangoongardensec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec3.jpg">
-</a></p>
-
-<p><a href="/images/serangoongardensec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec4.jpg">
-</a></p>
-
-<p><a href="/images/serangoongardensec5.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/serangoongardensec5.jpg">
-</a></p>
-
-<p><a href="/images/serangoongardensec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/serangoongardensec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec8.jpg">
-</a></p>
-
-<p><a href="/images/serangoongardensec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec9.jpg">
-</a></p>
-
-<p><a href="/images/serangoongardensec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/serangoongardensec10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Serangoon Garden Secondary School began as Lichfield Secondary School, an English-medium school started in 1959. In the following year, the school was renamed Serangoon Garden Government High School, which offered both English and Chinese streams. Serangoon Garden Secondary School was established in 1969 when it absorbed the neighbouring school, Hwi Yoh Vocational School, and effectively became a bilingual school.&nbsp;
@@ -74,7 +41,8 @@ Principals:<br>
 \- Ms Chee Mei Chun (2002–2009)<br>
 \- Mr Ng Chee Kheong (2010–2013)<br>
 \- Mr Stephen Tay (2014–2017)<br>
-\- Mdm Valerie Goh (2018–present)
+\- Mdm Valerie Goh (2018–2023)<br>
+\- Mrs Patsy Ong (2024 - present) 
 
 #### **Key Milestones**
 

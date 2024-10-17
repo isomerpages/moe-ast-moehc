@@ -3,6 +3,7 @@ title: St Hilda's Primary School
 permalink: /school-histories/st-hilda-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sthildapri1.png">
 
@@ -13,39 +14,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_l05WoUXJbYNs7ROGlxKBCW7BfI5LXlcSwf3S5t9UHVScghChUGK9wnr1daoSy_5bttqgbLG9qz9r/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/sthildapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri2.jpg">
-</a></p>
 
-<p><a href="/images/sthildapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri3.jpg">
-</a></p>
-
-<p><a href="/images/sthildapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sthildapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri5.jpg">
-</a></p>
-
-<p><a href="/images/sthildapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri6.jpg">
-</a></p>
-
-<p><a href="/images/sthildapri7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/sthildapri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/sthildapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/sthildapri8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 In 1934, Anglican Archdeacon Graham White acquired Bethel English School on Ceylon Road to set up an Anglican school for girls. He named it St Hilda’s School, and captured the essence of the school’s aims and inspirations in the Mosaic command “Go Forward” (Exodus 14:15), which has since become the school motto. The school was officially opened on 8 May 1934.
@@ -67,7 +36,8 @@ Principals:<br>
 \- Ms Foo Pee Pee (1988–1998)<br>
 \- Mrs Foo Sook Fong (1998–2006)<br>
 \- Mdm Kew Mee Ying (2006–2018)<br>
-\- Mrs Daphne Yeoh (2018–present)
+\- Mrs Daphne Yeoh (2018–2023)<br>
+\- Mdm Law Li Mei (2024-present)
 
 #### **Key Milestones**
 

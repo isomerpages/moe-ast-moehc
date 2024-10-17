@@ -3,6 +3,7 @@ title: Kent Ridge Secondary School
 permalink: /school-histories/kent-ridge-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/kentridgesec1.png">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTuaY_G8fe_P1wKghlmVpxYuC3VrXceJOyi5lxLeB1yKSHG9W5PEmQkcCYFUgyk9_376_PlmV_AINvQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/kentridgesec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/kentridgesec2.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/kentridgesec3.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec5.jpg">  
-<img align="right" style="width:22%;margin-right:15px;" src="/images/kentridgesec5.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec4.jpg">  
-<img align="right" style="width:20%;margin-right:45px;" src="/images/kentridgesec4.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/kentridgesec6.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/kentridgesec7.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/kentridgesec9.jpg">
-</a></p>
-
-<p><a href="/images/kentridgesec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/kentridgesec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Kent Ridge Secondary School (KRSS) began operations at the former Yusof Ishak Secondary School at 27A Jubilee Road on 2 January 2000. The school relocated to its current premises at 147 West Coast Road in December 2001 and was officially opened on 15 March 2003.
@@ -65,7 +33,8 @@ Principals:<br>
 \- Ms Chamb Cherk Ing (2000–2006)<br>
 \- Mr Koh Chong Mong (2007–2012)<br>
 \- Mrs Anba Saroja (2013–2018)<br>
-\- Mr Benedict Keh (2019–present)
+\- Mr Benedict Keh (2019–2023)<br>
+\- Mdm Goh Mien Hui (2024-present) 
 
 #### **Key Milestones**
 

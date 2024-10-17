@@ -3,6 +3,7 @@ title: Yio Chu Kang Primary School
 permalink: /school-histories/yck-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yckpri1.png">
 
@@ -15,41 +16,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRb-usehHo5Os85DfKQTvI_TzS7x179w2NRlhUCDBIckwCLSwvvUFpbVnr--BDBnKoGJkSUOw6HPEUD/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/yckpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri2.jpg">
-</a></p>
-
-<p><a href="/images/yckpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri3.jpg">
-</a></p>
-
-<p><a href="/images/yckpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yckpri5.jpg">  
-<img align="left" style="width:29%;margin-right:15px;" src="/images/yckpri5.jpg">
-</a></p>
-
-<p><a href="/images/yckpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri6.jpg">
-</a></p>
-
-<p><a href="/images/yckpri7.jpg">  
-<img align="right" style="width:30%;margin-right:35px;" src="/images/yckpri7.jpg">
-</a></p>
-
-<p><a href="/images/yckpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri8.jpg">
-</a></p>
-
-<p><a href="/images/yckpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yckpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yio Chu Kang Primary School was built under the colonial government’s ten-year plan in October 1950. It began as a single block of 14 classrooms with a principal’s office and a staff room. There were initially 11 classes. In 1952, the classes expanded to 26, functioning in two sessions. With the completion of the school field in 1953, the first Annual Sports Meet was held the following year.
@@ -72,7 +38,8 @@ Principals:<br>
 \- Ms Pang Ong Choo (1992–1998)<br>
 \- Mrs Toh Boon Keng (1998–2009)<br>
 \- Mrs Teo-Seah Whye Choo (2010–2016)<br>
-\- Mr Ng Aik Boon (2016–present)
+\- Mr Ng Aik Boon (2016–2023)<br>
+\- Ms Poh Hwee Thing (2024-present)
 
 #### **Key Milestones**
 

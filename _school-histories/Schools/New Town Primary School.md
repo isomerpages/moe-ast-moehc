@@ -3,6 +3,7 @@ title: New Town Primary School
 permalink: /school-histories/new-town-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/newtownpri1.png">
 
@@ -14,29 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMitCdbEv8adsBKR8byRenIMtEbdhtnbKpMn7G0Q8PEnLapt3HurSCtdn5OC4NGGA9cS46iFsuTo7v/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/newtownpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri2.jpg">
-</a></p>
 
-<p><a href="/images/newtownpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri3.jpg">
-</a></p>
-
-<p><a href="/images/newtownpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/newtownpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri5.jpg">
-</a></p>
-
-<p><a href="/images/newtownpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/newtownpri6.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 New Town Primary School was established in 1965 as an integrated school, offering both English and Chinese classes in two sessions. The school, located in Queenstown at 402 Commonwealth Drive, served the needs of families in the first Housing and Development Board estate. The school was officially opened on 26 July 1965.
@@ -54,7 +33,8 @@ Principals:<br>
 \- Mrs Chow-Hon Kwai Peng (1997–2000)<br>
 \- Mrs Lily Ong (2001–2010)<br>
 \- Dr Irene Ng (2011–2018)<br>
-\- Tan-Ng Wie Pin (2019 – present) 
+\- Mrs Tan-Ng Wie Pin (2019–2023)<br>
+\- Ms Hannah Chia (2024-present)
 
 **Related School: [Ghim Moh Primary School](/school-histories/ghim-moh-pri/)**
 

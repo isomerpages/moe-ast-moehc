@@ -3,6 +3,7 @@ title: Angsana Primary School
 permalink: /school-histories/angsana-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri1.png">
 
@@ -12,33 +13,6 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYC-uLCc6BkGCVz14opuhHk5JEP9_ypMTLtmtG3LRTCwQEMTFWhDMxHG9TGzFIV4fwr4Jxkv4nXfso/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/angsanapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri2.jpg">
-</a></p>
-
-<p><a href="/images/angsanapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri3.jpg">
-</a></p>
-
-<p><a href="/images/angsanapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/angsanapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri5.jpg">
-</a></p>
-
-<p><a href="/images/angsanapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri6.jpg">
-</a></p>
-
-<p><a href="/images/angsanapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/angsanapri7.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Angsana Primary School was established in 2015 as a merger of the former Qiaonan Primary School and Griffiths Primary School.  
@@ -50,7 +24,8 @@ Previously named Kiau Nam School, Qiaonan Primary School was founded in 1933. Fr
 Originally named Towner Road School because of its location, Griffiths School was established on 1 June 1950.&nbsp; &nbsp;Griffiths School was the first of 90 schools scheduled to be built under the plan to provide free and compulsory elementary education. The school was named in honour of Rt. Hon. Mr James Griffiths, then Secretary of the British Colonies, who officially opened the school. The school had two sessions with two different principals. The morning session was known as Griffiths School 1, and the afternoon, Griffiths School 2. In 1982, the school was closed, and the students were transferred to Moulmein Primary School. Griffiths School was re-established as Griffiths Primary School in Tampines in 1988.
 
 Principal:<br>
-* Ms Foong Yin Wei (2015–present)
+* Ms Foong Yin Wei (2015–2023)
+* Mr Gabriel Wong (2024-present)
 
 **Related Schools:** **[Griffiths Primary School](/school-histories/griffiths-pri/)** \| **[Qiaonan Primary School](/school-histories/qiaonan-pri/)**
 

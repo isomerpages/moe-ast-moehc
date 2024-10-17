@@ -3,6 +3,7 @@ title: Evergreen Primary School
 permalink: /school-histories/evergreen-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/evergreenpri1.jpg">
 
@@ -13,25 +14,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeag53J06-cOJ6RO-Vk7f8cxsf-Df3z4pY7--YLEZOIlyVJR5o7Du19Wh3Mo8s90KcmEEL51xNcuAV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/evergreenpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri2.jpg">
-</a></p>
-
-<p><a href="/images/evergreenpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri3.jpg">
-</a></p>
-
-<p><a href="/images/evergreenpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/evergreenpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/evergreenpri5.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Evergreen Primary was established in January 1999. The school started functioning with 22 classes of pupils from Primary One to Primary Four. It was temporarily housed in two separate campuses at Woodlands Ring Primary School and Woodlands Ring Secondary School. It then moved to its present premises on 22 March 1999, and was officially opened on 6 July 2002. The school celebrated its 10th&nbsp;and 20th&nbsp;anniversary in 2009 and 2019 respectively.
@@ -44,7 +26,8 @@ Principals:<br>
 \- Mrs See Chak Wah (1999–2003)<br>
 \- Mr Tan Kah Teo (2003–2009)<br>
 \- Ms Ong Lee Choo (2009–2016)<br>
-\- Mrs Rabia Shahul (2016–present)
+\- Mrs Rabia Shahul (2016–2023)<br>
+\- Mr Jeffrey Aw (2024-present)
 
 #### **Key Milestones**
 
