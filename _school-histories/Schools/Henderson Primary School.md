@@ -3,6 +3,7 @@ title: Henderson Primary School
 permalink: /school-histories/henderson-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/hendersonpri1.png">
 
@@ -13,19 +14,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQqyf5oPSshRIfpZiel-UkKqWcRA2o4mhoyfuhdB0DyPqjwfi_C5QJJESepBvaTDAju5eq0W-kZz1W/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/hendersonpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonpri2.jpg">
-</a></p>
-
-<p><a href="/images/hendersonpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonpri3.jpg">
-</a></p>
-
-<p><a href="/images/hendersonpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/hendersonpri4.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Henderson Primary School was officially declared open on 31 March 1977. It was located at Henderson Road.
