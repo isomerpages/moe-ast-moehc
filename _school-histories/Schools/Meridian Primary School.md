@@ -3,6 +3,7 @@ title: Meridian Primary School
 permalink: /school-histories/meridian-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/meridianpri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTadg1R63i2G1zZg-6ngNAFcr5I9m8Tt8NiiOH7Sua0dyviE8n5lTL2BoZIkIF3KFyEniOmYZEbY1bD/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/meridianpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri2.jpg">
-</a></p>
-
-<p><a href="/images/meridianpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri3.jpg">
-</a></p>
-
-<p><a href="/images/meridianpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/meridianpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri5.jpg">
-</a></p>
-
-<p><a href="/images/meridianpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri6.jpg">
-</a></p>
-
-<p><a href="/images/meridianpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/meridianpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri8.jpg">
-</a></p>
-
-<p><a href="/images/meridianpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridianpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 2000, Meridian Primary School was the seventh primary school in the western sector of Pasir Ris New Town. The school started with 168 students in five Primary One classes. It operated from Coral Primary School for a year, where it had its afternoon session after Coral Primary finished their classes in the morning. Meridian Primary School moved to its present location at 20 Pasir Ris Street 71 on 4 December 2000. During the first year at its new location, the school operated with classes from Primary One to Primary Four with 13 staff, eight of whom were teachers.
@@ -67,7 +31,8 @@ Principals:<br>
 \- Mr Eric Lim (2000–2007)<br>
 \- Mdm Tan May Ling (2008–2010)<br>
 \- Mr Lim Meng Wei (2011–2016)<br>
-\- Ms Liza Rahmat (2017–present)
+\- Ms Liza Rahmat (2017–2023)<br>
+\- Mrs Lim-Chew Siang Jiun (2024-present) 
 
 #### **Key Milestones**
 

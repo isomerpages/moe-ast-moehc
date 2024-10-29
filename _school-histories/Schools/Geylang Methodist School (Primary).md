@@ -3,6 +3,7 @@ title: Geylang Methodist School (Primary)
 permalink: /school-histories/geylang-methodist-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/geylangmethodistpri1.png">
 
@@ -14,47 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQg0wK6zt-ScCvN5A2-LScPrzxXx5jguUHYNbACsyjFqdDQdTTsKsx1jw5WTw8ZEa4ppXjMdI0zKyrv/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/geylangmethodistpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri2.jpg">
-</a></p>
 
-<p><a href="/images/geylangmethodistpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri3.jpg">
-</a></p>
-
-<p><a href="/images/geylangmethodistpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/geylangmethodistpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri5.jpg">
-</a></p>
-
-<p><a href="/images/geylangmethodistpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri6.jpg">
-</a></p>
-
-<p><a href="/images/geylangmethodistpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/geylangmethodistpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri8.jpg">
-</a></p>
-
-<p><a href="/images/geylangmethodistpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri9.jpg">
-</a></p>
-
-<p><a href="/images/geylangmethodistpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/geylangmethodistpri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Geylang Methodist School (Primary) was established as Geylang Methodist Girls’ School in 1924 with 27 students. It was set up by Rev Lloyd Sullivan (district superintendent), together with Mrs Chia Han Kiat and Ms Emma Walker, members of the Methodist Church. The school’s mission was to provide basic education to girls in an impoverished Geylang area.
@@ -69,7 +30,8 @@ Principals:<br>
 \- Mrs Heng Gaik Kee (1984–1995)<br>
 \- Ms Mabel Wee (1996–2007)<br>
 \- Mrs Rina Liang (2008–2015)<br>
-\- Mrs Jennifer Choy (2016–present)
+\- Mrs Jennifer Choy (2016–2023)<br>
+\- Mrs Daphne Yeoh (2024-present) 
 
 #### **Key Milestones**
 

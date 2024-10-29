@@ -3,6 +3,7 @@ title: Kuo Chuan Presbyterian Secondary School
 permalink: /school-histories/kuo-chuan-presbyterian-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/kuochuanpressec1.jpg">
 
@@ -78,7 +79,8 @@ Principals:<br>
 \- Mr Wong Lok Onn (1999–2003)<br>
 \- Mr Goh Lay Guan (2004)<br>
 \- Mr Tony Low Teck Eng (2005–2010)<br>
-\- Mrs Elsie Rajaratnam (2011–present)
+\- Mrs Elsie Rajaratnam (2011–2020)<br>
+\- Mr Justin Tan (2021–present)
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Victoria School
 permalink: /school-histories/victoria-school/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/victoriasch1.png">
 
@@ -15,41 +16,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRcBDSietgFEHbsnGDplQNfn4LnCPc8zFcKbGp05jNmshyH426icDiIGaz4uk332P1JxRS2fnhJI0pc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/victoriasch2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch2.jpg">
-</a></p>
-
-<p><a href="/images/victoriasch3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch3.jpg">
-</a></p>
-
-<p><a href="/images/victoriasch4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch4.jpg">
-</a></p>
-
-<p><a href="/images/victoriasch5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/victoriasch6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch6.jpg">
-</a></p>
-
-<p><a href="/images/victoriasch7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch7.jpg">
-</a></p>
-
-<p><a href="/images/victoriasch8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch8.jpg">
-</a></p>
-
-<p><a href="/images/victoriasch9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/victoriasch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Victoria School was established in 1876 as an English class in Kampong Glam Malay School. The Kampong Glam Malay Branch School aimed to help Malays benefit from English education. The first headmaster was Y.A. Yzelman, who organised and taught English to 12 Malay boys. Subsequently, under F.W. Hartley, new buildings were constructed in 1897 for better school facilities.
@@ -112,7 +78,8 @@ Principals:<br>
 \- Mr Ang Pow Chew (2000–2005)<br>
 \- Mr Low Eng Teong (2005–2011)<br>
 \- Mr Lim Boon Kong Andrew (2011–2017)<br>
-\- Mr Chow Weisi (2017–present)
+\- Mr Chow Weisi (2017–2023)<br>
+\- Mr Low Chun Meng (2024-present) 
 
 #### **Key Milestones**
 

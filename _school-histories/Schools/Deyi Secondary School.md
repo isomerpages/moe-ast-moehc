@@ -3,6 +3,7 @@ title: Deyi Secondary School
 permalink: /school-histories/deyi-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/deyisec1.jpg">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6rr3ekpoHquHDCj-n_V_D29SgHaRwZSorPsHIGHzOhbMqbnm7Kzxqs2daq0hTrFfhOPUxIgeUwIOY/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/deyisec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec2.jpg">
-</a></p>
-
-<p><a href="/images/deyisec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec3.jpg">
-</a></p>
-
-<p><a href="/images/deyisec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/deyisec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec5.jpg">
-</a></p>
-
-<p><a href="/images/deyisec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec6.jpg">
-</a></p>
-
-<p><a href="/images/deyisec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/deyisec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deyisec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Deyi Secondary School (formerly known as Teck Ghee Secondary School) was established in 1980 with the aim of making quality education accessible to the community in the then growing new town of Ang Mo Kio. The school adopted the motto ‘Dedication and Integrity’, with the objective of guiding students to be morally upright and academically driven.&nbsp;Deyi is guided by the philosophy that every child entrusted to the school is a gem, and that the teachers’ role is to help students fulfil their fullest potential and realise their dreams.
@@ -66,7 +34,8 @@ Principals:<br>
 \- Ms Yap Wah Choo (1999–2003)<br>
 \- Mrs Grace Chua (2003–2009)<br>
 \- Mrs Linda Chan (2009–2016)<br>
-\- Mrs Lim Ai Poo (2016–present)
+\- Mrs Lim Ai Poo (2016–2023)<br>
+\- Mr Chow Weisi (2024 - present) 
 
 #### **Key Milestones**
 

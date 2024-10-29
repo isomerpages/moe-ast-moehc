@@ -3,6 +3,7 @@ title: Guangyang Secondary School
 permalink: /school-histories/guangyang-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/guangyangsec1.jpg">
 
@@ -14,39 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLnssMyJi_YGeXnMKJIb7u7oK7q3oWaQjh7cqxeDR6LGuElpO-Z4Tq87zcDSXfGTaPvbcr_dD0zwCa/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/guangyangsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec2.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec3.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec4.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec6.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec7.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec8.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec9.jpg">
-</a></p>
-
-<p><a href="/images/guangyangsec10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/guangyangsec10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 The Guangyang journey began in 1918 in a humble shophouse next to a post office at the 5½ milestone, on Serangoon Road. Formal education was rare at the time – many could not afford to send their children to school. The birth of Kong Yiong School came about when a group of education enthusiasts saw the need to offer Chinese education at the primary level.
@@ -76,7 +44,8 @@ Principals:<br>
 \- Ms Low Chee Moon (2002–2005)<br>
 \- Mrs Tan Miao Ling (2006–2012)<br>
 \- Mr Benjamin Kwok (2013–2017)<br>
-\- Mr Alvin Lim (2018–present)
+\- Mr Alvin Lim (2018–2023)<br>
+\- Miss Tan Ke Xin (2024-present) 
 
 #### **Key Milestones**
 

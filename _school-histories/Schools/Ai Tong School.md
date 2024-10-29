@@ -3,6 +3,7 @@ title: Ai Tong School
 permalink: /school-histories/ai-tong-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch1.png">
 
@@ -12,41 +13,11 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUgGLw1uOmFinEXq9RoNEiTzWMtt6NLYUrx9XLENFUlPguIsI2f-ahCNOaGValxfpzBzRMeK6A6JAV/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/aitongsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch2.jpg">
-</a></p>
-
-<p><a href="/images/aitongsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch3.jpg">
-</a></p>
-
-<p><a href="/images/aitongsch4.jpg">  
-<img align="left" style="width:28%;margin-right:15px;" src="/images/aitongsch4.jpg">
-</a></p>
-
-<p><a href="/images/aitongsch7.jpg">  
-<img align="right" style="width:29%;margin-right:60px;" src="/images/aitongsch7.jpg">
-</a></p>
-
-<p><a href="/images/aitongsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch5.jpg">
-</a></p>
-
-<p><a href="/images/aitongsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch6.jpg">
-</a></p>
+ht:15px;" align="left"&gt;
+<p></p>
 
 <br clear="left">
 
-<p><a href="/images/aitongsch8.jpg">  
-<img align="left" style="width:33.5%;margin-right:15px;" src="/images/aitongsch8.jpg">
-</a></p>
-
-<p><a href="/images/aitongsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aitongsch9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Ai Tong School was established in 1912. The school was initially housed in a Methodist church on Boon Tat Street. In 1917, it relocated to 209 Telok Ayer Street. The Hokkien Huay Kuan took over Ai Tong School in 1929. In 1946, a branch school opened at the old Gan Eng Seng School premises. In 1956, the main school moved to the Hokkien Huay Kuan building at 137 Telok Ayer Street. Ai Tong School became a government-aided school in 1957, and in 1980, it became an integrated school. The new building at Ang Mo Kio Avenue 3 was officially opened in October 1981. Ai Tong became a Special Assistance Plan school in 1989. In 1993, the school relocated to 100 Bright Hill Drive, and it underwent PRIME in 2004. In 2017, Ai Tong School celebrated its 105th anniversary.
@@ -69,7 +40,8 @@ Principals:<br>
 * Mr Ting Beng Chin (1971–2001)
 * Mr Ng Keng Song (2002–2009)
 * Mr Tan Yap Kin (2010–2016)
-* Mdm Diane Goh (2017–present)
+* Mdm Diane Goh (2017–2023)
+* Mr Wong Jia Wang (2024-present) 
 
 #### **Key Milestones**
 

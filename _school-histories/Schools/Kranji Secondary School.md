@@ -3,6 +3,7 @@ title: Kranji Secondary School
 permalink: /school-histories/kranji-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/kranjisec1.png">
 
@@ -14,44 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgwpHfuh0vHi2xrOwi_pcVhFv8sip_3LzM22vYtnv__Iu-cCGOEbN_yQJGzRLzuYsRXnl-ZVdsy7ip/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/kranjisec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec2.jpg">
-</a></p>
 
-<p><a href="/images/kranjisec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec3.jpg">
-</a></p>
-
-<p><a href="/images/kranjisec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec4.jpg">
-</a></p>
-
-<p><a href="/images/kranjisec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/kranjisec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec6.jpg">
-</a></p>
-
-<p><a href="/images/kranjisec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec7.jpg">
-</a></p>
-
-<p><a href="/images/kranjisec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec8.jpg">
-</a></p>
-
-<br clear="left">
-
-
-<p><a href="/images/kranjisec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kranjisec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Kranji Secondary School was established in 1995 and temporarily sited in Chestnut Drive Secondary School.&nbsp;In 1996, the school relocated to its present premises at 61 Choa Chu Kang Street 51. The school underwent PRIME upgrading from 2016 to 2018. On 11 December 2018, the school shifted to its new premises.
@@ -69,7 +33,8 @@ Principals:<br>
 \- Mdm Bibiana Loh (1999–2004)<br>
 \- Mdm Maureen Lee Wee Lin (2005–2010)<br>
 \- Ms Tan Hwee Pin (2011–2016)<br>
-\- Mr Goh Soon Hoe (2017–present)
+\- Mr Goh Soon Hoe (2017–2023)<br>
+\- Mr Chua Lek Hong (2024-present) 
 
 \*Mrs Ang Ju Lang, principal of Chestnut Drive Secondary School, was covering as principal in 1995.
 
