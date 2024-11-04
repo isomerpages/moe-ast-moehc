@@ -4,8 +4,7 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: Please note that the gallery will be closed on 1st Oct, 10am to
-  2pm.  Gallery will reopen from 2pm to 4.30pm.
+notification: Please note that the gallery will be closed on 18 and 22 Nov.
 sections:
   - hero:
       title: Welcome!
