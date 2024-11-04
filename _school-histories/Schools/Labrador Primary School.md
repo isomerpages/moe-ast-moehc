@@ -3,6 +3,7 @@ title: Labrador Primary School
 permalink: /school-histories/labrador-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/labradorpri1.png">
 
@@ -28,9 +29,9 @@ Labrador Primary School’s enrolment rates fell over time. By 1987, there were 
 
 |  |  |
 |:---:|---|
-| 1961 | Establishment of Labrador Primary School. |
+| 1961 | Establishment of Labrador Primary School. |<br>
+| 1984 | Batu Berlayer School merged with Labrador Primary School.|
 | 1988 | Closure of Labrador Primary School. |
-|
 
 #### **School Motto**
 Strive to shine
