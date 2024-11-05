@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/batuberlayar1.jpg">
 
-### **Batu Berlayar School**
+### **Batu Berlayer School**
 <br clear="left">
 
 #### **Image Gallery**
@@ -19,7 +19,7 @@ variant: markdown
 <br clear="left">
 
 #### **School History**
-Established in the 1950s, Batu Berlayar School was located at Pasir Panjang Road. The school derived its name from the rocks at the Dragon Teeth’s Gate that stood at the passageway to Keppel. Ships that visited Singapore before the 19th century used these rocks as navigation tools. In 1848, the British used explosives to remove the rocks to widen the waterway so that large ships could travel through. In commemoration of this maritime landmark, the school was named&nbsp;_Batu Berlayar_, which means “sailing rock” in the Malay language.  
+Established in the 1950s, Batu Berlayer School was located at Pasir Panjang Road. The school derived its name from the rocks at the Dragon Teeth’s Gate that stood at the passageway to Keppel. Ships that visited Singapore before the 19th century used these rocks as navigation tools. In 1848, the British used explosives to remove the rocks to widen the waterway so that large ships could travel through. In commemoration of this maritime landmark, the school was named&nbsp;_Batu Berlayar_, which means “sailing rock” in the Malay language.  
   
 In 1984, Batu Berlayer School merged with Labrador Primary School. The school’s building was left vacant upon closure. In 1987, National Trades Union Congress (NTUC) Comfort Pasir Panjang Centre occupied the former site of Batu Berlayar School. After the NTUC Comfort Pasir Panjang Centre shut down in the late 1990s, the building was occupied by Montessori Centre until the early 2000s. The building was later returned to the Singapore Land Authority and the site has since remained vacant.
 
@@ -31,7 +31,7 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1950s | Establishment of Batu Berlayar School. |
+| 1950s | Establishment of Batu Berlayer School. |
 | 1984 | Batu Berlayer School merged with Labrador Primary School.|
 |
 
