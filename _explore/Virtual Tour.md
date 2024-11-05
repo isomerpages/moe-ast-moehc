@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Virtual Tour**
 
-<img src="/images/Review_in_Progress_Virtual_gallery_notice_for_website.png" style="width:59%;margin-right:15px;"> **<br>**
+<img src="/images/Review_in_Progress_Virtual_gallery_notice_for_website.png" style="width:79%;margin-right:15px;"> **<br>**
 
 
 
