@@ -2,17 +2,14 @@
 title: Virtual Tour
 permalink: /explore/
 description: ""
+variant: markdown
 ---
 ### **Virtual Tour**
 
-<p><a href="https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour/index.html">  
-<img style="width:85%" src="/images/virtualtour.png">  
-</a></p>
+<img src="/images/Review_in_Progress_Virtual_gallery_notice_for_website.png" style="width:79%;margin-right:15px;"> **<br>**
 
-|  |
-|:---:|
-| **[Click here to begin Virtual Tour](https://academyofsingaporeteachers.moe.edu.sg/moehc/explore/virtualtour)** <br>
-|  |
+
+
 
 ### **Explore in Detail**
 
