@@ -2,6 +2,7 @@
 title: School Histories
 permalink: /school-histories/
 description: ""
+variant: markdown
 ---
 ### **Heritage Worth Remembering**
 
@@ -140,7 +141,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bartley Primary School](/school-histories/bartley-pri/) | [Bartley Secondary School](/school-histories/bartley-sec/) | [Batu Berlayar School](/school-histories/batu-berlayar-sch/) |
+| [Bartley Primary School](/school-histories/bartley-pri/) | [Bartley Secondary School](/school-histories/bartley-sec/) | [Batu Berlayer School](/school-histories/batu-berlayar-sch/) |
 
 <img src="/images/crest40.png" style="width:18%;margin-left:65px;" align="left">
 <img src="/images/crest41.png" style="width:20%;margin-left:115px;" align="left">
