@@ -1,6 +1,6 @@
 ---
 title: Batu Berlayer School
-permalink: /school-histories/batu-berlayar-sch/
+permalink: /school-histories/batu-berlayer-sch/
 description: ""
 third_nav_title: Schools
 variant: markdown
