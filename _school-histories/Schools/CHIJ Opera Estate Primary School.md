@@ -3,6 +3,7 @@ title: CHIJ Opera Estate Primary School
 permalink: /school-histories/chij-opera-estate-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijoperaestatepri.png">
 
@@ -13,10 +14,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtzy5el9i3rdfGOKCe4wnSwyRzjmSrorPJayaKVHW3sTeQXo-utcqBuJVUcrhGQreYIP9o8ss0nAQf/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/chijoperaestatepri.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijoperaestatepri.png">
-</a></p>
-
 <br clear="left">
 
 #### **School History**
@@ -25,7 +22,7 @@ CHIJ Opera Estate Primary School was established in 1959. It was set up to cope 
 In 1990, the school merged with the Primary section of Katong Convent to form CHIJ (Katong) Primary and occupied the renovated premises at 17 Martia Road.  
   
 Principals:<br>
-\- Mrs Freda Ferrao<br>
+\- Mrs Freida May Ferrao nee Van Der Sloot<br>
 \- Mrs Doris Teoh Soon Neo (1969-Mar 1990)
 
 #### **Key Milestones**
