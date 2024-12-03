@@ -3,6 +3,7 @@ title: Plan Your Visit
 permalink: /visit/plan-your-visit/
 description: ""
 image: /images/visit1.png
+variant: markdown
 ---
 ### **Opening Hours**
 **Term Time**<br>
@@ -17,7 +18,7 @@ Monday to Friday | 10am - 5pm (last entry
 6232 7975
 
 ### **Getting to MOEHQ (Balestier)**
-The new MOE Heritage Centre is located within MOEHQ (Balestier).<br>
+The MOE Heritage Centre is located within MOEHQ (Balestier).<br>
 **Address:**<br>
 565 Balestier Road, Singapore 329927 | Block C, Level 1
 
