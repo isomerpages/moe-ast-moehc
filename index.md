@@ -4,8 +4,8 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: Please note that the gallery will be closed on 27, 30 & 31 Dec for
-  gallery maintenace.
+notification: From 27 Dec to 15 Jan, some segments of the gallery will be closed
+  for gallery maintenance.
 sections:
   - hero:
       title: Welcome!
