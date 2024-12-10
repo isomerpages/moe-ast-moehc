@@ -38,14 +38,6 @@ Developed by: British Council<br>
 [Link](/files/toolkitfordevelopingexhibition.pdf)
 
 
-##### **Guide: Developing Heritage Corners**
-<img src="/images/heritageresources3.png" style="width:30%;margin-right:15px;" align="left">
-The School Heritage Corners Programme is a part of the National Heritage Board (NHB)’s Heritage Grant Scheme, and is tailored to support schools in the conceptualisation and establishment of their own School Heritage Corners. If your school is interested in setting up a heritage corner and does not know where to start, this guidebook is a great resource to get the ball rolling!  
-  
-Developed by: National Heritage Board<br>
-[Link](/files/Guidebook%20on%20Developing%20Heritage%20Corners%20-%20A%20Guide.pdf)
-
-
 
 ##### **Online Course: Museum Teaching Strategies For Your Classroom**
 <img src="/images/heritageresources6.jpg" style="width:30%;margin-right:15px;" align="left">
@@ -68,13 +60,6 @@ National Archives of Singapore's&nbsp;**[Online Search Portal](https://www.nas.g
   
 NHB's&nbsp;**[Roots](https://www.roots.sg/)**&nbsp;portal for the National Collection and other NHB resources.
 
-
-##### **Video: Heritage Education Programmes**
-<img src="/images/heritageresources12.jpg" style="width:30%;margin-right:15px;" align="left">
-Find out more about the range of Heritage Education Programmes available from the National Heritage Board.  
-  
-Developed by: National Heritage Board<br>
-[Link](https://www.youtube.com/playlist?list=PLE2_iMKVKlHvi0LN4C-ui7WdwqY3UGx2Y)
 
 ##### **Video: Museum Etiquette for Primary Schools**
 <img src="/images/heritageresources2.jpg" style="width:30%;margin-right:15px;" align="left">
