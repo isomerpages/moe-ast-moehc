@@ -39,15 +39,6 @@ Developed by: British Council<br>
 
 
 
-##### **Online Course: Museum Teaching Strategies For Your Classroom**
-<img src="/images/heritageresources6.jpg" style="width:30%;margin-right:15px;" align="left">
-Explore how to integrate works of art into your classroom with inquiry-based teaching methods originally developed for in-gallery museum education.  
-  
-Developed by: The Museum of Modern Art (MoMA)<br>
-[Link](https://www.coursera.org/learn/artinquiry#enroll)
-
-
-
 ##### **Research Resources: Useful links**
 <img src="/images/heritageresources8.jpg" style="width:30%;margin-right:15px;" align="left">
 <b>Here are some useful websites and portals for doing content research:</b>
