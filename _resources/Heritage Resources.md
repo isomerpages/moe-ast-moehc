@@ -4,6 +4,8 @@ permalink: /resources/heritage-resources/
 description: ""
 variant: markdown
 ---
+
+![](/images/Thank_you_supporters_of_MOE_HC.gif)
 ### **Heritage Resources**
 
 ##### **Activity: Let's Talk About School - A Family Conversation Card Set**
