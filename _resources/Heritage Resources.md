@@ -20,7 +20,7 @@ Download the card set here:<br>
 
 
 
-##### **Setting up a school heritage corner**
+##### **Setting up a School Heritage Corner**
 
 <img src="/images/topfaq1.jpg" style="width:65%" align="left">
 <br clear="left">
