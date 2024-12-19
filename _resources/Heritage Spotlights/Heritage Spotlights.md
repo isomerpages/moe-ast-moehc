@@ -13,8 +13,3 @@ variant: markdown
 
 ----------------------------------------------
 
-
-**[Top 10 FAQs on setting up a school heritage corner](/resources/heritage-spotlights/top-10-faqs-on-setting-up-a-school-heritage-corner/)**
-<br>Check out these tips to get you started.
-
-----------------------------------------------
