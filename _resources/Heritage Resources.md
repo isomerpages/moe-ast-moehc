@@ -20,15 +20,13 @@ Download the card set here:<br>
 
 
 
-##### **Top 10 FAQs on setting up a school heritage corner**
+##### **Setting up a School Heritage Corner**
 
 <img src="/images/topfaq1.jpg" style="width:65%" align="left">
 <br clear="left">
 
 
-If you are planning or refreshing your school heritage corner, check out these FAQs extracted from a guide on Developing Heritage Corners by the National Heritage Board.
-
-Read the full guide [here](https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/heritage-education-programmes/all-ages/school-heritage-corners-programme) for a comprehensive outline on how to get started!
+If you are planning or refreshing your school heritage corner, read the full guide [here](https://www.nhb.gov.sg/what-we-do/our-work/community-engagement/education/heritage-education-programmes/all-ages/school-heritage-corners-programme) for a comprehensive outline on how to get started!
 
 ##### **Guide: Toolkit for Developing Exhibitions**
 <img src="/images/heritageresources1.jpg" style="width:30%;margin-right:15px;" align="left">
