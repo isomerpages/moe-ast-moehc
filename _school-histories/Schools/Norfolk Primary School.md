@@ -6,7 +6,8 @@ third_nav_title: Schools
 variant: markdown
 ---
 <img src="/images/norfolk_primary_crest01.jpg" style="width:25%;margin-right:5px;" align="left">
-<h3><strong> Norfolk Primary School</strong><br></h3>
+
+# Norfolk Primary School#
 <br> 
 <br> 
 <br> 
