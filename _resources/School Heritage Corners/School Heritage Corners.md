@@ -7,9 +7,8 @@ third_nav_title: School Heritage Corners
 ---
 <h2><strong>School Heritage Corners</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Planning_or_refreshing_your_school_heritage_corner_final.gif">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Planning_or_refreshing_your_school_heritage_corner_final.gif">
 </div>
 <h4><a href="https://moehc.moe.edu.sg/monfort-junior-school-heritage-corner/" rel="noopener nofollow" target="_blank">Montfort Junior School</a></h4>
 <ul data-tight="true" class="tight">
