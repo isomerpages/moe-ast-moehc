@@ -9,7 +9,7 @@ variant: markdown
 <h3><strong> Norfolk Primary School</strong><br></h3>
 <br> 
 
-<br><h4><strong>Image Gallery</strong></h4>
+<br><h3><strong>Image Gallery</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSTwNHaG-hk-rLsG0kCeiIBlYpkdIJ3L8mmVGwGjPvibMuF4jVBHnmDPO-kZJ06K-x3_U-Z--KLi3Om/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
