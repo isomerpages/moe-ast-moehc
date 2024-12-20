@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img src="/images/norfolk_primary_crest01.jpg" style="width:25%;margin-right:5px;" align="left">
 
-# Norfolk Primary School#
+# Norfolk Primary School
 <br> 
 <br> 
 <br> 
