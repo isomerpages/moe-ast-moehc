@@ -3,6 +3,7 @@ title: St Anthony's Canossian Primary School
 permalink: /school-histories/st-anthony-canossian-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonycanossianpri1.png">
 
@@ -96,7 +97,8 @@ Principals (St. Anthony’s Canossian Primary School):<br>
 \- Sister Angela Ng (1995–2001)<br>
 \- Ms Agnes Chew (2001–2009)<br>
 \- Mrs Eugenie Tan (2010–2017)<br>
-\- Mrs Chin Lai Yoke (2018–present)
+\- Mrs Chin Lai Yoke (2018–2024)<br>
+\- Mdm Sharon Clarissa Lee Hui Chin (2025–present)
 
 #### **Key Milestones**
 
