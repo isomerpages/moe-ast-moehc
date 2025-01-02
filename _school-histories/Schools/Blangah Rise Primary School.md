@@ -69,7 +69,8 @@ Principals:<br>
 * Mrs Angeline Thng (1999–2003)<br>
 * Ms Geetha Doraisamy (2003–2010)<br>
 * Mr Matthew Ou En Tien (2010–2017)<br>
-* Mr Foo Chee Heng Francis (2017–present)
+* Mr Foo Chee Heng Francis (2017–2024)<br>
+* Miss Ng Por Joo Pearly (2025–present)
 
 #### **Key Milestones**
 
