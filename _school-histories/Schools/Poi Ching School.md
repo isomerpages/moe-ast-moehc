@@ -3,6 +3,7 @@ title: Poi Ching School
 permalink: /school-histories/poi-ching-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/poichingsch1.png">
 
@@ -78,7 +79,8 @@ Principals:<br>
 \- Mr Lim Chin Sam (1995–1999)<br>
 \- Mdm Foo Mui Chuw (2000–2006)<br>
 \- Mr Chong Kwai Kuen (2007–2014)<br>
-\- Mr Andrew Mah (2015–present)
+\- Mr Andrew Mah (2015–2024)<br>
+\- Mdm Lim Tzyy Shiuan (2025–present)
 
 #### **Key Milestones**
 
