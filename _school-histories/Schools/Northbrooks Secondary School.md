@@ -63,7 +63,8 @@ Principals:<br>
 \- Mrs Janet Oh (2011)<br>
 \- Mrs Helen Chong (2012–2016)<br>
 \- Mr Nick Chan Choon Loong (2017–2021)<br>
-\- Mr Lau Yan Boon (2022 - present)<br>
+\- Mr Lau Yan Boon (2022–2024)<br>
+\- Mr Chen Xuanting Edmund (2025–present)
 
 #### **Key Milestones**
 
