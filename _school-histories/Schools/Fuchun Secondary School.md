@@ -66,7 +66,7 @@ Principals:<br>
 \- Mrs Chuah-Koh Eng Ngoh (2002–2007)<br>
 \- Ms Ranjit Kaur Dhaliwal (2007–2012)<br>
 \- Mrs Doris Lim (2013–2021)<br>
-\- Mr Shawal Bin Hussin (2022-present)<br>
+\- Mr Shawal Bin Hussin (2022-2024)<br>
 
 #### **Key Milestones**
 
@@ -81,7 +81,7 @@ Principals:<br>
 | 2014 | Accorded Applied Learning Programme in Simulations and Modeling. Accorded Lifelong Learning Programme in Performing Arts. |
 | 2016 | Celebration of 30th anniversary themed ‘A Distinguished Past, A Distinctive Future’. Entered the Singapore Book of Records for the longest Zumba marathon. |
 | 2017 | Participation in the Singapore Maker Extravaganza at Science Centre Singapore. |
-|
+| 2025 | Fuchun Secondary School merged with Woodlands Ring Secondary School to form Woodlands Ring Secondary School.
 
 #### **School Motto**
 True to Self
