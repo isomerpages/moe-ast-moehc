@@ -3,6 +3,7 @@ title: Cantonment Primary School
 permalink: /school-histories/cantonment-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/cantonmentpri1.png">
 
@@ -66,7 +67,8 @@ In 2020, “PAVE” Performing Arts for Values &amp; Excellence was recognised a
 
 Principals:<br>
 \- Mdm Wong Mei Foong (2011–2017)<br>
-\- Mrs Manokara Sugunavathi (2017–present)
+\- Mrs Manokara Sugunavathi (2017–2024)<br>
+\- Mdm Foo Yin Ping Grace (2025–present)
 
 #### **Key Milestones**
 
