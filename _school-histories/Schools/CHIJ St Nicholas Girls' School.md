@@ -77,7 +77,8 @@ Principals:<br>
 \- Ms Helen Choo (2001–2006)<br>
 \- Ms Chan Wan Siong (2007–2011)<br>
 \- Mrs Tan Wai Lan (2012–2016)<br>
-\- Mrs Fiona Tan (2017–present)
+\- Mrs Fiona Tan (2017–2024)<br>
+\- Ms Tan Sin Wei Winnie (2025–present)
 
 #### **Key Milestones**
 
