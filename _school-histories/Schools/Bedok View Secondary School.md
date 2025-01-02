@@ -3,6 +3,7 @@ title: Bedok View Secondary School
 permalink: /school-histories/bedok-view-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bedokviewsec1.jpg">
 
@@ -62,7 +63,8 @@ Principals:<br>
 *  Mr Boo Chong Han (2008–2011)<br>
 *  Mr Jeffrey Low (2012–2015)<br>
 *  Mrs Valerie Pinto (2016–2020)
-*  Mdm Yvonne Teo (2020–present)
+*  Mdm Yvonne Teo (2020–2024)<br>
+*  Mdm Cheng Hwee Yeang (2025–present)
 
 #### **Key Milestones**
 
