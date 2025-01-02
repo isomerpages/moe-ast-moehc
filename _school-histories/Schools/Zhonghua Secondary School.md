@@ -3,6 +3,7 @@ title: Zhonghua Secondary School
 permalink: /school-histories/zhonghua-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuasec1.jpg">
 
@@ -67,7 +68,8 @@ Principals:<br>
 \- Ms Tan Hwee Pin (2002–2007)<br>
 \- Mrs Dolly Ong (2007–2013)<br>
 \- Mr Loh Leong Beng (2014–2019)<br>
-\- Ms Cindy Low Shiok Cheng (2019–present)
+\- Ms Cindy Low Shiok Cheng (2019–2024)<br>
+\-Mr Tan Kim Koon (2025–present)
 
 #### **Key Milestones**
 
