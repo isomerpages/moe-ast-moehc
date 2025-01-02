@@ -3,6 +3,7 @@ title: Concord Primary School
 permalink: /school-histories/concord-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/concordpri1.png">
 
@@ -57,7 +58,8 @@ Principals:<br>
 \- Mrs Rita Dass (2005–2011)<br>
 \- Mrs Tonnine Chua (2012–2017)<br>
 \- Mrs Wong Siew Shan (2018–2018)<br>
-\- Mr Tan Siew Tiong (2019–present)
+\- Mr Tan Siew Tiong (2019–2024)<br>
+\- Mdm Chua Leng Yin (2025–present)
 
 #### **Key Milestones**
 
