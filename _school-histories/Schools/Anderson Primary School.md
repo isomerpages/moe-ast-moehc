@@ -3,6 +3,7 @@ title: Anderson Primary School
 permalink: /school-histories/anderson-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/andersonpri1.png">
 
@@ -67,7 +68,8 @@ Principals:<br>
 * Mr Lawrence Chong (2000–2006)<br>
 * Mr Martin Tan (2007–2011)<br>
 * Mrs Tan Wie Pin (2012–2018)<br>
-* Mdm Delia Hoo (2019–present)
+* Mdm Delia Hoo (2019–2024)<br>
+* Ms Leow Siew Lee Shirley (2025–present)
 
 #### **Key Milestones**
 
