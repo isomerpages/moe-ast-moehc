@@ -3,6 +3,7 @@ title: Yuan Ching Secondary School
 permalink: /school-histories/yuan-ching-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuanchingsec1.jpg">
 
@@ -66,7 +67,8 @@ Principals:<br>
 \- Mr Chia Chor Yann (2005–2010)<br>
 \- Mrs Saraspathy Menon (2011–2014)<br>
 \- Mrs Chuah-Koh Eng Ngoh (2015–2018)<br>
-\- Ms Ng Sook Kit (2019–present)
+\- Ms Ng Sook Kit (2019–2024)<br>
+\- Mr Shawal Bin Hussin (2025–present
 
 #### **Key Milestones**
 
