@@ -3,6 +3,7 @@ title: Fengshan Primary School
 permalink: /school-histories/fengshan-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fengshanpri1.png">
 
@@ -65,7 +66,8 @@ Principals:<br>
 \- Mrs Maria Phua Li Leng (2001–2004)<br>
 \- Mrs Soh Mei Foong (2004–2010)<br>
 \- Mdm Ang Wek Cheng (2010–2017)<br>
-\- Mr Poh Chee Yang (2017–present)
+\- Mr Poh Chee Yang (2017–2024)<br>
+\- Mdm Wong Liang-Ji Tabitha (2025–present)
 
 #### **Key Milestones**
 
