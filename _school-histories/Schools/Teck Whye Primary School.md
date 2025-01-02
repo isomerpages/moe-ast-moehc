@@ -3,6 +3,7 @@ title: Teck Whye Primary School
 permalink: /school-histories/teck-whye-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/teckwhyepri1.png">
 
@@ -72,7 +73,9 @@ Principals:<br>
 \- Mrs V. Ratna Kumar (1998–2005)<br>
 \- Mdm Ng Puey Koon (2005–2012)<br>
 \- Mr Suraj Nair (2012–2017)<br>
-\- Ms Tabitha Wong (2017–present)
+\- Ms Tabitha Wong (2017–2024)<br>
+\-Mdm Wong Su May (2025–present)
+
 
 #### **Key Milestones**
 
