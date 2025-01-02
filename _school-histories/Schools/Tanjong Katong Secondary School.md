@@ -3,6 +3,7 @@ title: Tanjong Katong Secondary School
 permalink: /school-histories/tanjong-katong-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tanjongkatongsec1.png">
 
@@ -54,7 +55,8 @@ Principals:<br>
 \- Mrs Priscillia Chan (2002–2006)<br>
 \- Mr Lee Yan Kheng (2006–2012)<br>
 \- Mdm Haslinda Bte Zamani (2012–2016)<br>
-\- Mrs Dolly Ong (2016–present)
+\- Mrs Dolly Ong (2016–2024)<br>
+\- Mdm Tan Yok Ching Ruby (2025–current)
 
 #### **Key Milestones**
 
