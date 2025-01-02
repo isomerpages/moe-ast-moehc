@@ -3,6 +3,7 @@ title: East Spring Primary School
 permalink: /school-histories/east-spring-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/eastspringpri1.jpg">
 
@@ -56,7 +57,8 @@ Principals:<br>
 \- Mr Teo Kun Fung (1999–2004)<br>
 \- Mr David Teo K M (2005–2010)<br>
 \- Mrs Alison Ho (2011–2017)<br>
-\- Mr Wong Kin Mun (2018–present)
+\- Mr Wong Kin Mun (2018–2024)<br>
+\- Mdm Neo Lay Wah (2025–present)
 
 #### **Key Milestones**
 
