@@ -3,6 +3,7 @@ title: Admiralty Secondary School
 permalink: /school-histories/admiralty-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/adss1.jpg">
 
@@ -67,7 +68,8 @@ Principals:<br>
 * Mrs Lim Ai Poo (2002–2007)<br>
 * Mdm Jessie Koh (2007–2013)<br>
 * Mr Toh Thiam Chye (2013–2019)<br>
-* Mr Lam Yui-P'ng (2019–present)
+* Mr Lam Yui-P'ng (2019–2024)<br>
+* Mr Tan Kelly (2025–present)
 
 #### **Key Milestones**
 
