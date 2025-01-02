@@ -3,6 +3,7 @@ title: Temasek Secondary School
 permalink: /school-histories/temasek-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/temaseksec1.jpg">
 
@@ -70,7 +71,8 @@ Principals:<br>
 \- Mdm Lim Geok Cheng (2000–2005)<br>
 \- Mrs Ong Hong Peng (2005–2010)<br>
 \- Mr Tan Chee Siong (2011–2015)<br>
-\- Mrs Dayna Chia Minn (2016–present)
+\- Mrs Dayna Chia Minn (2016–2024)<br>
+\- Mr Tan Shun Loong (2025–present)
 
 #### **Key Milestones**
 
