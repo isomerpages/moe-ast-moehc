@@ -118,7 +118,10 @@ the school’s commitment to the holistic development of its students. In
 <p>Mr Mark Minjoot (2014–2019)</p>
 </li>
 <li>
-<p>Mr Kelvin Lim Hock Seong (2019–present)</p>
+<p>Mr Kelvin Lim Hock Seong (2019–2024)</p>
+</li>
+<li>
+<p>Mdm Heng Sue Lin, Janice (2025–current)</p>
 </li>
 </ul>
 <p></p>
