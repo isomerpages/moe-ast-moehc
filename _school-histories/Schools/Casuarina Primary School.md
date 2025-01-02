@@ -32,7 +32,9 @@ Principals:<br>
 \- Ms Debra Saw (2001–2007)<br>
 \- Mdm Norliza A. Rahim (2008–2014)<br>
 \- Ms Albuquerque Karen Anne (2015–2018)<br>
-\- Mrs Pek Kwee Lan (2019–present)
+\- Mrs Pek Kwee Lan (2019–2024)<br>
+\- Mr Poh Chee Yang (2025–present) <br>
+
 
 **Related School:** **[Loyang Primary School](/school-histories/loyang-pri/)** 
 
