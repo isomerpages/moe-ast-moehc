@@ -3,6 +3,7 @@ title: Queenstown Primary School
 permalink: /school-histories/queenstown-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/queenstownpri1.png">
 
@@ -69,7 +70,8 @@ Principals:<br>
 \- Mdm Lim Ngern Boey (2002–2005)<br>
 \- Mrs Vathsala Ratnakumar (2006–2009)<br>
 \- Mrs Grace Chua (2010–2016)<br>
-\- Ms Pearly Ng (2017–present)
+\- Ms Pearly Ng (2017–2024)<br>
+\- Ms Lim Pei Lin Olivia (2025–present)
 
 **Related Schools: [Mei Chin Primary School](/school-histories/mei-chin-pri/) | [Tanglin Primary School](/school-histories/tanglin-pri/)**
 
