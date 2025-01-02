@@ -3,6 +3,7 @@ title: Xishan Primary School
 permalink: /school-histories/xi-shan-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/xishanpri1.png">
 
@@ -81,7 +82,8 @@ Principals:<br>
 \- Mrs Brenda Goh (1998–2003)<br>
 \- Mr Kiran Gosian (2004–2010)<br>
 \- Mrs Chin Wai Peng (2011–2017)<br>
-\- Mrs Anne Quek (2018–present)
+\- Mrs Anne Quek (2018–2024)<br>
+\- Mdm Ngoh Ying Li, Jane (2025–present)
 
 #### **Key Milestones**
 
