@@ -3,6 +3,7 @@ title: West Grove Primary School
 permalink: /school-histories/west-grove-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/westgrovepri1.png">
 
@@ -58,7 +59,8 @@ Located at 1 Jurong West Street 72, West Grove Primary School was established in
 Principals:<br>
 \- Mr Eugene Ong (2001–2007)<br>
 \- Mrs Teresa Kelly Pang (2007–2014)<br>
-\- Mrs Chandler Jay Siva (2014–present)
+\- Mrs Chandler Jay Siva (2014–2024)<br>
+\- Mdm Goh Bee Lim Mabel (2025–present)
 
 #### **Key Milestones**
 
