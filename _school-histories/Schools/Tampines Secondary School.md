@@ -3,6 +3,7 @@ title: Tampines Secondary School
 permalink: /school-histories/tampines-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tampinessec1.jpg">
 
@@ -56,7 +57,8 @@ Principals:<br>
 \- Dr Poon Chew Leng (2000–2001)<br>
 \- Mr Neo Tick Watt (2001–2009)<br>
 \- Mr Balamurugam Krishnasamy (2009–2015)<br>
-\- Mr Shane Kwok (2016–present)
+\- Mr Shane Kwok (2016–2024)<br>
+\- Mdm Tan Yang Fern (2025–current)
 
 #### **Key Milestones**
 
