@@ -74,7 +74,8 @@ Principals:<br>
 \- Mr Bucktha Seelan (2001–2007)<br>
 \- Mrs Cheong Ye Ling (2008–2013)<br>
 \- Mrs Caroline Wu (2014–2019)<br>
-\- Mrs Seah Lay Tin (2020–present)
+\- Mrs Seah Lay Tin (2020–2024)<br>
+\- Ms Tan Seok Kuan (2025–present)
 
 **Related Schools: [Fowlie Primary School](/school-histories/fowlie-pri/) | [Haig Boys' School](/school-histories/haig-boys-sch/) | [Mountbatten Primary School](/school-histories/mountbatten-pri/)**
 
