@@ -3,10 +3,11 @@ title: Yusok Ishak Secondary School
 permalink: /school-histories/yusok-ishak-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yusokishaksec1.jpg">
 
-### **Yusok Ishak Secondary School**
+### **Yusof Ishak Secondary School**
 [URL to website](https://yusofishaksec.moe.edu.sg/)
 
 <br clear="left">
@@ -74,7 +75,8 @@ Principals:<br>
 \- Mrs Doris Lim (2000–2006)<br>
 \- Mr Richard Chew (2006–2013)<br>
 \- Mdm Jessie Koh (2014–2017)<br>
-\- Mdm Maureen Lee (2018–present)
+\- Mdm Maureen Lee (2018–2024)<br>
+\- Mr Chen Ziyang (2025–present)
 
 #### **Key Milestones**
 
