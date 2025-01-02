@@ -78,7 +78,8 @@ Principals:<br>
 \- Mrs Yap-Ng Hwee Heng (2001–2008)<br>
 \- Mrs Julia Woo Keen Fai (2008–2012)<br>
 \- Ms Tan Ke-Xin (2012–2018)<br>
-\- Mrs Tay Yang Fern (2018–present)
+\- Mrs Tay Yang Fern (2018–2024)<br>
+\- Mdm Moh Cui Rong Rebecca (2025–present)
 
 #### **Key Milestones**
 
