@@ -3,6 +3,7 @@ title: Crescent Girls' School
 permalink: /school-histories/crescent-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/crescentgirlssch1.jpg">
 
@@ -64,7 +65,8 @@ Principals:<br>
 \- Mrs Lee Bee Yann (1998–2007)<br>
 \- Mrs Eugenia Lim (2008–2011)<br>
 \- Mrs Tan Chen Kee (2012–2016)<br>
-\- Mrs Helen Chong (2017–present)
+\- Mrs Helen Chong (2017–2024)<br>
+\- Miss Low Shiok Cheng Cindy (2025–present)
 
 #### **Key Milestones**
 
