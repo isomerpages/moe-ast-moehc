@@ -3,6 +3,7 @@ title: Springdale Primary School
 permalink: /school-histories/springdale-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/springdalepri1.png">
 
@@ -56,7 +57,7 @@ Springdale Primary School is situated in the north-eastern part of Singapore. It
 
 Principals:<br>
 \- Mrs Lee-Koh S.C. (2013–2018)<br>
-\- Mdm Neo Lay Wah (2019–present)
+\- Mdm Neo Lay Wah (2019–2024)<br>
 
 #### **Key Milestones**
 
