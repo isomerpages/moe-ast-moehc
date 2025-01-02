@@ -3,6 +3,7 @@ title: Catholic High School
 permalink: /school-histories/catholic-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:25%;margin-right:15px;" src="/images/catholichighsch1.jpg">
 
@@ -78,7 +79,8 @@ Principals:<br>
 \- Mrs Goh Hwee Choo (1997–2002)<br>
 \- Mr Lee Hak Boon (2002–2014)<br>
 \- Ms Soh Lai Leng Magdalen (2014–2019)<br>
-\- Mr Poh Chun Leck (2019–present)
+\- Mr Poh Chun Leck (2019–2024)<br>
+\- Mdm Teo Yvonne (2025–present)
 
 
 #### **Key Milestones**
