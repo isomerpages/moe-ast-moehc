@@ -70,7 +70,7 @@ Principals:<br>
 \- Ms Cheah Poh Lian (1999–2007)<br>
 \- Mrs Kok Chwee Kee (2007–2015)<br>
 \- Mrs Ng Siew Bee (2016–2024)<br>
-\- Mr Lam Yui-P'ng (2025
+\- Mr Lam Yui-P'ng (2025–present)
 #### **Key Milestones**
 
 |  |  |
