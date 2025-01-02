@@ -3,6 +3,7 @@ title: Naval Base Primary School
 permalink: /school-histories/naval-base-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasepri1.png">
 
@@ -62,7 +63,8 @@ Principals:<br>
 \- Mr Ho Yoon Kee (1995–2000)<br>
 \- Ms Elizabeth Poey (2001–2008)<br>
 \- Mrs Ong-Chew Lu See (2008–2015)<br>
-\- Mrs Sita Singh (2015–present)
+\- Mrs Sita Singh (2015–2024)<br>
+\- Mr Chia Chee Weng Richard Chris (2025–present)<br>
 
 #### **Key Milestones**
 
