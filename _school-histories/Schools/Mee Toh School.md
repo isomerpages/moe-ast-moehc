@@ -3,6 +3,7 @@ title: Mee Toh School
 permalink: /school-histories/mee-toh-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/meetohsch1.jpg">
 
@@ -70,7 +71,8 @@ Principals:<br>
 \- Mrs Tan Chin Cheoh 严振珠 (1992–1997)<br>
 \- Ms Fong Bee Cheng 房枚桢 (1998–2010)<br>
 \- Mr Gau Poh Teck 吴宝德 (2011–2017)<br>
-\- Mrs Wang-Tan Sun Sun 陈珊珊 (2018–present)
+\- Mrs Wang-Tan Sun Sun 陈珊珊 (2018–2024)<br>
+\- Mr Tay Hsien Chuan Kelvin (2025–present)
 
 #### **Key Milestones**
 
