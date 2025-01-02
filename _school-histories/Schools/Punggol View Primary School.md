@@ -3,6 +3,7 @@ title: Punggol View Primary School
 permalink: /school-histories/punggol-view-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/punggolviewpri1.jpg">
 
@@ -63,7 +64,8 @@ Punggol View Primary School prides itself in delivering a values-based holistic 
 
 Principals:<br>
 \- Mr Kelvin Tay Hsien Chuan (2013–2017)<br>
-\- Dr Vivien Ang Wek Cheng (2018–present)
+\- Dr Vivien Ang Wek Cheng (2018–2024)<br>
+\- Mr Wong Kin Mun (2025–present)
 
 #### **Key Milestones**
 
