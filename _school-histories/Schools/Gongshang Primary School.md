@@ -3,8 +3,9 @@ title: Gongshang Primary School
 permalink: /school-histories/gongshang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/gongshangpri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/Gongshang_Pri.png">
 
 ### **Gongshang Primary School**
 [URL to website](https://gongshangpri.moe.edu.sg/)
@@ -63,7 +64,8 @@ Principals:<br>
 \- Mr Wee Fui Twee (1985–2001)<br>
 \- Mrs Daisie Yip Choon Hua (2002–2008)<br>
 \- Mdm Kok Chow Hiong (2009–2017)<br>
-\- Mdm Lim Tzyy Shiuan (2018–present)
+\- Mdm Lim Tzyy Shiuan (2018–2024)<br>
+\- Mdm Ho Hwee Mein, Stella (2025–present) 
 
 #### **Key Milestones**
 

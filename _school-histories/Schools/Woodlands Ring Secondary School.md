@@ -3,6 +3,7 @@ title: Woodlands Ring Secondary School
 permalink: /school-histories/woodlands-ring-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/woodlandsringsec1.jpg">
 
@@ -68,8 +69,8 @@ Principals:<br>
 \- Mr Tng Hia Seng (1997–1999)<br>
 \- Ms Cheah Poh Lian (1999–2007)<br>
 \- Mrs Kok Chwee Kee (2007–2015)<br>
-\- Mrs Ng Siew Bee (2016–present)
-
+\- Mrs Ng Siew Bee (2016–2024)<br>
+\- Mr Lam Yui-P'ng (2025–present)
 #### **Key Milestones**
 
 |  |  |
