@@ -3,6 +3,7 @@ title: CHIJ Our Lady Of The Nativity
 permalink: /school-histories/chij-our-lady-of-nativity/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijnativity1.jpg">
 
@@ -69,7 +70,8 @@ Principals:<br>
 \- Mrs Liu Seok Noi (2003–2009)<br>
 \- Ms Agnes Chew Geok Kim (2010–2012)<br>
 \- Ms Debra Saw Hoo Yong (2013–2016)<br>
-\- Ms Christina Teo (2017–present)
+\- Ms Christina Teo (2017–2024)<br>
+\- Mdm Albuquerque Karen Anne (2025–present)
 
 #### **Key Milestones**
 

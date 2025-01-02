@@ -3,6 +3,7 @@ title: Dunearn Secondary School
 permalink: /school-histories/dunearn-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/dunearnsec1.jpg">
 
@@ -62,7 +63,8 @@ Principals:<br>
 \- Mrs Catherine Seah (1997–2003)<br>
 \- Mr Wong Lok Oon (2003–2009)<br>
 \- Mr Boo Hian Kok (2009–2015)<br>
-\- Mdm Tan Miao Ling (2015–present)
+\- Mdm Tan Miao Ling (2015–2024)<br>
+\- Mdm Soh Beng Mui (2025–present)
 
 #### **Key Milestones**
 

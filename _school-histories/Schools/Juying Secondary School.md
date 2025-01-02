@@ -3,6 +3,7 @@ title: Juying Secondary School
 permalink: /school-histories/juying-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/juyingsec1.png">
 
@@ -61,7 +62,8 @@ Principals:<br>
 \- Ms Grace Ng (2000–2004) <br>
 \- Mr Abdul Harris Sumardi (2005–2012) <br>
 \- Mr Seet Tiat Hee (2013–2017)<br>
-\- Mdm Soh Beng Mui (2018–present)
+\- Mdm Soh Beng Mui (2018–2024)<br>
+\- Mr Ang Chern Kwang (2025–present)
 
 #### **Key Milestones**
 

@@ -70,7 +70,7 @@ Principals:<br>
 \- Ms Cheah Poh Lian (1999–2007)<br>
 \- Mrs Kok Chwee Kee (2007–2015)<br>
 \- Mrs Ng Siew Bee (2016–2024)<br>
-\- Mr Lam Yui-P'ng (2025–present)
+\- Mr Lam Yui-P'ng (2025–present)<br>
 #### **Key Milestones**
 
 |  |  |
@@ -85,7 +85,7 @@ Principals:<br>
 | 2016 | Re-envisioning of desired student outcomes: concerned and contributing citizens, self-directed and confident leaders, collaborative and inventive thinkers. |
 | 2017 | Launch of MOE-ITE Subject, Mobile Robotics, for Secondary Three Normal (Technical) students. |
 | 2019 | Launch of MOE-Applied Subject, Electronics, for Secondary Three Express students. |
-|
+|2025 |Fuchun Secondary School &amp; Woodlands Ring Secondary School merged to form Woodlands Ring Secondary School.
 
 #### **School Motto**
 Work, Rise, Serve

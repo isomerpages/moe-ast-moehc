@@ -35,7 +35,8 @@ Principals:<br>
 * Mr Patrick Sih (2002–2006)<br>
 * Mdm Chua Lay Tin (2006–2012)<br>
 * Mr Chew Mun Wai (2012–2023)<br>
-* Mrs May Wong (2024-present) 
+* Mrs May Wong (2024) <br>
+* Mr Muhammad Farizal Bin Umar Effendi (2025–present)
 
 **Related School:** [Kebun Baru Primary School](/school-histories/kebun-baru-pri/)
 

@@ -3,6 +3,7 @@ title: Hua Yi Secondary School
 permalink: /school-histories/hua-yi-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/huayisec1.jpg">
 
@@ -77,7 +78,8 @@ Principals:<br>
 \- Mrs Kong-Tan Yen Fong (2000–2005)<br>
 \- Mrs Mabel Leong (Boey Wai Wah) (2006–2011)<br>
 \- Mdm Tay Siok Hwa (2012–2016)<br>
-\- Ms Sandra Gwee (2017–present) 
+\- Ms Sandra Gwee (2017–2024) <br>
+\- Dr Lim Siew Yee (2025–present)
 
 #### **Key Milestones**
 

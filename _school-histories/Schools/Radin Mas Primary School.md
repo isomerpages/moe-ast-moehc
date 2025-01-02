@@ -3,6 +3,7 @@ title: Radin Mas Primary School
 permalink: /school-histories/radin-mas-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/radinmaspri1.png">
 
@@ -68,7 +69,8 @@ Principals:<br>
 \- Mrs Jenny Yeo Bee Geok (1997–2004)<br>
 \- Mdm Lee Lai Yong (2005–2010)<br>
 \- Mrs Wong Siew Shan (2011–2017)<br>
-\- Mr Muhammad Farizal Bin Umar Effendi (2018–present)
+\- Mr Muhammad Farizal Bin Umar Effendi (2018–2024)<br>
+\- Mdm Tan Sun Sun (2025–present)
 
 #### **Key Milestones**
 

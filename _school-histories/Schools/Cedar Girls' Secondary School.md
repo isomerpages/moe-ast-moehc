@@ -3,6 +3,7 @@ title: Cedar Girls' Secondary School
 permalink: /school-histories/cedar-girls-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/cedargirlssec1.jpg">
 
@@ -67,7 +68,8 @@ Principals:<br>
 \- Ms Susan Leong (2001–2005)<br>
 \- Mrs Ou Yang Geok Cheng (2006–2012)<br>
 \- Mdm Cheng Hwee Yeang (2013–2019)<br>
-\- Mdm Tey Kah Hwee (2020–present)
+\- Mdm Tey Kah Hwee (2020–2024)<br>
+\- Mdm Thong May Teng (2025–present)
 
 #### **Key Milestones**
 

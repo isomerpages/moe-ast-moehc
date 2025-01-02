@@ -78,7 +78,8 @@ Principals:<br>
 \- Ms Foong Lai Leong (2004–2010)<br>
 \- Mr Harphal Singh (2010–2012)<br>
 \- Mrs Tay Yang Fern (2012–2018)<br>
-\- Mrs Anba Saroja (2018–present)
+\- Mrs Anba Saroja (2018–2024)<br>
+\- Miss Koh Lin Lynn (2024–present)
 
 #### **Key Milestones**
 

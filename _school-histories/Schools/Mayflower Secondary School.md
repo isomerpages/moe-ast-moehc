@@ -3,6 +3,7 @@ title: Mayflower Secondary School
 permalink: /school-histories/mayflower-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/mayflowersec1.png">
 
@@ -66,7 +67,8 @@ Principals:<br>
 \- Ms Lo Sheu Ming (1999–2005)<br>
 \- Mrs Doris Lim (2006–2012)<br>
 \- Mr Loo Ming Yaw (2013–2017)<br>
-\- Mdm Lee Eet Fong (2018–present)
+\- Mdm Lee Eet Fong (2018–2024)<br>
+\- Mr Lim Yu Kee (2025–present)
 
 #### **Key Milestones**
 

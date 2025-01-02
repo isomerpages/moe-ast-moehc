@@ -3,6 +3,7 @@ title: CHIJ Our Lady Queen Of Peace
 permalink: /school-histories/chij-our-lady-queen-of-peace/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijpeace1.jpg">
 
@@ -57,7 +58,8 @@ Principals:<br>
 \- Mrs Margaret Tan (1999–2001)<br>
 \- Ms Cecilia Lim (2002–2009)<br>
 \- Mrs Tan-Lim Kim Gek (2010–2018)<br>
-\- Mrs Karen Anne Tan-Albuquerque (2019–present)
+\- Mrs Karen Anne Tan-Albuquerque (2019–2024)<br>
+\- Ms Pham Hong Lien Phyllis Gabrielle (2025–present)
 
 #### **Key Milestones**
 
