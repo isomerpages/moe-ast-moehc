@@ -4,8 +4,7 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: The gallery will be closed on 14 Jan from 10am to 2pm and will
-  reopen from 2pm onwards.
+notification: ""
 sections:
   - hero:
       title: Welcome!
