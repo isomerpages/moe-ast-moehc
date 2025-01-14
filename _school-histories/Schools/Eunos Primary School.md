@@ -66,7 +66,7 @@ Principals:<br>
 \- Mr Koh Huai Pang (1996–2002)<br>
 \- Mrs Ang Chin Du (2002–2009)<br>
 \- Mrs Jennifer Choy (2009–2017)<br>
-\- Mrs Grace Ong (2017–present)
+\- Mrs Grace Ong (2017–2021)
 
 #### **Key Milestones**
 
