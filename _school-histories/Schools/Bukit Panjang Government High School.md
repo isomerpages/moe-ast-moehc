@@ -22,7 +22,9 @@ Established in 1960, Bukit Panjang Government High School started in a two-store
 
 Bukit Panjang Government High School was the first integrated government secondary school in Singapore. Two different language streams, Chinese and English, were run by a single administration with students sharing classrooms and teachers sharing a common room.
 
-In 1994, Bukit Panjang Government High School became an autonomous school. The following year, the school relocated to its current location at Choa Chu Kang Avenue 4. The new campus provided a nurturing environment that supported holistic learning for the students. Subsequently, the school underwent PRIME upgrading from 2007 to 2008, which saw the addition of facilities such as an indoor sports hall to provide more quality learning for students.
+In mid-Nineties, Bukit Panjang Government High School relocated to its current location at Choa Chu Kang Avenue 4. The school became autonomous in 1994. 
+
+The new campus provided a nurturing environment that supported holistic learning for the students. Subsequently, the school underwent PRIME upgrading from 2007 to 2008, which saw the addition of facilities such as an indoor sports hall to provide more quality learning for students.
 
 Today, Bukit Panjang Government High School continues to provide students with a holistic and fulfilling education, and has consistently produced value-added academic results. It is recognised for its organisational excellence and student development beyond academia. The school also continues to excel in its niche areas such as the Elective Malay Language Programme and the Art Elective Programme. As a Centre of Excellence, Bukit Panjang Government High School leads in the professional development of mathematics teachers in the West Zone.
 
@@ -47,7 +49,7 @@ Principals:<br>
 |:---:|---|
 | 1960 | Establishment of Bukit Panjang Government High School. |
 | 1994 | Became an autonomous school. |
-| 1995 | Relocation to current premises at Choa Chu Kang Avenue 4. |
+| mid-90s | Relocation to current premises at Choa Chu Kang Avenue 4. |
 | 2007 | Achieved School Distinction Award. |
 | 2014 | Achieved School Distinction Award and Best Practice Awards for Teaching and Learning; Student All-Round Development; Character and Citizenship Education; and Staff Development and Well-being. Awarded Singapore Quality Class. |
 | 2015 | Celebration of 55th anniversary. |
