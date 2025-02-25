@@ -49,7 +49,7 @@ Principals:<br>
 |:---:|---|
 | 1960 | Establishment of Bukit Panjang Government High School. |
 | 1994 | Became an autonomous school. |
-| 1995 | Relocation to current premises at Choa Chu Kang Avenue 4. |
+| mid-90s | Relocation to current premises at Choa Chu Kang Avenue 4. |
 | 2007 | Achieved School Distinction Award. |
 | 2014 | Achieved School Distinction Award and Best Practice Awards for Teaching and Learning; Student All-Round Development; Character and Citizenship Education; and Staff Development and Well-being. Awarded Singapore Quality Class. |
 | 2015 | Celebration of 55th anniversary. |
