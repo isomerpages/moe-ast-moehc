@@ -79,7 +79,8 @@ Principals:<br>
 \- Mr Lim Chin Sam (1995–1999)<br>
 \- Mdm Foo Mui Chuw (2000–2006)<br>
 \- Mr Chong Kwai Kuen (2007–2014)<br>
-\- Mr Andrew Mah (2015–2024)<br>
+\- Mr Andrew Mah (2015–2020)<br>
+\- Mrs Cheong Ye Ling (2021-2024) <br>
 \- Mdm Lim Tzyy Shiuan (2025–present)
 
 #### **Key Milestones**
