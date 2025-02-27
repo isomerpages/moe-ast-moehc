@@ -30,7 +30,7 @@ In 2017, Henderson Secondary School merged with Bukit Merah Secondary School, ta
 Principals:<br>
 \- Mr Gan Kee Soon (1974–1979)<br>
 \- Mr T.P. Naidu (1979–1981)<br>
-\- Mdm Lau Kam How (1981–1988)<br>
+\- Mdm Lau Kan How (1981–1988)<br>
 \- Mr N. Subramaniam (1988–1996)<br>
 \- Mrs Ho Woon Ho (1996–2000)<br>
 \- Mrs Yeo Chin Nam (2000–2008)<br>
