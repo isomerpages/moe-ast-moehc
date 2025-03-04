@@ -8,50 +8,15 @@ variant: markdown
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri1.jpg">
 
 ### **Stamford Primary School**
-[URL to website](https://stamfordpri.moe.edu.sg/) - may require to change in future when original website is removed
+
 
 <br clear="left">
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR_gGthYngQyAQUUhaELprDOhgNAlPd8uE3Uj4r9bbbOTP4ry7czlRgi4MTR-XyaPlndZ6dHpFbSXFj/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/stamfordpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri2.jpg">
-</a></p>
 
-<p><a href="/images/stamfordpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri3.jpg">
-</a></p>
 
-<p><a href="/images/stamfordpri4.jpg">  
-<img align="left" style="width:20%;margin-right:15px;" src="/images/stamfordpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/stamfordpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri5.jpg">
-</a></p>
-
-<p><a href="/images/stamfordpri6.jpg">  
-<img align="left" style="width:25%;margin-right:25px;margin-left:25px;" src="/images/stamfordpri6.jpg">
-</a></p>
-
-<p><a href="/images/stamfordpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/stamfordpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri8.jpg">
-</a></p>
-
-<p><a href="/images/stamfordpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stamfordpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Stamford Primary School started in 1951 as Stamford Girls’ School. The original school building on Waterloo Street was first erected in 1920 by the Japan Club (now Japanese Association) as a school for the Japanese community in Singapore. The school remained an all-girls school for three decades until it merged with Waterloo School in 1984 and adopted its current name, Stamford Primary School.
