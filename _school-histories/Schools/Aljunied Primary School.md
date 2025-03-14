@@ -3,6 +3,7 @@ title: Aljunied Primary School
 permalink: /school-histories/aljunied-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/aljuniedpri1.png">
 
@@ -17,7 +18,7 @@ third_nav_title: Schools
 #### **School History**
 Aljunied Primary School was established in 1971.  
   
-When the school closed in 1977, the remaining students of Aljunied Primary School subsequently joined MacPherson Primary School.
+When the school closed in 1997, the remaining students of Aljunied Primary School subsequently joined MacPherson Primary School.
 
 #### **Key Milestones**
 
