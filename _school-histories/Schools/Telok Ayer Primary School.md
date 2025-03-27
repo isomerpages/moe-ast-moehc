@@ -3,8 +3,9 @@ title: Telok Ayer Primary School
 permalink: /school-histories/telok-ayer-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/telokayerpri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/telok_ayer_pri.jpg">
 
 ### **Telok Ayer Primary School**
 
@@ -36,4 +37,3 @@ Over time, the enrolment rates declined and Telok Ayer Primary School closed in 
 | 1984 | Closure of Telok Ayer Primary School.|
 | 1985 | Remaining students of Telok Ayer Primary School join Yangzheng Primary School. |
 |
-
