@@ -73,7 +73,7 @@ Principals:<br>
 \- Mdm Choy Wai Yin (2004)<br>
 \- Mr Loh Cheung Ming (2010)<br>
 \- Mr Boo Hian Kok (2015–2022)<br>
-\- Mr Tan Kok Hong (2023 - present) 
+\- Mr Keith Tan (2023 - present) 
 
 #### **Key Milestones**
 
