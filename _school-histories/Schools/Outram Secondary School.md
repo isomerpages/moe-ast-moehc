@@ -6,6 +6,10 @@ third_nav_title: Schools
 variant: tiptap
 ---
 <h3></h3>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Outram_Sec_Crest.png">
+</div>
 <h3><strong>Outram Secondary School</strong></h3>
 <p><a href="http://outramsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">URL to website</a>
 </p>
