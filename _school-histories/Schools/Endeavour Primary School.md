@@ -3,6 +3,7 @@ title: Endeavour Primary School
 permalink: /school-histories/endeavour-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/endeavourpri1.png">
 
@@ -14,48 +15,11 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTc3dRRcqr8wIhIZc-9TBC_3bVgtXIl4LqX_pbNqhcyWSWp2qO1Xm4Yec6jl41qcGbGxEDmUyt1-er8/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/endeavourpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri2.jpg">
-</a></p>
-
-<p><a href="/images/endeavourpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri3.jpg">
-</a></p>
-
-<p><a href="/images/endeavourpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/endeavourpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri5.jpg">
-</a></p>
-
-<p><a href="/images/endeavourpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri6.jpg">
-</a></p>
-
-<p><a href="/images/endeavourpri7.jpeg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri7.jpeg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/endeavourpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri8.jpg">
-</a></p>
-
-<p><a href="/images/endeavourpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/endeavourpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Endeavour Primary School (EDP) was founded in 2008 with the mission of providing a holistic education that prepares its students well for the future. The school creates a child-centred environment to meet the learning needs of its students, and to bring about cognitive, aesthetic, moral, physical and social development in their formative years of education.
 
-Over the past decade, the school has successfully implemented diverse programmes to provide enriching learning experiences for the pupils and to cater to their holistic development. The school’s Learning for Life Programme, ‘Every Child A Performer’, benefits all students at various levels of development. Besides cultivating interest and nurturing talent in the performing arts, the programme emphasises character-building and citizenship education to prepare students for the 21st century. Through the school’s Applied Learning Programme (ALP), ‘Nurturing Thinkers through Knowledge-Building Practices’, teachers model the inquiry process while encouraging students to build on each other’s knowledge via the online Knowledge Forum, and to be engaged in collaborative learning. The ALP is designed to support the progressive development of thinking, communication and collaboration skills among students.
+Over the past decade, the school has successfully implemented diverse programmes to provide enriching learning experiences for the pupils and to cater to their holistic development. The school’s Learning for Life Programme, ‘Every Child A Performer’, benefits all students at various levels of development. Besides cultivating interest and nurturing talent in the performing arts, the programme emphasises character-building and citizenship education to prepare students for the 21st century. Through the school’s Applied Learning Programme (ALP), ‘Nurturing Thinkers’, teachers seek to develop every child’s thinking dispositions so that our children could develop a sense of wonder, learn to appreciate and build on one another’s ideas, make good connections of what they learn to the real world, ask good questions, and communicate their ideas coherently and confidently. 
 
 The year 2018 marked the 10th anniversary of EDP. The school celebrated this milestone with meaningful events such as the EDP Homecoming Carnival and School Musical, and activities like the EDP Orchid Hybridisation Programme and EDP Murals, which were jointly put together by staff and students. The Homecoming Carnival was a fun-filled and memorable event where staff, parents and students of the past and present reconnected and reminisced about their memories of the school.
 
