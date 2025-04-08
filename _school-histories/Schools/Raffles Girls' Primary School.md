@@ -3,6 +3,7 @@ title: Raffles Girls' Primary School
 permalink: /school-histories/raffles-girls-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rafflesgirlspri1.png">
 
@@ -27,7 +28,11 @@ In 1959, when the secondary school section moved to its own premises on Anderson
 
 In 1979, Raffles Girls’ Primary School was relocated to Holland Grove Road. In 1984, the school became one of the first two primary schools selected for the Gifted Education Programme. In 1999, the school relocated to its present premises at Hillcrest Road. In 2016, the school completed PERI upgrading and became a single-session school. In 2019, Raffles Girls’ Primary School celebrated its 140th anniversary of formal establishment and 60th anniversary as a full-fledged primary school.
 
+The school was temporarily relocated to the former Raffles Junior College campus holding site in Mt Sinai in early December 2013 for 2 years as part of the PERI upgrading project. 
+
 Raffles Girls’ Primary School was accorded the Applied Learning Programme, ‘Nurture Confident Communicators’, and the Learning for Life Programme, ‘Developing Creativity through Collaborative Music Making’.
+
+In 2024, Raffles Girls' Primary School celebrated its 65th anniversary as a full-fledged primary school. 
 
 Principals:<br>
 \- Mrs Ambiavagar (1958) <br>
