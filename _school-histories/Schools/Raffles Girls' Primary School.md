@@ -57,6 +57,7 @@ Principals:<br>
 | 1984 | Started classes in the Gifted Education Programme. |
 | 1999 | Relocation of school to its present campus at Hillcrest Road. |
 | 2009 | Celebration of 50th anniversary as a primary school. |
+|2014| Temporary relocation of the school to a holding site at the former Raffles Junior College campus in Mt Sinai.|
 | 2016 | Completion of PERI upgrading and became single-session school. |
 | 2019 | Celebration of 140th anniversary of formal establishment of the school and 60th anniversary as a full-fledged primary school. |
 |
