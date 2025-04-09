@@ -55,6 +55,8 @@ Principals:<br>
 | 2025 | Celebration of 98th anniversary. |
 |
 
+#### **School Motto**
+Uplift and Uphold
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/khengchengsch1.png">
