@@ -16,42 +16,19 @@ variant: markdown
 
 <iframe frameborder="0" width="800" height="479" allowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQtPDgEJirckcigCOZIc8gnpPdW9MaBv5iwXeusq06aexRLfylDheB1Mc0LKNBrIovsiV2T229Pc0tx/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 
-<p><a href="/images/zhonghuasec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec2.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuasec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec3.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuasec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhonghuasec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec5.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuasec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhonghuasec6.jpg">
-</a></p>
-
-<p><a href="/images/zhonghuasec7.jpg">  
-<img align="left" style="width:20%;margin-right:15px;" src="/images/zhonghuasec7.jpg">
-</a></p>
 
 <br clear="left">
 
 #### **School History**
-Established in 1911, Chung Hwa Girls’ School was the first Chinese-medium girls’ school in Singapore. In 1951, the primary school section separated from the secondary school section. The latter was known as Chung Hwa Girls’ High School, located on Bartley Road. In 1957, the school became government-aided.
+Established in 1911, Chung Hwa Girls’ School was the first Chinese-medium girls’ school in Singapore. In 1951, the primary school section separated from the secondary school section. The latter was known as Chung Hwa Girls’ High School, located on Bartley Road. In 1957, the school became government-aided. 
 
-In 1980, Chung Hwa Girls’ High School received its first intake of English-medium students. The school became co-educational and a full-fledged government school known as Chung Hwa High School in 1984. It was renamed Zhonghua Secondary School and moved to Serangoon Avenue 4 in 1987.
+In 1980, Chung Hwa Girls’ High School received its first intake of English-medium students. The school became co-educational and a full-fledged government school known as Chung Hwa High School in 1984. It was renamed Zhonghua Secondary School and moved to Serangoon Avenue 4 in 1987. In 1996, Zhonghua Secondary School gained autonomous status. 
 
-In 1996, Zhonghua Secondary School gained autonomous status. The school relocated to Serangoon Avenue 3 in 2000. Zhonghua Secondary School also became the Centre of Excellence for Visual Arts, with the official opening of the Art Gallery and Centre in 2005. It is also the first co-educational school to offer the Art Elective Programme in 2010 to help students realise their artistic potential.
+The school relocated to Serangoon Avenue 3 in 2000. Zhonghua Secondary School also became the Centre of Excellence for Visual Arts, with the official opening of the Art Gallery and Centre in 2005. It is also the first co-educational school to offer the Art Elective Programme in 2010 to help students realise their artistic potential. In 2013, Zhonghua Secondary School became the South Zone Centre of Excellence for Science. The school retained its autonomous status from 2015 to 2020. 
 
-In 2013, Zhonghua Secondary School became the South Zone Centre of Excellence for Science. The school retained its autonomous status from 2015 to 2020. Its signature programmes&nbsp;which&nbsp;are integrated under three broad strands of education, namely&nbsp;Science and Technology Education, Environmental and Sustainability Education, and Glocal Perspectives Education, develop and equip students with 21st&nbsp;Century Competencies.
+Its signature programmes, which are integrated under three broad strands of education—Science and Technology Education, Environmental and Sustainability Education, and Glocal Perspectives Education—develop and equip students with 21st-century competencies. To thrive in a rapidly changing world, Zhonghua Secondary School continuously prepares its students to seize the opportunities brought about by these changes. Our Future-Ready Curriculum and Zhonghua Signature Programmes equip students with the skills and mindset necessary to be future-ready. These experiences emphasise the cultivation of key dispositions, the development of emerging 21st-century competencies, and the promotion of our students’ overall well-being. 
+
+Our four educational focus areas—STEAM Education, Sustainability Education, Glocal Education, and Character Education—are woven into our Future-Ready Curriculum. STEAM Education fosters critical, adaptive, and inventive thinking, while Sustainability Education instills a deep sense of responsibility for the planet. Glocal Education connects learners to both their immediate communities and the broader global context, fostering a sense of interconnectedness, and Character Education emphasizes ethical values, nurturing principled and compassionate citizens. The integration of technology into teaching and learning further enhances the educational experience, allowing students to engage with innovative tools and methods. This holistic approach ensures that students of Zhonghua embark on a journey of personal growth and societal contribution.
 
 Principals:<br>
 \- Mdm Yu Diazheng (1911–1919)<br>
