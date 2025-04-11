@@ -3,6 +3,7 @@ title: Peiying Primary School
 permalink: /school-histories/peiying-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/peiyingpri1.png">
 
@@ -14,39 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlAwdiVFHqmgRpeII5nrZOUMsEz-yQyy56hFHwhCspP-hY6tqbhBy6Q13eo2iQ2IgJLXu51XnwQWU6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/peiyingpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peiyingpri2.jpg">
-</a></p>
 
-<p><a href="/images/peiyingpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peiyingpri3.jpg">
-</a></p>
-
-<p><a href="/images/peiyingpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peiyingpri4.jpg">
-</a></p>
-
-<p><a href="/images/peiyingpri7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/peiyingpri7.jpg">
-</a></p>
-
-<p><a href="/images/peiyingpri6.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/peiyingpri6.jpg">
-</a></p>
-
-<p><a href="/images/peiyingpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peiyingpri5.jpg">
-</a></p>
-
-<p><a href="/images/peiyingpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peiyingpri8.jpg">
-</a></p>
-
-<p><a href="/images/peiyingpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/peiyingpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Peiying Primary School, formerly known as Poi Eng Public School, is one of the oldest schools in Nee Soon. The history of Peiying can be traced back to 1919 when the famous philanthropist, Lim Nee Soon, set up Fa Chu School at Jalan Ulu Seletar. Fa Chu School later moved to Kangkar and was renamed Zang Hua School. In January 1941, the school merged with Qi Zhi School to form Poi Eng Public School, which was then located at Upper Thomson Road, next to the former Seletar Institute. Poi Eng Public School was supported by the local community and provided education to Chinese children in Nee Soon.
@@ -64,7 +33,8 @@ Principals:<br>
 \- Mr Ong Kian Hin (1996–2000)<br>
 \- Mrs Yip Moh Ching (2001–2007)<br>
 \- Mrs Therasa Hong (2008–2013)<br>
-\- Mr K. Govindan (2014–present)
+\- Mr K. Govindan (2014-2020)<br>
+\- Mrs Peh-Wong Wei Yong (2021-present)
 
 #### **Key Milestones**
 
