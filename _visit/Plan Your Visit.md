@@ -12,7 +12,7 @@ Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 **School Holidays**<br>
 Monday to Friday | 10am - 5pm (last entry
 4.30pm)
-### **Opening Hours**
+### **Contact Details**
 [moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) 
 <br>
 6232 7975
