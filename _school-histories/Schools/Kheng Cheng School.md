@@ -3,6 +3,7 @@ title: Kheng Cheng School
 permalink: /school-histories/kheng-cheng-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/khengchengsch1.png">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLAl0km_bFTGI6AkZmTyd98Fn7poo23Ft2AQKTTUOwA-dD4tUYCzQ5PT7tweK7GHNceu1PhwE39gru/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/khengchengsch2.jpg">  
-<img align="left" style="width:20%;margin-left:35px;" src="/images/khengchengsch2.jpg">
-</a></p>
-
-<p><a href="/images/khengchengsch3.jpg">  
-<img align="left" style="width:30%;margin-left:45px;" src="/images/khengchengsch3.jpg">
-</a></p>
-
-<p><a href="/images/khengchengsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/khengchengsch5.jpg">  
-<img align="left" style="width:20%;margin-left:35px;" src="/images/khengchengsch5.jpg">
-</a></p>
-
-<p><a href="/images/khengchengsch6.jpg">  
-<img align="left" style="width:30%;margin-left:45px;" src="/images/khengchengsch6.jpg">
-</a></p>
-
-<p><a href="/images/khengchengsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/khengchengsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch8.jpg">
-</a></p>
-
-<p><a href="/images/khengchengsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/khengchengsch9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -70,7 +36,8 @@ Principals:<br>
 \- Mrs Jenny Yeo Bee Geok (1996–1997)<br>
 \- Mdm Ow Suek Yin (1998–2006)<br>
 \- Mrs Lay See Neufeld (2007–2014)<br>
-\- Mdm Sarah Leong Chui Yin (2015–present)
+\- Mdm Sarah Leong Chui Yin (2015–2021)<br>
+\- Mdm Tan Huiling Cheryl (2021 - present)
 
 #### **Key Milestones**
 
@@ -84,10 +51,12 @@ Principals:<br>
 | 2007 | Celebration of 80th anniversary. |
 | 2015 | Celebration of 88th anniversary cum SG50 Pioneer Celebrations. |
 | 2017 | Celebration of 90th anniversary. |
-| 2018 | Underwent PERI upgrading. |
-| 2020 | Completion of PERI upgrading. |
+| 2018 | Underwent PERI upgrading (completion in 2020). |
+| 2025 | Celebration of 98th anniversary. |
 |
 
+#### **School Motto**
+Uplift and Uphold
 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/khengchengsch1.png">

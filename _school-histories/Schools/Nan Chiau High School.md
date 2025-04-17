@@ -18,17 +18,15 @@ variant: markdown
 
 
 #### **School History**
-Mr Tan Kah Kee founded Nan Chiau Teachers’ Training School in 1941. The school was then located on a plot of land on Kim Yam Road donated by Mr Lee Kong Chian. The following year, however, it stopped functioning due to the Japanese Occupation.
+Nan Chiau High School was founded as Nan Chiau Teachers’ Training School in 1941 by Chinese businessman, community leader and philanthropist, Mr Tan Kah Kee. Its first campus on Kim Yam Road was built on land donated by Mr Lee Kong Chian. In early 1942, the campus became the headquarters and training grounds for Dalforce, a Chinese volunteer army formed to resist the Japanese invasion. In 1947, Nan Chiau Teachers’ Training School was converted by the Singapore Hokkien Huay Kuan (SHHK) into Nan Chiau Girls’ High School with an ancillary primary school. A female hostel was also built in the 1950s. 
 
-The school resumed operations after the war; in 1947, the Singapore Hokkien Huay Kuan (SHHK) converted Nan Chiau Teachers’ Training School into Nan Chiau Girls’ High School, with an ancillary primary school. The mission was to promote girls’ education in Singapore. To cope with the expanding enrolment, the SHHK contributed to the school’s expansion and rebuilding over the years.
+In 1965, the SHHK invested $2 million in rebuilding the school, temporarily relocating the high school to Guillemard Road while the primary school remained at its original site. The new campus was completed in 1969 and was officially opened by Mr. Ong Pang Boon, then Minister for Education, on 8 March 1970. By 1974, the total student enrolment peaked at 2692, with 48 secondary classes and 24 primary classes, prompting a $300, 000 expansion of the school building to add a 5th storey. As Kim Yam Road’s residential area matured, the student enrolment saw a sharp decline. To overcome this, the school went fully co-educational in 1984. 
 
-On 8 March 1969, the opening of new premises was officiated by Mr Ong Pang Boon, then Minister for Education.&nbsp;In 1979, Nan Chiau Girls’ High School began functioning as a full school, with the primary and secondary sections sharing the same premises.
+Nan Chiau Girls’ High School was then renamed Nan Chiau High School. However, the student population continued shrinking in the 1990s. Despite the school’s rich history and the support from the alumni and the SHHK, the school was on the verge of permanent closure. Faced with the dilemma of repurposing the land on Kim Yam Road and hence closing the school, or relocating the school to Sengkang new town, SHHK, the school and its alumni unanimously chose relocation to secure a future for Nan Chiau High School. 
 
-In 1980, like many other Chinese-medium schools, the school adopted English as its main medium of instruction. Keeping up with the times, a decision was made for the school to become co-educational. The first intake of boys was in 1984, and the school was accordingly renamed Nan Chiau High School.
+In 2001, the primary and secondary sections were relocated to Sengkang as two separate schools. Nan Chiau High School has continued to develop students holistically and it was recognised as a Special Assistance Plan school in 2012. 
 
-Over the years, the school grew from strength to strength and the old premises became inadequate. In 2001, the primary and secondary sections were relocated to Sengkang as two separate schools. Nan Chiau High School has continued to develop students holistically and it was recognised as a Special Assistance Plan school in 2012.  
-  
-In 2013, the school received the pinnacle School Distinction Award, which is a testimony to the school’s excellence in providing students an all-round educational experience.&nbsp;2020 was another milestone year for Nan Chiau High school as the school was selected as a Chinese Language Elective Programme (CLEP-Sec) school to further support our school’s bilingual and bicultural education. We also added a new talent area, Bilingualism, for our Direct School Admission, as we continue to provide growth for promising students who demonstrate talent and ability towards&nbsp;performing arts, sports, visual arts and bilingualism.
+Another milestone came in 2020 when the school was selected as a Chinese Language Elective Programme (CLEP-Sec) school to strengthen the school’s bilingual and bicultural education. To nurture talent in this area, Bilingualism was added as a Direct School Admission (DSA) category, alongside performing arts, sports, and visual arts.
 
 Principals:<br>
 \- Mr Yang Zhenli (1947–1950)<br>
@@ -41,7 +39,7 @@ Principals:<br>
 \- Mr Ong Kian Choon (2005–2010)<br>
 \- Mr Tan Yee Kan (2011–2018)<br>
 \- Ms Siau Fong Fui (2019–2022)<br>
-\\- Mdm Ler Jia Luen (2023 - present) 
+\- Mdm Ler Jia Luen (2023 - present) 
 
 #### **Key Milestones**
 
