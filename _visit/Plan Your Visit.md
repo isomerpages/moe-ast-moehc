@@ -13,8 +13,7 @@ Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 Monday to Friday | 10am - 5pm (last entry
 4.30pm)
 
-
-Our gallery will operate from 2pm to 4.30pm during the following dates:
+**NOTE**: Our gallery will operate from 2pm to 4.30pm during the following dates:
 
 <img align="left" style="width:40%;margin-right:15px;" src="/images/timetable_closure.png">
 <br><br><br><br>
