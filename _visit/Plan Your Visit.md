@@ -13,7 +13,9 @@ Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 Monday to Friday | 10am - 5pm (last entry
 4.30pm)
 
-**NOTE**: Our gallery will be open from 2pm to 5.00 pm (last entry 4.30 pm) on the following dates:
+We are closed on public holidays.
+
+**NOTE**: Our gallery will be opened from 2pm to 5pm (last entry 4.30 pm) on the following dates:
 
 <img align="left" style="width:40%;margin-right:15px;" src="/images/timetable_closure.png">
 <br><br><br><br>
@@ -21,9 +23,9 @@ Monday to Friday | 10am - 5pm (last entry
 
 
 ### **Contact Details**
-[moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) 
+Drop us an email at [moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) 
 <br>
-6232 7975
+Hotline: 6232 7975
 
 ### **Getting to MOEHQ (Balestier)**
 The MOE Heritage Centre is located within MOEHQ (Balestier).<br>
