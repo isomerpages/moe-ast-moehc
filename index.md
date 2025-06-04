@@ -4,7 +4,10 @@ title: MOE Heritage Centre
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: ""
+notification: "ALERT: With the rise in scams involving the impersonation of
+  government officials, please note that government officials will never ask you
+  to transfer money or disclose bank login details over a phone call. When
+  unsure if something is a scam, call the 24/7 ScamShield Helpline at 1799."
 sections:
   - hero:
       title: Welcome!
