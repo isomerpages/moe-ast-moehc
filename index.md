@@ -33,7 +33,6 @@ sections:
       alt: Image alt text
       image: /images/HC pages/00_highlight01.png
   - infopic:
-      title: Virtual Tour
       subtitle: Spotlight
       description: Explore selected content from our gallery here
       button: CLICK HERE
