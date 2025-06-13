@@ -13,23 +13,9 @@ Tuesday to Friday | 10am - 5pm (last entry 4.30pm)
 Monday to Friday | 10am - 5pm (last entry
 4.30pm)
 
-We are closed on public holidays.
-
-**Please take note of the gallery's operating hours on the following dates**
-
-* **1 July**<br>
-Closed from 10 am to 2 pm **|** Reopens from 2pm to 5pm (last admission at 4.30pm)
-
-* **17 July**<br>
-Full day closure
-
-* **6 - 7 Oct**<br>
-Closed from 10 am to 2 pm **|** Reopens from 2pm to 5pm (last admission at 4.30pm)
-
-* **27 Nov**<br>
-Full day closure
-
-
+Please take note of changes in operating hours on the following dates:
+<img align="left" style="width:55%;margin-right:15px;" src="/images/gallery_closure_2025_II.png">
+<p></p><br><br><br><br>
 
 ### **Contact Details**
 Drop us an email at [moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) 
