@@ -15,10 +15,19 @@ Monday to Friday | 10am - 5pm (last entry
 
 We are closed on public holidays.
 
-**NOTE**: Our gallery will be opened from 2pm to 5pm (last entry 4.30 pm) on the following dates:
+**Please take note of the gallery's operating hours on the following dates**
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/timetable_closure.png">
-<br><br><br><br>
+* **1 July**<br>
+Closed from 10 am to 2 pm **|** Reopens from 2pm to 5pm (last admission at 4.30pm)
+
+* **17 July**<br>
+Full day closure
+
+* **6 - 7 Oct**<br>
+Closed from 10 am to 2 pm **|** Reopens from 2pm to 5pm (last admission at 4.30pm)
+
+* **27 Nov**<br>
+Full day closure
 
 
 
