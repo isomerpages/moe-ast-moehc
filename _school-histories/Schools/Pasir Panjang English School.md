@@ -74,6 +74,6 @@ to Jagoh Primary School.</p>
 </table>
 <p></p>
 <h4><strong>School Motto</strong></h4>
-<p>Be ready to serve.</p>
+<p>Knowledge is Power</p>
 <p></p>
 <p></p>
