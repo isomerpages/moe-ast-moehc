@@ -10,7 +10,31 @@ third_nav_title: Schools
 <h4><strong>Image Gallery</strong></h4>
 <p></p>
 <h4><strong>School History</strong></h4>
+<p>Pasir Panjang English School was established in 1933 as one of the earliest
+government English schools in Pasir Panjang, during a period of rapid expansion
+of the English education system prior to World War II.</p>
 <p></p>
+<p>The road leading up to the school was subsequently named after philanthropist
+Chia Yew Siang, whose land was acquired for its site. It offered education
+leading to the Cambridge School Certificate and participated in an early
+co-educational trial in 1936 together with two other government English
+schools<s>,</s> that was reported as successful in the newspapers.</p>
+<p></p>
+<p>Before the war in December 1941, the school also functioned as an evacuation
+registration centre. Although destroyed during the war, the school was
+rebuilt by 1948.</p>
+<p>In 1954, the school was renamed Pasir Panjang School I and eventually
+became known as Pasir Panjang Primary School before closing in 1986, with
+students transferring to Jagoh Primary School.</p>
+<p>The premises were later repurposed in 1999 as a drug rehabilitation centre
+until 2024.</p>
+<p></p>
+<p>The school has also produced many notable students including Emeritus
+Senior Minister Goh Chok Tong, national sprinter Mr C Kunalan, Dr Tan Eng
+Liang, who was Senior Minister of State for National Development and national
+water polo player, and Dr Cham Tao Soon, the founding President of Nanyang
+Technological Institute (NTI) and President of Nanyang Technological University
+(NTU).</p>
 <p></p>
 <h4><strong>Key Milestones</strong></h4>
 <p></p>
@@ -33,7 +57,7 @@ third_nav_title: Schools
 <p>1933</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Establishment of Pasir Panjang English School as an all boys' school.</p>
+<p>Establishment of Pasir Panjang English School.</p>
 </td>
 </tr>
 <tr>
