@@ -58,15 +58,16 @@ an experiment that was reported successful in the newspapers.</p>
 <p>1954</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Renamed Pasir Panjang School I (also known as Pasir Panjang Primary School).</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1986</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Closure of Pasir Panjang Primary School and its students were transferred
+to Jagoh Primary School.</p>
 </td>
 </tr>
 </tbody>
