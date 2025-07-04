@@ -3,6 +3,7 @@ title: Anchor Green Primary School
 permalink: /school-histories/anchor-green-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:35%;margin-right:15px;" src="/images/anchorgreenpri1.png">
 
@@ -12,39 +13,10 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKBAtnFLcc5NB_26O_FiT3XMno6r4oG-9YVX_GWVqO_VP8c9j7MRqerb0V8T5zCDoFHjuMpxFWwJJO/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/anchorgreenpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri2.jpg">
-</a></p>
-
-<p><a href="/images/anchorgreenpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri3.jpg">
-</a></p>
-
-<p><a href="/images/anchorgreenpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri4.jpg">
-</a></p>
 
 <br clear="left">
 
-<p><a href="/images/anchorgreenpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri5.jpg">
-</a></p>
 
-<p><a href="/images/anchorgreenpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri6.jpg">
-</a></p>
-
-<p><a href="/images/anchorgreenpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/anchorgreenpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/anchorgreenpri8.jpg">
-</a></p>
-
-<br clear="left"><br>
 
 #### **School History**
 Anchor Green Primary School was established in December 2007 to serve the growing number of young families in the new town of Sengkang. The school opened with an enrolment of 273 students in nine classes from Primary One to Primary Three. The school has also gradually expanded on its facilities, with an indoor sports hall added in 2011 and an annex block completed under the PERI upgrading project in 2018. Upon completion of the new block, Anchor Green Primary saw its first intake of Ministry of Education kindergarten pupils in 2019.  
