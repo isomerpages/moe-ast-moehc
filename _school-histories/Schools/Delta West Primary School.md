@@ -3,6 +3,7 @@ title: Delta West Primary School
 permalink: /school-histories/delta-west-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/deltawestpri1.png">
 
@@ -12,14 +13,6 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZYigOaH5n70yNJKuVqN6aLW7qH2rMr99u_PgJaPAK4Qauc_p-315paimno7FXqkGt9ZzT41HyWNwl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<p><a href="/images/deltawestpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deltawestpri2.jpg">
-</a></p>
-
-<p><a href="/images/deltawestpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/deltawestpri3.jpg">
-</a></p>
 
 <br clear="left">
 
