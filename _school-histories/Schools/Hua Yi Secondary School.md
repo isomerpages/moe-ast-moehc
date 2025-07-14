@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/huayisec1.jpg">
 
-### **school name**
+### **Hua Yi Secondary School**
 [URL to website](https://huayisec.moe.edu.sg/)
 
 <br clear="left">
