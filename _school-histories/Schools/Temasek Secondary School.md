@@ -71,7 +71,7 @@ Principals:<br>
 \- Mdm Lim Geok Cheng (2000–2005)<br>
 \- Mrs Ong Hong Peng (2005–2010)<br>
 \- Mr Tan Chee Siong (2011–2015)<br>
-\- Mrs Dayna Chia Minn (2016–2024)<br>
+\- Mrs Dayna Chia Minn (2016–2020)<br>
 \- Ms Leah Aw (2021 - 2024) <br> 
 \- Mr Tan Shun Loong (2025–present)
 
