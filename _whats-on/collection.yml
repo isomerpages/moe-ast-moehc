@@ -2,6 +2,8 @@ collections:
   whats-on:
     output: true
     order:
+      - "Upcoming Events/Seeds of Change: School Campaigns from the 1950s till
+        the Present.md"
       - Upcoming Events/Heart of a Teacher Roving Exhibition.md
       - Upcoming Events/Discover the Singapore Education Story with MOE Heritage
         Centre.md
