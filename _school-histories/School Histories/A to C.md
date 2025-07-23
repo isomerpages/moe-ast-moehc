@@ -504,7 +504,7 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Crest Secondary School](/school-histories/crest-sec/) | | |
+| | [Crest Secondary School](/school-histories/crest-sec/) | | 
 
 <img align="center" style="width:17%;" src="/images/crestC59.png">
 
