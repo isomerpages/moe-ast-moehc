@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/Overview.md
       - School Histories/D to K.md
       - School Histories/A to C.md
       - School Histories/.keep
