@@ -10,7 +10,7 @@ third_nav_title: School Histories
 | [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) |
 
 <img align="left" style="width:27%;margin-left:100px;" src="/images/crestD1.jpg">
-<img align="right" style="width:25%;margin-right:10px;" src="/images/crestD2.png">
+<img align="right" style="width:25%;margin-right:80px;" src="/images/crestD2.png">
 
 <br clear="left">
 
