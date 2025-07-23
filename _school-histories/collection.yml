@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/.keep
       - School Histories.md
       - Schools/Pasir Panjang English School.md
       - Schools/Braddell Rise School.md
