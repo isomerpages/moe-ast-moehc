@@ -10,7 +10,7 @@ third_nav_title: School Histories
  | [Labrador Primary School](/school-histories/labrador-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/) |
 
 <img align="left" style="width:25%;margin-left:95px;" src="/images/crestL1.png">
-<img align="right" style="width:20%;margin-right:95px;" src="/images/crestL2.png">
+<img align="right" style="width:20%;margin-right:160px;" src="/images/crestL2.png">
 
 <br clear="left">
 
