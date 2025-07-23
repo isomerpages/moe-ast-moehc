@@ -7,11 +7,9 @@ third_nav_title: School Histories
 ---
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northoaks Primary School](/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](/school-histories/oasis-pri/) |
+|| [Oasis Primary School](/school-histories/oasis-pri/) ||
 
-<img align="left" style="width:20%;margin-left:55px;" src="/images/crestN28.png">
-<img align="left" style="width:25%;margin-left:105px;" src="/images/crestN29.jpg">
-<img align="right" style="width:20%;margin-right:35px;" src="/images/crestO1.png">
+<img align="center" style="width:20%;" src="/images/crestO1.png">
 
 <br clear="left">
 
