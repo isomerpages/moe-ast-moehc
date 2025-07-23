@@ -7,29 +7,29 @@ third_nav_title: School Histories
 ---
 |  |  |  |
 |:---:|:---:|:---:|
-| | [Tampines Junior College](/school-histories/tampines-jc/) ||
+| [Tampines Junior College](/school-histories/tampines-jc/) |[Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/)| [Tampines North Primary School](/school-histories/tampines-north-pri/) |
 
-<img align="center" style="width:20%;" src="/images/crestT1.png">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](/school-histories/tampines-north-pri/) | [Tampines Primary School](/school-histories/tampines-pri/) |
-
+<img align="left" style="width:20%;;margin-left:85px;" src="/images/crestT1.png">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestT2.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestT3.png">
-<img align="right" style="width:20%;margin-right:35px;" src="/images/crestT4.jpg">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Secondary School](/school-histories/tampines-sec/) | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
+| | [Tampines Primary School](/school-histories/tampines-pri/) | [Tampines Secondary School](/school-histories/tampines-sec/)| 
 
-<img align="left" style="width:20%;margin-left:85px;" src="/images/crestT5.jpg">
-<img align="left" style="width:20%;margin-left:105px;" src="/images/crestT6.png">
-<img align="right" style="width:20%;margin-right:40px;" src="/images/crestT7.png">
+<img align="left" style="width:20%;margin-left:150px;" src="/images/crestT4.jpg">
+<img align="right" style="width:20%;margin-right:150px;" src="/images/crestT5.jpg">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+|  | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
+
+<img align="left" style="width:20%;margin-left:150px;" src="/images/crestT6.png">
+<img align="right" style="width:20%;margin-right:150px;" src="/images/crestT7.png">
 
 <br clear="left">
 
