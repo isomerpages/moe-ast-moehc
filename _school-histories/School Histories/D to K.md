@@ -486,10 +486,8 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](/school-histories/labrador-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/) |
+| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | 
 
-<img align="left" style="width:20%;margin-left:55px;" src="/images/crestK23.png">
-<img align="left" style="width:25%;margin-left:95px;" src="/images/crestL1.png">
-<img align="right" style="width:20%;margin-right:35px;" src="/images/crestL2.png">
+<img align="center" style="width:20%;" src="/images/crestK23.png">
 
 <br clear="left">
