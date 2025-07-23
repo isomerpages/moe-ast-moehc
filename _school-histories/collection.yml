@@ -2,6 +2,7 @@ collections:
   school-histories:
     output: true
     order:
+      - School Histories/A to C.md
       - School Histories/.keep
       - School Histories.md
       - Schools/Pasir Panjang English School.md
