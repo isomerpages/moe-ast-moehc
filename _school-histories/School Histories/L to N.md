@@ -216,20 +216,9 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northoaks Primary School](/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](/school-histories/oasis-pri/) |
+| [Northoaks Primary School](/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](/school-histories/nus-high-sch-of-math-and-sci/) | 
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN28.png">
 <img align="left" style="width:25%;margin-left:105px;" src="/images/crestN29.jpg">
-<img align="right" style="width:20%;margin-right:35px;" src="/images/crestO1.png">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [Opera Estate Boys' Primary School](/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](/school-histories/opera-estate-pri/) |
-
-<img align="left" style="width:20%;margin-left:55px;" src="/images/crestO2.png">
-<img align="left" style="width:20%;margin-left:105px;" src="/images/crestO3.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestO4.jpg">
 
 <br clear="left">
