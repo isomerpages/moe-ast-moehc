@@ -10,7 +10,8 @@ variant: markdown
 
 We recognise that every Singapore school has a story to tell, contributing to the larger Singapore Education narrative. This online repository aims to augment MOE's efforts in preserving school heritage. The collection would also reinforce the Singapore spirit and identity, as school heritage is an important constituent of national heritage.
 
-If you would like to make a contribution, please submit a form<a href="https://go.gov.sg/moehc-schhist"> here</a>.
+If you would like to make a contribution, please submit a form **[here](https://form.gov.sg/687df6987b1abf54b8c22053)**.
+
 ### **School Histories Online Repository**
 
 |  |  |  |
