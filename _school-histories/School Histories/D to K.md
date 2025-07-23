@@ -486,7 +486,7 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | 
+|| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | |
 
 <img align="center" style="width:20%;" src="/images/crestK23.png">
 
