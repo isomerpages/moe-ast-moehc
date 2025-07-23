@@ -33,6 +33,10 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 <br clear="left">
 
+| | | |
+|:---:|:---:|:---:|
+| [Alexandra Hill Primary School](/school-histories/alexandra-hill-pri/) | [Alexandra Primary School](/school-histories/alexandra-pri/) | [Aljunied Primary School](/school-histories/aljunied-pri/) |
+
 <img align="left" style="width:15%;margin-left:65px;" src="/images/crest7.png">
 <img align="left" style="width:16%;margin-left:155px;" src="/images/crest8.png">
 <img align="right" style="width:18%;margin-right:65px;" src="/images/crest9.png">
@@ -41,7 +45,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Alexandra Hill Primary School](/school-histories/alexandra-hill-pri/) | [Alexandra Primary School](/school-histories/alexandra-pri/) | [Aljunied Primary School](/school-histories/aljunied-pri/) |
+| [Ama Keng School](/school-histories/ama-keng-sch/) | [Anchor Green Primary School](/school-histories/anchor-green-pri/) | [Anderson Junior College](/school-histories/anderson-jc/) |
+
 
 <img align="left" style="width:15%;margin-left:65px;" src="/images/crest10.png">
 <img align="left" style="width:30%;margin-left:105px;" src="/images/crest11.png">
@@ -51,7 +56,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Ama Keng School](/school-histories/ama-keng-sch/) | [Anchor Green Primary School](/school-histories/anchor-green-pri/) | [Anderson Junior College](/school-histories/anderson-jc/) |
+| [Anderson Primary School](/school-histories/anderson-pri/) | [Anderson Secondary School](/school-histories/anderson-sec/) | [Anderson Serangoon Junior College](/school-histories/anderson-serangoon-jc/) |
 
 <img align="left" style="width:15%;margin-left:65px;" src="/images/crest13.png">
 <img align="left" style="width:16%;margin-left:155px;" src="/images/crest14.jpg">
@@ -61,7 +66,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 | | | |
 |:---:|:---:|:---:|
-| [Anderson Primary School](/school-histories/anderson-pri/) | [Anderson Secondary School](/school-histories/anderson-sec/) | [Anderson Serangoon Junior College](/school-histories/anderson-serangoon-jc/) |
+| [Ang Mo Kio Primary School](/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](/school-histories/amk-sec/) | [Anglican High School](/school-histories/anglican-high-sch/) |
+
 
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crest16.png">
 <img align="left" style="width:16%;margin-left:105px;" src="/images/crest17.jpg">
@@ -69,9 +75,9 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 <br clear="left">
 
-| | | |
+|  |  |  |
 |:---:|:---:|:---:|
-| [Ang Mo Kio Primary School](/school-histories/amk-pri/) | [Ang Mo Kio Secondary School](/school-histories/amk-sec/) | [Anglican High School](/school-histories/anglican-high-sch/) |
+| [Anglo Chinese School (Barker Road)](/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](/school-histories/acjc/) | [Anglo Chinese School (Independent)](/school-histories/acs-i/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crest19.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crest20.png">
@@ -81,7 +87,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anglo Chinese School (Barker Road)](/school-histories/acs-barker-road/) | [Anglo Chinese Junior College](/school-histories/acjc/) | [Anglo Chinese School (Independent)](/school-histories/acs-i/) |
+| [Anglo Chinese School (Junior)](/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](/school-histories/acs-pri/) | [Angsana Primary School](/school-histories/angsana-pri/) |
+
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crest22.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crest23.jpg">
@@ -91,7 +98,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anglo Chinese School (Junior)](/school-histories/acs-junior/) | [Anglo Chinese School (Primary)](/school-histories/acs-pri/) | [Angsana Primary School](/school-histories/angsana-pri/) |
+| [Anthony Road Girls' School](/school-histories/anthony-road-girls-sch/) | [Aroozoo School](/school-histories/aroozoo-sch/) | [Assumption English School](/school-histories/assumption-eng-sch/) |
 
 <img align="left" style="width:18%;margin-left:85px;" src="/images/crest25.jpg">
 <img align="left" style="width:15%;margin-left:115px;" src="/images/crest26.png">
@@ -101,7 +108,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Anthony Road Girls' School](/school-histories/anthony-road-girls-sch/) | [Aroozoo School](/school-histories/aroozoo-sch/) | [Assumption English School](/school-histories/assumption-eng-sch/) |
+| [Assumption Pathway School](/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](/school-histories/balestier-hill-east-pri/) |
+
 
 <img align="left" style="width:30%;margin-left:45px;" src="/images/crest28.png">
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crest29.png">
@@ -111,7 +119,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Assumption Pathway School](/school-histories/assumption-pathway-sch/) | [Balestier Boys' School](/school-histories/balestier-boys-sch/) | [Balestier Hill East Primary School](/school-histories/balestier-hill-east-pri/) |
+| [Balestier Hill Primary School](/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](/school-histories/school-histories/balestier-hill-pri-1986-1988/) | [Balestier Hill Secondary School](/school-histories/balestier-hill-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crest31.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crest32.jpg">
@@ -121,7 +129,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill Primary School](/school-histories/balestier-hill-pri/) | [Balestier Hill Primary School (1986-1988)](/school-histories/school-histories/balestier-hill-pri-1986-1988/) | [Balestier Hill Secondary School](/school-histories/balestier-hill-sec/) |
+| [Balestier Hill West Primary School](/school-histories/balestier-hill-west-pri/) | [Balestier Mixed School](/school-histories/balestier-mixed-sch/) | [Balestier Primary School](/school-histories/balestier-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crest34.jpg">
 <img align="left" style="width:20%;margin-left:145px;" src="/images/crest35.png">
@@ -131,7 +139,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Balestier Hill West Primary School](/school-histories/balestier-hill-west-pri/) | [Balestier Mixed School](/school-histories/balestier-mixed-sch/) | [Balestier Primary School](/school-histories/balestier-pri/) |
+| [Bartley Primary School](/school-histories/bartley-pri/) | [Bartley Secondary School](/school-histories/bartley-sec/) | [Batu Berlayer School](/school-histories/batu-berlayar-sch/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crest37.png">
 <img align="left" style="width:25%;margin-left:95px;" src="/images/crest38.jpg">
@@ -141,7 +149,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bartley Primary School](/school-histories/bartley-pri/) | [Bartley Secondary School](/school-histories/bartley-sec/) | [Batu Berlayer School](/school-histories/batu-berlayar-sch/) |
+| [Beacon Primary School](/school-histories/beacon-pri/) | [Beatty Primary School](/school-histories/beatty-pri/) | [Beatty Secondary School](/school-histories/beatty-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crest40.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest41.png">
@@ -151,7 +159,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Beacon Primary School](/school-histories/beacon-pri/) | [Beatty Primary School](/school-histories/beatty-pri/) | [Beatty Secondary School](/school-histories/beatty-sec/) |
+| [Bedok Boys' School](/school-histories/bedok-boys-sch/) | [Bedok Girls' School](/school-histories/bedok-girls-sch/) | [Bedok Green Primary School](/school-histories/bedok-green-pri/) |
 
 <img align="left" style="width:20%;margin-left:45px;" src="/images/crest43.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crest44.png">
@@ -161,7 +169,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Boys' School](/school-histories/bedok-boys-sch/) | [Bedok Girls' School](/school-histories/bedok-girls-sch/) | [Bedok Green Primary School](/school-histories/bedok-green-pri/) |
+| [Bedok Green Secondary School](/school-histories/bedok-green-sec/) | [Bedok North Primary School](/school-histories/bedok-north-pri/) | [Bedok North Secondary School](/school-histories/bedok-north-sec/) |
 
 <img align="left" style="width:18%;margin-left:45px;" src="/images/crest46.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crest47.png">
@@ -171,7 +179,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Green Secondary School](/school-histories/bedok-green-sec/) | [Bedok North Primary School](/school-histories/bedok-north-pri/) | [Bedok North Secondary School](/school-histories/bedok-north-sec/) |
+| [Bedok Primary School](/school-histories/bedok-pri/) | [Bedok South Primary School](/school-histories/bedok-south-pri/) | [Bedok South Secondary School](/school-histories/bedok-south-sec/) |
 
 <img align="left" style="width:20%;margin-left:45px;" src="/images/crest49.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest50.png">
@@ -181,7 +189,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Primary School](/school-histories/bedok-pri/) | [Bedok South Primary School](/school-histories/bedok-south-pri/) | [Bedok South Secondary School](/school-histories/bedok-south-sec/) |
+| [Bedok Town Primary School](/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](/school-histories/bedok-town-sec/) | [Bedok View Primary School](/school-histories/bedok-view-pri/) |
+
 
 <img align="left" style="width:20%;margin-left:45px;" src="/images/crest52.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest53.png">
@@ -191,7 +200,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok Town Primary School](/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](/school-histories/bedok-town-sec/) | [Bedok View Primary School](/school-histories/bedok-view-pri/) |
+| [Bedok View Secondary School](/school-histories/bedok-view-sec/) | [Bedok West Primary School](/school-histories/bedok-west-pri/) | [Belvedere Primary School](/school-histories/belvedere-pri/) |
 
 <img align="left" style="width:20%;margin-left:45px;" src="/images/crest55.jpg">
 <img align="left" style="width:22%;margin-left:115px;" src="/images/crest56.png">
@@ -201,7 +210,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bedok View Secondary School](/school-histories/bedok-view-sec/) | [Bedok West Primary School](/school-histories/bedok-west-pri/) | [Belvedere Primary School](/school-histories/belvedere-pri/) |
+| [Belvedere School (Bukit Merah)](/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](/school-histories/bendemeer-sec/) |
 
 <img align="left" style="width:22%;margin-left:35px;" src="/images/crest58.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crest59.png">
@@ -211,7 +220,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Belvedere School (Bukit Merah)](/school-histories/belvedere-sch-bukit-merah/) | [Bendemeer Primary School](/school-histories/bendemeer-pri/) | [Bendemeer Secondary School](/school-histories/bendemeer-sec/) |
+| [Beng Wan Primary School](/school-histories/beng-wan-pri/) | [Birkhall Road School](/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](/school-histories/bishan-park-sec/) |
 
 <img align="left" style="width:22%;margin-left:45px;" src="/images/crest61.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest62.png">
@@ -221,7 +230,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Beng Wan Primary School](/school-histories/beng-wan-pri/) | [Birkhall Road School](/school-histories/birkhall-road-sch/) | [Bishan Park Secondary School](/school-histories/bishan-park-sec/) |
+| [Blangah Rise Primary School](/school-histories/blangah-rise-pri/) | [Boo Teck School (Farrer Park)](/school-histories/boo-teck-sch/) | [Boon Keng Primary School](/school-histories/boon-keng-pri/) |
 
 <img align="left" style="width:15%;margin-left:65px;" src="/images/crest64.png">
 <img align="left" style="width:25%;margin-left:115px;" src="/images/crest65.png">
@@ -231,7 +240,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Blangah Rise Primary School](/school-histories/blangah-rise-pri/) | [Boo Teck School (Farrer Park)](/school-histories/boo-teck-sch/) | [Boon Keng Primary School](/school-histories/boon-keng-pri/) |
+| [Boon Lay Garden Primary School](/school-histories/boon-lay-garden-pri/) | [Boon Lay Primary School](/school-histories/boon-lay-pri/) | [Boon Lay Secondary School](/school-histories/boon-lay-sec/) |
 
 <img align="left" style="width:30%;margin-left:45px;" src="/images/crest67.png">
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crest68.png">
@@ -241,7 +250,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Boon Lay Garden Primary School](/school-histories/boon-lay-garden-pri/) | [Boon Lay Primary School](/school-histories/boon-lay-pri/) | [Boon Lay Secondary School](/school-histories/boon-lay-sec/) |
+| [Bowen Secondary School](/school-histories/bowen-sec/) | [Braddell Primary School](/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](/school-histories/braddel-westlake-sec/) |
 
 <img align="left" style="width:25%;margin-left:65px;" src="/images/crest70.jpg">
 <img align="left" style="width:25%;margin-left:75px;" src="/images/crest71.png">
@@ -251,7 +260,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bowen Secondary School](/school-histories/bowen-sec/) | [Braddell Primary School](/school-histories/braddell-pri/) | [Braddell Westlake Secondary School](/school-histories/braddel-westlake-sec/) |
+| [Broadrick Primary School](/school-histories/broadrick-pri/) | [Broadrick Secondary School](/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](/school-histories/bukit-batok-east-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crest73.png">
 <img align="left" style="width:25%;margin-left:75px;" src="/images/crest74.jpg">
@@ -261,7 +270,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Broadrick Primary School](/school-histories/broadrick-pri/) | [Broadrick Secondary School](/school-histories/broadrick-sec/) | [Bukit Batok East Primary School](/school-histories/bukit-batok-east-pri/) |
+| [Bukit Batok Secondary School](/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](/school-histories/bukit-ho-swee-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crest76.jpg">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest77.png">
@@ -271,7 +280,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Batok Secondary School](/school-histories/bukit-batok-sec/) | [Bukit Batok West Primary School](/school-histories/bukit-batok-west-pri/) | [Bukit Ho Swee Primary School](/school-histories/bukit-ho-swee-pri/) |
+| [Bukit Ho Swee Secondary School](/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](/school-histories/bukit-merah-pri/) |
+
 
 <img align="left" style="width:17%;margin-left:75px;" src="/images/crest79.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest80.png">
@@ -281,8 +291,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Ho Swee Secondary School](/school-histories/bukit-ho-swee-sec/) | [Bukit Merah North School](/school-histories/bukit-merah-north-sch/) | [Bukit Merah Primary School](/school-histories/bukit-merah-pri/) |
-
+| [Bukit Merah Secondary School](/school-histories/bukit-merah-sec/) | [Bukit Merah South School](/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](/school-histories/bukit-panjang-govt-high-sch/) |
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crest82.jpg">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crest83.jpg">
 <img align="right" style="width:22%;margin-right:25px;" src="/images/crest84.jpg">
@@ -291,7 +300,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Merah Secondary School](/school-histories/bukit-merah-sec/) | [Bukit Merah South School](/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](/school-histories/bukit-panjang-govt-high-sch/) |
+| [Bukit Panjang Primary School](/school-histories/bukit-panjang-pri/) | [Bukit Timah Primary School](/school-histories/bukit-timah-pri/) | [Bukit View Primary School](/school-histories/bukit-view-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crest85.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crest86.png">
@@ -301,7 +310,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit Panjang Primary School](/school-histories/bukit-panjang-pri/) | [Bukit Timah Primary School](/school-histories/bukit-timah-pri/) | [Bukit View Primary School](/school-histories/bukit-view-pri/) |
+| [Bukit View Secondary School](/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](/school-histories/buona-vista-sec/) | [Cairnhill Primary School](/school-histories/cairnhill-pri/) |
 
 <img align="left" style="width:23%;margin-left:45px;" src="/images/crest88.jpg">
 <img align="left" style="width:25%;margin-left:95px;" src="/images/crest89.png">
@@ -312,7 +321,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Bukit View Secondary School](/school-histories/bukit-view-sec/) | [Buona Vista Secondary School](/school-histories/buona-vista-sec/) | [Cairnhill Primary School](/school-histories/cairnhill-pri/) |
+| [Cambridge Primary School](/school-histories/cambridge-pri/) | [Canberra Primary School](/school-histories/canberra-pri/) | [Canberra Secondary School](/school-histories/canberra-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestC2.png">
 <img align="left" style="width:30%;margin-left:95px;" src="/images/crestC3.png">
@@ -322,7 +331,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cambridge Primary School](/school-histories/cambridge-pri/) | [Canberra Primary School](/school-histories/canberra-pri/) | [Canberra Secondary School](/school-histories/canberra-sec/) |
+| [Canossa Catholic Primary School](/school-histories/canossa-catholic-pri/) | [Cantonment Primary School](/school-histories/cantonment-pri/) | [Cantonment School](/school-histories/cantonment-sch/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestC5.png">
 <img align="left" style="width:22%;margin-left:135px;" src="/images/crestC6.png">
@@ -332,7 +341,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Canossa Catholic Primary School](/school-histories/canossa-catholic-pri/) | [Cantonment Primary School](/school-histories/cantonment-pri/) | [Cantonment School](/school-histories/cantonment-sch/) |
+| [Casuarina Primary School](/school-histories/casuarina-pri/) | [Catholic High School](/school-histories/catholic-high-sch/) | [Catholic Junior College](/school-histories/catholic-jc/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC8.png">
 <img align="left" style="width:35%;margin-left:75px;" src="/images/crestC9.jpg">
@@ -342,7 +351,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Casuarina Primary School](/school-histories/casuarina-pri/) | [Catholic High School](/school-histories/catholic-high-sch/) | [Catholic Junior College](/school-histories/catholic-jc/) |
+| [Cedar Boys' Primary School](/school-histories/cedar-boys-pri/) | [Cedar Girls' Primary School](/school-histories/cedar-girls-pri/) | [Cedar Girls' Secondary School](/school-histories/cedar-girls-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC11.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestC12.png">
@@ -352,7 +361,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cedar Boys' Primary School](/school-histories/cedar-boys-pri/) | [Cedar Girls' Primary School](/school-histories/cedar-girls-pri/) | [Cedar Girls' Secondary School](/school-histories/cedar-girls-sec/) |
+| [Cedar Primary School](/school-histories/cedar-pri/) | [Chai Chee Secondary School](/school-histories/chai-chee-sec/) | [Changkat Changi Secondary School](/school-histories/changkat-changi-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestC14.png">
 <img align="left" style="width:18%;margin-left:145px;" src="/images/crestC15.png">
@@ -362,7 +371,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Cedar Primary School](/school-histories/cedar-pri/) | [Chai Chee Secondary School](/school-histories/chai-chee-sec/) | [Changkat Changi Secondary School](/school-histories/changkat-changi-sec/) |
+| [Changkat Primary School](/school-histories/changkat-pri/) | [Chao Yang School](/school-histories/chao-yang-sch/) | [Charlton School](/school-histories/charlton-sch/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestC17.png">
 <img align="left" style="width:15%;margin-left:155px;" src="/images/crestC18.png">
@@ -372,7 +381,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Changkat Primary School](/school-histories/changkat-pri/) | [Chao Yang School](/school-histories/chao-yang-sch/) | [Charlton School](/school-histories/charlton-sch/) |
+| [Chestnut Drive Secondary School](/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](/school-histories/chij-katong-pri/) | [Chij Katong Convent](/school-histories/chij-katong-convent/) |
 
 <img align="left" style="width:22%;margin-left:65px;" src="/images/crestC20.png">
 <img align="left" style="width:20%;margin-left:135px;" src="/images/crestC21.png">
@@ -382,7 +391,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chestnut Drive Secondary School](/school-histories/chestnut-drive-sec/) | [Chij (Katong) Primary](/school-histories/chij-katong-pri/) | [Chij Katong Convent](/school-histories/chij-katong-convent/) |
+| [Chij Kellock](/school-histories/chij-kellock/) | [Chij Opera Estate Primary School](/school-histories/chij-opera-estate-pri/) | [Chij Our Lady Of Good Counsel](/school-histories/chij-our-lady-of-good-counsel/) |
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestC23.jpg">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestC24.png">
@@ -392,7 +401,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Kellock](/school-histories/chij-kellock/) | [Chij Opera Estate Primary School](/school-histories/chij-opera-estate-pri/) | [Chij Our Lady Of Good Counsel](/school-histories/chij-our-lady-of-good-counsel/) |
+| [Chij Our Lady Of The Nativity](/school-histories/chij-our-lady-of-nativity/) | [Chij Our Lady Queen Of Peace](/school-histories/chij-our-lady-queen-of-peace/) | [Chij Primary (Toa Payoh)](/school-histories/chij-pri-tpy/) |
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestC26.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestC27.jpg">
@@ -402,7 +411,8 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Our Lady Of The Nativity](/school-histories/chij-our-lady-of-nativity/) | [Chij Our Lady Queen Of Peace](/school-histories/chij-our-lady-queen-of-peace/) | [Chij Primary (Toa Payoh)](/school-histories/chij-pri-tpy/) |
+| [Chij Secondary](/school-histories/chij-sec/) | [Chij St Nicholas Girls' School](/school-histories/chij-nicholas-girls-sch/) | [Chij St. Joseph's Convent](/school-histories/chij-joseph/) |
+
 
 <img align="left" style="width:25%;margin-left:65px;" src="/images/crestC29.jpg">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestC30.jpg">
@@ -412,7 +422,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij Secondary](/school-histories/chij-sec/) | [Chij St Nicholas Girls' School](/school-histories/chij-nicholas-girls-sch/) | [Chij St. Joseph's Convent](/school-histories/chij-joseph/) |
+| [Chij St. Theresa's Convent](/school-histories/chij-st-theresa-convent/) | [Chong Boon Secondary School](/school-histories/chong-boon-sec/) | [Chong De Primary School](/school-histories/chong-de-pri/) |
 
 <img align="left" style="width:23%;margin-left:65px;" src="/images/crestC32.jpg">
 <img align="left" style="width:20%;margin-left:95px;" src="/images/crestC33.png">
@@ -422,7 +432,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chij St. Theresa's Convent](/school-histories/chij-st-theresa-convent/) | [Chong Boon Secondary School](/school-histories/chong-boon-sec/) | [Chong De Primary School](/school-histories/chong-de-pri/) |
+| [Chong Li Primary School](/school-histories/chong-li-pri/) | [Chong Shan Primary School](/school-histories/chong-shan-pri/) | [Chongfu School](/school-histories/chongfu-sch/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC35.png">
 <img align="left" style="width:23%;margin-left:115px;" src="/images/crestC36.png">
@@ -432,7 +442,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chong Li Primary School](/school-histories/chong-li-pri/) | [Chong Shan Primary School](/school-histories/chong-shan-pri/) | [Chongfu School](/school-histories/chongfu-sch/) |
+| [Chongzheng Primary School](/school-histories/chongzheng-pri/) | [Christ Church Secondary School](/school-histories/christ-church-sec/) | [Chua Chu Kang<br> Government Chinese<br> Primary School](/school-histories/cck-government-chi-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC38.jpg">
 <img align="left" style="width:18%;margin-left:145px;" src="/images/crestC39.jpg">
@@ -442,7 +452,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chongzheng Primary School](/school-histories/chongzheng-pri/) | [Christ Church Secondary School](/school-histories/christ-church-sec/) | [Chua Chu Kang<br> Government Chinese<br> Primary School](/school-histories/cck-government-chi-pri/) |
+| [Chua Chu Kang<br> Malay School](/school-histories/cck-malay-sch/) | [Chua Chu Kang<br> Primary School](/school-histories/cck-pri/) | [Chua Chu Kang<br> Secondary School](/school-histories/cck-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC41.png">
 <img align="left" style="width:18%;margin-left:145px;" src="/images/crestC42.png">
@@ -452,7 +462,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chua Chu Kang<br> Malay School](/school-histories/cck-malay-sch/) | [Chua Chu Kang<br> Primary School](/school-histories/cck-pri/) | [Chua Chu Kang<br> Secondary School](/school-histories/cck-sec/) |
+| [Chung Cheng High School (Main)](/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](/school-histories/clementi-north-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC44.jpg">
 <img align="left" style="width:20%;margin-left:145px;" src="/images/crestC45.jpg">
@@ -462,7 +472,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chung Cheng High School (Main)](/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](/school-histories/clementi-north-pri/) |
+| [Clementi Primary School](/school-histories/clementi-pri/) | [Clementi Town Primary School](/school-histories/clementi-town-pri/) | [Clementi Town Secondary School](/school-histories/clementi-town-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC47.png">
 <img align="left" style="width:21%;margin-left:145px;" src="/images/crestC48.png">
@@ -472,7 +482,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Clementi Primary School](/school-histories/clementi-pri/) | [Clementi Town Primary School](/school-histories/clementi-town-pri/) | [Clementi Town Secondary School](/school-histories/clementi-town-sec/) |
+| [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/) | [Commonwealth Secondary School](/school-histories/commonwealth-sec/) | [Compassvale Primary School](/school-histories/compassvale-pri/) |
 
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crestC50.png">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestC51.jpg">
@@ -482,7 +492,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Clementi Woods Secondary School](/school-histories/clementi-woods-sec/) | [Commonwealth Secondary School](/school-histories/commonwealth-sec/) | [Compassvale Primary School](/school-histories/compassvale-pri/) |
+| [Compassvale Secondary School](/school-histories/compassvale-sec/) | [Concord Primary School](/school-histories/concord-pri/) | [Coral Primary School](/school-histories/coral-pri/) |
 
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crestC53.jpg">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestC54.png">
@@ -492,7 +502,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Compassvale Secondary School](/school-histories/compassvale-sec/) | [Concord Primary School](/school-histories/concord-pri/) | [Coral Primary School](/school-histories/coral-pri/) |
+| [Coral Secondary School](/school-histories/coral-sec/) | [Corporation Primary School](/school-histories/corporation-pri/) | [Crescent Girls' School](/school-histories/crescent-girls-sch/) |
 
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crestC56.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestC57.png">
@@ -502,7 +512,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Coral Secondary School](/school-histories/coral-sec/) | [Corporation Primary School](/school-histories/corporation-pri/) | [Crescent Girls' School](/school-histories/crescent-girls-sch/) |
+| [Crest Secondary School](/school-histories/crest-sec/) | [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) |
 
 <img align="left" style="width:17%;margin-left:75px;" src="/images/crestC59.png">
 <img align="left" style="width:27%;margin-left:105px;" src="/images/crestD1.jpg">
@@ -512,7 +522,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Crest Secondary School](/school-histories/crest-sec/) | [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) |
+| [Damai Secondary School](/school-histories/damai-sec/) | [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) |
 
 <img align="left" style="width:13%;margin-left:75px;" src="/images/crestD3.jpg">
 <img align="left" style="width:22%;margin-left:165px;" src="/images/crestD4.png">
@@ -522,7 +532,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Damai Secondary School](/school-histories/damai-sec/) | [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) |
+| [Delta Circus Primary School](/school-histories/delta-circus-pri/) | [Delta East Primary School](/school-histories/delta-east-pri/) | [Delta Primary School](/school-histories/delta-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestD6.png">
 <img align="left" style="width:18%;margin-left:145px;" src="/images/crestD7.png">
@@ -532,7 +542,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Circus Primary School](/school-histories/delta-circus-pri/) | [Delta East Primary School](/school-histories/delta-east-pri/) | [Delta Primary School](/school-histories/delta-pri/) |
+| [Delta Secondary School](/school-histories/delta-sec/) | [Delta West Primary School](/school-histories/delta-west-pri/) | [Deyi Secondary School](/school-histories/deyi-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestD9.png">
 <img align="left" style="width:20%;margin-left:145px;" src="/images/crestD10.png">
@@ -542,7 +552,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Secondary School](/school-histories/delta-sec/) | [Delta West Primary School](/school-histories/delta-west-pri/) | [Deyi Secondary School](/school-histories/deyi-sec/) |
+| [Dorset Primary School](/school-histories/dorset-pri/) | [Duchess School](/school-histories/duchess-sch/) | [Dunearn Secondary School](/school-histories/dunearn-sec/) |
 
 <img align="left" style="width:23%;margin-left:45px;" src="/images/crestD12.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestD13.png">
@@ -552,7 +562,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dorset Primary School](/school-histories/dorset-pri/) | [Duchess School](/school-histories/duchess-sch/) | [Dunearn Secondary School](/school-histories/dunearn-sec/) |
+| [Dunman High School](/school-histories/dunman-high/) | [Dunman Secondary School](/school-histories/dunman-sec/) | [East Coast Primary School](/school-histories/east-coast-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestD15.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestD16.jpg">
@@ -562,7 +572,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dunman High School](/school-histories/dunman-high/) | [Dunman Secondary School](/school-histories/dunman-sec/) | [East Coast Primary School](/school-histories/east-coast-pri/) |
+| [East Payoh Secondary School](/school-histories/east-payoh-sec/) | [East Spring Primary School](/school-histories/east-spring-pri/) | [East Spring Secondary School](/school-histories/east-spring-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestE2.png">
 <img align="left" style="width:22%;margin-left:115px;" src="/images/crestE3.jpg">
@@ -572,7 +582,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East Payoh Secondary School](/school-histories/east-payoh-sec/) | [East Spring Primary School](/school-histories/east-spring-pri/) | [East Spring Secondary School](/school-histories/east-spring-sec/) |
+| [East View Primary School](/school-histories/east-view-pri/) | [East View Secondary School](/school-histories/east-view-sec/) | [Edgefield Primary School](/school-histories/edgefield-pri/) |
 
 <img align="left" style="width:17%;margin-left:85px;" src="/images/crestE5a.jpg">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestE5.jpg">
@@ -582,7 +592,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [East View Primary School](/school-histories/east-view-pri/) | [East View Secondary School](/school-histories/east-view-sec/) | [Edgefield Primary School](/school-histories/edgefield-pri/) |
+| [Edgefield Secondary School](/school-histories/edgefield-sec/) | [Elias Park Primary School](/school-histories/elias-park-pri/) | [Elling North School](/school-histories/elling-north-sch/) |
 
 <img align="left" style="width:23%;margin-left:55px;" src="/images/crestE7.png">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestE8.jpg">
@@ -592,7 +602,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Edgefield Secondary School](/school-histories/edgefield-sec/) | [Elias Park Primary School](/school-histories/elias-park-pri/) | [Elling North School](/school-histories/elling-north-sch/) |
+| [Elling Primary School](/school-histories/elling-pri/) | [Elling South School](/school-histories/elling-south-sch/) | [Endeavour Primary School](/school-histories/endeavour-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestE10.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestE11.png">
@@ -602,7 +612,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Elling Primary School](/school-histories/elling-pri/) | [Elling South School](/school-histories/elling-south-sch/) | [Endeavour Primary School](/school-histories/endeavour-pri/) |
+| [Eunoia Junior College](/school-histories/eunoia-jc/) | [Eunos Primary School](/school-histories/eunos-pri/) | [Evergreen Primary School](/school-histories/evergreen-pri/) |
 
 <img align="left" style="width:22%;margin-left:65px;" src="/images/crestE13.jpg">
 <img align="left" style="width:25%;margin-left:95px;" src="/images/crestE14.png">
@@ -612,7 +622,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Eunoia Junior College](/school-histories/eunoia-jc/) | [Eunos Primary School](/school-histories/eunos-pri/) | [Evergreen Primary School](/school-histories/evergreen-pri/) |
+| [Evergreen Secondary School](/school-histories/evergren-sec/) | [Fairfield Methodist School (Primary)](/school-histories/fairfield-methodist-pri/) | [Fairfield Methodist School (Secondary)](/school-histories/fairfield-methodist-sec/) |
 
 <img align="left" style="width:25%;margin-left:35px;" src="/images/crestE16.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestF1.png">
@@ -622,7 +632,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Evergreen Secondary School](/school-histories/evergren-sec/) | [Fairfield Methodist School (Primary)](/school-histories/fairfield-methodist-pri/) | [Fairfield Methodist School (Secondary)](/school-histories/fairfield-methodist-sec/) |
+| [Fajar Secondary School](/school-histories/fajar-sec/) | [Farrer Park Primary School](/school-histories/farrer-park-pri/) | [Farrer Primary School](/school-histories/farrer-pri/) |
 
 <img align="left" style="width:24%;margin-left:55px;" src="/images/crestF3.jpg">
 <img align="left" style="width:18%;margin-left:115px;" src="/images/crestF4.png">
@@ -632,7 +642,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fajar Secondary School](/school-histories/fajar-sec/) | [Farrer Park Primary School](/school-histories/farrer-park-pri/) | [Farrer Primary School](/school-histories/farrer-pri/) |
+| [Fengshan Primary School](/school-histories/fengshan-pri/) | [Fern Green Primary School](/school-histories/fern-green-pri/) | [Fernvale Primary School](/school-histories/fernvale-pri/) |
 
 <img align="left" style="width:12%;margin-left:95px;" src="/images/crestF6.png">
 <img align="left" style="width:25%;margin-left:125px;" src="/images/crestF7.png">
@@ -642,7 +652,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fengshan Primary School](/school-histories/fengshan-pri/) | [Fern Green Primary School](/school-histories/fern-green-pri/) | [Fernvale Primary School](/school-histories/fernvale-pri/) |
+| [First Toa Payoh Primary School](/school-histories/first-tpy-pri/) | [First Toa Payoh Secondary School](/school-histories/first-tpy-sec/) | [Fowlie Primary School](/school-histories/fowlie-pri/) |
 
 <img align="left" style="width:23%;margin-left:75px;" src="/images/crestF9.png">
 <img align="left" style="width:22%;margin-left:75px;" src="/images/crestF10.png">
@@ -652,7 +662,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [First Toa Payoh Primary School](/school-histories/first-tpy-pri/) | [First Toa Payoh Secondary School](/school-histories/first-tpy-sec/) | [Fowlie Primary School](/school-histories/fowlie-pri/) |
+| [Frontier Primary School](/school-histories/frontier-pri/) | [Fuchun Primary School](/school-histories/fuchun-pri/) | [Fuchun Secondary School](/school-histories/fuchun-sec/) |
 
 <img align="left" style="width:25%;margin-left:65px;" src="/images/crestF12.png">
 <img align="left" style="width:18%;margin-left:85px;" src="/images/crestF13.png">
@@ -662,7 +672,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Frontier Primary School](/school-histories/frontier-pri/) | [Fuchun Primary School](/school-histories/fuchun-pri/) | [Fuchun Secondary School](/school-histories/fuchun-sec/) |
+| [Fuhua Primary School](/school-histories/fuhua-pri/) | [Fuhua Secondary School](/school-histories/fuhua-sec/) | [Gan Eng Seng Primary School](/school-histories/gan-eng-seng-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestF15.jpg">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestF16.png">
@@ -672,7 +682,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Fuhua Primary School](/school-histories/fuhua-pri/) | [Fuhua Secondary School](/school-histories/fuhua-sec/) | [Gan Eng Seng Primary School](/school-histories/gan-eng-seng-pri/) |
+| [Gan Eng Seng School](/school-histories/gan-eng-seng-sch/) | [Geylang Methodist School (Primary)](/school-histories/geylang-methodist-pri/) | [Geylang Methodist School (Secondary)](/school-histories/geylang-methodist-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestG2.jpg">
 <img align="left" style="width:22%;margin-left:125px;" src="/images/crestG3.png">
@@ -682,7 +692,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Gan Eng Seng School](/school-histories/gan-eng-seng-sch/) | [Geylang Methodist School (Primary)](/school-histories/geylang-methodist-pri/) | [Geylang Methodist School (Secondary)](/school-histories/geylang-methodist-sec/) |
+| [Geylang Primary School](/school-histories/geylang-pri/) | [Ghim Moh Primary School](/school-histories/ghim-moh-pri/) | [Ghim Moh Secondary School](/school-histories/ghim-moh-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestG5.png">
 <img align="left" style="width:17%;margin-left:135px;" src="/images/crestG6.png">
@@ -692,7 +702,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Geylang Primary School](/school-histories/geylang-pri/) | [Ghim Moh Primary School](/school-histories/ghim-moh-pri/) | [Ghim Moh Secondary School](/school-histories/ghim-moh-sec/) |
+| [Gongshang Primary School](/school-histories/gongshang-pri/) | [Greendale Primary School](/school-histories/greendale-pri/) | [Greendale Secondary School](/school-histories/greendale-sec/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestG8.png">
 <img align="left" style="width:25%;margin-left:95px;" src="/images/crestG9.png">
@@ -702,7 +712,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Gongshang Primary School](/school-histories/gongshang-pri/) | [Greendale Primary School](/school-histories/greendale-pri/) | [Greendale Secondary School](/school-histories/greendale-sec/) |
+| [Greenridge Primary School](/school-histories/greenridge-pri/) | [Greenridge Secondary School](/school-histories/greenridge-sec/) | [Greenwood Primary School](/school-histories/greenwood-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestG11.jpg">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestG12.jpg">
@@ -712,7 +722,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Greenridge Primary School](/school-histories/greenridge-pri/) | [Greenridge Secondary School](/school-histories/greenridge-sec/) | [Greenwood Primary School](/school-histories/greenwood-pri/) |
+| [Griffiths Primary School](/school-histories/griffiths-pri/) | [Guangyang Primary School](/school-histories/guangyang-pri/) | [Guangyang Secondary School](/school-histories/guangyang-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestG14.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestG15.png">
@@ -722,7 +732,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Griffiths Primary School](/school-histories/griffiths-pri/) | [Guangyang Primary School](/school-histories/guangyang-pri/) | [Guangyang Secondary School](/school-histories/guangyang-sec/) |
+| [Guillemard Primary School](/school-histories/guillemard-pri/) | [Hai Sing Catholic School](/school-histories/hai-sing-catholic-sch/) | [Haig Boys' School](/school-histories/haig-boys-sch/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestG17.png">
 <img align="left" style="width:22%;margin-left:125px;" src="/images/crestH1.jpg">
@@ -732,7 +742,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Guillemard Primary School](/school-histories/guillemard-pri/) | [Hai Sing Catholic School](/school-histories/hai-sing-catholic-sch/) | [Haig Boys' School](/school-histories/haig-boys-sch/) |
+| [Haig Girls' School](/school-histories/haig-girls-sch/) | [Havelock Primary School](/school-histories/havelock-pri/) | [Havelock School](/school-histories/havelock-sch/) |
 
 <img align="left" style="width:22%;margin-left:65px;" src="/images/crestH3.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestH4.jpg">
@@ -742,7 +752,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Haig Girls' School](/school-histories/haig-girls-sch/) | [Havelock Primary School](/school-histories/havelock-pri/) | [Havelock School](/school-histories/havelock-sch/) |
+| [Henderson Primary School](/school-histories/henderson-pri/) | [Henderson Secondary School](/school-histories/henderson-sec/) | [Heng A Khe Bong School](/school-histories/heng-a-khe-bong-sch/) |
 
 <img align="left" style="width:23%;margin-left:65px;" src="/images/crestH6.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestH7.png">
@@ -752,7 +762,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Henderson Primary School](/school-histories/henderson-pri/) | [Henderson Secondary School](/school-histories/henderson-sec/) | [Heng A Khe Bong School](/school-histories/heng-a-khe-bong-sch/) |
+| [Henry Park Primary School](/school-histories/henry-park-pri/) | [Hillgrove Secondary School](/school-histories/hillgrove-sec/) | [Holy Innocents' High School](/school-histories/holy-innocent-high-sch/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestH9.jpg">
 <img align="left" style="width:30%;margin-left:65px;" src="/images/crestH10.jpg">
@@ -762,7 +772,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Henry Park Primary School](/school-histories/henry-park-pri/) | [Hillgrove Secondary School](/school-histories/hillgrove-sec/) | [Holy Innocents' High School](/school-histories/holy-innocent-high-sch/) |
+| [Holy Innocents' Primary School](/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](/school-histories/hong-kah-pri/) | [Hong Kah Secondary School](/school-histories/hong-kah-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestH12.jpg">
 <img align="left" style="width:30%;margin-left:65px;" src="/images/crestH13.png">
@@ -772,7 +782,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Holy Innocents' Primary School](/school-histories/holy-innocent-pri/) | [Hong Kah Primary School](/school-histories/hong-kah-pri/) | [Hong Kah Secondary School](/school-histories/hong-kah-sec/) |
+| [Hong Wen School](/school-histories/hong-wen-sch/) | [Horizon Primary School](/school-histories/horizon-pri/) | [Hougang Primary School](/school-histories/hougang-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestH15.png">
 <img align="left" style="width:30%;margin-left:65px;" src="/images/crestH16.png">
@@ -782,7 +792,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hong Wen School](/school-histories/hong-wen-sch/) | [Horizon Primary School](/school-histories/horizon-pri/) | [Hougang Primary School](/school-histories/hougang-pri/) |
+| [Hougang Secondary School](/school-histories/hougang-sec/) | [Hua Kiau School](/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](/school-histories/hua-yi-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestH18.jpg">
 <img align="left" style="width:20%;margin-left:145px;" src="/images/crestH19.png">
@@ -792,7 +802,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hougang Secondary School](/school-histories/hougang-sec/) | [Hua Kiau School](/school-histories/hua-kiau-sch/) | [Hua Yi Primary School](/school-histories/hua-yi-pri/) |
+| [Hua Yi Secondary School](/school-histories/hua-yi-sec/) | [Huamin Primary School](/school-histories/huamin-pri/) | [Hwa Chong Institution](/school-histories/hwa-chong-institution/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestH21.jpg">
 <img align="left" style="width:17%;margin-left:125px;" src="/images/crestH22.jpg">
@@ -802,7 +812,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hua Yi Secondary School](/school-histories/hua-yi-sec/) | [Huamin Primary School](/school-histories/huamin-pri/) | [Hwa Chong Institution](/school-histories/hwa-chong-institution/) |
+| [Hwa Chong Junior College](/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](/school-histories/hwi-yoh-sec/) | [Innova Junior College](/school-histories/innova-jc/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestH24.png">
 <img align="left" style="width:15%;margin-left:125px;" src="/images/crestH25.png">
@@ -812,7 +822,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Hwa Chong Junior College](/school-histories/hwa-chong-jc/) | [Hwi Yoh Secondary School](/school-histories/hwi-yoh-sec/) | [Innova Junior College](/school-histories/innova-jc/) |
+| [Innova Primary School](/school-histories/innova-pri/) | [Jagoh Primary School](/school-histories/jagoh-pri/) | [Jalan Daud School](/school-histories/jalan-daud-sch/) |
 
 <img align="left" style="width:22%;margin-left:65px;" src="/images/crestI2.png">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestJ1.jpg">
@@ -822,7 +832,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Innova Primary School](/school-histories/innova-pri/) | [Jagoh Primary School](/school-histories/jagoh-pri/) | [Jalan Daud School](/school-histories/jalan-daud-sch/) |
+| [Jalan Kayu Primary School](/school-histories/jalan-kayu-pri/) | [Jaya Primary School](/school-histories/jaya-pri/) | [Jervois East Primary School](/school-histories/jervois-east-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestJ3.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestJ4.jpg">
@@ -832,7 +842,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jalan Kayu Primary School](/school-histories/jalan-kayu-pri/) | [Jaya Primary School](/school-histories/jaya-pri/) | [Jervois East Primary School](/school-histories/jervois-east-pri/) |
+| [Jervois Primary School](/school-histories/jervois-pri/) | [Jervois West Primary School](/school-histories/jervois-west-pri/) | [Jiemin Primary School](/school-histories/jiemin-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestJ6.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestJ7.png">
@@ -842,7 +852,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jervois Primary School](/school-histories/jervois-pri/) | [Jervois West Primary School](/school-histories/jervois-west-pri/) | [Jiemin Primary School](/school-histories/jiemin-pri/) |
+| [Jin Shan Primary School](/school-histories/jin-shan-pri/) | [Jin Tai Primary School](/school-histories/jin-tai-pri/) | [Jin Tai Secondary School](/school-histories/jin-tai-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestJ9.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestJ10.png">
@@ -852,7 +862,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jin Shan Primary School](/school-histories/jin-shan-pri/) | [Jin Tai Primary School](/school-histories/jin-tai-pri/) | [Jin Tai Secondary School](/school-histories/jin-tai-sec/) |
+| [Jing Shan Primary School](/school-histories/jing-shan-pri/) | [Joo Avenue School](/school-histories/joo-avenue-sch/) | [Jubilee Primary School](/school-histories/jubilee-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestJ12.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestJ13.png">
@@ -862,7 +872,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jing Shan Primary School](/school-histories/jing-shan-pri/) | [Joo Avenue School](/school-histories/joo-avenue-sch/) | [Jubilee Primary School](/school-histories/jubilee-pri/) |
+| [Junyuan Primary School](/school-histories/junyuan-pri/) | [Junyuan Secondary School](/school-histories/junyuan-sec/) | [Jurong Institute](/school-histories/jurong-intitute/) |
 
 <img align="left" style="width:22%;margin-left:65px;" src="/images/crestJ15.png">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestJ16.jpg">
@@ -872,7 +882,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Junyuan Primary School](/school-histories/junyuan-pri/) | [Junyuan Secondary School](/school-histories/junyuan-sec/) | [Jurong Institute](/school-histories/jurong-intitute/) |
+| [Jurong Junior College](/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](/school-histories/jpjc/) | [Jurong Primary School](/school-histories/jurong-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestJ18.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestJ19.png">
@@ -882,7 +892,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong Junior College](/school-histories/jurong-jc/) | [Jurong Pioneer Junior College](/school-histories/jpjc/) | [Jurong Primary School](/school-histories/jurong-pri/) |
+| [Jurong Secondary School](/school-histories/jurong-sec/) | [Jurong Special Secondary School](/school-histories/jurong-special-sec/) | [Jurong Town Primary School](/school-histories/jurong-town-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestJ21.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestJ22.png">
@@ -892,7 +902,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong Secondary School](/school-histories/jurong-sec/) | [Jurong Special Secondary School](/school-histories/jurong-special-sec/) | [Jurong Town Primary School](/school-histories/jurong-town-pri/) |
+| [Jurong West Primary School](/school-histories/jurong-west-pri/) | [Jurong West Secondary School](/school-histories/jurong-west-sec/) | [Jurongville Secondary School](/school-histories/jurongville-sec/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestJ24.png">
 <img align="left" style="width:15%;margin-left:105px;" src="/images/crestJ25.png">
@@ -902,7 +912,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Jurong West Primary School](/school-histories/jurong-west-pri/) | [Jurong West Secondary School](/school-histories/jurong-west-sec/) | [Jurongville Secondary School](/school-histories/jurongville-sec/) |
+| [Juying Primary School](/school-histories/juying-pri/) | [Juying Secondary School](/school-histories/juying-sec/) | [Kallang Primary School](/school-histories/kallang-pri/) |
 
 <img align="left" style="width:25%;margin-left:55px;" src="/images/crestJ27.png">
 <img align="left" style="width:24%;margin-left:65px;" src="/images/crestJ28.png">
@@ -912,7 +922,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Juying Primary School](/school-histories/juying-pri/) | [Juying Secondary School](/school-histories/juying-sec/) | [Kallang Primary School](/school-histories/kallang-pri/) |
+| [Kay Siang Primary School](/school-histories/kay-siang-pri/) | [Kebun Baru Primary School](/school-histories/kebun-baru-pri/) | [Kembangan Primary School](/school-histories/kembangan-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestK2.png">
 <img align="left" style="width:22%;margin-left:95px;" src="/images/crestK3.png">
@@ -922,7 +932,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kay Siang Primary School](/school-histories/kay-siang-pri/) | [Kebun Baru Primary School](/school-histories/kebun-baru-pri/) | [Kembangan Primary School](/school-histories/kembangan-pri/) |
+| [Keming Primary School](/school-histories/keming-pri/) | [Keng Seng Primary School](/school-histories/keng-seng-pri/) | [Kent Ridge Secondary School](/school-histories/kent-ridge-sec/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestK5.png">
 <img align="left" style="width:22%;margin-left:85px;" src="/images/crestK6.png">
@@ -932,7 +942,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Keming Primary School](/school-histories/keming-pri/) | [Keng Seng Primary School](/school-histories/keng-seng-pri/) | [Kent Ridge Secondary School](/school-histories/kent-ridge-sec/) |
+| [Keppel Primary School](/school-histories/keppel-pri/) | [Keppel School](/school-histories/keppel-sch/) | [Kheng Cheng School](/school-histories/kheng-cheng-sch/) |
 
 <img align="left" style="width:19%;margin-left:55px;" src="/images/crestK8.png">
 <img align="left" style="width:19%;margin-left:105px;" src="/images/crestK9.png">
@@ -942,7 +952,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Keppel Primary School](/school-histories/keppel-pri/) | [Keppel School](/school-histories/keppel-sch/) | [Kheng Cheng School](/school-histories/kheng-cheng-sch/) |
+| [Kim Keat Primary School](/school-histories/kim-keat-pri/) | [Kim Seng East School](/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](/school-histories/kim-seng-pri/) |
 
 <img align="left" style="width:19%;margin-left:55px;" src="/images/crestK11.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestK12.png">
@@ -952,7 +962,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Keat Primary School](/school-histories/kim-keat-pri/) | [Kim Seng East School](/school-histories/kim-seng-east-sch/) | [Kim Seng Primary School](/school-histories/kim-seng-pri/) |
+| [Kim Seng Technical School](/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](/school-histories/kim-seng-west-sch/) | [Kong Chow School](/school-histories/kong-chow-sch/) |
 
 <img align="left" style="width:19%;margin-left:55px;" src="/images/crestK14.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestK15.png">
@@ -962,7 +972,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kim Seng Technical School](/school-histories/kim-seng-technical-sch/) | [Kim Seng West School](/school-histories/kim-seng-west-sch/) | [Kong Chow School](/school-histories/kong-chow-sch/) |
+| [Kong Hwa School](/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](/school-histories/kranji-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestK17.png">
 <img align="left" style="width:20%;margin-left:95px;" src="/images/crestK18.png">
@@ -972,7 +982,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kong Hwa School](/school-histories/kong-hwa-sch/) | [Kota Raja Malay School](/school-histories/kota-raja-malay-sch/) | [Kranji Primary School](/school-histories/kranji-pri/) |
+| [Kranji Secondary School](/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](/school-histories/kuo-chuan-presbyterian-sec/) |
 
 <img align="left" style="width:25%;margin-left:55px;" src="/images/crestK20.png">
 <img align="left" style="width:23%;margin-left:75px;" src="/images/crestK21.png">
@@ -982,7 +992,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kranji Secondary School](/school-histories/kranji-sec/) | [Kuo Chuan Presbyterian Primary School](/school-histories/kuo-chuan-presbyterian-pri/) | [Kuo Chuan Presbyterian Secondary School](/school-histories/kuo-chuan-presbyterian-sec/) |
+| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](/school-histories/labrador-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestK23.png">
 <img align="left" style="width:25%;margin-left:95px;" src="/images/crestL1.png">
@@ -992,7 +1002,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Kwong Wai Shiu Peck Shan Ting School](/school-histories/kwong-wai-shiu-peck-shan-ting-sch/) | [Labrador Primary School](/school-histories/labrador-pri/) | [Lakeside Primary School](/school-histories/lakeside-pri/) |
+| [Lee Kuo Chuan Primary School](/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](/school-histories/lianhua-pri/) | [Loyang Primary School](/school-histories/loyang-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestL3.png">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestL4.png">
@@ -1002,7 +1012,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Lee Kuo Chuan Primary School](/school-histories/lee-kuo-chuan-pri/) | [Lianhua Primary School](/school-histories/lianhua-pri/) | [Loyang Primary School](/school-histories/loyang-pri/) |
+| [Loyang View Secondary School](/school-histories/loyang-view-sec/) | [Macpherson Primary School](/school-histories/macpherson-pri/) | [Macpherson Secondary School](/school-histories/macpherson-sec/) |
 
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crestL6.jpg">
 <img align="left" style="width:23%;margin-left:65px;" src="/images/crestM1.png">
@@ -1012,7 +1022,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Loyang View Secondary School](/school-histories/loyang-view-sec/) | [Macpherson Primary School](/school-histories/macpherson-pri/) | [Macpherson Secondary School](/school-histories/macpherson-sec/) |
+| [MacRitchie Primary School](/school-histories/macritchie-pri/) | [Maha Bodhi School](/school-histories/maha-bodhi-sch/) | [Maju Secondary School](/school-histories/maju-sec/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestM3.png">
 <img align="left" style="width:23%;margin-left:85px;" src="/images/crestM4.png">
@@ -1022,7 +1032,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [MacRitchie Primary School](/school-histories/macritchie-pri/) | [Maha Bodhi School](/school-histories/maha-bodhi-sch/) | [Maju Secondary School](/school-histories/maju-sec/) |
+| [Manjusri Secondary School](/school-histories/manjusri-sec/) | [Margaret Drive Primary School](/school-histories/margaret-drive-pri/) | [Maris Stella High School](/school-histories/maris-stella-high-sch/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestM6.png">
 <img align="left" style="width:18%;margin-left:85px;" src="/images/crestM7.jpg">
@@ -1032,7 +1042,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Manjusri Secondary School](/school-histories/manjusri-sec/) | [Margaret Drive Primary School](/school-histories/margaret-drive-pri/) | [Maris Stella High School](/school-histories/maris-stella-high-sch/) |
+| [Marsiling Primary School](/school-histories/marsiling-pri/) | [Marsiling Secondary School](/school-histories/marsiling-sec/) | [Marymount Convent School](/school-histories/marymount-convent/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestM9.jpg">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestM10.jpg">
@@ -1042,7 +1052,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Marsiling Primary School](/school-histories/marsiling-pri/) | [Marsiling Secondary School](/school-histories/marsiling-sec/) | [Marymount Convent School](/school-histories/marymount-convent/) |
+| [Mattar East School](/school-histories/mattar-east-sch/) | [Mattar Primary School](/school-histories/mattar-pri/) | [May Primary School](/school-histories/may-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestM12.png">
 <img align="left" style="width:20%;margin-left:95px;" src="/images/crestM13.png">
@@ -1052,7 +1062,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mattar East School](/school-histories/mattar-east-sch/) | [Mattar Primary School](/school-histories/mattar-pri/) | [May Primary School](/school-histories/may-pri/) |
+| [Mayflower Primary School](/school-histories/mayflower-pri/) | [Mayflower Secondary School](/school-histories/mayflower-sec/) | [Mee Toh School](/school-histories/mee-toh-sch/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestM15.jpg">
 <img align="left" style="width:22%;margin-left:85px;" src="/images/crestM16.png">
@@ -1062,7 +1072,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mayflower Primary School](/school-histories/mayflower-pri/) | [Mayflower Secondary School](/school-histories/mayflower-sec/) | [Mee Toh School](/school-histories/mee-toh-sch/) |
+| [Mei Chin Primary School](/school-histories/mei-chin-pri/) | [Mei Chin Secondary School](/school-histories/mei-chin-sec/) | [Membina Primary School](/school-histories/membina-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestM18.png">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestM19.png">
@@ -1072,7 +1082,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Mei Chin Primary School](/school-histories/mei-chin-pri/) | [Mei Chin Secondary School](/school-histories/mei-chin-sec/) | [Membina Primary School](/school-histories/membina-pri/) |
+| [Meng Teck School](/school-histories/meng-teck-sch/) | [Meridian Junior College](/school-histories/meridian-jc/) | [Meridian Primary School](/school-histories/meridian-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestM21.png">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestM22.png">
@@ -1082,7 +1092,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Meng Teck School](/school-histories/meng-teck-sch/) | [Meridian Junior College](/school-histories/meridian-jc/) | [Meridian Primary School](/school-histories/meridian-pri/) |
+| [Meridian Secondary School](/school-histories/meridian-sec/) | [Merlimau Primary School](/school-histories/merlimau-pri/) | [Methodist Girls' School](/school-histories/methodist-girls-sch/) |
 
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crestM24.jpg">
 <img align="left" style="width:15%;margin-left:85px;" src="/images/crestM25.png">
@@ -1092,7 +1102,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Meridian Secondary School](/school-histories/meridian-sec/) | [Merlimau Primary School](/school-histories/merlimau-pri/) | [Methodist Girls' School](/school-histories/methodist-girls-sch/) |
+| [Moulmein Primary School](/school-histories/moulmein-pri/) | [Mount Vernon Secondary School](/school-histories/mount-vernon-sec/) | [Mountbatten Primary School](/school-histories/mountbatten-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestM27.png">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestM28.png">
@@ -1102,7 +1112,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Moulmein Primary School](/school-histories/moulmein-pri/) | [Mount Vernon Secondary School](/school-histories/mount-vernon-sec/) | [Mountbatten Primary School](/school-histories/mountbatten-pri/) |
+| [Nam San School](/school-histories/nam-san-sch/) | [Nan Chiau High School](/school-histories/nan-chiau-high-sch/) | [Nan Chiau Primary School](/school-histories/nan-chiau-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN1.png">
 <img align="left" style="width:16%;margin-left:105px;" src="/images/crestN2.png">
@@ -1112,7 +1122,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nam San School](/school-histories/nam-san-sch/) | [Nan Chiau High School](/school-histories/nan-chiau-high-sch/) | [Nan Chiau Primary School](/school-histories/nan-chiau-pri/) |
+| [Nan Chiow Public School](/school-histories/nan-chiow-public-sch/) | [Nan Hua High School](/school-histories/nan-hua-high-sch/) | [Nan Hua Primary School](/school-histories/nan-hua-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN4.png">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestN5.jpg">
@@ -1122,7 +1132,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nan Chiow Public School](/school-histories/nan-chiow-public-sch/) | [Nan Hua High School](/school-histories/nan-hua-high-sch/) | [Nan Hua Primary School](/school-histories/nan-hua-pri/) |
+| [Nanyang Girls' High School](/school-histories/nanyang-girls-high-sch/) | [Nanyang Junior College](/school-histories/nanyang-jc/) | [Nanyang Primary School](/school-histories/nanyang-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN7.png">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestN8.jpg">
@@ -1132,7 +1142,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nanyang Girls' High School](/school-histories/nanyang-girls-high-sch/) | [Nanyang Junior College](/school-histories/nanyang-jc/) | [Nanyang Primary School](/school-histories/nanyang-pri/) |
+| [National Junior College](/school-histories/national-jc/) | [Naval Base Primary School](/school-histories/naval-base-pri/) | [Naval Base Secondary School](/school-histories/naval-base-sec/) |
 
 <img align="left" style="width:18%;margin-left:55px;" src="/images/crestN10.jpg">
 <img align="left" style="width:22%;margin-left:105px;" src="/images/crestN11.png">
@@ -1142,7 +1152,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [National Junior College](/school-histories/national-jc/) | [Naval Base Primary School](/school-histories/naval-base-pri/) | [Naval Base Secondary School](/school-histories/naval-base-sec/) |
+| [Nee Soon School](/school-histories/nee-soon-sch/) | [New Town Primary School](/school-histories/new-town-pri/) | [New Town Secondary School](/school-histories/new-town-sec/) |
 
 <img align="left" style="width:17%;margin-left:55px;" src="/images/crestN13.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestN14.png">
@@ -1152,7 +1162,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Nee Soon School](/school-histories/nee-soon-sch/) | [New Town Primary School](/school-histories/new-town-pri/) | [New Town Secondary School](/school-histories/new-town-sec/) |
+| [Ngee Ann Primary School](/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](/school-histories/ngee-ann-sec/) | [Norfolk Primary School](/school-histories/norfolk-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestN16.jpg">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestN17.jpg">
@@ -1162,7 +1172,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ngee Ann Primary School](/school-histories/ngee-ann-pri/) | [Ngee Ann Secondary School](/school-histories/ngee-ann-sec/) | [Norfolk Primary School](/school-histories/norfolk-pri/) |
+| [North Spring Primary School](/school-histories/north-spring-pri/) | [North View Primary School](/school-histories/north-view-pri/) | [North View Secondary School](/school-histories/north-view-sec/) |
 
 <img align="left" style="width:18%;margin-left:55px;" src="/images/crestN19.png">
 <img align="left" style="width:22%;margin-left:105px;" src="/images/crestN20.jpg">
@@ -1172,7 +1182,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [North Spring Primary School](/school-histories/north-spring-pri/) | [North View Primary School](/school-histories/north-view-pri/) | [North View Secondary School](/school-histories/north-view-sec/) |
+| [North Vista Primary School](/school-histories/north-vista-pri/) | [North Vista Secondary School](/school-histories/north-vista-sec/) | [Northbrooks Secondary School](/school-histories/northbrooks-sec/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN22.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestN23.png">
@@ -1182,7 +1192,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [North Vista Primary School](/school-histories/north-vista-pri/) | [North Vista Secondary School](/school-histories/north-vista-sec/) | [Northbrooks Secondary School](/school-histories/northbrooks-sec/) |
+| [Northland Primary School](/school-histories/northland-pri/) | [Northland Secondary School](/school-histories/northland-sec/) | [Northlight School](/school-histories/northlight-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN25.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestN26.jpg">
@@ -1192,7 +1202,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northland Primary School](/school-histories/northland-pri/) | [Northland Secondary School](/school-histories/northland-sec/) | [Northlight School](/school-histories/northlight-sch/) |
+| [Northoaks Primary School](/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](/school-histories/oasis-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestN28.png">
 <img align="left" style="width:25%;margin-left:105px;" src="/images/crestN29.jpg">
@@ -1202,7 +1212,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Northoaks Primary School](/school-histories/northoaks-pri/) | [Nus High School of Mathematics and Science](/school-histories/nus-high-sch-of-math-and-sci/) | [Oasis Primary School](/school-histories/oasis-pri/) |
+| [Opera Estate Boys' Primary School](/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](/school-histories/opera-estate-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestO2.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestO3.png">
@@ -1212,7 +1222,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Opera Estate Boys' Primary School](/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](/school-histories/opera-estate-pri/) |
+| [Orchid Park Secondary School](/school-histories/orchid-park-sec/) | [Outram Institute](/school-histories/outram-institute/) | [Outram Primary School](/school-histories/outram-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestO5.jpg">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestO6.png">
@@ -1222,7 +1232,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Orchid Park Secondary School](/school-histories/orchid-park-sec/) | [Outram Institute](/school-histories/outram-institute/) | [Outram Primary School](/school-histories/outram-pri/) |
+| [Outram Secondary School](/school-histories/outram-sec/) | [Owen School](/school-histories/owen-sch/) | [Palm View Primary School](/school-histories/palm-view-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestO8.jpg">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestO9.png">
@@ -1232,7 +1242,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Outram Secondary School](/school-histories/outram-sec/) | [Owen School](/school-histories/owen-sch/) | [Palm View Primary School](/school-histories/palm-view-pri/) |
+| [Pandan Primary School](/school-histories/pandan-pri/) | [Park Road School](/school-histories/park-road-sch/) | [Park View Primary School](/school-histories/park-view-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestP2.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestP3.png">
@@ -1242,7 +1252,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pandan Primary School](/school-histories/pandan-pri/) | [Park Road School](/school-histories/park-road-sch/) | [Park View Primary School](/school-histories/park-view-pri/) |
+| [Paya Lebar Methodist Girls'<br> School (Primary)](/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist<br> Girls' School (Secondary)](/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](/school-histories/paya-lebar-sch/) |
 
 <img align="left" style="width:25%;margin-left:35px;" src="/images/crestP5.png">
 <img align="left" style="width:20%;margin-left:95px;" src="/images/crestP6.jpg">
@@ -1252,7 +1262,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Paya Lebar Methodist Girls'<br> School (Primary)](/school-histories/paya-lebar-methodist-girls-sch-pri/) | [Paya Lebar Methodist<br> Girls' School (Secondary)](/school-histories/paya-lebar-methodist-girls-sch-sec/) | [Paya Lebar School](/school-histories/paya-lebar-sch/) |
+| [Pearl Bank School](/school-histories/pearl-bank-sch/) | [Pearl Park Primary School](/school-histories/pearl-park-pri-sch/) | [Pearl's Hill School](/school-histories/pearls-hill-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestP8.png">
 <img align="left" style="width:18%;margin-left:115px;" src="/images/crestP9.png">
@@ -1262,7 +1272,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pearl Bank School](/school-histories/pearl-bank-sch/) | [Pearl Park Primary School](/school-histories/pearl-park-pri-sch/) | [Pearl's Hill School](/school-histories/pearls-hill-sch/) |
+| [Peck Seah Primary School](/school-histories/peck-seah-pri/) | [Pei Chun Public School](/school-histories/pei-chun-public-sch/) | [Pei Hwa Presbyterian Primary School](/school-histories/pei-hwa-presbyterian-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestP11.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestP12.png">
@@ -1272,7 +1282,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peck Seah Primary School](/school-histories/peck-seah-pri/) | [Pei Chun Public School](/school-histories/pei-chun-public-sch/) | [Pei Hwa Presbyterian Primary School](/school-histories/pei-hwa-presbyterian-pri/) |
+| [Pei Hwa Secondary School](/school-histories/pei-hwa-sec/) | [Pei Tek Public School](/school-histories/pei-tek-public-sch/) | [Pei Tong Primary School](/school-histories/pei-tong-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestP14.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestP15.png">
@@ -1282,7 +1292,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pei Hwa Secondary School](/school-histories/pei-hwa-sec/) | [Pei Tek Public School](/school-histories/pei-tek-public-sch/) | [Pei Tong Primary School](/school-histories/pei-tong-pri/) |
+| [Peicai Secondary School](/school-histories/peicai-sec/) | [Peirce Secondary School](/school-histories/peirce-sec/) | [Peixin Primary School](/school-histories/peixin-pri/) |
 
 <img align="left" style="width:18%;margin-left:55px;" src="/images/crestP17.jpg">
 <img align="left" style="width:16%;margin-left:135px;" src="/images/crestP18.png">
@@ -1292,7 +1302,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peicai Secondary School](/school-histories/peicai-sec/) | [Peirce Secondary School](/school-histories/peirce-sec/) | [Peixin Primary School](/school-histories/peixin-pri/) |
+| [Peiying Primary School](/school-histories/peiying-pri/) | [Permaisura Primary School](/school-histories/permaisura-pri/) | [Ping Yi Primary School](/school-histories/ping-yi-pri/) |
 
 <img align="left" style="width:17%;margin-left:75px;" src="/images/crestP20.png">
 <img align="left" style="width:16%;margin-left:125px;" src="/images/crestP21.png">
@@ -1302,7 +1312,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Peiying Primary School](/school-histories/peiying-pri/) | [Permaisura Primary School](/school-histories/permaisura-pri/) | [Ping Yi Primary School](/school-histories/ping-yi-pri/) |
+| [Ping Yi Secondary School](/school-histories/pingyi-sec/) | [Pioneer Junior College](/school-histories/pioneer-jc/) | [Pioneer Primary School](/school-histories/pioneer-pri/) |
 
 <img align="left" style="width:15%;margin-left:85px;" src="/images/crestP23.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestP24.jpg">
@@ -1312,7 +1322,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Ping Yi Secondary School](/school-histories/pingyi-sec/) | [Pioneer Junior College](/school-histories/pioneer-jc/) | [Pioneer Primary School](/school-histories/pioneer-pri/) |
+| [Pioneer Secondary School](/school-histories/pioneer-sec/) | [Playfair School](/school-histories/playfair-sch/) | [Poi Ching School](/school-histories/poi-ching-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestP26.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestP27.png">
@@ -1322,7 +1332,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Pioneer Secondary School](/school-histories/pioneer-sec/) | [Playfair School](/school-histories/playfair-sch/) | [Poi Ching School](/school-histories/poi-ching-sch/) |
+| [Presbyterian High School](/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](/school-histories/pulau-tekong-pri/) |
 
 <img align="left" style="width:15%;margin-left:85px;" src="/images/crestP29.jpg">
 <img align="left" style="width:17%;margin-left:135px;" src="/images/crestP30.png">
@@ -1332,7 +1342,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Presbyterian High School](/school-histories/presbyterian-high-sch/) | [Princess Elizabeth Primary School](/school-histories/princess-elizabeth-pri/) | [Pulau Tekong Primary School](/school-histories/pulau-tekong-pri/) |
+| [Punggol Cove Primary School](/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](/school-histories/punggol-green-pri/) | [Punggol Primary School](/school-histories/punggol-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestP32.png">
 <img align="left" style="width:34%;margin-left:75px;" src="/images/crestP33.png">
@@ -1342,7 +1352,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Cove Primary School](/school-histories/punggol-cove-pri/) | [Punggol Green Primary School](/school-histories/punggol-green-pri/) | [Punggol Primary School](/school-histories/punggol-pri/) |
+| [Punggol Secondary School](/school-histories/punggol-sec/) | [Punggol View Primary School](/school-histories/punggol-view-pri/) | [Qiaonan Primary School](/school-histories/qiaonan-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestP35.png">
 <img align="left" style="width:22%;margin-left:105px;" src="/images/crestP36.jpg">
@@ -1352,7 +1362,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Punggol Secondary School](/school-histories/punggol-sec/) | [Punggol View Primary School](/school-histories/punggol-view-pri/) | [Qiaonan Primary School](/school-histories/qiaonan-pri/) |
+| [Qifa Primary School](/school-histories/qifa-pri/) | [Qihua Primary School](/school-histories/qihua-pri/) | [Queenstown Primary School](/school-histories/queenstown-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestQ2.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestQ3.png">
@@ -1362,7 +1372,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Qifa Primary School](/school-histories/qifa-pri/) | [Qihua Primary School](/school-histories/qihua-pri/) | [Queenstown Primary School](/school-histories/queenstown-pri/) |
+| [Queenstown Secondary School](/school-histories/queenstown-sec/) | [Queensway Secondary School](/school-histories/queensway-sec/) | [Radin Mas Primary School](/school-histories/radin-mas-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestQ5.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestQ6.jpg">
@@ -1372,7 +1382,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Queenstown Secondary School](/school-histories/queenstown-sec/) | [Queensway Secondary School](/school-histories/queensway-sec/) | [Radin Mas Primary School](/school-histories/radin-mas-pri/) |
+| [Raffles Girls' Primary School](/school-histories/raffles-girls-pri/) | [Raffles Girls' School](/school-histories/raffles-girls-sch/) | [Raffles Institution](/school-histories/raffles-institution/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestR2.png">
 <img align="left" style="width:22%;margin-left:105px;" src="/images/crestR3.jpg">
@@ -1382,7 +1392,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Girls' Primary School](/school-histories/raffles-girls-pri/) | [Raffles Girls' School](/school-histories/raffles-girls-sch/) | [Raffles Institution](/school-histories/raffles-institution/) |
+| [Raffles Junior College](/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](/school-histories/rangoon-sec/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestR5.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestR6.png">
@@ -1392,7 +1402,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Raffles Junior College](/school-histories/raffles-jc/) | [Rangoon Road Primary School (Farrer Park)](/school-histories/rangoon-road-pri/) | [Rangoon Secondary School](/school-histories/rangoon-sec/) |
+| [Rayman School](/school-histories/rayman-sch/) | [Red Swastika School](/school-histories/red-swastika-sch/) | [Redhill School](/school-histories/redhill-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestR8.jpg">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestR9.png">
@@ -1402,7 +1412,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rayman School](/school-histories/rayman-sch/) | [Red Swastika School](/school-histories/red-swastika-sch/) | [Redhill School](/school-histories/redhill-sch/) |
+| [Regent Secondary School](/school-histories/regent-sec/) | [River Valley English School](/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](/school-histories/river-valley-government-chi-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestR11.jpg">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestR12.png">
@@ -1412,7 +1422,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Regent Secondary School](/school-histories/regent-sec/) | [River Valley English School](/school-histories/river-valley-english-sch/) | [River Valley Government Chinese School](/school-histories/river-valley-government-chi-sch/) |
+| [River Valley High School](/school-histories/river-valley-high-sch/) | [River Valley Primary School](/school-histories/river-valley-pri/) | [Riverside Primary School](/school-histories/riverside-pri/) |
 
 <img align="left" style="width:19%;margin-left:55px;" src="/images/crestR14.jpg">
 <img align="left" style="width:16%;margin-left:135px;" src="/images/crestR15.jpg">
@@ -1422,7 +1432,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [River Valley High School](/school-histories/river-valley-high-sch/) | [River Valley Primary School](/school-histories/river-valley-pri/) | [Riverside Primary School](/school-histories/riverside-pri/) |
+| [Riverside Secondary School](/school-histories/riverside-sec/) | [Rivervale Primary School](/school-histories/river-vale-pri-sch/) | [Rosyth School](/school-histories/rosyth-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestR17.jpg">
 <img align="left" style="width:20%;margin-left:95px;" src="/images/crestR18.png">
@@ -1432,7 +1442,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Riverside Secondary School](/school-histories/riverside-sec/) | [Rivervale Primary School](/school-histories/river-vale-pri-sch/) | [Rosyth School](/school-histories/rosyth-sch/) |
+| [Rulang Primary School](/school-histories/rulang-pri/) | [San Shan Primary School](/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](/school-histories/sang-nila-utama-sec/) |
 
 <img align="left" style="width:25%;margin-left:55px;" src="/images/crestR20.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestS1.png">
@@ -1442,7 +1452,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Rulang Primary School](/school-histories/rulang-pri/) | [San Shan Primary School](/school-histories/san-shan-pri/) | [Sang Nila Utama Secondary School](/school-histories/sang-nila-utama-sec/) |
+| [Selegie Primary School](/school-histories/selegie-pri/) | [Seletar Institute](/school-histories/seletar-institute/) | [Sembawang Hills Estate School](/school-histories/sembawang-hills-estate-sch/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestS3.png">
 <img align="left" style="width:22%;margin-left:105px;" src="/images/crestS4.png">
@@ -1452,7 +1462,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Selegie Primary School](/school-histories/selegie-pri/) | [Seletar Institute](/school-histories/seletar-institute/) | [Sembawang Hills Estate School](/school-histories/sembawang-hills-estate-sch/) |
+| [Sembawang Primary School](/school-histories/sembawang-pri/) | [Sembawang Secondary School](/school-histories/sembawang-sec/) | [Seng Kang Primary School](/school-histories/seng-kang-pri/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestS6.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestS7.png">
@@ -1462,7 +1472,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Sembawang Primary School](/school-histories/sembawang-pri/) | [Sembawang Secondary School](/school-histories/sembawang-sec/) | [Seng Kang Primary School](/school-histories/seng-kang-pri/) |
+| [Seng Kang Secondary School](/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](/school-histories/sengkang-green-pri/) | [Sennett Estate School](/school-histories/sennett-estate-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestS9.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestS10.png">
@@ -1472,7 +1482,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seng Kang Secondary School](/school-histories/seng-kang-sec/) | [Sengkang Green Primary School](/school-histories/sengkang-green-pri/) | [Sennett Estate School](/school-histories/sennett-estate-sch/) |
+| [Serangoon Garden North School](/school-histories/serangoon-garden-north-sch/) | [Serangoon Garden Secondary School](/school-histories/serangoon-garden-sec/) | [Serangoon Garden South School](/school-histories/serangoon-garden-south-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestS12.png">
 <img align="left" style="width:16%;margin-left:145px;" src="/images/crestS13.png">
@@ -1482,7 +1492,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Serangoon Garden North School](/school-histories/serangoon-garden-north-sch/) | [Serangoon Garden Secondary School](/school-histories/serangoon-garden-sec/) | [Serangoon Garden South School](/school-histories/serangoon-garden-south-sch/) |
+| [Serangoon Garden Technical School](/school-histories/serangoon-garden-technical-sch/) | [Serangoon Junior College](/school-histories/serangoon-jc/) | [Serangoon Secondary School](/school-histories/serangoon-sec/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestS15.png">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestS16.png">
@@ -1492,7 +1502,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Serangoon Garden Technical School](/school-histories/serangoon-garden-technical-sch/) | [Serangoon Junior College](/school-histories/serangoon-jc/) | [Serangoon Secondary School](/school-histories/serangoon-sec/) |
+| [Seraya Primary School](/school-histories/seraya-pri/) | [Shuqun Primary School](/school-histories/shuqun-pri/) | [Shuqun Secondary School](/school-histories/shuqun-sec/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestS18.png">
 <img align="left" style="width:24%;margin-left:105px;" src="/images/crestS19.png">
@@ -1502,7 +1512,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Seraya Primary School](/school-histories/seraya-pri/) | [Shuqun Primary School](/school-histories/shuqun-pri/) | [Shuqun Secondary School](/school-histories/shuqun-sec/) |
+| [Si Ling Primary School](/school-histories/si-ling-pri/) | [Si Ling Secondary School](/school-histories/si-ling-sec/) | [Siglap Indah Primary School](/school-histories/siglap-indah-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestS21.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestS22.jpg">
@@ -1512,7 +1522,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Si Ling Primary School](/school-histories/si-ling-pri/) | [Si Ling Secondary School](/school-histories/si-ling-sec/) | [Siglap Indah Primary School](/school-histories/siglap-indah-pri/) |
+| [Siglap Primary School](/school-histories/siglap-pri/) | [Siglap Secondary School](/school-histories/siglap-sec/) | [Silat Primary School](/school-histories/silat-pri-sch/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestS24.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestS25.jpg">
@@ -1522,7 +1532,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Siglap Primary School](/school-histories/siglap-pri/) | [Siglap Secondary School](/school-histories/siglap-sec/) | [Silat Primary School](/school-histories/silat-pri-sch/) |
+| [Singapore Chinese Girls' School](/school-histories/singapore-chinese-girls-sch/) | [Singapore Sports School](/school-histories/singapore-sports-school/) | [South View Primary School](/school-histories/south-view-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestS27.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestS28.png">
@@ -1532,7 +1542,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Singapore Chinese Girls' School](/school-histories/singapore-chinese-girls-sch/) | [Singapore Sports School](/school-histories/singapore-sports-school/) | [South View Primary School](/school-histories/south-view-pri/) |
+| [Spectra Secondary School](/school-histories/spectra-sec/) | [Springdale Primary School](/school-histories/springdale-pri/) | [Springfield Secondary School](/school-histories/springfield-sec/) |
 
 <img align="left" style="width:30%;margin-left:55px;" src="/images/crestS30.jpg">
 <img align="left" style="width:20%;margin-left:35px;" src="/images/crestS31.png">
@@ -1542,7 +1552,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Spectra Secondary School](/school-histories/spectra-sec/) | [Springdale Primary School](/school-histories/springdale-pri/) | [Springfield Secondary School](/school-histories/springfield-sec/) |
+| [St Andrew's Junior College](/school-histories/st-andrew-jc/) | [St Andrew's Junior School](/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](/school-histories/st-andrew-sec/) |
 
 <img align="left" style="width:24%;margin-left:55px;" src="/images/crestS33.png">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestS34.png">
@@ -1552,7 +1562,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Andrew's Junior College](/school-histories/st-andrew-jc/) | [St Andrew's Junior School](/school-histories/st-andrew-junior-sch/) | [St Andrew's Secondary School](/school-histories/st-andrew-sec/) |
+| [St Anthony's Canossian Primary School](/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](/school-histories/st-george-road-tamil-sch/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestS36.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestS37.jpg">
@@ -1562,7 +1572,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Anthony's Canossian Primary School](/school-histories/st-anthony-canossian-pri/) | [St Anthony's Canossian Secondary School](/school-histories/st-anthony-canossian-sec/) | [St George's Road Tamil School](/school-histories/st-george-road-tamil-sch/) |
+| [St Joseph's Institution Junior](/school-histories/st-joseph-institution-junior/) | [St Patrick's School](/school-histories/st-patrick-sch/) | [St Thomas Secondary School](/school-histories/st-thomas-sec/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestS39.png">
 <img align="left" style="width:16%;margin-left:125px;" src="/images/crestS40.jpg">
@@ -1572,7 +1582,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St Joseph's Institution Junior](/school-histories/st-joseph-institution-junior/) | [St Patrick's School](/school-histories/st-patrick-sch/) | [St Thomas Secondary School](/school-histories/st-thomas-sec/) |
+| [St. Anthony's Primary School](/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](/school-histories/st-gabriel-sec/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestS42.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestS43.jpg">
@@ -1582,7 +1592,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Anthony's Primary School](/school-histories/st-anthony-pri/) | [St. Gabriel's Primary School](/school-histories/st-gabriel-pri/) | [St. Gabriel's Secondary School](/school-histories/st-gabriel-sec/) |
+| [St. Hilda's Primary School](/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](/school-histories/st-hilda-sec/) | [St. Joseph's Institution](/school-histories/st-joseph-institution/) |
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestS45.png">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestss1.jpg">
@@ -1592,7 +1602,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Hilda's Primary School](/school-histories/st-hilda-pri/) | [St. Hilda's Secondary School](/school-histories/st-hilda-sec/) | [St. Joseph's Institution](/school-histories/st-joseph-institution/) |
+| [St. Margaret's Primary School](/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](/school-histories/st-margaret-sec/) | [St. Stephen's School](/school-histories/st-stephen-sch/) ||
 
 <img align="left" style="width:17%;margin-left:95px;" src="/images/crestss3.jpg">
 <img align="left" style="width:17%;margin-left:125px;" src="/images/crestS46.png">
@@ -1602,7 +1612,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Margaret's Primary School](/school-histories/st-margaret-pri/) | [St. Margaret's Secondary School](/school-histories/st-margaret-sec/) | [St. Stephen's School](/school-histories/st-stephen-sch/) |
+| [St. Theresa's High School](/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](/school-histories/stamford-girls-sch/) | [Stamford Primary School](/school-histories/stamford-pri/) |
 
 <img align="left" style="width:16%;margin-left:95px;" src="/images/crestss4.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestss5.jpg">
@@ -1612,7 +1622,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Theresa's High School](/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](/school-histories/stamford-girls-sch/) | [Stamford Primary School](/school-histories/stamford-pri/) |
+| [Swiss Cottage Primary School](/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](/school-histories/swiss-cottage-sec/) | [Tampines Junior College](/school-histories/tampines-jc/) |
 
 <img align="left" style="width:23%;margin-left:75px;" src="/images/crestss6.jpg">
 <img align="left" style="width:18%;margin-left:95px;" src="/images/crestS52.png">
@@ -1622,7 +1632,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Swiss Cottage Primary School](/school-histories/swiss-cottage-pri/) | [Swiss Cottage Secondary School](/school-histories/swiss-cottage-sec/) | [Tampines Junior College](/school-histories/tampines-jc/) |
+| [Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](/school-histories/tampines-north-pri/) | [Tampines Primary School](/school-histories/tampines-pri/) |
 
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestT2.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestT3.png">
@@ -1632,7 +1642,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/) | [Tampines North Primary School](/school-histories/tampines-north-pri/) | [Tampines Primary School](/school-histories/tampines-pri/) |
+| [Tampines Secondary School](/school-histories/tampines-sec/) | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
 
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestT5.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestT6.png">
@@ -1642,7 +1652,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tampines Secondary School](/school-histories/tampines-sec/) | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
+| [Tanglin Secondary School](/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/) |
 
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestT8.jpg">
 <img align="left" style="width:16%;margin-left:105px;" src="/images/crestT9.png">
@@ -1652,7 +1662,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanglin Secondary School](/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/) |
+| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestT11.png">
 <img align="left" style="width:25%;margin-left:85px;" src="/images/crestT12.png">
@@ -1662,7 +1672,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
+| [Tanjong Rhu Primary School](/school-histories/tanjong-rhu-pri/) | [Tao Nan School](/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](/school-histories/teck-ghee-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestT14.png">
 <img align="left" style="width:18%;margin-left:135px;" src="/images/crestT15.png">
@@ -1672,7 +1682,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Rhu Primary School](/school-histories/tanjong-rhu-pri/) | [Tao Nan School](/school-histories/tao-nan-sch/) | [Teck Ghee Primary School](/school-histories/teck-ghee-pri/) |
+| [Teck Whye Primary School](/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](/school-histories/telok-ayer-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestT17.png">
 <img align="left" style="width:15%;margin-left:145px;" src="/images/crestT18.png">
@@ -1682,7 +1692,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Teck Whye Primary School](/school-histories/teck-whye-pri/) | [Teck Whye Secondary School](/school-histories/teck-whye-sec/) | [Telok Ayer Primary School](/school-histories/telok-ayer-pri/) |
+| [Telok Kurau East Primary School](/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](/school-histories/telok-kurau-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestT20.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestT21.png">
@@ -1692,7 +1702,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau East Primary School](/school-histories/telok-kurau-east-pri/) | [Telok Kurau Malay Girls' School](/school-histories/telok-kurau-malay-girls-sch/) | [Telok Kurau Primary School](/school-histories/telok-kurau-pri/) |
+| [Telok Kurau Secondary School](/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](/school-histories/temasek-jc/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestT23.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestT24.png">
@@ -1702,7 +1712,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Telok Kurau Secondary School](/school-histories/telok-kurau-sec/) | [Telok Kurau West Primary School](/school-histories/telok-kurau-west-pri/) | [Temasek Junior College](/school-histories/temasek-jc/) |
+| [Temasek Primary School](/school-histories/temasek-pri/) | [Temasek Secondary School](/school-histories/temasek-sec/) | [The Chinese High School](/school-histories/the-chinese-high-sch/) |
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestT26.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestT27.jpg">
@@ -1712,7 +1722,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Temasek Primary School](/school-histories/temasek-pri/) | [Temasek Secondary School](/school-histories/temasek-sec/) | [The Chinese High School](/school-histories/the-chinese-high-sch/) |
+| [The Happy School](/school-histories/the-happy-sch/) | [Thong Kheng School](/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](/school-histories/tiong-bahru-pri/) |
 
 <img align="left" style="width:25%;margin-left:35px;" src="/images/crestT29.png">
 <img align="left" style="width:22%;margin-left:85px;" src="/images/crestT30.png">
@@ -1722,7 +1732,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [The Happy School](/school-histories/the-happy-sch/) | [Thong Kheng School](/school-histories/thong-kheng-sch/) | [Tiong Bahru Primary School](/school-histories/tiong-bahru-pri/) |
+| [Tiong Bahru Secondary School](/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](/school-histories/toh-tuck-sec/) |
 
 <img align="left" style="width:25%;margin-left:55px;" src="/images/crestT32.png">
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestT33.png">
@@ -1732,7 +1742,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tiong Bahru Secondary School](/school-histories/tiong-bahru-sec/) | [Toh Tuck Primary School](/school-histories/toh-tuck-pri/) | [Toh Tuck Secondary School](/school-histories/toh-tuck-sec/) |
+| [Towner Primary School](/school-histories/towner-pri/) | [Townsville Institute](/school-histories/townsville-institute/) | [Townsville Primary School](/school-histories/townsville-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestT35.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestT36.jpg">
@@ -1742,7 +1752,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Towner Primary School](/school-histories/towner-pri/) | [Townsville Institute](/school-histories/townsville-institute/) | [Townsville Primary School](/school-histories/townsville-pri/) |
+| [Trafalgar School](/school-histories/trafalgar-sch/) | [Tuan Mong High School](/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](/school-histories/tun-seri-lanang-sec/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestT38.png">
 <img align="left" style="width:25%;margin-left:85px;" src="/images/crestT39.jpg">
@@ -1752,7 +1762,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Trafalgar School](/school-histories/trafalgar-sch/) | [Tuan Mong High School](/school-histories/tuan-mong-high-school/) | [Tun Seri Lanang Secondary School](/school-histories/tun-seri-lanang-sec/) |
+| [Umar Pulavar Tamil School](/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](/school-histories/unity-pri/) | [Unity Secondary School](/school-histories/unity-sec/) |
 
 <img align="left" style="width:25%;margin-left:35px;" src="/images/crestU1.png">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crestU2.png">
@@ -1762,7 +1772,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Umar Pulavar Tamil School](/school-histories/umar-pulavar-tamil-sch/) | [Unity Primary School](/school-histories/unity-pri/) | [Unity Secondary School](/school-histories/unity-sec/) |
+| [Upper Aljunied Technical School](/school-histories/upper-aljunied-technical/) | [Upper Serangoon Secondary School](/school-histories/upper-serangoon-sec/) | [Victoria Junior College](/school-histories/victoria-jc/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestU4.png">
 <img align="left" style="width:18%;margin-left:95px;" src="/images/crestU5.png">
@@ -1772,7 +1782,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Upper Aljunied Technical School](/school-histories/upper-aljunied-technical/) | [Upper Serangoon Secondary School](/school-histories/upper-serangoon-sec/) | [Victoria Junior College](/school-histories/victoria-jc/) |
+| [Victoria School](/school-histories/victoria-school/) | [Waterloo School](/school-histories/waterloo-school/) | [Waterway Primary School](/school-histories/waterway-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestV2.png">
 <img align="left" style="width:22%;margin-left:85px;" src="/images/crestW1.png">
@@ -1782,7 +1792,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Victoria School](/school-histories/victoria-school/) | [Waterloo School](/school-histories/waterloo-school/) | [Waterway Primary School](/school-histories/waterway-pri/) |
+| [Wellington Primary School](/school-histories/wellington-pri/) | [West Grove Primary School](/school-histories/west-grove-pri/) | [West Hill School](/school-histories/west-hill-sch/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestW2.png">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestW3.png">
@@ -1792,7 +1802,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Wellington Primary School](/school-histories/wellington-pri/) | [West Grove Primary School](/school-histories/west-grove-pri/) | [West Hill School](/school-histories/west-hill-sch/) |
+| [West Spring Primary School](/school-histories/west-spring-pri/) | [West Spring Secondary School](/school-histories/west-spring-sec/) | [West View Primary School](/school-histories/west-view-pri/) |
 
 <img align="left" style="width:16%;margin-left:85px;" src="/images/crestW5.png">
 <img align="left" style="width:23%;margin-left:95px;" src="/images/crestW6.png">
@@ -1802,7 +1812,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [West Spring Primary School](/school-histories/west-spring-pri/) | [West Spring Secondary School](/school-histories/west-spring-sec/) | [West View Primary School](/school-histories/west-view-pri/) |
+| [Westlake Primary School](/school-histories/westlake-pri/) | [Westwood Primary School](/school-histories/westwood-pri/) | [Westwood Secondary School](/school-histories/westwood-sec/) |
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestW8.png">
 <img align="left" style="width:17%;margin-left:105px;" src="/images/crestW9.png">
@@ -1812,7 +1822,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Westlake Primary School](/school-histories/westlake-pri/) | [Westwood Primary School](/school-histories/westwood-pri/) | [Westwood Secondary School](/school-histories/westwood-sec/) |
+| [Whampoa Secondary School](/school-histories/whampoa-sec/) | [White Sands Primary School](/school-histories/white-sands-pri/) | [Whitley Secondary School](/school-histories/whitley-sec/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestW11.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestW12.png">
@@ -1822,7 +1832,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Whampoa Secondary School](/school-histories/whampoa-sec/) | [White Sands Primary School](/school-histories/white-sands-pri/) | [Whitley Secondary School](/school-histories/whitley-sec/) |
+| [Willow Avenue Secondary School](/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](/school-histories/woodgrove-sec/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestW14.png">
 <img align="left" style="width:16%;margin-left:125px;" src="/images/crestW15.png">
@@ -1832,7 +1842,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Willow Avenue Secondary School](/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](/school-histories/woodgrove-sec/) |
+| [Woodlands Primary School](/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](/school-histories/woodlands-ring-sec/) |
 
 <img align="left" style="width:16%;margin-left:75px;" src="/images/crestW17.jpg">
 <img align="left" style="width:17%;margin-left:135px;" src="/images/crestW18.png">
@@ -1842,7 +1852,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Woodlands Primary School](/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](/school-histories/woodlands-ring-sec/) |
+| [Woodlands Secondary School](/school-histories/woodlands-sec/) | [Woodsville Primary School](/school-histories/woodsville-pri/) | [Woodsville Secondary School](/school-histories/woodsville-sec/) |
 
 <img align="left" style="width:22%;margin-left:45px;" src="/images/crestW20.jpg">
 <img align="left" style="width:16%;margin-left:125px;" src="/images/crestW21.png">
@@ -1852,7 +1862,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Woodlands Secondary School](/school-histories/woodlands-sec/) | [Woodsville Primary School](/school-histories/woodsville-pri/) | [Woodsville Secondary School](/school-histories/woodsville-sec/) |
+| [Xianglin Primary School](/school-histories/xianglin-pri/) | [Xinghua Primary School](/school-histories/xinghua-pri/) | [Xingnan Primary School](/school-histories/xingnan-pri/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestX1.png">
 <img align="left" style="width:16%;margin-left:115px;" src="/images/crestX2.png">
@@ -1862,7 +1872,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Xianglin Primary School](/school-histories/xianglin-pri/) | [Xinghua Primary School](/school-histories/xinghua-pri/) | [Xingnan Primary School](/school-histories/xingnan-pri/) |
+| [Xinmin Primary School](/school-histories/xinmin-pri/) | [Xinmin Secondary School](/school-histories/xinmin-sec/) | [Xishan Primary School](/school-histories/xi-shan-pri/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestX4.png">
 <img align="left" style="width:18%;margin-left:115px;" src="/images/crestX5.png">
@@ -1872,7 +1882,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Xinmin Primary School](/school-histories/xinmin-pri/) | [Xinmin Secondary School](/school-histories/xinmin-sec/) | [Xishan Primary School](/school-histories/xi-shan-pri/) |
+| [Yangzheng Primary School](/school-histories/yang-zheng-pri/) | [Yew Tee Primary School](/school-histories/yew-tee-pri/) | [Yio Chu Kang Primary School](/school-histories/yck-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestY1.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestY2.png">
@@ -1882,7 +1892,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yangzheng Primary School](/school-histories/yang-zheng-pri/) | [Yew Tee Primary School](/school-histories/yew-tee-pri/) | [Yio Chu Kang Primary School](/school-histories/yck-pri/) |
+| [Yio Chu Kang Secondary School](/school-histories/yck-sec/) | [Yishun Innova Junior College](/school-histories/yishun-innova-jc/) | [Yishun Junior College](/school-histories/yishun-jc/) |
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestY4.png">
 <img align="left" style="width:10%;margin-left:135px;" src="/images/crestY5.png">
@@ -1892,7 +1902,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yio Chu Kang Secondary School](/school-histories/yck-sec/) | [Yishun Innova Junior College](/school-histories/yishun-innova-jc/) | [Yishun Junior College](/school-histories/yishun-jc/) |
+| [Yishun Primary School](/school-histories/yishun-pri/) | [Yishun Secondary School](/school-histories/yishun-sec/) | [Yishun Town Secondary School](/school-histories/yishun-town-sec/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestY7.png">
 <img align="left" style="width:16%;margin-left:125px;" src="/images/crestY8.png">
@@ -1902,7 +1912,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yishun Primary School](/school-histories/yishun-pri/) | [Yishun Secondary School](/school-histories/yishun-sec/) | [Yishun Town Secondary School](/school-histories/yishun-town-sec/) |
+| [Yu Neng Primary School](/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](/school-histories/yuan-ching-sec/) | [Yuhua Primary School](/school-histories/yuhua-pri/) |
 
 <img align="left" style="width:22%;margin-left:55px;" src="/images/crestY10.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestY11.jpg">
@@ -1912,7 +1922,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yu Neng Primary School](/school-histories/yu-neng-pri/) | [Yuan Ching Secondary School](/school-histories/yuan-ching-sec/) | [Yuhua Primary School](/school-histories/yuhua-pri/) |
+| [Yuhua Secondary School](/school-histories/yuhua-sec/) | [Yumin Primary School](/school-histories/yumin-pri/) | [Yung An Primary School](/school-histories/yung-an-pri/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestY13.jpg">
 <img align="left" style="width:28%;margin-left:95px;" src="/images/crestY14.png">
@@ -1922,7 +1932,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuhua Secondary School](/school-histories/yuhua-sec/) | [Yumin Primary School](/school-histories/yumin-pri/) | [Yung An Primary School](/school-histories/yung-an-pri/) |
+| [Yuqun Primary School](/school-histories/yuqun-pri/) | [Yusok Ishak Secondary School](/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](/school-histories/yuying-sec/) |
 
 <img align="left" style="width:27%;margin-left:35px;" src="/images/crestY16.png">
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestY17.jpg">
@@ -1932,7 +1942,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuqun Primary School](/school-histories/yuqun-pri/) | [Yusok Ishak Secondary School](/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](/school-histories/yuying-sec/) |
+| [Zhangde Primary School](/school-histories/zhangde-pri/) | [Zhenghua Primary School](/school-histories/zhenghua-pri/) | [Zhenghua Secondary School](/school-histories/zhenghua-sec/) |
 
 <img align="left" style="width:16%;margin-left:75px;" src="/images/crestZ1.png">
 <img align="left" style="width:16%;margin-left:135px;" src="/images/crestZ2.png">
@@ -1940,15 +1950,11 @@ If you would like to make a contribution, please submit a form<a href="https://g
 
 <br clear="left">
 
-|  |  |  |
-|:---:|:---:|:---:|
-| [Zhangde Primary School](/school-histories/zhangde-pri/) | [Zhenghua Primary School](/school-histories/zhenghua-pri/) | [Zhenghua Secondary School](/school-histories/zhenghua-sec/) |
+|  |  |
+|:---:|:---:|
+| [Zhonghua Primary School](/school-histories/zhonghua-pri/) | [Zhonghua Secondary School](/school-histories/zhonghua-sec/) |
 
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestZ4.png">
 <img align="right" style="width:24%;margin-right:105px;" src="/images/crestZ5.jpg">
 
 <br clear="left">
-
-|  |  |
-|:---:|:---:|
-| [Zhonghua Primary School](/school-histories/zhonghua-pri/) | [Zhonghua Secondary School](/school-histories/zhonghua-sec/) |
