@@ -191,7 +191,6 @@ If you would like to make a contribution, please submit a form<a href="https://g
 |:---:|:---:|:---:|
 | [Bedok Town Primary School](/school-histories/bedok-town-pri/) | [Bedok Town Secondary School](/school-histories/bedok-town-sec/) | [Bedok View Primary School](/school-histories/bedok-view-pri/) |
 
-
 <img align="left" style="width:20%;margin-left:45px;" src="/images/crest52.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crest53.png">
 <img align="right" style="width:20%;margin-right:35px;" src="/images/crest54.png">
@@ -292,6 +291,7 @@ If you would like to make a contribution, please submit a form<a href="https://g
 |  |  |  |
 |:---:|:---:|:---:|
 | [Bukit Merah Secondary School](/school-histories/bukit-merah-sec/) | [Bukit Merah South School](/school-histories/bukit-merah-south-sch/) | [Bukit Panjang Government High School](/school-histories/bukit-panjang-govt-high-sch/) |
+
 <img align="left" style="width:25%;margin-left:45px;" src="/images/crest82.jpg">
 <img align="left" style="width:20%;margin-left:85px;" src="/images/crest83.jpg">
 <img align="right" style="width:22%;margin-right:25px;" src="/images/crest84.jpg">
