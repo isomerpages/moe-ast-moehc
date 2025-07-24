@@ -2,7 +2,7 @@
 title: Pioneer Merdaka Educators Get together
 permalink: /whats-on/upcoming-events/pmeg/
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 variant: markdown
 ---
 ![](/images/For%20Publicity/pmeg%20(extended).png)

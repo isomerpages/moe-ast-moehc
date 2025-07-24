@@ -2,7 +2,13 @@ collections:
   school-histories:
     output: true
     order:
-      - School Histories.md
+      - School Histories/.keep
+      - School Histories/Overview.md
+      - School Histories/A to C.md
+      - School Histories/D to K.md
+      - School Histories/L to N.md
+      - School Histories/O to S.md
+      - School Histories/T to Z.md
       - Schools/Pasir Panjang English School.md
       - Schools/Braddell Rise School.md
       - Schools/Northshore Primary School.md

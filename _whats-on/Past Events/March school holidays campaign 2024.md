@@ -3,7 +3,7 @@ title: March school holidays campaign 2024
 permalink: /whats-on/upcoming-events/march-campaign/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
