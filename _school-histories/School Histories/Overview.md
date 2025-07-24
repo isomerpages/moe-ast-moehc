@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /overview/
+permalink: /school-histories/
 variant: markdown
 description: ""
 third_nav_title: School Histories
