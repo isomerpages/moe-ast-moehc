@@ -20,8 +20,8 @@ third_nav_title: School Histories
  | [Opera Estate Primary School](/school-histories/opera-estate-pri/) | [Orchid Park Secondary School](/school-histories/orchid-park-sec/)| [Outram Institute](/school-histories/outram-institute/) |
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestO4.jpg">
-<img align="right" style="width:18%;margin-right:55px;" src="/images/crestO5.jpg">
-<img align="right" style="width:18%;margin-right:55px;" src="/images/crestO6.png">
+<img align="left" style="width:18%;margin-left:100px;" src="/images/crestO5.jpg">
+<img align="right" style="width:18%;margin-right:50px;" src="/images/crestO6.png">
 
 <br clear="left">
 
@@ -29,9 +29,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
  [Outram Primary School](/school-histories/outram-pri/) |[Outram Secondary School](/school-histories/outram-sec/) | [Owen School](/school-histories/owen-sch/) | 
 
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestO7.png">
+<img align="left" style="width:20%;margin-left:55px;" src="/images/crestO7.png">
 <img align="left" style="width:20%;margin-left:100px;" src="/images/crestO8.jpg">
-<img align="left" style="width:18%;margin-left:70px;" src="/images/crestO9.png">
+<img align="right" style="width:18%;margin-right:50px;" src="/images/crestO9.png">
 
 <br clear="left">
 
