@@ -17,10 +17,10 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) ||
+| [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/)|
 
-<img align="left" style="width:22%;margin-left:30px;" src="/images/crestD4.png">
-<img align="right" style="width:20%;margin-right:75px;" src="/images/crestD5.png">
+<img align="left" style="width:22%;margin-left:50px;" src="/images/crestD4.png">
+<img align="right" style="width:18%;margin-right:100px;" src="/images/crestD5.png">
 
 <br clear="left">
 
