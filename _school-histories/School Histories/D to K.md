@@ -7,20 +7,20 @@ third_nav_title: School Histories
 ---
 |  |  |  |
 |:---:|:---:|:---:|
-| [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) |
+| [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) | [Damai Secondary School](/school-histories/damai-sec/)|
 
-<img align="left" style="width:27%;margin-left:100px;" src="/images/crestD1.jpg">
-<img align="right" style="width:25%;margin-right:80px;" src="/images/crestD2.png">
+<img align="left" style="width:27%;margin-left:20px;" src="/images/crestD1.jpg">
+<img align="left" style="width:25%;margin-left:50px;" src="/images/crestD2.png">
+<img align="right" style="width:13%;margin-right:75px;" src="/images/crestD3.jpg">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Damai Secondary School](/school-histories/damai-sec/) | [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) |
+| [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) |
 
-<img align="left" style="width:13%;margin-left:75px;" src="/images/crestD3.jpg">
-<img align="left" style="width:22%;margin-left:165px;" src="/images/crestD4.png">
-<img align="right" style="width:20%;margin-right:15px;" src="/images/crestD5.png">
+<img align="left" style="width:22%;margin-left:100px;" src="/images/crestD4.png">
+<img align="right" style="width:20%;margin-right:120px;" src="/images/crestD5.png">
 
 <br clear="left">
 
