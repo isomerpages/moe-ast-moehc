@@ -48,9 +48,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Manjusri Secondary School](/school-histories/manjusri-sec/) | [Margaret Drive Primary School](/school-histories/margaret-drive-pri/) | [Maris Stella High School](/school-histories/maris-stella-high-sch/) |
 
-<img align="left" style="width:18%;margin-left:65px;" src="/images/crestM6.png">
-<img align="left" style="width:18%;margin-left:85px;" src="/images/crestM7.jpg">
-<img align="right" style="width:15%;margin-right:60px;" src="/images/crestM8.png">
+<img align="left" style="width:15%;margin-left:75px;" src="/images/crestM6.png">
+<img align="left" style="width:15%;margin-left:150px;" src="/images/crestM7.jpg">
+<img align="right" style="width:15%;margin-right:45px;" src="/images/crestM8.png">
 
 <br clear="left">
 
