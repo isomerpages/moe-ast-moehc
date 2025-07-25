@@ -21,7 +21,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:23%;margin-left:25px;" src="/images/crestL4.png">
 <img align="left" style="width:20%;margin-left:50px;" src="/images/crestL5.png">
-<img align="right" style="width:25%;margin-right:60px;" src="/images/crestL6.jpg">
+<img align="right" style="width:24%;margin-right:60px;" src="/images/crestL6.jpg">
 
 <br clear="left">
 
