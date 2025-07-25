@@ -40,7 +40,7 @@ third_nav_title: School Histories
 |[Maha Bodhi School](/school-histories/maha-bodhi-sch/) | [Maju Secondary School](/school-histories/maju-sec/) |
 
 <img align="left" style="width:23%;margin-left:85px;" src="/images/crestM4.png">
-<img align="right" style="width:20%;margin-right:120px;" src="/images/crestM5.png">
+<img align="right" style="width:18%;margin-right:120px;" src="/images/crestM5.png">
 
 <br clear="left">
 
@@ -50,7 +50,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:15%;margin-left:75px;" src="/images/crestM6.png">
 <img align="left" style="width:15%;margin-left:150px;" src="/images/crestM7.jpg">
-<img align="right" style="width:12%;margin-right:45px;" src="/images/crestM8.png">
+<img align="right" style="width:15%;margin-right:45px;" src="/images/crestM8.png">
 
 <br clear="left">
 
