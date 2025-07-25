@@ -7,29 +7,29 @@ third_nav_title: School Histories
 ---
 |  |  |  |
 |:---:|:---:|:---:|
-|| [Oasis Primary School](/school-histories/oasis-pri/) ||
+| [Oasis Primary School](/school-histories/oasis-pri/) | [Opera Estate Boys' Primary School](/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](/school-histories/opera-estate-girls-pri/)|
 
-<img align="center" style="width:20%;" src="/images/crestO1.png">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [Opera Estate Boys' Primary School](/school-histories/opera-estate-boys-pri/) | [Opera Estate Girls' Primary School](/school-histories/opera-estate-girls-pri/) | [Opera Estate Primary School](/school-histories/opera-estate-pri/) |
-
+<img align="left" style="width:20%;margin-left:55px;" src="/images/crestO1.png">
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestO2.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestO3.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestO4.jpg">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Orchid Park Secondary School](/school-histories/orchid-park-sec/) | [Outram Institute](/school-histories/outram-institute/) | [Outram Primary School](/school-histories/outram-pri/) |
+ | [Opera Estate Primary School](/school-histories/opera-estate-pri/) | [Orchid Park Secondary School](/school-histories/orchid-park-sec/)|
 
-<img align="left" style="width:18%;margin-left:65px;" src="/images/crestO5.jpg">
+<img align="left" style="width:20%;margin-left:80px;" src="/images/crestO4.jpg">
+<img align="right" style="width:18%;margin-right:120px;" src="/images/crestO5.jpg">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [Outram Institute](/school-histories/outram-institute/) | [Outram Primary School](/school-histories/outram-pri/) |
+
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestO6.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestO7.png">
+<img align="right" style="width:20%;margin-right:120px;" src="/images/crestO7.png">
 
 <br clear="left">
 
