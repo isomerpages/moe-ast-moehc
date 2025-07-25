@@ -17,30 +17,30 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Lianhua Primary School](/school-histories/lianhua-pri/) | [Loyang Primary School](/school-histories/loyang-pri/) |
+| [Lianhua Primary School](/school-histories/lianhua-pri/) | [Loyang Primary School](/school-histories/loyang-pri/) | [Loyang View Secondary School](/school-histories/loyang-view-sec/) |
 
-<img align="left" style="width:23%;margin-left:80px;" src="/images/crestL4.png">
-<img align="right" style="width:20%;margin-right:120px;" src="/images/crestL5.png">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [Loyang View Secondary School](/school-histories/loyang-view-sec/) | [Macpherson Primary School](/school-histories/macpherson-pri/) | [Macpherson Secondary School](/school-histories/macpherson-sec/) |
-
-<img align="left" style="width:25%;margin-left:45px;" src="/images/crestL6.jpg">
-<img align="left" style="width:23%;margin-left:65px;" src="/images/crestM1.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestM2.jpg">
+<img align="left" style="width:23%;margin-left:25px;" src="/images/crestL4.png">
+<img align="left" style="width:20%;margin-left:50px;" src="/images/crestL5.png">
+<img align="right" style="width:25%;margin-right:60px;" src="/images/crestL6.jpg">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [MacRitchie Primary School](/school-histories/macritchie-pri/) | [Maha Bodhi School](/school-histories/maha-bodhi-sch/) | [Maju Secondary School](/school-histories/maju-sec/) |
+| [Macpherson Primary School](/school-histories/macpherson-pri/) | [Macpherson Secondary School](/school-histories/macpherson-sec/) | [MacRitchie Primary School](/school-histories/macritchie-pri/) | 
 
-<img align="left" style="width:20%;margin-left:65px;" src="/images/crestM3.png">
+<img align="left" style="width:23%;margin-left:25px;" src="/images/crestM1.png">
+<img align="left" style="width:20%;margin-left:50px;" src="/images/crestM2.jpg">
+<img align="right" style="width:20%;margin-right:60px;" src="/images/crestM3.png">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+|[Maha Bodhi School](/school-histories/maha-bodhi-sch/) | [Maju Secondary School](/school-histories/maju-sec/) |
+
 <img align="left" style="width:23%;margin-left:85px;" src="/images/crestM4.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestM5.png">
+<img align="right" style="width:20%;margin-right:120px;" src="/images/crestM5.png">
 
 <br clear="left">
 
