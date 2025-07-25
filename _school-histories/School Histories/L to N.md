@@ -50,7 +50,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:18%;margin-left:65px;" src="/images/crestM6.png">
 <img align="left" style="width:18%;margin-left:85px;" src="/images/crestM7.jpg">
-<img align="right" style="width:16%;margin-right:60px;" src="/images/crestM8.png">
+<img align="right" style="width:15%;margin-right:60px;" src="/images/crestM8.png">
 
 <br clear="left">
 
