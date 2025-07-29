@@ -14,8 +14,9 @@ Monday to Friday | 10am - 5pm (last entry
 4.30pm)
 
 Please take note of changes in operating hours on the following dates:
-<img align="left" style="width:55%;margin-right:15px;" src="/images/gallery_closure_2025_II.png">
-<p></p><br><br><br><br>
+
+**26 Aug 2025: 10am to 1pm **
+
 
 ### **Contact Details**
 Drop us an email at [moe_heritage_centre@moe.gov.sg](mailto:moe_heritage_centre@moe.gov.sg) 

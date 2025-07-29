@@ -7,40 +7,40 @@ third_nav_title: School Histories
 ---
 |  |  |  |
 |:---:|:---:|:---:|
-| [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) |
+| [Da Qiao Primary School](/school-histories/da-qiao-pri/) | [Damai Primary School](/school-histories/damai-pri/) | [Damai Secondary School](/school-histories/damai-sec/)|
 
-<img align="left" style="width:27%;margin-left:100px;" src="/images/crestD1.jpg">
-<img align="right" style="width:25%;margin-right:80px;" src="/images/crestD2.png">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [Damai Secondary School](/school-histories/damai-sec/) | [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/) |
-
-<img align="left" style="width:13%;margin-left:75px;" src="/images/crestD3.jpg">
-<img align="left" style="width:22%;margin-left:165px;" src="/images/crestD4.png">
-<img align="right" style="width:20%;margin-right:15px;" src="/images/crestD5.png">
+<img align="left" style="width:27%;margin-left:20px;" src="/images/crestD1.jpg">
+<img align="left" style="width:25%;margin-left:50px;" src="/images/crestD2.png">
+<img align="right" style="width:13%;margin-right:75px;" src="/images/crestD3.jpg">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Circus Primary School](/school-histories/delta-circus-pri/) | [Delta East Primary School](/school-histories/delta-east-pri/) | [Delta Primary School](/school-histories/delta-pri/) |
+| [Dazhong Primary School](/school-histories/da-zhong-pri/) | [De La Salle School](/school-histories/de-la-salle-sch/)| [Delta Circus Primary School](/school-histories/delta-circus-pri/) | 
 
-<img align="left" style="width:20%;margin-left:65px;" src="/images/crestD6.png">
-<img align="left" style="width:18%;margin-left:145px;" src="/images/crestD7.png">
-<img align="right" style="width:20%;margin-right:15px;" src="/images/crestD8.png">
+<img align="left" style="width:22%;margin-left:20px;" src="/images/crestD4.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestD5.png">
+<img align="right" style="width:20%;margin-right:75px;" src="/images/crestD6.png">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Delta Secondary School](/school-histories/delta-sec/) | [Delta West Primary School](/school-histories/delta-west-pri/) | [Deyi Secondary School](/school-histories/deyi-sec/) |
+| [Delta East Primary School](/school-histories/delta-east-pri/) | [Delta Primary School](/school-histories/delta-pri/) |[Delta Secondary School](/school-histories/delta-sec/)|
 
-<img align="left" style="width:18%;margin-left:65px;" src="/images/crestD9.png">
+<img align="left" style="width:18%;margin-left:50px;" src="/images/crestD7.png">
+<img align="left" style="width:20%;margin-left:100px;" src="/images/crestD8.png">
+<img align="right" style="width:18%;margin-right:65px;" src="/images/crestD9.png">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [Delta West Primary School](/school-histories/delta-west-pri/) | [Deyi Secondary School](/school-histories/deyi-sec/) |
+
 <img align="left" style="width:20%;margin-left:145px;" src="/images/crestD10.png">
-<img align="right" style="width:21%;margin-right:15px;" src="/images/crestD11.jpg">
+<img align="right" style="width:21%;margin-right:100px;" src="/images/crestD11.jpg">
 
 <br clear="left">
 

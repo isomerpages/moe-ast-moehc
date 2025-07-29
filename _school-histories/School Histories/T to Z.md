@@ -9,45 +9,45 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Tampines Junior College](/school-histories/tampines-jc/) |[Tampines Meridian Junior College](/school-histories/tampines-meridian-jc/)| [Tampines North Primary School](/school-histories/tampines-north-pri/) |
 
-<img align="left" style="width:20%;;margin-left:85px;" src="/images/crestT1.png">
-<img align="left" style="width:20%;margin-left:85px;" src="/images/crestT2.png">
-<img align="left" style="width:20%;margin-left:105px;" src="/images/crestT3.png">
+<img align="left" style="width:20%;;margin-left:100px;" src="/images/crestT1.png">
+<img align="left" style="width:20%;margin-left:80px;" src="/images/crestT2.png">
+<img align="right" style="width:20%;margin-right:50px;" src="/images/crestT3.png">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| | [Tampines Primary School](/school-histories/tampines-pri/) | [Tampines Secondary School](/school-histories/tampines-sec/)| 
+| [Tampines Primary School](/school-histories/tampines-pri/) | [Tampines Secondary School](/school-histories/tampines-sec/)| [Tanglin Girls' School](/school-histories/tanglin-girls-sch/)|
 
-<img align="left" style="width:20%;margin-left:150px;" src="/images/crestT4.jpg">
-<img align="right" style="width:20%;margin-right:150px;" src="/images/crestT5.jpg">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-|  | [Tanglin Girls' School](/school-histories/tanglin-girls-sch/) | [Tanglin Primary School](/school-histories/tanglin-pri/) |
-
-<img align="left" style="width:20%;margin-left:150px;" src="/images/crestT6.png">
-<img align="right" style="width:20%;margin-right:150px;" src="/images/crestT7.png">
+<img align="left" style="width:20%;margin-left:100px;" src="/images/crestT4.jpg">
+<img align="left" style="width:20%;margin-left:80px;" src="/images/crestT5.jpg">
+<img align="right" style="width:20%;margin-right:50px;" src="/images/crestT6.png">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanglin Secondary School](/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](/school-histories/tanjong-katong-girls-sch/) | [Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/) |
+| [Tanglin Primary School](/school-histories/tanglin-pri/) | [Tanglin Secondary School](/school-histories/tanglin-sec/) | [Tanjong Katong Girls' School](/school-histories/tanjong-katong-girls-sch/) | 
 
-<img align="left" style="width:20%;margin-left:85px;" src="/images/crestT8.jpg">
-<img align="left" style="width:16%;margin-left:105px;" src="/images/crestT9.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestT10.png">
+<img align="left" style="width:20%;margin-left:100px;" src="/images/crestT7.png">
+<img align="left" style="width:20%;margin-left:80px;" src="/images/crestT8.jpg">
+<img align="right" style="width:16%;margin-right:50px;" src="/images/crestT9.png">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
+|[Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/)| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) |
 
-<img align="left" style="width:20%;margin-left:75px;" src="/images/crestT11.png">
+<img align="left" style="width:20%;margin-left:60px;" src="/images/crestT10.png">
+<img align="right" style="width:20%;margin-right:100px;" src="/images/crestT11.png">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
+
 <img align="left" style="width:25%;margin-left:85px;" src="/images/crestT12.png">
 <img align="right" style="width:18%;margin-right:65px;" src="/images/crestT13.png">
 
