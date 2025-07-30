@@ -13,4 +13,4 @@ We recognise that every Singapore school has a story to tell, contributing to th
 
 If you would like to make a contribution, please submit a form **[here](https://form.gov.sg/687df6987b1abf54b8c22053)**. 
 
-The School Histories Online repository is optimised for web browsers. For mobile device users, please rotate your device to landscape mode for a better viewing experience. 
+The School Histories Online repository is optimised for web browsers. For mobile device users, please rotate your device to landscape mode for a better viewing experience.
