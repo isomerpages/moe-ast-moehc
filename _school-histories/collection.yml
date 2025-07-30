@@ -9,22 +9,7 @@ collections:
       - School Histories/L to N.md
       - School Histories/O to S.md
       - School Histories/T to Z.md
-      - Schools/Pasir Panjang English School.md
-      - Schools/Braddell Rise School.md
-      - Schools/Northshore Primary School.md
-      - Schools/Min Chong Public School.md
-      - Schools/Ming Sin School.md
-      - Schools/Monk's Hill Primary School.md
-      - Schools/Monk's Hill Secondary School.md
-      - Schools/Montfort Junior School.md
-      - Schools/Montfort Secondary School.md
       - Schools/.keep
-      - Schools/Parry Avenue Government Chinese Middle School.md
-      - Schools/Parry Secondary School.md
-      - Schools/Pasir Panjang Secondary School.md
-      - Schools/Pasir Ris Crest Secondary School.md
-      - Schools/Pasir Ris Primary School.md
-      - Schools/Pasir Ris Secondary School.md
       - Schools/Admiralty Primary School.md
       - Schools/Admiralty Secondary School.md
       - Schools/Ahmad Ibrahim Primary School.md
@@ -96,6 +81,7 @@ collections:
       - Schools/Boon Lay Secondary School.md
       - Schools/Bowen Secondary School.md
       - Schools/Braddell Primary School.md
+      - Schools/Braddell Rise School.md
       - Schools/Braddell Westlake Secondary School.md
       - Schools/Broadrick Primary School.md
       - Schools/Broadrick Secondary School.md
@@ -350,7 +336,13 @@ collections:
       - Schools/Merlimau Primary School.md
       - Schools/Methodist Girls' School.md
       - Schools/Millenia Institute.md
+      - Schools/Min Chong Public School.md
       - Schools/Min Xin Primary School.md
+      - Schools/Ming Sin School.md
+      - Schools/Monk's Hill Primary School.md
+      - Schools/Monk's Hill Secondary School.md
+      - Schools/Montfort Junior School.md
+      - Schools/Montfort Secondary School.md
       - Schools/Moulmein Primary School.md
       - Schools/Mount Vernon Secondary School.md
       - Schools/Mountbatten Primary School.md
@@ -372,6 +364,7 @@ collections:
       - Schools/Ngee Ann Primary School.md
       - Schools/Ngee Ann Secondary School.md
       - Schools/Norfolk Primary School.md
+      - Schools/Northshore Primary School.md
       - Schools/North Spring Primary School.md
       - Schools/North View Primary School.md
       - Schools/North View Secondary School.md
@@ -398,7 +391,14 @@ collections:
       - Schools/Park View Primary School.md
       - Schools/Parry Avenue Boys' School.md
       - Schools/Parry Avenue Girls' School.md
+      - Schools/Parry Avenue Government Chinese Middle School.md
       - Schools/Parry Primary School.md
+      - Schools/Parry Secondary School.md
+      - Schools/Pasir Panjang English School.md
+      - Schools/Pasir Panjang Secondary School.md
+      - Schools/Pasir Ris Crest Secondary School.md
+      - Schools/Pasir Ris Primary School.md
+      - Schools/Pasir Ris Secondary School.md
       - Schools/Paya Lebar Methodist Girls' School (Primary).md
       - Schools/Paya Lebar Methodist Girls' School (Secondary).md
       - Schools/Paya Lebar School.md
