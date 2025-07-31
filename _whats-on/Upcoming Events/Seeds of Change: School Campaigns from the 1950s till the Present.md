@@ -31,8 +31,22 @@ from school campaigns in Singapore, past and present.</p>
 <div class="isomer-card-description">From milk and vaccinations in the 6190s to cyber and mental wellness,
 school campaigns have always evolved to support student well-being!</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="school campaigns on clean and green" src="/images/Use_Your_Hands_Campaign_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CLEAN &amp; GREEN</div><div class="isomer-card-description">From a Garden City to a City in a Garden, and now a City in Nature – Singapore’s green vision has come a long way since the 1960s. Supporting this journey, teachers have led by example, rallying students with brooms, rags, and changkuls in hand.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="school campaigns on clean and green" src="/images/Use_Your_Hands_Campaign_3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CLEAN &amp; GREEN</div>
+<div class="isomer-card-description">From a Garden City to a City in a Garden, and now a City in Nature – Singapore’s
+green vision has come a long way since the 1960s. Supporting this journey,
+teachers have led by example, rallying students with brooms, rags, and
+changkuls in hand.</div>
+</div>
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HABITS &amp; VALUES" src="/images/low_res_road_safety.png">
@@ -43,9 +57,8 @@ school campaigns have always evolved to support student well-being!</div>
 <div class="isomer-card-description">Did you know teachers have been at the heart of campaigns shaping Singapore's
 youth for decades? From fostering courtesy to shaping language practices
 for better learning, their impact extends far beyond the classroom.</div>
-<div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a>
+</div>
 </div>
 <h2><strong>&lt;Insert high-res photos of vibrant exhibition panels. Visitors interacting with panels&gt;</strong></h2>
 <p></p>
