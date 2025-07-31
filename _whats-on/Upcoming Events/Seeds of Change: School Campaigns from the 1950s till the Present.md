@@ -88,8 +88,8 @@ from school campaigns in Singapore, past and present.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">HEALTH &amp; WELLNESS</div>
-<div class="isomer-card-description">From milk and vaccinations in the 6190s to cyber and mental wellness,
-school campaigns have always evolved to support student well-being!</div>
+<div class="isomer-card-description">From milk and vaccinations in the 1960s to cyber and mental wellness,
+school campaigns have always evolved to support student well-being.</div>
 </div>
 </div>
 <div class="isomer-card">
