@@ -8,8 +8,18 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seeds_of_change_Draft.jpg">
 </div>
-<h3><strong>3 OCTOBER – 31 DECEMBER 2026. </strong></h3>
-<h4>Roving island-wide to these locations</h4>
+<h3><strong>3 OCTOBER – 31 DECEMBER 2026.</strong></h3>
+<p></p>
+<p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
+Ministry of Education, the roving exhibition revisits school campaigns
+from the nation’s first days of self-government in the 1950s till today.</p>
+<p>Take a walk down memory lane to rediscover the many varied campaigns that
+sought to improve the health and wellness of school children, create a
+cleaner and greener environment for them and shape their habits and values.
+From brushing our teeth by the tuckshop drain to cleaning our classrooms
+with rags and pails to show we care, these are some of the familiar scenes
+from school campaigns in Singapore, past and present.</p>
+<h4>Roving island-wide to these locations. Click each venue to find out the roving date.</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Punggol Regional Library</summary>
@@ -30,46 +40,44 @@ third_nav_title: Upcoming Events
 </div>
 </details>
 <details class="isomer-details">
-<summary>Academy of Singapore Teachers Library</summary>
+<summary>Academy of Singapore Teachers Library (For MOE staff)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>5 Jan – 6 Feb&nbsp;</p>
+<p>5 Jan – 6 Feb&nbsp;2026</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Kampong Admiralty&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>10 Feb – 3 Mar&nbsp;</p>
+<p>10 Feb – 3 Mar&nbsp;2026</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>SAFRA Jurong&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>14 Mar – 22 Mar&nbsp;2026</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Bishan Public Library</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>1 Apr – 30 Apr&nbsp;2026&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>HomeTeamNS Khatib</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>May 2026</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>MOE Heritage Centre</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Jul – Dec&nbsp;2026</p>
 </div>
 </details>
 </div>
-<p></p>
-<p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
-Ministry of Education, the roving exhibition revisits school campaigns
-from the nation’s first days of self-government in the 1950s till today.</p>
-<p>Take a walk down memory lane to rediscover the many varied campaigns that
-sought to improve the health and wellness of school children, create a
-cleaner and greener environment for them and shape their habits and values.
-From brushing our teeth by the tuckshop drain to cleaning our classrooms
-with rags and pails to show we care, these are some of the familiar scenes
-from school campaigns in Singapore, past and present.</p>
 <h2>Exhibition Highlights</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
