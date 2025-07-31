@@ -45,5 +45,5 @@ for better learning, their impact extends far beyond the classroom.</div>
 </div>
 </a>
 </div>
-<h2><strong>&lt;Insert 3 x 3 photo layout highlighting the vibrant exhibition panels &amp; interactions of visitors&gt;</strong></h2>
+<h2><strong>&lt;Insert high-res photos of vibrant exhibition  panels. Visitors  interacting with panels&gt;</strong></h2>
 <p></p>
