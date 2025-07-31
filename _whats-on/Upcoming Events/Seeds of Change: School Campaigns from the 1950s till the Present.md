@@ -8,7 +8,7 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seeds_of_change_Draft.jpg">
 </div>
-<h3><strong>3 OCTOBER – 31 DECEMBER 2026.</strong></h3>
+<h3><strong>3 OCTOBER 2025 – 31 DECEMBER 2026</strong></h3>
 <p></p>
 <p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
 Ministry of Education, the roving exhibition revisits school campaigns
