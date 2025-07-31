@@ -8,6 +8,58 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seeds_of_change_Draft.jpg">
 </div>
+<h3><strong>3 OCTOBER – 31 DECEMBER 2026. </strong></h3>
+<h4>Roving island-wide to these locations</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Punggol Regional Library</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>3 Oct - 30 Oct</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Bedok Public Library</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>4 Nov – 4 Dec&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Central Lending Library&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>9 – 30 Dec&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Academy of Singapore Teachers Library</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>5 Jan – 6 Feb&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Kampong Admiralty&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>10 Feb – 3 Mar&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
 Ministry of Education, the roving exhibition revisits school campaigns
