@@ -6,7 +6,13 @@ description: MOE, roving exhibition, MOE Heritage Centre, School campaigns.
 third_nav_title: Upcoming Events
 ---
 <h2><strong>&lt;Insert a photo of the full exhibition&gt;</strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/seeds_of_change_Draft.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by.png">
+</div>
 <p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
 Ministry of Education, the roving exhibition revisits school campaigns
 from the nation’s first days of self-government in the 1950s till today.</p>
@@ -16,7 +22,7 @@ cleaner and greener environment for them and shape their habits and values.
 From brushing our teeth by the tuckshop drain to cleaning our classrooms
 with rags and pails to show we care, these are some of the familiar scenes
 from school campaigns in Singapore, past and present.</p>
-<h2></h2>
+<h2>Exhibition Highlights</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -45,5 +51,5 @@ for better learning, their impact extends far beyond the classroom.</div>
 </div>
 </a>
 </div>
-<h2><strong>&lt;Insert high-res photos of vibrant exhibition  panels. Visitors  interacting with panels&gt;</strong></h2>
+<h2><strong>&lt;Insert high-res photos of vibrant exhibition panels. Visitors interacting with panels&gt;</strong></h2>
 <p></p>
