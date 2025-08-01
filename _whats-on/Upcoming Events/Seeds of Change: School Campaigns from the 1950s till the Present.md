@@ -9,7 +9,6 @@ third_nav_title: Upcoming Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/seeds_of_change_Draft.jpg">
 </div>
 <h3><strong>3 OCTOBER 2025 – 31 DECEMBER 2026</strong></h3>
-<p></p>
 <p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
 Ministry of Education, the roving exhibition revisits school campaigns
 from the nation’s first days of self-government in the 1950s till today.</p>
@@ -19,7 +18,7 @@ cleaner and greener environment for them and shape their habits and values.
 From brushing our teeth by the tuckshop drain to cleaning our classrooms
 with rags and pails to show we care, these are some of the familiar scenes
 from school campaigns in Singapore, past and present.</p>
-<h4>Roving island-wide to these locations. Click each venue to find out the roving date.</h4>
+<h3>Roving island-wide to these locations. Click each venue to find out the roving date.</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Punggol Regional Library</summary>
@@ -78,6 +77,11 @@ from school campaigns in Singapore, past and present.</p>
 </div>
 </details>
 </div>
+<h2>Interactive Workshops</h2>
+<p>Inspired by the roving exhibition, we will be running workshops that aims
+to connect the past, present, and future of school campaigns in Singapore.
+Participate in the workshop and discover how school campaigns from the
+1950s to today have shaped our shared values.&nbsp;Register here</p>
 <h2>Exhibition Highlights</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
