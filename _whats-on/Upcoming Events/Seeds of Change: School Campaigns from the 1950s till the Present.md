@@ -120,7 +120,7 @@ for better learning, their impact extends far beyond the classroom.</div>
 </div>
 </div>
 </div>
-<h2><strong>&lt;Insert high-res photos of vibrant exhibition panels. Visitors interacting with panels&gt;</strong></h2>
+<h2>&lt;Insert&nbsp;high-res graphics of exhibition panels in (3 x 3 layout)&gt;&nbsp;</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by.png">
