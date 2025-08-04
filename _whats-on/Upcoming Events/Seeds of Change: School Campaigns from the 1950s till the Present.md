@@ -21,57 +21,72 @@ from school campaigns in Singapore, past and present.</p>
 <h3>Roving island-wide to these locations. Click each venue to find out the roving date.</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Punggol Regional Library</summary>
+<summary><strong>Punggol Regional Library</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>3 Oct - 30 Oct</p>
+<p><strong>3 Oct - 30 Oct</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Bedok Public Library</summary>
+<summary><strong>Bedok Public Library</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>4 Nov – 4 Dec&nbsp;</p>
+<p><strong>4 Nov – 4 Dec&nbsp;</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Central Lending Library&nbsp;</summary>
+<summary><strong>Central Lending Library&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>9 – 30 Dec&nbsp;</p>
+<p><strong>9 – 30 Dec&nbsp;</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Academy of Singapore Teachers Library (For MOE staff)</summary>
+<summary><strong>Academy of Singapore Teachers Library (For MOE staff)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>5 Jan – 6 Feb&nbsp;2026</p>
+<p><strong>5 Jan – 6 Feb&nbsp;2026</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Kampong Admiralty&nbsp;</summary>
+<summary><strong>Kampong Admiralty&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>10 Feb – 3 Mar&nbsp;2026</p>
+<p><strong>10 Feb – 3 Mar&nbsp;2026</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>SAFRA Jurong&nbsp;</summary>
+<summary><strong>SAFRA Jurong&nbsp;</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>14 Mar – 22 Mar&nbsp;2026</p>
+<p><strong>14 Mar – 22 Mar&nbsp;2026</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Bishan Public Library</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>1 Apr – 30 Apr&nbsp;2026&nbsp;</p>
+<p><strong>1 Apr – 30 Apr&nbsp;2026&nbsp;</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>HomeTeamNS Khatib</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>May 2026</p>
+<p><strong>May 2026</strong>
+</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>MOE Heritage Centre</summary>
+<summary><strong>MOE Heritage Centre</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Jul – Dec&nbsp;2026</p>
 </div>
