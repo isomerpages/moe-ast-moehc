@@ -24,71 +24,63 @@ from school campaigns in Singapore, past and present.</p>
 <summary><strong>Punggol Regional Library</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>3 Oct - 30 Oct</strong>
-</p>
+<h4><strong>3 Oct - 30 Oct</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Bedok Public Library</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>4 Nov – 4 Dec&nbsp;</strong>
-</p>
+<h4><strong>4 Nov – 4 Dec&nbsp;</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Central Lending Library&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>9 – 30 Dec&nbsp;</strong>
-</p>
+<h4><strong>9 – 30 Dec&nbsp;</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Academy of Singapore Teachers Library (For MOE staff)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>5 Jan – 6 Feb&nbsp;2026</strong>
-</p>
+<h4><strong>5 Jan – 6 Feb&nbsp;2026</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Kampong Admiralty&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>10 Feb – 3 Mar&nbsp;2026</strong>
-</p>
+<h4><strong>10 Feb – 3 Mar&nbsp;2026</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>SAFRA Jurong&nbsp;</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>14 Mar – 22 Mar&nbsp;2026</strong>
-</p>
+<h4><strong>14 Mar – 22 Mar&nbsp;2026</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Bishan Public Library</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>1 Apr – 30 Apr&nbsp;2026&nbsp;</strong>
-</p>
+<h4><strong>1 Apr – 30 Apr&nbsp;2026&nbsp;</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>HomeTeamNS Khatib</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>May 2026</strong>
-</p>
+<h4><strong>May 2026</strong></h4>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>MOE Heritage Centre</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Jul – Dec&nbsp;2026</p>
+<h4>Jul – Dec&nbsp;2026</h4>
 </div>
 </details>
 </div>
