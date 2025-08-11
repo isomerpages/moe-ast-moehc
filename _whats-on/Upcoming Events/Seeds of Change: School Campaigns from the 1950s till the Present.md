@@ -18,8 +18,11 @@ cleaner and greener environment for them and shape their habits and values.
 From brushing our teeth by the tuckshop drain to cleaning our classrooms
 with rags and pails to show we care, these are some of the familiar scenes
 from school campaigns in Singapore, past and present.</p>
-<h3>Roving island-wide to these locations. Click each venue to find out the roving date.</h3>
-<p></p>
+<h3>Roving island-wide to these locations.</h3>
+<p>Inspired by the roving exhibition, we will be running interactive workshops
+that aims to connect the past, present, and future of school campaigns
+in Singapore. Participate in the workshop and discover how school campaigns
+from the 1950s to today have shaped our shared values.&nbsp;Register now!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Punggol Regional Library</div><div class="isomer-card-description">3 Oct - 30 Oct</div><div class="isomer-card-link">Register here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card">
 <div class="isomer-card-body">
@@ -27,7 +30,7 @@ from school campaigns in Singapore, past and present.</p>
 <div class="isomer-card-description">4 Nov – 4 Dec</div>
 <div class="isomer-card-link">Register here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Central Lending Library </div><div class="isomer-card-description">9 – 30 Dec </div><div class="isomer-card-link">Register here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Central Lending Library</div><div class="isomer-card-description">9 – 30 Dec</div><div class="isomer-card-link">Register here</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Academy of Singapore Teachers Library (For MOE staff)</div><div class="isomer-card-description">5 Jan – 6 Feb 2026</div><div class="isomer-card-link">Register here</div></div></a>
@@ -37,10 +40,10 @@ from school campaigns in Singapore, past and present.</p>
 <div class="isomer-card-description">10 Feb – 3 Mar 2026</div>
 <div class="isomer-card-link">Register here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SAFRA Jurong </div><div class="isomer-card-description">14 Mar – 22 Mar 2026</div><div class="isomer-card-link">Register here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SAFRA Jurong</div><div class="isomer-card-description">14 Mar – 22 Mar 2026</div><div class="isomer-card-link">Register here</div></div></a>
 </div>
 <h2></h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Bishan Public Library</div><div class="isomer-card-description">1 Apr – 30 Apr 2026 </div><div class="isomer-card-link">Register here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Bishan Public Library</div><div class="isomer-card-description">1 Apr – 30 Apr 2026</div><div class="isomer-card-link">Register here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">HomeTeamNS Khatib</div>
@@ -49,11 +52,8 @@ from school campaigns in Singapore, past and present.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">MOE Heritage Centre</div><div class="isomer-card-description">Jul – Dec 2026</div><div class="isomer-card-link">Register here</div></div></a>
 </div>
-<h2>Interactive Workshops</h2>
-<p>Inspired by the roving exhibition, we will be running workshops that aims
-to connect the past, present, and future of school campaigns in Singapore.
-Participate in the workshop and discover how school campaigns from the
-1950s to today have shaped our shared values.&nbsp;Register here</p>
+<h2></h2>
+<p></p>
 <h2>Exhibition Highlights</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
