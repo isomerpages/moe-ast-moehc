@@ -42,7 +42,6 @@ from the 1950s to today have shaped our shared values.&nbsp;Register now!</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SAFRA Jurong</div><div class="isomer-card-description">14 Mar – 22 Mar 2026</div><div class="isomer-card-link">Register here</div></div></a>
 </div>
-<h2> </h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by.png">
