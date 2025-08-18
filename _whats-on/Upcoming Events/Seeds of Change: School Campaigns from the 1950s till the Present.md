@@ -42,61 +42,6 @@ from the 1950s to today have shaped our shared values.&nbsp;Register now!</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">SAFRA Jurong</div><div class="isomer-card-description">14 Mar – 22 Mar 2026</div><div class="isomer-card-link">Register here</div></div></a>
 </div>
-<h2></h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Bishan Public Library</div><div class="isomer-card-description">1 Apr – 30 Apr 2026</div><div class="isomer-card-link">Register here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">HomeTeamNS Khatib</div>
-<div class="isomer-card-description">May 2026</div>
-<div class="isomer-card-link">Register here</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">MOE Heritage Centre</div><div class="isomer-card-description">Jul – Dec 2026</div><div class="isomer-card-link">Register here</div></div></a>
-</div>
-<h2></h2>
-<p></p>
-<h2>Exhibition Highlights</h2>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="In commemoration of Singapore’s 60th year of independence, this exhibition by MOE Heritage Centre revisits school campaigns from the nation’s first days of self-government in the 1950s till today." src="/images/low_res_drink_milk.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">HEALTH &amp; WELLNESS</div>
-<div class="isomer-card-description">From milk and vaccinations in the 1960s to cyber and mental wellness,
-school campaigns have always evolved to support student well-being.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="school campaigns on clean and green" src="/images/Use_Your_Hands_Campaign_3.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CLEAN &amp; GREEN</div>
-<div class="isomer-card-description">From a Garden City to a City in a Garden, and now a City in Nature – Singapore’s
-green vision has come a long way since the 1960s. Supporting this journey,
-teachers have led by example, rallying students with brooms, rags, and
-changkuls in hand.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="HABITS &amp; VALUES" src="/images/low_res_road_safety.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">HABITS &amp; VALUES</div>
-<div class="isomer-card-description">Did you know teachers have been at the heart of campaigns shaping Singapore's
-youth for decades? From fostering courtesy to shaping language practices
-for better learning, their impact extends far beyond the classroom.</div>
-</div>
-</div>
-</div>
-<h2>&lt;Insert&nbsp;high-res graphics of exhibition panels in (3 x 3 layout)&gt;&nbsp;</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by.png">
