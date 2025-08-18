@@ -369,7 +369,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestS36.png">
 <img align="left" style="width:18%;margin-left:125px;" src="/images/crestS37.jpg">
-<img align="right" style="width:30%;margin-right:15px;" src="/images/crestS38.png">
+<img align="right" style="width:20%;margin-right:15px;" src="/images/crestS38.png">
 
 <br clear="left">
 
@@ -399,7 +399,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestS45.png">
 <img align="left" style="width:23%;margin-left:105px;" src="/images/crestss1.jpg">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestss2.jpg">
+<img align="right" style="width:16%;margin-right:45px;" src="/images/crestss2.jpg">
 
 <br clear="left">
 

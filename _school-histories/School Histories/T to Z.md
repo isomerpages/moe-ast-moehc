@@ -31,7 +31,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:100px;" src="/images/crestT7.png">
 <img align="left" style="width:20%;margin-left:80px;" src="/images/crestT8.jpg">
-<img align="right" style="width:16%;margin-right:50px;" src="/images/crestT9.png">
+<img align="right" style="width:14%;margin-right:50px;" src="/images/crestT9.png">
 
 <br clear="left">
 
@@ -40,7 +40,7 @@ third_nav_title: School Histories
 |[Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/)| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) |
 
 <img align="left" style="width:20%;margin-left:60px;" src="/images/crestT10.png">
-<img align="right" style="width:20%;margin-right:100px;" src="/images/crestT11.png">
+<img align="right" style="width:18%;margin-right:120px;" src="/images/crestT11.png">
 
 <br clear="left">
 
@@ -48,8 +48,8 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
 
-<img align="left" style="width:25%;margin-left:85px;" src="/images/crestT12.png">
-<img align="right" style="width:18%;margin-right:65px;" src="/images/crestT13.png">
+<img align="left" style="width:25%;margin-left:60px;" src="/images/crestT12.png">
+<img align="right" style="width:14%;margin-right:120px;" src="/images/crestT13.png">
 
 <br clear="left">
 
@@ -59,7 +59,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestT14.png">
 <img align="left" style="width:18%;margin-left:135px;" src="/images/crestT15.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestT16.png">
+<img align="right" style="width:15%;margin-right:55px;" src="/images/crestT16.png">
 
 <br clear="left">
 
@@ -69,7 +69,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:55px;" src="/images/crestT17.png">
 <img align="left" style="width:15%;margin-left:145px;" src="/images/crestT18.png">
-<img align="right" style="width:22%;margin-right:45px;" src="/images/crestT19.png">
+<img align="right" style="width:20%;margin-right:45px;" src="/images/crestT19.png">
 
 <br clear="left">
 
@@ -79,7 +79,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestT20.png">
 <img align="left" style="width:20%;margin-left:115px;" src="/images/crestT21.png">
-<img align="right" style="width:20%;margin-right:45px;" src="/images/crestT22.png">
+<img align="right" style="width:18%;margin-right:45px;" src="/images/crestT22.png">
 
 <br clear="left">
 
@@ -89,7 +89,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestT23.jpg">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestT24.png">
-<img align="right" style="width:18%;margin-right:45px;" src="/images/crestT25.jpg">
+<img align="right" style="width:16%;margin-right:45px;" src="/images/crestT25.jpg">
 
 <br clear="left">
 
