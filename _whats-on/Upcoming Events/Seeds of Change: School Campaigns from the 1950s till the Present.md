@@ -8,6 +8,12 @@ third_nav_title: Upcoming Events
 <h3><strong>An SG60 Roving Exhibition by The MOE Heritage Centre</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masthead.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/work_in_progress.png">
 </div>
 <p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
