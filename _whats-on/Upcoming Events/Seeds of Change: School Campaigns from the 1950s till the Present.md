@@ -5,10 +5,11 @@ variant: tiptap
 description: MOE, roving exhibition, MOE Heritage Centre, School campaigns.
 third_nav_title: Upcoming Events
 ---
+<h3><strong>An SG60 Roving Exhibition by The MOE Heritage Centre</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/seeds_of_change_Draft.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/work_in_progress.png">
 </div>
-<h3><strong>3 OCTOBER 2025 – 31 DECEMBER 2026</strong></h3>
 <p>Presented by MOE Heritage Centre, Academy of Singapore Teachers and The
 Ministry of Education, the roving exhibition revisits school campaigns
 from the nation’s first days of self-government in the 1950s till today.</p>
