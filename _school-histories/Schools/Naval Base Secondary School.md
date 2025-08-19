@@ -15,55 +15,18 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYU1f6gJ-Utr5QuD2cS0bpl5PldLbu1wPDpSHSe_8jQwSfjOYvuEkAlGjK0TMlwlrkJRk5imgTCtgp/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/navalbasesec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec2.jpg">
-</a></p>
-
-<p><a href="/images/navalbasesec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec3.jpg">
-</a></p>
-
-<p><a href="/images/navalbasesec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/navalbasesec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec5.jpg">
-</a></p>
-
-<p><a href="/images/navalbasesec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec6.jpg">
-</a></p>
-
-<p><a href="/images/navalbasesec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/navalbasesec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec8.jpg">
-</a></p>
-
-<p><a href="/images/navalbasesec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/navalbasesec9.jpg">
-</a></p>
 
 <br clear="left">
 
 #### **School History**
 
-Whitley Secondary School was established on 4 January 1965, one of the few schools in Singapore that shares the same ‘birth year’ as the nation. Over the decades, the school has nurtured generations of sportsmen and civic-minded citizens who contribute with great distinction in industry, community and public service. Originally located at the junction of Whitley and Dunearn roads, the school shifted to its present site in Bishan New Town in 1992. The campus underwent redevelopment from 2006 to 2007, during which time the school was temporarily located at Toa Payoh Lorong 1.
+Established in 1957, Naval Base Secondary School (NBSS) started as a full school known as Naval Base School on Bah Tan Road, offering education to the children of the British naval base employees. Naval Base School was the only full government English-medium school back then. In 1968, Naval Base School became a secondary school when the primary section was transferred to Canberra School.
 
-Whitley Secondary School’s vision of ‘A Caring and Learning Community of Leaders’ has been the driving force behind its focus on developing students to their fullest potential so that they are able to serve the community, anchored in the school values of Perseverance, Respect, Integrity, Discipline and Empathy. The school is committed to delivering a holistic and engaging curriculum that develops future-ready learners who lead, serve and achieve. This is done through an assortment of strategies and programmes, focused on building a strong foundation for academic success, nurturing their leadership skills and allowing students to pursue their interests and strengths.
+In 1988, NBSS relocated to its present premises at Yishun Ring Road. In 2000, the school became single session. In 2007, the school celebrated its 50th anniversary. Two years later, Naval Base Secondary School completed its PRIME upgrading.
 
-The school also actively seeks out meaningful and relevant partnerships to support and provide students with a broad array of opportunities to discover their passions. Whitley Secondary has two distinctive programmes: ‘Communicative Arts’ and ‘Active Citizenship for Social Change’.
+In 2012, NBSS gained niche status in visual arts. In 2014, the school was accorded the Applied Learning Programme (ALP) in art. The ALP is rooted in the school’s belief in the transformative power of art and its ability to expand students’ perceptions of the world around them as well as the potential for self-discovery and expression. In 2014, the school was accorded the Learning for Life Programme (LLP) in character education through sports. The LLP is anchored on the belief that sports provide an authentic platform for character development. The LLP promotes active living where students enjoy and engage in movement activities and develop a solid foundation for a balanced lifestyle. In 2015, NBSS began offering the Enhanced Art Programme.
 
-‘Communicative Arts’, the school’s Applied Learning Programme, helps students improve their communication skills through platforms such as drama, conducting interviews and talk shows, public speaking and debates. It aims to nurture confident and self-directed learners who are able to apply their information and communication competencies effectively in their life and future careers.
-
-The school’s Learning for Life Programme, ‘Active Citizenship for Social Change’, is designed to expose and engage students in various social issues, and to promote empowerment and a sense of community among students. It aims to positively impact community issues by fostering empathy and nurturing a spirit of active participation in students.
+The school’s ALP and LLP are testament of the school’s commitment to the holistic development of students. In 2017, NBSS celebrated its 60th anniversary. In 2022, NBSS celebrated its 65th anniversary since its founding at the Bah Tan Road campus in 1957. To commemorate this milestone, the school organised a series of celebrations involving various key stakeholders of the school such as NB65 Photo Formation, NB65 Water Bottle, Visit by Fandi Ahmad, NB65 Commemorative T-Shirts, and NBSS Plants 65 Trees – In and Around School
 
 Principals:<br>
 \- Mr Wong Quek Boon (1958–1960)<br>
@@ -100,7 +63,7 @@ Enitamur In Altiora
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/navalbasesec1.png">
 
-The lion embodies Singapore. It exhorts one to take pride in the national identity, have a sense of belonging to Singapore and be committed to nation-building. The lion also symbolises bravery (strength in character) and courage (strength of the mind). The open book symbolises the importance of a good education and the constant pursuit of knowledge to achieve success. The four yellow lines represent the four ethnic groups in Singapore working and living together in harmony. The blue background shows the school’s commitment to integrate new citizens, as it values Singapore’s sociocultural diversity and promotes social cohesion and harmony. The three rings are inspired by the Olympics, and they represent excellence in both performance and moral character, which translates to academic excellence and in the school’s distinct programmes such as the Sports and the Arts
+The lion embodies Singapore. It exhorts one to take pride in the national identity, have a sense of belonging to Singapore and be committed to nation-building. The lion also symbolises bravery (strength in character) and courage (strength of the mind). The open book symbolises the importance of a good education and the constant pursuit of knowledge to achieve success. The four yellow lines represent the four ethnic groups in Singapore working and living together in harmony. The blue background shows the school’s commitment to integrate new citizens, as it values Singapore’s sociocultural diversity and promotes social cohesion and harmony. The three rings are inspired by the Olympics, and they represent excellence in both performance and moral character, which translates to academic excellence and in the school’s distinct programmes such as the Sports and the Arts.
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/16m5BH-91vii8zZsnvZLRg3L6GAQwIiNQ/view?usp=share_link">**♫ Listen**</a>
