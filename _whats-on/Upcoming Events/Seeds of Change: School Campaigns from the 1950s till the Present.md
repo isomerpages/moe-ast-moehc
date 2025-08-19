@@ -30,7 +30,7 @@ from school campaigns in Singapore, past and present.&nbsp;</p>
 <h3>Roving island-wide</h3>
 <p></p>
 <p>Check out the roving exhibition at these venues!</p>
-<p><strong>Punggol Regional Library: 1 – 31 Oct 2025</strong>
+<p><strong>Punggol Regional Library: 1 – 31 Oct 2025 </strong>
 </p>
 <p><strong>Bedok Library: 1 Nov – 7 Dec 2025</strong>
 </p>
