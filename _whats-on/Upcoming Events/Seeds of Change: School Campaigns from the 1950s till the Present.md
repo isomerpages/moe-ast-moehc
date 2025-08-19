@@ -5,7 +5,6 @@ variant: tiptap
 description: MOE, roving exhibition, MOE Heritage Centre, School campaigns.
 third_nav_title: Upcoming Events
 ---
-<h3><strong>An SG60 Roving Exhibition by The MOE Heritage Centre</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masthead.png">
@@ -16,6 +15,8 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/work_in_progress.png">
 </div>
+<p>This webpage is a work in progress. Please check back again for updates.</p>
+<h3><strong>An SG60 Roving Exhibition by the MOE Heritage Centre</strong></h3>
 <p>Presented by&nbsp;the MOE Heritage Centre,&nbsp;Seeds of Change:&nbsp;School
 Campaigns from the 1950s till the Present revisits school campaigns from
 the nation’s first days of self-government in the 1950s till today.&nbsp;</p>
