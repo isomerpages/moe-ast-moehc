@@ -30,22 +30,40 @@ from school campaigns in Singapore, past and present.&nbsp;</p>
 <h3>Roving island-wide</h3>
 <p></p>
 <p>Check out the roving exhibition at these venues!</p>
-<p><strong>Punggol Regional Library: 1 – 31 Oct 2025 </strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Punggol Regional Library: 1 – 31 Oct 2025</strong>
 </p>
+</li>
+<li>
 <p><strong>Bedok Library: 1 Nov – 7 Dec 2025</strong>
 </p>
+</li>
+<li>
 <p><strong>Central Lending Library: 8 – 31 Dec 2025</strong>
 </p>
+</li>
+<li>
 <p><strong>Kampong Admiralty: 10 Feb – 03 Mar 2026</strong>
 </p>
+</li>
+<li>
 <p><strong>SAFRA Jurong: 14 – 22 Mar 2026</strong>
 </p>
+</li>
+<li>
 <p><strong>Bishan Library: 1 – 30 Apr 2026</strong>
 </p>
+</li>
+<li>
 <p><strong>HomeTeam NS @ Khatib: May – Jun 2026</strong>
 </p>
+</li>
+<li>
 <p><strong>MOE Heritage Centre: 1 Jul - 30 Dec 2026</strong>
 </p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
