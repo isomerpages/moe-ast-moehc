@@ -27,10 +27,7 @@ the support of teachers and&nbsp;the&nbsp;school community.&nbsp;</p>
 with rags and pails to show we care,&nbsp;revisit&nbsp;the familiar scenes
 from school campaigns in Singapore, past and present.&nbsp;</p>
 <h3>Roving island-wide</h3>
-<p>Inspired by the roving exhibition, we will be running interactive workshops
-that aims to connect the past, present, and future of school campaigns
-in Singapore. Participate in the workshop and discover how school campaigns
-from the 1950s to today have shaped our shared values.&nbsp;Register now!</p>
+<p></p>
 <p>Check out the roving exhibition at these venues!</p>
 <p><strong>Punggol Regional Library: 1 – 31 Oct 2025</strong>
 </p>
@@ -49,7 +46,7 @@ from the 1950s to today have shaped our shared values.&nbsp;Register now!</p>
 <p><strong>MOE Heritage Centre: 1 Jul - 30 Dec 2026</strong>
 </p>
 <p></p>
-<p>Interactive</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by.png">
 </div>
