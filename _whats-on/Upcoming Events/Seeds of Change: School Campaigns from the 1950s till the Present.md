@@ -25,11 +25,28 @@ cleaner and greener environment for them and shape their habits and values.
 From brushing our teeth by the tuckshop drain to cleaning our classrooms
 with rags and pails to show we care, these are some of the familiar scenes
 from school campaigns in Singapore, past and present.</p>
-<h3>Roving island-wide to these locations.</h3>
+<h3>Roving island-wide </h3>
 <p>Inspired by the roving exhibition, we will be running interactive workshops
 that aims to connect the past, present, and future of school campaigns
 in Singapore. Participate in the workshop and discover how school campaigns
 from the 1950s to today have shaped our shared values.&nbsp;Register now!</p>
+<p>Check out the roving exhibition at these venues!</p>
+<p><strong>Punggol Regional Library: 1 – 31 Oct 2025</strong>
+</p>
+<p><strong>Bedok Library: 1 Nov – 7 Dec 2025</strong>
+</p>
+<p><strong>Central Lending Library: 8 – 31 Dec 2025</strong>
+</p>
+<p><strong>Kampong Admiralty: 10 Feb – 03 Mar 2026</strong>
+</p>
+<p><strong>SAFRA Jurong: 14 – 22 Mar 2026</strong>
+</p>
+<p><strong>Bishan Library: 1 – 30 Apr 2026</strong>
+</p>
+<p><strong>HomeTeam NS @ Khatib: May – Jun 2026</strong>
+</p>
+<p><strong>MOE Heritage Centre: 1 Jul - 30 Dec 2026</strong>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Punggol Regional Library</div><div class="isomer-card-description">3 Oct - 30 Oct</div><div class="isomer-card-link">Register here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/688c141ed47de8160abc3730" class="isomer-card">
 <div class="isomer-card-body">
