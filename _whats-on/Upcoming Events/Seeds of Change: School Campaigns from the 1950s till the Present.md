@@ -25,8 +25,8 @@ improve the health and wellness of school children, create a cleaner and
 greener&nbsp;environment&nbsp;and shape their habits and values&nbsp;with
 the support of teachers and&nbsp;the&nbsp;school community.&nbsp;</p>
 <p>From&nbsp;brushing our teeth by the tuckshop drain to cleaning our classrooms
-with rags and pails to show we care,&nbsp;revisit&nbsp;the familiar scenes
-from school campaigns in Singapore, past and present.&nbsp;</p>
+with rags and pails,&nbsp;revisit&nbsp;the familiar scenes from school
+campaigns in Singapore, past and present.&nbsp;</p>
 <h3>Roving island-wide</h3>
 <p></p>
 <p>Check out the roving exhibition at these venues!</p>
