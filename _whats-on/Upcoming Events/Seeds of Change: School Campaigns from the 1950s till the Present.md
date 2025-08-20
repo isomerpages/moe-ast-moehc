@@ -32,19 +32,19 @@ campaigns in Singapore, past and present.&nbsp;</p>
 <p>Check out the roving exhibition at these venues!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Punggol Regional Library: 1 – 31 Oct 2025</strong>
+<p><strong>Punggol Regional Library: 3 – 30 Oct 2025</strong>
 </p>
 </li>
 <li>
-<p><strong>Bedok Library: 1 Nov – 7 Dec 2025</strong>
+<p><strong>Bedok Library: 4 Nov – 4 Dec 2025</strong>
 </p>
 </li>
 <li>
-<p><strong>Central Lending Library: 8 – 31 Dec 2025</strong>
+<p><strong>Central Lending Library: 9 – 30 Dec 2025</strong>
 </p>
 </li>
 <li>
-<p><strong>Kampong Admiralty: 10 Feb – 03 Mar 2026</strong>
+<p><strong>Kampong Admiralty: 10 Feb – 02 Mar 2026</strong>
 </p>
 </li>
 <li>
@@ -52,7 +52,7 @@ campaigns in Singapore, past and present.&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>Bishan Library: 1 – 30 Apr 2026</strong>
+<p><strong>Bishan Library: 2 – 29 Apr 2026</strong>
 </p>
 </li>
 <li>
@@ -60,7 +60,7 @@ campaigns in Singapore, past and present.&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>MOE Heritage Centre: 1 Jul - 30 Dec 2026</strong>
+<p><strong>MOE Heritage Centre: Jul - Dec 2026</strong>
 </p>
 </li>
 </ul>
