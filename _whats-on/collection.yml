@@ -2,6 +2,7 @@ collections:
   whats-on:
     output: true
     order:
+      - Upcoming Events/MOE Pioneer &Merdeka Educators Get together 2025.md
       - "Upcoming Events/Seeds of Change: School Campaigns from the 1950s till
         the Present.md"
       - Upcoming Events/.keep
