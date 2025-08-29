@@ -40,7 +40,7 @@ third_nav_title: School Histories
 |[Tanjong Katong Primary School](/school-histories/tanjong-katong-pri/)| [Tanjong Katong Secondary School](/school-histories/tanjong-katong-sec/) |
 
 <img align="left" style="width:20%;margin-left:60px;" src="/images/crestT10.png">
-<img align="right" style="width:18%;margin-right:120px;" src="/images/crestT11.png">
+<img align="right" style="width:18%;margin-right:180px;" src="/images/crestT11.png">
 
 <br clear="left">
 
@@ -49,7 +49,7 @@ third_nav_title: School Histories
 | [Tanjong Rhu Boys' School](/school-histories/tanjong-rhu-boys-sch/) | [Tanjong Rhu Girls' School](/school-histories/tanjong-rhu-girls-sch/) |
 
 <img align="left" style="width:25%;margin-left:60px;" src="/images/crestT12.png">
-<img align="right" style="width:14%;margin-right:120px;" src="/images/crestT13.png">
+<img align="right" style="width:14%;margin-right:180px;" src="/images/crestT13.png">
 
 <br clear="left">
 
