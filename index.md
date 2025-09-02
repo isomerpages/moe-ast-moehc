@@ -31,7 +31,7 @@ sections:
       description: Come and experience the exhibition!
       button: Click here
       url: /seeds-of-change-school-campaigns-from-the-1950s-till-the-present/
-      image: /images/Masthead.png
+      image: /images/Masthead_final.png
       alt: Image alt text
   - infopic:
       subtitle: Spotlight 2
