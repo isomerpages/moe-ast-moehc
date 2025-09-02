@@ -12,18 +12,17 @@ third_nav_title: Upcoming Events
 <p></p>
 <p></p>
 <h3><strong>An SG60 Roving Exhibition by the MOE Heritage Centre</strong></h3>
-<p>Presented by&nbsp;the MOE Heritage Centre,&nbsp;Seeds of Change:&nbsp;School
-Campaigns from the 1950s till the Present revisits school campaigns from
-the nation’s first days of self-government in the 1950s till today.&nbsp;</p>
-<p>Take a walk down memory lane to rediscover the many varied campaigns that&nbsp;sought&nbsp;to
-improve the health and wellness of school children, create a cleaner and
-greener&nbsp;environment&nbsp;and shape their habits and values&nbsp;with
-the support of teachers and&nbsp;the&nbsp;school community.&nbsp;</p>
-<p>From&nbsp;brushing our teeth by the tuckshop drain to cleaning our classrooms
-with rags and pails,&nbsp;revisit&nbsp;the familiar scenes from school
-campaigns in Singapore, past and present.&nbsp;</p>
-<h3>Roving island-wide</h3>
+<p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
+and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
 <p></p>
+<p><em>Seeds of Change: School Campaigns from the 1950s till the Present</em> spotlights
+the role of teachers and partners in education in transforming the lives
+of students through school campaigns associated with health and wellness;
+cleaning and greening; and habits and values.&nbsp;</p>
+<p>The exhibition also encourages meaningful conversations and exchanges
+of stories across generations on schooling experiences, our shared values
+and beliefs, and our vision for Singapore as we journey ahead together.</p>
+<h3>Roving island-wide</h3>
 <p>Check out the roving exhibition at these venues!</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,6 +38,10 @@ campaigns in Singapore, past and present.&nbsp;</p>
 </p>
 </li>
 <li>
+<p><strong>Academy of Singapore Teachers: 5 Jan – 6 Feb 2026 (For MOE staff)</strong>
+</p>
+</li>
+<li>
 <p><strong>Kampong Admiralty: 10 Feb – 02 Mar 2026</strong>
 </p>
 </li>
@@ -51,17 +54,17 @@ campaigns in Singapore, past and present.&nbsp;</p>
 </p>
 </li>
 <li>
-<p><strong>HomeTeam NS @ Khatib: May – Jun 2026</strong>
+<p><strong>HomeTeam NS @ Khatib: May 2026</strong>
 </p>
 </li>
 <li>
-<p><strong>MOE Heritage Centre: Jul - Dec 2026</strong>
+<p><strong>MOE Heritage Centre: Jun - Dec 2026</strong>
 </p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by_Final.png">
 </div>
+<p></p>
 <p></p>
