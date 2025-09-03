@@ -25,18 +25,27 @@ sections:
           url: https://form.gov.sg/5d5ce49deae0bb00128b8ef5
       variant: center
   - infopic:
-      title: School Histories
-      subtitle: Spotlight
-      description: Explore the rich histories of our schools in this online repository.
-      button: Click Here
-      url: /school-histories/
+      title: An SG60 Roving Exhibition by the MOE Heritage Centre
+      subtitle: Spotlight 1
+      id: infopic
+      description: Come and experience the exhibition!
+      button: Click here
+      url: /seeds-of-change-school-campaigns-from-the-1950s-till-the-present/
+      image: /images/Masthead_final.png
       alt: Image alt text
-      image: /images/HC pages/00_highlight01.png
   - infopic:
-      subtitle: Spotlight
+      subtitle: Spotlight 2
       description: Explore selected content from our gallery here
       button: CLICK HERE
       url: /explore/
       image: /images/HC pages/00_highlight02.png
       alt: Image alt text
+  - infopic:
+      title: School Histories
+      subtitle: Spotlight 3
+      description: Explore the rich histories of our schools in this online repository.
+      button: Click Here
+      url: /school-histories/
+      alt: Image alt text
+      image: /images/HC pages/00_highlight01.png
 ---
