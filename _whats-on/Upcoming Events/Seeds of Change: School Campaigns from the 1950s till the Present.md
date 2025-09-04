@@ -5,17 +5,19 @@ variant: tiptap
 description: MOE, roving exhibition, MOE Heritage Centre, School campaigns.
 third_nav_title: Upcoming Events
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masthead_final.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Intro_Panel___lo_res.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Intro_Panel___lo_res.png">
 </div>
-<h3><strong>An SG60 Roving Exhibition by the MOE Heritage Centre</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Conclusion_1.png">
+</div>
+<h3><strong>An SG60 Roving Exhibition by the MOEHeritage Centre</strong></h3>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
 <p></p>
