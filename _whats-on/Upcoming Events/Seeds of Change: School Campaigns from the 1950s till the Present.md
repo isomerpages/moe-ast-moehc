@@ -17,6 +17,11 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Conclusion_1.png">
 </div>
+<p></p>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
+</div>
 <h3><strong>An SG60 Roving Exhibition by the MOEHeritage Centre</strong></h3>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
