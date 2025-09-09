@@ -9,20 +9,18 @@ third_nav_title: Upcoming Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masthead_final.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Intro_Panel___lo_res.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/intro_panel_for_web.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Conclusion_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conclusion_panel_for_web.png">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
-</div>
-<h3><strong>An SG60 Roving Exhibition by the MOEHeritage Centre</strong></h3>
+<h3><strong>SG60 Roving Exhibition by the MOE Heritage Centre</strong></h3>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
 <p></p>
@@ -31,7 +29,7 @@ the role of teachers and partners in education in transforming the lives
 of students through school campaigns associated with health and wellness;
 cleaning and greening; and habits and values.&nbsp;</p>
 <p>The exhibition also encourages meaningful conversations and exchanges
-of stories across generations on schooling experiences, our shared values
+of stories across generations on school life experiences, our shared values
 and beliefs, and our vision for Singapore as we journey ahead together.</p>
 <h3>Roving island-wide</h3>
 <p>Check out the roving exhibition at these venues!</p>

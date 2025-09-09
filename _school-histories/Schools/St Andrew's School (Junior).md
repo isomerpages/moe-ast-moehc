@@ -1,5 +1,5 @@
 ---
-title: St Andrew's Junior School
+title: St Andrew's School (Junior)
 permalink: /school-histories/st-andrew-junior-sch/
 description: ""
 third_nav_title: Schools
