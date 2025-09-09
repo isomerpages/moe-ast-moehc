@@ -3,10 +3,11 @@ title: St Andrew's Secondary School
 permalink: /school-histories/st-andrew-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/standrewsec1.png">
 
-### **St Andrew's Secondary School**
+### **St Andrew's School (Secondary)**
 [URL to website](https://www.standrewssec.moe.edu.sg/)
 <br clear="left">
 
@@ -14,37 +15,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDmGoFdU3-qhAeUpYGs_k6_LkRRHVNJ4SdvrztG6cNZ7m_hSA4iA20U8_DW7vMeysxpOIxPdzGmI-1/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/standrewsec2.jpg">  
-<img align="left" style="width:29%;margin-right:15px;margin-left:5px" src="/images/standrewsec2.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewsec3.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/standrewsec4.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewsec5.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewsec6.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec7.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/standrewsec7.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewsec8.jpg">
-</a></p>
-
-<p><a href="/images/standrewsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/standrewsec9.jpg">
-</a></p>
 
 <br clear="left">
 

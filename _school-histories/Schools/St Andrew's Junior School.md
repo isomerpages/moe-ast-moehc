@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/standrewjuniorsch1.png">
 
-### **St Andrew's Junior School**
+### **St Andrew's School (Junior)**
 [URL to website](https://www.saintandrewsjunior.moe.edu.sg/)
 <br clear="left">
 
