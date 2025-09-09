@@ -3,10 +3,11 @@ title: St Andrew's Secondary School
 permalink: /school-histories/st-andrew-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/standrewsec1.png">
 
-### **St Andrew's Secondary School**
+### **St Andrew's School (Secondary)**
 [URL to website](https://www.standrewssec.moe.edu.sg/)
 <br clear="left">
 
