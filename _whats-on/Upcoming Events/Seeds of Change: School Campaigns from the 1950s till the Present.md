@@ -35,6 +35,10 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 <p>Check out the roving exhibition at these venues!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>MOE Heritage Centre: 18 Sep – 30 Sep 2025</strong>
+</p>
+</li>
+<li>
 <p><strong>Punggol Regional Library: 3 – 30 Oct 2025</strong>
 </p>
 </li>
