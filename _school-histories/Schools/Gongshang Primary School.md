@@ -71,7 +71,7 @@ The triangle symbolises the tripartite relationships of the School Advisory Comm
 Red signifies enthusiasm, diligence and respect while yellow symbolises honesty and brightness.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1rndKbb7P86zfL3J0nE-PNT0Hhm3Xz6HH/view?usp=share_link">**♫ Listen**</a> 
+<a target="\_blank" href="https://drive.google.com/file/d/1bhSulbrCkC2Oi0bCwhV5Tk4HXpY8SnlJ/view?usp=drive_link">**♫ Listen**</a> 
 
 Gongshang, Gongshang here’s where we belong,<br>
 Our skills and knowledge ever will grow strong.<br>
