@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/Gongshang_Pri.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/GSPS_Crest_2024_Bitmap.png">
+
 
 ### **Gongshang Primary School**
 [URL to website](https://gongshangpri.moe.edu.sg/)
@@ -14,36 +15,6 @@ variant: markdown
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1VDVC3yG_sJF5CmPxEYBJdAfLnqIyUL3Hr90urJyDfujnD-Gxk6WUtti3xCU3fziZNcrdl7WiN-9x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<p><a href="/images/gongshangpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri2.jpg">
-</a></p>
-
-<p><a href="/images/gongshangpri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/gongshangpri4.jpg">
-</a></p>
-
-<p><a href="/images/gongshangpri3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/gongshangpri3.jpg">
-</a></p>
-
-<p><a href="/images/gongshangpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/gongshangpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri6.jpg">
-</a></p>
-
-<p><a href="/images/gongshangpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri7.jpg">
-</a></p>
-
-<p><a href="/images/gongshangpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/gongshangpri8.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -89,7 +60,7 @@ Perseverance, Thrift, Integrity and Respect
 <br>勤俭诚敬）
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/gongshangpri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/GSPS_Crest_2024_Bitmap.png">
 
 The ball with the Chinese characters 'Gongshang' (工商) symbolises acquisition of an all-round education.
 
