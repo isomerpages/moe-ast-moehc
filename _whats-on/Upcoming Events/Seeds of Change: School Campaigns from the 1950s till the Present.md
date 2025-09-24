@@ -76,8 +76,8 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by_Final.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by_Final_2.png">
+</div>
 <p></p>
