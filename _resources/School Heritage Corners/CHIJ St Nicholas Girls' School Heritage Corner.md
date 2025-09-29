@@ -101,14 +101,6 @@ fostering curiosity, pride, and a lasting connection with the heritage
 and traditions that continue to shape their school journey.&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
