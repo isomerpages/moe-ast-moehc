@@ -26,18 +26,29 @@ was completed in 2024.&nbsp;&nbsp;</p>
 Girls' School was established with the mission to provide holistic education
 for Chinese girls, rooted in Catholic values.&nbsp; Originally located
 at Victoria Street, the school relocated to its current home at Ang Mo
-Kio in 198</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
-</div>
+Kio in 1983.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>d</p>
+<p>The St Nicholas Girls' School Heritage Corner is a 100 square metre interactive
+space located in the Family Lounge and adjacent to the existing heritage
+corridor. Created to celebrate the school's 90th anniversary, this enhanced
+heritage corner complements the current heritage corridor by focusing on
+personal micro-narratives, individual stories, and the IJ mission rather
+than macro developments, like events and anniversaries. The corner features
+interactive elements including magnetic boards for sharing memories, digital
+screen, jukebox of notable school songs, and first-person captions to spark
+conversation. This design enables students, alumnae, and visitors to forge
+deeper emotional connections with the school's heritage, fostering identity
+and belonging whilst highlighting St Nicholas's unique role as Singapore's
+only all-girl, Catholic-mission SAP school.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +74,11 @@ an engaging auditory journey through our shared heritage and traditions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The heritage corner thrives as a living repository where stakeholders
+and visitors are invited to contribute meaningful artefacts representing
+cherished memories. This alumni-donated LEGO replica of the iconic school
+clocktower captures the school’s legacy through the authentic perspectives
+and experiences of current students and devoted alumni across generations.</p>
 </td>
 </tr>
 <tr>
