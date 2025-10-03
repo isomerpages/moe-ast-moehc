@@ -22,7 +22,7 @@ third_nav_title: School Heritage Corners
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_2_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
