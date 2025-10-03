@@ -98,7 +98,7 @@ traditions.&nbsp;&nbsp;</p>
 The space is thoughtfully infused into several lessons from Primary 5 to
 Secondary 1, where playful discovery evolves into meaningful learning,
 fostering curiosity, pride, and a lasting connection with the heritage
-and traditions that continue to shape their school journey</p>
+and traditions that continue to shape their school journey.</p>
 </td>
 </tr>
 </tbody>
