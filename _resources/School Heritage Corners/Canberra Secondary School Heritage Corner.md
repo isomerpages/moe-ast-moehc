@@ -34,8 +34,8 @@ to its current premises at 51 Sembawang Drive.&nbsp;&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The <strong>Canberra Secondary School Heritage Gallery</strong>, located
-in the former <strong>Parent Support Group (PSG) Room</strong> and about <strong>half the size of a typical classroom</strong>,
+<p>The Canberra Secondary School Heritage Gallery, located in the former
+Parent Support Group (PSG) Room and about half the size of a typical classroom,
 is designed around the theme “My Nation, My Home, My Future”. It showcases
 the school’s milestones, the heritage of Sembawang, and Singapore’s national
 story through timelines, displays, and artefacts. The gallery connects
