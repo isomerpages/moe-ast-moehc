@@ -23,7 +23,7 @@ third_nav_title: School Heritage Corners
 <p>Canberra Secondary School was founded on 15 January 2000 as a government
 co-educational school to serve the growing Sembawang community. It began
 operations in the present-day Sembawang Secondary School before moving
-to its current premises at 51 Sembawang Drive.&nbsp;</p>
+to its current premises at 51 Sembawang Drive.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -34,15 +34,15 @@ to its current premises at 51 Sembawang Drive.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Canberra Secondary School Heritage Gallery, located in the former
-Parent Support Group (PSG)Room and about half the size of a typical classroom,
-is designed around the theme <em>“My Nation, My Home, My Future”</em>. It
-showcases the school’s milestones, the heritage of Sembawang, and Singapore’s
-national story through timelines, displays, and artifacts. The gallery
-connects students with their roots, nurtures pride in their identity, and
-deepens their appreciation of values such as gratitude, respect, and compassion.
+<p>The <strong>Canberra Secondary School Heritage Gallery</strong>, located
+in the former <strong>Parent Support Group (PSG) Room</strong> and about <strong>half the size of a typical classroom</strong>,
+is designed around the theme “My Nation, My Home, My Future”. It showcases
+the school’s milestones, the heritage of Sembawang, and Singapore’s national
+story through timelines, displays, and artefacts. The gallery connects
+students with their roots, nurtures pride in their identity, and deepens
+their appreciation of values such as gratitude, respect, and compassion.
 It serves as a learning space where history and heritage come alive, inspiring
-Canberrans to honour the past and shape the future.&nbsp;</p>
+Canberrans to honour the past and shape the future.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ Canberrans to honour the past and shape the future.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>A display cabinet showcases artifacts and memories from across Canberra
+<p>A display cabinet showcases artefacts and memories from across Canberra
 Secondary School’s 25 years of history and heritage.&nbsp;</p>
 </td>
 </tr>
@@ -65,8 +65,8 @@ Secondary School’s 25 years of history and heritage.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this display known as ‘A Heart of Memories’, each photo captures the
-smiles, joy, and shared moments of visitors to the Heritage Gallery. Together,
+<p>In this display known as “A Heart of Memories”, each photo captures the
+smiles, joy and shared moments of visitors to the Heritage Gallery. Together,
 they serve as a reminder that heritage lives on through the people who
 learn, grow, and journey with the Canberran family.&nbsp;</p>
 </td>
@@ -82,7 +82,7 @@ learn, grow, and journey with the Canberran family.&nbsp;</p>
 <p>On 8 August 2025, during the school’s National Day Celebration, visitors
 – including beneficiaries whom the school serves – explored the Heritage
 Gallery, celebrating 25 years of Canberra Secondary’s history under the
-theme My Nation, My Home, My Future.&nbsp;</p>
+theme “My Nation, My Home, My Future”.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -92,10 +92,10 @@ theme My Nation, My Home, My Future.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>By exploring the SG60 wall in the Heritage Gallery, students&nbsp;learn
-about Singapore’s journey from its early years to the present. Through
-stories, images, and milestones, they connect with the nation’s heritage
-while reflecting on the theme My Nation, My Home, My Future.&nbsp;</p>
+<p>By exploring the SG60 wall in the Heritage Gallery, students learn about
+Singapore’s journey from its early years to the present. Through stories,
+images, and milestones, they connect with the nation’s heritage while reflecting
+on the theme “My Nation, My Home, My Future”.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -116,8 +116,8 @@ the sealing of its Time Capsule on 8 August 2025. Staff, students, and
 international exchange guests gathered to celebrate the theme “My Nation,
 My Home, My Future”. Displayed in the gallery, this Time Capsule contained
 artefacts representing this specific historical moment, along with the
-hopes and dreams of present students for future "Canberrans" to discover
-in the years to come.</p>
+hopes and dreams of present students for future Canberrans to discover
+in the years to come. &nbsp;</p>
 </td>
 </tr>
 </tbody>

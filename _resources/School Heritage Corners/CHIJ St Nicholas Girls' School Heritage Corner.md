@@ -24,9 +24,8 @@ was completed in 2024.&nbsp;&nbsp;</p>
 <p><strong>CHIJ St Nicholas Girls' School: A Legacy of Excellence</strong>&nbsp;</p>
 <p>Founded in 1933 by the Sisters of the Infant Jesus (IJ), CHIJ St Nicholas
 Girls' School was established with the mission to provide holistic education
-for Chinese girls, rooted in Catholic values.&nbsp; Originally located
-at Victoria Street, the school relocated to its current home at Ang Mo
-Kio in 1983.</p>
+for Chinese girls, rooted in Catholic values. Originally located at Victoria
+Street, the school relocated to its current home at Ang Mo Kio in 1983.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -37,18 +36,18 @@ Kio in 1983.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The St Nicholas Girls' School Heritage Corner is a 100 square metre interactive
+<p>The St Nicholas Girls' School Heritage Corner is a 100-square-metre interactive
 space located in the Family Lounge and adjacent to the existing heritage
 corridor. Created to celebrate the school's 90th anniversary, this enhanced
 heritage corner complements the current heritage corridor by focusing on
 personal micro-narratives, individual stories, and the IJ mission rather
 than macro developments, like events and anniversaries. The corner features
-interactive elements including magnetic boards for sharing memories, digital
-screen, jukebox of notable school songs, and first-person captions to spark
-conversation. This design enables students, alumnae, and visitors to forge
-deeper emotional connections with the school's heritage, fostering identity
-and belonging whilst highlighting St Nicholas's unique role as Singapore's
-only all-girl, Catholic-mission SAP school.&nbsp;</p>
+interactive elements including magnetic boards for sharing memories, a
+digital screen, jukebox of notable school songs, and first-person captions
+to spark conversation. This design enables students, alumnae, and visitors
+to forge deeper emotional connections with the school's heritage, fostering
+identity and belonging whilst highlighting St Nicholas's unique role as
+Singapore's only all-girl, Catholic-mission SAP school.&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +58,7 @@ only all-girl, Catholic-mission SAP school.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Heritage corner transforms storytelling through interactive multimedia
+<p>The Heritage Corner transforms storytelling through interactive multimedia
 experiences. Beyond traditional photographs and displays, the digital jukebox
 invites visitors to immerse themselves in carefully curated songs that
 capture the essence of St Nicholas and IJ's rich cultural identity, creating
@@ -74,7 +73,7 @@ an engaging auditory journey through our shared heritage and traditions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The heritage corner thrives as a living repository where stakeholders
+<p>The Heritage Corner thrives as a living repository where stakeholders
 and visitors are invited to contribute meaningful artefacts representing
 cherished memories. This alumni-donated LEGO replica of the iconic school
 clocktower captures the school’s legacy through the authentic perspectives
@@ -89,16 +88,17 @@ and experiences of current students and devoted alumni across generations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>The heritage corner welcomes diverse external visitors who are brought
+<p>The Heritage Corner welcomes diverse external visitors who are brought
 on guided tours by a dedicated team of trained student-docents. They share
 personal anecdotes and intimate stories, transforming a simple visit into
 an enriching, memorable journey through the school's vibrant heritage and
 traditions.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>Students too uncover the school’s legacy through interactive experiences.
 The space is thoughtfully infused into several lessons from Primary 5 to
 Secondary 1, where playful discovery evolves into meaningful learning,
 fostering curiosity, pride, and a lasting connection with the heritage
-and traditions that continue to shape their school journey.&nbsp;</p>
+and traditions that continue to shape their school journey.</p>
 </td>
 </tr>
 </tbody>
