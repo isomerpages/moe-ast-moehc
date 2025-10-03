@@ -43,7 +43,7 @@ with Brother Patrick Loh appointed as the first principal.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,7 +59,7 @@ history with a fun and memorable experience.&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_4_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cjc5.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,10 +72,10 @@ photo moments.&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_5.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Blessing_of_Heritage_Gallery_c_26_Feb__2_.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ CJC community.&nbsp;&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC5_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ college’s enduring legacy.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
