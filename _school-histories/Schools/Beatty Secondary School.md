@@ -13,41 +13,7 @@ variant: markdown
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnMuZ9K0Sivcnf9ejfyDoqZC3JUMCH3rx6NOiKY8Fi7XOPOqi4k5RbwhOFdr2NHO-zCRbBOJgOQcK5/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/beattysec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec2.jpg">
-</a></p>
 
-<p><a href="/images/beattysec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec3.jpg">
-</a></p>
-
-<p><a href="/images/beattysec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/beattysec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec5.jpg">
-</a></p>
-
-<p><a href="/images/beattysec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec6.jpg">
-</a></p>
-
-<p><a href="/images/beattysec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/beattysec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec8.jpg">
-</a></p>
-
-<p><a href="/images/beattysec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/beattysec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -111,18 +77,16 @@ The colours on the crest, which are the colours of Admiral Earl David Beatty, sy
 <br clear="left">
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/1nphuFuo3HYg03g92dKW4LyuLZ5prIvXB/view?usp=share_link" target="\_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1JHEXE5uHt31JDiizJfEjNT5aSf9zr4-5/view?usp=drive_link" target="\_blank">**♫ Listen**</a>
 
-Faithful And Strong Here Together We Stand.<br>
-Building Our Future With Youth Of Our Land.<br>
-Serving Our School With Hearts Pure And True.<br>
-Sing We Our Motto That Echoes Anew!<br>
-Non Vi Sed Arte, Not With Force But With Skills.<br>
-All To The Task We Our Duty Fulfil.
-&nbsp;  
-Helping Each Other Where'er There Is Need.<br>
-Forward To Glory Our School We Shall Lead.<br>
-Faithful And Strong Here Together We Stand.<br>
-Building Our Future With Youth Of Our Land.<br>
-Serving Our School With Hearts Pure And True.<br>
-Sing We Our Motto That Echoes Anew!
+
+Faithful And Strong Here Together We Stand  
+Building Our Future With Youth Of Our Land  
+Serving Our School With Hearts Pure And True  
+Sing We Our Motto That Echoes Anew
+
+Non Vi Sed Arte, Not With Force But With Skill  
+All To The Task We Our Duty Fulfil
+
+Helping Each Other Where’er There Is Need  
+Forward To Glory Our School We Shall Lead
