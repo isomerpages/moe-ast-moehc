@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/beattysec1.jpg">
+
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/Crest.jpg">
+
 
 ### **Beatty Secondary School**
 [School Website](http://www.beattysec.moe.edu.sg/)
@@ -70,7 +72,8 @@ _Non Vi Sed Arte_
 The motto is Latin for ‘Not With Force But With Skill’.&nbsp;The phrase was derived from the coat of arms of Admiral Earl David Beatty, after whom the school was named.
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/beattysec1.jpg">
+		 
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/Crest.jpg"> 
 
 The colours on the crest, which are the colours of Admiral Earl David Beatty, symbolise unity. The beehive, surrounded by buzzing bees, is derived from Admiral Beatty’s coat of arms. The school crest symbolises the hard work that has to be put in to achieve success.
 
