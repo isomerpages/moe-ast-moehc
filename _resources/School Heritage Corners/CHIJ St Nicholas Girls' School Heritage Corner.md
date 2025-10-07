@@ -92,8 +92,7 @@ and experiences of current students and devoted alumni across generations.</p>
 on guided tours by a dedicated team of trained student-docents. They share
 personal anecdotes and intimate stories, transforming a simple visit into
 an enriching, memorable journey through the school's vibrant heritage and
-traditions.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+traditions.&nbsp;</p>
 <p>Students too uncover the school’s legacy through interactive experiences.
 The space is thoughtfully infused into several lessons from Primary 5 to
 Secondary 1, where playful discovery evolves into meaningful learning,
