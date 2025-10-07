@@ -3,6 +3,7 @@ title: Yishun Town Secondary School
 permalink: /school-histories/yishun-town-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/ytss1.jpg">
 
@@ -15,43 +16,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSe5PpjqK3CLQvYClxYkNYH-j8CdBLgJWzTNLoJ86WPoU-k9oGrHNFFdQjCjHRT3mRo5DNXTZmrfVr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/ytss2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss2.jpg">
-</a></p>
 
-<p><a href="/images/ytss3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss3.jpg">
-</a></p>
-
-<p><a href="/images/ytss4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ytss5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss5.jpg">
-</a></p>
-
-<p><a href="/images/ytss6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss6.jpg">
-</a></p>
-
-<p><a href="/images/ytss7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/ytss8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss8.jpg">
-</a></p>
-
-<p><a href="/images/ytss9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/ytss9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yishun Town Secondary School (YTSS) was established in January 1986 with nine classes and 13 pioneer teachers. It shared premises with Yishun Secondary School before moving into the campus at Yishun Street 21 on 31 March 1988. The school was officially opened on 29 July 1988.
@@ -70,7 +35,8 @@ Principals:<br>
 \- Mr Tan Teck Hock (1999–2005)<br>
 \- Mr Tan Yee Kan (2005–2010)<br>
 \- Mrs Tan Chuen-Yin (2010–2014)<br>
-\- Ms Sharon Yeo (2014–present)
+\- Ms Sharon Yeo (2014–2020) <br>
+\- Mr Ng Teo Heng (2020 - present)
 
 #### **Key Milestones**
 
