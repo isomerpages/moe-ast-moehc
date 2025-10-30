@@ -17,9 +17,6 @@ third_nav_title: Upcoming Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conclusion_panel_for_web.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<h3></h3>
 <h2><strong>SG60 Roving Exhibition by the MOE Heritage Centre</strong></h2>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
