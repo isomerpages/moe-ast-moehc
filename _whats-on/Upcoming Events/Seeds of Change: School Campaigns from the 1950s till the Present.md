@@ -20,7 +20,7 @@ third_nav_title: Upcoming Events
 <p></p>
 <p></p>
 <h3></h3>
-<h3><strong>SG60 Roving Exhibition by the MOE Heritage Centre</strong></h3>
+<h2><strong>SG60 Roving Exhibition by the MOE Heritage Centre</strong></h2>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
 <p></p>
@@ -31,7 +31,7 @@ cleaning and greening; and habits and values.&nbsp;</p>
 <p>The exhibition also encourages meaningful conversations and exchanges
 of stories across generations on school life experiences, our shared values
 and beliefs, and our vision for Singapore as we journey ahead together.</p>
-<h3>Roving island-wide</h3>
+<h2>Roving island-wide</h2>
 <p>Check out the roving exhibition at these venues!</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,8 +76,54 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </li>
 </ul>
 <p></p>
+<h2><strong>Growing Together: A Journey through School Campaigns</strong>&nbsp;</h2>
+<h4>Journey with your child into the past, present and future of school campaigns at our interactive workshop!   &nbsp;&nbsp;</h4>
+<p>Inspired by the MOE Heritage Centre's SG60 roving exhibition, <em>Seeds of Change: School Campaigns from the 1950s till the Present</em>,
+this 45-minute programme invites families to share stories across generations,
+explore the values and beliefs that have shaped our nation, and reflect
+together on what Singapore means to them today. Through interactive activities
+and heartfelt conversations, parents and children will not only learn about
+past school campaigns but also create new memories rooted in pride, connection,
+and commitment to our shared future. Grow closer as a family while planting
+seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
+<p>Check out our upcoming workshop venues and dates: &nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Bedok Library – 22 Nov 2025, 2pm [<em>OPEN FOR BOOKING</em>] &nbsp;&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Central Lending Library – 20 Dec 2025, 1.30pm [<em>OPEN FOR BOOKING</em>] &nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Central Lending Library – 27 Dec 2025, 1.30pm [<em>OPEN FOR BOOKING</em>] &nbsp;&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>SAFRA Jurong – Mar 2026  &nbsp;&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Bishan Library – Apr 2026  &nbsp;&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>HomeTeam NS @ Khatib – May 2026  &nbsp;&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>MOE Heritage Centre – Sep, Dec 2026    &nbsp;</strong>&nbsp;</p>
+</li>
+</ul>
+<p>&nbsp;Note: For December slots onwards, registration opens in the preceding
+month. Do check in again for more details and to reserve your school campaign
+journey!&nbsp;&nbsp;</p>
+<h4><strong><a href="https://form.gov.sg/688c141ed47de8160abc3730" rel="noopener nofollow" target="_blank">Register here now!</a></strong></h4>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/An_SG60_event_presented_by_Final_2.png">
 </div>
+<h4></h4>
 <p></p>
