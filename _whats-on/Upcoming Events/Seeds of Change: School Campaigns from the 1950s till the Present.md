@@ -8,7 +8,13 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Masthead_final.png">
 </div>
-<p></p>
+<h2><strong>SG60 Roving Exhibition by the MOE Heritage Centre</strong></h2>
+<p><a href="/files/Chinese_Translation___Seeds_of_Change_Exhibition__30_Oct_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for exhibition text in Chinese</a>
+</p>
+<p><a href="/files/Seeds_of_Change_Exhibition_MALAY_Text_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for exhibition text in Malay</a>
+</p>
+<p>Click here for exhibition text in Tamil <em>(Tamil translation will be ready by end November 2025. We apologise for any inconvenience caused.)</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/intro_panel_for_web.png">
 </div>
@@ -16,8 +22,6 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conclusion_panel_for_web.png">
 </div>
-<p></p>
-<h2><strong>SG60 Roving Exhibition by the MOE Heritage Centre</strong></h2>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
 <p></p>
@@ -28,12 +32,7 @@ cleaning and greening; and habits and values.&nbsp;</p>
 <p>The exhibition also encourages meaningful conversations and exchanges
 of stories across generations on school life experiences, our shared values
 and beliefs, and our vision for Singapore as we journey ahead together.</p>
-<p><a href="/files/Seeds_of_Change_Exhibition_MALAY_Text_FINAL.pdf" rel="noopener nofollow" target="_blank">Click here for exhibition text in Malay</a>
-</p>
-<p><a href="/files/Chinese_Translation___Seeds_of_Change_Exhibition__30_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">Click here for exhibition text in Chinese</a>
-</p>
-<p>Click here for exhibition text in Tamil <em>(Tamil translation will be ready by end November 2025. We apologise for any inconvenience caused.)</em>
-</p>
+<p></p>
 <h2>Roving island-wide</h2>
 <p>Check out the roving exhibition at these venues!</p>
 <ul data-tight="true" class="tight">
