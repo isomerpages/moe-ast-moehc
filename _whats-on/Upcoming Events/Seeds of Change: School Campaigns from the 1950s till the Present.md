@@ -32,7 +32,8 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 <p><a href="/files/Chinese_Translation___Seeds_of_Change_Exhibition__30_Oct_2025_.pdf" rel="noopener nofollow" target="_blank">Click here for exhibition text in Chinese</a>
 </p>
-<p>Click here for exhibition text in Tamil</p>
+<p>Click here for exhibition text in Tamil <em>(Tamil translation will be ready by end November 2025. We apologise for any inconvenience caused.)</em>
+</p>
 <h2>Roving island-wide</h2>
 <p>Check out the roving exhibition at these venues!</p>
 <ul data-tight="true" class="tight">
