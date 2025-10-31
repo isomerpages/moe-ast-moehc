@@ -13,15 +13,8 @@ third_nav_title: Upcoming Events
 </p>
 <p><a href="/files/Seeds_of_Change_Exhibition_MALAY_Text_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for exhibition text in Malay</a>
 </p>
-<p>Click here for exhibition text in Tamil <em>(Tamil translation will be ready by end November 2025. We apologise for any inconvenience caused.)</em>
+<p><em>(Tamil translation will be ready by end November 2025. We apologise for any inconvenience caused.) </em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/intro_panel_for_web.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conclusion_panel_for_web.png">
-</div>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
 <p></p>
@@ -32,6 +25,14 @@ cleaning and greening; and habits and values.&nbsp;</p>
 <p>The exhibition also encourages meaningful conversations and exchanges
 of stories across generations on school life experiences, our shared values
 and beliefs, and our vision for Singapore as we journey ahead together.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/intro_panel_for_web.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Conclusion_panel_for_web.png">
+</div>
+<p></p>
 <p></p>
 <h2>Roving island-wide</h2>
 <p>Check out the roving exhibition at these venues!</p>
@@ -91,36 +92,30 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 <p>Check out our upcoming workshop venues and dates: &nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Bedok Library – 22 Nov 2025, 2pm [<em>OPEN FOR BOOKING</em>] &nbsp;&nbsp;</strong>
-</p>
+<p>Bedok Library – 22 Nov 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;&nbsp;</p>
 </li>
 <li>
-<p><strong>Central Lending Library – 20 Dec 2025, 1.30pm [<em>OPEN FOR BOOKING</em>] &nbsp;</strong>
-</p>
+<p>Central Lending Library – 20 Dec 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
 </li>
 <li>
-<p><strong>Central Lending Library – 27 Dec 2025, 1.30pm [<em>OPEN FOR BOOKING</em>] &nbsp;&nbsp;</strong>
-</p>
+<p>Central Lending Library – 27 Dec 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
 </li>
 <li>
-<p><strong>SAFRA Jurong – Mar 2026  &nbsp;&nbsp;</strong>
-</p>
+<p>SAFRA Jurong – Mar 2026  &nbsp;&nbsp;</p>
 </li>
 <li>
-<p><strong>Bishan Library – Apr 2026  &nbsp;&nbsp;</strong>
-</p>
+<p>Bishan Library – Apr 2026  &nbsp;&nbsp;</p>
 </li>
 <li>
-<p><strong>HomeTeam NS @ Khatib – May 2026  &nbsp;&nbsp;</strong>
-</p>
+<p>HomeTeam NS @ Khatib – May 2026  &nbsp;&nbsp;</p>
 </li>
 <li>
-<p><strong>MOE Heritage Centre – Sep, Dec 2026    &nbsp;</strong>&nbsp;</p>
+<p>MOE Heritage Centre – Sep, Dec 2026    &nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;Note: For December slots onwards, registration opens in the preceding
-month. Do check in again for more details and to reserve your school campaign
-journey!&nbsp;&nbsp;</p>
+<p>Note: For December slots onwards, registration opens 8 weeks in advance.
+Do check in again for more details and to reserve your school campaign
+journey! </p>
 <h4><strong><a href="https://form.gov.sg/688c141ed47de8160abc3730" rel="noopener nofollow" target="_blank">Register here now!</a></strong></h4>
 <p></p>
 <p></p>
