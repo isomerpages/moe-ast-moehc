@@ -13,7 +13,7 @@ third_nav_title: Upcoming Events
 </p>
 <p><a href="/files/Seeds_of_Change_Exhibition_MALAY_Text_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for exhibition text in Malay</a>
 </p>
-<p><em>(Tamil translation will be ready by end November 2025. We apologise for any inconvenience caused.)</em>
+<p><a href="/files/Tamil_Translation___Seeds_of_Change_Exhibition__12_Nov_2025_compressed.pdf" rel="noopener nofollow" target="_blank">Click here for exhibition text in Tamil</a>
 </p>
 <p>Revisit&nbsp;familiar scenes from school campaigns in Singapore, past
 and present, at the MOE Heritage Centre’s SG60 exhibition!</p>
