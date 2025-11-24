@@ -3,6 +3,7 @@ title: St Anthony's Primary School
 permalink: /school-histories/st-anthony-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stanthonypri1.jpg">
 
@@ -14,41 +15,8 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTWrUhJplh6YuuNP4PS3zOHnbktuFAPkobo0ax3lli6s0WJVX1JNDxSMCFaVmYYdvIA5gTyitf4P09E/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/stanthonypri2.jpg">  
-<img align="left" style="width:22%;margin-right:40px;margin-left:35px;" src="/images/stanthonypri2.jpg">
-</a></p>
 
-<p><a href="/images/stanthonypri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonypri3.jpg">
-</a></p>
 
-<p><a href="/images/stanthonypri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/stanthonypri4.jpg">
-</a></p>
-
-<p><a href="/images/stanthonypri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonypri5.jpg">
-</a></p>
-
-<p><a href="/images/stanthonypri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonypri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/stanthonypri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonypri7.jpg">
-</a></p>
-
-<p><a href="/images/stanthonypri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonypri8.jpg">
-</a></p>
-
-<p><a href="/images/stanthonypri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/stanthonypri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 St. Anthony’s Primary School was originally called St Anna’s School. Funded by the Catholic Portuguese Mission of Singapore, the school started in a small rented house on Middle Road on 1 August 1879. Father Jose Pedro Sta Anna de Cunha started the school to provide free tuition to poor boys and girls who could not afford an education even though the school fees then were very low.
@@ -91,7 +59,8 @@ Principals (St Anthony’s Primary School):<br>
 \- Ms Bernadette Lim Bee Hiong (1999–2003)<br>
 \- Mr Thomas Koh (2003–2010)<br>
 \- Ms Christina Teo (2010–2017)<br>
-\- Ms Cecilia Lim (2017–present)
+\- Ms Cecilia Lim (2017–2021)<br>
+\- Mrs Esther Choo (2022 - present)
 
 #### **Key Milestones**
 
