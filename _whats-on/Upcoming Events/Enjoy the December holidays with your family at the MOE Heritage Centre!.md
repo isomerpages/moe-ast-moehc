@@ -5,3 +5,8 @@ variant: tiptap
 description: School holidays, Singapore, MOE Heritage Centre
 third_nav_title: Upcoming Events
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="EOY hols 2025" src="/images/Final_EOY_2025EDM.png">
+</div>
+<p></p>
