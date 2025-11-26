@@ -2,6 +2,8 @@ collections:
   whats-on:
     output: true
     order:
+      - Upcoming Events/Enjoy the December holidays with your family at the MOE
+        Heritage Centre!.md
       - Upcoming Events/.keep
       - "Upcoming Events/Seeds of Change: School Campaigns from the 1950s till
         the Present.md"
