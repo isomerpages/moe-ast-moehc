@@ -39,11 +39,11 @@ variant: markdown
 <br clear="left">
 
 #### **School History**
-Established in 1935, St. Teresa’s High School was initially named St. Teresa's Sino English Primary School. The school was housed in a rented bungalow at Kampong Bahru Road. The school’s emphasis was on providing Chinese vernacular education to its students.  
+Established in 1935, St. Teresa’s High School was initially named St. Teresa's Sino-English Primary School. The school was housed in a rented bungalow at Kampong Bahru Road. The school’s emphasis was on providing Chinese vernacular education to its students.  
   
 During the Japanese Occupation, the school served as a refugee centre.  
   
-After World War II, a new school building was built next to the Church of St. Theresa. In 1965, the school accepted secondary school students. Hence, the school was renamed St. Teresa's Sino English School.  
+After World War II, a new school building was built next to the Church of St. Teresa. In 1965, the school accepted secondary school students. Hence, the school was renamed St. Teresa's Sino-English School.  
   
 The school later became known as St. Teresa's High School. In 1998, St. Teresa’s High School closed.
 
@@ -59,7 +59,7 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1935 | Establishment of St. Teresa’s English Primary School. |
+| 1935 | Establishment of St. Teresa’s Sino-English Primary School. |
 | 1998 | Closure of St. Teresa’s High School. |
 |
 
