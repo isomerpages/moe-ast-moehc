@@ -1,12 +1,13 @@
 ---
-title: St Theresa's High School
+title: St Teresa's High School
 permalink: /school-histories/st-theresa-high-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/sttheresahigh1.png">
 
-### **St. Theresa's High School**
+### **St. Teresa's High School**
 
 <br clear="left">
 
@@ -38,13 +39,13 @@ third_nav_title: Schools
 <br clear="left">
 
 #### **School History**
-Established in 1935, St. Theresa’s High School was initially named St. Theresa's Sino English Primary School. The school was housed in a rented bungalow at Kampong Bahru Road. The school’s emphasis was on providing Chinese vernacular education to its students.  
+Established in 1935, St. Teresa’s High School was initially named St. Teresa's Sino-English Primary School. The school was housed in a rented bungalow at Kampong Bahru Road. The school’s emphasis was on providing Chinese vernacular education to its students.  
   
 During the Japanese Occupation, the school served as a refugee centre.  
   
-After World War II, a new school building was built next to the Church of St. Theresa. In 1965, the school accepted secondary school students. Hence, the school was renamed St. Theresa's Sino English School.  
+After World War II, a new school building was built next to the Church of St. Teresa. In 1965, the school accepted secondary school students. Hence, the school was renamed St. Teresa's Sino-English School.  
   
-The school later became known as St. Theresa's High School. In 1998, St. Theresa’s High School closed.
+The school later became known as St. Teresa's High School. In 1998, St. Teresa’s High School closed.
 
 Principals:<br>
 \- Reverend Father Stephen Lee (1935)<br>
@@ -58,8 +59,8 @@ Principals:<br>
 
 |  |  |
 |:---:|---|
-| 1935 | Establishment of St. Theresa’s English Primary School. |
-| 1998 | Closure of St. Theresa’s High School. |
+| 1935 | Establishment of St. Teresa’s Sino-English Primary School. |
+| 1998 | Closure of St. Teresa’s High School. |
 |
 
 #### **School Motto**
