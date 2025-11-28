@@ -415,7 +415,7 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [St. Theresa's High School](/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](/school-histories/stamford-girls-sch/) | [Stamford Primary School](/school-histories/stamford-pri/) |
+| [St. Teresa's High School](/school-histories/st-theresa-high-sch/) | [Stamford Girls' School](/school-histories/stamford-girls-sch/) | [Stamford Primary School](/school-histories/stamford-pri/) |
 
 <img align="left" style="width:16%;margin-left:95px;" src="/images/crestss4.jpg">
 <img align="left" style="width:20%;margin-left:125px;" src="/images/crestss5.jpg">
