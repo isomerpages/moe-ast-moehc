@@ -58,7 +58,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>Kampong Admiralty: 10 Feb – 2 Mar 2026</strong>
+<p><strong>Kampong Admiralty: 10 Feb – 25 Feb 2026</strong>
 </p>
 </li>
 <li>
@@ -70,7 +70,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>HomeTeam NS @ Khatib: May 2026</strong>
+<p><strong>HomeTeam NS @ Khatib: 4 – 29 May 2026</strong>
 </p>
 </li>
 <li>
