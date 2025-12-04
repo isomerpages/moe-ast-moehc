@@ -58,7 +58,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>Kampong Admiralty: 10 Feb – 2 Mar 2026</strong>
+<p><strong>Kampong Admiralty: 10 Feb – 25 Feb 2026</strong>
 </p>
 </li>
 <li>
