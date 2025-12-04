@@ -70,7 +70,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>HomeTeam NS @ Khatib: 4 – 29 May 2026</strong>
+<p><strong>HomeTeam NS @ Khatib: May 2026</strong>
 </p>
 </li>
 <li>
