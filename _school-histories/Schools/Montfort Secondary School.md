@@ -9,7 +9,9 @@ third_nav_title: Schools
 <p><a href="https://www.montfortsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School website</a>
 </p>
 <h4><strong>Image Gallery</strong></h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWHK9kd2tmCJ200Hf59oHW1J7Ik-LKjRenKdbjW49VOkJUAPx_zZPM5KmYRqvckohM8bDkeyCe4_p/pubembed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+</div>
 <p></p>
 <h4><strong>School History</strong></h4>
 <p></p>
@@ -121,7 +123,10 @@ the school’s commitment to the holistic development of its students. In
 <p>Mr Kelvin Lim Hock Seong (2019–2024)</p>
 </li>
 <li>
-<p>Mdm Heng Sue Lin, Janice (2025–current)</p>
+<p>Mdm Heng Sue Lin, Janice (2025)</p>
+</li>
+<li>
+<p>Ms Rachel Ang Lay Koon (2026 - present)</p>
 </li>
 </ul>
 <p></p>
