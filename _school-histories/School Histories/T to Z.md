@@ -315,7 +315,7 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Yuqun Primary School](/school-histories/yuqun-pri/) | [Yusof Ishak Secondary School](/school-histories/yusof-ishak-sec/) | [Yuying Secondary School](/school-histories/yuying-sec/) |
+| [Yuqun Primary School](/school-histories/yuqun-pri/) | [Yusof Ishak Secondary School](/school-histories/yusok-ishak-sec/) | [Yuying Secondary School](/school-histories/yuying-sec/) |
 
 <img align="left" style="width:27%;margin-left:35px;" src="/images/crestY16.png">
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestY17.jpg">
