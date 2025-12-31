@@ -1,9 +1,9 @@
 ---
-title: Yusok Ishak Secondary School
-permalink: /school-histories/yusok-ishak-sec/
+title: Yusof Ishak Secondary School
+permalink: /school-histories/yusof-ishak-sec/
 description: ""
 third_nav_title: Schools
-variant: markdown
+variant: tiptap
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yusokishaksec1.jpg">
 
