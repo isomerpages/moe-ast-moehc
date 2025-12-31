@@ -1,6 +1,6 @@
 ---
 title: Yusof Ishak Secondary School
-permalink: /school-histories/yusof-ishak-sec/
+permalink: /school-histories/yusok-ishak-sec/
 description: ""
 third_nav_title: Schools
 variant: tiptap
