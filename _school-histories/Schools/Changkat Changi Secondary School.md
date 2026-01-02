@@ -3,6 +3,7 @@ title: Changkat Changi Secondary School
 permalink: /school-histories/changkat-changi-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/changkatchangisec1.jpg">
 
@@ -14,39 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQlbxzyP7hk0WTGHIWi6LSTpFwW5kDC0H6zJI98vKcdqkszQlLU1il6LYVoxQ4NXy9EeDkfdYPuvfHh/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/changkatchangisec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec2.jpg">
-</a></p>
 
-<p><a href="/images/changkatchangisec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec3.jpg">
-</a></p>
-
-<p><a href="/images/changkatchangisec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/changkatchangisec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec5.jpg">
-</a></p>
-
-<p><a href="/images/changkatchangisec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec6.jpg">
-</a></p>
-
-<p><a href="/images/changkatchangisec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/changkatchangisec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatchangisec8.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Changkat Changi Secondary School began as an integrated school on a small hill at Jalan Tiga Ratus in 1966. It was named after its geographical location – ‘Changkat’ is the Malay term for ‘small hill’, and ‘Changi’ refers to the mythological Changi Tree. When the school first opened, besides students who lived on the mainland, the school also served students from the kampongs on the islands of Pulau Ubin and Pulau Tekong. These students used to go to school by ferry every morning, and returned home on the evening ferry.
@@ -66,7 +35,9 @@ Principals:<br>
 \- Mrs Mabel Leong (1998–2002)<br>
 \- Mr Goh Aik Choon (2002–2008)<br>
 \- Mrs Yeow Lee Lin (2009–2014)<br>
-\- Mdm Sharma Poonam Kumari (2014–present)
+\- Mdm Sharma Poonam Kumari (2014–2020)<br>
+\- Mr Ho Mingda (2021-2025)<br>
+\- Mr Kwok Ying Liang (2026-present)
 
 #### **Key Milestones**
 
