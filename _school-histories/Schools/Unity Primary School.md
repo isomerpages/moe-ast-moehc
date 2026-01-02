@@ -3,6 +3,7 @@ title: Unity Primary School
 permalink: /school-histories/unity-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/unitypri1.png">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT300rwNJSkRJ_txGuXsy8oYnUF4n266Zk6K7rOMubFAhi5AfrIWJ_M7YJ4z4k8o-nltVGI-GDjUHbb/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/unitypri2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri2.jpg">
-</a></p>
-
-<p><a href="/images/unitypri3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri3.jpg">
-</a></p>
-
-<p><a href="/images/unitypri4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri4.jpg">
-</a></p>
-
-<p><a href="/images/unitypri5.jpg">  
-<img align="right" style="width:22%;margin-right:48px;" src="/images/unitypri5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/unitypri6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri6.jpg">
-</a></p>
-
-<p><a href="/images/unitypri7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri7.jpg">
-</a></p>
-
-<p><a href="/images/unitypri8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri8.jpg">
-</a></p>
-
-<p><a href="/images/unitypri9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/unitypri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Unity Primary School was established on 4 January 1999 with an enrolment of 835 students. At the time, the school did not have its own building and was functioning in both Kranji Primary School and De La Salle School.
@@ -59,7 +25,8 @@ Principals:<br>
 \- Mrs Germaine Kong (1999–2003)<br>
 \- Mr Teoh Tiong San (2003–2009)<br>
 \- Mrs Jasmail Singh Gill (2009–2018)<br>
-\- Mrs Lee-Koh Siew Cheng (2019 – present)
+\- Mrs Lee-Koh Siew Cheng (2019 –2025)<br>
+\- Mdm Tan Siew Khian Finella (2026 - present) 
 
 #### **Key Milestones**
 
