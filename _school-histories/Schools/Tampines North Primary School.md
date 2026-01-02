@@ -3,6 +3,7 @@ title: Tampines North Primary School
 permalink: /school-histories/tampines-north-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tampinesnorthpri1.png">
 
@@ -14,51 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQdFRE7uv3UaaOauVg7ldr771GNHuWoe6rY22ikfPFYdivN2hmp4Drwvn1l0tztka4MH4mkiIUsH9-x/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/tampinesnorthpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri2.jpg">
-</a></p>
-
-<p><a href="/images/tampinesnorthpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri3.jpg">
-</a></p>
-
-<p><a href="/images/tampinesnorthpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/tampinesnorthpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri5.jpg">
-</a></p>
-
-<p><a href="/images/tampinesnorthpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri6.jpg">
-</a></p>
-
-<p><a href="/images/tampinesnorthpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/tampinesnorthpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri8.jpg">
-</a></p>
-
-<p><a href="/images/tampinesnorthpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri9.jpg">
-</a></p>
-
-<p><a href="/images/tampinesnorthpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri10.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/tampinesnorthpri11.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinesnorthpri11.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -70,7 +26,8 @@ Principals:<br>
 \- Mrs Lay See Neufeld (2000–2006)<br>
 \- Mdm See Bee Huay (2006–2011)<br>
 \- Mdm Neo Lay Wah (2011–2018)<br>
-\- Mrs Ratna Elangovan (2019–present)
+\- Mrs Ratna Elangovan (2019–2025)<br>
+\- Mdm Ong Pei Fen Jamie (2026-present)
 
 #### **Key Milestones**
 
