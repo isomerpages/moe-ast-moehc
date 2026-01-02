@@ -14,41 +14,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQkfy7miP_3Ww6FUqbsZ8vT0LvmlB4Fy92g7VdKD3dPyz-frBjE3FZmXcF9OWKkVN4LD86TKl-pRqd2/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/meridiansec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec2.jpg">
-</a></p>
-
-<p><a href="/images/meridiansec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec3.jpg">
-</a></p>
-
-<p><a href="/images/meridiansec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/meridiansec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec5.jpg">
-</a></p>
-
-<p><a href="/images/meridiansec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec6.jpg">
-</a></p>
-
-<p><a href="/images/meridiansec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/meridiansec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec8.jpg">
-</a></p>
-
-<p><a href="/images/meridiansec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/meridiansec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -63,7 +28,8 @@ In 2018, the school celebrated its first anniversary as one big Meridian family.
 
 Principal:<br>
 \- Mrs Hilda Thong (2017–2021)<br>
-\- Mr Mohamed Razali B Abdul Hamed (2022 - present)<br>
+\- Mr Mohamed Razali B Abdul Hamed (2022 - 2025)<br>
+\- Mr Puah You Kai (2026-present)
 
 **Related Schools: [Coral Secondary School](/school-histories/coral-sec/) | [Siglap Secondary School](/school-histories/siglap-sec/)**
 
@@ -81,7 +47,7 @@ Unite to Reach New Heights
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/meridiansec1.jpg">
 
-The school crest is composed of the letter ‘M’, which stands for Meridian Secondary School, featuring with two adjoining peaks to represent the unity of Coral Secondary School and Siglap Secondary School. The peaks stand tall and exude strength in solid foundations. The colours of silver, blue and green symbolise innovation, leadership and the arts, respectively_._&nbsp;The silver peaks symbolise an innovative environment to cultivate creative thinkers. Supporting the silver peaks are two pillars in blue and green, which signify the heritage of both schools. The blue pillar symbolises leadership, and the green pillar stands for the arts. Together, the crest represents the strength and unity of Meridians to reach new heights.
+The school crest is composed of the letter ‘M’, which stands for Meridian Secondary School, featuring with two adjoining peaks to represent the unity of Coral Secondary School and Siglap Secondary School. The peaks stand tall and exude strength in solid foundations. The colours of silver, blue and green symbolise innovation, leadership and the arts, respectively. The silver peaks symbolise an innovative environment to cultivate creative thinkers. Supporting the silver peaks are two pillars in blue and green, which signify the heritage of both schools. The blue pillar symbolises leadership, and the green pillar stands for the arts. Together, the crest represents the strength and unity of Meridians to reach new heights.
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/18crce1CPha47sakqZvMzWXx6rT6UtqrZ/view?usp=share_link">**♫ Listen**</a>
