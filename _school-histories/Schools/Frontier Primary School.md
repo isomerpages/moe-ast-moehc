@@ -3,6 +3,7 @@ title: Frontier Primary School
 permalink: /school-histories/frontier-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/frontierpri1.png">
 
@@ -14,31 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgppX2eF0YFRveJOzYH2npir7G6fH1Y8jeZEKkmmeyVhvBHhbqopmCUv5IqBMwT8HgoH7xzxNPD1Eo/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/frontierpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri2.jpg">
-</a></p>
-
-<p><a href="/images/frontierpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri3.jpg">
-</a></p>
-
-<p><a href="/images/frontierpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/frontierpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri5.jpg">
-</a></p>
-
-<p><a href="/images/frontierpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri6.jpg">
-</a></p>
-
-<p><a href="/images/frontierpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/frontierpri7.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -53,7 +29,8 @@ In 2015, the Ministry of Education Kindergarten@Frontier was set up within the p
 
 Principals:<br>
 \- Mr Martin Koh Chin Thong (2011–2017)<br>
-\- Mrs Tonnine Chua (2017–present)
+\- Mrs Tonnine Chua (2017–2025)<br>
+\- Mdm Ang Chai Ting (2026-present)
 
 #### **Key Milestones**
 
