@@ -9,6 +9,9 @@ third_nav_title: Schools
 <p><a href="https://www.pasirrissec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
 </p>
 <h4><strong>Image Gallery</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTYHUz9d_uac9PJ9o-LFQMuNDugfv_caaKjx2HcqCKnmY8uOpZ-WApR9N3IvUpFTrakiCsyFABnXy71/pubembed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>School History</strong></h4>
 <p>Established as the first secondary school in Tampines New Town, PRSS’s
 mission is deeply influenced by the sense of responsibility in providing
