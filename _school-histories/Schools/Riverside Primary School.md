@@ -3,6 +3,7 @@ title: Riverside Primary School
 permalink: /school-histories/riverside-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rsspri1.jpg">
 
@@ -14,39 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXHtAWoqN_3k0GkOtC1W9V86UU-hGIEwbAtS0-u_oJanMwQIoftsBuLpS-HzCX-iS56vFa9SSA34RP/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/rsspri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri2.jpg">
-</a></p>
 
-<p><a href="/images/rsspri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/rsspri4.jpg">
-</a></p>
-
-<p><a href="/images/rsspri3.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/rsspri3.jpg">
-</a></p>
-
-<p><a href="/images/rsspri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri5.jpg">
-</a></p>
-
-<p><a href="/images/rsspri6.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/rsspri6.jpg">
-</a></p>
-
-<p><a href="/images/rsspri7.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/rsspri7.jpg">
-</a></p>
-
-<p><a href="/images/rsspri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri8.jpg">
-</a></p>
-
-<p><a href="/images/rsspri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rsspri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Riverside Primary School was established in 2013 as a government co-educational school at 110 Woodlands Crescent. The school was officially opened in 2016.
@@ -57,7 +26,8 @@ In 2016, the Ministry of Education Kindergarten @ Riverside started operations a
 
 Principal:<br>
 \- Mrs Sharon Siew (2013–2019)<br>
-\- Mr Tony Tan (2019–present)
+\- Mr Tony Tan (2019–2025)<br>
+\- Mr Chia See Chew (2026 - present)
 
 #### **Key Milestones**
 
