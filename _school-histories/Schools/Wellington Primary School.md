@@ -23,7 +23,8 @@ As the school envisions to prepare its students for the 21st century, curriculum
 
 Principals:
 <br>
-\- Mr Gary Tsu (2016 - 2024)<br>
+\- Mrs Elsie Lim (2001 - 2005)
+\- Mr Gary Tsu (2011 - 2017)<br>
 \- Albert Alfred Alcantara (2018 - 2025)<br>
 \- Mdm Ng Hui Min (2026-present)
 
