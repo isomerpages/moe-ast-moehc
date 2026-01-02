@@ -3,6 +3,7 @@ title: Zhangde Primary School
 permalink: /school-histories/zhangde-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/zhangdepri1.png">
 
@@ -15,43 +16,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKagbUIxRVLIrB98MsRa6faEUWPi42RQ43e0c-n2SLQjmcCPX1XDc9EoHLSq7ApqWQQ8iP1W6fZc4F/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/zhangdepri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri2.jpg">
-</a></p>
-
-<p><a href="/images/zhangdepri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri3.jpg">
-</a></p>
-
-<p><a href="/images/zhangdepri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhangdepri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri5.jpg">
-</a></p>
-
-<p><a href="/images/zhangdepri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri6.jpg">
-</a></p>
-
-<p><a href="/images/zhangdepri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhangdepri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri8.jpg">
-</a></p>
-
-<p><a href="/images/zhangdepri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhangdepri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Established in 1923, Chiang Teck School had its humble beginning in rented premises in Kampong Bahru. It served mainly poor Chinese children with Mandarin as the medium of instruction. The school later moved to Silat Road, where a block of four classrooms and a teacher’s hostel were built. The enrolment soon grew to 300 students. The school ceased operations during the Second World War, and was reconstructed in 1945 to serve some 500 students.
@@ -69,7 +33,8 @@ Principals:<br>
 \- Ms Anne Koh (2001–2003)<br>
 \- Mrs Jaswant Sroya (2004–2011)<br>
 \- Ms Loh Sing Huay (2012–2018)<br>
-\- Mdm Rita Raj Lal (2019–present)
+\- Mdm Rita Raj Lal (2019–2025)<br>
+\- Mr Kyaw Saw Lynn (2026-present)
 
 #### **Key Milestones**
 
