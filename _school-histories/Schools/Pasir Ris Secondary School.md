@@ -9,8 +9,6 @@ third_nav_title: Schools
 <p><a href="https://www.pasirrissec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
 </p>
 <h4><strong>Image Gallery</strong></h4>
-<p></p>
-<p></p>
 <h4><strong>School History</strong></h4>
 <p>Established as the first secondary school in Tampines New Town, PRSS’s
 mission is deeply influenced by the sense of responsibility in providing
@@ -65,7 +63,10 @@ Story.</p>
 <p>Mdm Tan Hwee Tsian Hilda (2011-2016)</p>
 </li>
 <li>
-<p>Mrs Grace Chua (2017-present)</p>
+<p>Mrs Grace Chua (2017-2025)</p>
+</li>
+<li>
+<p>Mr Wu Biwei, Ivan (2026-present)</p>
 </li>
 </ul>
 <p></p>
@@ -190,6 +191,8 @@ so as to ensure that our future generation of citizens will show pride
 and responsibilities in their endeavours.</p>
 <p></p>
 <h4><strong>School Song</strong></h4>
+<p><a href="https://drive.google.com/file/d/1F3KuyJaPcuVNJbKXFMRgdriDyCzSBQNy/view?usp=drive_link" rel="noopener nofollow" target="_blank">Listen</a>
+</p>
 <p>With pride and joy let us sing</p>
 <p>Let truth and sincerity come right from your heart</p>
 <p>These and other thoughts we gladly bring</p>
