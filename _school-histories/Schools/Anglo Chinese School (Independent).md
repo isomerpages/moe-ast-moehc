@@ -3,6 +3,7 @@ title: Anglo Chinese School (Independent)
 permalink: /school-histories/acs-i/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/acsi1.png">
 
@@ -12,41 +13,6 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgTkIT7V6_9VACzxSEz1QZG9odrY8dNNnTUJrbHJ2qbW4Um1C4VA6l2aeN7TJbDqrNRAJW0pySfgzN/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/acsi2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acsi2.jpg">
-</a></p>
-
-<p><a href="/images/acsi3.jpg">  
-<img align="left" style="width:29%;margin-right:15px;" src="/images/acsi3.jpg">
-</a></p>
-
-<p><a href="/images/acsi4.jpg">  
-<img align="left" style="width:28%;margin-right:15px;" src="/images/acsi4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/acsi5.jpg">  
-<img align="left" style="width:29%;margin-right:15px;" src="/images/acsi5.jpg">
-</a></p>
-
-<p><a href="/images/acsi6.jpg">  
-<img align="left" style="width:32%;margin-right:15px;" src="/images/acsi6.jpg">
-</a></p>
-
-<p><a href="/images/acsi7.jpg">  
-<img align="left" style="width:33%;margin-right:15px;" src="/images/acsi7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/acsi8.jpg">  
-<img align="left" style="width:33%;margin-right:15px;" src="/images/acsi8.jpg">
-</a></p>
-
-<p><a href="/images/acsi9.jpg">  
-<img align="left" style="width:33%;margin-right:15px;" src="/images/acsi9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -81,7 +47,8 @@ Principals:<br>
 * Dr Lawrence Chia (1988–1993)<br>
 * Dr Ong Teck Chin (1994–2010)<br>
 * Mr Winston Hodge (2011–2018)<br>
-* Mr Arene Koh (2019–present)
+* Mr Arene Koh (2019–2025) <br>
+* Mr Pang Chin Keat, Kevin (2026 - present)
 
 #### **Key Milestones**
 
