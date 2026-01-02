@@ -3,6 +3,7 @@ title: Tampines Primary School
 permalink: /school-histories/tampines-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/tampinespri1.jpg">
 
@@ -14,47 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-TMUz_pLuRm4GGzhzkEd21jJHSjLQrds2CwBnea3Lxvr1QBXNdNI1SQ3bZF4smADr3CB621zbW5HZ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/tampinespri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri2.jpg">
-</a></p>
 
-<p><a href="/images/tampinespri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri3.jpg">
-</a></p>
-
-<p><a href="/images/tampinespri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/tampinespri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri5.jpg">
-</a></p>
-
-<p><a href="/images/tampinespri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri6.jpg">
-</a></p>
-
-<p><a href="/images/tampinespri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/tampinespri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri8.jpg">
-</a></p>
-
-<p><a href="/images/tampinespri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri9.jpg">
-</a></p>
-
-<p><a href="/images/tampinespri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/tampinespri10.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Tampines Primary School was established in 1985. The following year, the school moved to its present location at Tampines Street 12.
@@ -69,7 +30,8 @@ Principals:<br>
 \- Mr Law Chor Hoo (2001–2003)<br>
 \- Mrs Wong Bin Eng (2004–2010)<br>
 \- Ms Veronica Tay (2011–2018)<br>
-\- Mrs Lay See Neufeld (2019 – present)
+\- Mrs Lay See Neufeld (2019 – 2025)<br>
+\- Mr Hanafi B Asmore (2026- present)
 
 #### **Key Milestones**
 
