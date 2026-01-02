@@ -3,6 +3,7 @@ title: Qifa Primary School
 permalink: /school-histories/qifa-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/qifapri1.png">
 
@@ -14,43 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQ0aBjG2WlzYh3SvgKHwLyX18BVfF6b8G9PHFccfauY26U8jBvk5nkdyKobkvpb9Q9Kyf5bsWjIOnR/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/qifapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri2.jpg">
-</a></p>
-
-<p><a href="/images/qifapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri3.jpg">
-</a></p>
-
-<p><a href="/images/qifapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/qifapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri5.jpg">
-</a></p>
-
-<p><a href="/images/qifapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri6.jpg">
-</a></p>
-
-<p><a href="/images/qifapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/qifapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri8.jpg">
-</a></p>
-
-<p><a href="/images/qifapri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/qifapri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Qifa Primary School was established in 1906 as Khee Fatt Study Institution (启发学堂) by the Char Yong (Dabu) Association, which was made up of early Hakka immigrants from China. The school moved from its first location at Loke Yew Street to Peking Street following an increase in enrolment. By 1937, the school had expanded and relocated to Hill Street. The school stopped functioning temporarily during the Japanese Occupation.
@@ -69,7 +33,8 @@ Principals:<br>
 \- Mr Leong Chee Kong (2001–2007)<br>
 \- Ms Debra Saw Hoo Yong (2008–2012)<br>
 \- Mdm May Tan Mui Gee (2013–2018)<br>
-\- Mrs Catherine Chiang (2018-present)
+\- Mrs Catherine Chiang (2018-2025)<br>
+\- Mdm Tan Lih Lin (2026-present)
 
 **Related School: [Jin Tai Primary School](/school-histories/jin-tai-pri/)**
 
