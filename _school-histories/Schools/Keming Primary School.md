@@ -3,6 +3,7 @@ title: Keming Primary School
 permalink: /school-histories/keming-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/kemingpri1.png">
 
@@ -14,33 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9VR8w9SKCxCDMnz3QJRgtTJnAirX_kVDoaz_D0r-2ib6OyuWpJwQvfpQvaaFVw5-zzh-xBEsIX_0D/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/kemingpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri2.jpg">
-</a></p>
 
-<p><a href="/images/kemingpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri3.jpg">
-</a></p>
-
-<p><a href="/images/kemingpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri4.jpg">
-</a></p>
-
-<p><a href="/images/kemingpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri5.jpg">
-</a></p>
-
-<p><a href="/images/kemingpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri6.jpg">
-</a></p>
-
-<p><a href="/images/kemingpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri7.jpg">
-</a></p>
-
-<p><a href="/images/kemingpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/kemingpri8.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -70,7 +45,8 @@ Principals:<br>
 \- Mr Michael Saw (2002–2007)<br>
 \- Mr Kelvin Tay (2007–2012)<br>
 \- Ms Chew Tock Lee (2012–2019)<br>
-\- Mrs Yap Dai Jee (2019–present)
+\- Mrs Yap Dai Jee (2019–2025)<br>
+\- Mr Chen Bing Hong (2026-present)
 
 #### **Key Milestones**
 
