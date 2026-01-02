@@ -32,7 +32,8 @@ Principals:<br>
 \- Mrs Elsie S. Rajaratnam (2004–2009) <br>
 \- Mrs Tan Lay Hong (2010–2016)<br>
 \- Mr Jaswant Singh (2017–2022)<br>
-\- Mdm Jessie Koh (2023–present)
+\- Mdm Jessie Koh (2023–2025)<br>
+\- Mr Low Chee Wai (2026-present)
 
 #### **Key Milestones**
 
