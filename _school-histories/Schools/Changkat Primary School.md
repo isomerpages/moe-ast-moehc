@@ -3,6 +3,7 @@ title: Changkat Primary School
 permalink: /school-histories/changkat-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/changkatpri1.png">
 
@@ -13,41 +14,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQTPdoT3V0wBr8PN35BT605-ML3qTtf_jwVidC7n7o6meXhrFcuXw8M-OrEZDPpOCiq86euA-dd6yoL/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/changkatpri2.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri2.png">
-</a></p>
-
-<p><a href="/images/changkatpri3.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri3.png">
-</a></p>
-
-<p><a href="/images/changkatpri4.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri4.png">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/changkatpri5.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri5.png">
-</a></p>
-
-<p><a href="/images/changkatpri6.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri6.png">
-</a></p>
-
-<p><a href="/images/changkatpri7.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri7.png">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/changkatpri8.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri8.png">
-</a></p>
-
-<p><a href="/images/changkatpri9.png">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/changkatpri9.png">
-</a></p>
 
 <br clear="left">
 
@@ -68,7 +34,8 @@ Principals:<br>
 \- Ms Foo Pee Pee (1999–2004)<br>
 \- Mrs Wee-Kwan Liam (2004–2010)<br>
 \- Mrs May Tang (2010–2017)<br>
-\- Mrs Cheng Huey Teng (2017–present)
+\- Mrs Cheng Huey Teng (2018-2025) <br> 
+\- Mdm Ratna Kumari d/o R Ramachandra (2026-present)
 
 #### **Key Milestones**
 
