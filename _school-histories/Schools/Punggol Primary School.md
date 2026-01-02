@@ -3,6 +3,7 @@ title: Punggol Primary School
 permalink: /school-histories/punggol-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/punggolpri1.png">
 
@@ -14,41 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMNzpXPuGz33kBq60yqfFOznw7QUmB4ktVD_tYpSpgOWAlgo9vXDxDvhGfHINhT2Ozcm-4zr2AfJeH/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/punggolpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri2.jpg">
-</a></p>
-
-<p><a href="/images/punggolpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri3.jpg">
-</a></p>
-
-<p><a href="/images/punggolpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/punggolpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri5.jpg">
-</a></p>
-
-<p><a href="/images/punggolpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri6.jpg">
-</a></p>
-
-<p><a href="/images/punggolpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/punggolpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri8.jpg">
-</a></p>
-
-<p><a href="/images/punggolpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolpri9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -69,7 +35,8 @@ Principals:<br>
 \- Ms Chua Soh Leng (2006–2012)<br>
 \- Mr Hanafi Asmore (2013–2019)<br>
 \- Ms Chew Tock Lee (2020–2021)<br>
-\- Mdm Norliza A. Rahim (2022- present) 
+\- Mdm Norliza A. Rahim (2022- 2025)<br>
+\- Mdm Tan Li Ling (2026-present)
 
 #### **Key Milestones**
 
