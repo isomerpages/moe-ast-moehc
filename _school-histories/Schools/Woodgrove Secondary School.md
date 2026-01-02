@@ -31,7 +31,8 @@ Principals:<br>
 \- Mrs Helena Song (2000–2007)<br>
 \- Mdm Sung Mee Har (2007–2014)<br>
 \- Mr Chee Chit Yeng (2014–2019)<br>
-\- Mr Chua Chor Huat (2019–present)
+\- Mr Chua Chor Huat (2019–2025)<br>
+\- Miss Goh Peishi (2026 - present)
 
 #### **Key Milestones**
 

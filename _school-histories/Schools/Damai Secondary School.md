@@ -3,6 +3,7 @@ title: Damai Secondary School
 permalink: /school-histories/damai-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/damaisec1.jpg">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYUv2KsTytJ-hpyzAzxpA2TQysOga5UIley68ir__8VsF6hryeXX1YOYFxH_h9wz55gVyK2UHwGg-J/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/damaisec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec2.jpg">
-</a></p>
 
-<p><a href="/images/damaisec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec3.jpg">
-</a></p>
-
-<p><a href="/images/damaisec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/damaisec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec5.jpg">
-</a></p>
-
-<p><a href="/images/damaisec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec6.jpg">
-</a></p>
-
-<p><a href="/images/damaisec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/damaisec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec8.jpg">
-</a></p>
-
-<p><a href="/images/damaisec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/damaisec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -71,7 +38,8 @@ Principals:<br>
 \- Mr Loh Cheung Ming (2002–2007)<br>
 \- Mr Toh Thiam Chye (2008–2013)<br>
 \- Mr Chow Weisi (2014–2017)<br>
-\- Mdm Chan Wan Siong (2018–present)
+\- Mdm Chan Wan Siong (2018–2025)<br> 
+\- Mr Prashant s/o Jayapragas (2026-present)
 
 Related School: [Bedok North Secondary School](/school-histories/bedok-north-sec/)
 

@@ -41,7 +41,8 @@ Principals:<br>
 \- Mrs Tan Lay Hong (2004–2010)<br>
 \- Mr Vasuthevan s/o K. Ramamurthy (2010–2018)<br>
 \- Mr Kevin Ang (2018–2022)<br>
-\- Mr Jaswant Singh (2023 - present)
+\- Mr Jaswant Singh (2023-2025)<br>
+\- Mrs Lee Hui Xin (2026-present)
 
 #### **Key Milestones**
 

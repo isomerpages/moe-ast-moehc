@@ -3,6 +3,7 @@ title: Chua Chu Kang Primary School
 permalink: /school-histories/cck-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/cckpri1.png">
 
@@ -13,54 +14,8 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYxTj1BkviZEsFlV1AQ4kV13IvsG6dq-x9gs8UgapVVN_t-m-boqOaqeDHByfW801GvM4Fewmequct/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/cckpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri2.jpg">
-</a></p>
-
-<p><a href="/images/cckpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri3.jpg">
-</a></p>
-
-<p><a href="/images/cckpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/cckpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri5.jpg">
-</a></p>
-
-<p><a href="/images/cckpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri6.jpg">
-</a></p>
-
-<p><a href="/images/cckpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri7.jpg">
-</a></p>
-
-<br clear="left">
 
 
-<p><a href="/images/cckpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri8.jpg">
-</a></p>
-
-<p><a href="/images/cckpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri9.jpg">
-</a></p>
-
-<p><a href="/images/cckpri10.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri10.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/cckpri11.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/cckpri11.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Chua Chu Kang Primary School (CCKPS) started operations on 2 January 1994 with 400 students from Primary One to Primary Four, using South View Primary School as the holding site. When the school moved to its present site in 1995, it had an enrolment of 1,500 students in 44 classes from Primary One to Primary Five. The school was officially opened in June 1997. Since its inception, the school has had five principals.
@@ -76,7 +31,8 @@ Principals:<br>
 \- Mrs Yue Yoke Mun (1999–2005)<br>
 \- Mr Francis Foo (2005–2011)<br>
 \- Mrs Lee Wai Ling (2011–2017)<br>
-\- Mrs Sheree Chong (2017–present)
+\- Mrs Sheree Chong (2017–2025)<br>
+\- Mr Quek Swee Nee (2026-present) 
 
 #### **Key Milestones**
 

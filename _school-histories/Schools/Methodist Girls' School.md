@@ -15,37 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS055Hlav1osc8e2sqIq4s2zhr1gLZYwyL2Z-0fz1LZR_ne3faDFBHqEZl4FUSQCGEKDAQzBPtrYlNc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/methodistgirlssch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch2.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch3.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch4.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch5.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch6.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch7.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch8.jpg">
-</a></p>
-
-<p><a href="/images/methodistgirlssch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/methodistgirlssch9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -85,7 +54,8 @@ Principals:<br>
 \- Ms Kon Mei Leen (1994–2007)<br>
 \- Mrs Shirleen Ong (2008–2013)<br>
 \- Ms Grace Ng (2014–2021)<br>
-\- Mdm Valarie Koh Ming-Li (2022-present)<br>
+\- Mdm Valarie Koh Ming-Li (2022-2025)<br>
+\- Ms Yoong Nyok Ke Pamela (2026-present)
 
 #### **Key Milestones**
 

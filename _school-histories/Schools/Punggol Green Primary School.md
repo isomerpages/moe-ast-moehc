@@ -15,41 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4oqxNA8fP6I9d4zx_fEfZjc8R1beGSL132g73VqJqgr4-jB_fJajSZUUYxKJY1AsFy0440geG0Hx5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/punggolgreenpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri2.jpg">
-</a></p>
-
-<p><a href="/images/punggolgreenpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri3.jpg">
-</a></p>
-
-<p><a href="/images/punggolgreenpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/punggolgreenpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri5.jpg">
-</a></p>
-
-<p><a href="/images/punggolgreenpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri6.jpg">
-</a></p>
-
-<p><a href="/images/punggolgreenpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/punggolgreenpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri8.jpg">
-</a></p>
-
-<p><a href="/images/punggolgreenpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/punggolgreenpri9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -61,7 +26,8 @@ With the fundamental belief that every child can succeed in life, PGPS goes beyo
 
 Principal:<br>
 \- Mrs Seah Lay Tin (2013–present)<br>
-\- Mr Hanafi B Asmore (2020 – Present)
+\- Mr Hanafi B Asmore (2020 – 2025)<br>
+\- Mdm Chua Pei Pei (2026-present) 
 
 #### **Key Milestones**
 

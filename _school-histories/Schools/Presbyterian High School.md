@@ -15,42 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgmJdJtMCW4wG9NaP35m0vb7yqKQ2uKDqQgbGl3YAAYg8ouiNkJjjB3EfcX4-h0RPekLIZlNMkLpN5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/presbyterianhighsch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch2.jpg">
-</a></p>
-
-<p><a href="/images/presbyterianhighsch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch3.jpg">
-</a></p>
-
-<p><a href="/images/presbyterianhighsch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/presbyterianhighsch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch5.jpg">
-</a></p>
-
-<p><a href="/images/presbyterianhighsch6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch6.jpg">
-</a></p>
-
-<p><a href="/images/presbyterianhighsch7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/presbyterianhighsch8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch8.jpg">
-</a></p>
-
-<p><a href="/images/presbyterianhighsch9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/presbyterianhighsch9.jpg">
-</a></p>
-
 <br clear="left">
 
 #### **School History**
@@ -75,7 +39,8 @@ Principals:<br>
 \- Mrs Caroline Tan (2002–2007)<br>
 \- Mr Lim Yan Hock (2008–2014)<br>
 \- Mr Victor Owyong (2015–2021)<br>
-\- Mrs Angeline Chan (2022-present)<br>
+\- Mrs Angeline Chan (2022-2025)<br>
+\- Ms Loh Sein Ling (2026-present)
 
 #### **Key Milestones**
 

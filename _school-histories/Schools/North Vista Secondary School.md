@@ -3,6 +3,7 @@ title: North Vista Secondary School
 permalink: /school-histories/north-vista-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/northvistasec1.png">
 
@@ -14,37 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvGzv3Vpzqs73KmLENrpRNNV--nFuX-uZEbSAH-IUkDUWOlK51GQea7-nWuctULD_AHS3fFCCOu10k/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/northvistasec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec2.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec3.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec4.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec5.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec6.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec7.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec8.jpg">
-</a></p>
-
-<p><a href="/images/northvistasec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/northvistasec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -68,7 +38,8 @@ Principals:<br>
 \- Mrs Lau Kum Leng (1994–2000)<br>
 \- Mr Lim Lai Chuan (2001–2012)<br>
 \- Mrs Regina Lee (2012–2018)<br>
-\- Mr Yap Thiam Chuan (2018–present)
+\- Mr Yap Thiam Chuan (2018–2025)<br>
+\- Mr Tan Eng Hong (2026-present)
 
 #### **Key Milestones**
 

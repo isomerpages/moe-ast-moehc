@@ -36,7 +36,8 @@ Principals:<br>
 \- Mr Tan Yee Kan (2005–2010)<br>
 \- Mrs Tan Chuen-Yin (2010–2014)<br>
 \- Ms Sharon Yeo (2014–2020) <br>
-\- Mr Ng Teo Heng (2020 - present)
+\- Mr Ng Teo Heng (2020 - 2025) <br>
+\- Mr Koh Chee Hui (2026-present)
 
 #### **Key Milestones**
 

@@ -3,6 +3,7 @@ title: Westwood Secondary School
 permalink: /school-histories/westwood-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/westwoodsec1.png">
 
@@ -13,40 +14,6 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT2ZtXQtpD-DXWQHh-7yy5NmVlwDKP4yIll5sA9m4J8dVwXN9nK8FFu36HyLuNJ0XctHESVO6uhpcw6/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-
-<p><a href="/images/westwoodsec2.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec2.jpg">
-</a></p>
-
-<p><a href="/images/westwoodsec3.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec3.jpg">
-</a></p>
-
-<p><a href="/images/westwoodsec4.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec4.jpg">
-</a></p>
-
-<p><a href="/images/westwoodsec5.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec5.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/westwoodsec6.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec6.jpg">
-</a></p>
-
-<p><a href="/images/westwoodsec7.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec7.jpg">
-</a></p>
-
-<p><a href="/images/westwoodsec8.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec8.jpg">
-</a></p>
-
-<p><a href="/images/westwoodsec9.jpg">  
-<img align="left" style="width:22%;margin-right:15px;" src="/images/westwoodsec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -65,7 +32,8 @@ Principals:<br>
 \- Ms Kok Lee Kwang (2000–2004)<br>
 \- Mrs Betty Chow (2004–2011)<br>
 \- Ms Sandra Gwee (2011–2016)<br>
-\- Mr Abdul Harris B. Sumardi (2016–present)
+\- Mr Abdul Harris B. Sumardi (2016–2025) <br>
+\- Mr Tan Weiming Brian (2026-present) 
 
 #### **Key Milestones**
 

@@ -14,37 +14,7 @@ variant: markdown
 
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNzguc02s1TP-HfAjErGg1Buz_rKX7uu7niOnvT6m4_iShndVS5BbY0YG-URFkO4H9wK1agRf4rs2o/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
-<p><a href="/images/boonlaysec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec2.jpg">
-</a></p>
 
-<p><a href="/images/boonlaysec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec3.jpg">
-</a></p>
-
-<p><a href="/images/boonlaysec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/boonlaysec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec5.jpg">
-</a></p>
-
-<p><a href="/images/boonlaysec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec6.jpg">
-</a></p>
-
-<p><a href="/images/boonlaysec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/boonlaysec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/boonlaysec8.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -65,7 +35,8 @@ Principals:<br>
 * Ms Doris Ho (2001–2008)<br>
 * Mr Victor Giam Chong Guan (2008–2014)<br>
 * Mr Tan Chor Pang (2015–2019)<br>
-* Mr Inderjit Singh (2019–present)
+* Mr Inderjit Singh (2019–2025)<br>
+* Mr Chan Zheng Ming (2025-present)
 
 **Related School:** **[Pioneer Secondary School](/school-histories/pioneer-sec/)**
 
