@@ -3,6 +3,7 @@ title: Anglo Chinese Junior College
 permalink: /school-histories/acjc/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/acjc1.png">
 
@@ -12,37 +13,6 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 <iframe allowfullscreen="true" height="479" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFm8830go-FyWeSffNwgVODn36yN36fErBLPbUHD557E37ygnxWAz3fIufUYtwe4yyETQM5VAbASCE/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
-<p><a href="/images/acjc2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc2.jpg">
-</a></p>
-
-<p><a href="/images/acjc3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc3.jpg">
-</a></p>
-
-<p><a href="/images/acjc4.jpg">  
-<img align="right" style="width:30%;margin-right:15px;" src="/images/acjc4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/acjc5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc5.jpg">
-</a></p>
-
-<p><a href="/images/acjc6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/acjc7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc7.jpg">
-</a></p>
-
-<p><a href="/images/acjc8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/acjc8.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -63,7 +33,8 @@ Principals:<br>
 * Mrs Lim Han Soon (1997–2002)<br>
 * Mrs Kelvyna Chan (2002–2013)<br>
 * Ms Beatrice Chong (2013–2017)<br>
-* Dr Shirleen Chee (2017–present)
+* Dr Shirleen Chee (2017–2025)<br>
+* Mdm Koh Ming-Li Valarie (2026 - present)
 
 #### **Key Milestones**
 
