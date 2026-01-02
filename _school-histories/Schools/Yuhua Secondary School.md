@@ -3,6 +3,7 @@ title: Yuhua Secondary School
 permalink: /school-histories/yuhua-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuasec1.jpg">
 
@@ -15,43 +16,7 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTO71FdL48r6_gltxXrKPLcOgNvHFbWBtPwo8lH4W-iIbQTuhQEKIR8nFbRk2zNUzSitXV0iWWmZKqK/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/yuhuasec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec2.jpg">
-</a></p>
 
-<p><a href="/images/yuhuasec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec3.jpg">
-</a></p>
-
-<p><a href="/images/yuhuasec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuhuasec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec5.jpg">
-</a></p>
-
-<p><a href="/images/yuhuasec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec6.jpg">
-</a></p>
-
-<p><a href="/images/yuhuasec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuhuasec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec8.jpg">
-</a></p>
-
-<p><a href="/images/yuhuasec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuasec9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yuhua Secondary School was established in 1986 as a government co-educational school at 35 Jurong West Street 41, and officially opened on 16 September 1988.
@@ -68,7 +33,8 @@ Principals:<br>
 \- Mr Yap Juye Long (2007–2011)<br>
 \- Ms Ng Soon Kit (2011–2018)<br>
 \- Mr Yap Wai Meng (Dec 2018–Dec 2019)<br>
-\- Mr Pang Chin Keat Kevin (Dec 2019–present)
+\- Mr Pang Chin Keat Kevin (Dec 2019–2025) <br>
+\- Mr Tang Hsin Wei (2026-present)
 
 **Related School: [Shuqun Secondary School](/school-histories/shuqun-sec/)**
 
@@ -104,7 +70,8 @@ The diagonal strokes on the right represent the latitude and the longitude of th
 
 #### **School Song**
 
-<small>*School song unavailable*</small>
+
+[**♫**] [Listen](https://drive.google.com/file/d/17TgCaMXf7mJWVqE1XPkGe1HGHyE_ywgq/view?usp=drive_link) 
 
 Here I am in Yuhua,  
 a brand new day,  
