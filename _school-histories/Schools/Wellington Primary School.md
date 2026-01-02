@@ -3,6 +3,7 @@ title: Wellington Primary School
 permalink: /school-histories/wellington-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/wellingtonpri1.png">
 
@@ -14,46 +15,17 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR7iZpjbn3zpQVjP6BSq5QaFmKg_Q2Omia_USuSAo1hyUiVGlpelBedKd7IhCXtXfqHP67h8fAw8gpV/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/wellingtonpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri2.jpg">
-</a></p>
-
-<p><a href="/images/wellingtonpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri3.jpg">
-</a></p>
-
-<p><a href="/images/wellingtonpri4.jpg">  
-<img align="right" style="width:30%;margin-right:45px;" src="/images/wellingtonpri4.jpg">
-</a></p>
-
-<p><a href="/images/wellingtonpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri5.jpg">
-</a></p>
-
-<p><a href="/images/wellingtonpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri6.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/wellingtonpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri7.jpg">
-</a></p>
-
-<p><a href="/images/wellingtonpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri8.jpg">
-</a></p>
-
-<p><a href="/images/wellingtonpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/wellingtonpri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Wellington Primary School was established in 2001 with an initial enrolment of 303 students and 14 staff. It is located at 10 Wellington Circle in the Sembawang neighbourhood. Today, the school has come a long way and has nearly 1,400 students. Vibrant and innovative, the school provides an all-round education that helps to build up the thinking minds and well-being of every individual and to develop them as creative learners. In 2006, Wellington Primary School received the Innergy Award for its innovative efforts in nurturing the spirit of I &amp; E of its students through the sericulture programme of breeding silkworms for their cocoons. In 2013, Wellington Primary School was the champion for the North Zone Primary School Soccer Championship for both the Senior and Junior Divisions.
 
 As the school envisions to prepare its students for the 21st century, curriculum and programmes are planned to empower the students with the relevant knowledge, skills and values to thrive in a future driven by globalisation and technological advancements. The school hopes for students to develop creative thinking, with an inquiring mind, and to nurture them to become confident individuals, self-directed learners, active contributors and concerned citizens.
+
+Principals:
+<br>
+\- Mr Gary Tsu (2016 - 2024)<br>
+\- Albert Alfred Alcantara (2018 - 2025)<br>
+\- Mdm Ng Hui Min (2026-present)
 
 #### **Key Milestones**
 
