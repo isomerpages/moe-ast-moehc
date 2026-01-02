@@ -3,6 +3,7 @@ title: Rulang Primary School
 permalink: /school-histories/rulang-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/rulangpri1.png">
 
@@ -14,41 +15,9 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2_2UMC0JAWtIeKbWDTkykLtDuIqpgfsgyyyg_vFz9uYlr44KPK091H9ugsQ6zUhem7T_p_hteSKhT/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/rulangpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri2.jpg">
-</a></p>
 
-<p><a href="/images/rulangpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri3.jpg">
-</a></p>
 
-<p><a href="/images/rulangpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri4.jpg">
-</a></p>
 
-<br clear="left">
-
-<p><a href="/images/rulangpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri5.jpg">
-</a></p>
-
-<p><a href="/images/rulangpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri6.jpg">
-</a></p>
-
-<p><a href="/images/rulangpri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/rulangpri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri8.jpg">
-</a></p>
-
-<p><a href="/images/rulangpri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/rulangpri9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -80,7 +49,8 @@ Principals:<br>
 \- Mdm Lee Lai Yong (1998–2004)<br>
 \- Mdm Cheryl Foo Lih Jong (2005–2012)<br>
 \- Mr Eugene Ong Kai Tiong (2013–2019)<br>
-\- Ms Tracy Tan I-Lian (2020–present)
+\- Ms Tracy Tan I-Lian (2020–2025)<br>
+\- Mdm Yeow Chern Ee (2026-present)
 
 #### **Key Milestones**
 
