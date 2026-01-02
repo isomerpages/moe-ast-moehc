@@ -30,7 +30,8 @@ The official school opening ceremony was held on 23 July 2010.
 
 Principals:<br>
 * Miss Lim Boon Cheng (2006–2018)<br>
-* Ms Pang Wee Mian (2019–present)
+* Ms Pang Wee Mian (2019–2025)<br>
+* Ms Ng Suat Theng Angela (2026-present)
 
 
 #### **Key Milestones**
