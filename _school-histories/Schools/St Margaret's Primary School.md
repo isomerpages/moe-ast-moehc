@@ -52,7 +52,8 @@ Principals:<br>
 \- Ms May Chew (1987–2003)<br>
 \- Mrs Elsie Poey (2004–2011)<br>
 \- Ms Pang Wee Mian (2012–2018)<br>
-\- Mrs Ko-Tan Li Ling (2019 – present)
+\- Mrs Ko-Tan Li Ling (2019 – 2025)<br>
+\- Ms Neo Hui En Cherlyn (2026-present)
 
 #### **Key Milestones**
 
