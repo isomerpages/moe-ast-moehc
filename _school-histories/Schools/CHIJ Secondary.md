@@ -3,6 +3,7 @@ title: CHIJ Secondary
 permalink: /school-histories/chij-sec/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/chijsec1.jpg">
 
@@ -14,41 +15,7 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQacP2qQ8Bt-mOug0jv1AXRxcbltvI9mp4DzYDCG4SrPgCD2otjYNf1pTR33VV6hZS4ccv6LjLe4Lj5/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/chijsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec2.jpg">
-</a></p>
 
-<p><a href="/images/chijsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec3.jpg">
-</a></p>
-
-<p><a href="/images/chijsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chijsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec5.jpg">
-</a></p>
-
-<p><a href="/images/chijsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec6.jpg">
-</a></p>
-
-<p><a href="/images/chijsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/chijsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec8.jpg">
-</a></p>
-
-<p><a href="/images/chijsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/chijsec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -80,7 +47,8 @@ Principals:<br>
 \- Ms Theodora Tan (2001–2006)<br>
 \- Mrs Regina Lee (2006–2012)<br>
 \- Mrs Karen Tay (2013–2018)<br>
-\- Mrs Rachel Lee (2019–present)
+\- Mrs Rachel Lee (2019–2025) <br> 
+\- Ms Chye Wui Hung Genevieve (2026-present)
 
 #### **Key Milestones**
 
