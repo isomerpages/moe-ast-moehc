@@ -3,6 +3,7 @@ title: St Patrick's School
 permalink: /school-histories/st-patrick-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/stpatrickssch1.jpg">
 
@@ -49,7 +50,8 @@ Principals:<br>
 \- Mr Lak Pati Singh Lucas (2002–2011)<br>
 \- Mr Adolphus Tan Chin Eng (2012–2017)<br>
 \- Mr Eric Lee Wei Tat (2018–2019)<br>
-\- Mr Mark Gerard Minjoot (2019–present)
+\- Mr Mark Gerard Minjoot (2019–2025) <br>
+\- Mr Ting Poh Leong Aloysius (2026-present) 
 
 #### **Key Milestones**
 
