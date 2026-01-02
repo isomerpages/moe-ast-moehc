@@ -16,41 +16,7 @@ variant: markdown
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAix4sAvIQT9uBEQ9EUqRJQhveAl5gnu1xCmxo0AKEHe9CtwjYM2oMi7PBFMdrKj5eLEjSjGuEXGqc/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/woodlandsringsec2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec2.jpg">
-</a></p>
 
-<p><a href="/images/woodlandsringsec3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec3.jpg">
-</a></p>
-
-<p><a href="/images/woodlandsringsec4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/woodlandsringsec5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec5.jpg">
-</a></p>
-
-<p><a href="/images/woodlandsringsec6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec6.jpg">
-</a></p>
-
-<p><a href="/images/woodlandsringsec7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/woodlandsringsec8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec8.jpg">
-</a></p>
-
-<p><a href="/images/woodlandsringsec9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/woodlandsringsec9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -98,7 +64,7 @@ The school emblem forms the initials of the school, ‘WRSS’. It projects the 
 The colour red represents dynamism and strength, the passion to rise and succeed. Green is the colour of growth and development, while golden yellow symbolises the rays of the sun that radiate hope, wisdom and warmth.
 
 #### **School Song**
-<a href="https://drive.google.com/file/d/15g-00revZbmdW5OZInEj2D9NuXoneSgA/view?usp=share_link" target="_blank">**♫ Listen**</a>
+<a href="https://drive.google.com/file/d/1FQDaUP0UgBT9-z-dhcRgwBt_7k7o3MKO/view?usp=drive_link" target="_blank">**♫ Listen**</a>
 
 Growing up, what wonders we behold!<br>
 Like butterflies from cocoons we unfold<br>
