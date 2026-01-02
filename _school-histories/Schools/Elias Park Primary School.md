@@ -15,29 +15,6 @@ variant: markdown
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8IqGeJ-Qoa7BjpccjVfx3S0d8THvTYaarSDzQEB6N1epL0lfmodykgX9dmAl48h584pT1FIX5eQn3/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/aliasparkpri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri2.jpg">
-</a></p>
-
-<p><a href="/images/aliasparkpri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri3.jpg">
-</a></p>
-
-<p><a href="/images/aliasparkpri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/aliasparkpri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri5.jpg">
-</a></p>
-
-<p><a href="/images/aliasparkpri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/aliasparkpri6.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Elias Park Primary School (EPPS) was the third primary school constructed in the suburban town of Pasir Ris. Established to meet the demand for primary education in Pasir Ris, the school was part of the Public Works Department’s fourth Primary School Building Programme.
@@ -55,7 +32,8 @@ Principals:<br>
 \- Ms Brenda Yeow (2001–2005)<br>
 \- Mrs Wong Siew Shan (2006–2010)<br>
 \- Mdm Cassie Fan (2011–2017)<br>
-\- Mdm Chua Pei Pei (2018–present)
+\- Mdm Chua Pei Pei (2018–2025)<br>
+\- Mdm Nurazian Binte Bajuri (2026-present)
 
 #### **Key Milestones**
 
