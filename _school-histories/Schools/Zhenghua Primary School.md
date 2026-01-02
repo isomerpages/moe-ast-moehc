@@ -3,6 +3,7 @@ title: Zhenghua Primary School
 permalink: /school-histories/zhenghua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/zhenghuapri1.png">
 
@@ -15,41 +16,6 @@ third_nav_title: Schools
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQRRaaDoYr2P_ohxI5KtjYO54vfbGae3Dx4eSzwOUeWBE-m1c9BprNZrB8X16uMqKkNyitLAq8HZIeQ/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/zhenghuapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri2.jpg">
-</a></p>
-
-<p><a href="/images/zhenghuapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri3.jpg">
-</a></p>
-
-<p><a href="/images/zhenghuapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhenghuapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri5.jpg">
-</a></p>
-
-<p><a href="/images/zhenghuapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri6.jpg">
-</a></p>
-
-<p><a href="/images/zhenghuapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/zhenghuapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri8.jpg">
-</a></p>
-
-<p><a href="/images/zhenghuapri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/zhenghuapri9.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -69,7 +35,8 @@ Principals: <br>
 \- Mdm Lee Tee Choon (2000 - 2005)<br>
 \- Mr Koh Chin Thong (2006 - 2011)<br>
 \- Mrs Rita Dass (2012 - 2018)<br>
-\- Mrs Constance Loke (2019 - present)
+\- Mrs Constance Loke (2019 - 2025) <br>
+\- Mdm Tan Mui Gee (2026 - present)
 
 #### **Key Milestones**
 
