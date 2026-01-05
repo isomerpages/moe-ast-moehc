@@ -36,7 +36,7 @@ Principals:<br>
 * Mr Victor Giam Chong Guan (2008–2014)<br>
 * Mr Tan Chor Pang (2015–2019)<br>
 * Mr Inderjit Singh (2019–2025)<br>
-* Mr Chan Zheng Ming (2025-present)
+* Mr Chan Zheng Ming (2026-present)
 
 **Related School:** **[Pioneer Secondary School](/school-histories/pioneer-sec/)**
 
