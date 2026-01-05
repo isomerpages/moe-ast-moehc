@@ -106,13 +106,29 @@ a dare-to-try spirit, while tapping on the affordances of technology in
 the form of digital portfolios, digital platforms, and digital devices,
 to augment the learning experience for our students. A Maker Space was
 created to allow our students to tinker and make prototypes of their solutions.</p>
-<p>Principals:
-<br>- Mr Tan Say Kiat (1997–2002)
-<br>- Mr Wong Poo Mun, Sam (2002–2009)
-<br>- Mrs Chin Shin Wea (2009–2013)
-<br>- Mrs Loh Meng Har (2014–2018)
-<br>- Mdm Goh Meei Yunn (2019–2025)</p>
-<p>- Mdm Wong Hian Hwee Constance (2026-present)</p>
+<p>Principals:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Tan Say Kiat (1997-2001)</p>
+</li>
+<li>
+<p>Mr Wong Poo Mun, Sam (2002-2008)</p>
+</li>
+<li>
+<p>Mrs Chin Shin Wea (2009–2013)</p>
+</li>
+<li>
+<p>Mrs Loh Meng Har (2014-2018)</p>
+</li>
+<li>
+<p>Mdm Goh Meei Yunn (2019-2025)</p>
+</li>
+<li>
+<p>Mdm Wong Hian Hwee Constance (2026-present)
+<br>
+</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Key Milestones</strong></h4>
 <table style="minWidth: 50px">
