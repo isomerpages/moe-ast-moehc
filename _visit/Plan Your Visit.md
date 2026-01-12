@@ -22,7 +22,7 @@ Closed on weekends and public holidays.
 4.30pm)
 * 30 January 2026 |  10am - 12pm (last entry
 11.30am)
-* 20 Febuary 2026 |  2pm - 5pm (last entry
+* 20 February 2026 |  2pm - 5pm (last entry
 4.30pm)
 * 21 April 2026 | 2pm - 5pm (last entry
 4.30pm)
