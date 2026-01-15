@@ -43,7 +43,8 @@ of Tomorrow through Music and the Performing Arts’. In 2018, the school
 was selected to offer the Enhanced ALP in Mother Tongue Languages, which
 seeks to groom students who are strong and talented in mother tongue languages
 for relevant courses and careers in their post-secondary education and
-workplace respectively.</p>
+workplace respectively. In 2025, PRCS reoriented its Learning for Life
+Programme to ‘Crestian Leadership Programme’.</p>
 <p>Principals:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -59,7 +60,10 @@ workplace respectively.</p>
 <p>Mr Balamurugan Krishnasamy (2016)</p>
 </li>
 <li>
-<p>Mr Tan Shun Loong (2017–present)</p>
+<p>Mr Tan Shun Loong (2017–2021)</p>
+</li>
+<li>
+<p>Mrs Koh Caiyu (2021–present)</p>
 </li>
 </ul>
 <p></p>
@@ -117,14 +121,6 @@ of Tomorrow through Music and the Performing Arts’.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Celebration of 15th anniversary.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2018</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,6 +133,27 @@ of Tomorrow through Music and the Performing Arts’.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Celebration of 20th anniversary taking into consideration COVID-19.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Re-envisioning exercise and renewed Mission Statement, Vision Statement
+and School Values:</p>
+<p>Mission: A Choice School that nurtures the Hearts and Minds of Crestian
+Leaders to be the pride of family, community and nation.</p>
+<p>Vision: Our Caring Home, Our CRESTian Leaders</p>
+<p>Values: Care, Resilience, Excellence, Self-Belief, Trustworthiness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reoriented Learning for Life Programme to ‘Crestian Leadership Programme’.</p>
 </td>
 </tr>
 </tbody>
