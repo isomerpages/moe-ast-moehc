@@ -3,6 +3,7 @@ title: Fuhua Primary School
 permalink: /school-histories/fuhua-pri/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/fuhuapri1.jpg">
 
@@ -14,33 +15,6 @@ third_nav_title: Schools
 #### **Image Gallery**
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSSuro_3rMciQ7Zp7yU7ybfsZgUu4VEa209MVcIs8UHUkvvyW29ZxkWIrzKIqhgf2DxM3xxdfIHYFHr/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/fuhuapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri2.jpg">
-</a></p>
-
-<p><a href="/images/fuhuapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri3.jpg">
-</a></p>
-
-<p><a href="/images/fuhuapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri4.jpg">
-</a></p>
-
-<p><a href="/images/fuhuapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri5.jpg">
-</a></p>
-
-<p><a href="/images/fuhuapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri6.jpg">
-</a></p>
-
-<p><a href="/images/fuhuapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri7.jpg">
-</a></p>
-
-<p><a href="/images/fuhuapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/fuhuapri8.jpg">
-</a></p>
 
 <br clear="left">
 
@@ -95,6 +69,8 @@ Frugality and Honesty
 The school badge has two colours: beige and chocolate brown. The earthy colours signify the dignity of labour and the cultivation of the correct attitude in the use of our hands. The badge incorporates the letters F &amp; H, the initials of the school and the school motto: FRUGALITY AND HONESTY. The whole design is enclosed in a ring and it depicts the strong character of the school, working together as a team in unity and harmony, continual growth, and development of the school.
 
 #### **School Song**
+
+<a href="https://drive.google.com/file/d/1hAZ-m8LizcWZWWlwgn4kcQYw3pX3_Ow9/view?usp=sharing" target="_blank">**♫ Listen**</a>
 
 Verse 1<br>
 We'll sing in praise of Fuhua<br>
