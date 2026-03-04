@@ -101,7 +101,10 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 <p>Central Lending Library – 27 Dec 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
 </li>
 <li>
-<p>SAFRA Jurong – Mar 2026  &nbsp;&nbsp;</p>
+<p>SAFRA Jurong – 16 Mar 2026, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
+</li>
+<li>
+<p>SAFRA Jurong – 18 Mar 2026, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
 </li>
 <li>
 <p>Bishan Library – Apr 2026  &nbsp;&nbsp;</p>
@@ -113,9 +116,7 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 <p>MOE Heritage Centre – Sep, Dec 2026    &nbsp;&nbsp;</p>
 </li>
 </ul>
-<p>Note: For December slots onwards, registration opens 8 weeks in advance.
-Do check in again for more details and to reserve your school campaign
-journey! </p>
+<p></p>
 <h4><strong><a href="https://form.gov.sg/688c141ed47de8160abc3730" rel="noopener nofollow" target="_blank">Register here now!</a></strong></h4>
 <p></p>
 <p></p>
