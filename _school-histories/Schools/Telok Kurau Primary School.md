@@ -56,7 +56,7 @@ Principals:<br>
 Strive for Excellence
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/tkps_crest.png">
 
 The school crest shows the letter ‘T’ in the middle of the crest, representing TKPS. The ‘T’ extends with a circle to show a physically and mentally active team constantly and eagerly seeking knowledge. The colour blue represents discipline and stability. Yellow represents creativity, interest and youth. White represents equality and honesty.
 
