@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/tkps_crest.png">
+					
+					
 ### **Telok Kurau Primary School**
 [URL to website](https://telokkuraupri.moe.edu.sg/) 
 
