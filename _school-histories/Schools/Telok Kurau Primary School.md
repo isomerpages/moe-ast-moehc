@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
-
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/tkps_crest.png">
+					
+					
 ### **Telok Kurau Primary School**
 [URL to website](https://telokkuraupri.moe.edu.sg/) 
 
@@ -25,7 +26,7 @@ A four-storey building at 408 Joo Chiat Place was built in 1967 to replace the o
 
 In 1983, Telok Kurau Malay Girls’ School merged with Telok Kurau West School. Two years later, the merged school amalgamated with Telok Kurau East School to form Telok Kurau Primay School as it is known today. The school closed its premises at Joo Chiat Place in 2000 and moved to its current location at 50 Bedok Reservoir Road in 2001, after amalgamating with Bedok Town Primary School. That year, Telok Kurau Primary School also celebrated its 75th anniversary. The school was officially opened in 2002. In 2016, Telok Kurau Primary School celebrated its 90th anniversary.
 
-In 2021, Eunos Primary School merged with Telok Kurau Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. The merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学. which symbolises the promise of friendship.
+In 2023, Eunos Primary School merged with Telok Kurau Primary School. The merged school is located at the current site of Telok Kurau Primary School at Bedok Reservoir Road. The merged school’s English name is Telok Kurau Primary School while her Chinese name is, 友诺小学. which symbolises the promise of friendship.
 
 Principals:<br>
 \- Mr Eugene Tan (1985–1988)<br>
@@ -49,13 +50,13 @@ Principals:<br>
 | 2000 | The late former Prime Minister Mr Lee Kuan Yew attended the closing ceremony as the Guest-of-Honour when the school made plans to relocate to Bedok Reservoir Road in 2011. |
 | 2003 | Late former First Lady Mrs S.R. Nathan visited Telok Kurau Primary School on 30 October to celebrate Children’s Day. |
 | 2016 | Celebration of 90th anniversary. |
-| 2021 | Eunos Primary School merged with Telok Kurau Primary School. 
+| 2023 | Eunos Primary School merged with Telok Kurau Primary School. 
 
 #### **School Motto**
 Strive for Excellence
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/telokkuraupri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/tkps_crest.png">
 
 The school crest shows the letter ‘T’ in the middle of the crest, representing TKPS. The ‘T’ extends with a circle to show a physically and mentally active team constantly and eagerly seeking knowledge. The colour blue represents discipline and stability. Yellow represents creativity, interest and youth. White represents equality and honesty.
 
