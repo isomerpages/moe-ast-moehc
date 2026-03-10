@@ -50,7 +50,7 @@ Principals:<br>
 | 2000 | The late former Prime Minister Mr Lee Kuan Yew attended the closing ceremony as the Guest-of-Honour when the school made plans to relocate to Bedok Reservoir Road in 2011. |
 | 2003 | Late former First Lady Mrs S.R. Nathan visited Telok Kurau Primary School on 30 October to celebrate Children’s Day. |
 | 2016 | Celebration of 90th anniversary. |
-| 2021 | Eunos Primary School merged with Telok Kurau Primary School. 
+| 2023 | Eunos Primary School merged with Telok Kurau Primary School. 
 
 #### **School Motto**
 Strive for Excellence
