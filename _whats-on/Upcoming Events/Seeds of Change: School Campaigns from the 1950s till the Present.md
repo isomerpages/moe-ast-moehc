@@ -70,10 +70,6 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>HomeTeam NS @ Khatib: May 2026</strong>
-</p>
-</li>
-<li>
 <p><strong>MOE Heritage Centre: Jun - Dec 2026</strong>
 </p>
 </li>
@@ -82,7 +78,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 <h2><strong>Growing Together: A Journey through School Campaigns</strong>&nbsp;</h2>
 <h4>Journey with your child into the past, present and future of school campaigns at our interactive workshop!   &nbsp;&nbsp;</h4>
 <p>Inspired by the MOE Heritage Centre's SG60 roving exhibition, <em>Seeds of Change: School Campaigns from the 1950s till the Present</em>,
-this 45-minute programme invites families to share stories across generations,
+this 60-minute programme invites families to share stories across generations,
 explore the values and beliefs that have shaped our nation, and reflect
 together on what Singapore means to them today. Through interactive activities
 and heartfelt conversations, parents and children will not only learn about
@@ -107,10 +103,7 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 <p>SAFRA Jurong – 18 Mar 2026, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
 </li>
 <li>
-<p>Bishan Library – Apr 2026  &nbsp;&nbsp;</p>
-</li>
-<li>
-<p>HomeTeam NS @ Khatib – May 2026  &nbsp;&nbsp;</p>
+<p>Bishan Library – 18 Apr 2026,2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp; &nbsp;&nbsp;</p>
 </li>
 <li>
 <p>MOE Heritage Centre – Sep, Dec 2026    &nbsp;&nbsp;</p>
