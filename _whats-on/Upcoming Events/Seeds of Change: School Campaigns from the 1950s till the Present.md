@@ -88,19 +88,19 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 <p>Check out our upcoming workshop venues and dates: &nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bedok Library – 22 Nov 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;&nbsp;</p>
+<p>Bedok Library – 22 Nov 2025, 2.00pm [PAST EVENT]&nbsp; &nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Central Lending Library – 20 Dec 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
+<p>Central Lending Library – 20 Dec 2025, 2.00pm [PAST EVENT]&nbsp; &nbsp;</p>
 </li>
 <li>
-<p>Central Lending Library – 27 Dec 2025, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
+<p>Central Lending Library – 27 Dec 2025, 2.00pm [PAST EVENT]&nbsp; &nbsp;</p>
 </li>
 <li>
-<p>SAFRA Jurong – 16 Mar 2026, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
+<p>SAFRA Jurong – 16 Mar 2026, 2.00pm [PAST EVENT]&nbsp; &nbsp;</p>
 </li>
 <li>
-<p>SAFRA Jurong – 18 Mar 2026, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp;</p>
+<p>SAFRA Jurong – 18 Mar 2026, 2.00pm [PAST EVENT]&nbsp; &nbsp;</p>
 </li>
 <li>
 <p>Bishan Library – 18 Apr 2026,2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp; &nbsp;&nbsp;</p>
