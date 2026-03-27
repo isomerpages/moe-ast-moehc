@@ -18,11 +18,8 @@ Closed on weekends and public holidays.
 **Please note our gallery's opening hours for the following dates:**
 
 
-* 27 January 2026 |  2pm - 5pm (last entry
-4.30pm)
-* 30 January 2026 |  10am - 12pm (last entry
-11.30am)
-* 20 February 2026 |  2pm - 5pm (last entry
+
+* 7 April 2026 |  2pm - 5pm (last entry
 4.30pm)
 * 21 April 2026 | 2pm - 5pm (last entry
 4.30pm)
