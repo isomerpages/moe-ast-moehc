@@ -70,7 +70,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>MOE Heritage Centre: Jun - Dec 2026</strong>
+<p><strong>MOE Heritage Centre: May - Dec 2026</strong>
 </p>
 </li>
 </ul>
@@ -103,7 +103,7 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 <p>SAFRA Jurong – 18 Mar 2026, 2.00pm <sub>[PAST EVENT]&nbsp;</sub> &nbsp;</p>
 </li>
 <li>
-<p>Bishan Library – 18 Apr 2026,2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp; &nbsp;&nbsp;</p>
+<p>Bishan Library – 18 Apr 2026, 2.00pm [<em>OPEN FOR BOOKING</em>] &nbsp; &nbsp;&nbsp;</p>
 </li>
 <li>
 <p>MOE Heritage Centre – Sep, Dec 2026    &nbsp;&nbsp;</p>
