@@ -8,7 +8,9 @@ third_nav_title: Schools
 <h3><strong>Pasir Panjang English School</strong></h3>
 <p></p>
 <h4><strong>Image Gallery</strong></h4>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="479" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRxP5r63ZQrvlzEZtW_THXXjUKEtzt4YiRLjGUyqqDXkg5KGGaiiLOBUUTH8VbfWIBkGY16ZYw0G4-6/pubembed?tart=false&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4><strong>School History</strong></h4>
 <p>Pasir Panjang English School was established in 1933 as one of the earliest
 government English schools in Pasir Panjang, during a period of rapid expansion
