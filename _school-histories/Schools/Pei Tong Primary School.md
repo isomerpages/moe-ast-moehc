@@ -52,7 +52,7 @@ Principals:
 | 2008 | Official opening of new school building at the same site. |
 | 2008 | Accorded Learning for Life Programme in MELODY@PEI TONG. |
 | 2018 | Completion of PERI Upgrading. |
-|
+|2025 | Pei Tong 80th Anniversary Celebration 
 
 #### **School Motto**
 We look ahead
@@ -67,17 +67,21 @@ The letters ‘PT’ stand for Pei Tong (培童), which means ‘nurturing the y
 
 Let us grow in strength and wisdom<br>
 With heart and soul, we do our best<br>
-We know for sure with good system<br>
-We will succeed when put to test.<br>
-To our school we all give honour<br>
-We learn and play in healthy ways.
-  
-Our country we cherish and adore<br>
-We all pledge to be strong and true.<br>
-Take courage friends for we are one<br>
-Respect one another honour our elders<br>
-Diligent stead-fast in all that we do<br>
-This is the path to a bright future.
+We know for sure with good values<br>
+We will succeed when put to test. <br>
+
+Take courage friends for we are one<br> 
+Respect one another, care for you and me Diligent stead-fast in all that we do<br>
+This is the path to a bright future.<br>
+
+To Pei Tong we give honour <br> 
+We learn and play in healthy ways.<br>
+Our country - we cherish and adore <br> 
+We all pledge to be strong and true. <br>
+
+Take courage friends for we are one<br> 
+Respect one another, care for you and me Diligent stead-fast in all that we do<br> 
+This is the path to a bright future. 
 
 _Music &amp; Lyrics by :_<br>
-_Mr David K.S.Lim_
+_Mr David K.S.Lim (Revised 2025)_
