@@ -68,7 +68,7 @@ Principals:<br>
 | 1997 | The National Heritage Board marked the old site of St Margaret’s School on Sophia/Wilkie Road as a historic location.|
 | 2001 | The PRIME upgrading was completed. |
 | 2020 | The school relocated to operate out of the temporary site; to pave way for the upgrading works under the MOE PERI (Primary Education Review and Implementation) Program. |
-| 2022 | The school celebrated its 180th Anniversary in 2022 with a host of activities which included a combined launch via zoom with SMS(S) and a heartwarming service on Founder’s Day.
+| 2025 | The school moved back to her original site with upgraded facilities at 136 Sophia Road.
 |
 
 #### **School Motto**
