@@ -30,7 +30,7 @@ In 2018, the school underwent PERI upgrading. In 2020, Horizon Primary now opera
 
 Principals:<br>
 \- Mrs Janet Ang (2009–2015)<br>
-\- Mrs Grace Leong (2016–present)<br>
+\- Mrs Grace Leong (2016–2022)<br>
 \- Mrs Ong Hui Khim (2023 - present)
 
 #### **Key Milestones**

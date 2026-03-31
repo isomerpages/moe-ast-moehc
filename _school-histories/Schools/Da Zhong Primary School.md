@@ -7,7 +7,7 @@ variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/dazhongpri1.png">
 
-### **Da Zhong Primary School**
+### **Dazhong Primary School**
 [URL to website](http://dazhongpri.moe.edu.sg/) 
 <br clear="left">
 
@@ -67,25 +67,24 @@ The rings depict progress as we acquire knowledge.
 <a target="\_blank" href="https://drive.google.com/file/d/1FdP_qx4bVtF56e3FtPKkDBtMjLcq7GRU/view?usp=share_link">**♫ Listen**</a>
 
 Verse 1:<br>
-We, at Dazhong, strive to be<br>
-The best that we can be<br>
-Always gracious and caring<br>
-Serving others beyond ourselves
+Like an A.R.C.H.E.R we strive to seek<br>
+As far as we can see With resilience and curiosity<br> We are Ace leaders with great empathy 
 
 Chorus:<br>
-Anchored in the values we believe<br>
-With pride we excel<br>
+High Potential Learners we can be<br>
+Aim for our own peaks<br>
 Soaring beyond limits<br>
-In unity and with perseverance
+We are Archers from Dazhong family
 
-Verse 2:<br>
-We, at Dazhong, strive to be<br>
-The best that we can be<br>
-To bloom and grow<br>
-In our stride towards our goals
+
+Verse 2: <br>
+Be the Greenovators we believe<br>
+To strive and to achieve<br> 
+Through respect and humility<br>
+Leading others towards our goals<br>
 
 Chorus:<br>
-Anchored in the values we believe<br>
-With pride we excel<br>
+High potential learners we can be<br>
+Aim for our own peaks<br>
 Soaring beyond limits<br>
-In unity and with perseverance
+We are Archers from Dazhong family
