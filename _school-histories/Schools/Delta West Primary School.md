@@ -23,6 +23,7 @@ In 1985, the school merged with Delta East School and Havelock School to form De
 
 Principals:<br>
 \- Mr Wee Loh Siew (1961 - unknown)
+\- Mr Huang Yong Chee (unknown) 
 
 #### **Key Milestones**
 
