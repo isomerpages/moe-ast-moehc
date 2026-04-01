@@ -16,43 +16,7 @@ variant: markdown
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTAl6HeKaH_qRfUZUI-D6VRYmAf7bxwFIj5vVpS074iPNxsrB6yOku6UWnjB42mMyqWgO2l-WvSIeU-/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="800" height="479" allowfullscreen="true"></iframe>
 
-<p><a href="/images/yuhuapri2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri2.jpg">
-</a></p>
 
-<p><a href="/images/yuhuapri3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri3.jpg">
-</a></p>
-
-<p><a href="/images/yuhuapri4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuhuapri5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri5.jpg">
-</a></p>
-
-<p><a href="/images/yuhuapri6.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri6.jpg">
-</a></p>
-
-<p><a href="/images/yuhuapri7.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri7.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/yuhuapri8.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri8.jpg">
-</a></p>
-
-<p><a href="/images/yuhuapri9.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/yuhuapri9.jpg">
-</a></p>
-
-<br clear="left">
 
 #### **School History**
 Yuhua Primary School was established in 1930 as Joo Hwa Public School. In 1981, Joo Hwa Public School was renamed Joo Hwa Primary School. In 1983, the school moved to its present premises at Jurong East Street 24 and assumed the name Yuhua Primary School. 
@@ -83,9 +47,11 @@ Principals:<br>
 | 2004 | Celebration of 21st anniversary. |
 | 2013 | Staging of first school musical, King Mungsong. |
 | 2014 | Completion of PERI upgrading. |
+|2014 | Accorded Learning for Life Programme for Building Good Character through Music and the Performing Arts.
 | 2015 | Became single-session. |
-|
-
+|2018 | Accorded Applied Learning Programme for Interdisciplinary Learning through Think@Yuhua – Developing Critical and Creative Thinkers.
+|2025 | Celebration of 95th anniversary.
+ 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuapri1.png">
 
