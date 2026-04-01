@@ -60,7 +60,7 @@ Principals:<br>
 |2014| Temporary relocation of the school to a holding site at the former Raffles Junior College campus in Mt Sinai.|
 | 2016 | Completion of PERI upgrading and became single-session school. |
 | 2019 | Celebration of 140th anniversary of formal establishment of the school and 60th anniversary as a full-fledged primary school. |
-|
+|2024 | Celebration of 65th anniversary as as a full-fledged primary school.
 
 #### **School Motto**
 Knowledge begets success
