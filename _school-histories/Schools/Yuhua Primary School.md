@@ -44,7 +44,7 @@ Principals:<br>
 | 1930 | Establishment of Joo Hwa Public School. |
 | 1983 | Relocation of school to Jurong East Street 24 and was renamed Yuhua Primary School. |
 | 2002 | Merger with Yuqun Primary School. |
-| 2004 | Celebration of 21st anniversary. |
+| 2004 | Celebration of 21st anniversary at the new site. |
 | 2013 | Staging of first school musical, King Mungsong. |
 | 2014 | Completion of PERI upgrading. |
 |2014 | Accorded Learning for Life Programme for Building Good Character through Music and the Performing Arts.
