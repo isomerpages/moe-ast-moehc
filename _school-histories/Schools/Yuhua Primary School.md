@@ -52,6 +52,9 @@ Principals:<br>
 |2018 | Accorded Applied Learning Programme for Interdisciplinary Learning through Think@Yuhua – Developing Critical and Creative Thinkers.
 |2025 | Celebration of 95th anniversary.
  
+ #### **School Motto**
+ Strive and Shine - Together We Can Achieve
+ 
 #### **School Crest**
 <img align="left" style="width:20%;margin-right:15px;" src="/images/yuhuapri1.png">
 
