@@ -70,7 +70,7 @@ and beliefs, and our vision for Singapore as we journey ahead together.</p>
 </p>
 </li>
 <li>
-<p><strong>MOE Heritage Centre: May - Dec 2026</strong>
+<p><strong>MOE Heritage Centre: 5 May - 31 Dec 2026</strong>
 </p>
 </li>
 </ul>
