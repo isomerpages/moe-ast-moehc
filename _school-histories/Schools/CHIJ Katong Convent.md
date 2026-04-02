@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/chijkatongconvent1.jpg">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/chij_katong.png">
 
 ### **CHIJ Katong Convent**
 [URL to website](https://www.chijkatongconvent.moe.edu.sg/)
