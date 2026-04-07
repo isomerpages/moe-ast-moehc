@@ -3,6 +3,7 @@ title: Bedok Girls' School
 permalink: /school-histories/bedok-girls-sch/
 description: ""
 third_nav_title: Schools
+variant: markdown
 ---
 <img align="left" style="width:20%;margin-right:15px;" src="/images/bedokgirlssch1.png">
 
@@ -11,23 +12,8 @@ third_nav_title: Schools
 
 #### **Image Gallery**
 
-<p><a href="/images/bedokgirlssch2.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch2.jpg">
-</a></p>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmkZCnQHlZeDqdeP05BBJiMRKzDQYnyNdXq0fRBSjhJqbEeNC6MJg9iE1p-XXs8D_x5X99YrT8km-E/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<p><a href="/images/bedokgirlssch3.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch3.jpg">
-</a></p>
-
-<p><a href="/images/bedokgirlssch4.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch4.jpg">
-</a></p>
-
-<br clear="left">
-
-<p><a href="/images/bedokgirlssch5.jpg">  
-<img align="left" style="width:30%;margin-right:15px;" src="/images/bedokgirlssch5.jpg">
-</a></p>
 
 <br clear="left">
 
