@@ -206,6 +206,11 @@ Largest Demonstration of Rouliqiu Performance.</p>
 		<br> 
 	</p><p>
 </p><p>
+	</p><p>
+	<br> 
+	</p><p> 
+		<br>
+		<br>
 <br>OUR SCHOOL CREST
 <br>校徽的浅解</p>
 <p>校徽的整个含义总结成以下四句：
