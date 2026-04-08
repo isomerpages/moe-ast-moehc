@@ -3,11 +3,10 @@ title: Poi Ching School
 permalink: /school-histories/poi-ching-sch/
 description: ""
 third_nav_title: Schools
-variant: tiptap
+variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/poichingsch1.png">
-</div>
+<img src="/images/poichingsch1.png" style="width:20%;margin-right:15px;" align="left">
+
 <h3><strong>Poi Ching School</strong></h3>
 <p><a href="https://www.poiching.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">URL to website</a>
 </p>
@@ -193,11 +192,19 @@ Largest Demonstration of Rouliqiu Performance.</p>
 <h4><strong>School Values</strong></h4>
 <p>忠孝节义 勤慎诚朴</p>
 <h4><strong>School Crest</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" src="/images/poichingsch1.png">
-</div>
-<p></p>
-<p>
+<img src="/images/poichingsch1.png" style="width:20%;margin-right:100px;" align="left">
+ 
+<p> 
+
+
+
+</p><p>
+	<br> 
+	</p><p> 
+		<br>
+		<br>
+		
+</p><p>
 <br>OUR SCHOOL CREST
 <br>校徽的浅解</p>
 <p>校徽的整个含义总结成以下四句：
