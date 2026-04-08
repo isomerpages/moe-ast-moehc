@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/newtownpri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/NTPS_Crest.png">
 
 ### **New Town Primary School**
 [URL to website](https://newtownpri.moe.edu.sg/)
@@ -61,7 +61,7 @@ Principals:<br>
 Ready To Serve
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/newtownpri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/NTPS_Crest.png">
 
 The lion represents Singapore, which the school, as citizens, continually serve. The flame in front of the lion signifies the philosophy of the school in inculcating sound moral values. The open book stands for knowledge and the spirit of learning.
 
