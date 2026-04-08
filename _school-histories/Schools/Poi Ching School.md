@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-
 <img src="/images/poichingsch1.png" style="width:20%;margin-right:15px;" align="left">
 
 <h3><strong>Poi Ching School</strong></h3>
