@@ -3,10 +3,11 @@ title: Poi Ching School
 permalink: /school-histories/poi-ching-sch/
 description: ""
 third_nav_title: Schools
-variant: markdown
+variant: tiptap
 ---
-<img src="/images/poichingsch1.png" style="width:20%;margin-right:15px;" align="left">
-
+<div class="isomer-image-wrapper">
+<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/poichingsch1.png">
+</div>
 <h3><strong>Poi Ching School</strong></h3>
 <p><a href="https://www.poiching.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">URL to website</a>
 </p>
@@ -65,13 +66,13 @@ anniversary.</p>
 <br>- 柳佑文 (1948–1949)
 <br>- 陈昌学 (1949–1968)
 <br>- 陈平福 (1968–1984)
-<br>- Mr Yu Chu Siong (1984–1995)
-<br>- Mr Lim Chin Sam (1995–1999)
-<br>- Mdm Foo Mui Chuw (2000–2006)
-<br>- Mr Chong Kwai Kuen (2007–2014)
-<br>- Mr Andrew Mah (2015–2020)
-<br>- Mrs Cheong Ye Ling (2021-2024)
-<br>- Mrs Soh-Lim Tzyy Shiuan (2025–present)</p>
+<br>- 俞书祥 Mr Yu Chu Siong (1984–1995)
+<br>- 林清山 Mr Lim Chin Sam (1995–1999)
+<br>- 符美珠 Mdm Foo Mui Chuw (2000–2006)
+<br>- 钟桂权 Mr Chong Kwai Kuen (2007–2014)
+<br>- 马成忠 Mr Andrew Mah (2015–2020)
+<br>- 蔡颐龄 Mrs Cheong Ye Ling (2021-2024)
+<br>- 林紫萱 Mrs Soh-Lim Tzyy Shiuan (2025–present)</p>
 <h4><strong>Key Milestones</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -192,25 +193,26 @@ Largest Demonstration of Rouliqiu Performance.</p>
 <h4><strong>School Values</strong></h4>
 <p>忠孝节义 勤慎诚朴</p>
 <h4><strong>School Crest</strong></h4>
-<img src="/images/poichingsch1.png" style="width:20%;margin-right:100px;" align="left">
- 
-<p> 
-
-
-
-</p><p>
-	<br> 
-	</p><p> 
-		<br>
-		<br>
-		<br> 
-	</p><p>
-</p><p>
-	</p><p>
-	<br> 
-	</p><p> 
-		<br>
-		<br>
+<div class="isomer-image-wrapper">
+<img style="width:20%;margin-right:100px;" height="auto" width="100%" src="/images/poichingsch1.png">
+</div>
+<p></p>
+<p>
+<br>
+</p>
+<p>
+<br>
+<br>
+<br>
+</p>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
+<p>
+<br>
+<br>
 <br>OUR SCHOOL CREST
 <br>校徽的浅解</p>
 <p>校徽的整个含义总结成以下四句：

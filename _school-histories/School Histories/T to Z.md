@@ -169,17 +169,16 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestV2.png">
 <img align="left" style="width:22%;margin-left:85px;" src="/images/crestW1.png">
-<img align="right" style="width:22%;margin-right:45px;" src="/images/crestW1.png">
-
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW2.png">
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [Wellington Primary School](/school-histories/wellington-pri/) | [West Grove Primary School](/school-histories/west-grove-pri/) | [West Hill School](/school-histories/west-hill-sch/) |
 
-<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW2.png">
-<img align="left" style="width:18%;margin-left:105px;" src="/images/crestW3.png">
-<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW4.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW3.png">
+<img align="left" style="width:18%;margin-left:105px;" src="/images/crestW4.png">
+<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW5.png">
 
 <br clear="left">
 
@@ -187,9 +186,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [West Spring Primary School](/school-histories/west-spring-pri/) | [West Spring Secondary School](/school-histories/west-spring-sec/) | [West View Primary School](/school-histories/west-view-pri/) |
 
-<img align="left" style="width:16%;margin-left:85px;" src="/images/crestW5.png">
-<img align="left" style="width:23%;margin-left:95px;" src="/images/crestW6.png">
-<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW7.png">
+<img align="left" style="width:19%;margin-left:85px;" src="/images/crestW6.png">
+<img align="left" style="width:18%;margin-left:85px;" src="/images/crestW7.png">
+<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW8.png">
 
 <br clear="left">
 
@@ -197,9 +196,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Westlake Primary School](/school-histories/westlake-pri/) | [Westwood Primary School](/school-histories/westwood-pri/) | [Westwood Secondary School](/school-histories/westwood-sec/) |
 
-<img align="left" style="width:20%;margin-left:75px;" src="/images/crestW8.png">
-<img align="left" style="width:17%;margin-left:105px;" src="/images/crestW9.png">
-<img align="right" style="width:17%;margin-right:65px;" src="/images/crestW10.png">
+<img align="left" style="width:20%;margin-left:75px;" src="/images/crestW9.png">
+<img align="left" style="width:17%;margin-left:105px;" src="/images/crestW10.png">
+<img align="right" style="width:17%;margin-right:65px;" src="/images/crestW11.png">
 
 <br clear="left">
 
@@ -207,9 +206,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Whampoa Secondary School](/school-histories/whampoa-sec/) | [White Sands Primary School](/school-histories/white-sands-pri/) | [Whitley Secondary School](/school-histories/whitley-sec/) |
 
-<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW11.png">
-<img align="left" style="width:20%;margin-left:105px;" src="/images/crestW12.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW13.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW12.png">
+<img align="left" style="width:20%;margin-left:105px;" src="/images/crestW13.png">
+<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW14.png">
 
 <br clear="left">
 
@@ -217,9 +216,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Willow Avenue Secondary School](/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](/school-histories/woodgrove-sec/) |
 
-<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW14.png">
-<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW15.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW16.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW15.png">
+<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW16.png">
+<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW17.jpg">
 
 <br clear="left">
 
@@ -227,9 +226,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Woodlands Primary School](/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](/school-histories/woodlands-ring-sec/) |
 
-<img align="left" style="width:16%;margin-left:75px;" src="/images/crestW17.jpg">
-<img align="left" style="width:17%;margin-left:135px;" src="/images/crestW18.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW19.png">
+<img align="left" style="width:16%;margin-left:75px;" src="/images/crestW18.png">
+<img align="left" style="width:17%;margin-left:125px;" src="/images/crestW19.png">
+<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW20.jpg">
 
 <br clear="left">
 
@@ -237,9 +236,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Woodlands Secondary School](/school-histories/woodlands-sec/) | [Woodsville Primary School](/school-histories/woodsville-pri/) | [Woodsville Secondary School](/school-histories/woodsville-sec/) |
 
-<img align="left" style="width:22%;margin-left:45px;" src="/images/crestW20.jpg">
-<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW21.png">
-<img align="right" style="width:18%;margin-right:65px;" src="/images/crestW22.png">
+<img align="left" style="width:22%;margin-left:45px;" src="/images/crestW21.png">
+<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW22.png">
+<img align="right" style="width:18%;margin-right:65px;" src="/images/woodsvillesec1.png">
 
 <br clear="left">
 
