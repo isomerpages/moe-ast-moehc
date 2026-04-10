@@ -217,8 +217,8 @@ third_nav_title: School Histories
 | [Willow Avenue Secondary School](/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](/school-histories/woodgrove-sec/) |
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestW15.png">
-<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW16.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW17.jpg">
+<img align="left" style="width:16%;margin-left:100px;" src="/images/crestW16.png">
+<img align="right" style="width:16%;margin-right:60px;" src="/images/crestW17.jpg">
 
 <br clear="left">
 
