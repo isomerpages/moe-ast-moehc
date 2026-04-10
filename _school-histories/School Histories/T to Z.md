@@ -187,8 +187,8 @@ third_nav_title: School Histories
 | [West Spring Primary School](/school-histories/west-spring-pri/) | [West Spring Secondary School](/school-histories/west-spring-sec/) | [West View Primary School](/school-histories/west-view-pri/) |
 
 <img align="left" style="width:19%;margin-left:85px;" src="/images/crestW6.png">
-<img align="left" style="width:18%;margin-left:95px;" src="/images/crestW7.png">
-<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW7.png">
+<img align="left" style="width:18%;margin-left:85px;" src="/images/crestW7.png">
+<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW8.png">
 
 <br clear="left">
 
@@ -196,8 +196,8 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Westlake Primary School](/school-histories/westlake-pri/) | [Westwood Primary School](/school-histories/westwood-pri/) | [Westwood Secondary School](/school-histories/westwood-sec/) |
 
-<img align="left" style="width:20%;margin-left:75px;" src="/images/crestW8.png">
-<img align="left" style="width:17%;margin-left:105px;" src="/images/crestW9.png">
+<img align="left" style="width:20%;margin-left:75px;" src="/images/crestW9.png">
+<img align="left" style="width:17%;margin-left:105px;" src="/images/crestW10.png">
 <img align="right" style="width:17%;margin-right:65px;" src="/images/crestW10.png">
 
 <br clear="left">
