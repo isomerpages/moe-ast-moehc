@@ -237,7 +237,7 @@ third_nav_title: School Histories
 | [Woodlands Secondary School](/school-histories/woodlands-sec/) | [Woodsville Primary School](/school-histories/woodsville-pri/) | [Woodsville Secondary School](/school-histories/woodsville-sec/) |
 
 <img align="left" style="width:22%;margin-left:45px;" src="/images/crestW21.png">
-<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW21.png">
+<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW22.png">
 <img align="right" style="width:18%;margin-right:65px;" src="/images/crestW22.png">
 
 <br clear="left">
