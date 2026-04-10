@@ -178,7 +178,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestW3.png">
 <img align="left" style="width:18%;margin-left:105px;" src="/images/crestW4.png">
-<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW4.png">
+<img align="right" style="width:18%;margin-right:55px;" src="/images/crestW5.png">
 
 <br clear="left">
 
@@ -186,8 +186,8 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [West Spring Primary School](/school-histories/west-spring-pri/) | [West Spring Secondary School](/school-histories/west-spring-sec/) | [West View Primary School](/school-histories/west-view-pri/) |
 
-<img align="left" style="width:16%;margin-left:85px;" src="/images/crestW5.png">
-<img align="left" style="width:23%;margin-left:95px;" src="/images/crestW6.png">
+<img align="left" style="width:19%;margin-left:85px;" src="/images/crestW6.png">
+<img align="left" style="width:18%;margin-left:95px;" src="/images/crestW7.png">
 <img align="right" style="width:18%;margin-right:55px;" src="/images/crestW7.png">
 
 <br clear="left">
