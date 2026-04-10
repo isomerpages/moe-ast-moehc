@@ -198,7 +198,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:75px;" src="/images/crestW9.png">
 <img align="left" style="width:17%;margin-left:105px;" src="/images/crestW10.png">
-<img align="right" style="width:17%;margin-right:65px;" src="/images/crestW10.png">
+<img align="right" style="width:17%;margin-right:65px;" src="/images/crestW11.png">
 
 <br clear="left">
 
@@ -206,9 +206,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Whampoa Secondary School](/school-histories/whampoa-sec/) | [White Sands Primary School](/school-histories/white-sands-pri/) | [Whitley Secondary School](/school-histories/whitley-sec/) |
 
-<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW11.png">
-<img align="left" style="width:20%;margin-left:105px;" src="/images/crestW12.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW13.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW12.png">
+<img align="left" style="width:20%;margin-left:105px;" src="/images/crestW13.png">
+<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW14.png">
 
 <br clear="left">
 
