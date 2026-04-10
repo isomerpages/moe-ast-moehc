@@ -238,7 +238,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:22%;margin-left:45px;" src="/images/crestW21.png">
 <img align="left" style="width:16%;margin-left:125px;" src="/images/crestW22.png">
-<img align="right" style="width:18%;margin-right:65px;" src="/images/crestW22.png">
+<img align="right" style="width:18%;margin-right:65px;" src="/images/woodsvillesec1.png">
 
 <br clear="left">
 
