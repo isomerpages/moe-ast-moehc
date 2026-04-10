@@ -169,16 +169,15 @@ third_nav_title: School Histories
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestV2.png">
 <img align="left" style="width:22%;margin-left:85px;" src="/images/crestW1.png">
-<img align="right" style="width:22%;margin-right:45px;" src="/images/crestW1.png">
-
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW2.png">
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
 | [Wellington Primary School](/school-histories/wellington-pri/) | [West Grove Primary School](/school-histories/west-grove-pri/) | [West Hill School](/school-histories/west-hill-sch/) |
 
-<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW2.png">
-<img align="left" style="width:18%;margin-left:105px;" src="/images/crestW3.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW3.png">
+<img align="left" style="width:18%;margin-left:105px;" src="/images/crestW4.png">
 <img align="right" style="width:18%;margin-right:55px;" src="/images/crestW4.png">
 
 <br clear="left">
