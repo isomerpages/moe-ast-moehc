@@ -216,9 +216,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Willow Avenue Secondary School](/school-histories/wllow-avenue-sec/) | [Woodgrove Primary School](/school-histories/woodgrove-pri/) | [Woodgrove Secondary School](/school-histories/woodgrove-sec/) |
 
-<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW14.png">
-<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW15.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW16.png">
+<img align="left" style="width:18%;margin-left:75px;" src="/images/crestW15.png">
+<img align="left" style="width:16%;margin-left:125px;" src="/images/crestW16.png">
+<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW17.jpg">
 
 <br clear="left">
 
@@ -226,9 +226,9 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Woodlands Primary School](/school-histories/woodlands-pri/) | [Woodlands Ring Primary School](/school-histories/woodlands-ring-pri/) | [Woodlands Ring Secondary School](/school-histories/woodlands-ring-sec/) |
 
-<img align="left" style="width:16%;margin-left:75px;" src="/images/crestW17.jpg">
-<img align="left" style="width:17%;margin-left:135px;" src="/images/crestW18.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW19.png">
+<img align="left" style="width:16%;margin-left:75px;" src="/images/crestW18.png">
+<img align="left" style="width:17%;margin-left:125px;" src="/images/crestW19.png">
+<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW20.jpg">
 
 <br clear="left">
 
