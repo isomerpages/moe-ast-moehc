@@ -208,7 +208,7 @@ third_nav_title: School Histories
 
 <img align="left" style="width:18%;margin-left:75px;" src="/images/crestW12.png">
 <img align="left" style="width:20%;margin-left:105px;" src="/images/crestW13.png">
-<img align="right" style="width:20%;margin-right:55px;" src="/images/crestW14.png">
+<img align="right" style="width:16%;margin-right:55px;" src="/images/crestW14.png">
 
 <br clear="left">
 
