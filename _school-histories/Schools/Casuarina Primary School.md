@@ -66,4 +66,19 @@ Our school crest paints a picture of an eagle soaring amongst trees. These eleme
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/1KcQfoJmmQpIYq_sSZa9qCoTc5_U6AUpN/view?usp=drive_link">**♫ Listen**</a>
 
-As we grow as one, our journey has begun, rooted in our values we stand tall and strong, reaching out to greater heights, our hopes, our dreams are one. Oh Casuarina, we serve with gratitude and pride, to build a caring community, we’ll be the best we can be. Against all odds, we soar up high, the joy of learning, fills our hearts and minds. When the wind blows, creativity flows. We’ll show the world what we can do. Oh Casuarina, we serve with gratitude and pride, to build a caring community, we’ll be the best we can be.
+As we grow as one,<br> 
+our journey has begun, <br>
+rooted in our values <br>we stand tall and strong, <br>
+reaching out to greater heights, <br> 
+our hopes, our dreams are one. <br> 
+<br>
+Oh Casuarina, we serve with gratitude and pride,<br> 
+to build a caring community, we’ll be the best we can be.<br>
+<br>
+Against all odds, we soar up high, <br>
+the joy of learning, fills our hearts and minds.<br>
+When the wind blows, creativity flows. <br>
+We’ll show the world what we can do. <br>
+<br> 
+Oh Casuarina, we serve with gratitude and pride,<br>
+to build a caring community, we’ll be the best we can be.
