@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/casuarinapri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/casuarina_primary_updated.jpg">
 
 ### **Casuarina Primary School**
 [URL to website](http://www.casuarinapri.moe.edu.sg/) 
