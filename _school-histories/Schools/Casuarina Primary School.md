@@ -52,14 +52,16 @@ Principals:<br>
 | 2019 | School musical, Together, A New Beginning, held at Victoria Theatre. |
 |2019 | Accorded Signature Programme, 'The Art of Language. |
 | 2023 | Opening of MOE Kindergarten @ Casuarina. |
+|2025| School Musical: Together, forging New Pathways. 
 
 #### **School Motto**
 Be the Best We Can Be
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/casuarinapri1.png">
 
-The combination of the ascending trees and the book symbolise progress, both forward and upward, to greater heights of success.&nbsp;**The trees symbolise strength of character. The colour green represents continuous growth, energy and vitality.**&nbsp;The turning of the page reflects the continuous acquisition of knowledge and skills needed to face the many challenges in life.
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/casuarina_primary_updated.jpg">
+
+Our school crest paints a picture of an eagle soaring amongst trees. These elements represent the attributes that will prepare our students for the future: The blue eagle symbolises the sense of confidence and strength that our students possess. Green trees embedded with the turning pages of a book represent the deep-rooted good character of our students as they grow, and acquire knowledge and skills.
 
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/1KcQfoJmmQpIYq_sSZa9qCoTc5_U6AUpN/view?usp=drive_link">**♫ Listen**</a>
