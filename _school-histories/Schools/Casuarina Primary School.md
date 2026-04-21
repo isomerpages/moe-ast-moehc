@@ -66,27 +66,4 @@ Our school crest paints a picture of an eagle soaring amongst trees. These eleme
 #### **School Song**
 <a target="\_blank" href="https://drive.google.com/file/d/1KcQfoJmmQpIYq_sSZa9qCoTc5_U6AUpN/view?usp=drive_link">**♫ Listen**</a>
 
-At Casuarina Primary<br>
-We learn and grow<br>
-Our horizons do broaden<br>
-our potential overflows<br>
-Although we’re young<br>
-We dare to dream<br>
-Striving to be<br>
-The best that we can be
-
-_Overcoming every obstacle_<br>
-_Reaching for the sky_<br>
-_With courage to pursue our dreams_<br>
-_At Casuarina Primary_<br>
-_We will soar to greater heights_
-
-With courage of heart<br>
-And strength of will<br>
-We will never give up<br>
-The dreams that we have built<br>
-Ever ready<br>
-To help one another<br>
-Thinking not just for ourselves<br>
-But caring also for others<br>
-(Chorus)
+As we grow as one, our journey has begun, rooted in our values we stand tall and strong, reaching out to greater heights, our hopes, our dreams are one. Oh Casuarina, we serve with gratitude and pride, to build a caring community, we’ll be the best we can be. Against all odds, we soar up high, the joy of learning, fills our hearts and minds. When the wind blows, creativity flows. We’ll show the world what we can do. Oh Casuarina, we serve with gratitude and pride, to build a caring community, we’ll be the best we can be.
