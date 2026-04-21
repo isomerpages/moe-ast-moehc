@@ -335,7 +335,7 @@ third_nav_title: School Histories
 |:---:|:---:|:---:|
 | [Casuarina Primary School](/school-histories/casuarina-pri/) | [Catholic High School](/school-histories/catholic-high-sch/) | [Catholic Junior College](/school-histories/catholic-jc/) |
 
-<img align="left" style="width:20%;margin-left:65px;" src="/images/crestC8.png">
+<img align="left" style="width:20%;margin-left:65px;" src="/images/School%20Histories/casuarina_primary_updated.jpg">
 <img align="left" style="width:35%;margin-left:75px;" src="/images/crestC9.jpg">
 <img align="right" style="width:20%;margin-right:25px;" src="/images/crestC10.jpg">
 

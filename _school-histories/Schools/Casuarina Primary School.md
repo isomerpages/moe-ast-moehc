@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Schools
 variant: markdown
 ---
-<img align="left" style="width:20%;margin-right:15px;" src="/images/casuarinapri1.png">
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/casuarina_primary_updated.jpg">
 
 ### **Casuarina Primary School**
 [URL to website](http://www.casuarinapri.moe.edu.sg/) 
@@ -52,39 +52,33 @@ Principals:<br>
 | 2019 | School musical, Together, A New Beginning, held at Victoria Theatre. |
 |2019 | Accorded Signature Programme, 'The Art of Language. |
 | 2023 | Opening of MOE Kindergarten @ Casuarina. |
+|2025| School Musical: Together, forging New Pathways. 
 
 #### **School Motto**
 Be the Best We Can Be
 
 #### **School Crest**
-<img align="left" style="width:20%;margin-right:15px;" src="/images/casuarinapri1.png">
 
-The combination of the ascending trees and the book symbolise progress, both forward and upward, to greater heights of success.&nbsp;**The trees symbolise strength of character. The colour green represents continuous growth, energy and vitality.**&nbsp;The turning of the page reflects the continuous acquisition of knowledge and skills needed to face the many challenges in life.
+<img align="left" style="width:20%;margin-right:15px;" src="/images/School%20Histories/casuarina_primary_updated.jpg">
+
+Our school crest paints a picture of an eagle soaring amongst trees. These elements represent the attributes that will prepare our students for the future: The blue eagle symbolises the sense of confidence and strength that our students possess. Green trees embedded with the turning pages of a book represent the deep-rooted good character of our students as they grow, and acquire knowledge and skills.
 
 #### **School Song**
-<a target="\_blank" href="https://drive.google.com/file/d/1hvGZObaHl1fHOkdJo_MpJjuSdYc7zKH4/view?usp=drive_link">**♫ Listen**</a>
+<a target="\_blank" href="https://drive.google.com/file/d/1KcQfoJmmQpIYq_sSZa9qCoTc5_U6AUpN/view?usp=drive_link">**♫ Listen**</a>
 
-At Casuarina Primary<br>
-We learn and grow<br>
-Our horizons do broaden<br>
-our potential overflows<br>
-Although we’re young<br>
-We dare to dream<br>
-Striving to be<br>
-The best that we can be
-
-_Overcoming every obstacle_<br>
-_Reaching for the sky_<br>
-_With courage to pursue our dreams_<br>
-_At Casuarina Primary_<br>
-_We will soar to greater heights_
-
-With courage of heart<br>
-And strength of will<br>
-We will never give up<br>
-The dreams that we have built<br>
-Ever ready<br>
-To help one another<br>
-Thinking not just for ourselves<br>
-But caring also for others<br>
-(Chorus)
+As we grow as one,<br> 
+our journey has begun, <br>
+rooted in our values <br>we stand tall and strong, <br>
+reaching out to greater heights, <br> 
+our hopes, our dreams are one. <br> 
+<br>
+Oh Casuarina, we serve with gratitude and pride,<br> 
+to build a caring community, we’ll be the best we can be.<br>
+<br>
+Against all odds, we soar up high, <br>
+the joy of learning, fills our hearts and minds.<br>
+When the wind blows, creativity flows. <br>
+We’ll show the world what we can do. <br>
+<br> 
+Oh Casuarina, we serve with gratitude and pride,<br>
+to build a caring community, we’ll be the best we can be.
