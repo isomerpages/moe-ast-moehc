@@ -51,7 +51,7 @@ Principals:<br>
 | 2019 | Accorded Applied Learning Programme, ‘Nature-based Education’. |
 | 2019 | School musical, Together, A New Beginning, held at Victoria Theatre. |
 |2019 | Accorded Signature Programme, 'The Art of Language. |
-| 2023 | Opening of MOE Kindergarten @ Casuarina. |
+| 2024 | Opening of MOE Kindergarten @ Casuarina. |
 |2025| School Musical: Together, forging New Pathways. 
 
 #### **School Motto**
