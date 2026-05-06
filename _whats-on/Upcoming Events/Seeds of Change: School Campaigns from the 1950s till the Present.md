@@ -107,7 +107,11 @@ seeds of inspiration for the next generation.   &nbsp;&nbsp;</p>
 </p>
 </li>
 <li>
-<p>MOE Heritage Centre – Sep, Dec 2026    &nbsp;&nbsp;</p>
+<p>MOE Heritage Centre – 2 Jun 2026, 2.00pm <sub>[Open for registration   &nbsp;</sub>
+</p>
+</li>
+<li>
+<p>MOE Heritage Centre – Sep, Dec 2026  &nbsp;</p>
 </li>
 </ul>
 <p></p>
