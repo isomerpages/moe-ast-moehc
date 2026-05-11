@@ -166,7 +166,7 @@ Launch of four student awards recognising holistic development and excellence.</
 </tbody>
 </table>
 <h4><strong>School Motto</strong></h4>
-<p>Steadfast in Spirit, Diligent in Service</p>
+<p>Strive · Excel · Serve 精益求精, 殷勤为众</p>
 <h4><strong>School Crest</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/xinminsec1.png">
