@@ -83,7 +83,7 @@ and a confident leader.</p>
 <p>1945</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Establishment of Sin Min High School as a primary school.</p>
+<p>Established as Sin Min School for primary level students on 1 November.</p>
 </td>
 </tr>
 <tr>
@@ -91,15 +91,24 @@ and a confident leader.</p>
 <p>1956</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Became a government-aided institution with primary and secondary classes.</p>
+<p>Welcomed secondary level students.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1978</p>
+<p>1958</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Became an integrated school with English and Chinese as its media of instruction.</p>
+<p>Raised funds through charity Teochew opera performances and movie screenings
+to expand school facilities.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1983</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transitioned from a Chinese-medium school to an English-medium school.</p>
 </td>
 </tr>
 <tr>
@@ -107,8 +116,8 @@ and a confident leader.</p>
 <p>1990</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Relocation to its present site in Hougang, and renamed as Xinmin Secondary
-School.</p>
+<p>Renamed as Xinmin Secondary School, and moved to its current location
+at Hougang Avenue 8..</p>
 </td>
 </tr>
 <tr>
@@ -116,26 +125,17 @@ School.</p>
 <p>2001</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gained autonomous status.</p>
+<p>Attained MOE’s Autonomous School status, offering a broader curriculum
+to enhance students’ learning and develop their talents.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2008</p>
+<p>2015</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students organised the first National Mother Tongue Symposium for Teachers
-and Students in Singapore.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2010</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Celebration of 65th anniversary. Entered the Singapore Book of Records
-for the largest installation made up of recycled cans – a result of student-led
-project, Yes We Can!</p>
+<p>Completed the construction of a new Creative Arts Complex, providing even
+more platforms for arts education and holistic growth.</p>
 </td>
 </tr>
 <tr>
@@ -149,11 +149,10 @@ Launch of four student awards recognising holistic development and excellence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Repositioning of signature programmes into Coding@Xinmin, RefleXions@Xinmin,
-XinminCares and the Student Leadership Academy.</p>
+<p>Celebrated its 80<sup>th</sup> anniversary with the theme <em>Decades of Dedication</em>: <em>Shaping Future Generations</em>.</p>
 </td>
 </tr>
 <tr>
