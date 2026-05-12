@@ -140,15 +140,6 @@ more platforms for arts education and holistic growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2015</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Celebration of 70th anniversary; Official opening of Creative Arts Complex;
-Launch of four student awards recognising holistic development and excellence.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
