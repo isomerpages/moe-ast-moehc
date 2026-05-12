@@ -3,11 +3,12 @@ title: Xinmin Secondary School
 permalink: /school-histories/xinmin-sec/
 description: ""
 third_nav_title: Schools
-variant: tiptap
+variant: markdown
 ---
 <div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/xinminsec1.png">
+
 </div>
+<img src="/images/xinminsec1.png" style="width:20%;margin-right:15px;" align="left">
 <h3><strong>Xinmin Secondary School</strong></h3>
 <p><a href="https://xinminsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">URL to website</a>
 </p>
@@ -117,7 +118,7 @@ to expand school facilities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Renamed as Xinmin Secondary School, and moved to its current location
-at Hougang Avenue 8..</p>
+at Hougang Avenue 8.</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +161,8 @@ more platforms for arts education and holistic growth.</p>
 <p>Strive · Excel · Serve 精益求精, 殷勤为众</p>
 <h4><strong>School Crest</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:20%;margin-right:15px;" height="auto" width="100%" src="/images/xinminsec1.png">
+
+<img src="/images/xinminsec1.png" style="width:30%;margin-right:15px;" align="left">
 </div>
 <p>The graphic display of grace and exuberance depicts the school’s vibrant
 and dynamic students who are ready to strive, excel and serve. The three
