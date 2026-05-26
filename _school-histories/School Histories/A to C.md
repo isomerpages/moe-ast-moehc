@@ -454,7 +454,7 @@ third_nav_title: School Histories
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [Chung Cheng High School (Main)](/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](/school-histories/chung-cheng-high-sch/) | [Clemeti North Primary School](/school-histories/clementi-north-pri/) |
+| [Chung Cheng High School (Main)](/school-histories/chung-cheng-high-main/) | [Chung Cheng High School (Yishun)](/school-histories/chung-cheng-high-sch/) | [Clementi North Primary School](/school-histories/clementi-north-pri/) |
 
 <img align="left" style="width:20%;margin-left:65px;" src="/images/crestC44.jpg">
 <img align="left" style="width:20%;margin-left:145px;" src="/images/crestC45.jpg">
