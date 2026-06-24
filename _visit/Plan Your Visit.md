@@ -19,9 +19,12 @@ Closed on weekends and public holidays.
 
 
 
-* 7 April 2026 |  2pm - 5pm (last entry
+
+* 30 June 2026 | Full day closure
+* 7 July 2026 | 2pm - 5pm (last entry
 4.30pm)
-* 21 April 2026 | 2pm - 5pm (last entry
+* 18 August 2026 | Full day closure
+* 17 September 2026 | 2pm - 5pm (last entry
 4.30pm)
 
 ### **Contact Details**
