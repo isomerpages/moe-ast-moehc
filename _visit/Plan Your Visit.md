@@ -17,7 +17,7 @@ Closed on weekends and public holidays.
 
 **Please note our gallery's opening hours for the following dates:**
 * 30 June 2026 | Full day closure
-* 7 July 2026 | 2pm - 5pm (last entry 4.30pm)
+* 21 July 2026 | 2pm - 5pm (last entry 4.30pm)
 * 18 August 2026 | Full day closure
 * 17 September 2026 | 2pm - 5pm (last entry 4.30pm)
 
