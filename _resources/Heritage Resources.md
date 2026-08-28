@@ -6,6 +6,23 @@ variant: markdown
 ---
 ### **Heritage Resources**
 
+##### **Gallery Activity Packages – Primary Level**
+
+<img src="/images/Sep_hols_EDM_2026.png" style="width:65%" align="left">
+<br clear="left">
+
+Designed for lower and upper primary students, these engaging gallery resources bring the Singapore Education Story to life through colourful visuals and fun activities.
+
+Syllabus-Aligned: Thoughtfully crafted to complement the Primary Social Studies curriculum.
+
+Use these materials to explore the MOE Heritage Centre with your students!
+
+**Download them here:**<br>
+[Lower Primary Package](https://drive.google.com/file/d/16j6ebH1TeBfX6av39VRRfJ-a62lI_LiJ/view?usp=sharing)<br>
+[Upper Primary Package](https://drive.google.com/file/d/1S6w-TfeDs1eXOd7lNFS3yFzMJbhNIkUR/view?usp=sharing)<br>
+[Lower Primary Package Teachers' Instructions](https://drive.google.com/file/d/1KDdlHLud1A7c3URZllJ9ZvD-KhTzyM2f/view?usp=sharing)<br>
+[Upper Primary Package Teachers' Instructions](https://drive.google.com/file/d/1BSUbT8b9IzDBaVtxx3W16wBe-y9hFG2G/view?usp=sharing)
+
 ##### **Activity: Let's Talk About School - A Family Conversation Card Set**
 
 <img src="/images/familyconvo.png" style="width:65%" align="left">
